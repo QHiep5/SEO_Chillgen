@@ -24,11 +24,11 @@
     "custom-octopus-welcome-mat-coastal-front-door-5012959a0b",
     "personalized-teacher-round-rug-with-name-0e0fa122bd"
   ],
-  "batch_status": "COMPLETED_NEEDS_REVIEW",
-  "awaiting_confirmation": true,
+  "batch_status": "ALL_RESEARCH_BATCHES_COMPLETED",
+  "awaiting_confirmation": false,
   "continuation_confirmation_ref": "USER_CONFIRMED_CONTINUE_B057",
   "current_product_key": null,
-  "current_stage": "B057_COMPLETE_AWAITING_USER_CONFIRMATION",
+  "current_stage": "RESEARCH_CLOSED_READY_FOR_QA",
   "images_completed": [
     "abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46#img_01",
     "abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46#img_02",
@@ -5467,5 +5467,9 @@
     "remaining_products": 0,
     "source": "PUBLIC_PRODUCTS_JSON",
     "completed_at": "2026-09-07T00:00:00+07:00"
-  }
+  },
+  "research_closed_at": "2026-09-07T12:18:58+07:00",
+  "research_closeout_ref": "seo_runs/chillgen.com/chillgen_20260907_01/research_closeout.json",
+  "final_workbook_ref": "resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+  "next_stage": "QA"
 }

@@ -1,0 +1,4084 @@
+{
+  "counts": {
+    "inventory_products": 569,
+    "seo_products": 569,
+    "image_rows": 4962,
+    "product_evidence_rows": 569,
+    "keyword_rows": 1707,
+    "buyer_research_rows": 569
+  },
+  "coverage": {
+    "inventory_equals_seo_order": true,
+    "missing_seo_products": [],
+    "extra_seo_products": [],
+    "duplicate_seo_product_keys": [],
+    "products_without_images": [],
+    "products_without_evidence": [],
+    "products_without_keyword_rows": [],
+    "products_without_buyer_research": []
+  },
+  "status_counts": {
+    "review_status": {
+      "NEEDS_REVIEW": 569
+    },
+    "content_qa_status": {
+      "NOT_RUN": 569
+    },
+    "processing_status": {
+      "DRAFTED": 569
+    },
+    "mapping_status_products": {
+      "NEEDS_REVIEW": 569
+    },
+    "mapping_status_keywords": {
+      "NEEDS_REVIEW": 1707
+    }
+  },
+  "consistency": {
+    "bad_meta_title_char_counts": [],
+    "bad_meta_description_char_counts": [],
+    "blank_primary_keywords": [],
+    "blank_proposed_titles": [],
+    "blank_proposed_meta_titles": [],
+    "blank_proposed_meta_descriptions": [],
+    "blank_proposed_descriptions": [],
+    "invalid_review_status": [],
+    "unexpected_batch_sizes": {},
+    "image_count_mismatches": []
+  },
+  "overlap": {
+    "duplicate_primary_groups": {
+      "ghost well halloween rug": [
+        "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-03",
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-06"
+      ],
+      "ghost staircase halloween rug": [
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-a07",
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-08"
+      ],
+      "ghost vortex halloween rug": [
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-04",
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102"
+      ],
+      "my feelings classroom rug": [
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-110",
+        "feelings-wheel-classroom-welcome-mat-3d070ff949"
+      ],
+      "red orthodox cross rug": [
+        "personalized-orthodox-christian-area-rug-custom-eastern-design-100",
+        "personalized-orthodox-doormat-with-christian-cross-and-eagle-6be5c719a3-6be5c719a3"
+      ],
+      "black gold orthodox cross rug": [
+        "personalized-orthodox-christian-area-rug-custom-eastern-design-102",
+        "personalized-orthodox-christian-area-rug-custom-eastern-design-108"
+      ],
+      "black orthodox cross rug": [
+        "personalized-orthodox-christian-area-rug-custom-eastern-design-104",
+        "personalized-orthodox-christian-area-rug-fb5a56fef9-fb5a56fef9"
+      ],
+      "personalized town road map rug": [
+        "custom-road-map-door-mat-town-design-e3598e955a-e3598e955a",
+        "custom-road-map-play-mat-rug-38a585717c-38a585717c"
+      ],
+      "santa letter christmas doormat": [
+        "personalized-christmas-doormat-1a037c0533",
+        "personalized-christmas-doormat-d7f77b93a8-d7f77b93a8"
+      ],
+      "reading bloom classroom rug": [
+        "colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac",
+        "custom-a-good-day-to-read-book-rug-d1d331ba7d-d1d331ba7d"
+      ],
+      "welcome to classroom rug": [
+        "colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902",
+        "custom-composition-notebook-classroom-rug-for-kids-6480284917-6480284917"
+      ],
+      "future of the world classroom rug": [
+        "colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808",
+        "personalized-composition-notebook-welcome-doormat-379c157fc5"
+      ],
+      "personalized reading gives you wings rug": [
+        "custom-reading-corner-classroom-library-rug-f3d87bd3da",
+        "custom-reading-classroom-library-rug-29b9f9b43d-29b9f9b43d"
+      ],
+      "pink flamingo area rug": [
+        "custom-flamingo-doormat-pink-bird-floral-b8f6e38c9d",
+        "custom-pink-flamingo-welcome-mat-98ad4e675e"
+      ]
+    },
+    "duplicate_meta_title_groups": {
+      "ghost staircase halloween round rug": [
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-a07",
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-08"
+      ],
+      "my feelings classroom rug": [
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-110",
+        "feelings-wheel-classroom-welcome-mat-3d070ff949"
+      ],
+      "black gold orthodox cross rug": [
+        "personalized-orthodox-christian-area-rug-custom-eastern-design-102",
+        "personalized-orthodox-christian-area-rug-custom-eastern-design-108"
+      ],
+      "black orthodox cross rug": [
+        "personalized-orthodox-christian-area-rug-custom-eastern-design-104",
+        "personalized-orthodox-christian-area-rug-fb5a56fef9-fb5a56fef9"
+      ],
+      "personalized town road map rug": [
+        "custom-road-map-door-mat-town-design-e3598e955a-e3598e955a",
+        "custom-road-map-play-mat-rug-38a585717c-38a585717c"
+      ],
+      "santa letter christmas doormat": [
+        "personalized-christmas-doormat-1a037c0533",
+        "personalized-christmas-doormat-d7f77b93a8-d7f77b93a8"
+      ],
+      "future of the world classroom rug": [
+        "colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808",
+        "personalized-composition-notebook-welcome-doormat-379c157fc5"
+      ]
+    },
+    "duplicate_meta_description_groups": {},
+    "keyword_terms_on_multiple_products": {
+      "halloween rug": [
+        {
+          "product_key": "custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-03",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-02",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-01",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-dog-photo-rug-personalized-pet-portrait-area-mat-non-slip",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-102",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-101",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-100",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-halloween-3d-optical-illusion-shaped-rug-a04-a04",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-halloween-3d-effect-optical-illusion-spooky-round-rug-d9-d9",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-06",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-orthodox",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-100",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-101",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-102",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-103",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-104",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-105",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-106",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-107",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-108",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "sugar skull halloween rug": [
+        {
+          "product_key": "personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-100",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-witch-area-rug-with-name-custom-halloween-r-design-04",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "personalized halloween rug": [
+        {
+          "product_key": "personalized-halloween-3d-optical-illusion-shaped-rug-a04-a04",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-witch-area-rug-with-name-custom-halloween-rug-black",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-witch-area-rug-with-name-custom-halloween-r-design-05",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-witch-area-rug-with-name-custom-halloween-r-design-09",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-witch-area-rug-with-name-custom-halloween-r-design-04",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-witch-area-rug-with-name-custom-halloween-r-design-02",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-witch-area-rug-with-name-custom-halloween-r-design-06",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-witch-area-rug-with-name-custom-halloween-r-design-08",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-witch-area-rug-with-name-custom-halloween-r-design-10",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-witch-area-rug-with-name-custom-halloween-r-design-01",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-witch-area-rug-with-name-custom-halloween-r-design-12",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-witch-area-rug-with-name-custom-halloween-r-design-11",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "octopus tentacle rug": [
+        {
+          "product_key": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-04",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-octopus-welcome-mat-entryway-living-room-3387fa82d0",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "halloween round rug": [
+        {
+          "product_key": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-04",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-14",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-05",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-01",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-08",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-03",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-10",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-07",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-halloween-3d-optical-illusion-ghost-round-rug-a07",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-12",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-05",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-04",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-03",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-11",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-01",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-08",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-09",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-06",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-02",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "haunted house round rug": [
+        {
+          "product_key": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-05",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "ghost well halloween rug": [
+        {
+          "product_key": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-03",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-06",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "ghost optical illusion rug": [
+        {
+          "product_key": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-03",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-04",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "spider optical illusion rug": [
+        {
+          "product_key": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-07",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-11",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "ghost staircase halloween rug": [
+        {
+          "product_key": "personalized-halloween-3d-optical-illusion-ghost-round-rug-a07",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-08",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "haunted staircase rug": [
+        {
+          "product_key": "personalized-halloween-3d-optical-illusion-ghost-round-rug-a07",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-08",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "ghost vortex halloween rug": [
+        {
+          "product_key": "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-04",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "gothic raven rug": [
+        {
+          "product_key": "personalized-witch-area-rug-with-name-custom-halloween-r-design-01",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "football rug": [
+        {
+          "product_key": "personalized-football-shaped-rug-non-slip-washable-sport-design-03",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-football-shaped-rug-non-slip-washable-sport-design-02",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-football-shaped-rug-non-slip-washable-sport-design-01",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-football-shaped-rug-non-slip-washable-sport-design-05",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-football-shaped-rug-non-slip-washable-sport-carpet-a04",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "dragon rug": [
+        {
+          "product_key": "custom-dragon-shaped-area-rug-personalized-library-wester-design-02",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-dragon-shaped-area-rug-personalized-library-wester-design-08",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-dragon-shaped-area-rug-personalized-library-wester-design-05",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-dragon-shaped-area-rug-personalized-library-wester-design-07",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-dragon-shaped-area-rug-personalized-library-wester-design-03",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-dragon-shaped-area-rug-personalized-library-wester-design-04",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-dragon-shaped-area-rug-personalized-library-wester-design-10",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-dragon-shaped-area-rug-personalized-library-wester-design-01",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-dragon-shaped-area-rug-personalized-library-wester-design-06",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-dragon-shaped-area-rug-personalized-library-western-dragon",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "dragon book rug": [
+        {
+          "product_key": "custom-dragon-shaped-area-rug-personalized-library-wester-design-08",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-dragon-shaped-area-rug-personalized-library-wester-design-03",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-dragon-shaped-area-rug-personalized-library-wester-design-04",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-dragon-shaped-area-rug-personalized-library-wester-design-10",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-dragon-shaped-area-rug-personalized-library-western-dragon",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-dragon-round-rug-3d-illusion-4ca1b4fcd0",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "dragon library rug": [
+        {
+          "product_key": "custom-dragon-shaped-area-rug-personalized-library-wester-design-07",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-dragon-shaped-area-rug-personalized-library-wester-design-01",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-3d-dragon-round-rug-77aa65f879",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "dog rug": [
+        {
+          "product_key": "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "dog paw patchwork rug": [
+        {
+          "product_key": "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "custom dog photo welcome mat": [
+        {
+          "product_key": "personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "dog welcome mat": [
+        {
+          "product_key": "personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "custom pet photo doormat": [
+        {
+          "product_key": "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "pet doormat": [
+        {
+          "product_key": "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-christmas-doormat-with-custom-family-name-d66e920e14",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "custom dog photo doormat": [
+        {
+          "product_key": "personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-running-horse-welcome-mat-09686138f0",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "koi rug": [
+        {
+          "product_key": "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "japanese koi fish rug": [
+        {
+          "product_key": "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-japanese-koi-fish-shaped-area-rug-925e5d0767",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "custom boat name rug": [
+        {
+          "product_key": "boat-rug-03-boat-rug-03-design-22",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-09",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "boat rug": [
+        {
+          "product_key": "boat-rug-03-boat-rug-03-design-22",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-02",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "boat-rug-10-boat-rug-10-design-10",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "nautical rug": [
+        {
+          "product_key": "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-09",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "boat-rug-04-boat-rug-04",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "custom family name beach rug": [
+        {
+          "product_key": "personalized-tropical-beach-rug-custom-family-name-tropic-design-02",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-tropical-beach-rug-custom-family-name-tropic-design-04",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "beach rug": [
+        {
+          "product_key": "personalized-tropical-beach-rug-custom-family-name-tropic-design-02",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-tropical-beach-rug-custom-family-name-tropic-design-05",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "classroom rug": [
+        {
+          "product_key": "personalized-calming-corner-rug-for-classroom-custom-teacher-name",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-family-couple-doormat-custom-couple-husband-design-03",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-family-couple-doormat-custom-couple-husband-design-04",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-soccer-championship-round-rug-world-flags-d1d1d396af",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-album-cover-rug-3bfef01c49-3bfef01c49",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-music-album-cover-rug-5088343293-5088343293",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-composition-notebook-classroom-kids-rug-a5df2f88fd-a5df2f88fd",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-e78523a9ef-e78523a9ef",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-motivational-classroom-rug-for-kids-50daea8577",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-motivational-classroom-rug-for-kids-bb1a76e628",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-motivational-classroom-rug-kids-c5c4db7870",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-motivational-classroom-rug-for-kids-43aa6a180c",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "custom teacher calm corner rug": [
+        {
+          "product_key": "personalized-calming-corner-rug-for-classroom-custom-tea-design-100",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-calming-corner-rug-for-classroom-custom-tea-design-103",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "sel rug": [
+        {
+          "product_key": "personalized-calming-corner-rug-for-classroom-custom-tea-design-102",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-teacher-classroom-rug-custom-back-to-school-design-100",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-motivational-classroom-rug-for-kids-c304c62374-c304c62374",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "custom teacher classroom rug": [
+        {
+          "product_key": "personalized-teachers-classroom-rug-custom-teacher-name-c-design-03",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-teachers-classroom-rug-custom-teacher-name-c-design-09",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "customized-composition-notebook-classroom-rug-bf478c5c0a",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "custom teacher name rug": [
+        {
+          "product_key": "personalized-teachers-classroom-rug-custom-teacher-name-c-design-02",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-classroom-notebook-educational-round-rug-a132085cd6",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-with-plush-memory-foam-75c4b7b9bc",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-classroom-notebook-rug-5152bc0672",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "personalized classroom welcome rug": [
+        {
+          "product_key": "personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-teacher-classroom-rug-custom-back-to-school-design-109",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "customized-composition-notebook-classroom-rug-7b0ed5679d",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "custom teacher welcome rug": [
+        {
+          "product_key": "personalized-teacher-classroom-rug-custom-back-to-school-design-101",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-teacher-classroom-rug-custom-back-to-school-design-103",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "customized-composition-notebook-classroom-rug-for-kids-94f3ffcafa",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "teacher rug": [
+        {
+          "product_key": "personalized-teacher-classroom-rug-custom-back-to-school-design-101",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-teacher-classroom-rug-custom-back-to-school-design-109",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-soccer-2026-round-rug-trophy-flag-design-8257f0bdff",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-for-kids-975402570a-975402570a",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-classroom-doormat-custom-teacher-name-45bc0142b3",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-notebook-classroom-welcome-mat-debe0fd4d9",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-teacher-round-rug-with-name-0e0fa122bd",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "personalized teacher welcome rug": [
+        {
+          "product_key": "personalized-teacher-classroom-rug-custom-back-to-school-design-104",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-teacher-classroom-rug-custom-back-to-school-design-111",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "welcome mat": [
+        {
+          "product_key": "personalized-teacher-classroom-rug-custom-back-to-school-design-104",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-tree-of-life-welcome-mat-e20613a50e-e20613a50e",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-mathematics-educational-welcome-mat-627c4013d4",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-octopus-sea-monster-welcome-mat-273aa005c8",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-reading-corner-welcome-mat-941ccd58e8-941ccd58e8",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-hunting-welcome-doormat-custom-family-name-e9839e2783",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-golf-welcome-mat-7fa10153d4-7fa10153d4",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-math-classroom-welcome-mat-93506f16cb-93506f16cb",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-music-album-cover-welcome-mat-4a66513e5d-4a66513e5d",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-classroom-doormat-605767e184",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "customized-composition-notebook-classroom-rug-7b0ed5679d",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "affirmation rug": [
+        {
+          "product_key": "personalized-teacher-classroom-rug-custom-back-to-school-design-105",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-motivational-classroom-rug-for-kids-fe3841c6fe",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "rainbow rug": [
+        {
+          "product_key": "personalized-teacher-classroom-rug-custom-back-to-school-design-108",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-teacher-classroom-rug-custom-back-to-school-design-111",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-motivational-classroom-rug-for-kids-dbde19466a",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "personalized teacher classroom rug": [
+        {
+          "product_key": "personalized-teacher-classroom-rug-custom-back-to-school-design-110",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-for-kids-64af3c74f1",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-for-kids-975402570a-975402570a",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-notebook-classroom-welcome-mat-debe0fd4d9",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "emotion wheel": [
+        {
+          "product_key": "wheel-of-feelings-and-emotions-round-rug-educational-mental-health",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-102",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-111",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "feelings wheel rug": [
+        {
+          "product_key": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-100",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-103",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-106",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-108",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "wheel-of-feelings-and-emotions-round-rug-2ec976598b",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-mathematics-education-rug-3015a3c96c",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "wheel-of-feelings-and-emotions-round-rug-01636a663b",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-abc-educational-classroom-round-rug-33de96c620-33de96c620",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "emotions classroom rug": [
+        {
+          "product_key": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-101",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-soccer-championship-round-rug-6b6ea4fbf7",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "feelings-wheel-emotions-round-rug-f48bff995a",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "feelings-wheel-emotions-round-rug-fca05b7c0f",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "feelings classroom rug": [
+        {
+          "product_key": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-102",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "feelings-wheel-round-classroom-rug-4be50a20fb",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "feelings wheel classroom rug": [
+        {
+          "product_key": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-104",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "wheel-of-feelings-and-emotions-round-rug-a7bf6ef454",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-christmas-doormat-with-custom-family-name-315531dc75-315531dc75",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "wheel-of-feelings-and-emotions-round-rug-de39e76902",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "mental health rug": [
+        {
+          "product_key": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-104",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-110",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "feelings rug": [
+        {
+          "product_key": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-105",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-109",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "my feelings classroom rug": [
+        {
+          "product_key": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-110",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "feelings-wheel-classroom-welcome-mat-3d070ff949",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "kids feelings rug": [
+        {
+          "product_key": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-110",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "feeling-rugs-kids-mental-health-brain-area-rug-fae7deacd8",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "family doormat": [
+        {
+          "product_key": "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "halloween optical illusion rug": [
+        {
+          "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "skeleton rug": [
+        {
+          "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "round rug": [
+        {
+          "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-3d-dragon-round-rug-5315fbccc7",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "christian prayer room rug": [
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-orthodox",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-101",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-102",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-105",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-106",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-107",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-108",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "red orthodox cross rug": [
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-100",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-orthodox-doormat-with-christian-cross-and-eagle-6be5c719a3-6be5c719a3",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-teachers-classroom-rug-with-custom-name-87d858996b",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "christian prayer rug": [
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-100",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-103",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-composition-notebook-classroom-shaped-rugs-design-2222",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "black gold orthodox cross rug": [
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-102",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-108",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "black orthodox cross rug": [
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-104",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-fb5a56fef9-fb5a56fef9",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "teacher classroom rug": [
+        {
+          "product_key": "personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-composition-notebook-classroom-shaped-rugs-design-2225",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-family-couple-doormat-custom-couple-husband-design-05",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-fb5a56fef9-fb5a56fef9",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "orthodox cross rug": [
+        {
+          "product_key": "personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-composition-notebook-classroom-shaped-rugs-design-2224",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "colorful-classroom-rug-for-kids-e5ed693d3f",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "personalized classroom rug": [
+        {
+          "product_key": "personalized-composition-notebook-classroom-shaped-rugs-design-2222",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "colorful-handprints-kids-classroom-area-rug-9f8e77de21",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "couple doormat": [
+        {
+          "product_key": "personalized-composition-notebook-classroom-shaped-rugs-design-2223",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-composition-notebook-classroom-shaped-rugs-design-2225",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-mathematics-education-rug-classroom-playroom-eee0004975",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "custom couple doormat": [
+        {
+          "product_key": "personalized-family-couple-doormat-custom-couple-husband-design-05",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-family-couple-doormat-custom-couple-husband-wife-doormat",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "personalized couple doormat": [
+        {
+          "product_key": "personalized-family-couple-doormat-custom-couple-husband-design-03",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-family-couple-doormat-custom-couple-husband-design-04",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-family-couple-doormat-custom-couple-husband-design-02",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "soccer rug": [
+        {
+          "product_key": "personalized-family-couple-doormat-custom-couple-husband-design-02",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "feelings-wheel-round-classroom-rug-4be50a20fb",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-album-cover-area-rug-52d1b2412d-52d1b2412d",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "abc classroom rug": [
+        {
+          "product_key": "personalized-family-couple-doormat-custom-couple-husband-wife-doormat",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "feelings-wheel-emotions-round-rug-0f979e072d-0f979e072d",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "soccer round rug": [
+        {
+          "product_key": "custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-soccer-championship-round-rug-6b6ea4fbf7",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "soccer trophy rug": [
+        {
+          "product_key": "custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "soccer championship rug": [
+        {
+          "product_key": "custom-soccer-championship-round-rug-106971c407",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-soccer-championship-round-rug-world-flags-d1d1d396af",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "octopus rug": [
+        {
+          "product_key": "custom-soccer-championship-round-rug-106971c407",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "soccer stadium rug": [
+        {
+          "product_key": "personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-soccer-2026-area-rug-c2d07261b5",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "octopus tentacle shaped rug": [
+        {
+          "product_key": "custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "octopus area rug": [
+        {
+          "product_key": "custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-octopus-shaped-area-rug-0acb5a8130-0acb5a8130",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-octopus-welcome-mat-entryway-464c692e0a",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "math rug": [
+        {
+          "product_key": "feelings-wheel-emotions-round-rug-f48bff995a",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-mathematics-education-rug-6494449be8-6494449be8",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-mathematics-education-rug-80ab855e16-80ab855e16",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-mathematics-education-rug-677ea4d8b5-677ea4d8b5",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-non-slip-a1d50055bf",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "classroom library rug": [
+        {
+          "product_key": "custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-reading-corner-classroom-library-mat-40b8909d74-40b8909d74",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-reading-corner-classroom-library-rug-4a41f4c798-4a41f4c798",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-vintage-baseball-area-rug-b5f20ad4f5",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-tree-of-knowledge-classroom-library-rug-077de4a60b",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-reading-adventure-classroom-library-rug-7956abd8c9",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "reading rug": [
+        {
+          "product_key": "feelings-wheel-classroom-welcome-mat-3d070ff949",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-a-good-day-to-read-book-rug-d1d331ba7d-d1d331ba7d",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "customized-composition-notebook-classroom-rug-bf478c5c0a",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "composition notebook classroom rug": [
+        {
+          "product_key": "custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-composition-notebook-classroom-rugs-for-kids-88021773b3",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "personalized song rug": [
+        {
+          "product_key": "personalized-album-cover-rug-4af618eed5",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-album-cover-rug-abb1eeca32",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-music-album-cover-welcome-mat-4a66513e5d-4a66513e5d",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "custom song rug": [
+        {
+          "product_key": "personalized-album-cover-welcome-mat-26099b1534",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-music-album-cover-welcome-mat-6b66b8a24c",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-music-album-cover-area-rug-9547d6169f-9547d6169f",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "custom music rug": [
+        {
+          "product_key": "personalized-album-cover-area-rug-648fd8e2ff",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-album-cover-rug-75f5a15f3e-75f5a15f3e",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "custom album cover rug": [
+        {
+          "product_key": "custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-music-album-cover-area-rug-d939ed2f4e",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-music-album-doormat-front-door-b42677b9b9",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "kids road map rug": [
+        {
+          "product_key": "personalized-album-cover-rug-abb1eeca32",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-road-map-door-mat-town-design-e3598e955a-e3598e955a",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-bear-paw-print-area-rug-7ff5dd63e9",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "personalized town road map rug": [
+        {
+          "product_key": "custom-road-map-door-mat-town-design-e3598e955a-e3598e955a",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-road-map-play-mat-rug-38a585717c-38a585717c",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "album cover rug": [
+        {
+          "product_key": "custom-road-map-door-mat-town-design-e3598e955a-e3598e955a",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "personalized road map rug": [
+        {
+          "product_key": "custom-road-map-area-rug-d39d38a4a8",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "music rug": [
+        {
+          "product_key": "custom-road-map-area-rug-60aa327740",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-music-album-cover-area-rug-d939ed2f4e",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "christmas doormat": [
+        {
+          "product_key": "custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-classroom-library-reading-rug-9121bf7e9f-9121bf7e9f",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "wheel-of-feelings-and-emotions-round-rug-8a745f7f62",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "personalized christmas doormat": [
+        {
+          "product_key": "personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-christmas-doormat-1a037c0533",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-christmas-doormat-d7f77b93a8-d7f77b93a8",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-christmas-doormat-with-custom-family-name-315531dc75-315531dc75",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "santa letter christmas doormat": [
+        {
+          "product_key": "personalized-christmas-doormat-1a037c0533",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-christmas-doormat-d7f77b93a8-d7f77b93a8",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "classroom reading rug": [
+        {
+          "product_key": "custom-kids-read-book-rug-classroom-library-eaedf8485b",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-reading-classroom-library-rug-bdef6840ec-bdef6840ec",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-family-name-welcome-doormat-front-door-6831756395-6831756395",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "colorful-handprints-kids-classroom-rug-51f01db413-51f01db413",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "custom classroom library rug": [
+        {
+          "product_key": "custom-classroom-library-reading-rug-9121bf7e9f-9121bf7e9f",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-classroom-library-reading-rug-dfdbf660e0",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "personalized teacher rug": [
+        {
+          "product_key": "custom-bookshelf-classroom-library-reading-rug-75ece72c91",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-notebook-welcome-mat-for-classroom-and-school-864ed94fd6",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "personalized baseball rug": [
+        {
+          "product_key": "custom-baseball-vintage-pattern-area-rug-non-slip-a74f120767",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-vintage-baseball-area-rug-b5f20ad4f5",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "reading corner rug": [
+        {
+          "product_key": "custom-baseball-vintage-pattern-area-rug-non-slip-a74f120767",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-reading-tree-classroom-rug-b66c4b4a97",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-motivational-classroom-rug-for-kids-6b9a9da243",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "cool kids read books rug": [
+        {
+          "product_key": "custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "reading bloom classroom rug": [
+        {
+          "product_key": "colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-a-good-day-to-read-book-rug-d1d331ba7d-d1d331ba7d",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "you matter classroom rug": [
+        {
+          "product_key": "colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "colorful-classroom-rug-for-kids-877e4e6020-877e4e6020",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "be values classroom rug": [
+        {
+          "product_key": "colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "welcome to classroom rug": [
+        {
+          "product_key": "colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-for-kids-6480284917-6480284917",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "growth mindset classroom rug": [
+        {
+          "product_key": "colorful-classroom-rug-for-kids-e5ed693d3f",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-orthodox-christian-three-bar-cross-rug-c6332608db",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "change your words classroom rug": [
+        {
+          "product_key": "colorful-classroom-rug-for-kids-a44b91f2e4",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "motivational classroom rug": [
+        {
+          "product_key": "colorful-classroom-rug-handprints-quotes-6a4adbacc3",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-motivational-classroom-rug-kids-c08ac9a601",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "future of the world classroom rug": [
+        {
+          "product_key": "colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-composition-notebook-welcome-doormat-379c157fc5",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "orthodox christian rug": [
+        {
+          "product_key": "personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-orthodox-doormat-with-christian-cross-and-eagle-6be5c719a3-6be5c719a3",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-fb5a56fef9-fb5a56fef9",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "orthodox christian area rug": [
+        {
+          "product_key": "personalized-orthodox-christian-three-bar-cross-rug-c6332608db",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-00beb8fce2",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "orthodox eagle rug": [
+        {
+          "product_key": "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-orthodox-rug-three-bar-cross-byzantine-eagle-d81169235b-d81169235b",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-teachers-classroom-rules-rug-b0d7bd292a-b0d7bd292a",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "classroom rules rug": [
+        {
+          "product_key": "personalized-orthodox-doormat-with-christian-cross-and-eagle-6be5c719a3-6be5c719a3",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-teachers-classroom-rules-rug-b0d7bd292a-b0d7bd292a",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-octopus-shaped-area-rug-9041fd8f83",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-teachers-classroom-rules-area-rug-df4fbe7b91",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "octopus shaped rug": [
+        {
+          "product_key": "personalized-orthodox-christian-area-rug-00beb8fce2",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-octopus-shaped-area-rug-a96e544960-a96e544960",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-octopus-sea-monster-welcome-mat-273aa005c8",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "calming techniques rug": [
+        {
+          "product_key": "custom-orthodox-rug-three-bar-cross-byzantine-eagle-d81169235b-d81169235b",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-classroom-rules-rug-with-custom-teacher-name-ad0787fb44",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "calm down classroom rug": [
+        {
+          "product_key": "personalized-classroom-rules-welcome-mat-07b188eb0d",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-teachers-classroom-rug-with-custom-name-87d858996b",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "classroom calm corner rug": [
+        {
+          "product_key": "personalized-classroom-rules-rug-custom-teacher-name-2b9854c06f",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-motivational-classroom-rug-for-kids-1499e819f7-1499e819f7",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "running horse rug": [
+        {
+          "product_key": "custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-classroom-welcome-mat-teacher-name-ff4e426bbe",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "tree of life rug": [
+        {
+          "product_key": "custom-octopus-sea-monster-welcome-mat-c69579f5ed",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "celtic-tree-of-life-indoor-area-rug-aa71e362a6-aa71e362a6",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "western horse rug": [
+        {
+          "product_key": "custom-octopus-shaped-area-rug-a96e544960-a96e544960",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-running-horse-welcome-mat-5c3fa81b88",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-running-horse-doormat-2a0ef19423-2a0ef19423",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "horse area rug": [
+        {
+          "product_key": "custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-classroom-doormat-teacher-name-notebook-pattern-42da091fe1-42da091fe1",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-classroom-doormat-welcome-class-door-mat-f34045b91d",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-running-horse-welcome-mat-09686138f0",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "tree of life area rug": [
+        {
+          "product_key": "tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-running-horse-area-rug-5eadea7a69",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "two horse area rug": [
+        {
+          "product_key": "custom-running-horse-welcome-mat-fade3d1429",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-running-horse-area-rug-2f0ce836fd-2f0ce836fd",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "sunset running horse rug": [
+        {
+          "product_key": "custom-running-horse-welcome-mat-fade3d1429",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-running-horse-welcome-mat-34b7c38f01",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "tribal horse area rug": [
+        {
+          "product_key": "custom-running-horse-doormat-2a0ef19423-2a0ef19423",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "floral horse rug": [
+        {
+          "product_key": "custom-running-horse-doormat-2a0ef19423-2a0ef19423",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-running-horse-doormat-b25dd5e514",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-running-horse-welcome-mat-01f80a49ee",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "fire horse area rug": [
+        {
+          "product_key": "custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-running-horse-welcome-mat-01f80a49ee",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "black horse portrait rug": [
+        {
+          "product_key": "custom-running-horse-welcome-mat-34b7c38f01",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "equestrian area rug": [
+        {
+          "product_key": "custom-running-horse-welcome-mat-34b7c38f01",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-classroom-welcome-doormat-notebook-rug-8e1bdf83d4",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-wolf-print-welcome-mat-89ae1c27ae",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "horse eye area rug": [
+        {
+          "product_key": "custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-running-horse-welcome-mat-f114a916e7-f114a916e7",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-running-horse-welcome-mat-a4c32dbbfa-a4c32dbbfa",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "running horses area rug": [
+        {
+          "product_key": "custom-running-horse-welcome-mat-f114a916e7-f114a916e7",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-running-horse-welcome-mat-a4c32dbbfa-a4c32dbbfa",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "classroom welcome mat": [
+        {
+          "product_key": "custom-running-horse-area-rug-2f0ce836fd-2f0ce836fd",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-soccer-2026-area-rug-73a22990b0-73a22990b0",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "notebook teacher mat": [
+        {
+          "product_key": "custom-running-horse-area-rug-31f0e158c5",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-classroom-doormat-with-custom-teacher-name-675f2e0900",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "personalized teacher doormat": [
+        {
+          "product_key": "personalized-classroom-doormat-teacher-name-notebook-pattern-42da091fe1-42da091fe1",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-classroom-welcome-doormat-notebook-rug-8e1bdf83d4",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-classroom-doormat-welcome-class-door-mat-f34045b91d",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-classroom-doormat-with-custom-teacher-name-675f2e0900",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-classroom-doormat-welcome-to-class-door-mat-1086025b51",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-classroom-doormat-with-custom-teacher-name-ae6fef4505-ae6fef4505",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-classroom-welcome-doormat-77047e9c34-77047e9c34",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-classroom-welcome-doormat-2f0308422b-2f0308422b",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "personalized classroom welcome mat": [
+        {
+          "product_key": "personalized-classroom-welcome-mat-teacher-name-ff4e426bbe",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-classroom-welcome-doormat-2820e17d05-2820e17d05",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "tribal classroom welcome mat": [
+        {
+          "product_key": "personalized-classroom-doormat-welcome-class-door-mat-f34045b91d",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-classroom-welcome-doormat-notebook-rug-508fa38fe3",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "better with you classroom mat": [
+        {
+          "product_key": "personalized-classroom-welcome-doormat-notebook-rug-508fa38fe3",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-classroom-doormat-custom-teacher-name-753f4f3532-753f4f3532",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "personalized classroom doormat": [
+        {
+          "product_key": "personalized-classroom-welcome-doormat-notebook-rug-508fa38fe3",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-classroom-doormat-teacher-notebook-a1ca00cc38-a1ca00cc38",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-classroom-doormat-welcome-to-class-door-mat-a74c09137b",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-classroom-doormat-with-custom-teacher-name-956ffe5ee5",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-classroom-welcome-doormat-b5fe59f765-b5fe59f765",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-classroom-doormat-605767e184",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "happy to see your face mat": [
+        {
+          "product_key": "personalized-classroom-doormat-with-custom-teacher-name-675f2e0900",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-classroom-welcome-doormat-3d9f3ec373",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "red doodle classroom mat": [
+        {
+          "product_key": "personalized-classroom-welcome-doormat-2820e17d05-2820e17d05",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-classroom-doormat-welcome-to-class-door-mat-1086025b51",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "green classroom doormat": [
+        {
+          "product_key": "personalized-classroom-welcome-doormat-2820e17d05-2820e17d05",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-classroom-doormat-welcome-to-class-door-mat-1086025b51",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "school supplies classroom mat": [
+        {
+          "product_key": "personalized-classroom-welcome-doormat-b404579ec3-b404579ec3",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-classroom-welcome-doormat-b5fe59f765-b5fe59f765",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "math teacher classroom mat": [
+        {
+          "product_key": "personalized-classroom-welcome-doormat-77047e9c34-77047e9c34",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-classroom-welcome-doormat-2f0308422b-2f0308422b",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-soccer-2026-area-rug-a60ad6dcf9-a60ad6dcf9",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "usa road to glory soccer rug": [
+        {
+          "product_key": "personalized-soccer-2026-area-rug-73a22990b0-73a22990b0",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-soccer-trophy-world-flags-doormat-00f2f9bbfa",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "soccer 2026 area rug": [
+        {
+          "product_key": "personalized-soccer-2026-area-rug-73a22990b0-73a22990b0",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-soccer-2026-area-rug-c2d07261b5",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-soccer-2026-area-rug-a60ad6dcf9-a60ad6dcf9",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-soccer-2026-area-rug-95231047da-95231047da",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-dog-welcome-mat-front-door-36fdce22f9",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "soccer trophy area rug": [
+        {
+          "product_key": "personalized-soccer-trophy-world-flags-doormat-00f2f9bbfa",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-soccer-trophy-area-rug-05582886df",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "usa world game 2026 rug": [
+        {
+          "product_key": "custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "world game 2026 round rug": [
+        {
+          "product_key": "custom-soccer-round-rug-trophy-championship-043ff71141",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "soccer trophy round rug": [
+        {
+          "product_key": "custom-soccer-round-rug-trophy-championship-043ff71141",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "personalized dog welcome mat": [
+        {
+          "product_key": "personalized-dog-welcome-mat-front-door-36fdce22f9",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-dog-welcome-mat-custom-pet-name-a66d52e9f8",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-dog-welcome-mat-custom-text-non-slip-backing-17fda5bd64-17fda5bd64",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "hope you like dogs mat": [
+        {
+          "product_key": "personalized-dog-welcome-mat-custom-pet-name-a66d52e9f8",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-halloween-dog-doormat-107f4d9fa1-107f4d9fa1",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "custom halloween dog doormat": [
+        {
+          "product_key": "custom-halloween-dog-doormat-107f4d9fa1-107f4d9fa1",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-halloween-dog-doormat-a6bfd1d512-a6bfd1d512",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "bat shaped halloween pet mat": [
+        {
+          "product_key": "custom-halloween-dog-doormat-f86bd3c362-f86bd3c362",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-dog-doormat-custom-text-non-slip-c76f704530",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "galaxy wolves welcome mat": [
+        {
+          "product_key": "custom-running-horse-welcome-mat-60ae7781a9",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-galaxy-wolves-welcome-mat-f320a33157",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "white horse golden halo rug": [
+        {
+          "product_key": "custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "galaxy wolves area rug": [
+        {
+          "product_key": "custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "custom kids road map rug": [
+        {
+          "product_key": "custom-road-map-area-rug-81bfb9cda4-81bfb9cda4",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-road-map-play-mat-rug-38a585717c-38a585717c",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "kids city road play rug": [
+        {
+          "product_key": "custom-road-map-area-rug-81bfb9cda4-81bfb9cda4",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-galaxy-wolf-welcome-mat-0e4d706227",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "foggy forest wolf rug": [
+        {
+          "product_key": "custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "galaxy wolf area rug": [
+        {
+          "product_key": "custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "blue moon wolf lake rug": [
+        {
+          "product_key": "galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "road map play rug": [
+        {
+          "product_key": "galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-composition-notebook-classroom-rugs-for-kids-88021773b3",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "tribal medallion wolf rug": [
+        {
+          "product_key": "custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "floral line art wolf rug": [
+        {
+          "product_key": "galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-galaxy-wolves-rug-boy-room-e0ded989b1",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "black floral bear shaped rug": [
+        {
+          "product_key": "custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-bear-paw-print-area-rug-a5abc100ab",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "custom bear paw area rug": [
+        {
+          "product_key": "custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-bear-paw-print-area-rug-a43b3e3594",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "patchwork paw shaped rug": [
+        {
+          "product_key": "custom-dog-paw-print-shaped-rug-39afbc78d5",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-bear-paw-print-area-rug-a43b3e3594",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "teal southwestern paw rug": [
+        {
+          "product_key": "custom-bear-paw-print-area-rug-7ff5dd63e9",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "wood slice bear paw rug": [
+        {
+          "product_key": "custom-bear-paw-print-area-rug-a43b3e3594",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "alphabet town road play rug": [
+        {
+          "product_key": "custom-road-map-area-rug-play-mat-baa948f510-baa948f510",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-road-map-area-rug-play-mat-9cf6abf61b",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "teaching clock round rug": [
+        {
+          "product_key": "wheel-of-feelings-and-emotions-round-rug-01636a663b",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "wheel-of-feelings-and-emotions-round-rug-697b1d04c9",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "rainbow affirmation classroom rug": [
+        {
+          "product_key": "classroom-round-rug-educational-feelings-carpet-6f4ceb729b",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-motivational-classroom-rug-for-kids-d58c24b35d",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "black emotion classroom rug": [
+        {
+          "product_key": "custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-7445b86039-7445b86039",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "music teacher rug": [
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-for-kids-64af3c74f1",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-for-kids-8106743a5b",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "custom classroom teacher rug": [
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-kids-f215fce7cb",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "piano teacher classroom rug": [
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-for-kids-95c57fb741",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "composition notebook learning rug": [
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-for-kids-8106743a5b",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "pink doodle teacher rug": [
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-kids-f215fce7cb",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "crayon bow notebook rug": [
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-kids-f215fce7cb",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "celtic knot roots rug": [
+        {
+          "product_key": "tree-of-life-celtic-indoor-rug-89f894eb42",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "tree-of-life-celtic-area-rug-d16ac94729",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "stained glass yggdrasil rug": [
+        {
+          "product_key": "custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-celtic-tree-of-life-welcome-mat-1e4bffd67c",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "custom tree of life welcome mat": [
+        {
+          "product_key": "custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-tree-of-life-welcome-mat-e20613a50e-e20613a50e",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "emerald celtic tree rug": [
+        {
+          "product_key": "custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "tree-of-life-celtic-indoor-rug-e74720f30a",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "sepia celtic knot tree rug": [
+        {
+          "product_key": "custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-celtic-tree-of-life-welcome-mat-1e4bffd67c",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "monochrome tree of life rug": [
+        {
+          "product_key": "custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "personalized tree of life area rug": [
+        {
+          "product_key": "custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "rainbow mosaic tree rug": [
+        {
+          "product_key": "custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "area rug": [
+        {
+          "product_key": "celtic-tree-of-life-doormat-f3b9ef9591-f3b9ef9591",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-octopus-shaped-area-rug-0acb5a8130-0acb5a8130",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "teacher name classroom rug": [
+        {
+          "product_key": "custom-composition-notebook-classroom-kids-rug-a5df2f88fd-a5df2f88fd",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-motivational-classroom-rug-for-kids-2f14feb0aa",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "personalized teacher name rug": [
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-for-kids-6480284917-6480284917",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-e78523a9ef-e78523a9ef",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "customized-composition-notebook-classroom-rug-33c4fbd370",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "kids rug": [
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-for-kids-6480284917-6480284917",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-composition-notebook-classroom-rug-kids-3e5de6246c",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "personalized math teacher rug": [
+        {
+          "product_key": "custom-mathematics-education-rug-6494449be8-6494449be8",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-mathematics-education-rug-80ab855e16-80ab855e16",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-mathematics-education-rug-677ea4d8b5-677ea4d8b5",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "book rug": [
+        {
+          "product_key": "custom-vintage-book-classroom-reading-rug-3c50e8b414",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "library rug": [
+        {
+          "product_key": "custom-tree-of-knowledge-classroom-library-rug-077de4a60b",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-reading-corner-classroom-library-rug-f3d87bd3da",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-classroom-library-reading-rug-dfdbf660e0",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "personalized reading gives you wings rug": [
+        {
+          "product_key": "custom-reading-corner-classroom-library-rug-f3d87bd3da",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-reading-classroom-library-rug-29b9f9b43d-29b9f9b43d",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "sel classroom rug": [
+        {
+          "product_key": "personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-motivational-classroom-rug-kids-c5c4db7870",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-motivational-classroom-rug-for-kids-fcc5a59bce-fcc5a59bce",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "motivational rug": [
+        {
+          "product_key": "personalized-motivational-classroom-rug-kids-c08ac9a601",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-motivational-classroom-rug-for-kids-185af7709b",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-motivational-classroom-rug-for-kids-1499e819f7-1499e819f7",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "you are classroom rug": [
+        {
+          "product_key": "personalized-motivational-classroom-rug-for-kids-ec5fda4b1c",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-motivational-classroom-rug-kids-803fa89d09",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "positive rug": [
+        {
+          "product_key": "personalized-motivational-classroom-rug-for-kids-ec5fda4b1c",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-motivational-classroom-rug-kids-ab8fce16b6-ab8fce16b6",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-motivational-classroom-rug-for-kids-12e7574dd3-12e7574dd3",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "preschool rug": [
+        {
+          "product_key": "personalized-motivational-classroom-rug-for-kids-2f14feb0aa",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-teacher-classroom-welcome-doormat-513babf582",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "school rug": [
+        {
+          "product_key": "personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-mathematics-classroom-rug-ec81d3501a",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "teacher name affirmation rug": [
+        {
+          "product_key": "personalized-motivational-classroom-rug-for-kids-fe3841c6fe",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-motivational-classroom-rug-for-kids-185af7709b",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "vintage rug": [
+        {
+          "product_key": "personalized-motivational-classroom-rug-for-kids-7d4f70bdd2-7d4f70bdd2",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-motivational-classroom-rug-for-kids-75356d9313-75356d9313",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "hunting doormat": [
+        {
+          "product_key": "personalized-family-name-patriotic-hunting-doormat-5997abfebc-5997abfebc",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "personalized-patriotic-hunting-doormat-ee02618b87",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "golf rug": [
+        {
+          "product_key": "custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-golf-area-rug-living-room-mat-51b65f4454",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "golf welcome mat": [
+        {
+          "product_key": "custom-golf-welcome-mat-7fa10153d4-7fa10153d4",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-golf-welcome-mat-for-front-door-dfb4d14fc9",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-golf-area-rug-d8623da216",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "front door mat": [
+        {
+          "product_key": "custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-music-album-doormat-front-door-b42677b9b9",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-octopus-welcome-mat-coastal-front-door-5012959a0b",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "american flag golf rug": [
+        {
+          "product_key": "custom-golf-area-rug-living-room-mat-51b65f4454",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-golf-welcome-mat-for-front-door-dfb4d14fc9",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "fantasy dragon rug": [
+        {
+          "product_key": "custom-3d-dragon-round-rug-5315fbccc7",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-3d-dragon-round-rug-7df46cf462",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "personalized dragon round rug": [
+        {
+          "product_key": "custom-dragon-round-rug-3d-illusion-4ca1b4fcd0",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-dragon-round-rug-db93e1ad22",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "dragon carpet": [
+        {
+          "product_key": "custom-3d-dragon-round-rug-77aa65f879",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-3d-effect-dragon-round-rug-9cee675fdf",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "3d dragon library rug": [
+        {
+          "product_key": "personalized-3d-dragon-round-rug-library-illusion-0ba25b8c93",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-3d-effect-dragon-round-rug-9cee675fdf",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "blue rug": [
+        {
+          "product_key": "personalized-3d-dragon-round-rug-library-illusion-0ba25b8c93",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-octopus-welcome-mat-entryway-464c692e0a",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "dragon round rug": [
+        {
+          "product_key": "custom-3d-dragon-round-rug-c5c3c2de5b",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-dragon-round-rug-3d-illusion-library-pattern-66ba99d7f5",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-3d-effect-dragon-round-rug-9cee675fdf",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "black rug": [
+        {
+          "product_key": "custom-3d-effect-dragon-round-rug-47b32027ce",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-octopus-welcome-mat-entryway-living-room-3387fa82d0",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "pink flamingo area rug": [
+        {
+          "product_key": "custom-flamingo-doormat-pink-bird-floral-b8f6e38c9d",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-pink-flamingo-welcome-mat-98ad4e675e",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "tropical flamingo rug": [
+        {
+          "product_key": "custom-flamingo-doormat-pink-bird-floral-b8f6e38c9d",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-flamingo-welcome-mat-for-front-door-2096a15fdb",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "flamingo doormat": [
+        {
+          "product_key": "custom-flamingo-doormat-pink-bird-floral-b8f6e38c9d",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-pink-flamingo-area-rug-doormat-e7ac68e9c9",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "custom teacher name mat": [
+        {
+          "product_key": "personalized-classroom-doormat-custom-teacher-name-23d2140383",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "personalized teacher name mat": [
+        {
+          "product_key": "custom-classroom-welcome-mat-for-front-door-ca10b2ead1",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-classroom-doormat-custom-teacher-name-45bc0142b3",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-teacher-classroom-doormat-98fd058bd0",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-teacher-classroom-welcome-doormat-513babf582",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "koi fish shaped area rug": [
+        {
+          "product_key": "custom-koi-fish-shaped-area-rug-3b4acfcd3b",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "fish carpet": [
+        {
+          "product_key": "custom-koi-fish-shaped-area-rug-3b4acfcd3b",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-japanese-koi-fish-shaped-area-rug-940fcac253",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ],
+      "koi fish shaped rug": [
+        {
+          "product_key": "custom-japanese-koi-fish-shaped-area-rug-940fcac253",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "custom-koi-fish-shaped-area-rug-027c867fc1",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "custom teacher name doormat": [
+        {
+          "product_key": "personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-name-teacher-doormat-classroom-school-e7cafd4fd8",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "round classroom welcome rug": [
+        {
+          "product_key": "custom-notebook-welcome-mat-for-classroom-and-school-864ed94fd6",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-teacher-round-rug-with-name-0e0fa122bd",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "personalized teacher round rug": [
+        {
+          "product_key": "classroom-notebook-educational-circle-rug-3b91056f15",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "personalized-teacher-round-rug-with-name-0e0fa122bd",
+          "role": "PRIMARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "personalized maestra rug": [
+        {
+          "product_key": "spanish-abc-classroom-rug-learning-alphabet-mat-f6acb4ba58",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        },
+        {
+          "product_key": "spanish-abc-classroom-rug-0f9ffdff41",
+          "role": "SECONDARY",
+          "target_page_type": "PRODUCT"
+        }
+      ],
+      "octopus welcome mat": [
+        {
+          "product_key": "custom-octopus-welcome-mat-for-front-door-and-entryway-f282a58169",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        },
+        {
+          "product_key": "custom-octopus-welcome-mat-for-front-door-cf228fd538",
+          "role": "REJECTED",
+          "target_page_type": "COLLECTION"
+        }
+      ]
+    }
+  }
+}

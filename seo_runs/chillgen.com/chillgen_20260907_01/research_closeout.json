@@ -1,0 +1,60 @@
+{
+  "schema_version": "2.4",
+  "prompt_version": "2.4",
+  "run_id": "chillgen_20260907_01",
+  "shop_domain": "chillgen.com",
+  "closed_at": "2026-09-07T12:18:58+07:00",
+  "source_workbook": "resutls/chillgen.com/chillgen_20260907_01/batches/SEO_Product_Optimization_through_B057.xlsx",
+  "final_workbook": "resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+  "stage": "RESEARCH_CLOSED_READY_FOR_QA",
+  "counts": {
+    "inventory_products": 569,
+    "seo_products": 569,
+    "unique_seo_product_keys": 569,
+    "image_audit_rows": 4962,
+    "product_evidence_rows": 569,
+    "keyword_research_rows": 1707,
+    "batches": 57
+  },
+  "issues": {
+    "missing_from_seo": [],
+    "extra_in_seo": [],
+    "duplicate_inventory_product_keys": [],
+    "duplicate_seo_product_keys": [],
+    "duplicate_image_rows_count": 0,
+    "missing_image_alt_proposed_count": 0,
+    "primary_keyword_exact_overlap_count": 14,
+    "keyword_map_shared_terms_count": 226,
+    "title_length_review_band_issues": 382,
+    "meta_description_review_band_issues": 2,
+    "non_standard_keyword_strategy_values": 30
+  },
+  "status_counts": {
+    "review_status": {
+      "NEEDS_REVIEW": 569
+    },
+    "processing_status": {
+      "DRAFTED": 569
+    },
+    "content_qa_status": {
+      "NOT_RUN": 569
+    },
+    "keyword_strategy": {
+      "Use specific product motif as primary; broad Halloween rug terms remain collection-level candidates.": 10,
+      "Target motif-specific product queries; keep broad Halloween round rug terms for collection-level mapping.": 10,
+      "Use motif-specific product terms; reserve broad Halloween round rug or Halloween area rug for collections.": 10,
+      "LONG_TAIL_CANDIDATE": 539
+    },
+    "evidence_status": {
+      "COMPLETE_PUBLIC_ONLY": 30,
+      "COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES": 539
+    }
+  },
+  "notes": [
+    "Research is closed for the frozen 569-product inventory.",
+    "All proposals remain draft-only: NEEDS_REVIEW / DRAFTED / NOT_RUN.",
+    "Keyword overlaps are closeout review flags, not automatic QA failures.",
+    "B001-B003 rendered page/meta limitation remains documented; B004-B057 include stronger rendered capture evidence.",
+    "No Shopify/admin/import/deploy action was taken."
+  ]
+}
