@@ -3,36 +3,36 @@
 - QA run: `QA-20260907-AGENT-B003`
 - Source workbook: `SEO_Chillgen\resutls\chillgen.com\chillgen_20260907_01\SEO_Product_Optimization.xlsx`
 - Source SHA-256: `164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7`
-- Batch status: `QA_PASS`
+- Batch status: `QA_REVISE`
 - Products checked: `10`
-- Images checked: `80` / expected `80`
-- Batch average final score: `95.0`
-- Critical/Major: `0/0`; Limitations: `20`
+- Images checked: `80` / in scope `80`
+- Batch average final score: `89.2`
+- Critical/Major: `0/0`; Limitations: `30`
 
-QA_PASS means content QA passed for handoff; it is not APPROVED and does not authorize Shopify deploy.
+This evidence-driven QA rerun does not use fixed scores. QA_PASS is not APPROVED and does not authorize Shopify deploy.
 
 ## Product Scores
 
 | Product | Score | Status | Images | Notes |
 |---|---:|---|---:|---|
-| `personalized-halloween-3d-optical-illusion-ghost-round-rug-design-05` | 95.0 | QA_PASS | 8 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `personalized-halloween-3d-optical-illusion-ghost-round-rug-design-04` | 95.0 | QA_PASS | 8 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `personalized-halloween-3d-optical-illusion-ghost-round-rug-design-03` | 95.0 | QA_PASS | 8 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `personalized-halloween-3d-optical-illusion-ghost-round-rug-design-11` | 95.0 | QA_PASS | 8 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `personalized-halloween-3d-optical-illusion-ghost-round-rug-design-01` | 95.0 | QA_PASS | 8 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `personalized-halloween-3d-optical-illusion-ghost-round-rug-design-08` | 95.0 | QA_PASS | 8 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `personalized-halloween-3d-optical-illusion-ghost-round-rug-design-09` | 95.0 | QA_PASS | 8 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `personalized-halloween-3d-optical-illusion-ghost-round-rug-design-06` | 95.0 | QA_PASS | 8 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `personalized-halloween-3d-optical-illusion-ghost-round-rug-design-02` | 95.0 | QA_PASS | 8 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `personalized-witch-area-rug-with-name-custom-halloween-rug-black` | 95.0 | QA_PASS | 8 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
+| `personalized-halloween-3d-optical-illusion-ghost-round-rug-design-05` | 90.5 | QA_PASS | 8/8 | Major=0; Limitation=3; evidence-driven checks only. |
+| `personalized-halloween-3d-optical-illusion-ghost-round-rug-design-04` | 83.0 | QA_REVISE | 8/8 | Major=0; Limitation=3; evidence-driven checks only. |
+| `personalized-halloween-3d-optical-illusion-ghost-round-rug-design-03` | 90.5 | QA_PASS | 8/8 | Major=0; Limitation=3; evidence-driven checks only. |
+| `personalized-halloween-3d-optical-illusion-ghost-round-rug-design-11` | 90.5 | QA_PASS | 8/8 | Major=0; Limitation=3; evidence-driven checks only. |
+| `personalized-halloween-3d-optical-illusion-ghost-round-rug-design-01` | 90.5 | QA_PASS | 8/8 | Major=0; Limitation=3; evidence-driven checks only. |
+| `personalized-halloween-3d-optical-illusion-ghost-round-rug-design-08` | 90.5 | QA_PASS | 8/8 | Major=0; Limitation=3; evidence-driven checks only. |
+| `personalized-halloween-3d-optical-illusion-ghost-round-rug-design-09` | 90.5 | QA_PASS | 8/8 | Major=0; Limitation=3; evidence-driven checks only. |
+| `personalized-halloween-3d-optical-illusion-ghost-round-rug-design-06` | 90.5 | QA_PASS | 8/8 | Major=0; Limitation=3; evidence-driven checks only. |
+| `personalized-halloween-3d-optical-illusion-ghost-round-rug-design-02` | 90.5 | QA_PASS | 8/8 | Major=0; Limitation=3; evidence-driven checks only. |
+| `personalized-witch-area-rug-with-name-custom-halloween-rug-black` | 85.5 | QA_PASS | 8/8 | Major=0; Limitation=3; evidence-driven checks only. |
 
 ## Findings
 
-- No CRITICAL or MAJOR content issue found in B003 after live PDP and image review.
-- Auto-check `non-slip` warnings were resolved by live meta/page text and feature/backing images showing non-slip/anti-slip backing.
-- Auto-check `identity_status` warnings were downgraded to LIMITATION: storefront identity is confirmed, but admin/export before-state is still required before approval or deployment.
-- Keyword evidence is suitable for content QA but remains `SERP_ONLY`: no paid volume, direct Chillgen Search Console, internal search, or customer review evidence was provided.
+- Evidence-driven status for B003: `QA_REVISE`.
+- Previous agent reports that assigned `FULL` image criteria and fixed `95.0` scores are invalid as QA evidence; this rerun uses field/image rules instead.
+- Keyword evidence remains `SERP_ONLY`: no paid volume, direct Chillgen Search Console, internal search, or customer review evidence was provided.
+- Direct human visual confirmation and Shopify admin/export before-state are still required before approval or deployment.
 
 ## Next Step
 
-Review the limitations before approval/deploy. If accepted, B003 can move to human content approval; otherwise add admin export and stronger demand evidence, then re-QA the affected fields.
+Review MAJOR and LIMITATION rows for B003; resolve or accept them explicitly before Human Approval.
