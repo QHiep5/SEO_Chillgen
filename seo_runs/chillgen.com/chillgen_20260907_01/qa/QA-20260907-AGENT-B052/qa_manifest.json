@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B052",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "custom-japanese-koi-fish-shaped-area-rug-940fcac253",
+    "custom-japanese-koi-fish-shaped-area-rug-925e5d0767",
+    "custom-koi-fish-shaped-area-rug-027c867fc1",
+    "custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a",
+    "custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66",
+    "custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a",
+    "personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be",
+    "personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63",
+    "personalized-teacher-classroom-doormat-20d4a8ff55",
+    "personalized-teacher-classroom-doormat-98fd058bd0"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::custom-japanese-koi-fish-shaped-area-rug-940fcac253",
+    "chillgen.com::custom-japanese-koi-fish-shaped-area-rug-925e5d0767",
+    "chillgen.com::custom-koi-fish-shaped-area-rug-027c867fc1",
+    "chillgen.com::custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a",
+    "chillgen.com::custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66",
+    "chillgen.com::custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a",
+    "chillgen.com::personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be",
+    "chillgen.com::personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63",
+    "chillgen.com::personalized-teacher-classroom-doormat-20d4a8ff55",
+    "chillgen.com::personalized-teacher-classroom-doormat-98fd058bd0"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B052\\progress_B052_for_QA.json",
+  "created_at": "2026-09-07T19:37:55+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "custom-japanese-koi-fish-shaped-area-rug-940fcac253",
+      "canonical_product_key": "chillgen.com::custom-japanese-koi-fish-shaped-area-rug-940fcac253",
+      "Handle": "custom-japanese-koi-fish-shaped-area-rug-940fcac253",
+      "url": "https://chillgen.com/products/custom-japanese-koi-fish-shaped-area-rug-940fcac253",
+      "revision": "1",
+      "title_proposed": "Japanese Koi Pond Shaped Area Rug",
+      "primary_keyword": "Japanese koi pond rug",
+      "evidence_id": "B052-511"
+    },
+    {
+      "product_key": "custom-japanese-koi-fish-shaped-area-rug-925e5d0767",
+      "canonical_product_key": "chillgen.com::custom-japanese-koi-fish-shaped-area-rug-925e5d0767",
+      "Handle": "custom-japanese-koi-fish-shaped-area-rug-925e5d0767",
+      "url": "https://chillgen.com/products/custom-japanese-koi-fish-shaped-area-rug-925e5d0767",
+      "revision": "1",
+      "title_proposed": "Koi Pond Stepping Stone Area Rug",
+      "primary_keyword": "koi pond area rug",
+      "evidence_id": "B052-512"
+    },
+    {
+      "product_key": "custom-koi-fish-shaped-area-rug-027c867fc1",
+      "canonical_product_key": "chillgen.com::custom-koi-fish-shaped-area-rug-027c867fc1",
+      "Handle": "custom-koi-fish-shaped-area-rug-027c867fc1",
+      "url": "https://chillgen.com/products/custom-koi-fish-shaped-area-rug-027c867fc1",
+      "revision": "1",
+      "title_proposed": "Pink Lotus Koi Fish Shaped Rug",
+      "primary_keyword": "pink lotus koi rug",
+      "evidence_id": "B052-513"
+    },
+    {
+      "product_key": "custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a",
+      "canonical_product_key": "chillgen.com::custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a",
+      "Handle": "custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a",
+      "url": "https://chillgen.com/products/custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a",
+      "revision": "1",
+      "title_proposed": "Japanese Garden Koi Fish Shaped Rug",
+      "primary_keyword": "Japanese garden koi rug",
+      "evidence_id": "B052-514"
+    },
+    {
+      "product_key": "custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66",
+      "canonical_product_key": "chillgen.com::custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66",
+      "Handle": "custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66",
+      "url": "https://chillgen.com/products/custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66",
+      "revision": "1",
+      "title_proposed": "Zen Koi Pond Shaped Area Rug",
+      "primary_keyword": "zen koi pond rug",
+      "evidence_id": "B052-515"
+    },
+    {
+      "product_key": "custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a",
+      "canonical_product_key": "chillgen.com::custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a",
+      "Handle": "custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a",
+      "url": "https://chillgen.com/products/custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a",
+      "revision": "1",
+      "title_proposed": "Notebook Classroom Welcome Mat with Teacher Name",
+      "primary_keyword": "notebook classroom welcome mat",
+      "evidence_id": "B052-516"
+    },
+    {
+      "product_key": "personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be",
+      "canonical_product_key": "chillgen.com::personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be",
+      "Handle": "personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be",
+      "url": "https://chillgen.com/products/personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be",
+      "revision": "1",
+      "title_proposed": "Chibi 2nd Grade Classroom Welcome Mat",
+      "primary_keyword": "chibi classroom welcome mat",
+      "evidence_id": "B052-517"
+    },
+    {
+      "product_key": "personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63",
+      "canonical_product_key": "chillgen.com::personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63",
+      "Handle": "personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63",
+      "url": "https://chillgen.com/products/personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63",
+      "revision": "1",
+      "title_proposed": "Personalized Teacher Classroom Welcome Mat",
+      "primary_keyword": "personalized teacher classroom mat",
+      "evidence_id": "B052-518"
+    },
+    {
+      "product_key": "personalized-teacher-classroom-doormat-20d4a8ff55",
+      "canonical_product_key": "chillgen.com::personalized-teacher-classroom-doormat-20d4a8ff55",
+      "Handle": "personalized-teacher-classroom-doormat-20d4a8ff55",
+      "url": "https://chillgen.com/products/personalized-teacher-classroom-doormat-20d4a8ff55",
+      "revision": "1",
+      "title_proposed": "Orange Personalized Teacher Classroom Doormat",
+      "primary_keyword": "personalized teacher classroom doormat",
+      "evidence_id": "B052-519"
+    },
+    {
+      "product_key": "personalized-teacher-classroom-doormat-98fd058bd0",
+      "canonical_product_key": "chillgen.com::personalized-teacher-classroom-doormat-98fd058bd0",
+      "Handle": "personalized-teacher-classroom-doormat-98fd058bd0",
+      "url": "https://chillgen.com/products/personalized-teacher-classroom-doormat-98fd058bd0",
+      "revision": "1",
+      "title_proposed": "Music Teacher Personalized Classroom Doormat",
+      "primary_keyword": "music teacher classroom doormat",
+      "evidence_id": "B052-520"
+    }
+  ]
+}

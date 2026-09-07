@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B026",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "colorful-classroom-rug-for-kids-e5ed693d3f",
+    "colorful-classroom-rug-for-kids-a44b91f2e4",
+    "colorful-handprints-kids-classroom-area-rug-9f8e77de21",
+    "colorful-classroom-rug-handprints-quotes-6a4adbacc3",
+    "colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808",
+    "colorful-handprints-classroom-kids-rug-358d2f0393",
+    "personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf",
+    "personalized-orthodox-christian-three-bar-cross-rug-c6332608db",
+    "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a",
+    "personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::colorful-classroom-rug-for-kids-e5ed693d3f",
+    "chillgen.com::colorful-classroom-rug-for-kids-a44b91f2e4",
+    "chillgen.com::colorful-handprints-kids-classroom-area-rug-9f8e77de21",
+    "chillgen.com::colorful-classroom-rug-handprints-quotes-6a4adbacc3",
+    "chillgen.com::colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808",
+    "chillgen.com::colorful-handprints-classroom-kids-rug-358d2f0393",
+    "chillgen.com::personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf",
+    "chillgen.com::personalized-orthodox-christian-three-bar-cross-rug-c6332608db",
+    "chillgen.com::personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a",
+    "chillgen.com::personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B026\\progress_B026_for_QA.json",
+  "created_at": "2026-09-07T17:08:24+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "colorful-classroom-rug-for-kids-e5ed693d3f",
+      "canonical_product_key": "chillgen.com::colorful-classroom-rug-for-kids-e5ed693d3f",
+      "Handle": "colorful-classroom-rug-for-kids-e5ed693d3f",
+      "url": "https://chillgen.com/products/colorful-classroom-rug-for-kids-e5ed693d3f",
+      "revision": "1",
+      "title_proposed": "Mindset Matters Classroom Rug",
+      "primary_keyword": "Mindset Matters classroom rug",
+      "evidence_id": "B026-251"
+    },
+    {
+      "product_key": "colorful-classroom-rug-for-kids-a44b91f2e4",
+      "canonical_product_key": "chillgen.com::colorful-classroom-rug-for-kids-a44b91f2e4",
+      "Handle": "colorful-classroom-rug-for-kids-a44b91f2e4",
+      "url": "https://chillgen.com/products/colorful-classroom-rug-for-kids-a44b91f2e4",
+      "revision": "1",
+      "title_proposed": "Change Your Words Classroom Rug",
+      "primary_keyword": "Change Your Words classroom rug",
+      "evidence_id": "B026-252"
+    },
+    {
+      "product_key": "colorful-handprints-kids-classroom-area-rug-9f8e77de21",
+      "canonical_product_key": "chillgen.com::colorful-handprints-kids-classroom-area-rug-9f8e77de21",
+      "Handle": "colorful-handprints-kids-classroom-area-rug-9f8e77de21",
+      "url": "https://chillgen.com/products/colorful-handprints-kids-classroom-area-rug-9f8e77de21",
+      "revision": "1",
+      "title_proposed": "You Can Change The World Rug",
+      "primary_keyword": "You Can Change The World rug",
+      "evidence_id": "B026-253"
+    },
+    {
+      "product_key": "colorful-classroom-rug-handprints-quotes-6a4adbacc3",
+      "canonical_product_key": "chillgen.com::colorful-classroom-rug-handprints-quotes-6a4adbacc3",
+      "Handle": "colorful-classroom-rug-handprints-quotes-6a4adbacc3",
+      "url": "https://chillgen.com/products/colorful-classroom-rug-handprints-quotes-6a4adbacc3",
+      "revision": "1",
+      "title_proposed": "Believe Unstoppable Classroom Rug",
+      "primary_keyword": "Believe Unstoppable classroom rug",
+      "evidence_id": "B026-254"
+    },
+    {
+      "product_key": "colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808",
+      "canonical_product_key": "chillgen.com::colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808",
+      "Handle": "colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808",
+      "url": "https://chillgen.com/products/colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808",
+      "revision": "1",
+      "title_proposed": "Future Leaders Handprint Classroom Rug",
+      "primary_keyword": "future leaders handprint classroom rug",
+      "evidence_id": "B026-255"
+    },
+    {
+      "product_key": "colorful-handprints-classroom-kids-rug-358d2f0393",
+      "canonical_product_key": "chillgen.com::colorful-handprints-classroom-kids-rug-358d2f0393",
+      "Handle": "colorful-handprints-classroom-kids-rug-358d2f0393",
+      "url": "https://chillgen.com/products/colorful-handprints-classroom-kids-rug-358d2f0393",
+      "revision": "1",
+      "title_proposed": "Unique Masterpiece Classroom Rug",
+      "primary_keyword": "Unique Masterpiece classroom rug",
+      "evidence_id": "B026-256"
+    },
+    {
+      "product_key": "personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf",
+      "canonical_product_key": "chillgen.com::personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf",
+      "Handle": "personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf",
+      "url": "https://chillgen.com/products/personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf",
+      "revision": "1",
+      "title_proposed": "Orthodox Three Bar Cross Rug",
+      "primary_keyword": "Orthodox three bar cross rug",
+      "evidence_id": "B026-257"
+    },
+    {
+      "product_key": "personalized-orthodox-christian-three-bar-cross-rug-c6332608db",
+      "canonical_product_key": "chillgen.com::personalized-orthodox-christian-three-bar-cross-rug-c6332608db",
+      "Handle": "personalized-orthodox-christian-three-bar-cross-rug-c6332608db",
+      "url": "https://chillgen.com/products/personalized-orthodox-christian-three-bar-cross-rug-c6332608db",
+      "revision": "1",
+      "title_proposed": "Ornate Orthodox Cross Rug",
+      "primary_keyword": "ornate Orthodox cross rug",
+      "evidence_id": "B026-258"
+    },
+    {
+      "product_key": "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a",
+      "canonical_product_key": "chillgen.com::personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a",
+      "Handle": "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a",
+      "url": "https://chillgen.com/products/personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a",
+      "revision": "1",
+      "title_proposed": "Byzantine Eagle Area Rug",
+      "primary_keyword": "Byzantine eagle area rug",
+      "evidence_id": "B026-259"
+    },
+    {
+      "product_key": "personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991",
+      "canonical_product_key": "chillgen.com::personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991",
+      "Handle": "personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991",
+      "url": "https://chillgen.com/products/personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991",
+      "revision": "1",
+      "title_proposed": "Blue Orthodox Cross Rug",
+      "primary_keyword": "blue Orthodox cross rug",
+      "evidence_id": "B026-260"
+    }
+  ]
+}

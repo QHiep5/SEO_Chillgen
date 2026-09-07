@@ -48,7 +48,29 @@
     "commit_verified": true,
     "working_tree_clean": true
   },
-  "current_stage": "SETUP_COMPLETE",
+  "current_stage": "RESEARCH_CLOSED_READY_FOR_QA",
   "created_at": "2026-09-07T00:40:23+07:00",
-  "updated_at": "2026-09-07T00:40:23+07:00"
+  "updated_at": "2026-09-07T13:08:36+07:00",
+  "research_closeout": {
+    "status": "RESEARCH_CLOSED_READY_FOR_QA",
+    "closed_at": "2026-09-07T13:08:36+07:00",
+    "final_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+    "final_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+    "scope": {
+      "SEO_Products": 569,
+      "Image_Audit": 4962,
+      "Product_Evidence": 569,
+      "Keyword_Map": 1707,
+      "Buyer_Search_Research": 569,
+      "README_QA": 8
+    },
+    "qa_status": "NOT_RUN",
+    "approval_status": "NOT_APPROVED",
+    "deployment_payload_status": "NOT_CREATED"
+  },
+  "final_artifacts": {
+    "final_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+    "research_closeout_report_json": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\research_closeout_B057.json",
+    "research_closeout_report_md": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\research_closeout_B057.md"
+  }
 }

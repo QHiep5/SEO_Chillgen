@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B012",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-109",
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-110",
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-111",
+    "core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug",
+    "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100",
+    "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101",
+    "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102",
+    "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103",
+    "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104",
+    "wheel-of-feelings-and-emotions-round-rug-educational-mental-health"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::personalized-teacher-classroom-rug-custom-back-to-school-design-109",
+    "chillgen.com::personalized-teacher-classroom-rug-custom-back-to-school-design-110",
+    "chillgen.com::personalized-teacher-classroom-rug-custom-back-to-school-design-111",
+    "chillgen.com::core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug",
+    "chillgen.com::core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100",
+    "chillgen.com::core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101",
+    "chillgen.com::core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102",
+    "chillgen.com::core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103",
+    "chillgen.com::core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104",
+    "chillgen.com::wheel-of-feelings-and-emotions-round-rug-educational-mental-health"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B012\\progress_B012_for_QA.json",
+  "created_at": "2026-09-07T16:36:56+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "personalized-teacher-classroom-rug-custom-back-to-school-design-109",
+      "canonical_product_key": "chillgen.com::personalized-teacher-classroom-rug-custom-back-to-school-design-109",
+      "Handle": "personalized-teacher-classroom-rug-custom-back-to-school-design-109",
+      "url": "https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-109",
+      "revision": "1",
+      "title_proposed": "Pastel Teacher Welcome Rug",
+      "primary_keyword": "pastel teacher welcome rug",
+      "evidence_id": "B012-111"
+    },
+    {
+      "product_key": "personalized-teacher-classroom-rug-custom-back-to-school-design-110",
+      "canonical_product_key": "chillgen.com::personalized-teacher-classroom-rug-custom-back-to-school-design-110",
+      "Handle": "personalized-teacher-classroom-rug-custom-back-to-school-design-110",
+      "url": "https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-110",
+      "revision": "1",
+      "title_proposed": "School Icons Teacher Welcome Rug",
+      "primary_keyword": "school icons teacher welcome rug",
+      "evidence_id": "B012-112"
+    },
+    {
+      "product_key": "personalized-teacher-classroom-rug-custom-back-to-school-design-111",
+      "canonical_product_key": "chillgen.com::personalized-teacher-classroom-rug-custom-back-to-school-design-111",
+      "Handle": "personalized-teacher-classroom-rug-custom-back-to-school-design-111",
+      "url": "https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-111",
+      "revision": "1",
+      "title_proposed": "Affirmation Rainbow Classroom Rug",
+      "primary_keyword": "affirmation rainbow classroom rug",
+      "evidence_id": "B012-113"
+    },
+    {
+      "product_key": "core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug",
+      "canonical_product_key": "chillgen.com::core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug",
+      "Handle": "core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug",
+      "url": "https://chillgen.com/products/core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug",
+      "revision": "1",
+      "title_proposed": "Core Vocabulary Communication Rug",
+      "primary_keyword": "core vocabulary communication rug",
+      "evidence_id": "B012-114"
+    },
+    {
+      "product_key": "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100",
+      "canonical_product_key": "chillgen.com::core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100",
+      "Handle": "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100",
+      "url": "https://chillgen.com/products/core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100",
+      "revision": "1",
+      "title_proposed": "AAC Core Board Classroom Rug",
+      "primary_keyword": "AAC core board classroom rug",
+      "evidence_id": "B012-115"
+    },
+    {
+      "product_key": "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101",
+      "canonical_product_key": "chillgen.com::core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101",
+      "Handle": "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101",
+      "url": "https://chillgen.com/products/core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101",
+      "revision": "1",
+      "title_proposed": "SPED Communication Board Rug",
+      "primary_keyword": "SPED communication board rug",
+      "evidence_id": "B012-116"
+    },
+    {
+      "product_key": "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102",
+      "canonical_product_key": "chillgen.com::core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102",
+      "Handle": "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102",
+      "url": "https://chillgen.com/products/core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102",
+      "revision": "1",
+      "title_proposed": "Core Vocabulary AAC Rug",
+      "primary_keyword": "core vocabulary AAC rug",
+      "evidence_id": "B012-117"
+    },
+    {
+      "product_key": "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103",
+      "canonical_product_key": "chillgen.com::core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103",
+      "Handle": "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103",
+      "url": "https://chillgen.com/products/core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103",
+      "revision": "1",
+      "title_proposed": "Sign Language Communication Rug",
+      "primary_keyword": "sign language communication rug",
+      "evidence_id": "B012-118"
+    },
+    {
+      "product_key": "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104",
+      "canonical_product_key": "chillgen.com::core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104",
+      "Handle": "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104",
+      "url": "https://chillgen.com/products/core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104",
+      "revision": "1",
+      "title_proposed": "Something Hurts Communication Rug",
+      "primary_keyword": "something hurts communication rug",
+      "evidence_id": "B012-119"
+    },
+    {
+      "product_key": "wheel-of-feelings-and-emotions-round-rug-educational-mental-health",
+      "canonical_product_key": "chillgen.com::wheel-of-feelings-and-emotions-round-rug-educational-mental-health",
+      "Handle": "wheel-of-feelings-and-emotions-round-rug-educational-mental-health",
+      "url": "https://chillgen.com/products/wheel-of-feelings-and-emotions-round-rug-educational-mental-health",
+      "revision": "1",
+      "title_proposed": "Round Feelings Wheel Rug",
+      "primary_keyword": "round feelings wheel rug",
+      "evidence_id": "B012-120"
+    }
+  ]
+}

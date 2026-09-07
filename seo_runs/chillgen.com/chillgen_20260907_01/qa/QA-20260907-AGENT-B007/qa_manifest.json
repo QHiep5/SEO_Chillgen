@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B007",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04",
+    "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02",
+    "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01",
+    "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03",
+    "personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05",
+    "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01",
+    "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04",
+    "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08",
+    "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical",
+    "boat-rug-03-boat-rug-03-design-22"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04",
+    "chillgen.com::personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02",
+    "chillgen.com::personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01",
+    "chillgen.com::personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03",
+    "chillgen.com::personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05",
+    "chillgen.com::custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01",
+    "chillgen.com::custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04",
+    "chillgen.com::custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08",
+    "chillgen.com::custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical",
+    "chillgen.com::boat-rug-03-boat-rug-03-design-22"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B007\\progress_B007_for_QA.json",
+  "created_at": "2026-09-07T16:22:51+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04",
+      "canonical_product_key": "chillgen.com::personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04",
+      "Handle": "personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04",
+      "url": "https://chillgen.com/products/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04",
+      "revision": "1",
+      "title_proposed": "Personalized Dog Approval Doormat",
+      "primary_keyword": "personalized dog approval doormat",
+      "evidence_id": "B007-061"
+    },
+    {
+      "product_key": "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02",
+      "canonical_product_key": "chillgen.com::personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02",
+      "Handle": "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02",
+      "url": "https://chillgen.com/products/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02",
+      "revision": "1",
+      "title_proposed": "Custom Dog Photo Welcome Mat",
+      "primary_keyword": "custom dog photo welcome mat",
+      "evidence_id": "B007-062"
+    },
+    {
+      "product_key": "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01",
+      "canonical_product_key": "chillgen.com::personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01",
+      "Handle": "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01",
+      "url": "https://chillgen.com/products/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01",
+      "revision": "1",
+      "title_proposed": "Personalized Dog House Doormat",
+      "primary_keyword": "personalized dog house doormat",
+      "evidence_id": "B007-063"
+    },
+    {
+      "product_key": "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03",
+      "canonical_product_key": "chillgen.com::personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03",
+      "Handle": "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03",
+      "url": "https://chillgen.com/products/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03",
+      "revision": "1",
+      "title_proposed": "Personalized Multi-Pet Welcome Mat",
+      "primary_keyword": "personalized multi pet welcome mat",
+      "evidence_id": "B007-064"
+    },
+    {
+      "product_key": "personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05",
+      "canonical_product_key": "chillgen.com::personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05",
+      "Handle": "personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05",
+      "url": "https://chillgen.com/products/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05",
+      "revision": "1",
+      "title_proposed": "Personalized Luna Dog Doormat",
+      "primary_keyword": "personalized dog name doormat",
+      "evidence_id": "B007-065"
+    },
+    {
+      "product_key": "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01",
+      "canonical_product_key": "chillgen.com::custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01",
+      "Handle": "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01",
+      "url": "https://chillgen.com/products/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01",
+      "revision": "1",
+      "title_proposed": "Japanese Koi Pond Shaped Rug",
+      "primary_keyword": "Japanese koi pond shaped rug",
+      "evidence_id": "B007-066"
+    },
+    {
+      "product_key": "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04",
+      "canonical_product_key": "chillgen.com::custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04",
+      "Handle": "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04",
+      "url": "https://chillgen.com/products/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04",
+      "revision": "1",
+      "title_proposed": "Stone Border Koi Pond Rug",
+      "primary_keyword": "stone border koi pond rug",
+      "evidence_id": "B007-067"
+    },
+    {
+      "product_key": "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08",
+      "canonical_product_key": "chillgen.com::custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08",
+      "Handle": "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08",
+      "url": "https://chillgen.com/products/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08",
+      "revision": "1",
+      "title_proposed": "Swirl Water Koi Pond Rug",
+      "primary_keyword": "swirl water koi pond rug",
+      "evidence_id": "B007-068"
+    },
+    {
+      "product_key": "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical",
+      "canonical_product_key": "chillgen.com::custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical",
+      "Handle": "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical",
+      "url": "https://chillgen.com/products/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical",
+      "revision": "1",
+      "title_proposed": "3D Optical Koi Pond Rug",
+      "primary_keyword": "3D optical koi pond rug",
+      "evidence_id": "B007-069"
+    },
+    {
+      "product_key": "boat-rug-03-boat-rug-03-design-22",
+      "canonical_product_key": "chillgen.com::boat-rug-03-boat-rug-03-design-22",
+      "Handle": "boat-rug-03-boat-rug-03-design-22",
+      "url": "https://chillgen.com/products/boat-rug-03-boat-rug-03-design-22",
+      "revision": "1",
+      "title_proposed": "Personalized Welcome Aboard Boat Rug",
+      "primary_keyword": "personalized welcome aboard boat rug",
+      "evidence_id": "B007-070"
+    }
+  ]
+}

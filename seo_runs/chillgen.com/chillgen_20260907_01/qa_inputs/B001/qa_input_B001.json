@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B001",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-03",
+    "custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-02",
+    "custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-01",
+    "custom-dog-photo-rug-personalized-pet-portrait-area-mat-non-slip",
+    "personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-102",
+    "personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-101",
+    "personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-100",
+    "personalized-halloween-3d-optical-illusion-shaped-rug-a04-a04",
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-rug-d9-d9",
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-06"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-03",
+    "chillgen.com::custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-02",
+    "chillgen.com::custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-01",
+    "chillgen.com::custom-dog-photo-rug-personalized-pet-portrait-area-mat-non-slip",
+    "chillgen.com::personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-102",
+    "chillgen.com::personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-101",
+    "chillgen.com::personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-100",
+    "chillgen.com::personalized-halloween-3d-optical-illusion-shaped-rug-a04-a04",
+    "chillgen.com::custom-halloween-3d-effect-optical-illusion-spooky-round-rug-d9-d9",
+    "chillgen.com::custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-06"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B001\\progress_B001_for_QA.json",
+  "created_at": "2026-09-07T13:17:50+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-03",
+      "canonical_product_key": "chillgen.com::custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-03",
+      "Handle": "custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-03",
+      "url": "https://chillgen.com/products/custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-03",
+      "revision": "1",
+      "title_proposed": "Personalized Dog Halloween Rug with Haunted House",
+      "primary_keyword": "personalized dog Halloween rug",
+      "evidence_id": "B001-001"
+    },
+    {
+      "product_key": "custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-02",
+      "canonical_product_key": "chillgen.com::custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-02",
+      "Handle": "custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-02",
+      "url": "https://chillgen.com/products/custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-02",
+      "revision": "1",
+      "title_proposed": "Personalized Dog Halloween Pumpkin Rug",
+      "primary_keyword": "personalized dog Halloween pumpkin rug",
+      "evidence_id": "B001-002"
+    },
+    {
+      "product_key": "custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-01",
+      "canonical_product_key": "chillgen.com::custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-01",
+      "Handle": "custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-01",
+      "url": "https://chillgen.com/products/custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-01",
+      "revision": "1",
+      "title_proposed": "Personalized Dog Halloween Graveyard Rug",
+      "primary_keyword": "personalized dog Halloween graveyard rug",
+      "evidence_id": "B001-003"
+    },
+    {
+      "product_key": "custom-dog-photo-rug-personalized-pet-portrait-area-mat-non-slip",
+      "canonical_product_key": "chillgen.com::custom-dog-photo-rug-personalized-pet-portrait-area-mat-non-slip",
+      "Handle": "custom-dog-photo-rug-personalized-pet-portrait-area-mat-non-slip",
+      "url": "https://chillgen.com/products/custom-dog-photo-rug-personalized-pet-portrait-area-mat-non-slip",
+      "revision": "1",
+      "title_proposed": "Personalized Dog Witch Cauldron Halloween Rug",
+      "primary_keyword": "personalized dog witch Halloween rug",
+      "evidence_id": "B001-004"
+    },
+    {
+      "product_key": "personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-102",
+      "canonical_product_key": "chillgen.com::personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-102",
+      "Handle": "personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-102",
+      "url": "https://chillgen.com/products/personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-102",
+      "revision": "1",
+      "title_proposed": "Halloween Spider Web Optical Illusion Rug",
+      "primary_keyword": "Halloween spider web optical illusion rug",
+      "evidence_id": "B001-005"
+    },
+    {
+      "product_key": "personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-101",
+      "canonical_product_key": "chillgen.com::personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-101",
+      "Handle": "personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-101",
+      "url": "https://chillgen.com/products/personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-101",
+      "revision": "1",
+      "title_proposed": "Halloween Skeleton Optical Illusion Rug",
+      "primary_keyword": "Halloween skeleton optical illusion rug",
+      "evidence_id": "B001-006"
+    },
+    {
+      "product_key": "personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-100",
+      "canonical_product_key": "chillgen.com::personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-100",
+      "Handle": "personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-100",
+      "url": "https://chillgen.com/products/personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-100",
+      "revision": "1",
+      "title_proposed": "Sugar Skull Halloween Optical Illusion Rug",
+      "primary_keyword": "sugar skull Halloween rug",
+      "evidence_id": "B001-007"
+    },
+    {
+      "product_key": "personalized-halloween-3d-optical-illusion-shaped-rug-a04-a04",
+      "canonical_product_key": "chillgen.com::personalized-halloween-3d-optical-illusion-shaped-rug-a04-a04",
+      "Handle": "personalized-halloween-3d-optical-illusion-shaped-rug-a04-a04",
+      "url": "https://chillgen.com/products/personalized-halloween-3d-optical-illusion-shaped-rug-a04-a04",
+      "revision": "1",
+      "title_proposed": "Personalized Pumpkin Ghost Halloween Rug",
+      "primary_keyword": "pumpkin ghost Halloween rug",
+      "evidence_id": "B001-008"
+    },
+    {
+      "product_key": "custom-halloween-3d-effect-optical-illusion-spooky-round-rug-d9-d9",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-effect-optical-illusion-spooky-round-rug-d9-d9",
+      "Handle": "custom-halloween-3d-effect-optical-illusion-spooky-round-rug-d9-d9",
+      "url": "https://chillgen.com/products/custom-halloween-3d-effect-optical-illusion-spooky-round-rug-d9-d9",
+      "revision": "1",
+      "title_proposed": "Skeleton Pit Halloween Round Rug",
+      "primary_keyword": "skeleton pit Halloween round rug",
+      "evidence_id": "B001-009"
+    },
+    {
+      "product_key": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-06",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-06",
+      "Handle": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-06",
+      "url": "https://chillgen.com/products/custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-06",
+      "revision": "1",
+      "title_proposed": "Spider Optical Illusion Halloween Round Rug",
+      "primary_keyword": "spider optical illusion Halloween rug",
+      "evidence_id": "B001-010"
+    }
+  ]
+}

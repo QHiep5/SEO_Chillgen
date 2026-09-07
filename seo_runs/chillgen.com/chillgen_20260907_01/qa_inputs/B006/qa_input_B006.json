@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B006",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-04",
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-10",
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-01",
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-06",
+    "custom-dragon-shaped-area-rug-personalized-library-western-dragon",
+    "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01",
+    "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05",
+    "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03",
+    "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02",
+    "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::custom-dragon-shaped-area-rug-personalized-library-wester-design-04",
+    "chillgen.com::custom-dragon-shaped-area-rug-personalized-library-wester-design-10",
+    "chillgen.com::custom-dragon-shaped-area-rug-personalized-library-wester-design-01",
+    "chillgen.com::custom-dragon-shaped-area-rug-personalized-library-wester-design-06",
+    "chillgen.com::custom-dragon-shaped-area-rug-personalized-library-western-dragon",
+    "chillgen.com::custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01",
+    "chillgen.com::custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05",
+    "chillgen.com::custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03",
+    "chillgen.com::custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02",
+    "chillgen.com::custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B006\\progress_B006_for_QA.json",
+  "created_at": "2026-09-07T16:15:02+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "custom-dragon-shaped-area-rug-personalized-library-wester-design-04",
+      "canonical_product_key": "chillgen.com::custom-dragon-shaped-area-rug-personalized-library-wester-design-04",
+      "Handle": "custom-dragon-shaped-area-rug-personalized-library-wester-design-04",
+      "url": "https://chillgen.com/products/custom-dragon-shaped-area-rug-personalized-library-wester-design-04",
+      "revision": "1",
+      "title_proposed": "Personalized Orange Dragon Book Rug",
+      "primary_keyword": "personalized orange dragon rug",
+      "evidence_id": "B006-051"
+    },
+    {
+      "product_key": "custom-dragon-shaped-area-rug-personalized-library-wester-design-10",
+      "canonical_product_key": "chillgen.com::custom-dragon-shaped-area-rug-personalized-library-wester-design-10",
+      "Handle": "custom-dragon-shaped-area-rug-personalized-library-wester-design-10",
+      "url": "https://chillgen.com/products/custom-dragon-shaped-area-rug-personalized-library-wester-design-10",
+      "revision": "1",
+      "title_proposed": "Personalized Green Dragon Book Rug",
+      "primary_keyword": "personalized green dragon rug",
+      "evidence_id": "B006-052"
+    },
+    {
+      "product_key": "custom-dragon-shaped-area-rug-personalized-library-wester-design-01",
+      "canonical_product_key": "chillgen.com::custom-dragon-shaped-area-rug-personalized-library-wester-design-01",
+      "Handle": "custom-dragon-shaped-area-rug-personalized-library-wester-design-01",
+      "url": "https://chillgen.com/products/custom-dragon-shaped-area-rug-personalized-library-wester-design-01",
+      "revision": "1",
+      "title_proposed": "Personalized Red Dragon Book Rug",
+      "primary_keyword": "personalized red dragon rug",
+      "evidence_id": "B006-053"
+    },
+    {
+      "product_key": "custom-dragon-shaped-area-rug-personalized-library-wester-design-06",
+      "canonical_product_key": "chillgen.com::custom-dragon-shaped-area-rug-personalized-library-wester-design-06",
+      "Handle": "custom-dragon-shaped-area-rug-personalized-library-wester-design-06",
+      "url": "https://chillgen.com/products/custom-dragon-shaped-area-rug-personalized-library-wester-design-06",
+      "revision": "1",
+      "title_proposed": "Personalized Purple Dragon Book Rug",
+      "primary_keyword": "personalized purple dragon book rug",
+      "evidence_id": "B006-054"
+    },
+    {
+      "product_key": "custom-dragon-shaped-area-rug-personalized-library-western-dragon",
+      "canonical_product_key": "chillgen.com::custom-dragon-shaped-area-rug-personalized-library-western-dragon",
+      "Handle": "custom-dragon-shaped-area-rug-personalized-library-western-dragon",
+      "url": "https://chillgen.com/products/custom-dragon-shaped-area-rug-personalized-library-western-dragon",
+      "revision": "1",
+      "title_proposed": "Personalized Western Dragon Rug",
+      "primary_keyword": "personalized western dragon rug",
+      "evidence_id": "B006-055"
+    },
+    {
+      "product_key": "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01",
+      "canonical_product_key": "chillgen.com::custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01",
+      "Handle": "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01",
+      "url": "https://chillgen.com/products/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01",
+      "revision": "1",
+      "title_proposed": "Dog Paw Patchwork Round Rug",
+      "primary_keyword": "dog paw patchwork round rug",
+      "evidence_id": "B006-056"
+    },
+    {
+      "product_key": "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05",
+      "canonical_product_key": "chillgen.com::custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05",
+      "Handle": "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05",
+      "url": "https://chillgen.com/products/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05",
+      "revision": "1",
+      "title_proposed": "Neutral Dog Paw Round Rug",
+      "primary_keyword": "neutral dog paw round rug",
+      "evidence_id": "B006-057"
+    },
+    {
+      "product_key": "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03",
+      "canonical_product_key": "chillgen.com::custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03",
+      "Handle": "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03",
+      "url": "https://chillgen.com/products/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03",
+      "revision": "1",
+      "title_proposed": "Bold Dog Paw Round Rug",
+      "primary_keyword": "bold dog paw round rug",
+      "evidence_id": "B006-058"
+    },
+    {
+      "product_key": "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02",
+      "canonical_product_key": "chillgen.com::custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02",
+      "Handle": "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02",
+      "url": "https://chillgen.com/products/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02",
+      "revision": "1",
+      "title_proposed": "Soft Neutral Dog Paw Rug",
+      "primary_keyword": "soft neutral dog paw rug",
+      "evidence_id": "B006-059"
+    },
+    {
+      "product_key": "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4",
+      "canonical_product_key": "chillgen.com::custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4",
+      "Handle": "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4",
+      "url": "https://chillgen.com/products/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4",
+      "revision": "1",
+      "title_proposed": "Multicolor Dog Paw Round Rug",
+      "primary_keyword": "multicolor dog paw round rug",
+      "evidence_id": "B006-060"
+    }
+  ]
+}

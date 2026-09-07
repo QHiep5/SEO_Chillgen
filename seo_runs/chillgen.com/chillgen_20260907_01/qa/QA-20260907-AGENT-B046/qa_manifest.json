@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B046",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "personalized-patriotic-hunting-doormat-ee02618b87",
+    "personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3",
+    "personalized-hunting-doormat-custom-family-name-6e74ed97c6",
+    "personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2",
+    "personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b",
+    "custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491",
+    "custom-golf-welcome-mat-7fa10153d4-7fa10153d4",
+    "custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c",
+    "custom-golf-area-rug-living-room-mat-39dea6cb42",
+    "custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::personalized-patriotic-hunting-doormat-ee02618b87",
+    "chillgen.com::personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3",
+    "chillgen.com::personalized-hunting-doormat-custom-family-name-6e74ed97c6",
+    "chillgen.com::personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2",
+    "chillgen.com::personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b",
+    "chillgen.com::custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491",
+    "chillgen.com::custom-golf-welcome-mat-7fa10153d4-7fa10153d4",
+    "chillgen.com::custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c",
+    "chillgen.com::custom-golf-area-rug-living-room-mat-39dea6cb42",
+    "chillgen.com::custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B046\\progress_B046_for_QA.json",
+  "created_at": "2026-09-07T19:37:58+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "personalized-patriotic-hunting-doormat-ee02618b87",
+      "canonical_product_key": "chillgen.com::personalized-patriotic-hunting-doormat-ee02618b87",
+      "Handle": "personalized-patriotic-hunting-doormat-ee02618b87",
+      "url": "https://chillgen.com/products/personalized-patriotic-hunting-doormat-ee02618b87",
+      "revision": "1",
+      "title_proposed": "Personalized American Hunter Doormat with Black Lab",
+      "primary_keyword": "personalized American Hunter doormat",
+      "evidence_id": "B046-451"
+    },
+    {
+      "product_key": "personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3",
+      "canonical_product_key": "chillgen.com::personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3",
+      "Handle": "personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3",
+      "url": "https://chillgen.com/products/personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3",
+      "revision": "1",
+      "title_proposed": "Custom Deer Duck and Fishing Doormat with Family Name",
+      "primary_keyword": "custom deer duck fishing doormat",
+      "evidence_id": "B046-452"
+    },
+    {
+      "product_key": "personalized-hunting-doormat-custom-family-name-6e74ed97c6",
+      "canonical_product_key": "chillgen.com::personalized-hunting-doormat-custom-family-name-6e74ed97c6",
+      "Handle": "personalized-hunting-doormat-custom-family-name-6e74ed97c6",
+      "url": "https://chillgen.com/products/personalized-hunting-doormat-custom-family-name-6e74ed97c6",
+      "revision": "1",
+      "title_proposed": "Personalized Tastes Like Freedom Hunting Doormat",
+      "primary_keyword": "personalized Tastes Like Freedom doormat",
+      "evidence_id": "B046-453"
+    },
+    {
+      "product_key": "personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2",
+      "canonical_product_key": "chillgen.com::personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2",
+      "Handle": "personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2",
+      "url": "https://chillgen.com/products/personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2",
+      "revision": "1",
+      "title_proposed": "Custom Hooked on Freedom Hunting Doormat",
+      "primary_keyword": "custom Hooked on Freedom doormat",
+      "evidence_id": "B046-454"
+    },
+    {
+      "product_key": "personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b",
+      "canonical_product_key": "chillgen.com::personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b",
+      "Handle": "personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b",
+      "url": "https://chillgen.com/products/personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b",
+      "revision": "1",
+      "title_proposed": "Personalized 250th Anniversary Eagle Hunting Doormat",
+      "primary_keyword": "personalized 250th anniversary eagle doormat",
+      "evidence_id": "B046-455"
+    },
+    {
+      "product_key": "custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491",
+      "canonical_product_key": "chillgen.com::custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491",
+      "Handle": "custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491",
+      "url": "https://chillgen.com/products/custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491",
+      "revision": "1",
+      "title_proposed": "Golf Equipment Area Rug with Vintage Course Collage",
+      "primary_keyword": "golf equipment area rug",
+      "evidence_id": "B046-456"
+    },
+    {
+      "product_key": "custom-golf-welcome-mat-7fa10153d4-7fa10153d4",
+      "canonical_product_key": "chillgen.com::custom-golf-welcome-mat-7fa10153d4-7fa10153d4",
+      "Handle": "custom-golf-welcome-mat-7fa10153d4-7fa10153d4",
+      "url": "https://chillgen.com/products/custom-golf-welcome-mat-7fa10153d4-7fa10153d4",
+      "revision": "1",
+      "title_proposed": "Personalized 19th Hole Golf Welcome Rug",
+      "primary_keyword": "personalized 19th Hole golf rug",
+      "evidence_id": "B046-457"
+    },
+    {
+      "product_key": "custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c",
+      "canonical_product_key": "chillgen.com::custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c",
+      "Handle": "custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c",
+      "url": "https://chillgen.com/products/custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c",
+      "revision": "1",
+      "title_proposed": "Black Golf Area Rug with Distressed Flag Design",
+      "primary_keyword": "black golf area rug",
+      "evidence_id": "B046-458"
+    },
+    {
+      "product_key": "custom-golf-area-rug-living-room-mat-39dea6cb42",
+      "canonical_product_key": "chillgen.com::custom-golf-area-rug-living-room-mat-39dea6cb42",
+      "Handle": "custom-golf-area-rug-living-room-mat-39dea6cb42",
+      "url": "https://chillgen.com/products/custom-golf-area-rug-living-room-mat-39dea6cb42",
+      "revision": "1",
+      "title_proposed": "Vibrant Golf Equipment Rug with 19th Hole Name",
+      "primary_keyword": "vibrant golf equipment rug",
+      "evidence_id": "B046-459"
+    },
+    {
+      "product_key": "custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1",
+      "canonical_product_key": "chillgen.com::custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1",
+      "Handle": "custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1",
+      "url": "https://chillgen.com/products/custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1",
+      "revision": "1",
+      "title_proposed": "Golf Quote Floor Mat with Brown Clubhouse Design",
+      "primary_keyword": "golf quote floor mat",
+      "evidence_id": "B046-460"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B039",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf",
+    "custom-composition-notebook-classroom-rug-for-kids-64af3c74f1",
+    "custom-composition-notebook-classroom-rugs-for-kids-88021773b3",
+    "custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848",
+    "custom-composition-notebook-classroom-rug-for-kids-95c57fb741",
+    "custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7",
+    "custom-composition-notebook-classroom-rug-kids-f215fce7cb",
+    "custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3",
+    "custom-composition-notebook-classroom-rug-for-kids-8106743a5b",
+    "custom-composition-notebook-classroom-rug-7445b86039-7445b86039"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf",
+    "chillgen.com::custom-composition-notebook-classroom-rug-for-kids-64af3c74f1",
+    "chillgen.com::custom-composition-notebook-classroom-rugs-for-kids-88021773b3",
+    "chillgen.com::custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848",
+    "chillgen.com::custom-composition-notebook-classroom-rug-for-kids-95c57fb741",
+    "chillgen.com::custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7",
+    "chillgen.com::custom-composition-notebook-classroom-rug-kids-f215fce7cb",
+    "chillgen.com::custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3",
+    "chillgen.com::custom-composition-notebook-classroom-rug-for-kids-8106743a5b",
+    "chillgen.com::custom-composition-notebook-classroom-rug-7445b86039-7445b86039"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B039\\progress_B039_for_QA.json",
+  "created_at": "2026-09-07T18:13:56+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf",
+      "canonical_product_key": "chillgen.com::custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf",
+      "Handle": "custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf",
+      "url": "https://chillgen.com/products/custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf",
+      "revision": "1",
+      "title_proposed": "Black Emotion Classroom Rug",
+      "primary_keyword": "black emotion classroom rug",
+      "evidence_id": "B039-381"
+    },
+    {
+      "product_key": "custom-composition-notebook-classroom-rug-for-kids-64af3c74f1",
+      "canonical_product_key": "chillgen.com::custom-composition-notebook-classroom-rug-for-kids-64af3c74f1",
+      "Handle": "custom-composition-notebook-classroom-rug-for-kids-64af3c74f1",
+      "url": "https://chillgen.com/products/custom-composition-notebook-classroom-rug-for-kids-64af3c74f1",
+      "revision": "1",
+      "title_proposed": "First Grade Writing Classroom Rug",
+      "primary_keyword": "first grade writing classroom rug",
+      "evidence_id": "B039-382"
+    },
+    {
+      "product_key": "custom-composition-notebook-classroom-rugs-for-kids-88021773b3",
+      "canonical_product_key": "chillgen.com::custom-composition-notebook-classroom-rugs-for-kids-88021773b3",
+      "Handle": "custom-composition-notebook-classroom-rugs-for-kids-88021773b3",
+      "url": "https://chillgen.com/products/custom-composition-notebook-classroom-rugs-for-kids-88021773b3",
+      "revision": "1",
+      "title_proposed": "Crayon Affirmation Classroom Rug",
+      "primary_keyword": "crayon affirmation classroom rug",
+      "evidence_id": "B039-383"
+    },
+    {
+      "product_key": "custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848",
+      "canonical_product_key": "chillgen.com::custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848",
+      "Handle": "custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848",
+      "url": "https://chillgen.com/products/custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848",
+      "revision": "1",
+      "title_proposed": "Pink Class Identity Rug",
+      "primary_keyword": "pink class identity rug",
+      "evidence_id": "B039-384"
+    },
+    {
+      "product_key": "custom-composition-notebook-classroom-rug-for-kids-95c57fb741",
+      "canonical_product_key": "chillgen.com::custom-composition-notebook-classroom-rug-for-kids-95c57fb741",
+      "Handle": "custom-composition-notebook-classroom-rug-for-kids-95c57fb741",
+      "url": "https://chillgen.com/products/custom-composition-notebook-classroom-rug-for-kids-95c57fb741",
+      "revision": "1",
+      "title_proposed": "Pencil Notebook Classroom Rug",
+      "primary_keyword": "pencil notebook classroom rug",
+      "evidence_id": "B039-385"
+    },
+    {
+      "product_key": "custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7",
+      "canonical_product_key": "chillgen.com::custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7",
+      "Handle": "custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7",
+      "url": "https://chillgen.com/products/custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7",
+      "revision": "1",
+      "title_proposed": "Piano Teacher Classroom Rug",
+      "primary_keyword": "piano teacher classroom rug",
+      "evidence_id": "B039-386"
+    },
+    {
+      "product_key": "custom-composition-notebook-classroom-rug-kids-f215fce7cb",
+      "canonical_product_key": "chillgen.com::custom-composition-notebook-classroom-rug-kids-f215fce7cb",
+      "Handle": "custom-composition-notebook-classroom-rug-kids-f215fce7cb",
+      "url": "https://chillgen.com/products/custom-composition-notebook-classroom-rug-kids-f215fce7cb",
+      "revision": "1",
+      "title_proposed": "Pink Doodle Teacher Rug",
+      "primary_keyword": "pink doodle teacher rug",
+      "evidence_id": "B039-387"
+    },
+    {
+      "product_key": "custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3",
+      "canonical_product_key": "chillgen.com::custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3",
+      "Handle": "custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3",
+      "url": "https://chillgen.com/products/custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3",
+      "revision": "1",
+      "title_proposed": "Crayon Bow Notebook Rug",
+      "primary_keyword": "crayon bow notebook rug",
+      "evidence_id": "B039-388"
+    },
+    {
+      "product_key": "custom-composition-notebook-classroom-rug-for-kids-8106743a5b",
+      "canonical_product_key": "chillgen.com::custom-composition-notebook-classroom-rug-for-kids-8106743a5b",
+      "Handle": "custom-composition-notebook-classroom-rug-for-kids-8106743a5b",
+      "url": "https://chillgen.com/products/custom-composition-notebook-classroom-rug-for-kids-8106743a5b",
+      "revision": "1",
+      "title_proposed": "Science Notebook Classroom Rug",
+      "primary_keyword": "science notebook classroom rug",
+      "evidence_id": "B039-389"
+    },
+    {
+      "product_key": "custom-composition-notebook-classroom-rug-7445b86039-7445b86039",
+      "canonical_product_key": "chillgen.com::custom-composition-notebook-classroom-rug-7445b86039-7445b86039",
+      "Handle": "custom-composition-notebook-classroom-rug-7445b86039-7445b86039",
+      "url": "https://chillgen.com/products/custom-composition-notebook-classroom-rug-7445b86039-7445b86039",
+      "revision": "1",
+      "title_proposed": "White Doodle Teacher Name Rug",
+      "primary_keyword": "white doodle teacher name rug",
+      "evidence_id": "B039-390"
+    }
+  ]
+}

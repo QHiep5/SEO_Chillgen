@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B021",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "personalized-album-cover-rug-4af618eed5",
+    "personalized-album-cover-welcome-mat-26099b1534",
+    "personalized-album-cover-area-rug-648fd8e2ff",
+    "personalized-album-cover-area-rug-0587b91810-0587b91810",
+    "personalized-album-cover-rug-3bfef01c49-3bfef01c49",
+    "personalized-album-cover-area-rug-52d1b2412d-52d1b2412d",
+    "personalized-album-cover-rug-75f5a15f3e-75f5a15f3e",
+    "custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b",
+    "personalized-music-album-cover-welcome-mat-6b66b8a24c",
+    "personalized-music-album-cover-rug-5088343293-5088343293"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::personalized-album-cover-rug-4af618eed5",
+    "chillgen.com::personalized-album-cover-welcome-mat-26099b1534",
+    "chillgen.com::personalized-album-cover-area-rug-648fd8e2ff",
+    "chillgen.com::personalized-album-cover-area-rug-0587b91810-0587b91810",
+    "chillgen.com::personalized-album-cover-rug-3bfef01c49-3bfef01c49",
+    "chillgen.com::personalized-album-cover-area-rug-52d1b2412d-52d1b2412d",
+    "chillgen.com::personalized-album-cover-rug-75f5a15f3e-75f5a15f3e",
+    "chillgen.com::custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b",
+    "chillgen.com::personalized-music-album-cover-welcome-mat-6b66b8a24c",
+    "chillgen.com::personalized-music-album-cover-rug-5088343293-5088343293"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B021\\progress_B021_for_QA.json",
+  "created_at": "2026-09-07T17:02:48+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "personalized-album-cover-rug-4af618eed5",
+      "canonical_product_key": "chillgen.com::personalized-album-cover-rug-4af618eed5",
+      "Handle": "personalized-album-cover-rug-4af618eed5",
+      "url": "https://chillgen.com/products/personalized-album-cover-rug-4af618eed5",
+      "revision": "1",
+      "title_proposed": "Black Album Cover Music Rug",
+      "primary_keyword": "black album cover music rug",
+      "evidence_id": "B021-201"
+    },
+    {
+      "product_key": "personalized-album-cover-welcome-mat-26099b1534",
+      "canonical_product_key": "chillgen.com::personalized-album-cover-welcome-mat-26099b1534",
+      "Handle": "personalized-album-cover-welcome-mat-26099b1534",
+      "url": "https://chillgen.com/products/personalized-album-cover-welcome-mat-26099b1534",
+      "revision": "1",
+      "title_proposed": "Teal Album Cover Music Rug",
+      "primary_keyword": "teal album cover music rug",
+      "evidence_id": "B021-202"
+    },
+    {
+      "product_key": "personalized-album-cover-area-rug-648fd8e2ff",
+      "canonical_product_key": "chillgen.com::personalized-album-cover-area-rug-648fd8e2ff",
+      "Handle": "personalized-album-cover-area-rug-648fd8e2ff",
+      "url": "https://chillgen.com/products/personalized-album-cover-area-rug-648fd8e2ff",
+      "revision": "1",
+      "title_proposed": "Orange Album Cover Music Rug",
+      "primary_keyword": "orange album cover music rug",
+      "evidence_id": "B021-203"
+    },
+    {
+      "product_key": "personalized-album-cover-area-rug-0587b91810-0587b91810",
+      "canonical_product_key": "chillgen.com::personalized-album-cover-area-rug-0587b91810-0587b91810",
+      "Handle": "personalized-album-cover-area-rug-0587b91810-0587b91810",
+      "url": "https://chillgen.com/products/personalized-album-cover-area-rug-0587b91810-0587b91810",
+      "revision": "1",
+      "title_proposed": "Beige Album Cover Music Rug",
+      "primary_keyword": "beige album cover music rug",
+      "evidence_id": "B021-204"
+    },
+    {
+      "product_key": "personalized-album-cover-rug-3bfef01c49-3bfef01c49",
+      "canonical_product_key": "chillgen.com::personalized-album-cover-rug-3bfef01c49-3bfef01c49",
+      "Handle": "personalized-album-cover-rug-3bfef01c49-3bfef01c49",
+      "url": "https://chillgen.com/products/personalized-album-cover-rug-3bfef01c49-3bfef01c49",
+      "revision": "1",
+      "title_proposed": "Brown Album Cover Music Rug",
+      "primary_keyword": "brown album cover music rug",
+      "evidence_id": "B021-205"
+    },
+    {
+      "product_key": "personalized-album-cover-area-rug-52d1b2412d-52d1b2412d",
+      "canonical_product_key": "chillgen.com::personalized-album-cover-area-rug-52d1b2412d-52d1b2412d",
+      "Handle": "personalized-album-cover-area-rug-52d1b2412d-52d1b2412d",
+      "url": "https://chillgen.com/products/personalized-album-cover-area-rug-52d1b2412d-52d1b2412d",
+      "revision": "1",
+      "title_proposed": "Burgundy Album Cover Music Rug",
+      "primary_keyword": "burgundy album cover music rug",
+      "evidence_id": "B021-206"
+    },
+    {
+      "product_key": "personalized-album-cover-rug-75f5a15f3e-75f5a15f3e",
+      "canonical_product_key": "chillgen.com::personalized-album-cover-rug-75f5a15f3e-75f5a15f3e",
+      "Handle": "personalized-album-cover-rug-75f5a15f3e-75f5a15f3e",
+      "url": "https://chillgen.com/products/personalized-album-cover-rug-75f5a15f3e-75f5a15f3e",
+      "revision": "1",
+      "title_proposed": "Gray Album Cover Music Rug",
+      "primary_keyword": "gray album cover music rug",
+      "evidence_id": "B021-207"
+    },
+    {
+      "product_key": "custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b",
+      "canonical_product_key": "chillgen.com::custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b",
+      "Handle": "custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b",
+      "url": "https://chillgen.com/products/custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b",
+      "revision": "1",
+      "title_proposed": "Black Music Studio Album Rug",
+      "primary_keyword": "black music studio album rug",
+      "evidence_id": "B021-208"
+    },
+    {
+      "product_key": "personalized-music-album-cover-welcome-mat-6b66b8a24c",
+      "canonical_product_key": "chillgen.com::personalized-music-album-cover-welcome-mat-6b66b8a24c",
+      "Handle": "personalized-music-album-cover-welcome-mat-6b66b8a24c",
+      "url": "https://chillgen.com/products/personalized-music-album-cover-welcome-mat-6b66b8a24c",
+      "revision": "1",
+      "title_proposed": "Turntable Album Cover Music Rug",
+      "primary_keyword": "turntable album cover music rug",
+      "evidence_id": "B021-209"
+    },
+    {
+      "product_key": "personalized-music-album-cover-rug-5088343293-5088343293",
+      "canonical_product_key": "chillgen.com::personalized-music-album-cover-rug-5088343293-5088343293",
+      "Handle": "personalized-music-album-cover-rug-5088343293-5088343293",
+      "url": "https://chillgen.com/products/personalized-music-album-cover-rug-5088343293-5088343293",
+      "revision": "1",
+      "title_proposed": "Photo Song Waveform Music Rug",
+      "primary_keyword": "photo song waveform rug",
+      "evidence_id": "B021-210"
+    }
+  ]
+}

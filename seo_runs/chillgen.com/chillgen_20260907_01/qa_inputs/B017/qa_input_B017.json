@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B017",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-106",
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-107",
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-108",
+    "personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01",
+    "personalized-composition-notebook-classroom-shaped-rugs-design-2222",
+    "personalized-composition-notebook-classroom-shaped-rugs-design-2223",
+    "personalized-composition-notebook-classroom-shaped-rugs-design-2224",
+    "personalized-composition-notebook-classroom-shaped-rugs-design-2225",
+    "personalized-family-couple-doormat-custom-couple-husband-design-05",
+    "personalized-family-couple-doormat-custom-couple-husband-design-03"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::personalized-orthodox-christian-area-rug-custom-eastern-design-106",
+    "chillgen.com::personalized-orthodox-christian-area-rug-custom-eastern-design-107",
+    "chillgen.com::personalized-orthodox-christian-area-rug-custom-eastern-design-108",
+    "chillgen.com::personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01",
+    "chillgen.com::personalized-composition-notebook-classroom-shaped-rugs-design-2222",
+    "chillgen.com::personalized-composition-notebook-classroom-shaped-rugs-design-2223",
+    "chillgen.com::personalized-composition-notebook-classroom-shaped-rugs-design-2224",
+    "chillgen.com::personalized-composition-notebook-classroom-shaped-rugs-design-2225",
+    "chillgen.com::personalized-family-couple-doormat-custom-couple-husband-design-05",
+    "chillgen.com::personalized-family-couple-doormat-custom-couple-husband-design-03"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B017\\progress_B017_for_QA.json",
+  "created_at": "2026-09-07T16:49:28+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-106",
+      "canonical_product_key": "chillgen.com::personalized-orthodox-christian-area-rug-custom-eastern-design-106",
+      "Handle": "personalized-orthodox-christian-area-rug-custom-eastern-design-106",
+      "url": "https://chillgen.com/products/personalized-orthodox-christian-area-rug-custom-eastern-design-106",
+      "revision": "1",
+      "title_proposed": "Cream Red Orthodox Cross Rug",
+      "primary_keyword": "cream Orthodox cross rug",
+      "evidence_id": "B017-161"
+    },
+    {
+      "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-107",
+      "canonical_product_key": "chillgen.com::personalized-orthodox-christian-area-rug-custom-eastern-design-107",
+      "Handle": "personalized-orthodox-christian-area-rug-custom-eastern-design-107",
+      "url": "https://chillgen.com/products/personalized-orthodox-christian-area-rug-custom-eastern-design-107",
+      "revision": "1",
+      "title_proposed": "Green Cream Orthodox Cross Rug",
+      "primary_keyword": "green Orthodox cross rug",
+      "evidence_id": "B017-162"
+    },
+    {
+      "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-108",
+      "canonical_product_key": "chillgen.com::personalized-orthodox-christian-area-rug-custom-eastern-design-108",
+      "Handle": "personalized-orthodox-christian-area-rug-custom-eastern-design-108",
+      "url": "https://chillgen.com/products/personalized-orthodox-christian-area-rug-custom-eastern-design-108",
+      "revision": "1",
+      "title_proposed": "Black Gold Scroll Orthodox Cross Rug",
+      "primary_keyword": "black gold scroll Orthodox cross rug",
+      "evidence_id": "B017-163"
+    },
+    {
+      "product_key": "personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01",
+      "canonical_product_key": "chillgen.com::personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01",
+      "Handle": "personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01",
+      "url": "https://chillgen.com/products/personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01",
+      "revision": "1",
+      "title_proposed": "Personalized Classroom Notebook Rug",
+      "primary_keyword": "personalized classroom notebook rug",
+      "evidence_id": "B017-164"
+    },
+    {
+      "product_key": "personalized-composition-notebook-classroom-shaped-rugs-design-2222",
+      "canonical_product_key": "chillgen.com::personalized-composition-notebook-classroom-shaped-rugs-design-2222",
+      "Handle": "personalized-composition-notebook-classroom-shaped-rugs-design-2222",
+      "url": "https://chillgen.com/products/personalized-composition-notebook-classroom-shaped-rugs-design-2222",
+      "revision": "1",
+      "title_proposed": "Pink Teacher Name Classroom Rug",
+      "primary_keyword": "pink teacher classroom rug",
+      "evidence_id": "B017-165"
+    },
+    {
+      "product_key": "personalized-composition-notebook-classroom-shaped-rugs-design-2223",
+      "canonical_product_key": "chillgen.com::personalized-composition-notebook-classroom-shaped-rugs-design-2223",
+      "Handle": "personalized-composition-notebook-classroom-shaped-rugs-design-2223",
+      "url": "https://chillgen.com/products/personalized-composition-notebook-classroom-shaped-rugs-design-2223",
+      "revision": "1",
+      "title_proposed": "Personalized Apple Classroom Rug",
+      "primary_keyword": "personalized apple classroom rug",
+      "evidence_id": "B017-166"
+    },
+    {
+      "product_key": "personalized-composition-notebook-classroom-shaped-rugs-design-2224",
+      "canonical_product_key": "chillgen.com::personalized-composition-notebook-classroom-shaped-rugs-design-2224",
+      "Handle": "personalized-composition-notebook-classroom-shaped-rugs-design-2224",
+      "url": "https://chillgen.com/products/personalized-composition-notebook-classroom-shaped-rugs-design-2224",
+      "revision": "1",
+      "title_proposed": "Personalized Open Book Classroom Rug",
+      "primary_keyword": "personalized open book classroom rug",
+      "evidence_id": "B017-167"
+    },
+    {
+      "product_key": "personalized-composition-notebook-classroom-shaped-rugs-design-2225",
+      "canonical_product_key": "chillgen.com::personalized-composition-notebook-classroom-shaped-rugs-design-2225",
+      "Handle": "personalized-composition-notebook-classroom-shaped-rugs-design-2225",
+      "url": "https://chillgen.com/products/personalized-composition-notebook-classroom-shaped-rugs-design-2225",
+      "revision": "1",
+      "title_proposed": "Personalized Flower Classroom Rug",
+      "primary_keyword": "personalized flower classroom rug",
+      "evidence_id": "B017-168"
+    },
+    {
+      "product_key": "personalized-family-couple-doormat-custom-couple-husband-design-05",
+      "canonical_product_key": "chillgen.com::personalized-family-couple-doormat-custom-couple-husband-design-05",
+      "Handle": "personalized-family-couple-doormat-custom-couple-husband-design-05",
+      "url": "https://chillgen.com/products/personalized-family-couple-doormat-custom-couple-husband-design-05",
+      "revision": "1",
+      "title_proposed": "Funny Personalized Couple Doormat",
+      "primary_keyword": "funny personalized couple doormat",
+      "evidence_id": "B017-169"
+    },
+    {
+      "product_key": "personalized-family-couple-doormat-custom-couple-husband-design-03",
+      "canonical_product_key": "chillgen.com::personalized-family-couple-doormat-custom-couple-husband-design-03",
+      "Handle": "personalized-family-couple-doormat-custom-couple-husband-design-03",
+      "url": "https://chillgen.com/products/personalized-family-couple-doormat-custom-couple-husband-design-03",
+      "revision": "1",
+      "title_proposed": "Home Sweet Home Couple Doormat",
+      "primary_keyword": "personalized couple doormat",
+      "evidence_id": "B017-170"
+    }
+  ]
+}

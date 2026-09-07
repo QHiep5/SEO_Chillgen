@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B028",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a",
+    "custom-octopus-sea-monster-welcome-mat-c69579f5ed",
+    "custom-octopus-shaped-area-rug-a96e544960-a96e544960",
+    "custom-octopus-shaped-area-rug-sea-monster-1975158434",
+    "custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12",
+    "tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9",
+    "western-running-horse-area-rug-122e8b85fb-122e8b85fb",
+    "custom-running-horse-area-rug-5eadea7a69",
+    "custom-running-horse-welcome-mat-5c3fa81b88",
+    "custom-running-horse-welcome-mat-a0cd749d2b"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a",
+    "chillgen.com::custom-octopus-sea-monster-welcome-mat-c69579f5ed",
+    "chillgen.com::custom-octopus-shaped-area-rug-a96e544960-a96e544960",
+    "chillgen.com::custom-octopus-shaped-area-rug-sea-monster-1975158434",
+    "chillgen.com::custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12",
+    "chillgen.com::tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9",
+    "chillgen.com::western-running-horse-area-rug-122e8b85fb-122e8b85fb",
+    "chillgen.com::custom-running-horse-area-rug-5eadea7a69",
+    "chillgen.com::custom-running-horse-welcome-mat-5c3fa81b88",
+    "chillgen.com::custom-running-horse-welcome-mat-a0cd749d2b"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B028\\progress_B028_for_QA.json",
+  "created_at": "2026-09-07T17:11:48+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a",
+      "canonical_product_key": "chillgen.com::custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a",
+      "Handle": "custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a",
+      "url": "https://chillgen.com/products/custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a",
+      "revision": "1",
+      "title_proposed": "Wave Octopus Shaped Rug",
+      "primary_keyword": "wave octopus shaped rug",
+      "evidence_id": "B028-271"
+    },
+    {
+      "product_key": "custom-octopus-sea-monster-welcome-mat-c69579f5ed",
+      "canonical_product_key": "chillgen.com::custom-octopus-sea-monster-welcome-mat-c69579f5ed",
+      "Handle": "custom-octopus-sea-monster-welcome-mat-c69579f5ed",
+      "url": "https://chillgen.com/products/custom-octopus-sea-monster-welcome-mat-c69579f5ed",
+      "revision": "1",
+      "title_proposed": "Porthole Octopus Shaped Rug",
+      "primary_keyword": "porthole octopus shaped rug",
+      "evidence_id": "B028-272"
+    },
+    {
+      "product_key": "custom-octopus-shaped-area-rug-a96e544960-a96e544960",
+      "canonical_product_key": "chillgen.com::custom-octopus-shaped-area-rug-a96e544960-a96e544960",
+      "Handle": "custom-octopus-shaped-area-rug-a96e544960-a96e544960",
+      "url": "https://chillgen.com/products/custom-octopus-shaped-area-rug-a96e544960-a96e544960",
+      "revision": "1",
+      "title_proposed": "Blue Tentacle Octopus Rug",
+      "primary_keyword": "blue tentacle octopus rug",
+      "evidence_id": "B028-273"
+    },
+    {
+      "product_key": "custom-octopus-shaped-area-rug-sea-monster-1975158434",
+      "canonical_product_key": "chillgen.com::custom-octopus-shaped-area-rug-sea-monster-1975158434",
+      "Handle": "custom-octopus-shaped-area-rug-sea-monster-1975158434",
+      "url": "https://chillgen.com/products/custom-octopus-shaped-area-rug-sea-monster-1975158434",
+      "revision": "1",
+      "title_proposed": "Cave Octopus Shaped Rug",
+      "primary_keyword": "cave octopus shaped rug",
+      "evidence_id": "B028-274"
+    },
+    {
+      "product_key": "custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12",
+      "canonical_product_key": "chillgen.com::custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12",
+      "Handle": "custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12",
+      "url": "https://chillgen.com/products/custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12",
+      "revision": "1",
+      "title_proposed": "Teal Octopus Shaped Rug",
+      "primary_keyword": "teal octopus shaped rug",
+      "evidence_id": "B028-275"
+    },
+    {
+      "product_key": "tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9",
+      "canonical_product_key": "chillgen.com::tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9",
+      "Handle": "tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9",
+      "url": "https://chillgen.com/products/tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9",
+      "revision": "1",
+      "title_proposed": "Tree Of Life Area Rug",
+      "primary_keyword": "tree of life area rug",
+      "evidence_id": "B028-276"
+    },
+    {
+      "product_key": "western-running-horse-area-rug-122e8b85fb-122e8b85fb",
+      "canonical_product_key": "chillgen.com::western-running-horse-area-rug-122e8b85fb-122e8b85fb",
+      "Handle": "western-running-horse-area-rug-122e8b85fb-122e8b85fb",
+      "url": "https://chillgen.com/products/western-running-horse-area-rug-122e8b85fb-122e8b85fb",
+      "revision": "1",
+      "title_proposed": "Black Running Horse Rug",
+      "primary_keyword": "black running horse rug",
+      "evidence_id": "B028-277"
+    },
+    {
+      "product_key": "custom-running-horse-area-rug-5eadea7a69",
+      "canonical_product_key": "chillgen.com::custom-running-horse-area-rug-5eadea7a69",
+      "Handle": "custom-running-horse-area-rug-5eadea7a69",
+      "url": "https://chillgen.com/products/custom-running-horse-area-rug-5eadea7a69",
+      "revision": "1",
+      "title_proposed": "Purple Horse Area Rug",
+      "primary_keyword": "purple horse area rug",
+      "evidence_id": "B028-278"
+    },
+    {
+      "product_key": "custom-running-horse-welcome-mat-5c3fa81b88",
+      "canonical_product_key": "chillgen.com::custom-running-horse-welcome-mat-5c3fa81b88",
+      "Handle": "custom-running-horse-welcome-mat-5c3fa81b88",
+      "url": "https://chillgen.com/products/custom-running-horse-welcome-mat-5c3fa81b88",
+      "revision": "1",
+      "title_proposed": "Rustic Horse Area Rug",
+      "primary_keyword": "rustic horse area rug",
+      "evidence_id": "B028-279"
+    },
+    {
+      "product_key": "custom-running-horse-welcome-mat-a0cd749d2b",
+      "canonical_product_key": "chillgen.com::custom-running-horse-welcome-mat-a0cd749d2b",
+      "Handle": "custom-running-horse-welcome-mat-a0cd749d2b",
+      "url": "https://chillgen.com/products/custom-running-horse-welcome-mat-a0cd749d2b",
+      "revision": "1",
+      "title_proposed": "Rainbow Horse Area Rug",
+      "primary_keyword": "rainbow horse area rug",
+      "evidence_id": "B028-280"
+    }
+  ]
+}

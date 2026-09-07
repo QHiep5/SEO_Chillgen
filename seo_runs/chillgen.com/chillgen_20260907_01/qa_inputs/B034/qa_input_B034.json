@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B034",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "personalized-dog-welcome-mat-custom-pet-name-a66d52e9f8",
+    "personalized-dog-welcome-mat-custom-name-fd965cdd3f",
+    "custom-halloween-dog-doormat-107f4d9fa1-107f4d9fa1",
+    "custom-halloween-dog-doormat-f86bd3c362-f86bd3c362",
+    "custom-halloween-dog-doormat-405e5466d4-405e5466d4",
+    "custom-halloween-dog-doormat-a6bfd1d512-a6bfd1d512",
+    "personalized-dog-welcome-mat-custom-text-non-slip-backing-17fda5bd64-17fda5bd64",
+    "personalized-dog-doormat-custom-text-non-slip-c76f704530",
+    "custom-running-horse-welcome-mat-09686138f0",
+    "custom-running-horse-welcome-mat-4bd82949b1-4bd82949b1"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::personalized-dog-welcome-mat-custom-pet-name-a66d52e9f8",
+    "chillgen.com::personalized-dog-welcome-mat-custom-name-fd965cdd3f",
+    "chillgen.com::custom-halloween-dog-doormat-107f4d9fa1-107f4d9fa1",
+    "chillgen.com::custom-halloween-dog-doormat-f86bd3c362-f86bd3c362",
+    "chillgen.com::custom-halloween-dog-doormat-405e5466d4-405e5466d4",
+    "chillgen.com::custom-halloween-dog-doormat-a6bfd1d512-a6bfd1d512",
+    "chillgen.com::personalized-dog-welcome-mat-custom-text-non-slip-backing-17fda5bd64-17fda5bd64",
+    "chillgen.com::personalized-dog-doormat-custom-text-non-slip-c76f704530",
+    "chillgen.com::custom-running-horse-welcome-mat-09686138f0",
+    "chillgen.com::custom-running-horse-welcome-mat-4bd82949b1-4bd82949b1"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B034\\progress_B034_for_QA.json",
+  "created_at": "2026-09-07T17:38:05+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "personalized-dog-welcome-mat-custom-pet-name-a66d52e9f8",
+      "canonical_product_key": "chillgen.com::personalized-dog-welcome-mat-custom-pet-name-a66d52e9f8",
+      "Handle": "personalized-dog-welcome-mat-custom-pet-name-a66d52e9f8",
+      "url": "https://chillgen.com/products/personalized-dog-welcome-mat-custom-pet-name-a66d52e9f8",
+      "revision": "1",
+      "title_proposed": "Hope You Like Dogs Mat",
+      "primary_keyword": "Hope You Like Dogs mat",
+      "evidence_id": "B034-331"
+    },
+    {
+      "product_key": "personalized-dog-welcome-mat-custom-name-fd965cdd3f",
+      "canonical_product_key": "chillgen.com::personalized-dog-welcome-mat-custom-name-fd965cdd3f",
+      "Handle": "personalized-dog-welcome-mat-custom-name-fd965cdd3f",
+      "url": "https://chillgen.com/products/personalized-dog-welcome-mat-custom-name-fd965cdd3f",
+      "revision": "1",
+      "title_proposed": "Visitors Approved By Charlie Mat",
+      "primary_keyword": "Visitors Approved By Charlie mat",
+      "evidence_id": "B034-332"
+    },
+    {
+      "product_key": "custom-halloween-dog-doormat-107f4d9fa1-107f4d9fa1",
+      "canonical_product_key": "chillgen.com::custom-halloween-dog-doormat-107f4d9fa1-107f4d9fa1",
+      "Handle": "custom-halloween-dog-doormat-107f4d9fa1-107f4d9fa1",
+      "url": "https://chillgen.com/products/custom-halloween-dog-doormat-107f4d9fa1-107f4d9fa1",
+      "revision": "1",
+      "title_proposed": "Haunted Paws Skeleton Mat",
+      "primary_keyword": "Haunted Paws skeleton mat",
+      "evidence_id": "B034-333"
+    },
+    {
+      "product_key": "custom-halloween-dog-doormat-f86bd3c362-f86bd3c362",
+      "canonical_product_key": "chillgen.com::custom-halloween-dog-doormat-f86bd3c362-f86bd3c362",
+      "Handle": "custom-halloween-dog-doormat-f86bd3c362-f86bd3c362",
+      "url": "https://chillgen.com/products/custom-halloween-dog-doormat-f86bd3c362-f86bd3c362",
+      "revision": "1",
+      "title_proposed": "Bat Shaped Halloween Pet Mat",
+      "primary_keyword": "bat shaped Halloween pet mat",
+      "evidence_id": "B034-334"
+    },
+    {
+      "product_key": "custom-halloween-dog-doormat-405e5466d4-405e5466d4",
+      "canonical_product_key": "chillgen.com::custom-halloween-dog-doormat-405e5466d4-405e5466d4",
+      "Handle": "custom-halloween-dog-doormat-405e5466d4-405e5466d4",
+      "url": "https://chillgen.com/products/custom-halloween-dog-doormat-405e5466d4-405e5466d4",
+      "revision": "1",
+      "title_proposed": "Welcome Little Monsters Mat",
+      "primary_keyword": "Welcome Little Monsters mat",
+      "evidence_id": "B034-335"
+    },
+    {
+      "product_key": "custom-halloween-dog-doormat-a6bfd1d512-a6bfd1d512",
+      "canonical_product_key": "chillgen.com::custom-halloween-dog-doormat-a6bfd1d512-a6bfd1d512",
+      "Handle": "custom-halloween-dog-doormat-a6bfd1d512-a6bfd1d512",
+      "url": "https://chillgen.com/products/custom-halloween-dog-doormat-a6bfd1d512-a6bfd1d512",
+      "revision": "1",
+      "title_proposed": "Home Sweet Haunted Home Mat",
+      "primary_keyword": "Home Sweet Haunted Home mat",
+      "evidence_id": "B034-336"
+    },
+    {
+      "product_key": "personalized-dog-welcome-mat-custom-text-non-slip-backing-17fda5bd64-17fda5bd64",
+      "canonical_product_key": "chillgen.com::personalized-dog-welcome-mat-custom-text-non-slip-backing-17fda5bd64-17fda5bd64",
+      "Handle": "personalized-dog-welcome-mat-custom-text-non-slip-backing-17fda5bd64-17fda5bd64",
+      "url": "https://chillgen.com/products/personalized-dog-welcome-mat-custom-text-non-slip-backing-17fda5bd64-17fda5bd64",
+      "revision": "1",
+      "title_proposed": "Visitors Approved By Pets Mat",
+      "primary_keyword": "Visitors Approved By Pets mat",
+      "evidence_id": "B034-337"
+    },
+    {
+      "product_key": "personalized-dog-doormat-custom-text-non-slip-c76f704530",
+      "canonical_product_key": "chillgen.com::personalized-dog-doormat-custom-text-non-slip-c76f704530",
+      "Handle": "personalized-dog-doormat-custom-text-non-slip-c76f704530",
+      "url": "https://chillgen.com/products/personalized-dog-doormat-custom-text-non-slip-c76f704530",
+      "revision": "1",
+      "title_proposed": "No Need To Knock Dog Mat",
+      "primary_keyword": "No Need To Knock dog mat",
+      "evidence_id": "B034-338"
+    },
+    {
+      "product_key": "custom-running-horse-welcome-mat-09686138f0",
+      "canonical_product_key": "chillgen.com::custom-running-horse-welcome-mat-09686138f0",
+      "Handle": "custom-running-horse-welcome-mat-09686138f0",
+      "url": "https://chillgen.com/products/custom-running-horse-welcome-mat-09686138f0",
+      "revision": "1",
+      "title_proposed": "Black Horse Floral Sunset Rug",
+      "primary_keyword": "black horse floral sunset rug",
+      "evidence_id": "B034-339"
+    },
+    {
+      "product_key": "custom-running-horse-welcome-mat-4bd82949b1-4bd82949b1",
+      "canonical_product_key": "chillgen.com::custom-running-horse-welcome-mat-4bd82949b1-4bd82949b1",
+      "Handle": "custom-running-horse-welcome-mat-4bd82949b1-4bd82949b1",
+      "url": "https://chillgen.com/products/custom-running-horse-welcome-mat-4bd82949b1-4bd82949b1",
+      "revision": "1",
+      "title_proposed": "Fire Running Horse Rug",
+      "primary_keyword": "fire running horse rug",
+      "evidence_id": "B034-340"
+    }
+  ]
+}

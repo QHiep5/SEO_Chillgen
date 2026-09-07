@@ -1,0 +1,841 @@
+schema_version,prompt_version,run_id,batch_id,shop_domain,product_key,Handle,product_id,product_gid,identity_status,source_export_ref,source_exported_at,locale,market,url,canonical_url,product_type,title_current,h1_current,title_proposed,title_action,h1_mapping_status,meta_title_current,meta_title_source_state,rendered_title_current,theme_title_suffix,meta_title_seo,meta_title_action,meta_title_chars,meta_description_current,meta_description_source_state,rendered_meta_description_current,meta_description_seo,meta_description_action,meta_description_chars,primary_keyword,secondary_keywords,long_tail_candidates,keyword_strategy,season,keyword_demand_evidence,keyword_serp_fit,meta_keyword,search_intent,keyword_validation_status,keyword_selection_reason,buyer_research_refs,buyer_search_summary,baseline_status,change_scope,mapping_status,mapping_version,description_current_html,description_changes_needed,description_proposed,description_proposed_html,description_change_mode,description_target_section,description_action,revision,review_status,review_reason,approved_by,approved_at,approved_fields,approved_revision,processing_status,evidence_status,content_qa_status,field_evidence_map,evidence_id,issues,img_1_link,img_1_alt_current,img_1_alt,img_1_alt_action,img_2_link,img_2_alt_current,img_2_alt,img_2_alt_action,img_3_link,img_3_alt_current,img_3_alt,img_3_alt_action,img_4_link,img_4_alt_current,img_4_alt,img_4_alt_action,img_5_link,img_5_alt_current,img_5_alt,img_5_alt_action,img_6_link,img_6_alt_current,img_6_alt,img_6_alt_action,img_7_link,img_7_alt_current,img_7_alt,img_7_alt_action,img_8_link,img_8_alt_current,img_8_alt,img_8_alt_action,img_9_link,img_9_alt_current,img_9_alt,img_9_alt_action,img_10_link,img_10_alt_current,img_10_alt,img_10_alt_action,img_11_link,img_11_alt_current,img_11_alt,img_11_alt_action,img_12_link,img_12_alt_current,img_12_alt,img_12_alt_action,img_13_link,img_13_alt_current,img_13_alt,img_13_alt_action,img_14_link,img_14_alt_current,img_14_alt,img_14_alt_action,img_15_link,img_15_alt_current,img_15_alt,img_15_alt_action,img_16_link,img_16_alt_current,img_16_alt,img_16_alt_action,img_17_link,img_17_alt_current,img_17_alt,img_17_alt_action,img_18_link,img_18_alt_current,img_18_alt,img_18_alt_action,img_19_link,img_19_alt_current,img_19_alt,img_19_alt_action
+2.4,2.4,chillgen_20260907_01,B033,chillgen.com,personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4,personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4,15913452044657,gid://shopify/Product/15913452044657,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B033_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B033_pages/personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4.html,2026-09-07T04:11:50+07:00,en-US,US,https://chillgen.com/products/personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4,https://chillgen.com/products/personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4,Rug,Personalized Soccer Championship Rug with Memory Foam for Living Room,Personalized Soccer Championship Rug with Memory Foam for Living Room,Game Of Champions Soccer Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Soccer Championship Rug with Memory Foam,NONE_OR_NOT_OBSERVED,Game Of Champions Soccer Rug,SET,28,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Bring tournament spirit home with a personalized soccer championship rug featuring a golden trophy memory foam and non slip backing for living rooms.,"Decorate with a Game Of Champions soccer rug featuring 2026 stadium lights, large ball, red border, size chart and backing.",SET,123,Game Of Champions soccer rug,"soccer 2026 area rug, championship football rug, soccer fan room rug","Game Of Champions soccer rug; soccer 2026 area rug, championship football rug, soccer fan room rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support soccer 2026 rugs, soccer trophy area rugs, championship round rugs, personalized dog welcome mats, custom pet photo doormats and multi-pet entryway rugs. B033 separates near-duplicate soccer products by shape, stadium/trophy/host-flag motif, and dog products by phrase, number of pets and photo/name personalization.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,Game Of Champions soccer rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports Game of Champions soccer rug and product-level buyer intent.,B033-321-BR01,"B033 buyers include soccer fans decorating living rooms, bedrooms and game rooms for big-match viewing, plus pet owners and gift buyers looking for custom dog or cat welcome mats for entryways, housewarming gifts and pet-lover homes.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Bring the thrilling energy of the global soccer tournament into your home with this sports-themed area rug. Designed with iconic trophy elements and national host themes, it captures the passion and unity of international soccer. This rug serves as the perfect decorative centerpieces for sports enthusiasts who want to showcase their love for the game in their personal spaces.</p><h3>Product Highlights</h3><ul>
+<li>Features inspiring soccer tournament visuals, national host themes, and golden trophy elements.</li>
+<li>Supports personalization options to customize your sports decor.</li>
+<li>Crafted with a comfortable memory foam surface and a soft fabric feel.</li>
+<li>Equipped with a practical non-slip backing for added safety and stability.</li>
+<li>Designed with reinforced serged edges for enhanced long-term durability.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Living Room, Game Room</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sports</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Is Stain Resistant</td>
+<td>Yes</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam, Polypropylene</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Polyester, Non-Slip Backing</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Washable</td>
+</tr>
+</table><h3>Where It Works</h3><p>This sports-themed rug fits naturally in living rooms, bedrooms, or dedicated game rooms. It is also an excellent option for kids' rooms, sports setups, or a personalized man cave.</p>",Make product copy motif-specific while retaining verified public claims only.,"Decorate with a Game Of Champions soccer rug featuring 2026 stadium lights, large ball, red border, size chart and backing. Design details Rectangular soccer area rug with 2026 text, game of champions lettering, large soccer ball over a lit stadium pitch, torn-edge artwork, red geometric border, living room and patio mockups, size chart, microfiber memory foam detail, stain and fade panel and anti-slip backing. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Decorate with a Game Of Champions soccer rug featuring 2026 stadium lights, large ball, red border, size chart and backing.</p><h3>Design details</h3><ul><li>Rectangular soccer area rug with 2026 text, game of champions lettering, large soccer ball over a lit stadium pitch, torn-edge artwork, red geometric border, living room and patio mockups, size chart, microfiber memory foam detail, stain and fade panel and anti-slip backing.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B033-321,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5f7d834215ddd1b85b20777431715837e303505816145880399bf5285cb0abb3.jpg?v=1784384224,,Game Of Champions soccer rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ff68103dec6db75d11a8c4e6a4a611dc7713f19598ad22b486e55b714d8a7786.jpg?v=1784384224,,2026 stadium soccer rug room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f191341142287fa862d3ebe680e54924c0e0fb7272190d5630565f69733d8a03.jpg?v=1784384229,,soccer championship rug beside sofa,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ec2a86eefba6aefe3bf0291a5e0ae773737cdbaac4d5cf9f22e412f839320eda.jpg?v=1784384229,,Game Of Champions rug patio view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f696f777da36b13ac36e3c3c7de7a65b3260abd95bb9e3d1e5e264727f60eac3.jpg?v=1784384234,,soccer rug by fireplace,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c12ba46bb8e53f9b94f23a20d854dc7b63a72092fa9c7d3b72374de303a1ec04.jpg?v=1784384235,,soccer rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1f8de63bbdec760b733e1c2c7e95181fc8476e0875c3ddd37a48a9520796f0d0.jpg?v=1784384240,,anti-slip backing and stain resistance panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f774314e49130ca4b5498e1ff1b463043bce0ac3a2a090dc02689819a6cdc17e.jpg?v=1784384240,,microfiber memory foam soccer rug detail,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B033,chillgen.com,custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520,custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520,15913452110193,gid://shopify/Product/15913452110193,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B033_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B033_pages/custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520.html,2026-09-07T04:11:50+07:00,en-US,US,https://chillgen.com/products/custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520,https://chillgen.com/products/custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520,Rug,Custom Soccer 2026 Area Rug with Golden Trophy for Kids Room and Man Cave,Custom Soccer 2026 Area Rug with Golden Trophy for Kids Room and Man Cave,USA World Game 2026 Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Soccer 2026 Area Rug with Golden Trophy Design,NONE_OR_NOT_OBSERVED,USA World Game 2026 Rug,SET,23,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Celebrate the 2026 soccer season with a custom area rug featuring a golden trophy host nation themes and personalized text for kids rooms and man caves.,"Style a fan room with a USA World Game 2026 rug, stadium field, eagle crest, soccer ball, flag border and backing.",SET,114,USA World Game 2026 rug,"custom soccer 2026 area rug, USA soccer rug, tournament trophy rug","USA World Game 2026 rug; custom soccer 2026 area rug, USA soccer rug, tournament trophy rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support soccer 2026 rugs, soccer trophy area rugs, championship round rugs, personalized dog welcome mats, custom pet photo doormats and multi-pet entryway rugs. B033 separates near-duplicate soccer products by shape, stadium/trophy/host-flag motif, and dog products by phrase, number of pets and photo/name personalization.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,USA World Game 2026 rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports USA World Game 2026 rug and product-level buyer intent.,B033-322-BR01,"B033 buyers include soccer fans decorating living rooms, bedrooms and game rooms for big-match viewing, plus pet owners and gift buyers looking for custom dog or cat welcome mats for entryways, housewarming gifts and pet-lover homes.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Bring the thrilling energy of the 2026 international soccer season into your home with this sports-themed area rug. Designed to celebrate global soccer pride, this rug features iconic golden trophy elements and national host themes inspired by the USA, Mexico, and Canada. It is the perfect home decor addition for passionate sports fans, soccer lovers, and kids' rooms, offering a bold visual statement. Combining comfort with practical daily use, this rug provides stability and style to any indoor living space.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Features global soccer tournament spirit with trophy elements and national host themes.</li>
+<li>Supports personalization and custom text options for soccer fans.</li>
+<li>Constructed with low pile and lightweight materials that easily fold and lay flat.</li>
+<li>Equipped with a practical non-slip backing for added safety and stability.</li>
+<li>Designed with durable reinforced serged edges to ensure long-lasting quality.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Living Room</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip, Is Stain Resistant</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sports</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam, Polypropylene</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Polyester</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This sports-themed area rug is ideal for living rooms, bedrooms, game rooms, or dedicated man caves. It serves as a fantastic decor setup for kids' rooms and active family spaces where soccer fans gather to celebrate the game.</p>",Make product copy motif-specific while retaining verified public claims only.,"Style a fan room with a USA World Game 2026 rug, stadium field, eagle crest, soccer ball, flag border and backing. Design details Rectangular soccer rug reading the world game 2026 with usa text on a green field, eagle crest, soccer ball, stadium crowd, patriotic stars and flag border, living room and patio scenes, size chart and material/backing panels. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Style a fan room with a USA World Game 2026 rug, stadium field, eagle crest, soccer ball, flag border and backing.</p><h3>Design details</h3><ul><li>Rectangular soccer rug reading the world game 2026 with usa text on a green field, eagle crest, soccer ball, stadium crowd, patriotic stars and flag border, living room and patio scenes, size chart and material/backing panels.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B033-322,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f22f6542b6c31065d5c01c931219593558543db1452783132e53b25ec93ac91f.jpg?v=1784384201,,USA World Game 2026 rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ff5ee0cbe8d05a6b14d7c997f290ba42d6970721e4d58cf5e12e2549802041be.jpg?v=1784384202,,USA soccer rug room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/91bf92067c75307daea091393b28bc513132e4d3c3b3cbbae4f781d4906d8415.jpg?v=1784384207,,World Game 2026 rug beside sofa,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/865fdc132abd37521e9fc32d02825e058f944d29cf0a290c530eaa530d5ed736.jpg?v=1784384207,,USA tournament rug patio view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2094179efd1dbfebe46459c055609668c55c864230ea9675f6250b3a6b332673.jpg?v=1784384213,,soccer rug by fireplace,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ec7d2a67f3d322550aa44434e78b81296b99ca2a5423818096610d51afd0fca2.jpg?v=1784384213,,USA soccer rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d45b57fceb170f96d36200e6214d15d891baa91a6fec10ed6036e14457844e3c.jpg?v=1784384218,,backing and stain resistance panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/874c1407f741582553c7519d578f7485f356dd6ec01d2abe617acd47f3e6e918.jpg?v=1784384218,,microfiber soccer rug detail,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B033,chillgen.com,personalized-soccer-2026-area-rug-95231047da-95231047da,personalized-soccer-2026-area-rug-95231047da-95231047da,15913452175729,gid://shopify/Product/15913452175729,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B033_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B033_pages/personalized-soccer-2026-area-rug-95231047da-95231047da.html,2026-09-07T04:11:50+07:00,en-US,US,https://chillgen.com/products/personalized-soccer-2026-area-rug-95231047da-95231047da,https://chillgen.com/products/personalized-soccer-2026-area-rug-95231047da-95231047da,Rug,Personalized Soccer Trophy and Flags Rug with Non Slip Backing for Bedroom,Personalized Soccer Trophy and Flags Rug with Non Slip Backing for Bedroom,Host Flags Swirl Soccer Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Soccer Trophy and Flags Rug for Bedroom,NONE_OR_NOT_OBSERVED,Host Flags Swirl Soccer Rug,SET,27,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Add global soccer energy with a personalized trophy and flags rug featuring host nation details low pile comfort and non slip backing for bedrooms.,"Decorate with a host flags swirl soccer rug featuring USA, Canada and Mexico colors, gold ball center and non-slip backing.",SET,123,host flags swirl soccer rug,"soccer 2026 area rug, USA Canada Mexico soccer rug, football fan room rug","host flags swirl soccer rug; soccer 2026 area rug, USA Canada Mexico soccer rug, football fan room rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support soccer 2026 rugs, soccer trophy area rugs, championship round rugs, personalized dog welcome mats, custom pet photo doormats and multi-pet entryway rugs. B033 separates near-duplicate soccer products by shape, stadium/trophy/host-flag motif, and dog products by phrase, number of pets and photo/name personalization.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,host flags swirl soccer rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports host flags swirl soccer rug and product-level buyer intent.,B033-323-BR01,"B033 buyers include soccer fans decorating living rooms, bedrooms and game rooms for big-match viewing, plus pet owners and gift buyers looking for custom dog or cat welcome mats for entryways, housewarming gifts and pet-lover homes.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Bring the thrilling energy of the 2026 international soccer season into your home with this Soccer Championship Area Rug. Designed with iconic trophy visuals and host country inspiration from the USA, Mexico, and Canada, this rug captures the passion and unity of global football. It is the perfect accent piece for soccer lovers, kids' rooms, or sports-themed fan setups.</p><h3>Product Highlights</h3><ul>
+<li>Inspired by the global soccer tournament spirit with trophy elements and host nation themes.</li>
+<li>Personalized and custom design options to support world flags and cup tournament details.</li>
+<li>Crafted with a low pile surface that provides comfort underfoot while remaining practical.</li>
+<li>Equipped with a non-slip backing and reinforced serged edges for added safety and long-lasting durability.</li>
+<li>Versatile decor piece that easily enhances living rooms, bedrooms, and game rooms.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Living Room</td>
+</tr>
+<tr>
+<td>Is Stain Resistant</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sports</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Polyester</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table><h3>Where It Works</h3><p>This sports-themed area rug is ideal for living rooms, bedrooms, game rooms, or man caves. It serves as an excellent decor setup for soccer fans and a great addition to kids' or boys' rooms.</p>",Make product copy motif-specific while retaining verified public claims only.,"Decorate with a host flags swirl soccer rug featuring USA, Canada and Mexico colors, gold ball center and non-slip backing. Design details Bright rectangular soccer rug with swirling usa, canada and mexico flag bands, green stadium sections, gold soccer ball center, starburst corners, patio and room mockups, size chart, quick-dry microfiber memory foam detail and anti-slip backing panel. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Decorate with a host flags swirl soccer rug featuring USA, Canada and Mexico colors, gold ball center and non-slip backing.</p><h3>Design details</h3><ul><li>Bright rectangular soccer rug with swirling usa, canada and mexico flag bands, green stadium sections, gold soccer ball center, starburst corners, patio and room mockups, size chart, quick-dry microfiber memory foam detail and anti-slip backing panel.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B033-323,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8a32d3031bdaa6fb06e4fa0e348520323e19996bbcf69e6eecb21bf7337164aa.jpg?v=1784384179,,host flags swirl soccer rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/882deea535e285f1048106bd4e27c301d6172f230743f68a3cb56190490d2b09.jpg?v=1784384181,,USA Canada Mexico soccer rug beside sofa,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a2c1fc26c6b9e100eff60b5e13891d94281f4575d58c004e6cdb16597f23202b.jpg?v=1784384185,,host flags soccer rug room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8437180e934fab7391d6b4a476063f4c81c64d3e71785bd8e53794583acc9789.jpg?v=1784384185,,soccer 2026 rug patio view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/911e5dbfe3f7920d307cf3aabe7cd0857719a9f9a68987f8a5e56617906b5b0c.jpg?v=1784384191,,host flags swirl rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/bc088319fd1d53481a68a1d7a590c0a21b5cc8d3078992508dfff31e7dcd53f6.jpg?v=1784384191,,microfiber memory foam soccer rug detail,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f2cb96a449615322a81e2fb1f9348d3cb17e4a08669e5fc1350cf2dc31f25bfe.jpg?v=1784384196,,anti-slip backing and stain resistance panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/60026c54f5a95c8e3c1db9dad2dd4e44c87481a1244a1c76401eed6a19586b7c.jpg?v=1784384196,,soccer rug by fireplace,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B033,chillgen.com,custom-soccer-round-rug-trophy-championship-043ff71141,custom-soccer-round-rug-trophy-championship-043ff71141,15913464955249,gid://shopify/Product/15913464955249,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B033_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B033_pages/custom-soccer-round-rug-trophy-championship-043ff71141.html,2026-09-07T04:11:50+07:00,en-US,US,https://chillgen.com/products/custom-soccer-round-rug-trophy-championship-043ff71141,https://chillgen.com/products/custom-soccer-round-rug-trophy-championship-043ff71141,Rug,Custom Soccer Trophy Round Rug with Low Pile Comfort for Bedroom Space,Custom Soccer Trophy Round Rug with Low Pile Comfort for Bedroom Space,World Game 2026 Round Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Soccer Trophy Round Rug with Low Pile Comfort,NONE_OR_NOT_OBSERVED,World Game 2026 Round Rug,SET,25,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Bring championship energy to your room with a custom soccer trophy round rug featuring host nation themes memory foam and non slip backing for bedrooms.,"Add a World Game 2026 round rug with trophy, soccer ball, USA Canada Mexico flags, five sizes and non-slip backing.",SET,115,World Game 2026 round rug,"soccer trophy round rug, championship soccer rug, round football fan rug","World Game 2026 round rug; soccer trophy round rug, championship soccer rug, round football fan rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support soccer 2026 rugs, soccer trophy area rugs, championship round rugs, personalized dog welcome mats, custom pet photo doormats and multi-pet entryway rugs. B033 separates near-duplicate soccer products by shape, stadium/trophy/host-flag motif, and dog products by phrase, number of pets and photo/name personalization.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,World Game 2026 round rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports World Game 2026 round rug and product-level buyer intent.,B033-324-BR01,"B033 buyers include soccer fans decorating living rooms, bedrooms and game rooms for big-match viewing, plus pet owners and gift buyers looking for custom dog or cat welcome mats for entryways, housewarming gifts and pet-lover homes.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Celebrate the excitement of the global soccer season with this vibrant Soccer Championship Round Rug. Designed with bold trophy visuals and inspired by host nations, this rug brings the energy and pride of international sports competition directly into your living space. It is the perfect home decor addition for passionate soccer fans looking to showcase their love for the game.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Features bold trophy-inspired elements and international host nation themes.</li>
+<li>Supports custom soccer tournament design details.</li>
+<li>Soft memory foam material offers a comfortable underfoot feel.</li>
+<li>Equipped with a practical non-slip backing for enhanced safety.</li>
+<li>Versatile round shape fits perfectly in bedrooms, living rooms, and game rooms.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Round</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor Outdoor Usage</td>
+<td>Both</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Living Room, Playroom</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip, Stain Resistant</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sports</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam, Polypropylene</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Polyester</td>
+</tr>
+<li>Care Instructions<td>Machine Wash</td>
+</li>
+</table>
+
+<h3>Where It Works</h3>
+<p>This sports-themed round rug is ideal for living rooms, bedrooms, playrooms, and game rooms. It makes a bold decorative statement and acts as a comfortable accent piece for dedicated sports fans and kids' play areas alike.</p>",Make product copy motif-specific while retaining verified public claims only.,"Add a World Game 2026 round rug with trophy, soccer ball, USA Canada Mexico flags, five sizes and non-slip backing. Design details Round soccer rug reading the world game 2026 with gold trophy, soccer ball, usa, canada and mexico flag panels, floral and star details, five-size panel, living room, kitchen table, bedroom and holiday room mockups, low-pile quality and non-slip backing detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Add a World Game 2026 round rug with trophy, soccer ball, USA Canada Mexico flags, five sizes and non-slip backing.</p><h3>Design details</h3><ul><li>Round soccer rug reading the world game 2026 with gold trophy, soccer ball, usa, canada and mexico flag panels, floral and star details, five-size panel, living room, kitchen table, bedroom and holiday room mockups, low-pile quality and non-slip backing detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B033-324,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/240824f3ecb1a3334e38296ec050fe3d53bee9ad11ffe1c29a34689ee707a76e.jpg?v=1784384016,,World Game 2026 round rug flat view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/964b23cd5510fbf8d39810e9b0e3889d619c6160480a084ee0fc16db41a83bb0.jpg?v=1784384017,,round soccer trophy rug size guide,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/73eafaf32b8091cddeb3db08af9f2b5fd2485ab9c1d88c024bfcae5a923abe97.jpg?v=1784384022,,World Game round rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b63d4777638bf8277d64f7067dfcc23269a3ccdbdaa3d180dc9f5c2de9677895.jpg?v=1784384023,,soccer round rug bedroom view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/851ad736b8c5edfa0788671b88bc0f93099dacdc684d22ce309b8a58724dcc50.jpg?v=1784384028,,round trophy rug under table,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/370cbe73c1c287c16cba04dc0c39a3d8e0dd901bf38dacee82be3b3b7591db81.jpg?v=1784384029,,World Game rug holiday room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e90336d19865ff762840d1f3a454ed05724381c4967a14f34278eddb338d94fb.jpg?v=1784384034,,round soccer rug design detail,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/590171b8d1e71c2bb2d6fd1df0662f9fec219e0ccd99f14588be7988948740d2.jpg?v=1784384034,,superior quality backing panel,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B033,chillgen.com,custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9,custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9,15913465315697,gid://shopify/Product/15913465315697,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B033_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B033_pages/custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9.html,2026-09-07T04:11:50+07:00,en-US,US,https://chillgen.com/products/custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9,https://chillgen.com/products/custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9,Rug,Personalized Soccer Trophy Round Rug with Non Slip Backing for Playroom,Personalized Soccer Trophy Round Rug with Non Slip Backing for Playroom,World Flags Trophy Round Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Soccer Trophy Round Rug with Non Slip Backing,NONE_OR_NOT_OBSERVED,World Flags Trophy Round Rug,SET,28,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Add global tournament style with a personalized soccer trophy round rug featuring host nation themes soft memory foam and non slip backing for playrooms.,"Decorate with a world flags trophy round rug featuring gold cup, soccer balls, host-country flags, five sizes and backing.",SET,122,world flags trophy round rug,"personalized soccer trophy round rug, tournament soccer rug, football playroom rug","world flags trophy round rug; personalized soccer trophy round rug, tournament soccer rug, football playroom rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support soccer 2026 rugs, soccer trophy area rugs, championship round rugs, personalized dog welcome mats, custom pet photo doormats and multi-pet entryway rugs. B033 separates near-duplicate soccer products by shape, stadium/trophy/host-flag motif, and dog products by phrase, number of pets and photo/name personalization.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,world flags trophy round rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports world flags trophy round rug and product-level buyer intent.,B033-325-BR01,"B033 buyers include soccer fans decorating living rooms, bedrooms and game rooms for big-match viewing, plus pet owners and gift buyers looking for custom dog or cat welcome mats for entryways, housewarming gifts and pet-lover homes.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Celebrate the excitement of the global soccer season with this Soccer Championship Round Rug. Designed with trophy-inspired elements and international host nation themes, this rug brings the passion of worldwide football competition directly into your home. It features a bold sports design that serves as an eye-catching focal point while enhancing your room with a vibrant athletic vibe.</p><h3>Product Highlights</h3><ul>
+<li>Features bold trophy visuals and national host themes inspired by the USA, Mexico, and Canada.</li>
+<li>Supports custom text input to create a personalized soccer fan home decor piece.</li>
+<li>Constructed with a soft fabric surface and memory foam for a comfortable underfoot feel.</li>
+<li>Equipped with a practical non-slip backing to ensure safety and prevent shifting.</li>
+<li>Designed with durable reinforced serged edges and a low pile for long-lasting use.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Round</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Both</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Living Room, Playroom</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip, Stain Resistant</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sports</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam and Polypropylene</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Polyester</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table><h3>Where It Works</h3><p>This round sports rug is the perfect addition to bedrooms, living rooms, playrooms, and dedicated game spaces. Its energetic theme also makes it an excellent choice for a soccer fan\'s man cave or sports-themed kids\' areas.</p>",Make product copy motif-specific while retaining verified public claims only.,"Decorate with a world flags trophy round rug featuring gold cup, soccer balls, host-country flags, five sizes and backing. Design details Round soccer rug with central gold trophy, soccer balls, usa, canada and mexico flags, colorful world-flags inspired pattern, five-size chart, living room, bedroom, dining and holiday room mockups, non-slip text, durable material panel and backing detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Decorate with a world flags trophy round rug featuring gold cup, soccer balls, host-country flags, five sizes and backing.</p><h3>Design details</h3><ul><li>Round soccer rug with central gold trophy, soccer balls, usa, canada and mexico flags, colorful world-flags inspired pattern, five-size chart, living room, bedroom, dining and holiday room mockups, non-slip text, durable material panel and backing detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B033-325,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b222886736e2d725ddc337b6ecb9e726204df5d5b3263f1d6c4247077724efd3.jpg?v=1784383945,,world flags trophy round rug flat view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/583595d2ac0b74fde3dd8c34cf35d7aabc07a14ac93e08ae64d18548ce729d67.jpg?v=1784383945,,round soccer trophy rug size panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/774d55fd877ac7a954ea40f601d71b045388022f3d9a7720ab5b7831c4193211.jpg?v=1784383951,,trophy round rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/55af553fd6a3e184883b7304cf7b65cb7b51cc22a896a0b79aefd6215975d275.jpg?v=1784383951,,soccer round rug bedroom view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/36035fc16c01c818288118b55975c8b40c9fc9783c9ed3ccf076d15bfeb03ef2.jpg?v=1784383956,,round tournament rug under table,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d5cb4add03c3710123599987a2a3524282830105a7838401a95f46b31b745819.jpg?v=1784383957,,world flags soccer rug holiday mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6e55b4c508d2d828340365752d81859966671d40b73f9c86202e9f7a3202d73d.jpg?v=1784383964,,round trophy rug design detail,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/072ed7af39eca40b34a5766383398848ad0d7bbfe2280ec250c0a1fd68849335.jpg?v=1784383963,,superior quality backing panel,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B033,chillgen.com,personalized-dog-welcome-mat-front-door-36fdce22f9,personalized-dog-welcome-mat-front-door-36fdce22f9,15913476653425,gid://shopify/Product/15913476653425,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B033_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B033_pages/personalized-dog-welcome-mat-front-door-36fdce22f9.html,2026-09-07T04:11:50+07:00,en-US,US,https://chillgen.com/products/personalized-dog-welcome-mat-front-door-36fdce22f9,https://chillgen.com/products/personalized-dog-welcome-mat-front-door-36fdce22f9,Rug,Custom Pet Welcome Mat with Washable Memory Foam and Non Slip Backing for Entryway,Custom Pet Welcome Mat with Washable Memory Foam and Non Slip Backing for Entryway,Humans Live Here Pet Mat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Pet Welcome Mat with Washable Memory Foam Surface,NONE_OR_NOT_OBSERVED,Humans Live Here Pet Mat,SET,24,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Create a warm entrance with a custom pet welcome mat featuring selected dogs or cats, personalized text, washable memory foam, and non slip backing.","Customize a Humans Live Here pet mat with dog and cat names, welcome message, pet portraits, non-skid backing and easy clean.",SET,125,Humans Live Here pet mat,"personalized dog welcome mat, custom pet doormat, dog cat entryway rug","Humans Live Here pet mat; personalized dog welcome mat, custom pet doormat, dog cat entryway rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support soccer 2026 rugs, soccer trophy area rugs, championship round rugs, personalized dog welcome mats, custom pet photo doormats and multi-pet entryway rugs. B033 separates near-duplicate soccer products by shape, stadium/trophy/host-flag motif, and dog products by phrase, number of pets and photo/name personalization.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,Humans Live Here pet mat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports humans live here pet mat and product-level buyer intent.,B033-326-BR01,"B033 buyers include soccer fans decorating living rooms, bedrooms and game rooms for big-match viewing, plus pet owners and gift buyers looking for custom dog or cat welcome mats for entryways, housewarming gifts and pet-lover homes.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This adorable personalized pet welcome mat is the perfect way to add a sweet, customized touch to your home. Designed for both dog and cat lovers, this decorative mat features a charming pet-themed design that beautifully enhances your entryway. Crafted with soft, lightweight materials, it offers a comfortable stepping surface while greeting your guests with warmth and personality.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Customizable design allowing you to choose your pets and add personalized text</li>
+<li>Constructed with a soft memory stretch sponge layer for tired feet</li>
+<li>Features a non-slip, anti-skip backing for secure placement</li>
+<li>Highly absorbent, lightweight, and durable construction</li>
+<li>Versatile design suitable for both indoor and outdoor entryways</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Both</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Entryway, Living Room</td>
+</tr>
+<tr>
+<td>Water Resistance Level</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Animal Print</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Pet, Animals</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>PETRUG</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>High quality polyester fabric and memory stretch sponge</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Product Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Clean with a wet sponge or towel and mild detergent, or wash with a water-based detergent and a soft brush, vacuum regularly</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This multifunctional mat works wonderfully as a front door welcome mat, indoor entrance rug, or decorative accent for your living room, kitchen, or bedroom. It is also an ideal accessory to place inside pet houses, playrooms, or dedicated pet dining areas.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a Humans Live Here pet mat with dog and cat names, welcome message, pet portraits, non-skid backing and easy clean. Design details Gray pet welcome mat reading welcome to our home the humans just live here with us with two dogs and one cat, pet names hope, happy and jenny, hand-held photo, doorway and bedside mockups, funny welcome mat panel, 3 mm thickness and non-skid rubber backing. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Customize a Humans Live Here pet mat with dog and cat names, welcome message, pet portraits, non-skid backing and easy clean.</p><h3>Design details</h3><ul><li>Gray pet welcome mat reading welcome to our home the humans just live here with us with two dogs and one cat, pet names hope, happy and jenny, hand-held photo, doorway and bedside mockups, funny welcome mat panel, 3 mm thickness and non-skid rubber backing.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B033-326,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3e0196cc420a5f4b175836e1c123c06e12c6f73f36cb7388a1d34280a423a255.jpg?v=1784375054,,Humans Live Here pet mat held by person,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b70ff01d91b41e960d8635f2978fe14cea507fc5affb6e5bb4f1602d079326a8.jpg?v=1784375054,,multi-pet welcome mat flat view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fcaeab73b3ee0570b8511a0f06db5844186eb650cd930904ff057f0ccc5050ad.jpg?v=1784375059,,pet welcome mat by white door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/73f0e038eceb08e6e815237e17f187446c5c931c90dae6d07ede81c0cdb3f279.jpg?v=1784375060,,funny dog cat welcome mat with dog,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f61b27f10fc748c82a1aa86d2b86cccaeeba12965981d4f1dc1d5cd62a3c154d.jpg?v=1784375064,,non-skid backing detail for pet mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5c50dec811d5ed60bb8ecd919656607a1f42025defed6effc51e5c86e42bda6e.jpg?v=1784375065,,Humans Live Here mat beside bed,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B033,chillgen.com,personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d,personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d,15913476620657,gid://shopify/Product/15913476620657,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B033_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B033_pages/personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d.html,2026-09-07T04:11:50+07:00,en-US,US,https://chillgen.com/products/personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d,https://chillgen.com/products/personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d,Rug,Personalized Dog and Cat Welcome Mat with Memory Foam for Home Entryway,Personalized Dog and Cat Welcome Mat with Memory Foam for Home Entryway,Approved By Dog Photo Mat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Dog and Cat Welcome Mat with Memory Foam,NONE_OR_NOT_OBSERVED,Approved By Dog Photo Mat,SET,25,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Add a personal pet accent with a customized dog and cat welcome mat featuring selected pets, custom text, soft memory foam, and non slip backing.","Personalize an Approved By Dog photo mat with pet name, custom portrait, paw prints, black border and non-skid backing.",SET,119,Approved By Dog photo mat,"custom pet photo doormat, personalized dog welcome mat, dog name entryway rug","Approved By Dog photo mat; custom pet photo doormat, personalized dog welcome mat, dog name entryway rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support soccer 2026 rugs, soccer trophy area rugs, championship round rugs, personalized dog welcome mats, custom pet photo doormats and multi-pet entryway rugs. B033 separates near-duplicate soccer products by shape, stadium/trophy/host-flag motif, and dog products by phrase, number of pets and photo/name personalization.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,Approved By Dog photo mat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports approved by dog photo mat and product-level buyer intent.,B033-327-BR01,"B033 buyers include soccer fans decorating living rooms, bedrooms and game rooms for big-match viewing, plus pet owners and gift buyers looking for custom dog or cat welcome mats for entryways, housewarming gifts and pet-lover homes.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This adorable personalized dog and cat welcome mat brings a sweet, custom touch to any pet lover's home. Featuring a charming pet-themed design, this functional mat is designed for both indoor and outdoor entryway use. It provides a soft, comfortable standing surface that helps relieve tired feet while welcoming guests with a delightful animal print pattern.</p><h3>Product Highlights</h3><ul>
+<li>Customizable design allowing you to choose your pets and add personalized text.</li>
+<li>Crafted with high-quality polyester fabric and soft memory stretch sponge.</li>
+<li>Equipped with a non-slip, anti-skip backing for secure placement.</li>
+<li>Highly absorbent, lightweight, durable, and comfortable underfoot.</li>
+<li>Designed for versatile use at your front door, entryway, or pet area.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Both</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Entryway, Living Room</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Animal Print</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Pet, Animals</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>PETRUG</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Soft Flannel Fabric</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Washable</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Clean with water-based detergent and soft brush, or vacuum regularly</td>
+</tr>
+</table><h3>Where It Works</h3><p>Perfect for front doors, entryways, living rooms, kitchens, and bedrooms. It is also an excellent decorative addition to pet houses, playrooms, and dedicated pet spaces.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalize an Approved By Dog photo mat with pet name, custom portrait, paw prints, black border and non-skid backing. Design details Tan and black custom pet photo mat reading visitors must be approved by dogs name with circular dog portrait, paw prints, hand-held photo, dog model scene, doorway photos, bedside mockup, easy-clean graphic and non-skid rubber backing. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalize an Approved By Dog photo mat with pet name, custom portrait, paw prints, black border and non-skid backing.</p><h3>Design details</h3><ul><li>Tan and black custom pet photo mat reading visitors must be approved by dogs name with circular dog portrait, paw prints, hand-held photo, dog model scene, doorway photos, bedside mockup, easy-clean graphic and non-skid rubber backing.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B033-327,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5a310fea409380b81b3a30f90f99a6e4a50ca9d5b509c63121675b38c7ddeaa0.jpg?v=1784375070,,Approved By Dog photo mat held by person,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7c83a484a6791475f3558101e7b67ad3b42fa0fd522b2b5b7258e6c0bfcfe41d.jpg?v=1784375070,,custom dog photo doormat flat view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/23d178649517f707dd1f8408f422bfc81a050996ba948a89bbd4a1986ec841d6.jpg?v=1784375075,,funny dog welcome mat with dog,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ffb6344eca42529cee98e975e8c560e1f3506f787f0dbcff2fb9cdf217dadfd3.jpg?v=1784375075,,non-skid backing detail for photo mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7730b8a8ee4fc4e304bca1ae8d2a6feb84cd86881d95348b31086d0aff359ae3.jpg?v=1784375080,,Approved By Dog mat at front door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f51a36dcc52f50a8ae05de4e05e045185e78ae6400964a474ae6eaaa7bdbe983.jpg?v=1784375081,,pet photo mat by white door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a1fc44db35b5c6c347a9e16a6b8224fe85bdaae01a8e48f74480c7ffe2dbca8e.jpg?v=1784375085,,dog photo mat beside bed,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0dc995781cbc6e9657c5a3913d05eac90fc31d5f28526d59968b29bf7b00a4b9.jpg?v=1784375086,,Approved By Dog mat on wood floor,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B033,chillgen.com,personalized-dog-welcome-mat-entryway-front-door-5385d11bb7,personalized-dog-welcome-mat-entryway-front-door-5385d11bb7,15913476489585,gid://shopify/Product/15913476489585,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B033_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B033_pages/personalized-dog-welcome-mat-entryway-front-door-5385d11bb7.html,2026-09-07T04:11:50+07:00,en-US,US,https://chillgen.com/products/personalized-dog-welcome-mat-entryway-front-door-5385d11bb7,https://chillgen.com/products/personalized-dog-welcome-mat-entryway-front-door-5385d11bb7,Rug,Custom Dog and Cat Welcome Mat with Pet Text and Non Slip Backing for Entryway,Custom Dog and Cat Welcome Mat with Pet Text and Non Slip Backing for Entryway,Three Pet Welcome Mat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Dog and Cat Welcome Mat with Pet Text for Entryway,NONE_OR_NOT_OBSERVED,Three Pet Welcome Mat,SET,21,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Showcase favorite dogs or cats on a custom welcome mat with personalized text, soft memory foam, an absorbent surface, and non slip backing.","Customize a three pet welcome mat with dog and cat names, tan coir-style design, front door mockups and non-skid backing.",SET,121,three pet welcome mat,"custom dog cat welcome mat, personalized pet doormat, multi pet entryway rug","three pet welcome mat; custom dog cat welcome mat, personalized pet doormat, multi pet entryway rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support soccer 2026 rugs, soccer trophy area rugs, championship round rugs, personalized dog welcome mats, custom pet photo doormats and multi-pet entryway rugs. B033 separates near-duplicate soccer products by shape, stadium/trophy/host-flag motif, and dog products by phrase, number of pets and photo/name personalization.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,three pet welcome mat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports three pet welcome mat and product-level buyer intent.,B033-328-BR01,"B033 buyers include soccer fans decorating living rooms, bedrooms and game rooms for big-match viewing, plus pet owners and gift buyers looking for custom dog or cat welcome mats for entryways, housewarming gifts and pet-lover homes.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This adorable personalized pet welcome mat is the perfect way to greet guests and celebrate your love for your furry family members. Featuring a delightful custom animal print design, it adds a warm and playful touch to your entryway while keeping dirt at bay. Designed for both indoor and outdoor use, this lightweight and soft mat provides a comfortable standing surface for people and pets alike.</p><h3>Product Highlights</h3><ul>
+<li>Customizable design featuring your favorite dogs or cats and personalized text.</li>
+<li>Crafted with high-quality polyester and memory stretch sponge for a super soft, comfortable feel.</li>
+<li>Features a non-slip backing to ensure stability at your front door or indoor entryway.</li>
+<li>Highly functional with super absorbent, lightweight, and durable microfiber construction.</li>
+<li>Easy to clean using a wet sponge or towel, mild detergent, or regular vacuuming.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Both</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Entryway, Living Room</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable, Non-slip, Anti-skip, Super Absorbent</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Animal Print</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Pet, Animals</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>PETRUG</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Surface Feel</td>
+<td>Super soft flannel fabric and memory stretch sponge</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Clean with water-based detergent and soft brush, vacuum regularly, or wipe with wet sponge</td>
+</tr>
+</table><h3>Where It Works</h3><p>Perfect for front doors, entryways, and porches to welcome guests. It also makes an excellent decorative addition to kitchens, living rooms, bedrooms, or dedicated pet areas and pet houses.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a three pet welcome mat with dog and cat names, tan coir-style design, front door mockups and non-skid backing. Design details Tan welcome mat with three illustrated pets and names loki, daisy and bailey, black border, large welcome script, variant thumbnails for different pet combinations, dog model panel, doorway and bedside mockups, 3 mm thickness and non-skid backing detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Customize a three pet welcome mat with dog and cat names, tan coir-style design, front door mockups and non-skid backing.</p><h3>Design details</h3><ul><li>Tan welcome mat with three illustrated pets and names loki, daisy and bailey, black border, large welcome script, variant thumbnails for different pet combinations, dog model panel, doorway and bedside mockups, 3 mm thickness and non-skid backing detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B033-328,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1f7e5c1061ff5e84cef7deeaa2ba16d4a1e19ace62c886edcc4e59e9a01c15d1.jpg?v=1784375091,,three pet welcome mat held by person,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/919c2ab09e276c0d9d4840fb0ff8171cb1c65ec171654fb4790073ff2c3257ec.jpg?v=1784375092,,dog and cat welcome mat by door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8a3e3dca237c75300e15375d85d6945178f8b6212b4b108eb361e6dc3625786b.jpg?v=1784375097,,multi pet welcome mat variant panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/bec199e081110254ade164a84f88dbfecf2fd8d9c715cf6591eae26b22e1fe71.jpg?v=1784375097,,funny pet welcome mat with dog,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3cfc50accc4256829cd0080152d27e059b7f22fd46e7fe7b881beb9433c0808a.jpg?v=1784375102,,non-skid backing detail for pet mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fdf10aacc6cb5f0244d7748da50781dfda5ed93efd6daa9d5196bf6454f8c32d.jpg?v=1784375102,,three pet mat at front door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/296e368ffad1e7a648411f7ca3d86deb0bbe635348b2ee5b0b2589d9689dbcd0.jpg?v=1784375108,,pet welcome mat by white door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/66f1389fc735100fe88bb296985db92ab9985121901f8c68f63e251c35b36db1.jpg?v=1784375108,,three pet mat beside bed,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8906bdb3381971e6241c2c442fec134e13545bf593f9b63f0cc8a7c5376ed6e3.jpg?v=1784375113,,three pet welcome mat flat view,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B033,chillgen.com,personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c,personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c,15913476424049,gid://shopify/Product/15913476424049,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B033_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B033_pages/personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c.html,2026-09-07T04:11:50+07:00,en-US,US,https://chillgen.com/products/personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c,https://chillgen.com/products/personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c,Rug,Personalized Single Pet Welcome Mat with Memory Foam for Front Door Entryway,Personalized Single Pet Welcome Mat with Memory Foam for Front Door Entryway,Loki's House Dog Mat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Single Pet Welcome Mat with Memory Foam,NONE_OR_NOT_OBSERVED,Loki's House Dog Mat,SET,20,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Welcome guests with a personalized single pet mat featuring your selected pet design, soft memory foam, absorbent fabric, and non slip backing.","Personalize a Loki's House dog mat with pet name, owner names, paw prints, tan texture, non-skid backing and easy clean.",SET,120,Loki's House dog mat,"personalized single pet welcome mat, custom dog doormat, dog house entryway rug","Loki's House dog mat; personalized single pet welcome mat, custom dog doormat, dog house entryway rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support soccer 2026 rugs, soccer trophy area rugs, championship round rugs, personalized dog welcome mats, custom pet photo doormats and multi-pet entryway rugs. B033 separates near-duplicate soccer products by shape, stadium/trophy/host-flag motif, and dog products by phrase, number of pets and photo/name personalization.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,Loki's House dog mat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports Loki's House dog mat and product-level buyer intent.,B033-329-BR01,"B033 buyers include soccer fans decorating living rooms, bedrooms and game rooms for big-match viewing, plus pet owners and gift buyers looking for custom dog or cat welcome mats for entryways, housewarming gifts and pet-lover homes.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This adorable personalized dog welcome doormat brings a warm and custom touch to your home's entryway. Featuring a charming pet-inspired design, it serves as a delightful greeting for guests and pet lovers alike. Designed for both indoor and outdoor use, this versatile mat blends functionality with a playful style that complements any front door decor.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Customizable design allowing you to choose the number and types of pets.</li>
+<li>Constructed with high-quality polyester fabric and memory stretch sponge for a soft, comfortable feel.</li>
+<li>Non-slip and anti-skip backing ensures the mat stays securely in place.</li>
+<li>Highly absorbent microfiber material helps keep your floors clean and dry.</li>
+<li>Easy-to-clean surfaces that can be wiped with a wet sponge or machine washed.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Both</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Entryway, Living Room</td>
+</tr>
+<tr>
+<td>Water Resistance Level</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable, Non-slip, Anti-skip, Super Absorbent, Lightweight</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Animal Print</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Pet, Animals</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>PETRUG</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Soft flannel fabric and memory stretch sponge</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Clean with a water-based detergent and soft brush, vacuum regularly, or use a wet sponge with mild detergent</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>Perfect for front doors, entryways, living rooms, kitchens, or even pet houses and dedicated play areas. It makes an excellent gift for pet owners on housewarmings, birthdays, or seasonal holidays.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalize a Loki's House dog mat with pet name, owner names, paw prints, tan texture, non-skid backing and easy clean. Design details Tan single-pet mat reading welcome to loki's house with black and white dog illustration, paw prints, line saying sophia and james live here too, hand-held photo, doorway and bedside mockups, easy-clean panel, 3 mm thickness and non-skid rubber backing. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalize a Loki's House dog mat with pet name, owner names, paw prints, tan texture, non-skid backing and easy clean.</p><h3>Design details</h3><ul><li>Tan single-pet mat reading welcome to loki's house with black and white dog illustration, paw prints, line saying sophia and james live here too, hand-held photo, doorway and bedside mockups, easy-clean panel, 3 mm thickness and non-skid rubber backing.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B033-329,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a3b21b2894a475a3a4c113049137a5a0989fe50a647958b5b639dc638bc229ab.jpg?v=1784375113,,Loki's House dog mat held by person,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1d51eedd359cc6002a51979dd9630a7aebabe0ec7d24fbd1dde6323d18f7a364.jpg?v=1784375118,,single pet welcome mat flat view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f2235cff26af4a3c37bc6fb0bb3fae50a7223a993fb5cdd463a5605492af384b.jpg?v=1784375118,,non-skid backing detail for dog mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b91fca52f18306108ab40a3636c1b64910c7cb72e39e2583ffd1239b3c6af67b.jpg?v=1784375123,,Loki's House mat at front door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5779e7ae7f87678ca4f4ceeeee3eacaa55d841047c36346ba606a455faa6b7e1.jpg?v=1784375123,,dog house mat on wood floor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/49b6f2831ae9c692b1b981546f17d025df1d457c6478db572a9c68e4c5b798dd.jpg?v=1784375129,,Loki's House mat by white door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/73f3cdf7612e42d00d514ecd7c259bd370d1bffd7892ccc4e4f47470d19fc46d.jpg?v=1784375129,,single dog welcome mat beside bed,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B033,chillgen.com,personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662,personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662,15913476292977,gid://shopify/Product/15913476292977,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B033_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B033_pages/personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662.html,2026-09-07T04:11:50+07:00,en-US,US,https://chillgen.com/products/personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662,https://chillgen.com/products/personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662,Rug,Custom Multi Pet Welcome Mat with Dog Cat Design and Memory Foam for Entryway,Custom Multi Pet Welcome Mat with Dog Cat Design and Memory Foam for Entryway,Four Pet Welcome Home Mat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Multi Pet Welcome Mat with Dog Cat Design for Home,NONE_OR_NOT_OBSERVED,Four Pet Welcome Home Mat,SET,25,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Celebrate several pets with a custom welcome mat featuring selected dogs or cats, personalized text, absorbent memory foam, and non slip backing.","Customize a four pet welcome home mat with dog and cat names, funny humans live here line, front door views and backing.",SET,120,four pet welcome home mat,"custom multi pet doormat, personalized dog cat mat, pet lover entryway rug","four pet welcome home mat; custom multi pet doormat, personalized dog cat mat, pet lover entryway rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support soccer 2026 rugs, soccer trophy area rugs, championship round rugs, personalized dog welcome mats, custom pet photo doormats and multi-pet entryway rugs. B033 separates near-duplicate soccer products by shape, stadium/trophy/host-flag motif, and dog products by phrase, number of pets and photo/name personalization.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,four pet welcome home mat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports four pet welcome home mat and product-level buyer intent.,B033-330-BR01,"B033 buyers include soccer fans decorating living rooms, bedrooms and game rooms for big-match viewing, plus pet owners and gift buyers looking for custom dog or cat welcome mats for entryways, housewarming gifts and pet-lover homes.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This charming personalized pet-themed doormat is designed to welcome guests with a touch of warmth and personality. Featuring an adorable dog and cat motif, it serves as the perfect decorative and functional piece for pet lovers. Engineered for both indoor and outdoor use, this mat offers a cozy, soft feel underfoot while keeping dirt at bay.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Fully customizable design allowing you to choose the number of pets and custom text.</li>
+<li>Crafted with high-quality polyester fabric and a supportive memory stretch sponge.</li>
+<li>Non-slip and anti-skip backing ensures the mat stays securely in place.</li>
+<li>Highly absorbent microfiber material helps keep your floors dry and clean.</li>
+<li>Extremely versatile and lightweight, suitable for various areas around the home.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Both</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Entryway, Living Room, Kitchen, Bathroom</td>
+</tr>
+<tr>
+<td>Water Resistance Level</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable, Non-slip, Anti-skip, Super Absorbent, Lightweight</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Animal Print</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Pet, Animals</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>PETRUG</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polyester Fiber, Flannel Fabric</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber, Non-woven fabric dotted with plastic</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Super soft and comfortable memory stretch sponge</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Washable</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Clean with a water-based detergent and soft brush, vacuum regularly, or wipe with a wet sponge/towel and mild detergent</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This versatile mat is perfectly suited for high-traffic entryways, front doors, and porches. It also makes a wonderful decorative addition to indoor spaces like living rooms, bedrooms, kitchens, playrooms, or even designated pet areas.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a four pet welcome home mat with dog and cat names, funny humans live here line, front door views and backing. Design details Tan multi-pet mat reading welcome to our home the humans just live here with us with four pets and names bailey, margot, maisy and loki, variant thumbnail panel, dog model scene, front door and bedside mockups, easy-clean detail and non-skid rubber backing. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Customize a four pet welcome home mat with dog and cat names, funny humans live here line, front door views and backing.</p><h3>Design details</h3><ul><li>Tan multi-pet mat reading welcome to our home the humans just live here with us with four pets and names bailey, margot, maisy and loki, variant thumbnail panel, dog model scene, front door and bedside mockups, easy-clean detail and non-skid rubber backing.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B033-330,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5ec8ec539a475ee5a3926cf0724d6e662336b0bdfaca65a79381a23fdb0dd008.jpg?v=1784375134,,four pet welcome home mat held by person,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f972658b9b506c5597fe47b6fc354f742430338ea4b650937325cc5c87eb9bbc.jpg?v=1784375134,,multi pet mat by white door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/053ea3719761e19a1cf197f62a9ab6ab442c39e397d6fe49a345eb60a6141e2a.jpg?v=1784375139,,four pet welcome mat variant panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/625710be119016c96f1ac4db54bc4c987ffae40463d9c5f25b2fc3a182e87891.jpg?v=1784375140,,funny pet welcome mat with dog,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4252042ea4c23600c945a700177b8ec9947dff345e39395432546803f7a78bb1.jpg?v=1784375145,,four pet mat on wood floor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9d243ef43d967d96a6457d3a96b45d11f21e1b61d8dbfd4b30c6f3c393d729e2.jpg?v=1784375146,,non-skid backing detail for multi pet mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ddc7dc97511784a77a75314fa3d7bd931d7fca657eb8238aa0c381cd9ae5836e.jpg?v=1784375150,,four pet welcome mat beside bed,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

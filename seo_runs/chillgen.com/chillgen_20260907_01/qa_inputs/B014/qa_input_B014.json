@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B014",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-110",
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-111",
+    "halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat",
+    "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100",
+    "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101",
+    "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102",
+    "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::wheel-of-feelings-and-emotions-round-rug-educational-men-design-110",
+    "chillgen.com::wheel-of-feelings-and-emotions-round-rug-educational-men-design-111",
+    "chillgen.com::halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat",
+    "chillgen.com::halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100",
+    "chillgen.com::halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101",
+    "chillgen.com::halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102",
+    "chillgen.com::halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103",
+    "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area",
+    "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100",
+    "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B014\\progress_B014_for_QA.json",
+  "created_at": "2026-09-07T16:41:20+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-110",
+      "canonical_product_key": "chillgen.com::wheel-of-feelings-and-emotions-round-rug-educational-men-design-110",
+      "Handle": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-110",
+      "url": "https://chillgen.com/products/wheel-of-feelings-and-emotions-round-rug-educational-men-design-110",
+      "revision": "1",
+      "title_proposed": "My Feelings Emotion Wheel Classroom Rug",
+      "primary_keyword": "my feelings emotion wheel rug",
+      "evidence_id": "B014-131"
+    },
+    {
+      "product_key": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-111",
+      "canonical_product_key": "chillgen.com::wheel-of-feelings-and-emotions-round-rug-educational-men-design-111",
+      "Handle": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-111",
+      "url": "https://chillgen.com/products/wheel-of-feelings-and-emotions-round-rug-educational-men-design-111",
+      "revision": "1",
+      "title_proposed": "Today I'm Feeling Rug",
+      "primary_keyword": "today i'm feeling rug",
+      "evidence_id": "B014-132"
+    },
+    {
+      "product_key": "halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat",
+      "canonical_product_key": "chillgen.com::halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat",
+      "Handle": "halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat",
+      "url": "https://chillgen.com/products/halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat",
+      "revision": "1",
+      "title_proposed": "Personalized Black Cat Halloween Mat",
+      "primary_keyword": "personalized black cat Halloween mat",
+      "evidence_id": "B014-133"
+    },
+    {
+      "product_key": "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100",
+      "canonical_product_key": "chillgen.com::halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100",
+      "Handle": "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100",
+      "url": "https://chillgen.com/products/halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100",
+      "revision": "1",
+      "title_proposed": "Custom Pumpkin Skull Halloween Mat",
+      "primary_keyword": "custom pumpkin skull Halloween mat",
+      "evidence_id": "B014-134"
+    },
+    {
+      "product_key": "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101",
+      "canonical_product_key": "chillgen.com::halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101",
+      "Handle": "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101",
+      "url": "https://chillgen.com/products/halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101",
+      "revision": "1",
+      "title_proposed": "Personalized Family Halloween Mat",
+      "primary_keyword": "personalized family Halloween mat",
+      "evidence_id": "B014-135"
+    },
+    {
+      "product_key": "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102",
+      "canonical_product_key": "chillgen.com::halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102",
+      "Handle": "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102",
+      "url": "https://chillgen.com/products/halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102",
+      "revision": "1",
+      "title_proposed": "Black Cat Full Moon Halloween Mat",
+      "primary_keyword": "black cat full moon Halloween mat",
+      "evidence_id": "B014-136"
+    },
+    {
+      "product_key": "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103",
+      "canonical_product_key": "chillgen.com::halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103",
+      "Handle": "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103",
+      "url": "https://chillgen.com/products/halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103",
+      "revision": "1",
+      "title_proposed": "Personalized Haunted Home Mat",
+      "primary_keyword": "personalized haunted home mat",
+      "evidence_id": "B014-137"
+    },
+    {
+      "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area",
+      "Handle": "custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area",
+      "url": "https://chillgen.com/products/custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area",
+      "revision": "1",
+      "title_proposed": "Black Cat Portal Halloween Rug",
+      "primary_keyword": "black cat portal Halloween rug",
+      "evidence_id": "B014-138"
+    },
+    {
+      "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100",
+      "Handle": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100",
+      "url": "https://chillgen.com/products/custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100",
+      "revision": "1",
+      "title_proposed": "3D Skeleton Pit Halloween Rug",
+      "primary_keyword": "3D skeleton pit Halloween rug",
+      "evidence_id": "B014-139"
+    },
+    {
+      "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101",
+      "Handle": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101",
+      "url": "https://chillgen.com/products/custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101",
+      "revision": "1",
+      "title_proposed": "Haunted Mansion Halloween Rug",
+      "primary_keyword": "haunted mansion Halloween rug",
+      "evidence_id": "B014-140"
+    }
+  ]
+}

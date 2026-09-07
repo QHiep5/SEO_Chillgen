@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B029",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "custom-running-horse-welcome-mat-fade3d1429",
+    "custom-running-horse-doormat-2a0ef19423-2a0ef19423",
+    "horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd",
+    "custom-running-horse-doormat-b25dd5e514",
+    "custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4",
+    "custom-running-horse-welcome-mat-34b7c38f01",
+    "custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f",
+    "custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6",
+    "custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b",
+    "custom-running-horse-welcome-mat-01f80a49ee"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::custom-running-horse-welcome-mat-fade3d1429",
+    "chillgen.com::custom-running-horse-doormat-2a0ef19423-2a0ef19423",
+    "chillgen.com::horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd",
+    "chillgen.com::custom-running-horse-doormat-b25dd5e514",
+    "chillgen.com::custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4",
+    "chillgen.com::custom-running-horse-welcome-mat-34b7c38f01",
+    "chillgen.com::custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f",
+    "chillgen.com::custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6",
+    "chillgen.com::custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b",
+    "chillgen.com::custom-running-horse-welcome-mat-01f80a49ee"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B029\\progress_B029_for_QA.json",
+  "created_at": "2026-09-07T17:14:46+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "custom-running-horse-welcome-mat-fade3d1429",
+      "canonical_product_key": "chillgen.com::custom-running-horse-welcome-mat-fade3d1429",
+      "Handle": "custom-running-horse-welcome-mat-fade3d1429",
+      "url": "https://chillgen.com/products/custom-running-horse-welcome-mat-fade3d1429",
+      "revision": "1",
+      "title_proposed": "Two Horse Area Rug",
+      "primary_keyword": "two horse area rug",
+      "evidence_id": "B029-281"
+    },
+    {
+      "product_key": "custom-running-horse-doormat-2a0ef19423-2a0ef19423",
+      "canonical_product_key": "chillgen.com::custom-running-horse-doormat-2a0ef19423-2a0ef19423",
+      "Handle": "custom-running-horse-doormat-2a0ef19423-2a0ef19423",
+      "url": "https://chillgen.com/products/custom-running-horse-doormat-2a0ef19423-2a0ef19423",
+      "revision": "1",
+      "title_proposed": "Tribal Horse Area Rug",
+      "primary_keyword": "tribal horse area rug",
+      "evidence_id": "B029-282"
+    },
+    {
+      "product_key": "horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd",
+      "canonical_product_key": "chillgen.com::horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd",
+      "Handle": "horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd",
+      "url": "https://chillgen.com/products/horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd",
+      "revision": "1",
+      "title_proposed": "Sunset Running Horse Rug",
+      "primary_keyword": "sunset running horse rug",
+      "evidence_id": "B029-283"
+    },
+    {
+      "product_key": "custom-running-horse-doormat-b25dd5e514",
+      "canonical_product_key": "chillgen.com::custom-running-horse-doormat-b25dd5e514",
+      "Handle": "custom-running-horse-doormat-b25dd5e514",
+      "url": "https://chillgen.com/products/custom-running-horse-doormat-b25dd5e514",
+      "revision": "1",
+      "title_proposed": "Sunflower Horse Area Rug",
+      "primary_keyword": "sunflower horse area rug",
+      "evidence_id": "B029-284"
+    },
+    {
+      "product_key": "custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4",
+      "canonical_product_key": "chillgen.com::custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4",
+      "Handle": "custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4",
+      "url": "https://chillgen.com/products/custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4",
+      "revision": "1",
+      "title_proposed": "Fire Horse Area Rug",
+      "primary_keyword": "fire horse area rug",
+      "evidence_id": "B029-285"
+    },
+    {
+      "product_key": "custom-running-horse-welcome-mat-34b7c38f01",
+      "canonical_product_key": "chillgen.com::custom-running-horse-welcome-mat-34b7c38f01",
+      "Handle": "custom-running-horse-welcome-mat-34b7c38f01",
+      "url": "https://chillgen.com/products/custom-running-horse-welcome-mat-34b7c38f01",
+      "revision": "1",
+      "title_proposed": "Black Horse Portrait Rug",
+      "primary_keyword": "black horse portrait rug",
+      "evidence_id": "B029-286"
+    },
+    {
+      "product_key": "custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f",
+      "canonical_product_key": "chillgen.com::custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f",
+      "Handle": "custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f",
+      "url": "https://chillgen.com/products/custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f",
+      "revision": "1",
+      "title_proposed": "Daisy Horse Area Rug",
+      "primary_keyword": "daisy horse area rug",
+      "evidence_id": "B029-287"
+    },
+    {
+      "product_key": "custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6",
+      "canonical_product_key": "chillgen.com::custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6",
+      "Handle": "custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6",
+      "url": "https://chillgen.com/products/custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6",
+      "revision": "1",
+      "title_proposed": "Horse Eye Area Rug",
+      "primary_keyword": "horse eye area rug",
+      "evidence_id": "B029-288"
+    },
+    {
+      "product_key": "custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b",
+      "canonical_product_key": "chillgen.com::custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b",
+      "Handle": "custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b",
+      "url": "https://chillgen.com/products/custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b",
+      "revision": "1",
+      "title_proposed": "White Floral Horse Rug",
+      "primary_keyword": "white floral horse rug",
+      "evidence_id": "B029-289"
+    },
+    {
+      "product_key": "custom-running-horse-welcome-mat-01f80a49ee",
+      "canonical_product_key": "chillgen.com::custom-running-horse-welcome-mat-01f80a49ee",
+      "Handle": "custom-running-horse-welcome-mat-01f80a49ee",
+      "url": "https://chillgen.com/products/custom-running-horse-welcome-mat-01f80a49ee",
+      "revision": "1",
+      "title_proposed": "Butterfly Horse Area Rug",
+      "primary_keyword": "butterfly horse area rug",
+      "evidence_id": "B029-290"
+    }
+  ]
+}

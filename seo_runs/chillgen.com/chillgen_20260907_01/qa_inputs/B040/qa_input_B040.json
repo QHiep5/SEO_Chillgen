@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B040",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "celtic-tree-of-life-welcome-mat-5798e850b0",
+    "tree-of-life-celtic-indoor-rug-89f894eb42",
+    "custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37",
+    "tree-of-life-celtic-area-rug-d16ac94729",
+    "custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99",
+    "custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3",
+    "tree-of-life-celtic-indoor-rug-e74720f30a",
+    "custom-celtic-tree-of-life-welcome-mat-1e4bffd67c",
+    "custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d",
+    "custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::celtic-tree-of-life-welcome-mat-5798e850b0",
+    "chillgen.com::tree-of-life-celtic-indoor-rug-89f894eb42",
+    "chillgen.com::custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37",
+    "chillgen.com::tree-of-life-celtic-area-rug-d16ac94729",
+    "chillgen.com::custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99",
+    "chillgen.com::custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3",
+    "chillgen.com::tree-of-life-celtic-indoor-rug-e74720f30a",
+    "chillgen.com::custom-celtic-tree-of-life-welcome-mat-1e4bffd67c",
+    "chillgen.com::custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d",
+    "chillgen.com::custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B040\\progress_B040_for_QA.json",
+  "created_at": "2026-09-07T18:13:56+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "celtic-tree-of-life-welcome-mat-5798e850b0",
+      "canonical_product_key": "chillgen.com::celtic-tree-of-life-welcome-mat-5798e850b0",
+      "Handle": "celtic-tree-of-life-welcome-mat-5798e850b0",
+      "url": "https://chillgen.com/products/celtic-tree-of-life-welcome-mat-5798e850b0",
+      "revision": "1",
+      "title_proposed": "Sunset Celtic Tree Of Life Rug",
+      "primary_keyword": "sunset Celtic Tree of Life rug",
+      "evidence_id": "B040-391"
+    },
+    {
+      "product_key": "tree-of-life-celtic-indoor-rug-89f894eb42",
+      "canonical_product_key": "chillgen.com::tree-of-life-celtic-indoor-rug-89f894eb42",
+      "Handle": "tree-of-life-celtic-indoor-rug-89f894eb42",
+      "url": "https://chillgen.com/products/tree-of-life-celtic-indoor-rug-89f894eb42",
+      "revision": "1",
+      "title_proposed": "Abstract Rainbow Tree Of Life Rug",
+      "primary_keyword": "abstract rainbow Tree of Life rug",
+      "evidence_id": "B040-392"
+    },
+    {
+      "product_key": "custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37",
+      "canonical_product_key": "chillgen.com::custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37",
+      "Handle": "custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37",
+      "url": "https://chillgen.com/products/custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37",
+      "revision": "1",
+      "title_proposed": "Stained Glass Yggdrasil Rug",
+      "primary_keyword": "stained glass Yggdrasil rug",
+      "evidence_id": "B040-393"
+    },
+    {
+      "product_key": "tree-of-life-celtic-area-rug-d16ac94729",
+      "canonical_product_key": "chillgen.com::tree-of-life-celtic-area-rug-d16ac94729",
+      "Handle": "tree-of-life-celtic-area-rug-d16ac94729",
+      "url": "https://chillgen.com/products/tree-of-life-celtic-area-rug-d16ac94729",
+      "revision": "1",
+      "title_proposed": "Celtic Knot Roots Rug",
+      "primary_keyword": "Celtic knot roots rug",
+      "evidence_id": "B040-394"
+    },
+    {
+      "product_key": "custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99",
+      "canonical_product_key": "chillgen.com::custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99",
+      "Handle": "custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99",
+      "url": "https://chillgen.com/products/custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99",
+      "revision": "1",
+      "title_proposed": "Emerald Celtic Tree Rug",
+      "primary_keyword": "emerald Celtic Tree rug",
+      "evidence_id": "B040-395"
+    },
+    {
+      "product_key": "custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3",
+      "canonical_product_key": "chillgen.com::custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3",
+      "Handle": "custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3",
+      "url": "https://chillgen.com/products/custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3",
+      "revision": "1",
+      "title_proposed": "Monochrome Tree Of Life Rug",
+      "primary_keyword": "monochrome Tree of Life rug",
+      "evidence_id": "B040-396"
+    },
+    {
+      "product_key": "tree-of-life-celtic-indoor-rug-e74720f30a",
+      "canonical_product_key": "chillgen.com::tree-of-life-celtic-indoor-rug-e74720f30a",
+      "Handle": "tree-of-life-celtic-indoor-rug-e74720f30a",
+      "url": "https://chillgen.com/products/tree-of-life-celtic-indoor-rug-e74720f30a",
+      "revision": "1",
+      "title_proposed": "Teal Gold Tree Of Life Rug",
+      "primary_keyword": "teal gold Tree of Life rug",
+      "evidence_id": "B040-397"
+    },
+    {
+      "product_key": "custom-celtic-tree-of-life-welcome-mat-1e4bffd67c",
+      "canonical_product_key": "chillgen.com::custom-celtic-tree-of-life-welcome-mat-1e4bffd67c",
+      "Handle": "custom-celtic-tree-of-life-welcome-mat-1e4bffd67c",
+      "url": "https://chillgen.com/products/custom-celtic-tree-of-life-welcome-mat-1e4bffd67c",
+      "revision": "1",
+      "title_proposed": "Sepia Celtic Knot Tree Rug",
+      "primary_keyword": "sepia Celtic knot tree rug",
+      "evidence_id": "B040-398"
+    },
+    {
+      "product_key": "custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d",
+      "canonical_product_key": "chillgen.com::custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d",
+      "Handle": "custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d",
+      "url": "https://chillgen.com/products/custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d",
+      "revision": "1",
+      "title_proposed": "Jeweled Celtic Tree Rug",
+      "primary_keyword": "jeweled Celtic Tree rug",
+      "evidence_id": "B040-399"
+    },
+    {
+      "product_key": "custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c",
+      "canonical_product_key": "chillgen.com::custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c",
+      "Handle": "custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c",
+      "url": "https://chillgen.com/products/custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c",
+      "revision": "1",
+      "title_proposed": "Rainbow Mosaic Tree Rug",
+      "primary_keyword": "rainbow mosaic Tree rug",
+      "evidence_id": "B040-400"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B018",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "personalized-family-couple-doormat-custom-couple-husband-design-04",
+    "personalized-family-couple-doormat-custom-couple-husband-design-02",
+    "personalized-family-couple-doormat-custom-couple-husband-wife-doormat",
+    "abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46",
+    "custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4",
+    "custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9",
+    "educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c",
+    "colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9",
+    "custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4",
+    "custom-soccer-championship-round-rug-6b6ea4fbf7"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::personalized-family-couple-doormat-custom-couple-husband-design-04",
+    "chillgen.com::personalized-family-couple-doormat-custom-couple-husband-design-02",
+    "chillgen.com::personalized-family-couple-doormat-custom-couple-husband-wife-doormat",
+    "chillgen.com::abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46",
+    "chillgen.com::custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4",
+    "chillgen.com::custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9",
+    "chillgen.com::educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c",
+    "chillgen.com::colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9",
+    "chillgen.com::custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4",
+    "chillgen.com::custom-soccer-championship-round-rug-6b6ea4fbf7"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B018\\progress_B018_for_QA.json",
+  "created_at": "2026-09-07T16:49:28+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "personalized-family-couple-doormat-custom-couple-husband-design-04",
+      "canonical_product_key": "chillgen.com::personalized-family-couple-doormat-custom-couple-husband-design-04",
+      "Handle": "personalized-family-couple-doormat-custom-couple-husband-design-04",
+      "url": "https://chillgen.com/products/personalized-family-couple-doormat-custom-couple-husband-design-04",
+      "revision": "1",
+      "title_proposed": "Funny Couple Welcome Doormat",
+      "primary_keyword": "funny couple welcome doormat",
+      "evidence_id": "B018-171"
+    },
+    {
+      "product_key": "personalized-family-couple-doormat-custom-couple-husband-design-02",
+      "canonical_product_key": "chillgen.com::personalized-family-couple-doormat-custom-couple-husband-design-02",
+      "Handle": "personalized-family-couple-doormat-custom-couple-husband-design-02",
+      "url": "https://chillgen.com/products/personalized-family-couple-doormat-custom-couple-husband-design-02",
+      "revision": "1",
+      "title_proposed": "Animals And Kids Couple Doormat",
+      "primary_keyword": "animals and kids couple doormat",
+      "evidence_id": "B018-172"
+    },
+    {
+      "product_key": "personalized-family-couple-doormat-custom-couple-husband-wife-doormat",
+      "canonical_product_key": "chillgen.com::personalized-family-couple-doormat-custom-couple-husband-wife-doormat",
+      "Handle": "personalized-family-couple-doormat-custom-couple-husband-wife-doormat",
+      "url": "https://chillgen.com/products/personalized-family-couple-doormat-custom-couple-husband-wife-doormat",
+      "revision": "1",
+      "title_proposed": "Personalized Couple Welcome Mat",
+      "primary_keyword": "personalized couple welcome mat",
+      "evidence_id": "B018-173"
+    },
+    {
+      "product_key": "abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46",
+      "canonical_product_key": "chillgen.com::abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46",
+      "Handle": "abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46",
+      "url": "https://chillgen.com/products/abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46",
+      "revision": "1",
+      "title_proposed": "ABC Animal Alphabet Kids Rug",
+      "primary_keyword": "ABC animal alphabet rug",
+      "evidence_id": "B018-174"
+    },
+    {
+      "product_key": "custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4",
+      "canonical_product_key": "chillgen.com::custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4",
+      "Handle": "custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4",
+      "url": "https://chillgen.com/products/custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4",
+      "revision": "1",
+      "title_proposed": "Feelings Chart Classroom Rug",
+      "primary_keyword": "feelings chart classroom rug",
+      "evidence_id": "B018-175"
+    },
+    {
+      "product_key": "custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9",
+      "canonical_product_key": "chillgen.com::custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9",
+      "Handle": "custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9",
+      "url": "https://chillgen.com/products/custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9",
+      "revision": "1",
+      "title_proposed": "Hundred Acre Wood Map Rug",
+      "primary_keyword": "Hundred Acre Wood map rug",
+      "evidence_id": "B018-176"
+    },
+    {
+      "product_key": "educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c",
+      "canonical_product_key": "chillgen.com::educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c",
+      "Handle": "educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c",
+      "url": "https://chillgen.com/products/educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c",
+      "revision": "1",
+      "title_proposed": "Alphabet Handwriting Classroom Rug",
+      "primary_keyword": "alphabet handwriting classroom rug",
+      "evidence_id": "B018-177"
+    },
+    {
+      "product_key": "colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9",
+      "canonical_product_key": "chillgen.com::colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9",
+      "Handle": "colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9",
+      "url": "https://chillgen.com/products/colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9",
+      "revision": "1",
+      "title_proposed": "Feelings Zone Classroom Rug",
+      "primary_keyword": "feelings zone classroom rug",
+      "evidence_id": "B018-178"
+    },
+    {
+      "product_key": "custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4",
+      "canonical_product_key": "chillgen.com::custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4",
+      "Handle": "custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4",
+      "url": "https://chillgen.com/products/custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4",
+      "revision": "1",
+      "title_proposed": "Soccer Host Flags Round Rug",
+      "primary_keyword": "soccer host flags round rug",
+      "evidence_id": "B018-179"
+    },
+    {
+      "product_key": "custom-soccer-championship-round-rug-6b6ea4fbf7",
+      "canonical_product_key": "chillgen.com::custom-soccer-championship-round-rug-6b6ea4fbf7",
+      "Handle": "custom-soccer-championship-round-rug-6b6ea4fbf7",
+      "url": "https://chillgen.com/products/custom-soccer-championship-round-rug-6b6ea4fbf7",
+      "revision": "1",
+      "title_proposed": "Soccer Tournament Trophy Rug",
+      "primary_keyword": "soccer tournament trophy rug",
+      "evidence_id": "B018-180"
+    }
+  ]
+}

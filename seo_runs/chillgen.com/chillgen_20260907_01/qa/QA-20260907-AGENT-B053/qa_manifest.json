@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B053",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "custom-teacher-welcome-doormat-classroom-school-gym-f138369d41",
+    "custom-teacher-classroom-welcome-doormat-513babf582",
+    "personalized-name-teacher-doormat-classroom-school-e7cafd4fd8",
+    "personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49",
+    "personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c",
+    "personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0",
+    "custom-3d-effect-dragon-round-rug-9cee675fdf",
+    "custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8",
+    "custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b",
+    "personalized-dragon-round-rug-3d-effect-dcdcc98f68"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::custom-teacher-welcome-doormat-classroom-school-gym-f138369d41",
+    "chillgen.com::custom-teacher-classroom-welcome-doormat-513babf582",
+    "chillgen.com::personalized-name-teacher-doormat-classroom-school-e7cafd4fd8",
+    "chillgen.com::personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49",
+    "chillgen.com::personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c",
+    "chillgen.com::personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0",
+    "chillgen.com::custom-3d-effect-dragon-round-rug-9cee675fdf",
+    "chillgen.com::custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8",
+    "chillgen.com::custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b",
+    "chillgen.com::personalized-dragon-round-rug-3d-effect-dcdcc98f68"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B053\\progress_B053_for_QA.json",
+  "created_at": "2026-09-07T19:37:58+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "custom-teacher-welcome-doormat-classroom-school-gym-f138369d41",
+      "canonical_product_key": "chillgen.com::custom-teacher-welcome-doormat-classroom-school-gym-f138369d41",
+      "Handle": "custom-teacher-welcome-doormat-classroom-school-gym-f138369d41",
+      "url": "https://chillgen.com/products/custom-teacher-welcome-doormat-classroom-school-gym-f138369d41",
+      "revision": "1",
+      "title_proposed": "Personalized Phys Ed Classroom Welcome Mat",
+      "primary_keyword": "personalized phys ed classroom mat",
+      "evidence_id": "B053-521"
+    },
+    {
+      "product_key": "custom-teacher-classroom-welcome-doormat-513babf582",
+      "canonical_product_key": "chillgen.com::custom-teacher-classroom-welcome-doormat-513babf582",
+      "Handle": "custom-teacher-classroom-welcome-doormat-513babf582",
+      "url": "https://chillgen.com/products/custom-teacher-classroom-welcome-doormat-513babf582",
+      "revision": "1",
+      "title_proposed": "Preschool Teacher Personalized Classroom Mat",
+      "primary_keyword": "preschool teacher classroom mat",
+      "evidence_id": "B053-522"
+    },
+    {
+      "product_key": "personalized-name-teacher-doormat-classroom-school-e7cafd4fd8",
+      "canonical_product_key": "chillgen.com::personalized-name-teacher-doormat-classroom-school-e7cafd4fd8",
+      "Handle": "personalized-name-teacher-doormat-classroom-school-e7cafd4fd8",
+      "url": "https://chillgen.com/products/personalized-name-teacher-doormat-classroom-school-e7cafd4fd8",
+      "revision": "1",
+      "title_proposed": "Custom Teacher Name Classroom Doormat",
+      "primary_keyword": "custom teacher name doormat",
+      "evidence_id": "B053-523"
+    },
+    {
+      "product_key": "personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49",
+      "canonical_product_key": "chillgen.com::personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49",
+      "Handle": "personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49",
+      "url": "https://chillgen.com/products/personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49",
+      "revision": "1",
+      "title_proposed": "Personalized Vinyl Record Rug with Photo",
+      "primary_keyword": "personalized vinyl record rug",
+      "evidence_id": "B053-524"
+    },
+    {
+      "product_key": "personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c",
+      "canonical_product_key": "chillgen.com::personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c",
+      "Handle": "personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c",
+      "url": "https://chillgen.com/products/personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c",
+      "revision": "1",
+      "title_proposed": "Custom Floral Vinyl Record Rug",
+      "primary_keyword": "custom floral vinyl record rug",
+      "evidence_id": "B053-525"
+    },
+    {
+      "product_key": "personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0",
+      "canonical_product_key": "chillgen.com::personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0",
+      "Handle": "personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0",
+      "url": "https://chillgen.com/products/personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0",
+      "revision": "1",
+      "title_proposed": "Custom CD Record Rug with Image",
+      "primary_keyword": "custom CD record rug",
+      "evidence_id": "B053-526"
+    },
+    {
+      "product_key": "custom-3d-effect-dragon-round-rug-9cee675fdf",
+      "canonical_product_key": "chillgen.com::custom-3d-effect-dragon-round-rug-9cee675fdf",
+      "Handle": "custom-3d-effect-dragon-round-rug-9cee675fdf",
+      "url": "https://chillgen.com/products/custom-3d-effect-dragon-round-rug-9cee675fdf",
+      "revision": "1",
+      "title_proposed": "3D Dragon Library Round Rug",
+      "primary_keyword": "3D dragon library rug",
+      "evidence_id": "B053-527"
+    },
+    {
+      "product_key": "custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8",
+      "canonical_product_key": "chillgen.com::custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8",
+      "Handle": "custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8",
+      "url": "https://chillgen.com/products/custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8",
+      "revision": "1",
+      "title_proposed": "Purple Dragon Library Optical Illusion Rug",
+      "primary_keyword": "dragon library optical illusion rug",
+      "evidence_id": "B053-528"
+    },
+    {
+      "product_key": "custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b",
+      "canonical_product_key": "chillgen.com::custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b",
+      "Handle": "custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b",
+      "url": "https://chillgen.com/products/custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b",
+      "revision": "1",
+      "title_proposed": "Coping Skills Classroom Jobs Rug",
+      "primary_keyword": "coping skills classroom rug",
+      "evidence_id": "B053-529"
+    },
+    {
+      "product_key": "personalized-dragon-round-rug-3d-effect-dcdcc98f68",
+      "canonical_product_key": "chillgen.com::personalized-dragon-round-rug-3d-effect-dcdcc98f68",
+      "Handle": "personalized-dragon-round-rug-3d-effect-dcdcc98f68",
+      "url": "https://chillgen.com/products/personalized-dragon-round-rug-3d-effect-dcdcc98f68",
+      "revision": "1",
+      "title_proposed": "White Dragon Forest Round Rug",
+      "primary_keyword": "white dragon round rug",
+      "evidence_id": "B053-530"
+    }
+  ]
+}

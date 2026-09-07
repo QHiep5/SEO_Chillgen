@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B038",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "personalized-christmas-doormat-with-custom-family-name-315531dc75-315531dc75",
+    "custom-road-map-play-mat-rug-38a585717c-38a585717c",
+    "wheel-of-feelings-and-emotions-round-rug-ec03e55978",
+    "wheel-of-feelings-and-emotions-round-rug-01636a663b",
+    "feelings-wheel-emotions-round-rug-0f979e072d-0f979e072d",
+    "wheel-of-feelings-and-emotions-round-rug-8a745f7f62",
+    "wheel-of-feelings-and-emotions-round-rug-697b1d04c9",
+    "custom-abc-educational-classroom-round-rug-33de96c620-33de96c620",
+    "classroom-round-rug-educational-feelings-carpet-6f4ceb729b",
+    "custom-abc-educational-welcome-mat-bed98ba4ec-bed98ba4ec"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::personalized-christmas-doormat-with-custom-family-name-315531dc75-315531dc75",
+    "chillgen.com::custom-road-map-play-mat-rug-38a585717c-38a585717c",
+    "chillgen.com::wheel-of-feelings-and-emotions-round-rug-ec03e55978",
+    "chillgen.com::wheel-of-feelings-and-emotions-round-rug-01636a663b",
+    "chillgen.com::feelings-wheel-emotions-round-rug-0f979e072d-0f979e072d",
+    "chillgen.com::wheel-of-feelings-and-emotions-round-rug-8a745f7f62",
+    "chillgen.com::wheel-of-feelings-and-emotions-round-rug-697b1d04c9",
+    "chillgen.com::custom-abc-educational-classroom-round-rug-33de96c620-33de96c620",
+    "chillgen.com::classroom-round-rug-educational-feelings-carpet-6f4ceb729b",
+    "chillgen.com::custom-abc-educational-welcome-mat-bed98ba4ec-bed98ba4ec"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B038\\progress_B038_for_QA.json",
+  "created_at": "2026-09-07T18:00:12+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "personalized-christmas-doormat-with-custom-family-name-315531dc75-315531dc75",
+      "canonical_product_key": "chillgen.com::personalized-christmas-doormat-with-custom-family-name-315531dc75-315531dc75",
+      "Handle": "personalized-christmas-doormat-with-custom-family-name-315531dc75-315531dc75",
+      "url": "https://chillgen.com/products/personalized-christmas-doormat-with-custom-family-name-315531dc75-315531dc75",
+      "revision": "1",
+      "title_proposed": "Buffalo Plaid Christmas Family Mat",
+      "primary_keyword": "buffalo plaid Christmas family mat",
+      "evidence_id": "B038-371"
+    },
+    {
+      "product_key": "custom-road-map-play-mat-rug-38a585717c-38a585717c",
+      "canonical_product_key": "chillgen.com::custom-road-map-play-mat-rug-38a585717c-38a585717c",
+      "Handle": "custom-road-map-play-mat-rug-38a585717c-38a585717c",
+      "url": "https://chillgen.com/products/custom-road-map-play-mat-rug-38a585717c-38a585717c",
+      "revision": "1",
+      "title_proposed": "Personalized Town Road Map Kids Rug",
+      "primary_keyword": "personalized town road map kids rug",
+      "evidence_id": "B038-372"
+    },
+    {
+      "product_key": "wheel-of-feelings-and-emotions-round-rug-ec03e55978",
+      "canonical_product_key": "chillgen.com::wheel-of-feelings-and-emotions-round-rug-ec03e55978",
+      "Handle": "wheel-of-feelings-and-emotions-round-rug-ec03e55978",
+      "url": "https://chillgen.com/products/wheel-of-feelings-and-emotions-round-rug-ec03e55978",
+      "revision": "1",
+      "title_proposed": "I Feel Emotion Faces Rug",
+      "primary_keyword": "I Feel emotion faces rug",
+      "evidence_id": "B038-373"
+    },
+    {
+      "product_key": "wheel-of-feelings-and-emotions-round-rug-01636a663b",
+      "canonical_product_key": "chillgen.com::wheel-of-feelings-and-emotions-round-rug-01636a663b",
+      "Handle": "wheel-of-feelings-and-emotions-round-rug-01636a663b",
+      "url": "https://chillgen.com/products/wheel-of-feelings-and-emotions-round-rug-01636a663b",
+      "revision": "1",
+      "title_proposed": "Teaching Clock Round Rug",
+      "primary_keyword": "teaching clock round rug",
+      "evidence_id": "B038-374"
+    },
+    {
+      "product_key": "feelings-wheel-emotions-round-rug-0f979e072d-0f979e072d",
+      "canonical_product_key": "chillgen.com::feelings-wheel-emotions-round-rug-0f979e072d-0f979e072d",
+      "Handle": "feelings-wheel-emotions-round-rug-0f979e072d-0f979e072d",
+      "url": "https://chillgen.com/products/feelings-wheel-emotions-round-rug-0f979e072d-0f979e072d",
+      "revision": "1",
+      "title_proposed": "Black Feelings Flower Rug",
+      "primary_keyword": "black feelings flower rug",
+      "evidence_id": "B038-375"
+    },
+    {
+      "product_key": "wheel-of-feelings-and-emotions-round-rug-8a745f7f62",
+      "canonical_product_key": "chillgen.com::wheel-of-feelings-and-emotions-round-rug-8a745f7f62",
+      "Handle": "wheel-of-feelings-and-emotions-round-rug-8a745f7f62",
+      "url": "https://chillgen.com/products/wheel-of-feelings-and-emotions-round-rug-8a745f7f62",
+      "revision": "1",
+      "title_proposed": "Color Emotions Chart Rug",
+      "primary_keyword": "color emotions chart rug",
+      "evidence_id": "B038-376"
+    },
+    {
+      "product_key": "wheel-of-feelings-and-emotions-round-rug-697b1d04c9",
+      "canonical_product_key": "chillgen.com::wheel-of-feelings-and-emotions-round-rug-697b1d04c9",
+      "Handle": "wheel-of-feelings-and-emotions-round-rug-697b1d04c9",
+      "url": "https://chillgen.com/products/wheel-of-feelings-and-emotions-round-rug-697b1d04c9",
+      "revision": "1",
+      "title_proposed": "You Are Crayons Feelings Rug",
+      "primary_keyword": "You Are crayons feelings rug",
+      "evidence_id": "B038-377"
+    },
+    {
+      "product_key": "custom-abc-educational-classroom-round-rug-33de96c620-33de96c620",
+      "canonical_product_key": "chillgen.com::custom-abc-educational-classroom-round-rug-33de96c620-33de96c620",
+      "Handle": "custom-abc-educational-classroom-round-rug-33de96c620-33de96c620",
+      "url": "https://chillgen.com/products/custom-abc-educational-classroom-round-rug-33de96c620-33de96c620",
+      "revision": "1",
+      "title_proposed": "White ABC Flower Classroom Rug",
+      "primary_keyword": "white ABC flower classroom rug",
+      "evidence_id": "B038-378"
+    },
+    {
+      "product_key": "classroom-round-rug-educational-feelings-carpet-6f4ceb729b",
+      "canonical_product_key": "chillgen.com::classroom-round-rug-educational-feelings-carpet-6f4ceb729b",
+      "Handle": "classroom-round-rug-educational-feelings-carpet-6f4ceb729b",
+      "url": "https://chillgen.com/products/classroom-round-rug-educational-feelings-carpet-6f4ceb729b",
+      "revision": "1",
+      "title_proposed": "Rainbow Affirmation Classroom Rug",
+      "primary_keyword": "rainbow affirmation classroom rug",
+      "evidence_id": "B038-379"
+    },
+    {
+      "product_key": "custom-abc-educational-welcome-mat-bed98ba4ec-bed98ba4ec",
+      "canonical_product_key": "chillgen.com::custom-abc-educational-welcome-mat-bed98ba4ec-bed98ba4ec",
+      "Handle": "custom-abc-educational-welcome-mat-bed98ba4ec-bed98ba4ec",
+      "url": "https://chillgen.com/products/custom-abc-educational-welcome-mat-bed98ba4ec-bed98ba4ec",
+      "revision": "1",
+      "title_proposed": "Black ABC Flower Classroom Rug",
+      "primary_keyword": "black ABC flower classroom rug",
+      "evidence_id": "B038-380"
+    }
+  ]
+}

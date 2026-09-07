@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B051",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "personalized-welcome-doormat-class-teacher-f81a80f527",
+    "custom-flamingo-welcome-mat-for-front-door-2096a15fdb",
+    "personalized-classroom-doormat-custom-teacher-name-23d2140383",
+    "custom-pink-flamingo-welcome-mat-98ad4e675e",
+    "personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb",
+    "custom-classroom-welcome-mat-for-front-door-ca10b2ead1",
+    "personalized-classroom-doormat-custom-teacher-name-45bc0142b3",
+    "custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca",
+    "custom-pink-flamingo-area-rug-doormat-e7ac68e9c9",
+    "custom-koi-fish-shaped-area-rug-3b4acfcd3b"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::personalized-welcome-doormat-class-teacher-f81a80f527",
+    "chillgen.com::custom-flamingo-welcome-mat-for-front-door-2096a15fdb",
+    "chillgen.com::personalized-classroom-doormat-custom-teacher-name-23d2140383",
+    "chillgen.com::custom-pink-flamingo-welcome-mat-98ad4e675e",
+    "chillgen.com::personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb",
+    "chillgen.com::custom-classroom-welcome-mat-for-front-door-ca10b2ead1",
+    "chillgen.com::personalized-classroom-doormat-custom-teacher-name-45bc0142b3",
+    "chillgen.com::custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca",
+    "chillgen.com::custom-pink-flamingo-area-rug-doormat-e7ac68e9c9",
+    "chillgen.com::custom-koi-fish-shaped-area-rug-3b4acfcd3b"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B051\\progress_B051_for_QA.json",
+  "created_at": "2026-09-07T19:37:58+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "personalized-welcome-doormat-class-teacher-f81a80f527",
+      "canonical_product_key": "chillgen.com::personalized-welcome-doormat-class-teacher-f81a80f527",
+      "Handle": "personalized-welcome-doormat-class-teacher-f81a80f527",
+      "url": "https://chillgen.com/products/personalized-welcome-doormat-class-teacher-f81a80f527",
+      "revision": "1",
+      "title_proposed": "Personalized Classroom Welcome Doormat",
+      "primary_keyword": "personalized classroom welcome doormat",
+      "evidence_id": "B051-501"
+    },
+    {
+      "product_key": "custom-flamingo-welcome-mat-for-front-door-2096a15fdb",
+      "canonical_product_key": "chillgen.com::custom-flamingo-welcome-mat-for-front-door-2096a15fdb",
+      "Handle": "custom-flamingo-welcome-mat-for-front-door-2096a15fdb",
+      "url": "https://chillgen.com/products/custom-flamingo-welcome-mat-for-front-door-2096a15fdb",
+      "revision": "1",
+      "title_proposed": "Flamingo Couple Area Rug with Sunset Beach Art",
+      "primary_keyword": "flamingo couple area rug",
+      "evidence_id": "B051-502"
+    },
+    {
+      "product_key": "personalized-classroom-doormat-custom-teacher-name-23d2140383",
+      "canonical_product_key": "chillgen.com::personalized-classroom-doormat-custom-teacher-name-23d2140383",
+      "Handle": "personalized-classroom-doormat-custom-teacher-name-23d2140383",
+      "url": "https://chillgen.com/products/personalized-classroom-doormat-custom-teacher-name-23d2140383",
+      "revision": "1",
+      "title_proposed": "Everyone Is Welcome Classroom Doormat",
+      "primary_keyword": "everyone is welcome classroom doormat",
+      "evidence_id": "B051-503"
+    },
+    {
+      "product_key": "custom-pink-flamingo-welcome-mat-98ad4e675e",
+      "canonical_product_key": "chillgen.com::custom-pink-flamingo-welcome-mat-98ad4e675e",
+      "Handle": "custom-pink-flamingo-welcome-mat-98ad4e675e",
+      "url": "https://chillgen.com/products/custom-pink-flamingo-welcome-mat-98ad4e675e",
+      "revision": "1",
+      "title_proposed": "Pink Flamingo Moonlight Area Rug",
+      "primary_keyword": "moonlight pink flamingo rug",
+      "evidence_id": "B051-504"
+    },
+    {
+      "product_key": "personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb",
+      "canonical_product_key": "chillgen.com::personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb",
+      "Handle": "personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb",
+      "url": "https://chillgen.com/products/personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb",
+      "revision": "1",
+      "title_proposed": "Personalized Classroom Affirmation Doormat",
+      "primary_keyword": "classroom affirmation doormat",
+      "evidence_id": "B051-505"
+    },
+    {
+      "product_key": "custom-classroom-welcome-mat-for-front-door-ca10b2ead1",
+      "canonical_product_key": "chillgen.com::custom-classroom-welcome-mat-for-front-door-ca10b2ead1",
+      "Handle": "custom-classroom-welcome-mat-for-front-door-ca10b2ead1",
+      "url": "https://chillgen.com/products/custom-classroom-welcome-mat-for-front-door-ca10b2ead1",
+      "revision": "1",
+      "title_proposed": "Red Personalized Classroom Welcome Mat",
+      "primary_keyword": "red classroom welcome mat",
+      "evidence_id": "B051-506"
+    },
+    {
+      "product_key": "personalized-classroom-doormat-custom-teacher-name-45bc0142b3",
+      "canonical_product_key": "chillgen.com::personalized-classroom-doormat-custom-teacher-name-45bc0142b3",
+      "Handle": "personalized-classroom-doormat-custom-teacher-name-45bc0142b3",
+      "url": "https://chillgen.com/products/personalized-classroom-doormat-custom-teacher-name-45bc0142b3",
+      "revision": "1",
+      "title_proposed": "Speech Pathologist Personalized Classroom Mat",
+      "primary_keyword": "speech pathologist classroom mat",
+      "evidence_id": "B051-507"
+    },
+    {
+      "product_key": "custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca",
+      "canonical_product_key": "chillgen.com::custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca",
+      "Handle": "custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca",
+      "url": "https://chillgen.com/products/custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca",
+      "revision": "1",
+      "title_proposed": "Flamingo Heart Sunset Area Rug",
+      "primary_keyword": "flamingo heart area rug",
+      "evidence_id": "B051-508"
+    },
+    {
+      "product_key": "custom-pink-flamingo-area-rug-doormat-e7ac68e9c9",
+      "canonical_product_key": "chillgen.com::custom-pink-flamingo-area-rug-doormat-e7ac68e9c9",
+      "Handle": "custom-pink-flamingo-area-rug-doormat-e7ac68e9c9",
+      "url": "https://chillgen.com/products/custom-pink-flamingo-area-rug-doormat-e7ac68e9c9",
+      "revision": "1",
+      "title_proposed": "Pastel Pink Flamingo Tropical Area Rug",
+      "primary_keyword": "pastel pink flamingo rug",
+      "evidence_id": "B051-509"
+    },
+    {
+      "product_key": "custom-koi-fish-shaped-area-rug-3b4acfcd3b",
+      "canonical_product_key": "chillgen.com::custom-koi-fish-shaped-area-rug-3b4acfcd3b",
+      "Handle": "custom-koi-fish-shaped-area-rug-3b4acfcd3b",
+      "url": "https://chillgen.com/products/custom-koi-fish-shaped-area-rug-3b4acfcd3b",
+      "revision": "1",
+      "title_proposed": "Koi Fish Shaped Area Rug with Pond Design",
+      "primary_keyword": "koi fish shaped area rug",
+      "evidence_id": "B051-510"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "final_workbook_exists": true,
+  "final_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "final_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "source_batch_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\batches\\SEO_Product_Optimization_through_B057.xlsx",
+  "source_batch_sha256": "ee8fe43e9dd10e4b0b27119cdf09866cacb8f5a04c981079a306ed3eda491fc7",
+  "sheet_counts": {
+    "SEO_Products": 569,
+    "Image_Audit": 4962,
+    "Product_Evidence": 569,
+    "Keyword_Map": 1707,
+    "Buyer_Search_Research": 569,
+    "README_QA": 8
+  },
+  "inventory_count": 569,
+  "inventory_order_matches_workbook": true,
+  "product_key_duplicate_count": 0,
+  "handle_duplicate_count": 0,
+  "primary_duplicate_groups": 0,
+  "seo_title_duplicate_groups": 0,
+  "meta_description_duplicate_groups": 0,
+  "keyword_multi_product_count": 212,
+  "seo_mapping_status_counts": {
+    "FINAL_REVIEWED": 569
+  },
+  "keyword_mapping_status_counts": {
+    "FINAL_REVIEWED": 1707
+  },
+  "review_status_counts": {
+    "NEEDS_REVIEW": 569
+  },
+  "content_qa_status_counts": {
+    "NOT_RUN": 569
+  },
+  "processing_status_counts": {
+    "DRAFTED": 569
+  },
+  "image_review_status_counts": {
+    "NEEDS_REVIEW": 4962
+  },
+  "approvals_count": 0,
+  "validation_failures": [],
+  "research_closeout_status": "RESEARCH_CLOSED_READY_FOR_QA",
+  "closed_at": "2026-09-07T13:08:36+07:00"
+}

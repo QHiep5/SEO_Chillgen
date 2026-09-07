@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B020",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "feelings-wheel-emotions-round-rug-f48bff995a",
+    "wheel-of-feelings-and-emotions-round-rug-a7bf6ef454",
+    "wheel-of-feelings-and-emotions-round-rug-2ec976598b",
+    "custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca",
+    "custom-mathematics-education-rug-classroom-playroom-eee0004975",
+    "custom-mathematics-education-rug-3015a3c96c",
+    "feelings-wheel-emotions-round-rug-fca05b7c0f",
+    "feelings-wheel-round-classroom-rug-4be50a20fb",
+    "feelings-wheel-classroom-welcome-mat-3d070ff949",
+    "custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::feelings-wheel-emotions-round-rug-f48bff995a",
+    "chillgen.com::wheel-of-feelings-and-emotions-round-rug-a7bf6ef454",
+    "chillgen.com::wheel-of-feelings-and-emotions-round-rug-2ec976598b",
+    "chillgen.com::custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca",
+    "chillgen.com::custom-mathematics-education-rug-classroom-playroom-eee0004975",
+    "chillgen.com::custom-mathematics-education-rug-3015a3c96c",
+    "chillgen.com::feelings-wheel-emotions-round-rug-fca05b7c0f",
+    "chillgen.com::feelings-wheel-round-classroom-rug-4be50a20fb",
+    "chillgen.com::feelings-wheel-classroom-welcome-mat-3d070ff949",
+    "chillgen.com::custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B020\\progress_B020_for_QA.json",
+  "created_at": "2026-09-07T16:57:45+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "feelings-wheel-emotions-round-rug-f48bff995a",
+      "canonical_product_key": "chillgen.com::feelings-wheel-emotions-round-rug-f48bff995a",
+      "Handle": "feelings-wheel-emotions-round-rug-f48bff995a",
+      "url": "https://chillgen.com/products/feelings-wheel-emotions-round-rug-f48bff995a",
+      "revision": "1",
+      "title_proposed": "Color Zones Feelings Wheel Rug",
+      "primary_keyword": "color zones feelings wheel rug",
+      "evidence_id": "B020-191"
+    },
+    {
+      "product_key": "wheel-of-feelings-and-emotions-round-rug-a7bf6ef454",
+      "canonical_product_key": "chillgen.com::wheel-of-feelings-and-emotions-round-rug-a7bf6ef454",
+      "Handle": "wheel-of-feelings-and-emotions-round-rug-a7bf6ef454",
+      "url": "https://chillgen.com/products/wheel-of-feelings-and-emotions-round-rug-a7bf6ef454",
+      "revision": "1",
+      "title_proposed": "Emotions Activity Wheel Rug",
+      "primary_keyword": "emotions activity wheel rug",
+      "evidence_id": "B020-192"
+    },
+    {
+      "product_key": "wheel-of-feelings-and-emotions-round-rug-2ec976598b",
+      "canonical_product_key": "chillgen.com::wheel-of-feelings-and-emotions-round-rug-2ec976598b",
+      "Handle": "wheel-of-feelings-and-emotions-round-rug-2ec976598b",
+      "url": "https://chillgen.com/products/wheel-of-feelings-and-emotions-round-rug-2ec976598b",
+      "revision": "1",
+      "title_proposed": "Today I Am Feeling Rug",
+      "primary_keyword": "Today I Am Feeling rug",
+      "evidence_id": "B020-193"
+    },
+    {
+      "product_key": "custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca",
+      "canonical_product_key": "chillgen.com::custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca",
+      "Handle": "custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca",
+      "url": "https://chillgen.com/products/custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca",
+      "revision": "1",
+      "title_proposed": "New Chapter Reading Rug",
+      "primary_keyword": "New Chapter reading rug",
+      "evidence_id": "B020-194"
+    },
+    {
+      "product_key": "custom-mathematics-education-rug-classroom-playroom-eee0004975",
+      "canonical_product_key": "chillgen.com::custom-mathematics-education-rug-classroom-playroom-eee0004975",
+      "Handle": "custom-mathematics-education-rug-classroom-playroom-eee0004975",
+      "url": "https://chillgen.com/products/custom-mathematics-education-rug-classroom-playroom-eee0004975",
+      "revision": "1",
+      "title_proposed": "Math Dance Move Classroom Rug",
+      "primary_keyword": "math dance move classroom rug",
+      "evidence_id": "B020-195"
+    },
+    {
+      "product_key": "custom-mathematics-education-rug-3015a3c96c",
+      "canonical_product_key": "chillgen.com::custom-mathematics-education-rug-3015a3c96c",
+      "Handle": "custom-mathematics-education-rug-3015a3c96c",
+      "url": "https://chillgen.com/products/custom-mathematics-education-rug-3015a3c96c",
+      "revision": "1",
+      "title_proposed": "Math Problem Solve Classroom Rug",
+      "primary_keyword": "math problem solve classroom rug",
+      "evidence_id": "B020-196"
+    },
+    {
+      "product_key": "feelings-wheel-emotions-round-rug-fca05b7c0f",
+      "canonical_product_key": "chillgen.com::feelings-wheel-emotions-round-rug-fca05b7c0f",
+      "Handle": "feelings-wheel-emotions-round-rug-fca05b7c0f",
+      "url": "https://chillgen.com/products/feelings-wheel-emotions-round-rug-fca05b7c0f",
+      "revision": "1",
+      "title_proposed": "Detailed Feelings Wheel Rug",
+      "primary_keyword": "detailed feelings wheel rug",
+      "evidence_id": "B020-197"
+    },
+    {
+      "product_key": "feelings-wheel-round-classroom-rug-4be50a20fb",
+      "canonical_product_key": "chillgen.com::feelings-wheel-round-classroom-rug-4be50a20fb",
+      "Handle": "feelings-wheel-round-classroom-rug-4be50a20fb",
+      "url": "https://chillgen.com/products/feelings-wheel-round-classroom-rug-4be50a20fb",
+      "revision": "1",
+      "title_proposed": "How Are You Feeling Rug",
+      "primary_keyword": "How Are You Feeling rug",
+      "evidence_id": "B020-198"
+    },
+    {
+      "product_key": "feelings-wheel-classroom-welcome-mat-3d070ff949",
+      "canonical_product_key": "chillgen.com::feelings-wheel-classroom-welcome-mat-3d070ff949",
+      "Handle": "feelings-wheel-classroom-welcome-mat-3d070ff949",
+      "url": "https://chillgen.com/products/feelings-wheel-classroom-welcome-mat-3d070ff949",
+      "revision": "1",
+      "title_proposed": "Feelings Wheel Calm Corner Classroom Rug",
+      "primary_keyword": "feelings wheel calm corner rug",
+      "evidence_id": "B020-199"
+    },
+    {
+      "product_key": "custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9",
+      "canonical_product_key": "chillgen.com::custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9",
+      "Handle": "custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9",
+      "url": "https://chillgen.com/products/custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9",
+      "revision": "1",
+      "title_proposed": "Personalized Composition Book Rug",
+      "primary_keyword": "personalized composition book rug",
+      "evidence_id": "B020-200"
+    }
+  ]
+}

@@ -1,0 +1,857 @@
+schema_version,prompt_version,run_id,batch_id,shop_domain,product_key,Handle,product_id,product_gid,identity_status,source_export_ref,source_exported_at,locale,market,url,canonical_url,product_type,title_current,h1_current,title_proposed,title_action,h1_mapping_status,meta_title_current,meta_title_source_state,rendered_title_current,theme_title_suffix,meta_title_seo,meta_title_action,meta_title_chars,meta_description_current,meta_description_source_state,rendered_meta_description_current,meta_description_seo,meta_description_action,meta_description_chars,primary_keyword,secondary_keywords,long_tail_candidates,keyword_strategy,season,keyword_demand_evidence,keyword_serp_fit,meta_keyword,search_intent,keyword_validation_status,keyword_selection_reason,buyer_research_refs,buyer_search_summary,baseline_status,change_scope,mapping_status,mapping_version,description_current_html,description_changes_needed,description_proposed,description_proposed_html,description_change_mode,description_target_section,description_action,revision,review_status,review_reason,approved_by,approved_at,approved_fields,approved_revision,processing_status,evidence_status,content_qa_status,field_evidence_map,evidence_id,issues,img_1_link,img_1_alt_current,img_1_alt,img_1_alt_action,img_2_link,img_2_alt_current,img_2_alt,img_2_alt_action,img_3_link,img_3_alt_current,img_3_alt,img_3_alt_action,img_4_link,img_4_alt_current,img_4_alt,img_4_alt_action,img_5_link,img_5_alt_current,img_5_alt,img_5_alt_action,img_6_link,img_6_alt_current,img_6_alt,img_6_alt_action,img_7_link,img_7_alt_current,img_7_alt,img_7_alt_action,img_8_link,img_8_alt_current,img_8_alt,img_8_alt_action,img_9_link,img_9_alt_current,img_9_alt,img_9_alt_action,img_10_link,img_10_alt_current,img_10_alt,img_10_alt_action,img_11_link,img_11_alt_current,img_11_alt,img_11_alt_action,img_12_link,img_12_alt_current,img_12_alt,img_12_alt_action,img_13_link,img_13_alt_current,img_13_alt,img_13_alt_action,img_14_link,img_14_alt_current,img_14_alt,img_14_alt_action,img_15_link,img_15_alt_current,img_15_alt,img_15_alt_action,img_16_link,img_16_alt_current,img_16_alt,img_16_alt_action,img_17_link,img_17_alt_current,img_17_alt,img_17_alt_action,img_18_link,img_18_alt_current,img_18_alt,img_18_alt_action,img_19_link,img_19_alt_current,img_19_alt,img_19_alt_action
+2.4,2.4,chillgen_20260907_01,B038,chillgen.com,personalized-christmas-doormat-with-custom-family-name-315531dc75-315531dc75,personalized-christmas-doormat-with-custom-family-name-315531dc75-315531dc75,15913396765041,gid://shopify/Product/15913396765041,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B038_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B038_pages/personalized-christmas-doormat-with-custom-family-name-315531dc75-315531dc75.html,2026-09-07T04:33:36+07:00,en-US,US,https://chillgen.com/products/personalized-christmas-doormat-with-custom-family-name-315531dc75-315531dc75,https://chillgen.com/products/personalized-christmas-doormat-with-custom-family-name-315531dc75-315531dc75,Rug,Custom Christmas Name Doormat with Family Name for Holiday Entryway Decor,Custom Christmas Name Doormat with Family Name for Holiday Entryway Decor,Buffalo Plaid Christmas Family Mat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Christmas Name Doormat with Family Name for Entryway,NONE_OR_NOT_OBSERVED,Buffalo Plaid Christmas Family Mat,SET,34,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Create a festive entrance with a custom Christmas name doormat featuring your family name, bright seasonal patterns, a soft surface, and non slip backing.","Personalize a buffalo plaid Christmas family mat with monogram, wreath, family name, snowflakes, non-skid backing and easy clean.",SET,129,buffalo plaid Christmas family mat,"personalized Christmas doormat, custom family name holiday mat, Christmas entryway rug","buffalo plaid Christmas family mat; personalized Christmas doormat, custom family name holiday mat, Christmas entryway rug",LONG_TAIL_CANDIDATE,CHRISTMAS,"Marketplace and retail SERPs support personalized Christmas family doormats, custom kids road map rugs, classroom play mats, round alphabet rugs, ABC classroom rugs and emotional-learning rugs. B038 separates near-duplicate classroom round rugs by actual visible learning theme: I Feel emotion faces, teaching clock, black flower feelings wheel, color emotion chart, You Are crayons affirmation rug, ABC flower classroom rug, rainbow affirmation rug and black ABC classroom rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,buffalo plaid Christmas family mat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports buffalo plaid Christmas family mat and product-level buyer intent.,B038-371-BR01,"B038 buyers include families decorating for Christmas, parents buying personalized playroom rugs, teachers and daycare owners furnishing circle-time spaces, and SEL/classroom shoppers looking for emotions, alphabet or affirmation rugs for children.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Greet your holiday guests with a warm and festive welcome using this customizable Christmas doormat. Featuring bright seasonal patterns like buffalo plaid trees, gingerbread houses, stockings, and gnomes, this doormat adds a touch of personality to your entryway. It offers a soft feel on bare feet while remaining durable enough to handle daily foot traffic throughout the winter season. It is the perfect functional accent to spread holiday cheer and transform your entrance into a welcoming winter wonderland.</p><h3>Product Highlights</h3><ul>
+<li>Festive Christmas design featuring customizable text for a personalized holiday welcome.</li>
+<li>Soft-touch surface that feels comfortable on bare feet.</li>
+<li>Backed with a non-slip rubber backing to ensure stability.</li>
+<li>Designed to handle daily foot traffic and elements throughout the season.</li>
+<li>Versatile placement options for both indoor and outdoor entry areas.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor and Outdoor</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Repellent</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip, Stain Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Gingerbread, Stocking, Dog, Cat, Letter</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Christmas, Personalized</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Christmas</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>High-quality Epoxy</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Polyester and Neoprene Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash, or wipe with a wet sponge/towel and mild detergent</td>
+</tr>
+</table><h3>Where It Works</h3><p>This festive mat is suitable for front and back doors, terraces, porches, balconies, garages, and entryways. It also works beautifully inside your home, adding holiday style to your kitchen, bedroom, bathroom, living room, or office.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalize a buffalo plaid Christmas family mat with monogram, wreath, family name, snowflakes, non-skid backing and easy clean. Design details Red and black buffalo plaid christmas doormat with green wreath, red bow, monogram r, snowflakes and the robinson family text, shown at front door, white doorway, wood floor and bedside mockups, 3 mm thickness, easy-clean and non-skid rubber backing detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalize a buffalo plaid Christmas family mat with monogram, wreath, family name, snowflakes, non-skid backing and easy clean.</p><h3>Design details</h3><ul><li>Red and black buffalo plaid christmas doormat with green wreath, red bow, monogram r, snowflakes and the robinson family text, shown at front door, white doorway, wood floor and bedside mockups, 3 mm thickness, easy-clean and non-skid rubber backing detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B038-371,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7162xSFBdGL._SL1500.jpg?v=1784377863,,buffalo plaid Christmas family mat at front door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/710tJwHwGeL._SL1500.jpg?v=1784377861,,Christmas mat non-skid backing detail,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71SYVlQVX4L._SL1500.jpg?v=1784377867,,personalized Christmas family mat held,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71elU8TcVrL._SL1500.jpg?v=1784377868,,buffalo plaid holiday mat flat view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71rkb1cKn7L._SL1500.jpg?v=1784377872,,Christmas monogram mat by white door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71SylYMgREL._SL1500.jpg?v=1784377874,,holiday family mat on wood floor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71EfKd1GlUL._SL1500.jpg?v=1784377877,,Christmas doormat by entry door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71nkeblCAWL._SL1500.jpg?v=1784377879,,buffalo plaid Christmas mat beside bed,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B038,chillgen.com,custom-road-map-play-mat-rug-38a585717c-38a585717c,custom-road-map-play-mat-rug-38a585717c-38a585717c,15913397289329,gid://shopify/Product/15913397289329,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B038_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B038_pages/custom-road-map-play-mat-rug-38a585717c-38a585717c.html,2026-09-07T04:33:36+07:00,en-US,US,https://chillgen.com/products/custom-road-map-play-mat-rug-38a585717c-38a585717c,https://chillgen.com/products/custom-road-map-play-mat-rug-38a585717c-38a585717c,Rug,Personalized Town Road Map Rug with Name for Kids Room and Creative Play,Personalized Town Road Map Rug with Name for Kids Room and Creative Play,Personalized Town Road Map Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Town Road Map Rug for Kids Creative Play,NONE_OR_NOT_OBSERVED,Personalized Town Road Map Rug,SET,30,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Encourage creative play with a personalized town road map rug featuring a name colorful streets cars buildings and signs for kids rooms and play areas.,"Customize a town road map rug with child's name, farm, school, city streets, playroom scenes, size options and washable backing.",SET,128,personalized town road map rug,"custom kids road map rug, city road play mat, kids playroom rug","personalized town road map rug; custom kids road map rug, city road play mat, kids playroom rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support personalized Christmas family doormats, custom kids road map rugs, classroom play mats, round alphabet rugs, ABC classroom rugs and emotional-learning rugs. B038 separates near-duplicate classroom round rugs by actual visible learning theme: I Feel emotion faces, teaching clock, black flower feelings wheel, color emotion chart, You Are crayons affirmation rug, ABC flower classroom rug, rainbow affirmation rug and black ABC classroom rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized town road map rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports personalized town road map rug and product-level buyer intent.,B038-372-BR01,"B038 buyers include families decorating for Christmas, parents buying personalized playroom rugs, teachers and daycare owners furnishing circle-time spaces, and SEL/classroom shoppers looking for emotions, alphabet or affirmation rugs for children.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This personalized road map area rug features a vibrant city street and town theme, designed to inspire creative play and decorate your space. Complete with colorful streets, vehicles, buildings, and custom name options, it provides a fun and interactive environment for children. The lightweight design is easy to handle, lays flat quickly, and serves as an ideal decorative floor covering.</p><h3>Product Highlights</h3><ul>
+<li>Features a detailed road and town theme with cars, construction zones, and parks.</li>
+<li>Supports personalization with a custom name and town-themed artwork.</li>
+<li>Soft, durable construction with reinforced serged edges for long-lasting use.</li>
+<li>Easy-care low pile surface that is simple to clean and maintain.</li>
+<li>Versatile design that easily fits into various bedroom, nursery, or classroom setups.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>High Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Town, Tree, Road</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Back To School, City</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Polyester</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table><h3>Where It Works</h3><p>This interactive play carpet is perfectly suited for kids bedrooms, nurseries, playrooms, and school classrooms, offering a comfortable and engaging space for children to play and learn.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a town road map rug with child's name, farm, school, city streets, playroom scenes, size options and washable backing. Design details Colorful road map play rug labeled liam's town with farm, school, hospital, fire station, library, roads, cars and playground scenes, shown in classroom and playroom mockups with 4 size options, washable/vacuum care panel, reinforced edges and non-slip backing. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Customize a town road map rug with child's name, farm, school, city streets, playroom scenes, size options and washable backing.</p><h3>Design details</h3><ul><li>Colorful road map play rug labeled liam's town with farm, school, hospital, fire station, library, roads, cars and playground scenes, shown in classroom and playroom mockups with 4 size options, washable/vacuum care panel, reinforced edges and non-slip backing.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B038-372,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/dfcf684e0c136068839f2e18ba54143aaecd7cb35f3ae68ffa1a5cf0b8fa574a.jpg?v=1784368453,,personalized town road map rug flat view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ad5950b19c7e1b70eebcff60965e89ddcbbc645422633e9604f1c00c253ccaa5.jpg?v=1784368453,,town road map rug size options,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3e616ff41c0a7c95521ab0d6e6adea7e164a8ff048cfb97c4d949c60df799359.jpg?v=1784368458,,road map rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f6b12c1ed73c16b7a0dab884a3b23883c9b5f737bd261970d10a564b1dd54def.jpg?v=1784368458,,road play rug in kids bedroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/bc651836aaf1f4a80d322a093e8104cea92c1afe31935906a4e06b0d5cf1ebc8.jpg?v=1784368464,,children sitting on town road rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/47bc2c630ceb4f03e8694974c2d10979300555567b0f2070297c2cc60b5869ec.jpg?v=1784368464,,road map play rug in playroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2532256752d94a0fa81adbbeb6c4ef6af5918e8eb67bcf34d0384a50273d4375.jpg?v=1784368470,,road map rug between classroom tables,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/65b1595e7badc14c179747077092e43bdf3c5f99eae4cbaf40243138b87f4da1.jpg?v=1784368470,,washable road map rug cleaning panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/270011113cd596136a65be5168f8eefcd1aeb0f194604e5c2a5efe0477879075.jpg?v=1784368475,,road map rug material and backing detail,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B038,chillgen.com,wheel-of-feelings-and-emotions-round-rug-ec03e55978,wheel-of-feelings-and-emotions-round-rug-ec03e55978,15912092434801,gid://shopify/Product/15912092434801,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B038_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B038_pages/wheel-of-feelings-and-emotions-round-rug-ec03e55978.html,2026-09-07T04:33:36+07:00,en-US,US,https://chillgen.com/products/wheel-of-feelings-and-emotions-round-rug-ec03e55978,https://chillgen.com/products/wheel-of-feelings-and-emotions-round-rug-ec03e55978,Rug,Personalized Emotions Wheel Round Rug with Name for Classroom Calm Corner,Personalized Emotions Wheel Round Rug with Name for Classroom Calm Corner,I Feel Emotion Faces Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Emotions Wheel Rug for Classroom Calm Corner,NONE_OR_NOT_OBSERVED,I Feel Emotion Faces Rug,SET,24,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Support emotional awareness with a personalized emotions wheel rug that helps learners identify and communicate feelings in classrooms and calm corners.,"Support calm corners with an I Feel emotion faces rug featuring colorful feelings, classroom circle-time scenes and backing detail.",SET,131,I Feel emotion faces rug,"emotions wheel round rug, classroom feelings rug, toddler calm corner rug","I Feel emotion faces rug; emotions wheel round rug, classroom feelings rug, toddler calm corner rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support personalized Christmas family doormats, custom kids road map rugs, classroom play mats, round alphabet rugs, ABC classroom rugs and emotional-learning rugs. B038 separates near-duplicate classroom round rugs by actual visible learning theme: I Feel emotion faces, teaching clock, black flower feelings wheel, color emotion chart, You Are crayons affirmation rug, ABC flower classroom rug, rainbow affirmation rug and black ABC classroom rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,I Feel emotion faces rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports I Feel emotion faces rug and product-level buyer intent.,B038-373-BR01,"B038 buyers include families decorating for Christmas, parents buying personalized playroom rugs, teachers and daycare owners furnishing circle-time spaces, and SEL/classroom shoppers looking for emotions, alphabet or affirmation rugs for children.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This round educational area rug features a beautifully designed feelings wheel, making it an engaging visual tool to improve mental health and emotional awareness. Designed as an informative mood chart, it helps children and adults understand, identify, and communicate their emotions effectively. It serves as both a practical educational resource and a striking piece of decor that adds a splash of color to any setting.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+  <li>Interactive feelings wheel design to support emotional literacy and self-awareness</li>
+  <li>Thick, plush, and soft surface ideal for sitting, playing, reading, or relaxing</li>
+  <li>Non-slip backing for added stability and safety in busy areas</li>
+  <li>Durable and wear-resistant construction with fade-resistant colors</li>
+  <li>Odorless material that is safe for family members and pets</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+  <tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+  <tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+  <tr>
+<td>Item Shape</td>
+<td>Round</td>
+</tr>
+  <tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+  <tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+  <tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+  <tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+  <tr>
+<td>Room Type</td>
+<td>Classroom</td>
+</tr>
+  <tr>
+<td>Water Resistance</td>
+<td>Not Water Resistant</td>
+</tr>
+  <tr>
+<td>Special Features</td>
+<td>Non Slip, Stain Resistant</td>
+</tr>
+  <tr>
+<td>Pattern</td>
+<td>ABC Alphabet, Cute Rainbow, Grayson, Pencil, My Feelings</td>
+</tr>
+  <tr>
+<td>Theme</td>
+<td>Back to school gifts, teacher rug</td>
+</tr>
+  <tr>
+<td>Style Name</td>
+<td>Boho, ABC, Rainbow</td>
+</tr>
+  <tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+  <tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+  <tr>
+<td>Material Type</td>
+<td>Memory Foam, Polyester</td>
+</tr>
+  <tr>
+<td>Backing Material</td>
+<td>Polyester</td>
+</tr>
+  <tr>
+<td>Care Instructions</td>
+<td>Regular vacuuming. Hand wash in cold water or machine wash separately. Do not use bleach. Tumble dry or air dry at low temperature. Avoid prolonged soaking and high temperature exposure.</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This versatile round rug is perfectly suited for psychological counseling rooms, classrooms, and therapy offices. It also fits beautifully in home spaces such as kids' bedrooms, playrooms, living rooms, and nurseries.</p>",Make product copy motif-specific while retaining verified public claims only.,"Support calm corners with an I Feel emotion faces rug featuring colorful feelings, classroom circle-time scenes and backing detail. Design details Round pastel classroom rug with center text i feel, cartoon eyes and emotion labels including excited, sick, sleepy, sad, worried, surprised, nervous and happy, classroom group scene, child reading mockup, toddler photo, 4 size panel, superior quality and non-slip backing detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Support calm corners with an I Feel emotion faces rug featuring colorful feelings, classroom circle-time scenes and backing detail.</p><h3>Design details</h3><ul><li>Round pastel classroom rug with center text i feel, cartoon eyes and emotion labels including excited, sick, sleepy, sad, worried, surprised, nervous and happy, classroom group scene, child reading mockup, toddler photo, 4 size panel, superior quality and non-slip backing detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B038-373,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f0bad710830c03e8d9b7e04d6b13bb1551277a91b3f0f310bb699c940c341788_a7bd5761-abae-4563-9b47-d354876a22eb.jpg?v=1784370929,,I Feel emotion faces rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/961cda1f0aaae588fce82e9bd10ee5916f6423238e9b4f7dfdfda869f94b2c49_e159f8f6-f380-483f-b8f7-722b8a09698d.jpg?v=1784370934,,emotion faces rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/522a1283b6baa6e0ac4f62810743bb0d87c2eba269ccc27ebf4b05efb4e1c6ee_130e2bcd-1735-4a63-9d38-d1b7946bcb76.jpg?v=1784370934,,classroom circle time with feelings rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b32338dd4c73b4a4e7348a11080d5ad2ddc8546b658a83377d62b83a678ff054_9e8c87c5-e654-4eb8-b5a2-7b0c0c4c9a7e.jpg?v=1784370939,,superior quality backing panel for emotions rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/92ad7d4836bade98c7cd8db3e75f1986f43fc3bd3c28776d2ec9eaeaa1ed67d9_e089dee2-4d75-4e2a-8775-f3359cc46189.jpg?v=1784370940,,child reading on I Feel rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d7632459386395db0e4206559e1ecccb6f2a2ba1b6501241fbe618e26f76c8f9_c5347330-8b56-44cb-a925-714b945c2f26.jpg?v=1784370945,,emotion rug attractive design panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c6c870a6b1f4d2753fcb51d63d134aab5491075be540b94e19b191659f1ae292_6dbe50f0-ab4d-42fc-92c0-7ec0da83a930.jpg?v=1784370945,,toddler on non-slip emotion rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f0bad710830c03e8d9b7e04d6b13bb1551277a91b3f0f310bb699c940c341788_4be72ca7-9876-462c-a0ad-eb1bbce7f7ff.jpg?v=1784370950,,I Feel emotions rug flat classroom view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/961cda1f0aaae588fce82e9bd10ee5916f6423238e9b4f7dfdfda869f94b2c49_5e1933f0-c5dc-47c0-825f-ec4b7f2cc5af.jpg?v=1784370950,,I Feel rug size guide repeat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/522a1283b6baa6e0ac4f62810743bb0d87c2eba269ccc27ebf4b05efb4e1c6ee_a3cf08a8-a86e-4811-ad5b-6cac5f7ad2a0.jpg?v=1784370956,,classroom decor rug group activity panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b32338dd4c73b4a4e7348a11080d5ad2ddc8546b658a83377d62b83a678ff054_9ffe5235-05ec-4eb8-ad48-46d5b41baee0.jpg?v=1784370956,,emotions rug backing quality repeat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/92ad7d4836bade98c7cd8db3e75f1986f43fc3bd3c28776d2ec9eaeaa1ed67d9_b82ff295-2cba-4d29-a74a-5991e88f0904.jpg?v=1784370961,,child reading on feelings rug repeat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d7632459386395db0e4206559e1ecccb6f2a2ba1b6501241fbe618e26f76c8f9_15330c6f-3057-437e-9dc3-2384350fcae4.jpg?v=1784370961,,I Feel rug design close-up panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c6c870a6b1f4d2753fcb51d63d134aab5491075be540b94e19b191659f1ae292_2e0cebbf-c103-4794-846d-07521c6378e8.jpg?v=1784370966,,baby crawling on emotion faces rug,SET,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B038,chillgen.com,wheel-of-feelings-and-emotions-round-rug-01636a663b,wheel-of-feelings-and-emotions-round-rug-01636a663b,15912092696945,gid://shopify/Product/15912092696945,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B038_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B038_pages/wheel-of-feelings-and-emotions-round-rug-01636a663b.html,2026-09-07T04:33:36+07:00,en-US,US,https://chillgen.com/products/wheel-of-feelings-and-emotions-round-rug-01636a663b,https://chillgen.com/products/wheel-of-feelings-and-emotions-round-rug-01636a663b,Rug,Custom Feelings Wheel Classroom Rug with Name for Emotional Learning,Custom Feelings Wheel Classroom Rug with Name for Emotional Learning,Teaching Clock Round Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Feelings Wheel Classroom Rug with Name for Learning,NONE_OR_NOT_OBSERVED,Teaching Clock Round Rug,SET,24,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Encourage emotional learning with a custom feelings wheel classroom rug featuring a name option and visual guide for classrooms, offices, and calm spaces.","Teach time with a round classroom clock rug featuring hour and minute labels, color segments, size options and non-slip backing.",SET,128,teaching clock round rug,"classroom clock rug, kids time learning rug, round educational rug","teaching clock round rug; classroom clock rug, kids time learning rug, round educational rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support personalized Christmas family doormats, custom kids road map rugs, classroom play mats, round alphabet rugs, ABC classroom rugs and emotional-learning rugs. B038 separates near-duplicate classroom round rugs by actual visible learning theme: I Feel emotion faces, teaching clock, black flower feelings wheel, color emotion chart, You Are crayons affirmation rug, ABC flower classroom rug, rainbow affirmation rug and black ABC classroom rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,teaching clock round rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports teaching clock round rug and product-level buyer intent.,B038-374-BR01,"B038 buyers include families decorating for Christmas, parents buying personalized playroom rugs, teachers and daycare owners furnishing circle-time spaces, and SEL/classroom shoppers looking for emotions, alphabet or affirmation rugs for children.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Improve mental health and emotional awareness with this beautifully designed educational rug featuring a feelings wheel. Serving as an informative visual tool, it helps children and adults understand, express, and communicate their emotions effectively. This round area rug adds a touch of color, style, and meaningful personality to any learning, working, or living environment.</p><h3>Product Highlights</h3><ul>
+<li>Features an engaging educational feelings wheel design to support emotional awareness</li>
+<li>Supports personalization options to customize your preferred size and style</li>
+<li>Provides a thick, plush, and soft surface that is highly comfortable for kids and teenagers</li>
+<li>Equipped with a non-slip backing and machine-washable design for long-lasting use</li>
+<li>Versatile layout that seamlessly enhances emotional literacy in a variety of indoor settings</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Round</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Not Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip, Stain Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>ABC ALPHABET, CUTE RAINBOW, GRAYSON, PENCIL, MY FEELINGS</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Back to school gifts, teacher rug</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>Boho, ABC, RAINBOW</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam, Polyester</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Polyester</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash, hand wash in cold water, vacuum regularly, tumble dry or air dry at low temperature</td>
+</tr>
+</table><h3>Where It Works</h3><p>Perfect for classroom settings, psychological counseling rooms, offices, and homeschools. It also fits beautifully in living rooms, bedrooms, kids' playrooms, and daycares to promote a calming atmosphere.</p>",Make product copy motif-specific while retaining verified public claims only.,"Teach time with a round classroom clock rug featuring hour and minute labels, color segments, size options and non-slip backing. Design details Round educational rug with analog clock face, hour and minute hands, large numbers, minute markings and colorful outer segments, classroom group scene, child reading mockup, 4 size panel, reinforced edging and non-slip backing detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Teach time with a round classroom clock rug featuring hour and minute labels, color segments, size options and non-slip backing.</p><h3>Design details</h3><ul><li>Round educational rug with analog clock face, hour and minute hands, large numbers, minute markings and colorful outer segments, classroom group scene, child reading mockup, 4 size panel, reinforced edging and non-slip backing detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B038-374,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/27032d541fd6eb3965ed0292e9c47929a68e7566a1ee7973a194adcfbaeec939.jpg?v=1784370893,,teaching clock round rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c9a8fd0fb6434b5efcba07387f44f5c4213f22b36bd5eacc839bf2cf6cebe51c.jpg?v=1784370898,,clock learning rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6aff61df452863fd7eebc6ae22a580b1acbee6c6d224d0e49a5fe13b581d6158.jpg?v=1784370898,,classroom circle time with clock rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/63916c8b3b45b0233d9fdc7d9a25c451ac4184be00909586581ce932ff772577.jpg?v=1784370903,,clock rug superior quality backing panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7c26316d3b0f530106dcd78f53c8a79b7dd28c07e89d2d782ed17a1bff23d8d4.jpg?v=1784370903,,child reading on clock rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3418804f62ccb74d7bb5ffbfd4ffd5eacbc74a948d8822b67fe18a54776097db.jpg?v=1784370908,,clock rug attractive design panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/99e052c3b6f1ecd37a86eafc2f76d079a41c47b69ff204a6d5a704926c790a63.jpg?v=1784370909,,non-slip classroom clock rug detail,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/27032d541fd6eb3965ed0292e9c47929a68e7566a1ee7973a194adcfbaeec939_832c39a2-85d7-4424-b799-0861f5275e3b.jpg?v=1784370913,,teaching clock rug flat classroom view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c9a8fd0fb6434b5efcba07387f44f5c4213f22b36bd5eacc839bf2cf6cebe51c_4dd72828-a84f-48fd-a6c4-bec2324fa877.jpg?v=1784370914,,clock rug size guide repeat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6aff61df452863fd7eebc6ae22a580b1acbee6c6d224d0e49a5fe13b581d6158_8b69b8ba-0ac0-4946-aba7-ca83dbb773f8.jpg?v=1784370919,,classroom decor clock rug group panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/63916c8b3b45b0233d9fdc7d9a25c451ac4184be00909586581ce932ff772577_33ea341b-aa96-4cc5-b679-a1cca85b15be.jpg?v=1784370919,,clock rug backing quality repeat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7c26316d3b0f530106dcd78f53c8a79b7dd28c07e89d2d782ed17a1bff23d8d4_e0589b68-03b3-4944-b047-ad5ad328e2e4.jpg?v=1784370924,,child reading on time learning rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3418804f62ccb74d7bb5ffbfd4ffd5eacbc74a948d8822b67fe18a54776097db_6faeb48d-6327-4011-9155-7cb5b4e0df04.jpg?v=1784370924,,clock rug design close-up panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/99e052c3b6f1ecd37a86eafc2f76d079a41c47b69ff204a6d5a704926c790a63_b2407e7b-4ab6-423f-acfa-df16671db01b.jpg?v=1784370929,,clock rug non-slip backing close-up,SET,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B038,chillgen.com,feelings-wheel-emotions-round-rug-0f979e072d-0f979e072d,feelings-wheel-emotions-round-rug-0f979e072d-0f979e072d,15912092828017,gid://shopify/Product/15912092828017,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B038_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B038_pages/feelings-wheel-emotions-round-rug-0f979e072d-0f979e072d.html,2026-09-07T04:33:36+07:00,en-US,US,https://chillgen.com/products/feelings-wheel-emotions-round-rug-0f979e072d-0f979e072d,https://chillgen.com/products/feelings-wheel-emotions-round-rug-0f979e072d-0f979e072d,Rug,Personalized Feelings Wheel Round Rug with Name for Classroom and Daycare,Personalized Feelings Wheel Round Rug with Name for Classroom and Daycare,Black Feelings Flower Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Feelings Wheel Round Rug for Classroom,NONE_OR_NOT_OBSERVED,Black Feelings Flower Rug,SET,25,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Add an interactive emotions guide to learning spaces with a personalized feelings wheel round rug for classrooms daycare areas and calm corners.,"Use a black feelings flower rug for classroom SEL with emotion faces, center question, daisy graphic, size chart and backing.",SET,125,black feelings flower rug,"personalized feelings wheel rug, classroom emotions rug, SEL round rug","black feelings flower rug; personalized feelings wheel rug, classroom emotions rug, SEL round rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support personalized Christmas family doormats, custom kids road map rugs, classroom play mats, round alphabet rugs, ABC classroom rugs and emotional-learning rugs. B038 separates near-duplicate classroom round rugs by actual visible learning theme: I Feel emotion faces, teaching clock, black flower feelings wheel, color emotion chart, You Are crayons affirmation rug, ABC flower classroom rug, rainbow affirmation rug and black ABC classroom rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,black feelings flower rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports black feelings flower rug and product-level buyer intent.,B038-375-BR01,"B038 buyers include families decorating for Christmas, parents buying personalized playroom rugs, teachers and daycare owners furnishing circle-time spaces, and SEL/classroom shoppers looking for emotions, alphabet or affirmation rugs for children.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This round emotions area rug features an educational feelings wheel design, making it an excellent tool for promoting mental health and emotional awareness. Designed to help children and teenagers understand and communicate their emotions effectively, it serves as an interactive visual aid for any learning space. The colorful and engaging pattern adds personality to the room while providing a comfortable spot for various daily activities.</p><h3>Product Highlights</h3><ul>
+<li>Features an educational feelings wheel and mood chart design to support emotional literacy.</li>
+<li>Provides a thick, plush, and soft surface for kids and teenagers to sit, play, or read.</li>
+<li>Made of high-quality polyester and memory foam for a wear-resistant and durable finish.</li>
+<li>Includes a non-slip backing for enhanced stability and safety during use.</li>
+<li>Odorless, safe for families and pets, with colors that are resistant to fading.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form Type</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Round</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Is Stain Resistant</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Water Resistance Level</td>
+<td>Not Water Resistant</td>
+</tr>
+<tr>
+<td>Other Special Features of the Product</td>
+<td>Non Slip</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>ABC ALPHABET, CUTE RAINBOW, GRAYSON, PENCIL, MY FEELINGS</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>back to school gifts, teacher rug</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>Boho, ABC, RAINBOW</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Polyester</td>
+</tr>
+<tr>
+<td>Product Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Regular vacuuming, hand wash in cold water, or machine wash separately without bleach; tumble dry or air dry at low temperature</td>
+</tr>
+</table><h3>Where It Works</h3><p>Perfect for educational environments such as classrooms, kindergartens, daycares, and homeschool setups. It also fits beautifully in home areas, including children's bedrooms, playrooms, living rooms, and offices.</p>",Make product copy motif-specific while retaining verified public claims only.,"Use a black feelings flower rug for classroom SEL with emotion faces, center question, daisy graphic, size chart and backing. Design details Round black and white feelings rug with center daisy face, text asking how are you feeling, outer emotion words and colorful face icons, classroom group scene, child reading and toddler photos, 4 size panel, reinforced edging and non-slip backing detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Use a black feelings flower rug for classroom SEL with emotion faces, center question, daisy graphic, size chart and backing.</p><h3>Design details</h3><ul><li>Round black and white feelings rug with center daisy face, text asking how are you feeling, outer emotion words and colorful face icons, classroom group scene, child reading and toddler photos, 4 size panel, reinforced edging and non-slip backing detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B038-375,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2f6496031d9e4bb134b5dd28d9e34f1ff6aa6057f77dd4db1c53ff8bf0cca046.jpg?v=1784370856,,black feelings flower rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6f43fa9c300e1efec61acfa3836f768b66bf5b0a0522cba1c9d5a0db81bc77f9.jpg?v=1784370861,,feelings flower rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3a2293d4d917677bd1386330e0960a59f89b11c20c2e525009bbfb887f7f0bf9.jpg?v=1784370861,,classroom circle time with feelings rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1495d7504a581184b4d2274ee5b733aebc5c5767f3bd87f88b24b23e3e3507cd.jpg?v=1784370866,,feelings rug superior quality panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1ab02fcf6f9eddb610ba607038ed058b0a2b205874586b9c0af073dae170e2cc.jpg?v=1784370866,,child reading on black feelings rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5b5ce98c3efc17c57a7e6cedfc0f28170dd8278e30c1b9e98bb7569c4ada02dc.jpg?v=1784370871,,emotion flower rug attractive design panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9ac36148e75acacf74415192b277d05a054f5c109dfdf5d9383149bc8122b66c.jpg?v=1784370872,,baby on non-slip feelings rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2f6496031d9e4bb134b5dd28d9e34f1ff6aa6057f77dd4db1c53ff8bf0cca046_70ed0362-7445-4364-9b51-764b68b7e846.jpg?v=1784370876,,black feelings flower rug flat view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6f43fa9c300e1efec61acfa3836f768b66bf5b0a0522cba1c9d5a0db81bc77f9_0d48aa39-75d1-424e-a69f-67a8ee8c79b0.jpg?v=1784370877,,feelings rug size guide repeat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3a2293d4d917677bd1386330e0960a59f89b11c20c2e525009bbfb887f7f0bf9_f14d98fa-aaab-4227-939e-308a99564bf7.jpg?v=1784370882,,classroom decor feelings rug panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1495d7504a581184b4d2274ee5b733aebc5c5767f3bd87f88b24b23e3e3507cd_f8acf037-392d-4731-82cc-41f4d07cd7f0.jpg?v=1784370882,,feelings rug backing quality repeat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1ab02fcf6f9eddb610ba607038ed058b0a2b205874586b9c0af073dae170e2cc_256b86d8-8553-4719-b86c-68c62a3645b1.jpg?v=1784370887,,child reading on emotion rug repeat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5b5ce98c3efc17c57a7e6cedfc0f28170dd8278e30c1b9e98bb7569c4ada02dc_359fa51c-b0ac-4b57-a5e9-9a5adc197613.jpg?v=1784370887,,black feelings rug design close-up,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9ac36148e75acacf74415192b277d05a054f5c109dfdf5d9383149bc8122b66c_a384c14b-26d8-4d14-8cdf-dbb926b11003.jpg?v=1784370892,,baby crawling on black feelings rug,SET,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B038,chillgen.com,wheel-of-feelings-and-emotions-round-rug-8a745f7f62,wheel-of-feelings-and-emotions-round-rug-8a745f7f62,15912092959089,gid://shopify/Product/15912092959089,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B038_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B038_pages/wheel-of-feelings-and-emotions-round-rug-8a745f7f62.html,2026-09-07T04:33:36+07:00,en-US,US,https://chillgen.com/products/wheel-of-feelings-and-emotions-round-rug-8a745f7f62,https://chillgen.com/products/wheel-of-feelings-and-emotions-round-rug-8a745f7f62,Rug,Custom Emotions Chart Round Rug with Name for Classroom Calm Corner,Custom Emotions Chart Round Rug with Name for Classroom Calm Corner,Color Emotions Chart Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Emotions Chart Round Rug with Name for Classroom,NONE_OR_NOT_OBSERVED,Color Emotions Chart Rug,SET,24,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Create a supportive calm corner with a custom emotions chart round rug featuring a name option and memory foam texture for classrooms and learning spaces.,"Support classroom SEL with a color emotions chart rug featuring happy, sad, angry, love and anxious zones plus backing detail.",SET,126,color emotions chart rug,"custom emotions chart round rug, feelings wheel classroom rug, calm corner rug","color emotions chart rug; custom emotions chart round rug, feelings wheel classroom rug, calm corner rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support personalized Christmas family doormats, custom kids road map rugs, classroom play mats, round alphabet rugs, ABC classroom rugs and emotional-learning rugs. B038 separates near-duplicate classroom round rugs by actual visible learning theme: I Feel emotion faces, teaching clock, black flower feelings wheel, color emotion chart, You Are crayons affirmation rug, ABC flower classroom rug, rainbow affirmation rug and black ABC classroom rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,color emotions chart rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports color emotions chart rug and product-level buyer intent.,B038-376-BR01,"B038 buyers include families decorating for Christmas, parents buying personalized playroom rugs, teachers and daycare owners furnishing circle-time spaces, and SEL/classroom shoppers looking for emotions, alphabet or affirmation rugs for children.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This round educational area rug features a beautifully designed feelings wheel to help improve mental health and emotional awareness. It serves as an engaging and practical tool for teachers, parents, and therapists to help children understand and communicate their emotions effectively. Crafted from high-quality polyester with a comfortable memory foam texture, this colorful rug brings personality, style, and a calming atmosphere to any interior space.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Interactive feelings wheel design helps children identify and express emotions.</li>
+<li>Constructed from high-quality polyester with a soft and thick plush surface.</li>
+<li>Non-slip backing provides added safety for active kids and busy environments.</li>
+<li>Durable, wear-resistant, and odorless material that is safe for family and pets.</li>
+<li>Versatile design that serves as both a functional learning tool and decorative floor art.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Round</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Indoor Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Not Water Resistant</td>
+</tr>
+<tr>
+<td>Is Stain Resistant</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>ABC ALPHABET, CUTE RAINBOW, GRAYSON, PENCIL, MY FEELINGS</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Back to School Gifts, Teacher Rug</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>Boho, ABC, RAINBOW</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam</td>
+</tr>
+<li>Backing Material<td>Polyester</td>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Washable</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Regular vacuuming, hand wash in cold water, or machine wash separately</td>
+</tr>
+<tr>
+<td>Drying Method</td>
+<td>Tumble dry or air dry at low temperature; avoid prolonged soaking and high temperature exposure</td>
+</tr>
+</li>
+</table>
+
+<h3>Where It Works</h3>
+<p>This versatile educational mat is perfectly suited for school classrooms, daycares, kindergartens, and homeschool environments. It also makes a wonderful addition to a child's bedroom, playroom, living room, therapist office, or psychological counseling room.</p>",Make product copy motif-specific while retaining verified public claims only.,"Support classroom SEL with a color emotions chart rug featuring happy, sad, angry, love and anxious zones plus backing detail. Design details Bright round emotions chart rug with color-coded sections for happy, love, anxious, scared and sad plus labeled words such as grateful, frustrated, worried and secure, classroom group image, reading child photo, 4 size chart and non-slip backing detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Support classroom SEL with a color emotions chart rug featuring happy, sad, angry, love and anxious zones plus backing detail.</p><h3>Design details</h3><ul><li>Bright round emotions chart rug with color-coded sections for happy, love, anxious, scared and sad plus labeled words such as grateful, frustrated, worried and secure, classroom group image, reading child photo, 4 size chart and non-slip backing detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B038-376,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fd86ffec2be5bc43d88ed4eba000d22463f76eb5f3b9e65173553bd29136f593_8b3be2bc-023d-42be-8984-333fc9cd8e84.jpg?v=1784370818,,color emotions chart rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/52f7a9837847bf2707a31de1b79301196d78d840ca44ec994672e0acbe23fbb9_8eea7f89-1287-439f-bc0f-371cbb7b3c0c.jpg?v=1784370821,,emotions chart rug size guide,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2d879ce1f7308b14a600f73198005c30b63bbf2f080d9a28fc9fd9051c536f09_ae61cc8a-ccf9-4c8d-9101-47680211799a.jpg?v=1784370824,,classroom group with emotions chart rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/bc40bcfcabd9637fbe49e0ceee1466ba71acd1f4731acdad37c3c66745013816_010e2076-d7e3-4a7e-a9dc-ff2534b726db.jpg?v=1784370826,,emotions rug backing quality panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6b32d917a97dc618fcda21c0a1604b6df5b705fba4cd67b3fe5db4f5a3e24ab0_8f160dc3-bd6d-4c91-b6c5-10f87ad78ded.jpg?v=1784370829,,child reading on color feelings rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1453bbe7da4c2c631492d667f3759fe3cd11ec51ae11866ffeaf65f8448ba858_9ba618d6-bbd1-44f7-9829-f351c51207c5.jpg?v=1784370831,,color emotions rug attractive design panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b01fa558a177db7820177bd479c5b5490a0681019ba2e3d13d0451cae3025dd2_285cbcbd-47cd-4236-82e6-d695a7ba6176.jpg?v=1784370834,,non-slip emotions chart rug detail,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fd86ffec2be5bc43d88ed4eba000d22463f76eb5f3b9e65173553bd29136f593_70b100e0-e671-4420-9a7b-98c65d176230.jpg?v=1784370837,,color feelings rug flat view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/52f7a9837847bf2707a31de1b79301196d78d840ca44ec994672e0acbe23fbb9_6e018025-2fb0-40c5-8d69-5e3f3f3a7bad.jpg?v=1784370840,,round emotions chart size panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2d879ce1f7308b14a600f73198005c30b63bbf2f080d9a28fc9fd9051c536f09_67a7cbd7-285a-4fa7-ade5-3f5a98a8308c.jpg?v=1784370842,,classroom decor emotions rug panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/bc40bcfcabd9637fbe49e0ceee1466ba71acd1f4731acdad37c3c66745013816_65b94373-a8cc-488b-82a6-0db791b1a5f5.jpg?v=1784370845,,emotions chart rug backing repeat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6b32d917a97dc618fcda21c0a1604b6df5b705fba4cd67b3fe5db4f5a3e24ab0_24fc3422-e031-468a-ba4a-9816e4bb358e.jpg?v=1784370848,,child reading on emotion chart rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1453bbe7da4c2c631492d667f3759fe3cd11ec51ae11866ffeaf65f8448ba858_0a15a7b0-dbdb-4da0-a71a-4678c9ff89f6.jpg?v=1784370851,,color emotions rug close-up panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b01fa558a177db7820177bd479c5b5490a0681019ba2e3d13d0451cae3025dd2_c6a23627-a4f7-4b04-a6c9-d59b9e4e98fb.jpg?v=1784370855,,non-slip color emotions rug close-up,SET,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B038,chillgen.com,wheel-of-feelings-and-emotions-round-rug-697b1d04c9,wheel-of-feelings-and-emotions-round-rug-697b1d04c9,15912094007665,gid://shopify/Product/15912094007665,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B038_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B038_pages/wheel-of-feelings-and-emotions-round-rug-697b1d04c9.html,2026-09-07T04:33:36+07:00,en-US,US,https://chillgen.com/products/wheel-of-feelings-and-emotions-round-rug-697b1d04c9,https://chillgen.com/products/wheel-of-feelings-and-emotions-round-rug-697b1d04c9,Rug,Custom Colorful Feelings Wheel Rug with Name for Classroom Calm Corner,Custom Colorful Feelings Wheel Rug with Name for Classroom Calm Corner,You Are Crayons Feelings Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Colorful Feelings Wheel Rug with Name for Classroom,NONE_OR_NOT_OBSERVED,You Are Crayons Feelings Rug,SET,28,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Make emotional check ins engaging with a custom feelings wheel rug featuring a name option for classrooms, offices, calm corners, and learning spaces.","Encourage students with a You Are crayons feelings rug featuring colorful crayons, emotion words, classroom scenes and backing.",SET,127,You Are crayons feelings rug,"colorful feelings wheel rug, classroom affirmation rug, SEL round rug","You Are crayons feelings rug; colorful feelings wheel rug, classroom affirmation rug, SEL round rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support personalized Christmas family doormats, custom kids road map rugs, classroom play mats, round alphabet rugs, ABC classroom rugs and emotional-learning rugs. B038 separates near-duplicate classroom round rugs by actual visible learning theme: I Feel emotion faces, teaching clock, black flower feelings wheel, color emotion chart, You Are crayons affirmation rug, ABC flower classroom rug, rainbow affirmation rug and black ABC classroom rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,You Are crayons feelings rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports You Are crayons feelings rug and product-level buyer intent.,B038-377-BR01,"B038 buyers include families decorating for Christmas, parents buying personalized playroom rugs, teachers and daycare owners furnishing circle-time spaces, and SEL/classroom shoppers looking for emotions, alphabet or affirmation rugs for children.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This round educational area rug features an engaging feelings wheel design, making it an excellent visual tool for mental health awareness. Designed to help children and adults understand and communicate their emotions effectively, this rug adds both color and personality to any space. It provides a soft, comfortable spot that inspires meaningful conversation and emotional literacy in a variety of indoor settings.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Features a beautiful and educational feelings wheel design to improve emotional awareness.</li>
+<li>Supports customization options to select your favorite size easily.</li>
+<li>Thick, plush, soft, and comfortable surface ideal for sitting, playing, or relaxing.</li>
+<li>Equipped with a non-slip backing for added stability and safety.</li>
+<li>Highly versatile decor piece suitable for classrooms, bedrooms, offices, and kids' spaces.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Round</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Not Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip, Stain Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>ABC Alphabet, Cute Rainbow, Grayson, Pencil, My Feelings</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Back to school gifts, teacher rug</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>Boho, ABC, Rainbow</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam, Polyester</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Polyester</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash, hand wash in cold water, vacuum regularly</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This versatile educational rug fits perfectly in classrooms, psychological counseling rooms, playrooms, and offices. It also makes a wonderful addition to home spaces such as living rooms, bedrooms, nurseries, and hallways.</p>",Make product copy motif-specific while retaining verified public claims only.,"Encourage students with a You Are crayons feelings rug featuring colorful crayons, emotion words, classroom scenes and backing. Design details Round black classroom rug with center text you are and colorful crayons around the circle, border emotion words including happy, loved, stressed, nervous and frustrated, classroom circle time scene, child reading and baby photos, 4 size chart, reinforced edging and non-slip backing. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Encourage students with a You Are crayons feelings rug featuring colorful crayons, emotion words, classroom scenes and backing.</p><h3>Design details</h3><ul><li>Round black classroom rug with center text you are and colorful crayons around the circle, border emotion words including happy, loved, stressed, nervous and frustrated, classroom circle time scene, child reading and baby photos, 4 size chart, reinforced edging and non-slip backing.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B038-377,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c4b8b171518610ac60a45e30b92f2873cba3b26a1d2d048c6df7e81b4455abd6_ebc1708c-ff89-4c2f-bb18-dfd7e552b63c.jpg?v=1784370642,,You Are crayons feelings rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1cd8ae0c879321e4faa280b8c85f187900b227a658d48efdbb191e36746a873b_d801b0b2-7ec9-4098-9236-bb5c4301ac06.jpg?v=1784370644,,crayon feelings rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3266217c98bafcdf94d8585d2e6ec3a2350dcda68c337e2d76e3a6f556094ed4_c4beca03-301b-4dfa-9d83-c045d05a5acf.jpg?v=1784370647,,classroom circle time with crayon rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1c08f86fa6d1d8c6fd0c08925775b67d72912dea1af7a0f7c4fa970763b7e83f_9b414e84-8da3-4d83-90ee-eb953c3296fb.jpg?v=1784370649,,crayon rug superior quality backing panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/bbcd242208962b5cc17ebcab1c89082421ed12abd69cdfa755fdf4b2666d2bbb_00a0963d-ee87-4bf5-88ec-821e2b2dfa41.jpg?v=1784370653,,child reading on You Are rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9a6772c82d74c5f210737484b3cc6b0126aafd5465ba61c7663e8646cd4ca14f_080f3916-df8a-49c2-adba-e1f5ccdcd2b2.jpg?v=1784370655,,crayon feelings rug attractive design panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fc6b8643efa836c1bba44c6c36db14b6a09c83eecb0e79096222931ed29c20f0_9b0c29d5-38ac-484a-8453-535edc768f09.jpg?v=1784370659,,baby on non-slip You Are rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c4b8b171518610ac60a45e30b92f2873cba3b26a1d2d048c6df7e81b4455abd6_9615096a-b904-450c-a3fa-4d9abc67ed7a.jpg?v=1784370660,,You Are crayons rug flat classroom view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1cd8ae0c879321e4faa280b8c85f187900b227a658d48efdbb191e36746a873b_efeab5a8-b832-415f-a40c-a415faf2b9ec.jpg?v=1784370664,,crayon classroom rug size panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3266217c98bafcdf94d8585d2e6ec3a2350dcda68c337e2d76e3a6f556094ed4_2e4b8e80-5f33-496f-8dad-e7d52286ccfa.jpg?v=1784370665,,classroom decor crayon rug panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1c08f86fa6d1d8c6fd0c08925775b67d72912dea1af7a0f7c4fa970763b7e83f_f9dd6b81-fe7f-47c5-9ff1-09441c612f7f.jpg?v=1784370669,,crayon rug backing quality repeat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/bbcd242208962b5cc17ebcab1c89082421ed12abd69cdfa755fdf4b2666d2bbb_652b6786-2e1e-4ce0-91a6-f89675d9a276.jpg?v=1784370671,,child reading on You Are rug repeat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9a6772c82d74c5f210737484b3cc6b0126aafd5465ba61c7663e8646cd4ca14f_158ad3ae-0ad1-49cc-beed-9489d37db834.jpg?v=1784370674,,You Are crayons rug design close-up,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fc6b8643efa836c1bba44c6c36db14b6a09c83eecb0e79096222931ed29c20f0_70269f36-6a97-47ea-9046-8c5af8c4e1c3.jpg?v=1784370676,,baby crawling on crayon feelings rug,SET,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B038,chillgen.com,custom-abc-educational-classroom-round-rug-33de96c620-33de96c620,custom-abc-educational-classroom-round-rug-33de96c620-33de96c620,15912094204273,gid://shopify/Product/15912094204273,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B038_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B038_pages/custom-abc-educational-classroom-round-rug-33de96c620-33de96c620.html,2026-09-07T04:33:36+07:00,en-US,US,https://chillgen.com/products/custom-abc-educational-classroom-round-rug-33de96c620-33de96c620,https://chillgen.com/products/custom-abc-educational-classroom-round-rug-33de96c620-33de96c620,Rug,Personalized ABC Feelings Wheel Rug for Preschool Classroom Playroom,Personalized ABC Feelings Wheel Rug for Preschool Classroom Playroom,White ABC Flower Classroom Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized ABC Feelings Wheel Rug for Preschool Classroom,NONE_OR_NOT_OBSERVED,White ABC Flower Classroom Rug,SET,30,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Support early learning and emotional awareness with a personalized ABC feelings wheel rug for preschool classrooms playrooms and educational spaces.,"Personalize a white ABC flower classroom rug with teacher name, alphabet border, smiling flower, size options and backing.",SET,122,white ABC flower classroom rug,"custom ABC classroom round rug, alphabet learning rug, preschool classroom rug","white ABC flower classroom rug; custom ABC classroom round rug, alphabet learning rug, preschool classroom rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support personalized Christmas family doormats, custom kids road map rugs, classroom play mats, round alphabet rugs, ABC classroom rugs and emotional-learning rugs. B038 separates near-duplicate classroom round rugs by actual visible learning theme: I Feel emotion faces, teaching clock, black flower feelings wheel, color emotion chart, You Are crayons affirmation rug, ABC flower classroom rug, rainbow affirmation rug and black ABC classroom rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,white ABC flower classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports white ABC flower classroom rug and product-level buyer intent.,B038-378-BR01,"B038 buyers include families decorating for Christmas, parents buying personalized playroom rugs, teachers and daycare owners furnishing circle-time spaces, and SEL/classroom shoppers looking for emotions, alphabet or affirmation rugs for children.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Enhance learning and emotional awareness with this beautifully designed educational area rug. Featuring a colorful educational concept and a helpful feelings wheel design, this round rug acts as a visual tool to help children understand and communicate their emotions. It provides a comfortable, soft surface that brings a touch of personality and warmth to any learning or living space.</p><h3>Product Highlights</h3><ul>
+<li>Educational design featuring ABC alphabets and an emotion feelings wheel to support emotional literacy.</li>
+<li>Crafted with high-quality polyester and memory foam for a comfortable, wear-resistant, and durable finish.</li>
+<li>Thick, plush, and soft surface ideal for children and teenagers to sit, play, read, or nap.</li>
+<li>Features a practical non-slip backing to help keep the rug securely in place.</li>
+<li>Easy to clean and maintain with regular vacuuming or separate machine washing.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Round</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Not Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip, Stain Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>ABC Alphabet, Cute Rainbow, Grayson, Pencil, My Feelings</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Back to school gifts, teacher rug</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Polyester</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine wash separately in cold water or hand wash; do not bleach; tumble dry or air dry at low temperature; avoid prolonged soaking and high temperature exposure</td>
+</tr>
+</table><h3>Where It Works</h3><p>This versatile round rug perfectly fits classrooms, psychological counseling rooms, and kindergartens. It is also an excellent addition to home environments like playrooms, kids' bedrooms, and living spaces.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalize a white ABC flower classroom rug with teacher name, alphabet border, smiling flower, size options and backing. Design details White round classroom rug reading mrs. smith's classroom with colorful alphabet border, smiling pink flower center, school icons, group activity scene, child reading and baby photos, 4 size panel, reinforced edging and non-slip backing detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalize a white ABC flower classroom rug with teacher name, alphabet border, smiling flower, size options and backing.</p><h3>Design details</h3><ul><li>White round classroom rug reading mrs. smith's classroom with colorful alphabet border, smiling pink flower center, school icons, group activity scene, child reading and baby photos, 4 size panel, reinforced edging and non-slip backing detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B038-378,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1b110b7a8a4af2f2f0b603535f366cafa8603432b12f55cd4e8cb082b3a6c202.jpg?v=1784370604,,white ABC flower classroom rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/68b032581a7e98795fe5257ca3521eb9824004f53ba74ae1941609e67cd5543f.jpg?v=1784370606,,ABC classroom rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4bca8651af50abb9b6a85b6cf532f54b0428f063223ff1b09561b9ff5ae94747.jpg?v=1784370610,,classroom circle time with ABC rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6266c0af83480c37a36cf6e7dee805965606dfa3ddd5e7847ed024984d07838f.jpg?v=1784370612,,ABC rug superior quality backing panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/79d4f06adedf586e77803756e353ed84150efcb4e5e407d2bb0e565e06bf1adb.jpg?v=1784370615,,child reading on ABC flower rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/858ffc751a7222993ddf3b8aebd8b64785913ed8d44db2cdb64ac496e90e5c62.jpg?v=1784370617,,ABC flower rug attractive design panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/38623275effd070ec2f107db7fcd2843901a7a60ec8565a65f22cdac6323168e.jpg?v=1784370620,,baby on non-slip ABC classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1b110b7a8a4af2f2f0b603535f366cafa8603432b12f55cd4e8cb082b3a6c202_8741dd0c-ef3f-4d89-92ed-ef8f5db86925.jpg?v=1784370622,,white ABC classroom rug flat view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/68b032581a7e98795fe5257ca3521eb9824004f53ba74ae1941609e67cd5543f_632326fd-6fe3-4814-bcd0-c20df7a1bb20.jpg?v=1784370626,,round ABC rug size guide,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4bca8651af50abb9b6a85b6cf532f54b0428f063223ff1b09561b9ff5ae94747_cfa2d359-6481-4bb9-a48a-72957f5241cd.jpg?v=1784370628,,classroom decor ABC rug panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6266c0af83480c37a36cf6e7dee805965606dfa3ddd5e7847ed024984d07838f_ffb8c0dd-f1e5-41cf-a94f-a3f4ab575812.jpg?v=1784370631,,ABC rug backing quality repeat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/79d4f06adedf586e77803756e353ed84150efcb4e5e407d2bb0e565e06bf1adb_43ed2b7f-90c1-41d9-a1aa-1bfba65f3a6f.jpg?v=1784370633,,child reading on ABC classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/858ffc751a7222993ddf3b8aebd8b64785913ed8d44db2cdb64ac496e90e5c62_90a67b1d-082e-4024-9ce4-a6637a4e9f6c.jpg?v=1784370637,,ABC flower rug design close-up,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/38623275effd070ec2f107db7fcd2843901a7a60ec8565a65f22cdac6323168e_953d9dc3-5fa3-4132-9402-08a14456d6a9.jpg?v=1784370639,,baby crawling on ABC flower rug,SET,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B038,chillgen.com,classroom-round-rug-educational-feelings-carpet-6f4ceb729b,classroom-round-rug-educational-feelings-carpet-6f4ceb729b,15912094630257,gid://shopify/Product/15912094630257,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B038_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B038_pages/classroom-round-rug-educational-feelings-carpet-6f4ceb729b.html,2026-09-07T04:33:36+07:00,en-US,US,https://chillgen.com/products/classroom-round-rug-educational-feelings-carpet-6f4ceb729b,https://chillgen.com/products/classroom-round-rug-educational-feelings-carpet-6f4ceb729b,Rug,Personalized Rainbow Feelings Wheel Rug for Classroom Calm Corner,Personalized Rainbow Feelings Wheel Rug for Classroom Calm Corner,Rainbow Affirmation Classroom Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Rainbow Feelings Wheel Rug for Classroom,NONE_OR_NOT_OBSERVED,Rainbow Affirmation Classroom Rug,SET,33,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Encourage learners to identify and communicate emotions with a personalized rainbow feelings wheel rug for classrooms calm corners and educational spaces.,"Personalize a rainbow affirmation classroom rug with teacher name, I Am Loved message, calm colors and non-slip backing.",SET,120,rainbow affirmation classroom rug,"classroom round feelings carpet, SEL affirmation rug, teacher name calm corner rug","rainbow affirmation classroom rug; classroom round feelings carpet, SEL affirmation rug, teacher name calm corner rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support personalized Christmas family doormats, custom kids road map rugs, classroom play mats, round alphabet rugs, ABC classroom rugs and emotional-learning rugs. B038 separates near-duplicate classroom round rugs by actual visible learning theme: I Feel emotion faces, teaching clock, black flower feelings wheel, color emotion chart, You Are crayons affirmation rug, ABC flower classroom rug, rainbow affirmation rug and black ABC classroom rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,rainbow affirmation classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports rainbow affirmation classroom rug and product-level buyer intent.,B038-379-BR01,"B038 buyers include families decorating for Christmas, parents buying personalized playroom rugs, teachers and daycare owners furnishing circle-time spaces, and SEL/classroom shoppers looking for emotions, alphabet or affirmation rugs for children.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Introduce a vibrant and educational touch to your learning environment with this beautifully designed round feelings rug. Featuring an interactive emotions wheel, it serves as an excellent visual aid to help children identify, understand, and communicate their feelings effectively. Crafted for ultimate comfort and durability, it creates a cozy, welcoming space that encourages self-awareness and emotional intelligence.</p><h3>Product Highlights</h3><ul>
+<li>Features a colorful feelings wheel design to help children explore and express their emotions.</li>
+<li>Thick, plush, and soft surface offers a comfortable space for kids to play, read, or nap.</li>
+<li>Constructed from high-quality polyester that is wear-resistant, durable, and odorless.</li>
+<li>Equipped with a non-slip backing to ensure safety for active children and pets.</li>
+<li>Highly versatile design that beautifully complements learning spaces, offices, and playrooms.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Round</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Not Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip, Stain Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>ABC Alphabet, Cute Rainbow, My Feelings</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Back to school gifts, teacher rug</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Boho, ABC, Rainbow</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Polyester</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Washable</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Regular vacuuming, hand wash cold or machine wash separately without bleach; tumble dry or air dry low</td>
+</tr>
+</table><h3>Where It Works</h3><p>Perfect for classroom settings, counseling offices, and homeschool environments to support emotional literacy. It also adds a warm, decorative touch to kid's bedrooms, playrooms, nurseries, and living areas.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalize a rainbow affirmation classroom rug with teacher name, I Am Loved message, calm colors and non-slip backing. Design details Cream round classroom rug with pastel rainbow affirmations i am confident, i am grateful, i am enough, i am smart, i am kind and large i am loved text with mrs. smith name, classroom group scene, child reading and baby photos, 4 size chart and backing detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalize a rainbow affirmation classroom rug with teacher name, I Am Loved message, calm colors and non-slip backing.</p><h3>Design details</h3><ul><li>Cream round classroom rug with pastel rainbow affirmations i am confident, i am grateful, i am enough, i am smart, i am kind and large i am loved text with mrs. smith name, classroom group scene, child reading and baby photos, 4 size chart and backing detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B038-379,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/beddd92b6220a91a6281f9011d2bbd8c37caf22d72bb1f942559c9f4eb5d79a0.jpg?v=1784370542,,rainbow affirmation classroom rug flat view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/dd0fa1ae5b00aa350675bfac4edacab0b623951589bc69a99d184cba74d78aa3.jpg?v=1784370545,,rainbow affirmation rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cc571f02621ae0a25da95973dc33c1cf3a5d380343d0172f32399bbf11e2f8e1.jpg?v=1784370547,,classroom group with affirmation rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/58701d69007dbadb5fd071f872a99f7501f1c1d5d544fd8005eb159e6834ea66.jpg?v=1784370550,,affirmation rug superior quality panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/17aaa14cd809d1609b2b1c758cb822bbcdefea331ac6a75188aa7f0325df7b5b.jpg?v=1784370553,,child reading on rainbow affirmation rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c95a2d559e2f42f5b52c03ebc77f01c54c4361cd0899710e33dc213464c51e74.jpg?v=1784370556,,I Am Loved rug attractive design panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6e854d9e4b89647ac9d68a041914b3704bc9894b84d2910deef48035d8e6f745.jpg?v=1784370559,,baby on non-slip affirmation rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/beddd92b6220a91a6281f9011d2bbd8c37caf22d72bb1f942559c9f4eb5d79a0_0e055819-e554-4a73-a648-5485e09dfb17.jpg?v=1784370561,,rainbow classroom rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/dd0fa1ae5b00aa350675bfac4edacab0b623951589bc69a99d184cba74d78aa3_05a79faa-adf9-4b17-9199-0d6207a636cc.jpg?v=1784370563,,affirmation rug size guide repeat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cc571f02621ae0a25da95973dc33c1cf3a5d380343d0172f32399bbf11e2f8e1_adfbb669-f024-49d9-aaf2-f24ad48684f5.jpg?v=1784370566,,classroom decor affirmation rug panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/58701d69007dbadb5fd071f872a99f7501f1c1d5d544fd8005eb159e6834ea66_a73e25bf-183f-468e-9714-ce166ceb08ef.jpg?v=1784370569,,affirmation rug backing quality repeat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/17aaa14cd809d1609b2b1c758cb822bbcdefea331ac6a75188aa7f0325df7b5b_004e1c15-64a9-4800-b4d3-a717274376ba.jpg?v=1784370571,,child reading on I Am Loved rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c95a2d559e2f42f5b52c03ebc77f01c54c4361cd0899710e33dc213464c51e74_2b76051e-0772-463c-872f-eec77e78f31e.jpg?v=1784370573,,rainbow affirmation rug close-up panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6e854d9e4b89647ac9d68a041914b3704bc9894b84d2910deef48035d8e6f745_14cf72b8-868a-4c42-a6bf-b812a32c056b.jpg?v=1784370577,,baby crawling on classroom affirmation rug,SET,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B038,chillgen.com,custom-abc-educational-welcome-mat-bed98ba4ec-bed98ba4ec,custom-abc-educational-welcome-mat-bed98ba4ec-bed98ba4ec,15912094695793,gid://shopify/Product/15912094695793,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B038_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B038_pages/custom-abc-educational-welcome-mat-bed98ba4ec-bed98ba4ec.html,2026-09-07T04:33:36+07:00,en-US,US,https://chillgen.com/products/custom-abc-educational-welcome-mat-bed98ba4ec-bed98ba4ec,https://chillgen.com/products/custom-abc-educational-welcome-mat-bed98ba4ec-bed98ba4ec,Rug,Custom ABC Feelings Wheel Round Rug with Name for Classroom Playroom,Custom ABC Feelings Wheel Round Rug with Name for Classroom Playroom,Black ABC Flower Classroom Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom ABC Feelings Wheel Round Rug with Name for Classroom,NONE_OR_NOT_OBSERVED,Black ABC Flower Classroom Rug,SET,30,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Combine letters and emotional learning with a custom ABC feelings wheel round rug featuring a name option for classrooms daycare areas and playrooms.,"Customize a black ABC flower classroom rug with teacher name, colorful alphabet border, smiling flower and non-slip backing.",SET,124,black ABC flower classroom rug,"custom ABC educational rug, personalized classroom round rug, alphabet playroom mat","black ABC flower classroom rug; custom ABC educational rug, personalized classroom round rug, alphabet playroom mat",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support personalized Christmas family doormats, custom kids road map rugs, classroom play mats, round alphabet rugs, ABC classroom rugs and emotional-learning rugs. B038 separates near-duplicate classroom round rugs by actual visible learning theme: I Feel emotion faces, teaching clock, black flower feelings wheel, color emotion chart, You Are crayons affirmation rug, ABC flower classroom rug, rainbow affirmation rug and black ABC classroom rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,black ABC flower classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports black ABC flower classroom rug and product-level buyer intent.,B038-380-BR01,"B038 buyers include families decorating for Christmas, parents buying personalized playroom rugs, teachers and daycare owners furnishing circle-time spaces, and SEL/classroom shoppers looking for emotions, alphabet or affirmation rugs for children.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This educational round rug is designed to enhance learning spaces and emotional awareness. Featuring a creative design that integrates the alphabet and a feelings wheel, it serves as a practical visual tool for teachers, parents, and therapists. Crafted to add comfort and personality, it provides a functional and engaging floor covering for children and teenagers alike.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Educational design featuring an ABC alphabet and feelings wheel to support learning and emotional awareness.</li>
+<li>Customizable sizing available to fit your specific space requirements.</li>
+<li>Thick, plush, and soft surface provides a comfortable area for kids to sit, play, or read.</li>
+<li>Constructed with a non-slip backing for enhanced stability on indoor floors.</li>
+<li>Versatile design suitable for classrooms, bedrooms, playrooms, and therapy offices.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Round</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Not Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip, Stain Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>ABC Alphabet, My Feelings</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Back to school gifts, teacher rug</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Boho, ABC, Rainbow</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Polyester</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Washable; hand wash in cold water or machine wash separately; do not bleach; tumble dry or air dry at low temperature</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>Perfect for educational environments such as classrooms, kindergartens, daycares, and homeschool setups. It also functions beautifully in personal spaces like kids' bedrooms, playrooms, or counseling offices to facilitate emotional communication.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a black ABC flower classroom rug with teacher name, colorful alphabet border, smiling flower and non-slip backing. Design details Black round classroom rug with mrs. smith's classroom text, colorful alphabet letters around the edge, smiling pink flower center, stars and school icons, classroom group scene, child reading and baby photos, 4 size guide and non-slip backing panel. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Customize a black ABC flower classroom rug with teacher name, colorful alphabet border, smiling flower and non-slip backing.</p><h3>Design details</h3><ul><li>Black round classroom rug with mrs. smith's classroom text, colorful alphabet letters around the edge, smiling pink flower center, stars and school icons, classroom group scene, child reading and baby photos, 4 size guide and non-slip backing panel.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B038-380,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9600d6fa148ef8c1a323d781291745a98883bd6b9d12a9daa8648e3bc14fe3ae.jpg?v=1784370505,,black ABC flower classroom rug flat view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9ff0bbd5aadb76e031df7f74503665235dc3afa747e9439de30b681cefbb09be.jpg?v=1784370508,,black ABC classroom rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9ffa4f3bcdf96a4cf589c18ac534013e45b188eb81ff80e3c22564721fceca51.jpg?v=1784370510,,classroom circle time with black ABC rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b53ca0f520047b66ccf0eae1e6ca1e030bc060c54e80548e2d7fa5820f2832dd.jpg?v=1784370514,,ABC rug superior quality backing panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/91bf9cf7b75405df0733a006fc3609acd2d00410cf6c388184a4cdd94866926e.jpg?v=1784370516,,child reading on black ABC flower rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/21ceddc8603a9450b7a988b556e6285a90bee70b9eea47e7e9c35cf1d19e87de.jpg?v=1784370519,,black ABC flower rug design panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0b6f6469474b4143f27e91ddf73c6b8b1ba229ad5597f938ed9220555f146c97.jpg?v=1784370521,,baby on non-slip black ABC rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9600d6fa148ef8c1a323d781291745a98883bd6b9d12a9daa8648e3bc14fe3ae_3d407897-bc71-4455-b705-bb85b2567c6d.jpg?v=1784370524,,black ABC classroom rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9ff0bbd5aadb76e031df7f74503665235dc3afa747e9439de30b681cefbb09be_bc5321fd-f41f-4a47-85c2-24c74fa6d78f.jpg?v=1784370526,,round ABC rug size guide repeat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9ffa4f3bcdf96a4cf589c18ac534013e45b188eb81ff80e3c22564721fceca51_96173bc8-848c-4d2f-980d-6555eab3a3eb.jpg?v=1784370530,,classroom decor black ABC rug panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b53ca0f520047b66ccf0eae1e6ca1e030bc060c54e80548e2d7fa5820f2832dd_2674036f-8dab-4ff7-804d-89c4e98c6970.jpg?v=1784370532,,black ABC rug backing quality repeat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/91bf9cf7b75405df0733a006fc3609acd2d00410cf6c388184a4cdd94866926e_19d82043-147d-4c32-9c47-9e228aa1ec4e.jpg?v=1784370535,,child reading on black ABC rug repeat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/21ceddc8603a9450b7a988b556e6285a90bee70b9eea47e7e9c35cf1d19e87de_6c3616d4-44d7-4858-93bf-271ffa2618c2.jpg?v=1784370537,,ABC flower rug close-up panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0b6f6469474b4143f27e91ddf73c6b8b1ba229ad5597f938ed9220555f146c97_f6cd654d-6bef-4acf-aedd-c236891b6e7d.jpg?v=1784370540,,baby crawling on black ABC classroom rug,SET,,,,,,,,,,,,,,,,,,,,

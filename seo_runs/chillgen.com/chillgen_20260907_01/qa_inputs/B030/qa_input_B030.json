@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B030",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "custom-running-horse-welcome-mat-2e0754fd8e-2e0754fd8e",
+    "custom-running-horse-welcome-mat-f114a916e7-f114a916e7",
+    "custom-running-horse-welcome-mat-a4c32dbbfa-a4c32dbbfa",
+    "custom-running-horse-area-rug-2f0ce836fd-2f0ce836fd",
+    "western-running-horse-area-rug-02dee68d0b",
+    "custom-running-horse-area-rug-31f0e158c5",
+    "personalized-classroom-doormat-teacher-name-notebook-pattern-42da091fe1-42da091fe1",
+    "personalized-classroom-welcome-doormat-notebook-rug-8e1bdf83d4",
+    "personalized-classroom-welcome-doormat-teacher-students-7f5a91b5a9",
+    "personalized-classroom-welcome-mat-teacher-name-ff4e426bbe"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::custom-running-horse-welcome-mat-2e0754fd8e-2e0754fd8e",
+    "chillgen.com::custom-running-horse-welcome-mat-f114a916e7-f114a916e7",
+    "chillgen.com::custom-running-horse-welcome-mat-a4c32dbbfa-a4c32dbbfa",
+    "chillgen.com::custom-running-horse-area-rug-2f0ce836fd-2f0ce836fd",
+    "chillgen.com::western-running-horse-area-rug-02dee68d0b",
+    "chillgen.com::custom-running-horse-area-rug-31f0e158c5",
+    "chillgen.com::personalized-classroom-doormat-teacher-name-notebook-pattern-42da091fe1-42da091fe1",
+    "chillgen.com::personalized-classroom-welcome-doormat-notebook-rug-8e1bdf83d4",
+    "chillgen.com::personalized-classroom-welcome-doormat-teacher-students-7f5a91b5a9",
+    "chillgen.com::personalized-classroom-welcome-mat-teacher-name-ff4e426bbe"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B030\\progress_B030_for_QA.json",
+  "created_at": "2026-09-07T17:14:46+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "custom-running-horse-welcome-mat-2e0754fd8e-2e0754fd8e",
+      "canonical_product_key": "chillgen.com::custom-running-horse-welcome-mat-2e0754fd8e-2e0754fd8e",
+      "Handle": "custom-running-horse-welcome-mat-2e0754fd8e-2e0754fd8e",
+      "url": "https://chillgen.com/products/custom-running-horse-welcome-mat-2e0754fd8e-2e0754fd8e",
+      "revision": "1",
+      "title_proposed": "Charcoal Running Horse Rug",
+      "primary_keyword": "charcoal running horse rug",
+      "evidence_id": "B030-291"
+    },
+    {
+      "product_key": "custom-running-horse-welcome-mat-f114a916e7-f114a916e7",
+      "canonical_product_key": "chillgen.com::custom-running-horse-welcome-mat-f114a916e7-f114a916e7",
+      "Handle": "custom-running-horse-welcome-mat-f114a916e7-f114a916e7",
+      "url": "https://chillgen.com/products/custom-running-horse-welcome-mat-f114a916e7-f114a916e7",
+      "revision": "1",
+      "title_proposed": "Running Horses Area Rug",
+      "primary_keyword": "running horses area rug",
+      "evidence_id": "B030-292"
+    },
+    {
+      "product_key": "custom-running-horse-welcome-mat-a4c32dbbfa-a4c32dbbfa",
+      "canonical_product_key": "chillgen.com::custom-running-horse-welcome-mat-a4c32dbbfa-a4c32dbbfa",
+      "Handle": "custom-running-horse-welcome-mat-a4c32dbbfa-a4c32dbbfa",
+      "url": "https://chillgen.com/products/custom-running-horse-welcome-mat-a4c32dbbfa-a4c32dbbfa",
+      "revision": "1",
+      "title_proposed": "Dark Horse Eye Rug",
+      "primary_keyword": "dark horse eye rug",
+      "evidence_id": "B030-293"
+    },
+    {
+      "product_key": "custom-running-horse-area-rug-2f0ce836fd-2f0ce836fd",
+      "canonical_product_key": "chillgen.com::custom-running-horse-area-rug-2f0ce836fd-2f0ce836fd",
+      "Handle": "custom-running-horse-area-rug-2f0ce836fd-2f0ce836fd",
+      "url": "https://chillgen.com/products/custom-running-horse-area-rug-2f0ce836fd-2f0ce836fd",
+      "revision": "1",
+      "title_proposed": "Black White Horse Rug",
+      "primary_keyword": "black white horse rug",
+      "evidence_id": "B030-294"
+    },
+    {
+      "product_key": "western-running-horse-area-rug-02dee68d0b",
+      "canonical_product_key": "chillgen.com::western-running-horse-area-rug-02dee68d0b",
+      "Handle": "western-running-horse-area-rug-02dee68d0b",
+      "url": "https://chillgen.com/products/western-running-horse-area-rug-02dee68d0b",
+      "revision": "1",
+      "title_proposed": "Mint Horse Area Rug",
+      "primary_keyword": "mint horse area rug",
+      "evidence_id": "B030-295"
+    },
+    {
+      "product_key": "custom-running-horse-area-rug-31f0e158c5",
+      "canonical_product_key": "chillgen.com::custom-running-horse-area-rug-31f0e158c5",
+      "Handle": "custom-running-horse-area-rug-31f0e158c5",
+      "url": "https://chillgen.com/products/custom-running-horse-area-rug-31f0e158c5",
+      "revision": "1",
+      "title_proposed": "Floral Horse Herd Rug",
+      "primary_keyword": "floral horse herd rug",
+      "evidence_id": "B030-296"
+    },
+    {
+      "product_key": "personalized-classroom-doormat-teacher-name-notebook-pattern-42da091fe1-42da091fe1",
+      "canonical_product_key": "chillgen.com::personalized-classroom-doormat-teacher-name-notebook-pattern-42da091fe1-42da091fe1",
+      "Handle": "personalized-classroom-doormat-teacher-name-notebook-pattern-42da091fe1-42da091fe1",
+      "url": "https://chillgen.com/products/personalized-classroom-doormat-teacher-name-notebook-pattern-42da091fe1-42da091fe1",
+      "revision": "1",
+      "title_proposed": "Ocean Classroom Welcome Mat",
+      "primary_keyword": "ocean classroom welcome mat",
+      "evidence_id": "B030-297"
+    },
+    {
+      "product_key": "personalized-classroom-welcome-doormat-notebook-rug-8e1bdf83d4",
+      "canonical_product_key": "chillgen.com::personalized-classroom-welcome-doormat-notebook-rug-8e1bdf83d4",
+      "Handle": "personalized-classroom-welcome-doormat-notebook-rug-8e1bdf83d4",
+      "url": "https://chillgen.com/products/personalized-classroom-welcome-doormat-notebook-rug-8e1bdf83d4",
+      "revision": "1",
+      "title_proposed": "Teacher Notebook Welcome Mat",
+      "primary_keyword": "teacher notebook welcome mat",
+      "evidence_id": "B030-298"
+    },
+    {
+      "product_key": "personalized-classroom-welcome-doormat-teacher-students-7f5a91b5a9",
+      "canonical_product_key": "chillgen.com::personalized-classroom-welcome-doormat-teacher-students-7f5a91b5a9",
+      "Handle": "personalized-classroom-welcome-doormat-teacher-students-7f5a91b5a9",
+      "url": "https://chillgen.com/products/personalized-classroom-welcome-doormat-teacher-students-7f5a91b5a9",
+      "revision": "1",
+      "title_proposed": "Speech Pathologist Welcome Mat",
+      "primary_keyword": "speech pathologist welcome mat",
+      "evidence_id": "B030-299"
+    },
+    {
+      "product_key": "personalized-classroom-welcome-mat-teacher-name-ff4e426bbe",
+      "canonical_product_key": "chillgen.com::personalized-classroom-welcome-mat-teacher-name-ff4e426bbe",
+      "Handle": "personalized-classroom-welcome-mat-teacher-name-ff4e426bbe",
+      "url": "https://chillgen.com/products/personalized-classroom-welcome-mat-teacher-name-ff4e426bbe",
+      "revision": "1",
+      "title_proposed": "Teacher Name Classroom Mat",
+      "primary_keyword": "teacher name classroom mat",
+      "evidence_id": "B030-300"
+    }
+  ]
+}

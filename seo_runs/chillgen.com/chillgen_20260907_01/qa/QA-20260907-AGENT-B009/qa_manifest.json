@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B009",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "personalized-tropical-beach-rug-custom-family-name-tropic-design-04",
+    "personalized-tropical-beach-rug-custom-family-name-tropic-design-05",
+    "personalized-tropical-beach-rug-custom-family-name-tropic-design-01",
+    "personalized-tropical-beach-rug-custom-family-name-tropic-design-08",
+    "personalized-tropical-beach-rug-custom-family-name-tropic-design-06",
+    "personalized-tropical-beach-rug-custom-family-name-tropical-outdoor",
+    "personalized-calming-corner-rug-for-classroom-custom-teacher-name",
+    "personalized-calming-corner-rug-for-classroom-custom-tea-design-100",
+    "personalized-calming-corner-rug-for-classroom-custom-tea-design-101",
+    "personalized-calming-corner-rug-for-classroom-custom-tea-design-102"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::personalized-tropical-beach-rug-custom-family-name-tropic-design-04",
+    "chillgen.com::personalized-tropical-beach-rug-custom-family-name-tropic-design-05",
+    "chillgen.com::personalized-tropical-beach-rug-custom-family-name-tropic-design-01",
+    "chillgen.com::personalized-tropical-beach-rug-custom-family-name-tropic-design-08",
+    "chillgen.com::personalized-tropical-beach-rug-custom-family-name-tropic-design-06",
+    "chillgen.com::personalized-tropical-beach-rug-custom-family-name-tropical-outdoor",
+    "chillgen.com::personalized-calming-corner-rug-for-classroom-custom-teacher-name",
+    "chillgen.com::personalized-calming-corner-rug-for-classroom-custom-tea-design-100",
+    "chillgen.com::personalized-calming-corner-rug-for-classroom-custom-tea-design-101",
+    "chillgen.com::personalized-calming-corner-rug-for-classroom-custom-tea-design-102"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B009\\progress_B009_for_QA.json",
+  "created_at": "2026-09-07T16:30:18+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "personalized-tropical-beach-rug-custom-family-name-tropic-design-04",
+      "canonical_product_key": "chillgen.com::personalized-tropical-beach-rug-custom-family-name-tropic-design-04",
+      "Handle": "personalized-tropical-beach-rug-custom-family-name-tropic-design-04",
+      "url": "https://chillgen.com/products/personalized-tropical-beach-rug-custom-family-name-tropic-design-04",
+      "revision": "1",
+      "title_proposed": "Personalized Parrot Beach House Rug",
+      "primary_keyword": "personalized parrot beach house rug",
+      "evidence_id": "B009-081"
+    },
+    {
+      "product_key": "personalized-tropical-beach-rug-custom-family-name-tropic-design-05",
+      "canonical_product_key": "chillgen.com::personalized-tropical-beach-rug-custom-family-name-tropic-design-05",
+      "Handle": "personalized-tropical-beach-rug-custom-family-name-tropic-design-05",
+      "url": "https://chillgen.com/products/personalized-tropical-beach-rug-custom-family-name-tropic-design-05",
+      "revision": "1",
+      "title_proposed": "Personalized Surfboard Beach Rug",
+      "primary_keyword": "personalized surfboard beach rug",
+      "evidence_id": "B009-082"
+    },
+    {
+      "product_key": "personalized-tropical-beach-rug-custom-family-name-tropic-design-01",
+      "canonical_product_key": "chillgen.com::personalized-tropical-beach-rug-custom-family-name-tropic-design-01",
+      "Handle": "personalized-tropical-beach-rug-custom-family-name-tropic-design-01",
+      "url": "https://chillgen.com/products/personalized-tropical-beach-rug-custom-family-name-tropic-design-01",
+      "revision": "1",
+      "title_proposed": "Personalized Flip Flop Beach Rug",
+      "primary_keyword": "personalized flip flop beach rug",
+      "evidence_id": "B009-083"
+    },
+    {
+      "product_key": "personalized-tropical-beach-rug-custom-family-name-tropic-design-08",
+      "canonical_product_key": "chillgen.com::personalized-tropical-beach-rug-custom-family-name-tropic-design-08",
+      "Handle": "personalized-tropical-beach-rug-custom-family-name-tropic-design-08",
+      "url": "https://chillgen.com/products/personalized-tropical-beach-rug-custom-family-name-tropic-design-08",
+      "revision": "1",
+      "title_proposed": "Personalized Flamingo Paradise Rug",
+      "primary_keyword": "personalized flamingo paradise rug",
+      "evidence_id": "B009-084"
+    },
+    {
+      "product_key": "personalized-tropical-beach-rug-custom-family-name-tropic-design-06",
+      "canonical_product_key": "chillgen.com::personalized-tropical-beach-rug-custom-family-name-tropic-design-06",
+      "Handle": "personalized-tropical-beach-rug-custom-family-name-tropic-design-06",
+      "url": "https://chillgen.com/products/personalized-tropical-beach-rug-custom-family-name-tropic-design-06",
+      "revision": "1",
+      "title_proposed": "Personalized Sunset Beach House Rug",
+      "primary_keyword": "personalized sunset beach house rug",
+      "evidence_id": "B009-085"
+    },
+    {
+      "product_key": "personalized-tropical-beach-rug-custom-family-name-tropical-outdoor",
+      "canonical_product_key": "chillgen.com::personalized-tropical-beach-rug-custom-family-name-tropical-outdoor",
+      "Handle": "personalized-tropical-beach-rug-custom-family-name-tropical-outdoor",
+      "url": "https://chillgen.com/products/personalized-tropical-beach-rug-custom-family-name-tropical-outdoor",
+      "revision": "1",
+      "title_proposed": "Personalized Hibiscus Tropical Rug",
+      "primary_keyword": "personalized hibiscus tropical rug",
+      "evidence_id": "B009-086"
+    },
+    {
+      "product_key": "personalized-calming-corner-rug-for-classroom-custom-teacher-name",
+      "canonical_product_key": "chillgen.com::personalized-calming-corner-rug-for-classroom-custom-teacher-name",
+      "Handle": "personalized-calming-corner-rug-for-classroom-custom-teacher-name",
+      "url": "https://chillgen.com/products/personalized-calming-corner-rug-for-classroom-custom-teacher-name",
+      "revision": "1",
+      "title_proposed": "Personalized Teacher Calm Corner Rug",
+      "primary_keyword": "personalized teacher calm corner rug",
+      "evidence_id": "B009-087"
+    },
+    {
+      "product_key": "personalized-calming-corner-rug-for-classroom-custom-tea-design-100",
+      "canonical_product_key": "chillgen.com::personalized-calming-corner-rug-for-classroom-custom-tea-design-100",
+      "Handle": "personalized-calming-corner-rug-for-classroom-custom-tea-design-100",
+      "url": "https://chillgen.com/products/personalized-calming-corner-rug-for-classroom-custom-tea-design-100",
+      "revision": "1",
+      "title_proposed": "Personalized Calm Corner Activity Rug",
+      "primary_keyword": "personalized calm corner activity rug",
+      "evidence_id": "B009-088"
+    },
+    {
+      "product_key": "personalized-calming-corner-rug-for-classroom-custom-tea-design-101",
+      "canonical_product_key": "chillgen.com::personalized-calming-corner-rug-for-classroom-custom-tea-design-101",
+      "Handle": "personalized-calming-corner-rug-for-classroom-custom-tea-design-101",
+      "url": "https://chillgen.com/products/personalized-calming-corner-rug-for-classroom-custom-tea-design-101",
+      "revision": "1",
+      "title_proposed": "Classroom Mindfulness Rug",
+      "primary_keyword": "classroom mindfulness rug",
+      "evidence_id": "B009-089"
+    },
+    {
+      "product_key": "personalized-calming-corner-rug-for-classroom-custom-tea-design-102",
+      "canonical_product_key": "chillgen.com::personalized-calming-corner-rug-for-classroom-custom-tea-design-102",
+      "Handle": "personalized-calming-corner-rug-for-classroom-custom-tea-design-102",
+      "url": "https://chillgen.com/products/personalized-calming-corner-rug-for-classroom-custom-tea-design-102",
+      "revision": "1",
+      "title_proposed": "Classroom Feelings Check-In Rug",
+      "primary_keyword": "classroom feelings check-in rug",
+      "evidence_id": "B009-090"
+    }
+  ]
+}

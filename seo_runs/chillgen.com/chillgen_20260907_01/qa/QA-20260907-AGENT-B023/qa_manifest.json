@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B023",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9",
+    "custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7",
+    "personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962",
+    "personalized-christmas-doormat-80a01c19f6-80a01c19f6",
+    "personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891",
+    "personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372",
+    "personalized-christmas-doormat-with-custom-family-name-83c3ea451f",
+    "personalized-christmas-doormat-with-custom-family-name-d66e920e14",
+    "personalized-christmas-welcome-doormat-28640346cc",
+    "personalized-christmas-doormat-1a037c0533"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9",
+    "chillgen.com::custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7",
+    "chillgen.com::personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962",
+    "chillgen.com::personalized-christmas-doormat-80a01c19f6-80a01c19f6",
+    "chillgen.com::personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891",
+    "chillgen.com::personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372",
+    "chillgen.com::personalized-christmas-doormat-with-custom-family-name-83c3ea451f",
+    "chillgen.com::personalized-christmas-doormat-with-custom-family-name-d66e920e14",
+    "chillgen.com::personalized-christmas-welcome-doormat-28640346cc",
+    "chillgen.com::personalized-christmas-doormat-1a037c0533"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B023\\progress_B023_for_QA.json",
+  "created_at": "2026-09-07T17:05:26+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9",
+      "canonical_product_key": "chillgen.com::custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9",
+      "Handle": "custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9",
+      "url": "https://chillgen.com/products/custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9",
+      "revision": "1",
+      "title_proposed": "Adventure Town Road Map Rug",
+      "primary_keyword": "adventure town road map rug",
+      "evidence_id": "B023-221"
+    },
+    {
+      "product_key": "custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7",
+      "canonical_product_key": "chillgen.com::custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7",
+      "Handle": "custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7",
+      "url": "https://chillgen.com/products/custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7",
+      "revision": "1",
+      "title_proposed": "Construction City Road Map Rug",
+      "primary_keyword": "construction city road map rug",
+      "evidence_id": "B023-222"
+    },
+    {
+      "product_key": "personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962",
+      "canonical_product_key": "chillgen.com::personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962",
+      "Handle": "personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962",
+      "url": "https://chillgen.com/products/personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962",
+      "revision": "1",
+      "title_proposed": "Santa Stop Here Family Doormat",
+      "primary_keyword": "Santa stop here family doormat",
+      "evidence_id": "B023-223"
+    },
+    {
+      "product_key": "personalized-christmas-doormat-80a01c19f6-80a01c19f6",
+      "canonical_product_key": "chillgen.com::personalized-christmas-doormat-80a01c19f6-80a01c19f6",
+      "Handle": "personalized-christmas-doormat-80a01c19f6-80a01c19f6",
+      "url": "https://chillgen.com/products/personalized-christmas-doormat-80a01c19f6-80a01c19f6",
+      "revision": "1",
+      "title_proposed": "Pet Stocking Christmas Doormat",
+      "primary_keyword": "pet stocking Christmas doormat",
+      "evidence_id": "B023-224"
+    },
+    {
+      "product_key": "personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891",
+      "canonical_product_key": "chillgen.com::personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891",
+      "Handle": "personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891",
+      "url": "https://chillgen.com/products/personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891",
+      "revision": "1",
+      "title_proposed": "Black Bear Family Christmas Doormat",
+      "primary_keyword": "black bear family Christmas doormat",
+      "evidence_id": "B023-225"
+    },
+    {
+      "product_key": "personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372",
+      "canonical_product_key": "chillgen.com::personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372",
+      "Handle": "personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372",
+      "url": "https://chillgen.com/products/personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372",
+      "revision": "1",
+      "title_proposed": "Red Monogram Christmas Doormat",
+      "primary_keyword": "red monogram Christmas doormat",
+      "evidence_id": "B023-226"
+    },
+    {
+      "product_key": "personalized-christmas-doormat-with-custom-family-name-83c3ea451f",
+      "canonical_product_key": "chillgen.com::personalized-christmas-doormat-with-custom-family-name-83c3ea451f",
+      "Handle": "personalized-christmas-doormat-with-custom-family-name-83c3ea451f",
+      "url": "https://chillgen.com/products/personalized-christmas-doormat-with-custom-family-name-83c3ea451f",
+      "revision": "1",
+      "title_proposed": "Family Stocking Christmas Doormat",
+      "primary_keyword": "family stocking Christmas doormat",
+      "evidence_id": "B023-227"
+    },
+    {
+      "product_key": "personalized-christmas-doormat-with-custom-family-name-d66e920e14",
+      "canonical_product_key": "chillgen.com::personalized-christmas-doormat-with-custom-family-name-d66e920e14",
+      "Handle": "personalized-christmas-doormat-with-custom-family-name-d66e920e14",
+      "url": "https://chillgen.com/products/personalized-christmas-doormat-with-custom-family-name-d66e920e14",
+      "revision": "1",
+      "title_proposed": "3D Snowman Christmas Doormat",
+      "primary_keyword": "3D snowman Christmas doormat",
+      "evidence_id": "B023-228"
+    },
+    {
+      "product_key": "personalized-christmas-welcome-doormat-28640346cc",
+      "canonical_product_key": "chillgen.com::personalized-christmas-welcome-doormat-28640346cc",
+      "Handle": "personalized-christmas-welcome-doormat-28640346cc",
+      "url": "https://chillgen.com/products/personalized-christmas-welcome-doormat-28640346cc",
+      "revision": "1",
+      "title_proposed": "Pet Family Christmas Welcome Mat",
+      "primary_keyword": "pet family Christmas welcome mat",
+      "evidence_id": "B023-229"
+    },
+    {
+      "product_key": "personalized-christmas-doormat-1a037c0533",
+      "canonical_product_key": "chillgen.com::personalized-christmas-doormat-1a037c0533",
+      "Handle": "personalized-christmas-doormat-1a037c0533",
+      "url": "https://chillgen.com/products/personalized-christmas-doormat-1a037c0533",
+      "revision": "1",
+      "title_proposed": "North Pole Letter Christmas Doormat",
+      "primary_keyword": "North Pole letter Christmas doormat",
+      "evidence_id": "B023-230"
+    }
+  ]
+}

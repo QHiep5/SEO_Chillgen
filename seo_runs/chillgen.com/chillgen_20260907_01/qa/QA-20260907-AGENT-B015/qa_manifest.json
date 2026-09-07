@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B015",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102",
+    "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103",
+    "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104",
+    "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105",
+    "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106",
+    "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107",
+    "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108",
+    "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109",
+    "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110",
+    "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B015\\progress_B015_for_QA.json",
+  "created_at": "2026-09-07T16:45:21+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102",
+      "Handle": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102",
+      "url": "https://chillgen.com/products/custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102",
+      "revision": "1",
+      "title_proposed": "Ghost Vortex Halloween Rug",
+      "primary_keyword": "3D ghost vortex Halloween rug",
+      "evidence_id": "B015-141"
+    },
+    {
+      "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103",
+      "Handle": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103",
+      "url": "https://chillgen.com/products/custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103",
+      "revision": "1",
+      "title_proposed": "Raven Autumn Halloween Rug",
+      "primary_keyword": "raven autumn Halloween rug",
+      "evidence_id": "B015-142"
+    },
+    {
+      "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104",
+      "Handle": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104",
+      "url": "https://chillgen.com/products/custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104",
+      "revision": "1",
+      "title_proposed": "Checkerboard Ghost Illusion Rug",
+      "primary_keyword": "checkerboard ghost illusion rug",
+      "evidence_id": "B015-143"
+    },
+    {
+      "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105",
+      "Handle": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105",
+      "url": "https://chillgen.com/products/custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105",
+      "revision": "1",
+      "title_proposed": "Ghost Campfire Halloween Rug",
+      "primary_keyword": "ghost campfire Halloween rug",
+      "evidence_id": "B015-144"
+    },
+    {
+      "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106",
+      "Handle": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106",
+      "url": "https://chillgen.com/products/custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106",
+      "revision": "1",
+      "title_proposed": "Crawling Skeleton Pit Rug",
+      "primary_keyword": "crawling skeleton pit rug",
+      "evidence_id": "B015-145"
+    },
+    {
+      "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107",
+      "Handle": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107",
+      "url": "https://chillgen.com/products/custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107",
+      "revision": "1",
+      "title_proposed": "Graveyard Checkerboard Illusion Rug",
+      "primary_keyword": "graveyard checkerboard illusion rug",
+      "evidence_id": "B015-146"
+    },
+    {
+      "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108",
+      "Handle": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108",
+      "url": "https://chillgen.com/products/custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108",
+      "revision": "1",
+      "title_proposed": "Haunted Path Ghost Pumpkin Rug",
+      "primary_keyword": "haunted path ghost pumpkin rug",
+      "evidence_id": "B015-147"
+    },
+    {
+      "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109",
+      "Handle": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109",
+      "url": "https://chillgen.com/products/custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109",
+      "revision": "1",
+      "title_proposed": "Corgi Haunted Castle Halloween Rug",
+      "primary_keyword": "corgi haunted castle Halloween rug",
+      "evidence_id": "B015-148"
+    },
+    {
+      "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110",
+      "Handle": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110",
+      "url": "https://chillgen.com/products/custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110",
+      "revision": "1",
+      "title_proposed": "Bat Vortex Halloween Rug",
+      "primary_keyword": "bat vortex Halloween rug",
+      "evidence_id": "B015-149"
+    },
+    {
+      "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111",
+      "Handle": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111",
+      "url": "https://chillgen.com/products/custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111",
+      "revision": "1",
+      "title_proposed": "Purple Haunted Village Rug",
+      "primary_keyword": "purple haunted village rug",
+      "evidence_id": "B015-150"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "checked_at": "2026-09-07T13:04:57+07:00",
+  "workbook_sha256": "ee8fe43e9dd10e4b0b27119cdf09866cacb8f5a04c981079a306ed3eda491fc7",
+  "sheet_counts": {
+    "SEO_Products": 569,
+    "Image_Audit": 4962,
+    "Keyword_Map": 1707,
+    "Buyer_Search_Research": 569,
+    "Product_Evidence": 569
+  },
+  "inventory_count": 569,
+  "inventory_order_matches_workbook": true,
+  "product_key_duplicate_count": 0,
+  "handle_duplicate_count": 0,
+  "primary_duplicate_groups_remaining": 0,
+  "primary_duplicate_examples_remaining": {},
+  "seo_title_duplicate_groups_remaining": 0,
+  "seo_title_duplicate_examples_remaining": {},
+  "meta_description_duplicate_groups_remaining": 0,
+  "keyword_multi_product_count": 212,
+  "keyword_role_counts": {
+    "PRIMARY": 569,
+    "SECONDARY": 569,
+    "REJECTED": 569
+  },
+  "seo_mapping_status_counts": {
+    "FINAL_REVIEWED": 569
+  },
+  "keyword_mapping_status_counts": {
+    "FINAL_REVIEWED": 1707
+  },
+  "review_status_counts": {
+    "NEEDS_REVIEW": 569
+  },
+  "content_qa_status_counts": {
+    "NOT_RUN": 569
+  },
+  "processing_status_counts": {
+    "DRAFTED": 569
+  },
+  "changed_products_count": 28,
+  "changed_products": [
+    "colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808",
+    "colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902",
+    "colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac",
+    "custom-a-good-day-to-read-book-rug-d1d331ba7d-d1d331ba7d",
+    "custom-composition-notebook-classroom-rug-for-kids-6480284917-6480284917",
+    "custom-flamingo-doormat-pink-bird-floral-b8f6e38c9d",
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-03",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102",
+    "custom-pink-flamingo-welcome-mat-98ad4e675e",
+    "custom-reading-classroom-library-rug-29b9f9b43d-29b9f9b43d",
+    "custom-reading-corner-classroom-library-rug-f3d87bd3da",
+    "custom-road-map-door-mat-town-design-e3598e955a-e3598e955a",
+    "custom-road-map-play-mat-rug-38a585717c-38a585717c",
+    "feelings-wheel-classroom-welcome-mat-3d070ff949",
+    "personalized-christmas-doormat-1a037c0533",
+    "personalized-christmas-doormat-d7f77b93a8-d7f77b93a8",
+    "personalized-composition-notebook-welcome-doormat-379c157fc5",
+    "personalized-halloween-3d-optical-illusion-ghost-round-rug-a07",
+    "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-04",
+    "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-06",
+    "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-08",
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-100",
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-102",
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-104",
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-108",
+    "personalized-orthodox-christian-area-rug-fb5a56fef9-fb5a56fef9",
+    "personalized-orthodox-doormat-with-christian-cross-and-eagle-6be5c719a3-6be5c719a3",
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-110"
+  ],
+  "progress_batch_id": "B057",
+  "progress_current_stage": "B057_COMPLETE_FINAL_DUPLICATE_REVIEWED_READY_FOR_QA",
+  "progress_awaiting_confirmation": false,
+  "progress_has_B058_mentions": false,
+  "approvals_count": 0,
+  "final_workbook_exists": false
+}
