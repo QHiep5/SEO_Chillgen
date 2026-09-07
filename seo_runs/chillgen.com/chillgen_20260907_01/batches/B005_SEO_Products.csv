@@ -1,0 +1,649 @@
+schema_version,prompt_version,run_id,batch_id,shop_domain,product_key,Handle,product_id,product_gid,identity_status,source_export_ref,source_exported_at,locale,market,url,canonical_url,product_type,title_current,h1_current,title_proposed,title_action,h1_mapping_status,meta_title_current,meta_title_source_state,rendered_title_current,theme_title_suffix,meta_title_seo,meta_title_action,meta_title_chars,meta_description_current,meta_description_source_state,rendered_meta_description_current,meta_description_seo,meta_description_action,meta_description_chars,primary_keyword,secondary_keywords,long_tail_candidates,keyword_strategy,season,keyword_demand_evidence,keyword_serp_fit,meta_keyword,search_intent,keyword_validation_status,keyword_selection_reason,buyer_research_refs,buyer_search_summary,baseline_status,change_scope,mapping_status,mapping_version,description_current_html,description_changes_needed,description_proposed,description_proposed_html,description_change_mode,description_target_section,description_action,revision,review_status,review_reason,approved_by,approved_at,approved_fields,approved_revision,processing_status,evidence_status,content_qa_status,field_evidence_map,evidence_id,issues,img_1_link,img_1_alt_current,img_1_alt,img_1_alt_action,img_2_link,img_2_alt_current,img_2_alt,img_2_alt_action,img_3_link,img_3_alt_current,img_3_alt,img_3_alt_action,img_4_link,img_4_alt_current,img_4_alt,img_4_alt_action,img_5_link,img_5_alt_current,img_5_alt,img_5_alt_action,img_6_link,img_6_alt_current,img_6_alt,img_6_alt_action,img_7_link,img_7_alt_current,img_7_alt,img_7_alt_action,img_8_link,img_8_alt_current,img_8_alt,img_8_alt_action,img_9_link,img_9_alt_current,img_9_alt,img_9_alt_action
+2.4,2.4,chillgen_20260907_01,B005,chillgen.com,personalized-football-shaped-rug-non-slip-washable-sport-design-03,personalized-football-shaped-rug-non-slip-washable-sport-design-03,15976530215281,gid://shopify/Product/15976530215281,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B005_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B005_pages/personalized-football-shaped-rug-non-slip-washable-sport-design-03.html,2026-09-07T01:53:37+07:00,en-US,US,https://chillgen.com/products/personalized-football-shaped-rug-non-slip-washable-sport-design-03,https://chillgen.com/products/personalized-football-shaped-rug-non-slip-washable-sport-design-03,Rug,"Personalized Football Shaped Rug, Non-Slip Washable Sport - Design 03","Personalized Football Shaped Rug, Non-Slip Washable Sport - Design 03",Personalized Football Player Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized Football Shaped Rug, Non-Slip – - Design 03",NONE_OR_NOT_OBSERVED,Personalized Football Player Rug,SET,32,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"This personalized football-shaped rug with a non-slip backing is ideal for adding a sporty touch to bedrooms, game rooms, or dorms.","Customize a football player shaped rug with a name and number, sporty game-room style, non-slip backing visuals, and washable-care graphics.",SET,140,personalized football player rug,"football shaped rug, custom football rug with name, sports room rug","personalized football player rug; football shaped rug, custom football rug with name, sports room rug",LONG_TAIL_CANDIDATE,EVERGREEN_SPORTS,SERP_ONLY: public marketplace/category results show personalized football rugs and dragon/fantasy rugs; no paid volume or first-party search data used.,SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized football player rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports a football player shaped rug and custom-name rug intent.,B005-041-BR01,"Buyer intent is treated as a hypothesis from product evidence plus category SERP language, not direct customer data.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This personalized football-shaped rug offers a unique accent for any sports enthusiast's home. Featuring a bold football design, it allows for custom names or numbers, making it a distinctive piece. Ideal for adding a sporty touch to various indoor spaces.</p><h3>Product Highlights</h3><ul>
+<li>Personalized with custom name, player number, or text</li>
+<li>Sporty design with football-style graphics</li>
+<li>Low-pile polypropylene for underfoot comfort</li>
+<li>Non-slip backing helps reduce shifting on floors</li>
+<li>Reinforced serged edges for durability</li>
+<li>Available in six size options</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Living Room, Game Room, Dorm</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non-Slip, Washable</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Football-style graphics</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sports, Football</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polypropylene</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Non-slip backing</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Vacuum regularly or spot clean</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Spot Clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This football-shaped rug is perfect for bedrooms, living rooms, game rooms, and dorms, bringing a personalized sports theme to these spaces. Its durable design is suitable for everyday indoor use.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a football player shaped rug with a name and number, sporty game-room style, non-slip backing visuals, and washable-care graphics. Design details Custom-shaped football player rug viewed from behind on green turf, with name william, number 18, football in hand, and color variants in yellow, blue, red, and black. Position this as a personalized sports room decor piece, not a generic rug listing. Use backing, washing, and material claims only where supported by page text or product infographics.","<p>Customize a football player shaped rug with a name and number, sporty game-room style, non-slip backing visuals, and washable-care graphics.</p><h3>Design details</h3><ul><li>Custom-shaped football player rug viewed from behind on green turf, with name william, number 18, football in hand, and color variants in yellow, blue, red, and black.</li><li>Position this as a personalized sports room decor piece, not a generic rug listing.</li><li>Use backing, washing, and material claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B005-041,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9ca70c18c1f42547cbb863b8ee0f543bde600f58e4cbb3d657215f455ba72992.jpg?v=1787256502,,football player shaped rug shown on a floor in a room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/54253d35322ab4265bfb1ce9f7d7c1e8865994c1391812f679c0e128e961c40b.jpg?v=1787256503,,size chart for personalized football player shaped rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f2dffc6093bf7dfdb3d2af86ef03a5e96d0114f0cd8d15d9117468a8621f34d2.jpg?v=1787256502,,football player shaped rug displayed in a living room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e1a5a3ac04a26c5fa9c8dce934ec3fc9b50d61b9fbffda3e5e4fd566ec39efd2.jpg?v=1787256503,,football player shaped rug displayed in a bedroom mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/93b9cafda821415386cb9ef94cf118a549f5e982d03967baa038a42c4c2aa713.jpg?v=1787256503,,isolated artwork view of personalized football player shaped rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/085b45f45ab58ca3f72b4b722955fb8fe4f0b9cdd6be57ca2016b91b9c05fdcc.jpg?v=1787256503,,alternate color artwork view of personalized football player shaped rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6347f63bf6d6553852ce5e425023137a189f9fa29719c9a956a5c86b758603d7.jpg?v=1787256502,,alternate color artwork view of personalized football player shaped rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1ec039a2728a5c6e13050efcc169987b007836b45f42a97529f15acba894c71f.jpg?v=1787256503,,layer construction graphic for personalized football player shaped rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f64d89855038e1ab4a90efec8374fe544e4d852420e23166d5b9c8b672c7037b.jpg?v=1787256502,,vacuum cleaner and machine washable care graphic for personalized football player shaped rug,SET
+2.4,2.4,chillgen_20260907_01,B005,chillgen.com,personalized-football-shaped-rug-non-slip-washable-sport-design-02,personalized-football-shaped-rug-non-slip-washable-sport-design-02,15976530084209,gid://shopify/Product/15976530084209,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B005_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B005_pages/personalized-football-shaped-rug-non-slip-washable-sport-design-02.html,2026-09-07T01:53:37+07:00,en-US,US,https://chillgen.com/products/personalized-football-shaped-rug-non-slip-washable-sport-design-02,https://chillgen.com/products/personalized-football-shaped-rug-non-slip-washable-sport-design-02,Rug,"Personalized Football Shaped Rug, Non-Slip Washable Sport - Design 02","Personalized Football Shaped Rug, Non-Slip Washable Sport - Design 02",Personalized Graffiti Football Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized Football Shaped Rug, Non-Slip – - Design 02",NONE_OR_NOT_OBSERVED,Personalized Graffiti Football Rug,SET,34,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized football-shaped rug with a non-slip backing, perfect for game rooms, bedrooms, and sports-themed spaces.","Design a personalized graffiti football rug with a name and number, dripping paint artwork, non-slip backing visuals, and washable-care graphics.",SET,145,personalized football rug with name,"graffiti football rug, football shaped rug, custom sports rug","personalized football rug with name; graffiti football rug, football shaped rug, custom sports rug",LONG_TAIL_CANDIDATE,EVERGREEN_SPORTS,SERP_ONLY: public marketplace/category results show personalized football rugs and dragon/fantasy rugs; no paid volume or first-party search data used.,SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized football rug with name,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports a graffiti football shaped rug and custom-name rug intent.,B005-042-BR01,"Buyer intent is treated as a hypothesis from product evidence plus category SERP language, not direct customer data.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This unique football-shaped rug offers a personalized touch for any sports enthusiast's space. Designed with football-inspired graphics, it allows for customization with a name or number, making it a distinctive floor accent. The rug is ideal for enhancing bedrooms, living rooms, game rooms, dorms, and other sports-themed areas with its bold design.</p><h3>Product Highlights</h3><ul>
+<li>Features football-style graphics with personalized name and number options.</li>
+<li>Made from low-pile polypropylene for comfort and easy maintenance.</li>
+<li>Equipped with a non-slip backing to help prevent shifting on indoor floors.</li>
+<li>Reinforced serged edges contribute to everyday durability.</li>
+<li>A fun and personalized gift choice for football players, coaches, and fans.</li>
+<li>Suitable for birthdays, holidays, game-day celebrations, and bedroom makeovers.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Custom Shape</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Football Shaped</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non-Slip Backing, Personalized, Washable</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Football-style graphics</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sports, Football</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Sporty, Customized</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polypropylene</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Non-slip backing</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Low-pile surface, comfortable underfoot</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Vacuum regularly or spot clean when needed</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Spot clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This football-shaped rug is perfect for adding a sporty touch to bedrooms, living rooms, and game rooms. It also works well in dorms and any space dedicated to sports themes, creating an inviting atmosphere for football enthusiasts.</p>",Make product copy motif-specific while retaining verified public claims only.,"Design a personalized graffiti football rug with a name and number, dripping paint artwork, non-slip backing visuals, and washable-care graphics. Design details Custom-shaped graffiti-style football rug with a brown football, paint-drip artwork, name jackson, number 99, and red, teal, and pink color variants. Position this as a personalized sports room decor piece, not a generic rug listing. Use backing, washing, and material claims only where supported by page text or product infographics.","<p>Design a personalized graffiti football rug with a name and number, dripping paint artwork, non-slip backing visuals, and washable-care graphics.</p><h3>Design details</h3><ul><li>Custom-shaped graffiti-style football rug with a brown football, paint-drip artwork, name jackson, number 99, and red, teal, and pink color variants.</li><li>Position this as a personalized sports room decor piece, not a generic rug listing.</li><li>Use backing, washing, and material claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B005-042,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/efad9d9dfe7ba42d0cdee6b46d25e76e0a73aa4758ba4d342f237499c661d876.jpg?v=1787256480,,graffiti football shaped rug shown on a floor in a room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/157a21a0312748dbc45672e308b18e8bf8a6346f37d6fdf3b25695a427543b90.jpg?v=1787256480,,size chart for personalized graffiti football shaped rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c56811b816ee8976322f2d4d91cafddd5e858c7b9fc2fe5fc913ffe7cc60da83.jpg?v=1787256480,,graffiti football shaped rug displayed in a living room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3a58a544ef5e0fc491bcc9cfba127a1ac55ff6fbf469eb90fd2f100214f8060b.jpg?v=1787256481,,graffiti football shaped rug displayed in a bedroom mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d7dcc1ec37bb2bb9fd4944387339e29d6d41b37a642c66ab50c187a2b4bf0a9d.jpg?v=1787256481,,isolated artwork view of personalized graffiti football shaped rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ab8eb4b82e519d390990fff4eaa1236005c46992e3751031d15ab56eaa09e8d7.jpg?v=1787256480,,alternate color artwork view of personalized graffiti football shaped rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/aa80f2f9091e29acafd15b2b274b63d5e77320fb97a5d03248d8422be31fde79.jpg?v=1787256480,,alternate color artwork view of personalized graffiti football shaped rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d3ef6adc963d9e050ed63e2e0abe19ad298863c38f3caa02c7e9b8913ab2d1ba.jpg?v=1787256480,,layer construction graphic for personalized graffiti football shaped rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/121675792ef79a4121b27365084e4eb3e1966b76e95b88989e69927429679abe.jpg?v=1787256481,,vacuum cleaner and machine washable care graphic for personalized graffiti football shaped rug,SET
+2.4,2.4,chillgen_20260907_01,B005,chillgen.com,personalized-football-shaped-rug-non-slip-washable-sport-design-01,personalized-football-shaped-rug-non-slip-washable-sport-design-01,15976527692145,gid://shopify/Product/15976527692145,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B005_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B005_pages/personalized-football-shaped-rug-non-slip-washable-sport-design-01.html,2026-09-07T01:53:37+07:00,en-US,US,https://chillgen.com/products/personalized-football-shaped-rug-non-slip-washable-sport-design-01,https://chillgen.com/products/personalized-football-shaped-rug-non-slip-washable-sport-design-01,Rug,"Personalized Football Shaped Rug, Non-Slip Washable Sport - Design 01","Personalized Football Shaped Rug, Non-Slip Washable Sport - Design 01",Personalized Football Badge Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized Football Shaped Rug, Non-Slip – - Design 01",NONE_OR_NOT_OBSERVED,Personalized Football Badge Rug,SET,31,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"This personalized football-shaped rug with a non-slip backing is ideal for adding a sporty touch to bedrooms, game rooms, or dorms.","Personalize a football badge shaped rug with a name, helmet-and-ball artwork, game-room decor appeal, non-slip backing visuals, and care graphics.",SET,146,personalized football badge rug,"football helmet rug, custom football name rug, sports bedroom rug","personalized football badge rug; football helmet rug, custom football name rug, sports bedroom rug",LONG_TAIL_CANDIDATE,EVERGREEN_SPORTS,SERP_ONLY: public marketplace/category results show personalized football rugs and dragon/fantasy rugs; no paid volume or first-party search data used.,SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized football badge rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports a football badge shaped rug and custom-name rug intent.,B005-043-BR01,"Buyer intent is treated as a hypothesis from product evidence plus category SERP language, not direct customer data.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This personalized football-shaped rug offers a unique accent for any sports enthusiast's home. Featuring a bold football design, it allows for custom names or numbers, making it a distinctive piece. Ideal for adding a sporty touch to various indoor spaces.</p><h3>Product Highlights</h3><ul>
+<li>Personalized with custom name, player number, or text</li>
+<li>Sporty design with football-style graphics</li>
+<li>Low-pile polypropylene for underfoot comfort</li>
+<li>Non-slip backing helps reduce shifting on floors</li>
+<li>Reinforced serged edges for durability</li>
+<li>Available in six size options</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Living Room, Game Room, Dorm</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non-Slip, Washable</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Football-style graphics</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sports, Football</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polypropylene</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Non-slip backing</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Vacuum regularly or spot clean</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Spot Clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This football-shaped rug is perfect for bedrooms, living rooms, game rooms, and dorms, bringing a personalized sports theme to these spaces. Its durable design is suitable for everyday indoor use.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalize a football badge shaped rug with a name, helmet-and-ball artwork, game-room decor appeal, non-slip backing visuals, and care graphics. Design details Badge-shaped football rug with red helmet, football, green field panel, red banner, and personalized name andrew. Position this as a personalized sports room decor piece, not a generic rug listing. Use backing, washing, and material claims only where supported by page text or product infographics.","<p>Personalize a football badge shaped rug with a name, helmet-and-ball artwork, game-room decor appeal, non-slip backing visuals, and care graphics.</p><h3>Design details</h3><ul><li>Badge-shaped football rug with red helmet, football, green field panel, red banner, and personalized name andrew.</li><li>Position this as a personalized sports room decor piece, not a generic rug listing.</li><li>Use backing, washing, and material claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B005-043,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/356fe766da2544a3841ef6b347b850250a7ca3bb65c0aeb54d0dcdfc86fb1fa3.jpg?v=1787256029,,football badge shaped rug shown on a floor in a room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/06b588594ab5bac6e86c01d8c12201258dadddde05642688f3be81900d203985.jpg?v=1787256029,,size chart for personalized football badge shaped rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e15125e9f7364e06cadb6d02b65e2884b5a8546c6320248dca7733d6fd9e4a3f.jpg?v=1787256029,,football badge shaped rug displayed in a living room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0d85bad0c8e9b61d83ee842cef10e68b3b0af11d542a8394089ecb3d4c8b0b74.jpg?v=1787256029,,football badge shaped rug displayed in a bedroom mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/81eb0545745795a8fc082f2ddf9ee8b91b47181aa82ee5fc460c67e939bb970e.jpg?v=1787256029,,isolated artwork view of personalized football badge shaped rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/77ab19a38546832afdb9e316d2e3f1b44e06a688489ec70e123e8ccf993271df.jpg?v=1787256029,,alternate color artwork view of personalized football badge shaped rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71a4dbe103c70aca1ca034a785e3a8a7b08f9540d546e422a91696d57ecf4a54.jpg?v=1787256029,,alternate color artwork view of personalized football badge shaped rug,SET,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B005,chillgen.com,personalized-football-shaped-rug-non-slip-washable-sport-design-05,personalized-football-shaped-rug-non-slip-washable-sport-design-05,15976527364465,gid://shopify/Product/15976527364465,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B005_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B005_pages/personalized-football-shaped-rug-non-slip-washable-sport-design-05.html,2026-09-07T01:53:37+07:00,en-US,US,https://chillgen.com/products/personalized-football-shaped-rug-non-slip-washable-sport-design-05,https://chillgen.com/products/personalized-football-shaped-rug-non-slip-washable-sport-design-05,Rug,"Personalized Football Shaped Rug, Non-Slip Washable Sport - Design 05","Personalized Football Shaped Rug, Non-Slip Washable Sport - Design 05",Personalized Football Number Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized Football Shaped Rug, Non-Slip – - Design 05",NONE_OR_NOT_OBSERVED,Personalized Football Number Rug,SET,32,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"This personalized football-shaped rug with a non-slip backing is perfect for adding a sporty touch to game rooms, bedrooms, or dorms.","Create a personalized football number rug with custom name detail, stitched football-number artwork, non-slip backing visuals, and easy-care graphics.",SET,150,personalized football number rug,"custom football rug with number, football shaped rug, sports fan room rug","personalized football number rug; custom football rug with number, football shaped rug, sports fan room rug",LONG_TAIL_CANDIDATE,EVERGREEN_SPORTS,SERP_ONLY: public marketplace/category results show personalized football rugs and dragon/fantasy rugs; no paid volume or first-party search data used.,SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized football number rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports a football number shaped rug and custom-name rug intent.,B005-044-BR01,"Buyer intent is treated as a hypothesis from product evidence plus category SERP language, not direct customer data.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This unique football-shaped rug offers a personalized touch for sports enthusiasts, allowing for custom names or numbers. Its distinctive design makes it a striking floor accent, perfect for enhancing the decor of various living spaces. Crafted for both visual appeal and practical use, this rug brings a sporty theme to any room.</p><h3>Product Highlights</h3><ul>
+<li>Personalize with a custom name, player number, or short text for a unique design.</li>
+<li>Features football-style graphics for a sports-inspired look.</li>
+<li>Made from quality polypropylene with a comfortable low-pile surface.</li>
+<li>Non-slip backing helps keep the rug in place on dry indoor floors.</li>
+<li>Reinforced serged edges contribute to everyday durability.</li>
+<li>Easy to maintain with regular vacuuming or spot cleaning.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Living Room, Game Room, Dorm</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non-Slip, Personalized</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Football-style graphics</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sports, Football</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Sporty</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polypropylene</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Non-slip backing</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Vacuum regularly or spot clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This football-shaped rug is ideal for bringing a personalized sports theme to bedrooms, living rooms, game rooms, and dorms. It serves as a decorative accent in any space that celebrates football, making it suitable for sports-themed home decor or game-day celebrations.</p>",Make product copy motif-specific while retaining verified public claims only.,"Create a personalized football number rug with custom name detail, stitched football-number artwork, non-slip backing visuals, and easy-care graphics. Design details Custom-shaped rug built around large number 34 with football-stitch details, green border, and personalized name andrew. Position this as a personalized sports room decor piece, not a generic rug listing. Use backing, washing, and material claims only where supported by page text or product infographics.","<p>Create a personalized football number rug with custom name detail, stitched football-number artwork, non-slip backing visuals, and easy-care graphics.</p><h3>Design details</h3><ul><li>Custom-shaped rug built around large number 34 with football-stitch details, green border, and personalized name andrew.</li><li>Position this as a personalized sports room decor piece, not a generic rug listing.</li><li>Use backing, washing, and material claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B005-044,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9c7e9cb7506c2f9629a3ffeffd1d84be189b4ec2e290285528f593064a09b1e4.jpg?v=1787255988,,football number shaped rug shown on a floor in a room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f0bb9062e2a1802f9dee2c4190f9aa88698cc7da61e2db43ae7f4c2efa5bde26.jpg?v=1787255987,,size chart for personalized football number shaped rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cd25f9db2a66f3824910caacd7bdb21d12a6cef0b5c0891436317039d918eba0.jpg?v=1787255987,,football number shaped rug displayed in a living room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/73f4a2d2818dca0c4a168b283692a3b47b2e8d7e4e4bf9ddbcbb8970f4e96e61.jpg?v=1787255987,,football number shaped rug displayed in a bedroom mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cd3aa6aed4ebb906977ef2bcea0084d3cd0dcfa07d30d864cd44e3da9c0b527e.jpg?v=1787255987,,isolated artwork view of personalized football number shaped rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/982020fc845852a4d5a39eeff83b2513b4f98102a313c0c67f1bcf380ba67ef1.jpg?v=1787255987,,alternate color artwork view of personalized football number shaped rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/621d6a6ce57a510912f2af4f02cad6f7e5f4b90b148ca84494f5db5c0c7b86ab.jpg?v=1787255988,,alternate color artwork view of personalized football number shaped rug,SET,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B005,chillgen.com,personalized-football-shaped-rug-non-slip-washable-sport-carpet-a04,personalized-football-shaped-rug-non-slip-washable-sport-carpet-a04,15976527331697,gid://shopify/Product/15976527331697,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B005_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B005_pages/personalized-football-shaped-rug-non-slip-washable-sport-carpet-a04.html,2026-09-07T01:53:37+07:00,en-US,US,https://chillgen.com/products/personalized-football-shaped-rug-non-slip-washable-sport-carpet-a04,https://chillgen.com/products/personalized-football-shaped-rug-non-slip-washable-sport-carpet-a04,Rug,"Personalized Football Shaped Rug, Non-Slip Washable Sport Carpet (A04)","Personalized Football Shaped Rug, Non-Slip Washable Sport Carpet (A04)",Personalized Football Ball Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized Football Shaped Rug, – Sport Carpet (A04)",NONE_OR_NOT_OBSERVED,Personalized Football Ball Rug,SET,30,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"This personalized football-shaped rug features a non-slip backing, perfect for adding a sporty touch to any game room or bedroom.","Customize a football ball shaped rug with a name and number, bold sports artwork, non-slip backing visuals, and washable-care room mockups.",SET,139,personalized football ball rug,"custom football rug with name, football shaped carpet, sports room rug","personalized football ball rug; custom football rug with name, football shaped carpet, sports room rug",LONG_TAIL_CANDIDATE,EVERGREEN_SPORTS,SERP_ONLY: public marketplace/category results show personalized football rugs and dragon/fantasy rugs; no paid volume or first-party search data used.,SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized football ball rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports a football ball shaped rug and custom-name rug intent.,B005-045-BR01,"Buyer intent is treated as a hypothesis from product evidence plus category SERP language, not direct customer data.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This football-shaped rug offers a unique way to personalize your space with a sports theme. You can add a custom name, player number, or text to create a one-of-a-kind accent. Ideal for enhancing bedrooms, living rooms, and game rooms, this rug brings a sporty character to any indoor setting.</p><h3>Product Highlights</h3><ul>
+<li>Football-inspired shape with customizable name and number options.</li>
+<li>Features football-style graphics without official team logos.</li>
+<li>Low-pile surface offers comfort underfoot and is easy to maintain.</li>
+<li>Non-slip backing helps keep the rug in place on most dry indoor floors.</li>
+<li>Reinforced serged edges contribute to everyday durability.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Custom Shape</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non-Slip, Washable</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Football-style graphics</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sports</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Football Shaped</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polypropylene, Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Non-slip backing</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Vacuum regularly or spot clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This football-shaped rug is perfectly suited for various indoor environments, including bedrooms, living rooms, game rooms, and dorms. Its sporty design makes it an excellent addition to any sports-themed space, adding a personalized touch for fans and players alike.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a football ball shaped rug with a name and number, bold sports artwork, non-slip backing visuals, and washable-care room mockups. Design details Custom-shaped rug with a large brown football, white laces, name jackson, and number 99 shown in room mockups and care graphics. Position this as a personalized sports room decor piece, not a generic rug listing. Use backing, washing, and material claims only where supported by page text or product infographics.","<p>Customize a football ball shaped rug with a name and number, bold sports artwork, non-slip backing visuals, and washable-care room mockups.</p><h3>Design details</h3><ul><li>Custom-shaped rug with a large brown football, white laces, name jackson, and number 99 shown in room mockups and care graphics.</li><li>Position this as a personalized sports room decor piece, not a generic rug listing.</li><li>Use backing, washing, and material claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B005-045,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/115797e7faf9777d3124b210121a9a78f03df6e9c290d0a3ff809e0e8010d2b5.jpg?v=1787255961,,football ball shaped rug shown on a floor in a room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/291516bda254c1ad77037234efeafbb9aea72a9335359bd078b82d07a629591d.jpg?v=1787255961,,size chart for personalized football ball shaped rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3b3ceaec4b8ff14c22439544d83786254962ddb24c145eeb21cf7b807da92b4a.jpg?v=1787255962,,football ball shaped rug displayed in a living room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/39c3274b92ab9f592fc73bd2e101ef4544a8a122e9d371ee67451375c6bdbed6.jpg?v=1787255961,,football ball shaped rug displayed in a bedroom mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f264ca28c150db00eee887682a81296a3441727e2506cafce3e5617ea55afb98.jpg?v=1787255961,,isolated artwork view of personalized football ball shaped rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cbd60d306dfed6fb9b9cd8d191d23ffb82267e0325681225357dcca5eef4d3fb.jpg?v=1787255961,,alternate color artwork view of personalized football ball shaped rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b0311cf773030eef8d973b5e3f21997f27e12954f5e912e8d9c7438e4170136c.jpg?v=1787255961,,alternate color artwork view of personalized football ball shaped rug,SET,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B005,chillgen.com,custom-dragon-shaped-area-rug-personalized-library-wester-design-02,custom-dragon-shaped-area-rug-personalized-library-wester-design-02,15976519238001,gid://shopify/Product/15976519238001,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B005_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B005_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-02.html,2026-09-07T01:53:37+07:00,en-US,US,https://chillgen.com/products/custom-dragon-shaped-area-rug-personalized-library-wester-design-02,https://chillgen.com/products/custom-dragon-shaped-area-rug-personalized-library-wester-design-02,Rug,"Custom Dragon Shaped Area Rug, Personalized Library Wester - Design 02","Custom Dragon Shaped Area Rug, Personalized Library Wester - Design 02",Personalized Blue Dragon Book Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Custom Dragon Shaped Area Rug, Personalized – - Design 02",NONE_OR_NOT_OBSERVED,Personalized Blue Dragon Book Rug,SET,33,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"This personalized fantasy book-style dragon rug, made of polypropylene, features a low pile and is perfect for living rooms or bedrooms.","Personalize a blue dragon book shaped rug with custom name artwork, fantasy library style, anti-slip backing visuals, and size chart images.",SET,140,personalized dragon book rug,"blue dragon rug, fantasy library rug, custom dragon shaped rug","personalized dragon book rug; blue dragon rug, fantasy library rug, custom dragon shaped rug",LONG_TAIL_CANDIDATE,EVERGREEN_FANTASY,SERP_ONLY: public marketplace/category results show personalized football rugs and dragon/fantasy rugs; no paid volume or first-party search data used.,SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized dragon book rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports a blue dragon book shaped rug and custom-name rug intent.,B005-046-BR01,"Buyer intent is treated as a hypothesis from product evidence plus category SERP language, not direct customer data.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This uniquely shaped area rug features a bold dragon with books, offering a distinctive fantasy book design. It is perfect for adding a touch of magic to any space, combining an engaging aesthetic with practical features. This rug serves as a versatile accent piece suitable for various room settings.</p><h3>Product Highlights</h3><ul>
+<li>Features a bold dragon with books for a unique fantasy book design.</li>
+<li>Allows for personalization with custom names or text.</li>
+<li>Constructed with a low pile for ease of cleaning.</li>
+<li>Equipped with reinforced serged edges for enhanced durability.</li>
+<li>Suitable for a variety of spaces from reading corners to living rooms.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Living Room, Bedroom, Dorm, Kids Room, Reading Room</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Dragon</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Dragon, Fantasy Book</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polypropylene, Memory Foam</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Easy care</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Easy to clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This dragon-shaped area rug is ideal for enhancing bedrooms, reading corners, classrooms, dorms, and living rooms. Its distinctive design makes it a focal point in any space, especially appealing to fans of fantasy and literature.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalize a blue dragon book shaped rug with custom name artwork, fantasy library style, anti-slip backing visuals, and size chart images. Design details Custom-shaped fantasy rug with a blue dragon curled over an open book, moonlit blue accents, and personalized name jasmine. Position this as a personalized fantasy reading room decor piece, not a generic rug listing. Use backing, washing, and material claims only where supported by page text or product infographics.","<p>Personalize a blue dragon book shaped rug with custom name artwork, fantasy library style, anti-slip backing visuals, and size chart images.</p><h3>Design details</h3><ul><li>Custom-shaped fantasy rug with a blue dragon curled over an open book, moonlit blue accents, and personalized name jasmine.</li><li>Position this as a personalized fantasy reading room decor piece, not a generic rug listing.</li><li>Use backing, washing, and material claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B005-046,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/adba84e54472fd088eb4c6ac9d534818e90d955dc28e3cdb0c8b8f3c7446285d.jpg?v=1787253929,,blue dragon book shaped rug shown on a dark wood floor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/620a0cedb1458ca6d61b627e804489e17a27d19122a2f7eae4aee1fbf8c9c45c.jpg?v=1787253929,,alternate angle or isolated view of personalized blue dragon book shaped rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d2d595f92219c17d97f7242d6d0818f15a7656a40264620eb31bbb694cb4881a.jpg?v=1787253929,,isolated or room view of personalized blue dragon book shaped rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ce476a889973c3bce1b9c7a1796e06dd3ab9f6451ca49efc1d924dc10f372746.jpg?v=1787253929,,custom shape area rug material graphic for blue dragon book shaped rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6013235f3dbc72597be5d1fb626df3e92d44b0f4008fcde8012ac06e0b5013f2.jpg?v=1787253929,,blue dragon book shaped rug displayed in a light living room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ad34374337a7c74310f51ee93194ffb45e3974626fd25caf589ffd09997251cf.jpg?v=1787253929,,"upper, middle, and bottom layer graphic for personalized blue dragon book shaped rug",SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7e1b14356011cbe2e6e3d07dcabb722ba0cf8b8924c62cd15c0b60fa7a204d9a.jpg?v=1787253929,,size chart and backing view for personalized blue dragon book shaped rug,SET,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B005,chillgen.com,custom-dragon-shaped-area-rug-personalized-library-wester-design-08,custom-dragon-shaped-area-rug-personalized-library-wester-design-08,15976519172465,gid://shopify/Product/15976519172465,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B005_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B005_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-08.html,2026-09-07T01:53:37+07:00,en-US,US,https://chillgen.com/products/custom-dragon-shaped-area-rug-personalized-library-wester-design-08,https://chillgen.com/products/custom-dragon-shaped-area-rug-personalized-library-wester-design-08,Rug,"Custom Dragon Shaped Area Rug, Personalized Library Wester - Design 08","Custom Dragon Shaped Area Rug, Personalized Library Wester - Design 08",Personalized Purple Dragon Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Custom Dragon Shaped Area Rug, Personalized – - Design 08",NONE_OR_NOT_OBSERVED,Personalized Purple Dragon Rug,SET,30,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"This personalized Western dragon-shaped area rug features a low pile for easy care, perfect for a reading room or kid&#39;s room.","Choose a personalized purple dragon rug with stacked-book fantasy artwork, floral accents, custom name detail, and anti-slip backing visuals.",SET,141,personalized purple dragon rug,"dragon book rug, fantasy floral rug, custom shaped dragon rug","personalized purple dragon rug; dragon book rug, fantasy floral rug, custom shaped dragon rug",LONG_TAIL_CANDIDATE,EVERGREEN_FANTASY,SERP_ONLY: public marketplace/category results show personalized football rugs and dragon/fantasy rugs; no paid volume or first-party search data used.,SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized purple dragon rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports a purple dragon floral book rug and custom-name rug intent.,B005-047-BR01,"Buyer intent is treated as a hypothesis from product evidence plus category SERP language, not direct customer data.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This custom dragon shaped area rug features a unique design with a bold dragon and books, making it a distinctive decor piece. It is ideal for enhancing themed spaces and offers a personalized touch with custom text options. The rug serves as a focal point, bringing a touch of fantasy to various rooms.</p>
+<h3>Product Highlights</h3>
+<ul>
+<li>Customizable with your name or text for a unique touch.</li>
+<li>Features a fantasy book design with a bold dragon motif.</li>
+<li>Constructed with low pile for easy maintenance and cleaning.</li>
+<li>Equipped with reinforced serged edges for enhanced durability.</li>
+<li>Versatile for use in bedrooms, reading corners, classrooms, or living rooms.</li>
+</ul>
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Custom Shape</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Living Room, Bedroom, Dorm, Kids Room, Reading Room</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Dragon</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Dragon, Fantasy, Book</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Western</td>
+</tr>
+</table>
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polypropylene, Memory Foam</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Easy Care</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Easy to clean</td>
+</tr>
+</table>
+<h3>Where It Works</h3>
+<p>This dragon-shaped rug is suitable for various spaces, including bedrooms, reading corners, classrooms, dorms, and living rooms. Its fantasy book design makes it a fitting addition to themed decor, perfect for enthusiasts of dragons and books alike.</p>",Make product copy motif-specific while retaining verified public claims only.,"Choose a personalized purple dragon rug with stacked-book fantasy artwork, floral accents, custom name detail, and anti-slip backing visuals. Design details Custom-shaped rug showing a purple dragon on stacked books, purple flowers, green vines, and personalized name sophia. Position this as a personalized fantasy reading room decor piece, not a generic rug listing. Use backing, washing, and material claims only where supported by page text or product infographics.","<p>Choose a personalized purple dragon rug with stacked-book fantasy artwork, floral accents, custom name detail, and anti-slip backing visuals.</p><h3>Design details</h3><ul><li>Custom-shaped rug showing a purple dragon on stacked books, purple flowers, green vines, and personalized name sophia.</li><li>Position this as a personalized fantasy reading room decor piece, not a generic rug listing.</li><li>Use backing, washing, and material claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B005-047,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ed79c0010adafb91ad458d7857e05ca481b0157b5c101b0b553be1911ce6fcbf.jpg?v=1787253915,,purple dragon floral book rug shown on a dark wood floor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/908ca02bb0ecee9dce4763eeeffc85d51402c4d8fdcc17212479bf49d35e9147.jpg?v=1787253914,,alternate angle or isolated view of personalized purple dragon floral book rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/741727b860bdfe81d9cd5888b052aa8fe9dad838f3bf81b4acdb65df33363ae2.jpg?v=1787253915,,isolated or room view of personalized purple dragon floral book rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7a5e1093ae096007b9695488f816fa60d044d79866db15327755dde4dac733c9.jpg?v=1787253915,,custom shape area rug material graphic for purple dragon floral book rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/849ad2f14d4b24ea685cf5dcfdc975f6354b5477cda8cd9dc5add46f5aee9d06.jpg?v=1787253915,,purple dragon floral book rug displayed in a light living room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ada144612a3fbea366876cc193c070f6951bbdb6d3be96b85b9d794cacfb4cc3.jpg?v=1787253915,,"upper, middle, and bottom layer graphic for personalized purple dragon floral book rug",SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/19fef7d08d645d682d824589aa1bfcad068a39d350652a6d23b27a43add313f6.jpg?v=1787253914,,size chart and backing view for personalized purple dragon floral book rug,SET,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B005,chillgen.com,custom-dragon-shaped-area-rug-personalized-library-wester-design-05,custom-dragon-shaped-area-rug-personalized-library-wester-design-05,15976514355569,gid://shopify/Product/15976514355569,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B005_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B005_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-05.html,2026-09-07T01:53:37+07:00,en-US,US,https://chillgen.com/products/custom-dragon-shaped-area-rug-personalized-library-wester-design-05,https://chillgen.com/products/custom-dragon-shaped-area-rug-personalized-library-wester-design-05,Rug,"Custom Dragon Shaped Area Rug, Personalized Library Wester - Design 05","Custom Dragon Shaped Area Rug, Personalized Library Wester - Design 05",Personalized Dragon Open Book Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Custom Dragon Shaped Area Rug, Personalized – - Design 05",NONE_OR_NOT_OBSERVED,Personalized Dragon Open Book Rug,SET,33,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"This custom dragon shaped area rug with a fantasy book design and low pile is perfect for living rooms, bedrooms, and reading rooms.","Add a personalized dragon open book rug with teal-and-orange fantasy artwork, custom name detail, room mockups, and anti-slip backing visuals.",SET,142,personalized dragon open book rug,"fantasy book rug, dragon shaped area rug, custom name dragon rug","personalized dragon open book rug; fantasy book rug, dragon shaped area rug, custom name dragon rug",LONG_TAIL_CANDIDATE,EVERGREEN_FANTASY,SERP_ONLY: public marketplace/category results show personalized football rugs and dragon/fantasy rugs; no paid volume or first-party search data used.,SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized dragon open book rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports a dragon open book shaped rug and custom-name rug intent.,B005-048-BR01,"Buyer intent is treated as a hypothesis from product evidence plus category SERP language, not direct customer data.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This unique area rug features a custom dragon shape, making it a standout piece for any room. Designed with a fantasy book theme, it showcases a bold dragon surrounded by books, perfect for adding a magical touch to your decor. The rug is ideal for dragon enthusiasts and book lovers looking to enhance their living space with a personalized and imaginative accent.</p><h3>Product Highlights</h3><ul>
+<li>Features a magical dragon shape, perfect for fans of fantasy and literature.</li>
+<li>Designed with a bold dragon and book motif for a unique decor piece.</li>
+<li>Offers personalization with custom name or text additions.</li>
+<li>Constructed with low pile polypropylene for easy maintenance.</li>
+<li>Equipped with reinforced serged edges for enhanced durability.</li>
+<li>Versatile for various spaces including bedrooms, reading corners, and living rooms.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Custom Shape</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Dragon with Books</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Dragon, Fantasy Book</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Fantasy, Custom</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Living Room, Bedroom, Dorm, Kids Room, Reading Room, Classroom</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polypropylene</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Memory Foam</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Easy to clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This dragon-shaped rug is perfect for transforming bedrooms, reading corners, classrooms, dorms, and living rooms into enchanting spaces. It serves as an imaginative decor item for those who appreciate fantasy themes and literary aesthetics, creating a focal point in any area it adorns.</p>",Make product copy motif-specific while retaining verified public claims only.,"Add a personalized dragon open book rug with teal-and-orange fantasy artwork, custom name detail, room mockups, and anti-slip backing visuals. Design details Custom-shaped rug with teal dragon and orange wings lying across an open illustrated book, plus personalized name sophia. Position this as a personalized fantasy reading room decor piece, not a generic rug listing. Use backing, washing, and material claims only where supported by page text or product infographics.","<p>Add a personalized dragon open book rug with teal-and-orange fantasy artwork, custom name detail, room mockups, and anti-slip backing visuals.</p><h3>Design details</h3><ul><li>Custom-shaped rug with teal dragon and orange wings lying across an open illustrated book, plus personalized name sophia.</li><li>Position this as a personalized fantasy reading room decor piece, not a generic rug listing.</li><li>Use backing, washing, and material claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B005-048,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5c6efacf001607e63c633b497224a2bf17ca488b2a46ed471c3df18984b9aee7.jpg?v=1787252967,,dragon open book shaped rug shown on a dark wood floor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9d306d55e17ba0d14e2def1b889b724e905325a6b0a8c383faa622120fdb2dbe.jpg?v=1787252967,,alternate angle or isolated view of personalized dragon open book shaped rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/24af0b86fa49fb6636781092ac3b5251f40d71db473fdc9ab53fdf4cabf4a7b9.jpg?v=1787252967,,isolated or room view of personalized dragon open book shaped rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6f39b9286733c0a879f44119701ec3a7d080b8dbfddc2350ec2792a457937312.jpg?v=1787252967,,custom shape area rug material graphic for dragon open book shaped rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/70f63bcf668f273870a89ecb40ef1a2e2e18057d59d62489b53bbcc679937ba8.jpg?v=1787252967,,dragon open book shaped rug displayed in a light living room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/09add3f83cb7125f5f339c8bfb4e860fafde453d9772c46487aab7836450c668.jpg?v=1787252967,,"upper, middle, and bottom layer graphic for personalized dragon open book shaped rug",SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ee332151e320cab62c9b0f846712be8d28c3402a4eedba8138311933ddc715dd.jpg?v=1787252967,,size chart and backing view for personalized dragon open book shaped rug,SET,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B005,chillgen.com,custom-dragon-shaped-area-rug-personalized-library-wester-design-07,custom-dragon-shaped-area-rug-personalized-library-wester-design-07,15976514224497,gid://shopify/Product/15976514224497,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B005_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B005_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-07.html,2026-09-07T01:53:37+07:00,en-US,US,https://chillgen.com/products/custom-dragon-shaped-area-rug-personalized-library-wester-design-07,https://chillgen.com/products/custom-dragon-shaped-area-rug-personalized-library-wester-design-07,Rug,"Custom Dragon Shaped Area Rug, Personalized Library Wester - Design 07","Custom Dragon Shaped Area Rug, Personalized Library Wester - Design 07",Personalized Moon Dragon Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Custom Dragon Shaped Area Rug, Personalized – - Design 07",NONE_OR_NOT_OBSERVED,Personalized Moon Dragon Rug,SET,28,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"This personalized dragon shaped area rug, made of polypropylene with a low pile, is ideal for a reading room or kid&#39;s bedroom.","Personalize a moon dragon book rug with stacked books, roses, gothic fantasy artwork, custom name detail, and anti-slip backing visuals.",SET,136,personalized moon dragon rug,"dragon library rug, fantasy dragon rug, custom shaped book rug","personalized moon dragon rug; dragon library rug, fantasy dragon rug, custom shaped book rug",LONG_TAIL_CANDIDATE,EVERGREEN_FANTASY,SERP_ONLY: public marketplace/category results show personalized football rugs and dragon/fantasy rugs; no paid volume or first-party search data used.,SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized moon dragon rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports a moon dragon book rug and custom-name rug intent.,B005-049-BR01,"Buyer intent is treated as a hypothesis from product evidence plus category SERP language, not direct customer data.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This unique area rug features a custom-shaped dragon design, making it a distinctive addition to any room. Its fantasy book theme showcases a bold dragon surrounded by books, appealing to enthusiasts of mythical creatures and literature. The rug is designed to enhance various living spaces, offering both a decorative element and a comfortable surface.</p><h3>Product Highlights</h3><ul>
+<li>Custom shaped dragon design can be personalized with a name or text.</li>
+<li>Features a fantasy book design with a bold dragon and books.</li>
+<li>Made with low pile polypropylene for ease of cleaning.</li>
+<li>Reinforced serged edges contribute to its durability.</li>
+<li>Versatile for bedrooms, reading corners, classrooms, dorms, or living rooms.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Custom Shape</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polypropylene</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Memory Foam</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Easy to clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This dragon-themed rug is ideal for creating an imaginative atmosphere in bedrooms, reading nooks, or classrooms. It also serves as a captivating piece in living rooms or dorms, perfect for those who appreciate fantasy-inspired home decor.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalize a moon dragon book rug with stacked books, roses, gothic fantasy artwork, custom name detail, and anti-slip backing visuals. Design details Custom-shaped rug with blue-and-gold dragon in front of a full moon, stacked books, red and green roses, and personalized name sophia. Position this as a personalized fantasy reading room decor piece, not a generic rug listing. Use backing, washing, and material claims only where supported by page text or product infographics.","<p>Personalize a moon dragon book rug with stacked books, roses, gothic fantasy artwork, custom name detail, and anti-slip backing visuals.</p><h3>Design details</h3><ul><li>Custom-shaped rug with blue-and-gold dragon in front of a full moon, stacked books, red and green roses, and personalized name sophia.</li><li>Position this as a personalized fantasy reading room decor piece, not a generic rug listing.</li><li>Use backing, washing, and material claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B005-049,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d73bc22bf1227e03265e65c85294cc27e4e8bc15cbff753df60ac6383c30c852.jpg?v=1787252956,,moon dragon book rug shown on a dark wood floor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/24fb419447759e7c084dccfd67bd9447a524e7c1ace766fb20a832fc9b438268.jpg?v=1787252956,,alternate angle or isolated view of personalized moon dragon book rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f068bdc65d3af3986689fa2dd2bc171aebd4d573d4f9a2279c1a029336b84d75.jpg?v=1787252956,,isolated or room view of personalized moon dragon book rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/04e8cc55589f9c814bd0aab3fa120fe69770e64a248dec2e220016060e5d73ed.jpg?v=1787252956,,custom shape area rug material graphic for moon dragon book rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e7c53deef2a78d0f3e5584c23ccaa79fc457d371c269eeb12b7535a5936ea173.jpg?v=1787252956,,moon dragon book rug displayed in a light living room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/405174a4e8b4391e124d6f1a209c4d2bcc3a5762b9ca3e42c39efd37cc1d4f17.jpg?v=1787252956,,"upper, middle, and bottom layer graphic for personalized moon dragon book rug",SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/590ca639dcf603e42414506eaad6ff7d679fed8c4b571515a6d9855c3d0e5d70.jpg?v=1787252956,,size chart and backing view for personalized moon dragon book rug,SET,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B005,chillgen.com,custom-dragon-shaped-area-rug-personalized-library-wester-design-03,custom-dragon-shaped-area-rug-personalized-library-wester-design-03,15976513962353,gid://shopify/Product/15976513962353,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B005_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B005_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-03.html,2026-09-07T01:53:37+07:00,en-US,US,https://chillgen.com/products/custom-dragon-shaped-area-rug-personalized-library-wester-design-03,https://chillgen.com/products/custom-dragon-shaped-area-rug-personalized-library-wester-design-03,Rug,"Custom Dragon Shaped Area Rug, Personalized Library Wester - Design 03","Custom Dragon Shaped Area Rug, Personalized Library Wester - Design 03",Personalized Dragon Library Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Custom Dragon Shaped Area Rug, Personalized – - Design 03",NONE_OR_NOT_OBSERVED,Personalized Dragon Library Rug,SET,31,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"A personalized dragon-shaped area rug made from polypropylene with a low pile, ideal for a reading room or kid&#39;s bedroom.","Create a personalized dragon library rug with stacked books, orange flowers, custom name artwork, room mockups, and anti-slip backing visuals.",SET,142,personalized dragon library rug,"dragon book rug, fantasy reading room rug, custom dragon shaped rug","personalized dragon library rug; dragon book rug, fantasy reading room rug, custom dragon shaped rug",LONG_TAIL_CANDIDATE,EVERGREEN_FANTASY,SERP_ONLY: public marketplace/category results show personalized football rugs and dragon/fantasy rugs; no paid volume or first-party search data used.,SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized dragon library rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports a dragon library floral rug and custom-name rug intent.,B005-050-BR01,"Buyer intent is treated as a hypothesis from product evidence plus category SERP language, not direct customer data.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This unique rug features a custom dragon shape with a fantasy book design, ideal for adding a touch of magic to any space. It combines an engaging theme with practical features, making it a distinctive addition to home decor. Perfect for those who appreciate mythical aesthetics and functional accents.</p><h3>Product Highlights</h3><ul>
+<li>Features a bold dragon with books for a unique fantasy theme.</li>
+<li>Personalizable with your name or text.</li>
+<li>Offers a comfortable low pile surface.</li>
+<li>Made from polypropylene for easy cleaning.</li>
+<li>Reinforced serged edges enhance durability.</li>
+<li>Versatile for various rooms and decor styles.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Custom Shape</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>null</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>null</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Living Room, Bedroom, Dorm, Kids Room</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>null</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non-Slip</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>null</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Dragon, Fantasy Book</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>null</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>null</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polypropylene, Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>null</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>null</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Easy care</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Easy to clean</td>
+</tr>
+<tr>
+<td>Drying</td>
+<td>null</td>
+</tr>
+</table><h3>Where It Works</h3><p>This rug is suitable for various indoor settings, including living rooms, bedrooms, dorms, and kids' rooms. Its unique design makes it an excellent choice for reading corners, classrooms, or any space where a touch of fantasy is desired.</p>",Make product copy motif-specific while retaining verified public claims only.,"Create a personalized dragon library rug with stacked books, orange flowers, custom name artwork, room mockups, and anti-slip backing visuals. Design details Custom-shaped rug with purple dragon, teal wings, stacked books, orange flowers, green leaves, and personalized name sophia. Position this as a personalized fantasy reading room decor piece, not a generic rug listing. Use backing, washing, and material claims only where supported by page text or product infographics.","<p>Create a personalized dragon library rug with stacked books, orange flowers, custom name artwork, room mockups, and anti-slip backing visuals.</p><h3>Design details</h3><ul><li>Custom-shaped rug with purple dragon, teal wings, stacked books, orange flowers, green leaves, and personalized name sophia.</li><li>Position this as a personalized fantasy reading room decor piece, not a generic rug listing.</li><li>Use backing, washing, and material claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B005-050,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/128991ba9620a8084eca625813d78cabe7272834a35113121a5d661f5845fc63.jpg?v=1787252921,,dragon library floral rug shown on a dark wood floor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3e2689db1cf3004ff9794a6df2630ce85ba33fde9acc26b1ae6f8deb50944600.jpg?v=1787252921,,alternate angle or isolated view of personalized dragon library floral rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2ebdaf349dfbe56be5cbac27adca483c5fc8664b891f76bc6bc968badb87557f.jpg?v=1787252920,,isolated or room view of personalized dragon library floral rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2e13a4d891818ff348d644083ba27e3b1e612eedb7c151d07dd7e1900e177230.jpg?v=1787252921,,custom shape area rug material graphic for dragon library floral rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/774ab816d2eec4e5d115ec23af8c94c6a62cbf9a60f319867dd3bc45a4cdace1.jpg?v=1787252921,,dragon library floral rug displayed in a light living room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/325feb2e2cba0ff8a1eb73089d2a8e52c1321f6e1c6004a84a59a007527ab84e.jpg?v=1787252921,,"upper, middle, and bottom layer graphic for personalized dragon library floral rug",SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5b0fa7e0ccd06e4afaf38887bce7bd8f338ba86ee6cf381010622a95954871d8.jpg?v=1787252920,,size chart and backing view for personalized dragon library floral rug,SET,,,,,,,,

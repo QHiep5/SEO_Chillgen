@@ -1,0 +1,22 @@
+# B023 Summary
+
+- Run: chillgen_20260907_01
+- Shop: chillgen.com
+- Scope: 10 products, 158 images
+- Cumulative workbook scope: B001-B023, 230 products, 2097 images
+- Method: pre-batch checkpoint plus rendered page/meta HTML capture and contact-sheet visual review.
+- Status: NEEDS_REVIEW; QA_NOT_RUN; NOT_APPROVED; NO_DEPLOYMENT_PAYLOAD
+- Workbook: resutls/chillgen.com/chillgen_20260907_01/batches/SEO_Product_Optimization_through_B023.xlsx
+- Generated at: 2026-09-07T03:29:10+07:00
+
+## Product Keys
+- custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9
+- custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7
+- personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962
+- personalized-christmas-doormat-80a01c19f6-80a01c19f6
+- personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891
+- personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372
+- personalized-christmas-doormat-with-custom-family-name-83c3ea451f
+- personalized-christmas-doormat-with-custom-family-name-d66e920e14
+- personalized-christmas-welcome-doormat-28640346cc
+- personalized-christmas-doormat-1a037c0533

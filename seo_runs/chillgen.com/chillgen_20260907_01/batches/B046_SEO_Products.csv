@@ -1,0 +1,822 @@
+schema_version,prompt_version,run_id,batch_id,shop_domain,product_key,Handle,product_id,product_gid,identity_status,source_export_ref,source_exported_at,locale,market,url,canonical_url,product_type,title_current,h1_current,title_proposed,title_action,h1_mapping_status,meta_title_current,meta_title_source_state,rendered_title_current,theme_title_suffix,meta_title_seo,meta_title_action,meta_title_chars,meta_description_current,meta_description_source_state,rendered_meta_description_current,meta_description_seo,meta_description_action,meta_description_chars,primary_keyword,secondary_keywords,long_tail_candidates,keyword_strategy,season,keyword_demand_evidence,keyword_serp_fit,meta_keyword,search_intent,keyword_validation_status,keyword_selection_reason,buyer_research_refs,buyer_search_summary,baseline_status,change_scope,mapping_status,mapping_version,description_current_html,description_changes_needed,description_proposed,description_proposed_html,description_change_mode,description_target_section,description_action,revision,review_status,review_reason,approved_by,approved_at,approved_fields,approved_revision,processing_status,evidence_status,content_qa_status,field_evidence_map,evidence_id,issues,img_1_link,img_1_alt_current,img_1_alt,img_1_alt_action,img_2_link,img_2_alt_current,img_2_alt,img_2_alt_action,img_3_link,img_3_alt_current,img_3_alt,img_3_alt_action,img_4_link,img_4_alt_current,img_4_alt,img_4_alt_action,img_5_link,img_5_alt_current,img_5_alt,img_5_alt_action,img_6_link,img_6_alt_current,img_6_alt,img_6_alt_action,img_7_link,img_7_alt_current,img_7_alt,img_7_alt_action,img_8_link,img_8_alt_current,img_8_alt,img_8_alt_action,img_9_link,img_9_alt_current,img_9_alt,img_9_alt_action,img_10_link,img_10_alt_current,img_10_alt,img_10_alt_action,img_11_link,img_11_alt_current,img_11_alt,img_11_alt_action,img_12_link,img_12_alt_current,img_12_alt,img_12_alt_action,img_13_link,img_13_alt_current,img_13_alt,img_13_alt_action,img_14_link,img_14_alt_current,img_14_alt,img_14_alt_action,img_15_link,img_15_alt_current,img_15_alt,img_15_alt_action,img_16_link,img_16_alt_current,img_16_alt,img_16_alt_action,img_17_link,img_17_alt_current,img_17_alt,img_17_alt_action,img_18_link,img_18_alt_current,img_18_alt,img_18_alt_action,img_19_link,img_19_alt_current,img_19_alt,img_19_alt_action,img_20_link,img_20_alt_current,img_20_alt,img_20_alt_action,img_21_link,img_21_alt_current,img_21_alt,img_21_alt_action,img_22_link,img_22_alt_current,img_22_alt,img_22_alt_action
+2.4,2.4,chillgen_20260907_01,B046,chillgen.com,personalized-patriotic-hunting-doormat-ee02618b87,personalized-patriotic-hunting-doormat-ee02618b87,15912096629105,gid://shopify/Product/15912096629105,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B046_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-patriotic-hunting-doormat-ee02618b87.html,2026-09-07T05:14:29+07:00,en-US,US,https://chillgen.com/products/personalized-patriotic-hunting-doormat-ee02618b87,https://chillgen.com/products/personalized-patriotic-hunting-doormat-ee02618b87,Rug,Personalized American Flag Hunting Doormat with Family Name for Front Door,Personalized American Flag Hunting Doormat with Family Name for Front Door,Personalized American Hunter Doormat with Black Lab,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized American Flag Hunting Doormat with Family Name,NONE_OR_NOT_OBSERVED,Personalized American Hunter Doormat with Black Lab,SET,51,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Add outdoor character to your entrance with a personalized American flag hunting doormat featuring your family name, a textured top, and non slip backing.","Personalized American Hunter doormat with black lab, antlers, American flag and hunting patchwork border for patriotic entryways.",SET,129,personalized American Hunter doormat,"black lab hunting mat, patriotic hunting doormat, custom hunter entry mat","personalized American Hunter doormat; black lab hunting mat, patriotic hunting doormat, custom hunter entry mat",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support patriotic hunting doormats, deer hunting doormats, cabin hunting welcome mats, custom golf rugs, golf welcome mats and 19th hole golf decor. B046 separates similar hunting and golf products by visible motif: American Hunter black lab, deer/duck/fishing Williams family mat, Tastes Like Freedom bass mat, Hooked on Freedom bass flag mat, 250th anniversary eagle mat, vintage golf equipment collage rug, green 19th Hole family golf rug, black golf flag/club rug, green Anderson's 19th Hole rug and brown golf quote floor mat.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized American Hunter doormat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports American Hunter black lab patriotic hunting doormat and product-level buyer intent.,B046-451-BR01,"B046 buyers include hunters, cabin owners, patriotic households, family-name gift shoppers, golf fans, home office decorators, game room shoppers and people buying personalized entryway gifts.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Bring a bold outdoor spirit to your entryway with this personalized patriotic hunting doormat. Featuring red, white, and blue patriotic details, this custom welcome mat allows you to add your family name for a unique and personal touch. Designed for both style and utility, it helps catch dust and moisture while keeping your entryway clean and inviting.</p><h3>Product Highlights</h3><ul>
+<li>Features patriotic red, white, and blue artwork with deer, duck, fish, eagle, or flag designs.</li>
+<li>Supports customization with a personalized family name.</li>
+<li>Textured top layer efficiently scrapes dirt while the absorbent surface catches moisture.</li>
+<li>Equipped with a non-slip backing to keep the mat securely in place.</li>
+<li>Low-profile design offers lightweight, easy-to-clean versatility for seasonal decor.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Entryway, Home Office, Playroom</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Customized, Non Slip</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Stars, Stripes, Eagle</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Religious</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polyester Blend</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Polyester</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Shake, sweep, vacuum, hose off, or machine wash</td>
+</tr>
+</table><h3>Where It Works</h3><p>This versatile mat is perfectly suited for entryways, front doors, cabins, lake houses, and porches. It also makes a wonderful decorative addition for patriotic celebrations like the 4th of July.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalized American Hunter doormat with black lab, antlers, American flag and hunting patchwork border for patriotic entryways. Design details Patriotic hunting doormat with black lab wearing cap, antlers, american flag, forest and wildlife patchwork border; gallery repeats after image 7. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalized American Hunter doormat with black lab, antlers, American flag and hunting patchwork border for patriotic entryways.</p><h3>Design details</h3><ul><li>Patriotic hunting doormat with black lab wearing cap, antlers, american flag, forest and wildlife patchwork border; gallery repeats after image 7.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B046-451,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9f96dfff9a7e334c4738908c5d12053bde16c2448d55d4f9e6c330c667cd3e3e.jpg?v=1784385675,,American Hunter black lab patriotic doormat with antlers and flag,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/10dce6b22974da957a9d5696cb3e29f71d7e1fe89f61c95833523b428a5a7255.jpg?v=1784385681,,Couple holding American Hunter black lab doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0163a414fd02abadd95da00073abbebefb0c89f5cb9f2395672fb2e222129245.jpg?v=1784385680,,Entryway mockup with dog and American Hunter doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/53ce4dc8683dec001ab05dc3812aeab8b8b6a201ba3b433bf168c1327e7c4a1b.jpg?v=1784385687,,Indoor entry mockup with patriotic black lab hunting mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/399ceebfef9035c9fb481f321569c5b4c8db40a8d6b8a14dd5a396366d069ec8.jpg?v=1784385686,,Backing and thickness graphic for American Hunter doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7aad58edddf903d1fc255a999f577aefec46be65cee8c76895cb4513e77cdc1d.jpg?v=1784385691,,Size chart for American Hunter hunting doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cc420f1f5bdee636ab916feab8c06062f820de16aaafdee277d9b8554124aea5.jpg?v=1784385693,,Multi-room placement graphic for black lab hunting mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9f96dfff9a7e334c4738908c5d12053bde16c2448d55d4f9e6c330c667cd3e3e_cc7181cf-0cc2-429d-aabc-bae979e0c9ba.jpg?v=1784385697,,Repeated isolated American Hunter black lab doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/10dce6b22974da957a9d5696cb3e29f71d7e1fe89f61c95833523b428a5a7255_57a99818-a5ed-4e72-b40a-1a90cd013baf.jpg?v=1784385698,,Repeated couple holding black lab hunting doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0163a414fd02abadd95da00073abbebefb0c89f5cb9f2395672fb2e222129245_6b6dfc45-ef49-4e7d-9846-d888a09218d0.jpg?v=1784385702,,Repeated entryway mockup with dog and hunting mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/53ce4dc8683dec001ab05dc3812aeab8b8b6a201ba3b433bf168c1327e7c4a1b_f6814e7d-84f2-46e1-903f-04b77597515e.jpg?v=1784385704,,Repeated indoor entry mockup with patriotic hunting mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/399ceebfef9035c9fb481f321569c5b4c8db40a8d6b8a14dd5a396366d069ec8_cde2b876-c6d4-4a74-9fc6-515264b41229.jpg?v=1784385707,,Repeated backing graphic for American Hunter doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7aad58edddf903d1fc255a999f577aefec46be65cee8c76895cb4513e77cdc1d_197e96fb-d23e-42c6-8879-eeed335514c2.jpg?v=1784385710,,Repeated size chart for American Hunter mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cc420f1f5bdee636ab916feab8c06062f820de16aaafdee277d9b8554124aea5_1ca0daf6-8bad-4046-a585-aa4caf8236e6.jpg?v=1784385713,,Repeated multi-room placement graphic for hunting mat,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B046,chillgen.com,personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3,personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3,15912096956785,gid://shopify/Product/15912096956785,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B046_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3.html,2026-09-07T05:14:29+07:00,en-US,US,https://chillgen.com/products/personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3,https://chillgen.com/products/personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3,Rug,Custom Deer Duck and Fishing Doormat with Family Name for Cabin Entryway,Custom Deer Duck and Fishing Doormat with Family Name for Cabin Entryway,Custom Deer Duck and Fishing Doormat with Family Name,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Hunting Doormat with Family Name for Cabin Entryway,NONE_OR_NOT_OBSERVED,Custom Deer Duck and Fishing Doormat with Family Name,SET,53,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Create a rustic welcome with a custom hunting doormat featuring your family name, deer duck and fishing artwork, a textured top, and non slip backing.","Custom deer, duck and fishing doormat with family name, American whitetail artwork and cabin-style patriotic entryway design.",SET,125,custom deer duck fishing doormat,"family name hunting doormat, American whitetail welcome mat, cabin entryway rug","custom deer duck fishing doormat; family name hunting doormat, American whitetail welcome mat, cabin entryway rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support patriotic hunting doormats, deer hunting doormats, cabin hunting welcome mats, custom golf rugs, golf welcome mats and 19th hole golf decor. B046 separates similar hunting and golf products by visible motif: American Hunter black lab, deer/duck/fishing Williams family mat, Tastes Like Freedom bass mat, Hooked on Freedom bass flag mat, 250th anniversary eagle mat, vintage golf equipment collage rug, green 19th Hole family golf rug, black golf flag/club rug, green Anderson's 19th Hole rug and brown golf quote floor mat.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,custom deer duck fishing doormat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports custom Williams family deer duck and fishing cabin doormat and product-level buyer intent.,B046-452-BR01,"B046 buyers include hunters, cabin owners, patriotic households, family-name gift shoppers, golf fans, home office decorators, game room shoppers and people buying personalized entryway gifts.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Bring a bold outdoor spirit to your entryway with this personalized patriotic hunting doormat. Featuring red, white, and blue patriotic details, this custom welcome mat allows you to add your family name for a special touch. It is designed to catch dust and moisture while keeping your entryway clean and stylish. Perfect for everyday family pride, cabins, or seasonal holiday decor.</p><h3>Product Highlights</h3><ul>
+<li>Features a patriotic outdoor design with deer, duck, fish, eagle, or flag artwork.</li>
+<li>Supports custom family name personalization for a unique rustic look.</li>
+<li>Textured top helps scrape dirt while the absorbent surface catches dust and moisture.</li>
+<li>Equipped with a non-slip rubber backing to keep the mat steadily in place.</li>
+<li>Versatile low-profile design ideal for various entryways and front doors.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Entryway, Home Office, Playroom</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Customized, Non Slip</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Stars, Stripes, Eagle</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Religious</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polyester Blend</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Polyester</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Shake, sweep, vacuum, hose off, or machine wash</td>
+</tr>
+</table><h3>Where It Works</h3><p>This flat woven welcome mat is perfectly suited for entryways, home offices, and playrooms. Its durable construction and non-slip backing make it highly functional for front door steps, rustic cabins, or lake houses.</p>",Make product copy motif-specific while retaining verified public claims only.,"Custom deer, duck and fishing doormat with family name, American whitetail artwork and cabin-style patriotic entryway design. Design details Family-name hunting mat with whitetail deer, american flag, wildlife icons, plaid accents and american whitetail text; 22-image gallery contains repeated layout groups. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Custom deer, duck and fishing doormat with family name, American whitetail artwork and cabin-style patriotic entryway design.</p><h3>Design details</h3><ul><li>Family-name hunting mat with whitetail deer, american flag, wildlife icons, plaid accents and american whitetail text; 22-image gallery contains repeated layout groups.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B046-452,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ab53f4ff10c9326c2a4567f89faf6cfe7a3582b8c49810c8afce53728b008c65.jpg?v=1784385620,,Williams family American whitetail hunting doormat with deer and flag,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c48a79a811a61a20d90f815c098eb366a77883f05675044425c1f8a1e522f758.jpg?v=1784385626,,Indoor entry mockup with custom family hunting doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f6df31fc5072b19cb32782ef6aac1ec788ef011536c46250822d0e610269055f.jpg?v=1784385625,,Entryway mockup with dog and Williams family deer mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/161f6cb1aaa9a9117516a50615e4a7caaa3a6e497e56cbef24973c23df794d10.jpg?v=1784385630,,Couple holding custom deer duck fishing doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7938a8739febd5c78b76ab10ecefe5506cf3ef6ded9598afe2e943f66a09f416.jpg?v=1784385919,,Backing and thickness graphic for family hunting mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3f6496932c678a0b55941e6ef1afdada7311e289c8c47507dfd6da2ab713a542.jpg?v=1784385631,,Size chart for family name hunting doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d6f835e8ae51bfcf44acdc6cb9694a00eabfbd988c855620856e5a686c064694.jpg?v=1784385636,,Multi-room placement graphic for deer duck fishing mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ab53f4ff10c9326c2a4567f89faf6cfe7a3582b8c49810c8afce53728b008c65_c05e0240-e877-4f12-9b1b-a30afea419e1.jpg?v=1784385636,,Repeated isolated Williams family whitetail doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/83dcc1c539030abb0ada0f9c1c696194134a7b25ec3e43dc2d0e861841eed890_7a9f2d56-0c4e-40ee-bc51-8ab32bf37098.jpg?v=1784386011,,Small repeated isolated family hunting mat image,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c48a79a811a61a20d90f815c098eb366a77883f05675044425c1f8a1e522f758_b95c80ad-ffa8-4652-a0cd-c5822b9d0c59.jpg?v=1784385642,,Repeated indoor entry mockup with family hunting mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f6df31fc5072b19cb32782ef6aac1ec788ef011536c46250822d0e610269055f_deab675d-d87d-4d9d-a5b9-92ae5aec2d30.jpg?v=1784385642,,Repeated dog entryway mockup with deer mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/161f6cb1aaa9a9117516a50615e4a7caaa3a6e497e56cbef24973c23df794d10_faad6f4f-3757-453f-81e6-9727699ec67b.jpg?v=1784385647,,Repeated couple holding custom family hunting mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7938a8739febd5c78b76ab10ecefe5506cf3ef6ded9598afe2e943f66a09f416_ef9fcc8a-8782-4556-8ddc-8cbaea9586de.jpg?v=1784385647,,Repeated backing and absorbency graphic for hunting mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3f6496932c678a0b55941e6ef1afdada7311e289c8c47507dfd6da2ab713a542_29fc8d03-a29e-4eb4-8066-37f859409fb7.jpg?v=1784385652,,Repeated size chart for family name doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d6f835e8ae51bfcf44acdc6cb9694a00eabfbd988c855620856e5a686c064694_4b776cba-d648-4a7f-8018-ff468badae0d.jpg?v=1784385653,,Repeated multi-room placement graphic for hunting doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ab53f4ff10c9326c2a4567f89faf6cfe7a3582b8c49810c8afce53728b008c65_4a894dee-fdad-40ec-b6d3-4a2065854367.jpg?v=1784385658,,Repeated Williams family whitetail doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c48a79a811a61a20d90f815c098eb366a77883f05675044425c1f8a1e522f758_780f74e6-a9f6-41b0-b68e-919e80306c18.jpg?v=1784385659,,Repeated indoor entry mockup with deer and flag mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f6df31fc5072b19cb32782ef6aac1ec788ef011536c46250822d0e610269055f_e0082270-72ad-4d1e-8edd-5fe6ca62f65b.jpg?v=1784385664,,Repeated entryway dog mockup with family hunting mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/161f6cb1aaa9a9117516a50615e4a7caaa3a6e497e56cbef24973c23df794d10_199319d9-597d-4e0f-bdc3-68c9dc6bc93d.jpg?v=1784385664,,Repeated couple holding deer duck fishing mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7938a8739febd5c78b76ab10ecefe5506cf3ef6ded9598afe2e943f66a09f416_f9f2a979-b91e-4e7c-973b-f5f2b161bc61.jpg?v=1784385669,,Repeated backing detail graphic for family hunting doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3f6496932c678a0b55941e6ef1afdada7311e289c8c47507dfd6da2ab713a542_652b5383-62a3-4881-8835-9653518946a1.jpg?v=1784385669,,Repeated size doormat chart for hunting mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d6f835e8ae51bfcf44acdc6cb9694a00eabfbd988c855620856e5a686c064694_622b907b-4925-447d-bef5-87f2c47fb112.jpg?v=1784385675,,Repeated placement graphic for cabin entry hunting mat,SET
+2.4,2.4,chillgen_20260907_01,B046,chillgen.com,personalized-hunting-doormat-custom-family-name-6e74ed97c6,personalized-hunting-doormat-custom-family-name-6e74ed97c6,15913203695985,gid://shopify/Product/15913203695985,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B046_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-6e74ed97c6.html,2026-09-07T05:14:29+07:00,en-US,US,https://chillgen.com/products/personalized-hunting-doormat-custom-family-name-6e74ed97c6,https://chillgen.com/products/personalized-hunting-doormat-custom-family-name-6e74ed97c6,Rug,Personalized Patriotic Hunting Doormat with Family Name for Cabin and Entryway,Personalized Patriotic Hunting Doormat with Family Name for Cabin and Entryway,Personalized Tastes Like Freedom Hunting Doormat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Patriotic Hunting Doormat with Family Name,NONE_OR_NOT_OBSERVED,Personalized Tastes Like Freedom Hunting Doormat,SET,48,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Show family pride with a personalized patriotic hunting doormat featuring your family name, outdoor artwork, an absorbent surface, and non slip backing.","Personalized patriotic hunting doormat with bass fish, American flag, burger and drink artwork and bold Tastes Like Freedom quote.",SET,130,personalized Tastes Like Freedom doormat,"bass fishing doormat, patriotic hunting mat, custom family entry rug","personalized Tastes Like Freedom doormat; bass fishing doormat, patriotic hunting mat, custom family entry rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support patriotic hunting doormats, deer hunting doormats, cabin hunting welcome mats, custom golf rugs, golf welcome mats and 19th hole golf decor. B046 separates similar hunting and golf products by visible motif: American Hunter black lab, deer/duck/fishing Williams family mat, Tastes Like Freedom bass mat, Hooked on Freedom bass flag mat, 250th anniversary eagle mat, vintage golf equipment collage rug, green 19th Hole family golf rug, black golf flag/club rug, green Anderson's 19th Hole rug and brown golf quote floor mat.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized Tastes Like Freedom doormat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports patriotic bass fishing doormat with Tastes Like Freedom quote and product-level buyer intent.,B046-453-BR01,"B046 buyers include hunters, cabin owners, patriotic households, family-name gift shoppers, golf fans, home office decorators, game room shoppers and people buying personalized entryway gifts.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Bring a bold outdoor spirit to your entryway with this personalized patriotic hunting doormat. Add your family name to create a special welcome mat for deer hunters, duck hunting fans, fishing lovers, cabins, lake houses, and rustic home decor. Designed with red, white, and blue patriotic details, this front door rug is an excellent choice for 4th of July decoration, patriotic decor, porch styling, and everyday family pride. The absorbent surface helps catch dust and moisture while keeping your entryway looking clean and inviting.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Personalized family name option provides a custom welcoming touch to your entryway.</li>
+<li>Patriotic outdoor design features red, white, and blue details with stars, stripes, and eagle motifs.</li>
+<li>Non-slip rubber backing helps keep the doormat securely in place during daily use.</li>
+<li>Durable textured top effectively scrapes dirt and absorbs moisture.</li>
+<li>Easy to clean by shaking, vacuuming, sweeping, hosing off, or machine washing.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Entryway, Home Office, Playroom</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Customized, Non Slip</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Stars, Stripes, Eagle</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Religious</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polyester Blend</td>
+</tr>
+<tr>
+<td>Backing Material Type</td>
+<td>Polyester</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This versatile doormat is perfect for entryways, porches, lake houses, and fishing cabins. It also serves as an excellent decorative accent for home offices and playrooms, adding a touch of rustic patriotic charm.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalized patriotic hunting doormat with bass fish, American flag, burger and drink artwork and bold Tastes Like Freedom quote. Design details Patriotic bass fish doormat with tastes like freedom text, american flag, burger, drink can, forest and fishing border icons. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalized patriotic hunting doormat with bass fish, American flag, burger and drink artwork and bold Tastes Like Freedom quote.</p><h3>Design details</h3><ul><li>Patriotic bass fish doormat with tastes like freedom text, american flag, burger, drink can, forest and fishing border icons.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B046-453,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7b28fa1911d79d107aaaaf722f4b71a1675897e952986126366c3be85982280d.jpg?v=1784385602,,Bass fishing patriotic doormat with Tastes Like Freedom quote,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6fc1da6292a9458b2b0a7a2427ed4af905c304532c5608cab755fc05ce35dc9b.jpg?v=1784385603,,Entryway mockup with dog and bass fishing doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3d552c41348fed8faf808a62e2b18602beac954ea07780f97dca5d1299bddddb.jpg?v=1784385608,,Couple holding Tastes Like Freedom bass mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d642a2070a509d7f5a1d25661ee2ecea209d474d4debf34fd9bf26d5446f7928.jpg?v=1784385608,,Indoor entry mockup with patriotic fishing mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7003fb4ce759c8a3f2c0a49986bef944fa15f18d6bb249cb8a211bc996687b53.jpg?v=1784385613,,Backing and thickness graphic for bass fishing doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4bfa5db87cbb9c986292ada4b566d56ffb1c9b4de03837c3c36e6d781fb9eb47.jpg?v=1784385614,,Size chart for Tastes Like Freedom doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d4a0e8de8f7f430b6c1ce8e12bb065b48249f7901b85b537659b32ffad8a8616.jpg?v=1784385619,,Multi-room placement graphic for patriotic fishing mat,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B046,chillgen.com,personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2,personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2,15913206972785,gid://shopify/Product/15913206972785,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B046_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2.html,2026-09-07T05:14:29+07:00,en-US,US,https://chillgen.com/products/personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2,https://chillgen.com/products/personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2,Rug,Custom 1776 2026 Hunting Doormat with Family Name and American Flag Design,Custom 1776 2026 Hunting Doormat with Family Name and American Flag Design,Custom Hooked on Freedom Hunting Doormat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom 1776 2026 Hunting Doormat with Family Name and Flag,NONE_OR_NOT_OBSERVED,Custom Hooked on Freedom Hunting Doormat,SET,40,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Mark the 1776 2026 anniversary with a custom hunting doormat featuring your family name, American flag artwork, a textured top, and non slip backing.","Custom Hooked on Freedom hunting doormat with bass fish, American flag circle, wildlife border and family-name style entryway art.",SET,130,custom Hooked on Freedom doormat,"bass hunting doormat, patriotic fishing welcome mat, American flag cabin rug","custom Hooked on Freedom doormat; bass hunting doormat, patriotic fishing welcome mat, American flag cabin rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support patriotic hunting doormats, deer hunting doormats, cabin hunting welcome mats, custom golf rugs, golf welcome mats and 19th hole golf decor. B046 separates similar hunting and golf products by visible motif: American Hunter black lab, deer/duck/fishing Williams family mat, Tastes Like Freedom bass mat, Hooked on Freedom bass flag mat, 250th anniversary eagle mat, vintage golf equipment collage rug, green 19th Hole family golf rug, black golf flag/club rug, green Anderson's 19th Hole rug and brown golf quote floor mat.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,custom Hooked on Freedom doormat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports Hooked on Freedom bass fishing American flag doormat and product-level buyer intent.,B046-454-BR01,"B046 buyers include hunters, cabin owners, patriotic households, family-name gift shoppers, golf fans, home office decorators, game room shoppers and people buying personalized entryway gifts.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Bring a bold outdoor spirit to your entryway with this personalized patriotic hunting doormat. Designed with vibrant red, white, and blue patriotic details, this custom welcome mat allows you to add your family name for a truly unique touch. It is the perfect welcoming piece for deer hunters, duck hunting enthusiasts, fishing lovers, cabins, and lake houses, blending outdoor passion with everyday family pride.</p><h3>Product Highlights</h3><ul>
+<li>Customizable family name feature for a personalized touch.</li>
+<li>Patriotic outdoor design featuring red, white, and blue details with outdoor-inspired artwork.</li>
+<li>Textured top surface effectively scrapes dirt and catches dust and moisture.</li>
+<li>Non-slip rubber backing keeps the mat securely in place.</li>
+<li>Low pile, lightweight 3mm thickness makes it easy to place and clean.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form Type</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Entryway, Home Office, Playroom</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Customized, Non Slip</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Stars, Stripes, Eagle</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Religious</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polyester Blend</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Polyester</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Shake, sweep, vacuum, hose off, or machine wash</td>
+</tr>
+</table><h3>Where It Works</h3><p>This versatile mat is perfectly suited for entryways, front doors, cabins, and lake houses. It serves as a rustic decorative element that coordinates beautifully with seasonal porch styling and everyday home decor.</p>",Make product copy motif-specific while retaining verified public claims only.,"Custom Hooked on Freedom hunting doormat with bass fish, American flag circle, wildlife border and family-name style entryway art. Design details Bass fish doormat with hooked on freedom quote, american flag circle, wildlife silhouettes, stars and rustic outdoor border. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Custom Hooked on Freedom hunting doormat with bass fish, American flag circle, wildlife border and family-name style entryway art.</p><h3>Design details</h3><ul><li>Bass fish doormat with hooked on freedom quote, american flag circle, wildlife silhouettes, stars and rustic outdoor border.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B046-454,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8e462f2df54f229638916b87cd51ce372062ba56da6498167784f918ec2f2900.jpg?v=1784385580,,Hooked on Freedom bass American flag doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f5d1bdb527d03b2725c0e4d9a83c73d4954dd8341e90085a1c16559383963fe6.jpg?v=1784385585,,Entryway mockup with dog and Hooked on Freedom mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8831ac60e9f72fb2779103213d80fc24066d34f249c945cdacffd0ff2dcf43db.jpg?v=1784385586,,Indoor entry mockup with bass hunting doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cb17fb3afeeec51d10e4f45916c477dd9fc5814c0503cfe43db5ce8accc8d6ad.jpg?v=1784385591,,Couple holding patriotic Hooked on Freedom fishing mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a5aad424b7a330dc13ff829348cb18671279e51534d74c09667b7ed99086b06e.jpg?v=1784385591,,Multi-room placement graphic for bass doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7620f5e19bcf85b7d08fd83611efb887736c9409f3c65d65c2996c17d5311645.jpg?v=1784385597,,Size chart for Hooked on Freedom doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/16305ac504a484017db238f34d6ff4842838d55c12d6eea414f068675873ead6.jpg?v=1784385597,,Backing and thickness graphic for bass fishing mat,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B046,chillgen.com,personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b,personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b,15913207071089,gid://shopify/Product/15913207071089,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B046_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b.html,2026-09-07T05:14:29+07:00,en-US,US,https://chillgen.com/products/personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b,https://chillgen.com/products/personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b,Rug,Personalized 250th Anniversary Hunting Doormat with Family Name for Front Door,Personalized 250th Anniversary Hunting Doormat with Family Name for Front Door,Personalized 250th Anniversary Eagle Hunting Doormat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized 250th Anniversary Doormat with Family Name,NONE_OR_NOT_OBSERVED,Personalized 250th Anniversary Eagle Hunting Doormat,SET,52,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Honor the 250th anniversary with a personalized hunting doormat featuring your family name, patriotic outdoor artwork, and non slip rubber backing.","Personalized 250th Anniversary eagle hunting doormat with American flag, 1776–2026 text and patriotic entryway design.",SET,118,personalized 250th anniversary eagle doormat,"patriotic hunting doormat, American flag eagle mat, custom family entry rug","personalized 250th anniversary eagle doormat; patriotic hunting doormat, American flag eagle mat, custom family entry rug",LONG_TAIL_CANDIDATE,PATRIOTIC,"Marketplace and retail SERPs support patriotic hunting doormats, deer hunting doormats, cabin hunting welcome mats, custom golf rugs, golf welcome mats and 19th hole golf decor. B046 separates similar hunting and golf products by visible motif: American Hunter black lab, deer/duck/fishing Williams family mat, Tastes Like Freedom bass mat, Hooked on Freedom bass flag mat, 250th anniversary eagle mat, vintage golf equipment collage rug, green 19th Hole family golf rug, black golf flag/club rug, green Anderson's 19th Hole rug and brown golf quote floor mat.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized 250th anniversary eagle doormat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports 250th anniversary patriotic eagle hunting doormat with American flag and product-level buyer intent.,B046-455-BR01,"B046 buyers include hunters, cabin owners, patriotic households, family-name gift shoppers, golf fans, home office decorators, game room shoppers and people buying personalized entryway gifts.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Bring a bold outdoor spirit to your entryway with this personalized patriotic welcome mat. Designed with red, white, and blue patriotic details, this rug allows you to add your family name for a custom touch. It features an absorbent surface that helps catch dust and moisture while providing everyday functionality for your home.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Customizable family name option for a personalized patriotic entryway style</li>
+<li>Features deer, duck, fish, eagle, flag, or outdoor-inspired artwork</li>
+<li>Textured top surface effectively scrapes away outdoor dirt</li>
+<li>Equipped with a non-slip rubber backing to keep the mat securely in place</li>
+<li>Lightweight 3mm thickness makes it easy to place, move, and reuse</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Entryway, Home Office, Playroom</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Stars, Stripes, Eagle</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Religious</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polyester Blend</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Polyester</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Shake, sweep, vacuum, hose off, or machine wash</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This versatile welcome mat is perfectly suited for entryways, front doors, cabins, and lake houses. It also makes an ideal decorative accent for 4th of July celebrations and everyday patriotic home decor.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalized 250th Anniversary eagle hunting doormat with American flag, 1776–2026 text and patriotic entryway design. Design details Patriotic doormat with eagle, american flag stripes, circular 1776 2026 anniversary medallion, size chart and backing callouts. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalized 250th Anniversary eagle hunting doormat with American flag, 1776–2026 text and patriotic entryway design.</p><h3>Design details</h3><ul><li>Patriotic doormat with eagle, american flag stripes, circular 1776 2026 anniversary medallion, size chart and backing callouts.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B046-455,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/45032d5fef3bae8c63c1f9ba6b7c0eeeece979767d0a7423381c2ccd9c9383c8.jpg?v=1784385564,,250th anniversary patriotic eagle doormat with American flag,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8ac5164da31b067a3632178def06e48c4ca50c1559ac41343779e826e2ede3db.jpg?v=1784385563,,Entryway mockup with dog and eagle anniversary doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4766ed9bcc4435a538b9104612dfffb9a84cb930e1c370527f38eb5e69fd091c.jpg?v=1784385569,,Couple holding patriotic eagle anniversary mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f437958b6a4ed6b738100833a7c965d7c9796840cdbac1ef2d46fa06e7e3c301.jpg?v=1784385569,,Indoor entry mockup with eagle American flag mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/65e01e59b5df2ace77d9f5fd7668d24c6d33f0c919438375f9b93a8aa0fb7104.jpg?v=1784385574,,Backing and thickness graphic for patriotic eagle mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b4280ad9e65225fa2fcbc08eb6b4c6c020c4a01f76f34d8e988e712f71b1ac85.jpg?v=1784385575,,Size chart for 250th anniversary doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/73ef6637ad9d15425338d7c169ea43b36ba72038971f0a20078996b10b1fee30.jpg?v=1784385580,,Multi-room placement graphic for patriotic eagle doormat,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B046,chillgen.com,custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491,custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491,15912046788977,gid://shopify/Product/15912046788977,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B046_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491.html,2026-09-07T05:14:29+07:00,en-US,US,https://chillgen.com/products/custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491,https://chillgen.com/products/custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491,Rug,Golf Equipment Area Rug with Memory Foam and Non Slip Backing for Home Office,Golf Equipment Area Rug with Memory Foam and Non Slip Backing for Home Office,Golf Equipment Area Rug with Vintage Course Collage,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Golf Equipment Area Rug with Memory Foam and Non Slip,NONE_OR_NOT_OBSERVED,Golf Equipment Area Rug with Vintage Course Collage,SET,51,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Bring golf style into your home with an equipment themed area rug featuring memory foam cushioning and non slip backing for offices and living spaces.,"Golf equipment area rug with vintage course collage, clubs, balls, tees and soft memory foam feel for home office or golf rooms.",SET,128,golf equipment area rug,"vintage golf rug, golf room floor mat, golf clubs living room rug","golf equipment area rug; vintage golf rug, golf room floor mat, golf clubs living room rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support patriotic hunting doormats, deer hunting doormats, cabin hunting welcome mats, custom golf rugs, golf welcome mats and 19th hole golf decor. B046 separates similar hunting and golf products by visible motif: American Hunter black lab, deer/duck/fishing Williams family mat, Tastes Like Freedom bass mat, Hooked on Freedom bass flag mat, 250th anniversary eagle mat, vintage golf equipment collage rug, green 19th Hole family golf rug, black golf flag/club rug, green Anderson's 19th Hole rug and brown golf quote floor mat.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,golf equipment area rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports vintage golf equipment collage area rug and product-level buyer intent.,B046-456-BR01,"B046 buyers include hunters, cabin owners, patriotic households, family-name gift shoppers, golf fans, home office decorators, game room shoppers and people buying personalized entryway gifts.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This premium golf themed area rug brings a sporty and elegant look directly into your home decor, beautifully balancing modern golf aesthetics with everyday functionality. Designed for golf enthusiasts, it offers a soft-to-the-touch surface that effectively relieves foot pressure. It serves as an ideal accent piece to showcase your passion for the sport while enhancing your indoor living spaces.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Elegant and sporty golf theme design to bring the golf experience indoors.</li>
+<li>Supports personalization options for a custom look.</li>
+<li>High-density memory foam cushion with a soft-to-the-touch feel.</li>
+<li>Non-slip rubber backing keeps the mat securely in place.</li>
+<li>Low pile surface with reinforced serged edges for long-lasting durability.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Is Stain Resistant</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Golf</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sports, Golf</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polypropylene, Polyester</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Spot Clean Only</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Use a damp cloth with mild soapy water (avoid bleach) and let air dry</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This versatile rug is perfect for adding character to living rooms, bedrooms, and offices. It also makes an excellent addition to specialized spaces like game rooms, man caves, golf simulators, or kids' play areas.</p>",Make product copy motif-specific while retaining verified public claims only.,"Golf equipment area rug with vintage course collage, clubs, balls, tees and soft memory foam feel for home office or golf rooms. Design details Tan vintage-style golf collage rug with clubs, balls, tees, scorecard-like details, size chart, microfiber and non-slip backing callouts; images 7-12 repeat images 1-6. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Golf equipment area rug with vintage course collage, clubs, balls, tees and soft memory foam feel for home office or golf rooms.</p><h3>Design details</h3><ul><li>Tan vintage-style golf collage rug with clubs, balls, tees, scorecard-like details, size chart, microfiber and non-slip backing callouts; images 7-12 repeat images 1-6.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B046-456,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6bc09c858bd1094b32c5bbff88073cd833d3c55675c9ba84c052ae3fcba55e3d.jpg?v=1784386851,,Vintage golf equipment collage rug in patio room setting,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c22188b5feca0f0ee06f44dcf7b987e908f249f941a6a1fc2d179fe8abbaab9d.jpg?v=1784386852,,Bright living room mockup with tan golf equipment rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c71920f76c89a2249861c6af838f136d05fccf9b30f9a9a95e95b18f8651e434.jpg?v=1784386856,,Sofa room mockup with vintage golf collage rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/04aa7217d8e4e36d22ebb787a32a4e120ec81d961a18a4a6a7addbf852086dd3.jpg?v=1784386857,,Size chart for vintage golf equipment rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fa2432d53c32c1d4d0d0b58c0ec19d045ce6131453530ed27d69a1ce48f74745.jpg?v=1784386862,,Close-up of golf collage microfiber surface,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/35853e1f7325c097cee5824a3c3fb2f75a515e069422cb5696ddfa966edd8f6f.jpg?v=1784386863,,Backing and material infographic for golf equipment rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6bc09c858bd1094b32c5bbff88073cd833d3c55675c9ba84c052ae3fcba55e3d_5dd6e0f4-4be8-48f9-a3e9-f8264febf228.jpg?v=1784386868,,Repeated patio room view of vintage golf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c22188b5feca0f0ee06f44dcf7b987e908f249f941a6a1fc2d179fe8abbaab9d_a7fd3414-3794-404b-84a2-7077375b7855.jpg?v=1784386868,,Repeated bright living room view of golf equipment rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c71920f76c89a2249861c6af838f136d05fccf9b30f9a9a95e95b18f8651e434_54a71ef3-0473-4f1f-ad88-4759e8ff136a.jpg?v=1784386873,,Repeated sofa room view of golf collage rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/04aa7217d8e4e36d22ebb787a32a4e120ec81d961a18a4a6a7addbf852086dd3_cdeda0ca-6743-41fc-93cd-e0cefaa2a5c8.jpg?v=1784386874,,Repeated size chart for golf equipment rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fa2432d53c32c1d4d0d0b58c0ec19d045ce6131453530ed27d69a1ce48f74745_fab64601-4890-4e53-aa74-baef2b139aa6.jpg?v=1784386878,,Repeated close-up of golf rug surface,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/35853e1f7325c097cee5824a3c3fb2f75a515e069422cb5696ddfa966edd8f6f_65d73d3c-e4f0-45bd-948f-aa84b80c19a4.jpg?v=1784386879,,Repeated backing infographic for golf equipment rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B046,chillgen.com,custom-golf-welcome-mat-7fa10153d4-7fa10153d4,custom-golf-welcome-mat-7fa10153d4-7fa10153d4,15912047706481,gid://shopify/Product/15912047706481,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B046_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-welcome-mat-7fa10153d4-7fa10153d4.html,2026-09-07T05:14:29+07:00,en-US,US,https://chillgen.com/products/custom-golf-welcome-mat-7fa10153d4-7fa10153d4,https://chillgen.com/products/custom-golf-welcome-mat-7fa10153d4-7fa10153d4,Rug,Golf Theme Area Rug with Soft Cushion and Low Pile for Living Room and Game Room,Golf Theme Area Rug with Soft Cushion and Low Pile for Living Room and Game Room,Personalized 19th Hole Golf Welcome Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Golf Theme Area Rug with Soft Cushion and Low Pile,NONE_OR_NOT_OBSERVED,Personalized 19th Hole Golf Welcome Rug,SET,39,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Add a sporty golf theme to your room with a low pile area rug featuring soft memory foam cushioning reinforced edges and non slip backing for living rooms.,"Personalized 19th Hole golf welcome rug with family name, green course landscape, flag pin and soft low-pile backing for golf rooms.",SET,132,personalized 19th Hole golf rug,"golf welcome mat, family name golf rug, golf course area rug","personalized 19th Hole golf rug; golf welcome mat, family name golf rug, golf course area rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support patriotic hunting doormats, deer hunting doormats, cabin hunting welcome mats, custom golf rugs, golf welcome mats and 19th hole golf decor. B046 separates similar hunting and golf products by visible motif: American Hunter black lab, deer/duck/fishing Williams family mat, Tastes Like Freedom bass mat, Hooked on Freedom bass flag mat, 250th anniversary eagle mat, vintage golf equipment collage rug, green 19th Hole family golf rug, black golf flag/club rug, green Anderson's 19th Hole rug and brown golf quote floor mat.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized 19th Hole golf rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports green personalized 19th Hole golf welcome rug and product-level buyer intent.,B046-457-BR01,"B046 buyers include hunters, cabin owners, patriotic households, family-name gift shoppers, golf fans, home office decorators, game room shoppers and people buying personalized entryway gifts.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This premium golf-themed rug brings a sporty and elegant look directly into your home, beautifully blending athletic aesthetics with functional interior decor. Designed with high-density memory foam, it provides a soft-to-the-touch surface that effectively cushions and relieves foot pressure. It serves as a durable and stylish accent piece that is perfect for any golf enthusiast looking to elevate their indoor spaces.</p><h3>Product Highlights</h3><ul>
+<li>Sporty golf design brings an elegant outdoor aesthetic into your home decor.</li>
+<li>Supports customization options to tailor the piece to your specific space.</li>
+<li>Constructed with a memory foam cushion interlayer that effectively relieves foot pressure.</li>
+<li>Features a non-slip backing that helps keep the rug securely in place.</li>
+<li>Easy-care low pile material makes cleaning spills and sticky fingers quick and simple.</li>
+<li>Durably designed with reinforced serged edges to prevent fraying over time.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Water Resistance Level</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable, Stain Resistant, Non-slip</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Golf</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sports, Golf</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polypropylene, Polyester</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Soft-to-the-touch non-woven fabric with sponge interlayer</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Spot Clean Only</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Use a damp cloth with mild soapy water (avoid bleach) and let air dry</td>
+</tr>
+</table><h3>Where It Works</h3><p>This versatile rug is ideal for living rooms, bedrooms, and home offices. It also makes an excellent decorative addition to dedicated game rooms, golf simulators, man caves, and children's play areas.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalized 19th Hole golf welcome rug with family name, green course landscape, flag pin and soft low-pile backing for golf rooms. Design details Green golf course rug reading welcome to the thompson and 19th hole est. 2026, with flag pin, hills, size chart and repeated gallery set after image 9. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalized 19th Hole golf welcome rug with family name, green course landscape, flag pin and soft low-pile backing for golf rooms.</p><h3>Design details</h3><ul><li>Green golf course rug reading welcome to the thompson and 19th hole est. 2026, with flag pin, hills, size chart and repeated gallery set after image 9.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B046-457,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5ef8926e42757ed37aa73aa8829c9205cd0af050f2c23bd178e8aaa7668b0f4c.jpg?v=1784386803,,Green 19th Hole golf welcome rug in golf room setting,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/285e087aa3508ce7434b2333059cd7935cd7eec793530f03d8abcc33fe0bb6e2.jpg?v=1784386803,,Sofa room mockup with personalized Thompson 19th Hole rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7e1f99efe5aa795bc3ee5e1d80568d85f66ef79b55b8bb17ac65ba8ff17d2d17.jpg?v=1784386807,,Close-up of green golf course microfiber surface,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2155af73caf9a10a79b574ad2dc6975375dd5d852b62e7aa69cb6f1ccea374c0.jpg?v=1784386808,,Backing and material infographic for golf welcome rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/705e2f9f349ada4507a90a21c609e6624446c237bd8f4c48ef203d69c6ce4f62.jpg?v=1784386813,,Bright living room mockup with 19th Hole golf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/381d820fe25eb7e3bf7eb6d47114ff6d9461bd833a8769e6391109fd181fae4d.jpg?v=1784386813,,Outdoor patio mockup with green golf course rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/19d952c91617fe9c9267171f2a81ef7a3668aa5726363cbbb6eeef80b4e7514d.jpg?v=1784386818,,Person sitting near fireplace with golf welcome rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9ff576d4d860ff021a524efe22d2a6653a4cb3aef07571af1643645b28be722c.jpg?v=1784386818,,Size chart for personalized 19th Hole golf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2d7424c3d02d93f7bd4e2e134f015c183a8aaf4c26aba6e254ea416dc4d8fac8.jpg?v=1784386824,,Isolated green Thompson 19th Hole golf mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5ef8926e42757ed37aa73aa8829c9205cd0af050f2c23bd178e8aaa7668b0f4c_08f4ca3b-c739-479b-b1b9-a5ec658744f0.jpg?v=1784386823,,Repeated golf room setting with green welcome rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/285e087aa3508ce7434b2333059cd7935cd7eec793530f03d8abcc33fe0bb6e2_ed3791c2-d5d9-4af5-a52f-e98be8a8a9ba.jpg?v=1784386829,,Repeated sofa room mockup with personalized golf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7e1f99efe5aa795bc3ee5e1d80568d85f66ef79b55b8bb17ac65ba8ff17d2d17_1e3f4630-6fbf-42a7-8a91-051c66cc1977.jpg?v=1784386830,,Repeated close-up of golf course surface,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2155af73caf9a10a79b574ad2dc6975375dd5d852b62e7aa69cb6f1ccea374c0_d61ed026-afbd-42d4-b345-19a534492996.jpg?v=1784386834,,Repeated backing infographic for golf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/705e2f9f349ada4507a90a21c609e6624446c237bd8f4c48ef203d69c6ce4f62_33abe1d7-45a3-4821-90f3-8c06fc097197.jpg?v=1784386835,,Repeated bright living room view of golf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/381d820fe25eb7e3bf7eb6d47114ff6d9461bd833a8769e6391109fd181fae4d_92911d12-b869-46fb-8b2c-d189707602e1.jpg?v=1784386840,,Repeated patio mockup with golf welcome rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/19d952c91617fe9c9267171f2a81ef7a3668aa5726363cbbb6eeef80b4e7514d_6b73c5c6-10be-4a7c-8e47-44ea5ad29460.jpg?v=1784386840,,Repeated fireplace lifestyle view with golf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9ff576d4d860ff021a524efe22d2a6653a4cb3aef07571af1643645b28be722c_a8fb9117-bced-4fd4-9482-db692aaad7c9.jpg?v=1784386845,,Repeated size chart for 19th Hole golf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2d7424c3d02d93f7bd4e2e134f015c183a8aaf4c26aba6e254ea416dc4d8fac8_b90ccf38-f8f3-4e17-9fd5-aabc1eba63f5.jpg?v=1784386847,,Repeated isolated Thompson golf mat,SET,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B046,chillgen.com,custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c,custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c,15912047804785,gid://shopify/Product/15912047804785,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B046_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c.html,2026-09-07T05:14:29+07:00,en-US,US,https://chillgen.com/products/custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c,https://chillgen.com/products/custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c,Rug,Golf Area Rug with Black Background and Non Slip Backing for Boys Room,Golf Area Rug with Black Background and Non Slip Backing for Boys Room,Black Golf Area Rug with Distressed Flag Design,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Golf Area Rug with Black Background and Non Slip Backing,NONE_OR_NOT_OBSERVED,Black Golf Area Rug with Distressed Flag Design,SET,47,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Create a bold golf inspired space with a black background area rug featuring memory foam a stain resistant low pile and non slip backing for indoor rooms.,"Black golf area rug with distressed flag stripes, red golf club accent, microfiber surface and non-slip backing for boys rooms or golf dens.",SET,140,black golf area rug,"distressed golf flag rug, golf club floor mat, golf room area rug","black golf area rug; distressed golf flag rug, golf club floor mat, golf room area rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support patriotic hunting doormats, deer hunting doormats, cabin hunting welcome mats, custom golf rugs, golf welcome mats and 19th hole golf decor. B046 separates similar hunting and golf products by visible motif: American Hunter black lab, deer/duck/fishing Williams family mat, Tastes Like Freedom bass mat, Hooked on Freedom bass flag mat, 250th anniversary eagle mat, vintage golf equipment collage rug, green 19th Hole family golf rug, black golf flag/club rug, green Anderson's 19th Hole rug and brown golf quote floor mat.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,black golf area rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports black distressed golf flag area rug with red club stripe and product-level buyer intent.,B046-458-BR01,"B046 buyers include hunters, cabin owners, patriotic households, family-name gift shoppers, golf fans, home office decorators, game room shoppers and people buying personalized entryway gifts.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This stylish golf-themed area rug brings a sporty yet elegant touch to your indoor spaces, seamlessly blending modern golf aesthetics with functional home decor. Featuring a non-slip backing and a soft-to-the-touch surface, it offers a comfortable underfoot experience while staying securely in place. It serves as a perfect decorative and practical piece for golf enthusiasts looking to personalize their living or working environments.</p><h3>Product Highlights</h3><ul>
+<li>Sporty golf theme designed to bring the golf experience indoors.</li>
+<li>Supports customization for a personalized look.</li>
+<li>Soft memory foam cushion helps effectively relieve foot pressure.</li>
+<li>Non-slip backing ensures the mat stays safely in place.</li>
+<li>Stain-resistant material with a low pile for easy care and maintenance.</li>
+<li>Durable construction with reinforced serged edges for long-lasting use.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable, Stain Resistant, Non Slip</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Golf</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sports, Golf</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polypropylene, Polyester, Non-woven Fabric</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Product Care Instructions</td>
+<td>Spot Clean Only</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Use a damp cloth with mild soapy water (avoid bleach) and let air dry</td>
+</tr>
+</table><h3>Where It Works</h3><p>This versatile floor mat is ideal for living rooms, bedrooms, offices, kitchens, and doorways. It also makes a great addition to specialized spaces like man caves, game rooms, golf simulators, or kids' play areas.</p>",Make product copy motif-specific while retaining verified public claims only.,"Black golf area rug with distressed flag stripes, red golf club accent, microfiber surface and non-slip backing for boys rooms or golf dens. Design details Black rug with distressed white flag stripes, red golf club shape, ball dots, size chart and backing details; images 7-12 repeat images 1-6. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Black golf area rug with distressed flag stripes, red golf club accent, microfiber surface and non-slip backing for boys rooms or golf dens.</p><h3>Design details</h3><ul><li>Black rug with distressed white flag stripes, red golf club shape, ball dots, size chart and backing details; images 7-12 repeat images 1-6.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B046-458,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/30b78cd46040811092c46fcb5065d8112942eaec0795cd525c382fd192a2f987.jpg?v=1784386769,,Black distressed golf flag rug in patio room setting,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e317745817ed8c900ed2991e8c064d1c2e9d251f90995af51f84dcfd79ae6416.jpg?v=1784386769,,Bright living room mockup with black golf flag rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f82e0971cac56ed876b670af4acfc953827f1cbd8ffc0976fdddff6a2bbd9686.jpg?v=1784386775,,Backing and material infographic for black golf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/36af00158c945e6ce166d1f6c8c5fb27dd5a57bcd98bf36faffce737a71086b1.jpg?v=1784386775,,Close-up of distressed stripe microfiber golf rug surface,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ec7018f3d0fa0c50e53319df40ed8834fb8dac4f181d73b3c448a8ae3e983305.jpg?v=1784386780,,Size chart for black golf area rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/26aea476900f71589a4d67a3bab20e725dac80c26b332ec7536c045a89f62691.jpg?v=1784386780,,Sofa room mockup with black golf flag rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/30b78cd46040811092c46fcb5065d8112942eaec0795cd525c382fd192a2f987_4500062c-ee66-41cb-9917-0422521884e0.jpg?v=1784386786,,Repeated patio room view of black golf flag rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e317745817ed8c900ed2991e8c064d1c2e9d251f90995af51f84dcfd79ae6416_97c5e623-4cdd-471b-9d5d-a1eff86287e8.jpg?v=1784386786,,Repeated bright living room view of black golf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f82e0971cac56ed876b670af4acfc953827f1cbd8ffc0976fdddff6a2bbd9686_59bb4ff1-ee15-4ff5-a8fe-6a0651a71ea4.jpg?v=1784386791,,Repeated backing infographic for black golf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/36af00158c945e6ce166d1f6c8c5fb27dd5a57bcd98bf36faffce737a71086b1_3e13a81c-a088-44bc-a54c-b2e9cc861b7a.jpg?v=1784386791,,Repeated close-up of black golf surface,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ec7018f3d0fa0c50e53319df40ed8834fb8dac4f181d73b3c448a8ae3e983305_4d4794de-a86f-4bc6-aba9-7ab23b413d79.jpg?v=1784386796,,Repeated size chart for black golf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/26aea476900f71589a4d67a3bab20e725dac80c26b332ec7536c045a89f62691_41e56cfe-0106-43ff-8ab5-c8ebf3bb6c26.jpg?v=1784386797,,Repeated sofa room view of black golf flag rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B046,chillgen.com,custom-golf-area-rug-living-room-mat-39dea6cb42,custom-golf-area-rug-living-room-mat-39dea6cb42,15913195209073,gid://shopify/Product/15913195209073,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B046_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-39dea6cb42.html,2026-09-07T05:14:29+07:00,en-US,US,https://chillgen.com/products/custom-golf-area-rug-living-room-mat-39dea6cb42,https://chillgen.com/products/custom-golf-area-rug-living-room-mat-39dea6cb42,Rug,Vibrant Golf Equipment Area Rug with Memory Foam for Bedroom and Office,Vibrant Golf Equipment Area Rug with Memory Foam for Bedroom and Office,Vibrant Golf Equipment Rug with 19th Hole Name,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Vibrant Golf Equipment Area Rug with Memory Foam Design,NONE_OR_NOT_OBSERVED,Vibrant Golf Equipment Rug with 19th Hole Name,SET,46,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Showcase a vibrant golf equipment pattern with an area rug featuring memory foam cushioning non slip backing and reinforced edges for bedrooms and offices.,"Vibrant golf equipment rug with Anderson's 19th Hole text, green fairway design, flag, club and soft memory foam feel.",SET,118,vibrant golf equipment rug,"green 19th Hole rug, personalized golf room mat, golf fairway area rug","vibrant golf equipment rug; green 19th Hole rug, personalized golf room mat, golf fairway area rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support patriotic hunting doormats, deer hunting doormats, cabin hunting welcome mats, custom golf rugs, golf welcome mats and 19th hole golf decor. B046 separates similar hunting and golf products by visible motif: American Hunter black lab, deer/duck/fishing Williams family mat, Tastes Like Freedom bass mat, Hooked on Freedom bass flag mat, 250th anniversary eagle mat, vintage golf equipment collage rug, green 19th Hole family golf rug, black golf flag/club rug, green Anderson's 19th Hole rug and brown golf quote floor mat.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,vibrant golf equipment rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports green Anderson's 19th Hole golf equipment rug and product-level buyer intent.,B046-459-BR01,"B046 buyers include hunters, cabin owners, patriotic households, family-name gift shoppers, golf fans, home office decorators, game room shoppers and people buying personalized entryway gifts.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This premium golf area rug blends modern sports aesthetics with home decor to bring the golf experience indoors. Featuring a vibrant golf equipment pattern, this stylish rug adds an elegant yet athletic touch to your interior spaces. It provides a comfortable surface underfoot while serving as a functional floor accessory for enthusiasts of the sport.</p><h3>Product Highlights</h3><ul>
+<li>Sporty golf themed design with vibrant, long-lasting colors from premium heat dye sublimation.</li>
+<li>Customizable sizing options to fit various rooms and spaces.</li>
+<li>High-density memory foam cushion with a sponge interlayer to effectively relieve foot pressure.</li>
+<li>Non-slip backing helps keep the rug securely in place.</li>
+<li>Low pile construction with reinforced serged edges ensures long-lasting durability.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Stain Resistance</td>
+<td>Stain Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable, Non-slip</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Golf</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sports, Golf</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polypropylene, Polyester</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Soft to the touch, low pile</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Spot clean only with a damp cloth and mild soapy water (avoid bleach); let air dry</td>
+</tr>
+</table><h3>Where It Works</h3><p>This versatile rug is perfect for living rooms, bedrooms, kitchens, and offices. It also makes an excellent addition to man caves, game rooms, golf simulators, and kids' play areas.</p>",Make product copy motif-specific while retaining verified public claims only.,"Vibrant golf equipment rug with Anderson's 19th Hole text, green fairway design, flag, club and soft memory foam feel. Design details Green golf rug with anderson's 19th hole text, flag pin, club, ball and fairway-style radial background. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Vibrant golf equipment rug with Anderson's 19th Hole text, green fairway design, flag, club and soft memory foam feel.</p><h3>Design details</h3><ul><li>Green golf rug with anderson's 19th hole text, flag pin, club, ball and fairway-style radial background.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B046-459,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c34f52ad4af2d017b0c23758257ef4d4fe6439f8b6b64d3cbf209fc80cac27c1.jpg?v=1784386748,,Green Anderson's 19th Hole golf rug in golf room setting,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3a66282ddd4add390efbb9e8db343cdcf6e4127a65e8a26dec244ff449d34ba6.jpg?v=1784386748,,Sofa room mockup with green personalized golf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/92031a153e5acd7dab23f0fe92738141e91fb54f286c7cf445530954e408c9a5.jpg?v=1784386753,,Size chart for Anderson's 19th Hole golf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b1d778be8bf83f6bdb51c8cdf902408f9bb25648e3a842589686cf9d06e89b31.jpg?v=1784386754,,Close-up of green microfiber golf rug surface,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/071e2ce9f6ebef3f8464db4cd26aa8172b35623e771b81d2a5e0181bd93cfe99.jpg?v=1784386758,,Backing and material infographic for green golf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/83bf686019d8b387727a2f25d4aa8927bb16714d8083b7c829ed1b3aa0a3cfa5.jpg?v=1784386759,,Bright living room mockup with Anderson's golf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/292d6917751c3c74abb74008aa2c0a1ad891781da9b8c2980b65e87734a99389.jpg?v=1784386763,,Patio room mockup with green 19th Hole golf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/33ee05f8a80cac84a0122e8b9671ae3a04c36471d339f889260aa6bc736518bc.jpg?v=1784386764,,Person sitting near fireplace with green golf rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B046,chillgen.com,custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1,custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1,15913196355953,gid://shopify/Product/15913196355953,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B046_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1.html,2026-09-07T05:14:29+07:00,en-US,US,https://chillgen.com/products/custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1,https://chillgen.com/products/custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1,Rug,Golf Quote Floor Mat with Non Slip Backing for Living Room and Home Office,Golf Quote Floor Mat with Non Slip Backing for Living Room and Home Office,Golf Quote Floor Mat with Brown Clubhouse Design,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Golf Quote Floor Mat with Non Slip Backing for Home,NONE_OR_NOT_OBSERVED,Golf Quote Floor Mat with Brown Clubhouse Design,SET,48,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Add a golf quote floor mat to your living space with memory foam cushioning a low pile surface and non slip backing for living rooms and home offices.,"Golf quote floor mat with brown clubhouse-style design, clubs, gloves, laurel border and non-slip backing for home office decor.",SET,128,golf quote floor mat,"brown golf welcome mat, clubhouse golf rug, golf lover home office mat","golf quote floor mat; brown golf welcome mat, clubhouse golf rug, golf lover home office mat",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support patriotic hunting doormats, deer hunting doormats, cabin hunting welcome mats, custom golf rugs, golf welcome mats and 19th hole golf decor. B046 separates similar hunting and golf products by visible motif: American Hunter black lab, deer/duck/fishing Williams family mat, Tastes Like Freedom bass mat, Hooked on Freedom bass flag mat, 250th anniversary eagle mat, vintage golf equipment collage rug, green 19th Hole family golf rug, black golf flag/club rug, green Anderson's 19th Hole rug and brown golf quote floor mat.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,golf quote floor mat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports brown golf quote floor mat with clubs gloves and laurel border and product-level buyer intent.,B046-460-BR01,"B046 buyers include hunters, cabin owners, patriotic households, family-name gift shoppers, golf fans, home office decorators, game room shoppers and people buying personalized entryway gifts.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This premium indoor rug features an elegant and sporty golf theme, beautifully blending modern athletics with everyday home decor. Designed to bring the golf experience indoors, it offers a soft touch and exceptional durability for daily use. It is the perfect accent piece for sports enthusiasts looking to personalize their favorite living spaces.</p><h3>Product Highlights</h3><ul>
+<li>Sporty golf design with vibrant, long-lasting colors from premium heat dye sublimation.</li>
+<li>Supports customization to create a personalized touch for your home.</li>
+<li>High-density memory foam cushion helps effectively relieve foot pressure.</li>
+<li>Non-slip backing keeps the mat securely in place.</li>
+<li>Low pile construction with reinforced serged edges ensures long-lasting durability.</li>
+<li>Versatile placement makes it an ideal gift for sports lovers and family members.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable, Stain Resistant, Non-slip</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Golf</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sports, Golf</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polypropylene, Polyester</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Spot Clean Only</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Use a damp cloth with mild soapy water (avoid bleach) and let air dry</td>
+</tr>
+</table><h3>Where It Works</h3><p>This versatile themed mat works beautifully in living rooms, bedrooms, kitchens, and offices. It is also an excellent fit for specialized spaces such as man caves, game rooms, golf simulators, and kids' play areas.</p>",Make product copy motif-specific while retaining verified public claims only.,"Golf quote floor mat with brown clubhouse-style design, clubs, gloves, laurel border and non-slip backing for home office decor. Design details Brown wood-tone golf mat with quote about love, laughter and golf, club and glove icons, laurel frame, size chart and backing callouts. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Golf quote floor mat with brown clubhouse-style design, clubs, gloves, laurel border and non-slip backing for home office decor.</p><h3>Design details</h3><ul><li>Brown wood-tone golf mat with quote about love, laughter and golf, club and glove icons, laurel frame, size chart and backing callouts.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B046-460,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6d343a820da3021572bf44b705e5910f6e0701530e983f89ad84fbb1c0cc3780.jpg?v=1784386731,,Brown golf quote floor mat in patio room setting,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/37d4dd9a7ab338f9700fbf92fa4e33257b1d68eefe25132e1f0d65097be9c6e2.jpg?v=1784386732,,Size chart for brown golf quote mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4a4d6ac9f6a418ac03627a486886e1c4aeb8e165d466e4a10a8335d6ab8e8bfb.jpg?v=1784386737,,Sofa room mockup with brown golf quote rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/10cee4e1181b2b189e7d63e642e74a3a9e115361944797f14a6e477b37bd6c45.jpg?v=1784386737,,Close-up of brown microfiber golf quote mat surface,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/76978b2acd2d1d0de7ecda5f0c579ec6ee93862190fa15fca1175ad8bbfdec66.jpg?v=1784386742,,Backing and material infographic for brown golf mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d4c10e3f0209b5e6fc58be5359143d83651a46ba0cf7c244ac19038b624ba2d7.jpg?v=1784386742,,Bright living room mockup with brown golf quote rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

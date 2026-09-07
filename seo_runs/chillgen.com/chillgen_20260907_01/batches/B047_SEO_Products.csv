@@ -1,0 +1,864 @@
+schema_version,prompt_version,run_id,batch_id,shop_domain,product_key,Handle,product_id,product_gid,identity_status,source_export_ref,source_exported_at,locale,market,url,canonical_url,product_type,title_current,h1_current,title_proposed,title_action,h1_mapping_status,meta_title_current,meta_title_source_state,rendered_title_current,theme_title_suffix,meta_title_seo,meta_title_action,meta_title_chars,meta_description_current,meta_description_source_state,rendered_meta_description_current,meta_description_seo,meta_description_action,meta_description_chars,primary_keyword,secondary_keywords,long_tail_candidates,keyword_strategy,season,keyword_demand_evidence,keyword_serp_fit,meta_keyword,search_intent,keyword_validation_status,keyword_selection_reason,buyer_research_refs,buyer_search_summary,baseline_status,change_scope,mapping_status,mapping_version,description_current_html,description_changes_needed,description_proposed,description_proposed_html,description_change_mode,description_target_section,description_action,revision,review_status,review_reason,approved_by,approved_at,approved_fields,approved_revision,processing_status,evidence_status,content_qa_status,field_evidence_map,evidence_id,issues,img_1_link,img_1_alt_current,img_1_alt,img_1_alt_action,img_2_link,img_2_alt_current,img_2_alt,img_2_alt_action,img_3_link,img_3_alt_current,img_3_alt,img_3_alt_action,img_4_link,img_4_alt_current,img_4_alt,img_4_alt_action,img_5_link,img_5_alt_current,img_5_alt,img_5_alt_action,img_6_link,img_6_alt_current,img_6_alt,img_6_alt_action,img_7_link,img_7_alt_current,img_7_alt,img_7_alt_action,img_8_link,img_8_alt_current,img_8_alt,img_8_alt_action,img_9_link,img_9_alt_current,img_9_alt,img_9_alt_action,img_10_link,img_10_alt_current,img_10_alt,img_10_alt_action,img_11_link,img_11_alt_current,img_11_alt,img_11_alt_action,img_12_link,img_12_alt_current,img_12_alt,img_12_alt_action,img_13_link,img_13_alt_current,img_13_alt,img_13_alt_action,img_14_link,img_14_alt_current,img_14_alt,img_14_alt_action,img_15_link,img_15_alt_current,img_15_alt,img_15_alt_action,img_16_link,img_16_alt_current,img_16_alt,img_16_alt_action,img_17_link,img_17_alt_current,img_17_alt,img_17_alt_action,img_18_link,img_18_alt_current,img_18_alt,img_18_alt_action,img_19_link,img_19_alt_current,img_19_alt,img_19_alt_action,img_20_link,img_20_alt_current,img_20_alt,img_20_alt_action,img_21_link,img_21_alt_current,img_21_alt,img_21_alt_action,img_22_link,img_22_alt_current,img_22_alt,img_22_alt_action
+2.4,2.4,chillgen_20260907_01,B047,chillgen.com,custom-golf-area-rug-living-room-mat-51b65f4454,custom-golf-area-rug-living-room-mat-51b65f4454,15913196716401,gid://shopify/Product/15913196716401,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B047_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-mat-51b65f4454.html,2026-09-07T05:19:13+07:00,en-US,US,https://chillgen.com/products/custom-golf-area-rug-living-room-mat-51b65f4454,https://chillgen.com/products/custom-golf-area-rug-living-room-mat-51b65f4454,Rug,Golf Area Carpet with Reinforced Edges and Memory Foam for Bedroom and Office,Golf Area Carpet with Reinforced Edges and Memory Foam for Bedroom and Office,Patriotic Golf Area Rug with Flag and Club Design,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Golf Area Carpet with Reinforced Edges and Memory Foam,NONE_OR_NOT_OBSERVED,Patriotic Golf Area Rug with Flag and Club Design,SET,49,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Bring golf style to a bedroom or office with an area carpet featuring memory foam comfort reinforced edges a stain resistant surface and non slip backing.,"Patriotic golf area rug with American flag, wood grain, golf club and ball artwork, memory foam feel and non-slip backing.",SET,122,patriotic golf area rug,"American flag golf rug, golf club floor mat, golf room carpet","patriotic golf area rug; American flag golf rug, golf club floor mat, golf room carpet",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support custom golf rugs, 19th Hole golf rugs, golf welcome mats, math classroom rugs, math symbols rugs and math formula classroom rugs. B047 separates similar products by visible motif: patriotic golf flag, personalized Alex course rug, minimalist William golf club rug, Steven's 19th Hole quote rug, MATH acronym classroom rug, Math Symbols rug, #MATHLIFE rules rug, Good Day to Do Math rug, Why Math? concept rug and Math Key Words operations rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,patriotic golf area rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports patriotic golf flag area rug with club ball and wood grain and product-level buyer intent.,B047-461-BR01,"B047 buyers include golf fans decorating offices, dens and simulator rooms, golf gift buyers, math teachers, homeschool families and elementary educators creating subject-specific learning areas.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This premium area rug blends modern golf aesthetics with functional home decor, bringing a sporty and elegant look indoors. Featuring high-density memory foam construction, it helps effectively relieve foot pressure while providing a soft feel. Designed for daily life, it stays in place and offers a durable, stylish floor covering option for golf enthusiasts.</p><h3>Product Highlights</h3><ul>
+<li>Sporty golf design with vibrant, long-lasting colors from premium heat dye sublimation.</li>
+<li>Features a soft-to-the-touch surface with a high-density memory foam cushion for foot comfort.</li>
+<li>Non-slip backing helps keep the mat securely in place.</li>
+<li>Stain-resistant low pile fabric and reinforced serged edges ensure long-lasting durability.</li>
+<li>Versatile placement options for various indoor living spaces and golf-themed rooms.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Water Resistance Level</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Is Stain Resistant</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Golf</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sports, Golf</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polypropylene, Polyester</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Spot Clean Only</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Use a damp cloth with mild soapy water (avoid bleach) and let air dry</td>
+</tr>
+</table><h3>Where It Works</h3><p>This golf-themed area rug is ideal for living rooms, bedrooms, offices, and dining rooms. It also makes a perfect addition to specialized spaces like man caves, game rooms, golf simulators, or kids' play areas.</p>",Make product copy motif-specific while retaining verified public claims only.,"Patriotic golf area rug with American flag, wood grain, golf club and ball artwork, memory foam feel and non-slip backing. Design details Golf rug with american flag colors, wood floor print, golf club and ball, size chart, microfiber surface and non-slip backing callouts. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Patriotic golf area rug with American flag, wood grain, golf club and ball artwork, memory foam feel and non-slip backing.</p><h3>Design details</h3><ul><li>Golf rug with american flag colors, wood floor print, golf club and ball, size chart, microfiber surface and non-slip backing callouts.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B047-461,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c5484b389573fcc067ec0bbb65a8e2f7aa093c9f0bea9092193c3e1767606ff5_d6db830c-6143-47b3-a788-5d178d68b384.jpg?v=1784386714,,Patriotic golf flag rug shown beside sofa,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1297d433c7ea65c7a2b34a4c60a1b55614d4ade8e597057e9e5f025c3dc20e7a_994a5142-6a0e-48c0-a342-a0b25f37d7a0.jpg?v=1784386715,,Bright living room mockup with American flag golf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ca2e0942539c6aac0de4ed6746d241662f553a70a686b3606c089a4911fc6883_a766d807-0731-4ddb-aa2b-326954b18163.jpg?v=1784386720,,Patio room mockup with golf club and ball flag rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b2e15b9e91ea1ea4d97ae168e3279d3c17161d9764ea3925de76ebe030a57994_848a058c-3c9a-4be9-97ed-3b551af2ae58.jpg?v=1784386720,,Size chart for patriotic golf area rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cd59aafaa982f4b3356b135f112889a385b77f27c462d793d2862133865440a4_08b0a64f-ef02-4330-ba89-3b2b47563f69.jpg?v=1784386725,,Close-up of microfiber golf ball and flag surface,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a1997d6294fca60e31b5d5bc94eab1a3b4b8393f89be9f052a5ea64a662ce024_3d671cc1-a895-4bbf-951d-6e3799d2d277.jpg?v=1784386726,,Backing and material infographic for patriotic golf rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B047,chillgen.com,custom-golf-area-rug-living-room-mat-f6f3c16862,custom-golf-area-rug-living-room-mat-f6f3c16862,15913197142385,gid://shopify/Product/15913197142385,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B047_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-mat-f6f3c16862.html,2026-09-07T05:19:13+07:00,en-US,US,https://chillgen.com/products/custom-golf-area-rug-living-room-mat-f6f3c16862,https://chillgen.com/products/custom-golf-area-rug-living-room-mat-f6f3c16862,Rug,Golf Theme Rug with Stain Resistant Surface for Game Room and Office,Golf Theme Rug with Stain Resistant Surface for Game Room and Office,Personalized Golf Course Rug with Name,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Golf Theme Rug with Stain Resistant Surface for Office,NONE_OR_NOT_OBSERVED,Personalized Golf Course Rug with Name,SET,38,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Create a sporty game room or office with a golf theme rug featuring memory foam cushioning a stain resistant surface reinforced edges and non slip backing.,"Personalized golf course rug with custom name, green fairway, tee ball, sunset landscape and non-slip backing for golf rooms.",SET,125,personalized golf course rug,"custom name golf rug, green fairway floor mat, golf game room rug","personalized golf course rug; custom name golf rug, green fairway floor mat, golf game room rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support custom golf rugs, 19th Hole golf rugs, golf welcome mats, math classroom rugs, math symbols rugs and math formula classroom rugs. B047 separates similar products by visible motif: patriotic golf flag, personalized Alex course rug, minimalist William golf club rug, Steven's 19th Hole quote rug, MATH acronym classroom rug, Math Symbols rug, #MATHLIFE rules rug, Good Day to Do Math rug, Why Math? concept rug and Math Key Words operations rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized golf course rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports personalized green golf course rug with Alex name and sunset fairway and product-level buyer intent.,B047-462-BR01,"B047 buyers include golf fans decorating offices, dens and simulator rooms, golf gift buyers, math teachers, homeschool families and elementary educators creating subject-specific learning areas.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This custom area rug blends modern golf aesthetics with functional home decor, bringing a stylish sporty experience indoors. Designed to offer a perfect balance of comfort and utility, it features a soft touch that helps relieve foot pressure. It serves as an excellent decorative and practical addition to any personal space or themed room.</p><h3>Product Highlights</h3><ul>
+<li>Features a modern golf-themed design with vibrant, long-lasting colors.</li>
+<li>Supports personalization options to customize your preferred size.</li>
+<li>Provides a soft, high-density memory foam cushion comfort underfoot.</li>
+<li>Equipped with a non-slip backing to keep the rug safely in place.</li>
+<li>Stain-resistant and easy to clean with reinforced edges for long-lasting durability.</li>
+<li>Highly versatile for placement in living areas, offices, or gaming setups.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable, Stain Resistant, Non Slip</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Golf</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sports, Golf</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polypropylene, Polyester</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Spot Clean Only</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Use a damp cloth with mild soapy water (avoid bleach) and let air dry</td>
+</tr>
+</table><h3>Where It Works</h3><p>This themed rug fits beautifully in living rooms, bedrooms, and kitchens. It is also an ideal choice for offices, game rooms, man caves, golf simulators, and kids' play areas.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalized golf course rug with custom name, green fairway, tee ball, sunset landscape and non-slip backing for golf rooms. Design details Green fairway-style golf rug with alex name, tee ball, flag, sunset, size chart and microfiber/backing callouts. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalized golf course rug with custom name, green fairway, tee ball, sunset landscape and non-slip backing for golf rooms.</p><h3>Design details</h3><ul><li>Green fairway-style golf rug with alex name, tee ball, flag, sunset, size chart and microfiber/backing callouts.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B047-462,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/783f3b9a49ccb81013e176238902b05eb93a3755e31fa6a1bd9c892fbd116ed5.jpg?v=1784386693,,Green personalized golf course rug with Alex name,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a7a85df435044b9b74b0de9dc788920a368feed0a3ef7a269a19c358a2aeb94f.jpg?v=1784386693,,Golf room mockup with custom name fairway rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a43936ae65af5b2aa2679a203958e429c62c5498035667495ab8129b2b7b14db.jpg?v=1784386698,,Size chart for personalized green golf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/31eb5dca36aa39c7bff8764274b20ce6cce27d9d5a4119eee5a33f017db660ec.jpg?v=1784386699,,Close-up of green microfiber fairway surface,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/65ec30089752bc893fef88461855aca7e30ed4a9c72d7993c561d56bebaf9a45.jpg?v=1784386703,,Backing and material infographic for golf course rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/94b8580e965a8f446dc1b47508fe9e7cb08553f89feea9ee76ebfadece215d28.jpg?v=1784386704,,Bright living room mockup with Alex golf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5b166a31251eb4d777421bd27f7cc57a1b2d734a7ecc810eaea0dcda33e8f1a5.jpg?v=1784386709,,Person sitting near fireplace with custom golf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/542f4a21ea9b35891d7b88dcb27f5122354700cdef30190ccd33473556c8387f.jpg?v=1784386710,,Sofa room mockup with personalized golf course rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B047,chillgen.com,custom-golf-area-rug-fd79165e9f-fd79165e9f,custom-golf-area-rug-fd79165e9f-fd79165e9f,15913197371761,gid://shopify/Product/15913197371761,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B047_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-fd79165e9f-fd79165e9f.html,2026-09-07T05:19:13+07:00,en-US,US,https://chillgen.com/products/custom-golf-area-rug-fd79165e9f-fd79165e9f,https://chillgen.com/products/custom-golf-area-rug-fd79165e9f-fd79165e9f,Rug,Washable Golf Area Rug with Memory Foam for Living Room and Home Office,Washable Golf Area Rug with Memory Foam for Living Room and Home Office,Custom Golf Club Rug with Family Name,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Washable Golf Area Rug with Memory Foam for Home Office,NONE_OR_NOT_OBSERVED,Custom Golf Club Rug with Family Name,SET,37,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Add an easy care golf area rug to your home with a washable low pile surface memory foam cushioning and non slip backing for living rooms and offices.,"Custom golf club rug with family name, white layout, putting green and flag pin for living rooms, offices or golf-themed spaces.",SET,128,custom golf club rug,"family name golf rug, minimalist golf area rug, putting green floor mat","custom golf club rug; family name golf rug, minimalist golf area rug, putting green floor mat",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support custom golf rugs, 19th Hole golf rugs, golf welcome mats, math classroom rugs, math symbols rugs and math formula classroom rugs. B047 separates similar products by visible motif: patriotic golf flag, personalized Alex course rug, minimalist William golf club rug, Steven's 19th Hole quote rug, MATH acronym classroom rug, Math Symbols rug, #MATHLIFE rules rug, Good Day to Do Math rug, Why Math? concept rug and Math Key Words operations rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,custom golf club rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports minimalist white golf club rug with family name and putting green and product-level buyer intent.,B047-463-BR01,"B047 buyers include golf fans decorating offices, dens and simulator rooms, golf gift buyers, math teachers, homeschool families and elementary educators creating subject-specific learning areas.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Bring the love of the game inside with this elegant and sporty area rug, blending modern golf aesthetics with functional home decor. Featuring vibrant, long-lasting colors from a premium heat dye sublimation print, it provides a perfect decorative touch for any sports enthusiast. This low-pile rug offers a soft-to-the-touch feel that helps relieve foot pressure while standing.</p><h3>Product Highlights</h3><ul>
+<li>Sporty golf theme designed to bring the golf experience indoors</li>
+<li>Memory foam cushion layer that effectively relieves foot pressure</li>
+<li>Non-slip rubber backing helps keep the rug securely in place</li>
+<li>Stain-resistant and washable material for long-lasting durability</li>
+<li>Versatile design ideal for living rooms, offices, and game rooms</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Golf</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sports, Golf</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Soft non-woven fabric with sponge interlayer</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Spot Clean Only</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Use damp cloth with mild soapy water (avoid bleach) and air dry</td>
+</tr>
+</table><h3>Where It Works</h3><p>This versatile sports rug is perfect for living rooms, bedrooms, and offices. It also makes an excellent addition to man caves, game rooms, golf simulators, or kids' play areas.</p>",Make product copy motif-specific while retaining verified public claims only.,"Custom golf club rug with family name, white layout, putting green and flag pin for living rooms, offices or golf-themed spaces. Design details White personalized golf rug reading the william golf club with est year, putting green, red flag and black border. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Custom golf club rug with family name, white layout, putting green and flag pin for living rooms, offices or golf-themed spaces.</p><h3>Design details</h3><ul><li>White personalized golf rug reading the william golf club with est year, putting green, red flag and black border.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B047-463,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/849ccc066c4d402517e1f821d198169d464d979b2e8af3c9fe760474e1fe4a85.jpg?v=1784386671,,Golf room mockup with The William Golf Club rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0d357329fef175d568676d1d6d120d408aab2c03dfb1b92bc1264d6ecc448271.jpg?v=1784386672,,Patio room mockup with minimalist family name golf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/48779443af139e8f9324c5088a7ad82330af20031ee537a1a3c3245be002af53.jpg?v=1784386677,,Sofa room mockup with white golf club rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cb14b8c85df0054a5581ed6cac84f461171fe991d7af31800e32a933119f2ab3.jpg?v=1784386677,,Size chart for custom golf club rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c5c57706db10413544c8fdb765414c5c3fcc8032dd8d26aa3268fe79f4b35a09.jpg?v=1784386682,,Close-up of white microfiber surface and black border,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/302a25891dbf01fbedfe216589e4ff02c7d5cdc7a1c9812d67f8b3502815d704.jpg?v=1784386683,,Backing and material infographic for golf club rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2cf4e94b7b36e60e553ab67d2945d34ac72e47a29d23a0e8e81ec6074bc18cc7.jpg?v=1784386687,,Bright living room mockup with white golf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f382d649e64bf0ae3e447ba2f8244f51f51b436ddd7220250ec80a6d75632f72.jpg?v=1784386688,,Person near fireplace with custom golf club rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B047,chillgen.com,custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8,custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8,15913197633905,gid://shopify/Product/15913197633905,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B047_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8.html,2026-09-07T05:19:13+07:00,en-US,US,https://chillgen.com/products/custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8,https://chillgen.com/products/custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8,Rug,Golf Lover Rug with Reinforced Edges and Non Slip Backing for Indoor Home Decor,Golf Lover Rug with Reinforced Edges and Non Slip Backing for Indoor Home Decor,Golf Lover 19th Hole Rug with Custom Name,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Golf Lover Rug with Reinforced Edges and Non Slip Backing,NONE_OR_NOT_OBSERVED,Golf Lover 19th Hole Rug with Custom Name,SET,41,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Bring a golf inspired accent indoors with a golf lover rug featuring memory foam cushioning reinforced edges and non slip backing for everyday home spaces.,"Golf Lover 19th Hole rug with custom name, green fairway design, flag pin and clubhouse phrases for indoor golf decor.",SET,118,Golf Lover 19th Hole rug,"custom golf lover rug, green golf room mat, personalized 19th hole area rug","Golf Lover 19th Hole rug; custom golf lover rug, green golf room mat, personalized 19th hole area rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support custom golf rugs, 19th Hole golf rugs, golf welcome mats, math classroom rugs, math symbols rugs and math formula classroom rugs. B047 separates similar products by visible motif: patriotic golf flag, personalized Alex course rug, minimalist William golf club rug, Steven's 19th Hole quote rug, MATH acronym classroom rug, Math Symbols rug, #MATHLIFE rules rug, Good Day to Do Math rug, Why Math? concept rug and Math Key Words operations rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,Golf Lover 19th Hole rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports green Steven's 19th Hole golf lover rug with clubhouse phrases and product-level buyer intent.,B047-464-BR01,"B047 buyers include golf fans decorating offices, dens and simulator rooms, golf gift buyers, math teachers, homeschool families and elementary educators creating subject-specific learning areas.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This premium golf area rug blends modern sports aesthetics with functional home decor, bringing the golf experience directly into your indoor living spaces. Designed with vibrant, long-lasting colors, it features an elegant look that appeals to sports enthusiasts. It serves as a perfect decorative piece that adds comfort and style to any room.</p><h3>Product Highlights</h3><ul>
+<li>Features a modern golf theme and sporty aesthetic for golf lovers.</li>
+<li>Supports customization options to personalize your living space.</li>
+<li>Provides a soft touch with a high-density memory foam cushion to relieve foot pressure.</li>
+<li>Equipped with a non-slip backing to keep the rug securely in place.</li>
+<li>Durable construction with reinforced serged edges and tear-resistant material.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Water Resistance Level</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable, Stain Resistant, Non-Slip</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Golf</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sports, Golf</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polypropylene, Polyester</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Spot Clean Only</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Use a damp cloth with mild soapy water (avoid bleach) and let air dry</td>
+</tr>
+</table><h3>Where It Works</h3><p>This versatile indoor mat is ideal for living rooms, bedrooms, offices, game rooms, man caves, and golf simulator spaces. It also makes a meaningful and practical gift for family members on occasions like housewarmings or the New Year.</p>",Make product copy motif-specific while retaining verified public claims only.,"Golf Lover 19th Hole rug with custom name, green fairway design, flag pin and clubhouse phrases for indoor golf decor. Design details Green rug reading steven's 19th hole with phrases unwind relax enjoy, cold stories, cold beer and bets paid. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Golf Lover 19th Hole rug with custom name, green fairway design, flag pin and clubhouse phrases for indoor golf decor.</p><h3>Design details</h3><ul><li>Green rug reading steven's 19th hole with phrases unwind relax enjoy, cold stories, cold beer and bets paid.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B047-464,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/70f476b5765b527ea9d740065728b847b06062b86592173e4dbd0d887e63c807.jpg?v=1784386650,,Green Steven's 19th Hole golf lover rug in patio room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/24be06ab9272cc568be0a219c6768698d614afb76a377255751b289a864f8ed8.jpg?v=1784386650,,Golf room mockup with 19th Hole clubhouse rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9d461f272a6904906cc6e2d9afa3f3d4fdc7b4fdf0444d8823bc41aa6431b0cd.jpg?v=1784386655,,Size chart for Steven's 19th Hole golf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6d8830596c482166109eb7cfa90e8d07418114427f3c4dfa0e3488dbfd4f6739.jpg?v=1784386655,,Backing and material infographic for green golf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4859ba577ebac28fb095a7ea27863c11cb40b927d7082c8b6ed54cf284d65919.jpg?v=1784386661,,Close-up of green microfiber golf surface,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cd8ff82244092018b54cbe3291afa163bcc7a655d066e1ee855f2ed58474eccb.jpg?v=1784386661,,Bright living room mockup with golf lover rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/84ea1df4049477bdd51f9a424407f38251ca02a62036b24cf4eeb26dbad0243e.jpg?v=1784386666,,Person sitting near fireplace with 19th Hole rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b0f33c866b354782559eccb29ed2eb0e61e35252b008b45263a6557bdd5894b2.jpg?v=1784386666,,Sofa room mockup with Steven's golf lover rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B047,chillgen.com,custom-mathematics-education-rug-80ab855e16-80ab855e16,custom-mathematics-education-rug-80ab855e16-80ab855e16,15913231712625,gid://shopify/Product/15913231712625,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B047_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-education-rug-80ab855e16-80ab855e16.html,2026-09-07T05:19:13+07:00,en-US,US,https://chillgen.com/products/custom-mathematics-education-rug-80ab855e16-80ab855e16,https://chillgen.com/products/custom-mathematics-education-rug-80ab855e16-80ab855e16,Rug,Custom School Math Formula Rug for Classroom Playroom and Study Room,Custom School Math Formula Rug for Classroom Playroom and Study Room,Custom MATH Acronym Classroom Rug with Name,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom School Math Formula Rug for Classroom Study Room,NONE_OR_NOT_OBSERVED,Custom MATH Acronym Classroom Rug with Name,SET,43,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Add educational style with a custom school math formula rug featuring patterns a velvet surface and non slip backing for classrooms playrooms and studies.,"Custom MATH acronym classroom rug with teacher name, colorful chalk-style letters and learning prompts for math classrooms.",SET,123,custom MATH acronym classroom rug,"personalized math teacher rug, black math classroom mat, math formula learning rug","custom MATH acronym classroom rug; personalized math teacher rug, black math classroom mat, math formula learning rug",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL,"Marketplace and retail SERPs support custom golf rugs, 19th Hole golf rugs, golf welcome mats, math classroom rugs, math symbols rugs and math formula classroom rugs. B047 separates similar products by visible motif: patriotic golf flag, personalized Alex course rug, minimalist William golf club rug, Steven's 19th Hole quote rug, MATH acronym classroom rug, Math Symbols rug, #MATHLIFE rules rug, Good Day to Do Math rug, Why Math? concept rug and Math Key Words operations rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,custom MATH acronym classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports black personalized MATH acronym classroom rug and product-level buyer intent.,B047-465-BR01,"B047 buyers include golf fans decorating offices, dens and simulator rooms, golf gift buyers, math teachers, homeschool families and elementary educators creating subject-specific learning areas.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Transform any learning space into an engaging and dynamic environment with this mathematics educational area rug. Featuring bright colors and stimulating math formulas, this rug is designed to inspire young minds while helping students concentrate. It serves as both a beautiful decorative touch and an active learning aid for classrooms, playrooms, and study areas.</p><h3>Product Highlights</h3><ul>
+<li>Engaging educational design featuring school math formulas to stimulate learning.</li>
+<li>Customizable options for colors, sizes, and specific math themes to match educational needs.</li>
+<li>Soft velvet surface providing warmth and comfort on cold floors.</li>
+<li>Durable, wear-resistant construction designed to withstand active learners without tears or shedding.</li>
+<li>Anti-slip backing to ensure a safe learning and playing environment.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Playroom, Classroom, Bedroom, Game Room, Hall, Study</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip, Stain Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Letter Print</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Math</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polyester Velvet</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Spot Clean Only</td>
+</tr>
+</table><h3>Where It Works</h3><p>This educational rug is perfectly suited for school classrooms, kids' playrooms, and home study areas. It also makes a wonderful and functional addition to children's bedrooms, game rooms, or any space dedicated to learning and play.</p>",Make product copy motif-specific while retaining verified public claims only.,"Custom MATH acronym classroom rug with teacher name, colorful chalk-style letters and learning prompts for math classrooms. Design details Black rug reading in this anna's classroom we work to understand math with mistakes, allow, thinking and happen prompts. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Custom MATH acronym classroom rug with teacher name, colorful chalk-style letters and learning prompts for math classrooms.</p><h3>Design details</h3><ul><li>Black rug reading in this anna's classroom we work to understand math with mistakes, allow, thinking and happen prompts.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B047-465,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ea629cce8b33cfdc366c4affc5efbd771ddd53ceb8c7741598d1bc63c2036185.jpg?v=1784369855,,Black MATH acronym classroom rug with Anna's Classroom name,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/287c517e067f74051817b0d29e3386023dc39ba371db335c8e488df0a2cc613b.jpg?v=1784369855,,Classroom mockup with personalized math acronym rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a7e1edd5d2096138f85b96e2a5e801b946f9a856910a10dcac77d488d115a496.jpg?v=1784369861,,Feature graphic showing bound edges thickness and learning pattern,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8617d2c40728a66075e32b3593a40d3db31e630bb8f0b1f000be81f2b1557d8a.jpg?v=1784369860,,Playroom mockup with black MATH classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f945f9cd4a51eac889c598648b4f91dae768bad94019577f1360a5593635d7b7.jpg?v=1784369865,,Children gathered near math acronym rug detail,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e9117f3b1d15c3d16feb5a21af1d48f1485301ff93da5194b73227c501209725.jpg?v=1784369866,,Teacher and children sitting on MATH classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3e75dca2344f9bd635bfb7dccaeb91e82b45557f7a7548da14e4f23807e0ce29.jpg?v=1784369871,,Isolated personalized MATH acronym rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B047,chillgen.com,custom-mathematics-education-classroom-playroom-rug-0f607da0b3,custom-mathematics-education-classroom-playroom-rug-0f607da0b3,15913232236913,gid://shopify/Product/15913232236913,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B047_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-education-classroom-playroom-rug-0f607da0b3.html,2026-09-07T05:19:13+07:00,en-US,US,https://chillgen.com/products/custom-mathematics-education-classroom-playroom-rug-0f607da0b3,https://chillgen.com/products/custom-mathematics-education-classroom-playroom-rug-0f607da0b3,Rug,Personalized Mathematics Education Rug for Classroom and Playroom,Personalized Mathematics Education Rug for Classroom and Playroom,Personalized Math Symbols Rug for Classroom,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Mathematics Rug for Classroom Playroom,NONE_OR_NOT_OBSERVED,Personalized Math Symbols Rug for Classroom,SET,43,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Turn the floor into a learning feature with a personalized mathematics rug displaying formulas with a soft surface and non slip backing for playrooms.,"Personalized Math Symbols rug with colorful operation icons, black background and playful learning style for classroom or playroom floors.",SET,138,personalized Math Symbols rug,"math symbols classroom rug, operation symbols floor mat, kids math learning rug","personalized Math Symbols rug; math symbols classroom rug, operation symbols floor mat, kids math learning rug",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL,"Marketplace and retail SERPs support custom golf rugs, 19th Hole golf rugs, golf welcome mats, math classroom rugs, math symbols rugs and math formula classroom rugs. B047 separates similar products by visible motif: patriotic golf flag, personalized Alex course rug, minimalist William golf club rug, Steven's 19th Hole quote rug, MATH acronym classroom rug, Math Symbols rug, #MATHLIFE rules rug, Good Day to Do Math rug, Why Math? concept rug and Math Key Words operations rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized Math Symbols rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports black Math Symbols rug with colorful operation icons and product-level buyer intent.,B047-466-BR01,"B047 buyers include golf fans decorating offices, dens and simulator rooms, golf gift buyers, math teachers, homeschool families and elementary educators creating subject-specific learning areas.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Transform any learning space into a dynamic and engaging environment with this mathematics education area rug. Featuring bright colors and school math formulas, this rug is designed to stimulate visual senses, helping to improve concentration and enthusiasm for learning. It serves as a decorative and educational tool that makes studying math both interactive and fun for kids.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Vibrant educational design featuring school math formulas to inspire young imaginations.</li>
+<li>Personalized options available to match your classroom's educational needs and aesthetic.</li>
+<li>Soft velvet surface provides warmth and comfort on cold floor surfaces.</li>
+<li>Anti-slip backing ensures a safe and secure learning space for children of all ages.</li>
+<li>Durable construction resists stains, fading, tearing, and shedding through years of use.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<li>Construction Type<td>Machine Made</td>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Playroom</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Letter Print</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Math</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</li>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polyester</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Premium Velvet</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Spot Clean Only</td>
+</tr>
+<tr>
+<td>Stain Resistance</td>
+<td>Yes</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This educational area rug is ideal for indoor learning environments such as classrooms, playrooms, and study areas. It also makes a wonderful and practical addition to children's bedrooms, game rooms, or halls.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalized Math Symbols rug with colorful operation icons, black background and playful learning style for classroom or playroom floors. Design details Black rug with large math symbols text and colorful circular icons for pi, equals, division, percent, subtraction, greater than and other symbols. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalized Math Symbols rug with colorful operation icons, black background and playful learning style for classroom or playroom floors.</p><h3>Design details</h3><ul><li>Black rug with large math symbols text and colorful circular icons for pi, equals, division, percent, subtraction, greater than and other symbols.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B047-466,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8c6f469760d416aa23beef1da817755a32cb84e7ab490ec79c69355f7ba81abc.jpg?v=1784369834,,Top view of black Math Symbols rug with colorful icons,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c05191357d54bcbb8f43571f262f8b02faf5b182f6632bf20270180a57bc0778.jpg?v=1784369839,,Isolated Math Symbols classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/743ca15606f940bdbfac413c0dcde77639d6bf80a73b98cd23108d9d7f620cc8.jpg?v=1784369840,,Classroom mockup with colorful math symbols rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6bd7961798e8e42cd00f6599a73996018aa64fb653c805db326bc003b5b8a75e.jpg?v=1784369844,,Playroom mockup with black math symbols rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/313efad5921b6a885d5b06a456d0e15e675858fa856f13bd72aa2531008f2552.jpg?v=1784369844,,Children gathered near math symbols rug detail,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1cf742f7e021249136c01d0475df645602ebd274ae0942f9d0039172c8dc43c9.jpg?v=1784369849,,Teacher and children on colorful math symbols rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a8128ba131d52b43d99ac4fba4977cc7eaf376e8e32fd94c7da08566d0d4a13b.jpg?v=1784369850,,Feature graphic showing thickness bound edges and learning pattern,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B047,chillgen.com,custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960,custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960,15913232728433,gid://shopify/Product/15913232728433,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B047_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960.html,2026-09-07T05:19:13+07:00,en-US,US,https://chillgen.com/products/custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960,https://chillgen.com/products/custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960,Rug,Custom Mathematics Formula Rug for Classroom Playroom and Study Area,Custom Mathematics Formula Rug for Classroom Playroom and Study Area,Custom Mathlife Classroom Rug with Hashtag Rules,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Math Formula Rug for Classroom and Playroom,NONE_OR_NOT_OBSERVED,Custom Mathlife Classroom Rug with Hashtag Rules,SET,48,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Create a math learning area with a custom formula rug featuring educational patterns a velvet surface and non slip backing for classrooms and playrooms.,"Custom Mathlife classroom rug with colorful hashtag rules, black background and math-symbol border for school or playroom learning.",SET,131,custom Mathlife classroom rug,"math rules classroom rug, hashtag math rug, black educational floor mat","custom Mathlife classroom rug; math rules classroom rug, hashtag math rug, black educational floor mat",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL,"Marketplace and retail SERPs support custom golf rugs, 19th Hole golf rugs, golf welcome mats, math classroom rugs, math symbols rugs and math formula classroom rugs. B047 separates similar products by visible motif: patriotic golf flag, personalized Alex course rug, minimalist William golf club rug, Steven's 19th Hole quote rug, MATH acronym classroom rug, Math Symbols rug, #MATHLIFE rules rug, Good Day to Do Math rug, Why Math? concept rug and Math Key Words operations rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,custom Mathlife classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports black #MATHLIFE classroom rules rug with colorful hashtag prompts and product-level buyer intent.,B047-467-BR01,"B047 buyers include golf fans decorating offices, dens and simulator rooms, golf gift buyers, math teachers, homeschool families and elementary educators creating subject-specific learning areas.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This educational math classroom rug is designed to transform learning environments into dynamic, engaging spaces. Featuring bright colors and stimulating math formulas, it inspires young imaginations while helping to improve concentration. This high-quality carpet keeps feet warm and comfortable on chilly floor surfaces while adding a lovely decorative touch to any room.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Vibrant math theme designed with bright colors and engaging patterns to stimulate visual senses.</li>
+<li>Personalization options allow for custom color, size, and math theme selections.</li>
+<li>Soft velvet surface provides warmth and comfort on cold floors.</li>
+<li>Non-slip rubber backing ensures a safe and secure learning environment.</li>
+<li>Durable construction is stain-resistant, wear-resistant, and designed to withstand heavy classroom use.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Playroom, Classroom, Game Room, Bedroom, Hall, Study</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip, Stain Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Letter Print</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Math</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polyester, Velvet</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Spot Clean Only</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This educational carpet is perfectly suited for indoor school classrooms, learning centers, and children's playrooms. It also makes an excellent decorative and functional addition to a game room, study, or kid's bedroom.</p>",Make product copy motif-specific while retaining verified public claims only.,"Custom Mathlife classroom rug with colorful hashtag rules, black background and math-symbol border for school or playroom learning. Design details Black rug reading how to live the #mathlife with prompts like show your work, help each other and do your homework. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Custom Mathlife classroom rug with colorful hashtag rules, black background and math-symbol border for school or playroom learning.</p><h3>Design details</h3><ul><li>Black rug reading how to live the #mathlife with prompts like show your work, help each other and do your homework.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B047-467,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7bb6b41a8a881b175270685759d96f477ec498ed6c824967778296a052136aec.jpg?v=1784369818,,Top view of black How to Live the Mathlife rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4fdb9c04fa3bea68f989fa4585bc166fcd483e579f726f8de8f3d9770184b6d4.jpg?v=1784369818,,Classroom mockup with #MATHLIFE rules rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e3f24ee8c5606813d08458ff4ee84486d1bd8d6a48829f28615315035e9c10fe.jpg?v=1784369823,,Playroom mockup with colorful mathlife classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/99bcf6e5157fbf99eb569d96bdc7bea8b1285db4633fda17ac6a1dfe3a4321e9.jpg?v=1784369823,,Feature graphic showing thickness and bound edges,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d6f26056ae5a689cc02a9ba66b22e4dabe94b8c046fa0312c1abfd0ed23d0477.jpg?v=1784369828,,Children gathered near mathlife rug detail,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1bf9dcc9c864eaf3963f05e894f6abe9cc189d52896553566a830c517efdef98.jpg?v=1784369828,,Teacher and children sitting on black mathlife rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7f6de203c28b042b91872dbe95e44e8f63e7a688960a3c4b9afd6289732e7218.jpg?v=1784369833,,Isolated How to Live the #MATHLIFE rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B047,chillgen.com,custom-mathematics-classroom-rug-ec81d3501a,custom-mathematics-classroom-rug-ec81d3501a,15913233023345,gid://shopify/Product/15913233023345,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B047_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-classroom-rug-ec81d3501a.html,2026-09-07T05:19:13+07:00,en-US,US,https://chillgen.com/products/custom-mathematics-classroom-rug-ec81d3501a,https://chillgen.com/products/custom-mathematics-classroom-rug-ec81d3501a,Rug,Personalized Mathematics Area Rug for School Classroom and Playroom,Personalized Mathematics Area Rug for School Classroom and Playroom,Personalized Good Day to Do Math Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Math Classroom Rug for School Playroom,NONE_OR_NOT_OBSERVED,Personalized Good Day to Do Math Rug,SET,36,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Support daily learning with a personalized mathematics classroom rug featuring formulas a velvet surface and non slip backing for school and play spaces.,"Personalized Good Day to Do Math rug with pastel shapes, formulas and chalkboard-style icons for classroom or playroom floors.",SET,126,personalized Good Day to Do Math rug,"math classroom area rug, pastel formula floor mat, kids math learning rug","personalized Good Day to Do Math rug; math classroom area rug, pastel formula floor mat, kids math learning rug",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL,"Marketplace and retail SERPs support custom golf rugs, 19th Hole golf rugs, golf welcome mats, math classroom rugs, math symbols rugs and math formula classroom rugs. B047 separates similar products by visible motif: patriotic golf flag, personalized Alex course rug, minimalist William golf club rug, Steven's 19th Hole quote rug, MATH acronym classroom rug, Math Symbols rug, #MATHLIFE rules rug, Good Day to Do Math rug, Why Math? concept rug and Math Key Words operations rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized Good Day to Do Math rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports black good day to do math rug with pastel shapes and formulas and product-level buyer intent.,B047-468-BR01,"B047 buyers include golf fans decorating offices, dens and simulator rooms, golf gift buyers, math teachers, homeschool families and elementary educators creating subject-specific learning areas.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This educational classroom rug is designed to transform learning environments into dynamic and visually stimulating spaces. Featuring bright colors and engaging math formulas, it stimulates students' visual senses to help improve concentration and enthusiasm for mathematics. It provides a comfortable and decorated space that makes learning fun, inspiring young imaginations while keeping feet warm on chilly floors.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Vibrant math theme designed to stimulate visual senses and improve student concentration.</li>
+<li>Personalized options available to match your specific educational needs and classroom aesthetics.</li>
+<li>Premium velvet surface offers a soft, warm, and comfortable feel underfoot.</li>
+<li>Equipped with an anti-slip rubber backing to ensure a safe learning space for children.</li>
+<li>Highly durable, wear-resistant, and designed to withstand the energy of eager learners.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Playroom, Classroom, Game Room, Bedroom, Hall, Study</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Resistant</td>
+</tr>
+<li>Is Stain Resistant</li>
+<td>Yes</td>
+<tr>
+<td>Special Features</td>
+<td>Non Slip, No Tears, No Shedding, Fade Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Letter Print</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Math</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polyester - Velvet</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Spot Clean Only, Easy to Clean and Maintain</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This versatile area rug is perfectly suited for indoor educational environments and children's spaces. It fits beautifully in classrooms, playrooms, game rooms, studies, and children's bedrooms to support both active play and learning.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalized Good Day to Do Math rug with pastel shapes, formulas and chalkboard-style icons for classroom or playroom floors. Design details Black rug with it is a good day to do math text, pastel geometry shapes, calculators, formulas and pencil border. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalized Good Day to Do Math rug with pastel shapes, formulas and chalkboard-style icons for classroom or playroom floors.</p><h3>Design details</h3><ul><li>Black rug with it is a good day to do math text, pastel geometry shapes, calculators, formulas and pencil border.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B047-468,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a4a464870c5cd43b2350a8cfbd54b6d4fa185f35872672bff8e1d13ffd45ee8a.jpg?v=1784369797,,Top view of Good Day to Do Math rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8b932d6dec48ee8fc379f080b82c46c67dfd88e29284c0729b9a1146e68f8158.jpg?v=1784369800,,Classroom mockup with black pastel math rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f3b197eb8600dce0227315039df1db56a25b8d715776cbfcfda62abf693c3104.jpg?v=1784369802,,Playroom mockup with good day math rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8f3426c67344af1005c550b5e1bb76b702f4c4bca7fd16d80d0df19c35a33f88.jpg?v=1784369805,,Feature graphic showing thickness and learning pattern,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8c12e07523745d4cddb6ae2f24ff46c9b71496fd7c744ca66583b3940f5f0ab4.jpg?v=1784369808,,Teacher and children on math classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b9b9a4ab6753fd4d3f3db47964120679c9ed4a16520fc4e42f74cbd79dd125f7.jpg?v=1784369813,,Children sitting near good day to do math rug details,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ffaeabe4f23c8006a7d8b692226d8097eceb16669692e3ec3d6c1acfb3d04e82.jpg?v=1784369812,,Isolated pastel math classroom rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B047,chillgen.com,custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95,custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95,15913233383793,gid://shopify/Product/15913233383793,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B047_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95.html,2026-09-07T05:19:13+07:00,en-US,US,https://chillgen.com/products/custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95,https://chillgen.com/products/custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95,Rug,Custom Math Education Welcome Mat with Formulas for Classroom Entryway,Custom Math Education Welcome Mat with Formulas for Classroom Entryway,Custom Why Math Classroom Rug with Teacher Name,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Math Education Welcome Mat for Classroom Entryway,NONE_OR_NOT_OBSERVED,Custom Why Math Classroom Rug with Teacher Name,SET,47,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Welcome students with a custom math education mat featuring formulas a low pile surface and non slip backing for classroom entrances and study areas.,"Custom Why Math classroom rug with teacher name, colorful concept blocks and problem-solving prompts for classroom entryways.",SET,125,custom Why Math classroom rug,"math education welcome mat, personalized math teacher rug, problem solving classroom mat","custom Why Math classroom rug; math education welcome mat, personalized math teacher rug, problem solving classroom mat",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL,"Marketplace and retail SERPs support custom golf rugs, 19th Hole golf rugs, golf welcome mats, math classroom rugs, math symbols rugs and math formula classroom rugs. B047 separates similar products by visible motif: patriotic golf flag, personalized Alex course rug, minimalist William golf club rug, Steven's 19th Hole quote rug, MATH acronym classroom rug, Math Symbols rug, #MATHLIFE rules rug, Good Day to Do Math rug, Why Math? concept rug and Math Key Words operations rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,custom Why Math classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports black Why Math classroom rug with colorful concept blocks and product-level buyer intent.,B047-469-BR01,"B047 buyers include golf fans decorating offices, dens and simulator rooms, golf gift buyers, math teachers, homeschool families and elementary educators creating subject-specific learning areas.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This educational mathematics rug transforms any learning space into a dynamic and engaging environment. Featuring vibrant colors and math-themed patterns, it is designed to stimulate visual senses and inspire young imaginations. The soft surface keeps feet warm on cold floors while adding a beautiful decorative touch to the room.</p><h3>Product Highlights</h3><ul>
+<li>Math-themed design with school formulas to support educational learning</li>
+<li>Personalized options available for colors, sizes, and math themes</li>
+<li>Soft premium feel that keeps feet warm and comfortable on chilly floors</li>
+<li>Anti-slip backing ensuring a stable and safe learning space</li>
+<li>Durable, wear-resistant, and stain-resistant construction for easy maintenance</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Playroom, Classroom, Bedroom, Study, Hall</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip, Stain Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Letter Print</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Math</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polyester, Velvet</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Spot Clean Only</td>
+</tr>
+</table><h3>Where It Works</h3><p>This educational rug is perfectly suited for school classrooms, playrooms, children's bedrooms, and study areas. It serves as an excellent decorative and functional piece for math teachers and young learners alike.</p>",Make product copy motif-specific while retaining verified public claims only.,"Custom Why Math classroom rug with teacher name, colorful concept blocks and problem-solving prompts for classroom entryways. Design details Black rug reading why math? with blocks explaining perseverance, visual numbers, deeper thinking, problem solving and reasoning. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Custom Why Math classroom rug with teacher name, colorful concept blocks and problem-solving prompts for classroom entryways.</p><h3>Design details</h3><ul><li>Black rug reading why math? with blocks explaining perseverance, visual numbers, deeper thinking, problem solving and reasoning.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B047-469,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a61abdfe6757e3b8e70c6c4c0e14acb72ceaa79a63dc3965fceefe1075821db5.jpg?v=1784369778,,Top view of Why Math classroom rug with teacher name,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ebc01fa71d0f83244fac265f792e40328dddab2b4a8ed67d1d0f1af458d883d8.jpg?v=1784369781,,Classroom mockup with Why Math concept rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/817b2542a915a311fad92e2e2efafd46d0ab8a08fdfc8687a8d789b2438ba1fd.jpg?v=1784369784,,Feature graphic showing bound edges and learning pattern,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/31d98212ba492366f47b517e72d71c992c492d88f09633be1c4d17b75a4e2cc1.jpg?v=1784369787,,Playroom mockup with black Why Math rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d4436f530ff04e6f6fb57bbc456985fe96cb1cd5e143fea02c3261baba7b0d82.jpg?v=1784369789,,Children gathered near Why Math rug detail,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e7b8c16c5510cbcc336a69c11fc7bffd2f4211f7d7d26743801f61786f0b4123.jpg?v=1784369792,,Teacher and children on black math education rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c148f6596f1c6b435fa12a4dfa9f9505f1899fef75bc5bbc43b9d303198c5b30.jpg?v=1784369795,,Isolated Why Math classroom rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B047,chillgen.com,custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02,custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02,15913233711473,gid://shopify/Product/15913233711473,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B047_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02.html,2026-09-07T05:19:13+07:00,en-US,US,https://chillgen.com/products/custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02,https://chillgen.com/products/custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02,Rug,Personalized Math Learning Area Rug for Classroom and Study Space,Personalized Math Learning Area Rug for Classroom and Study Space,Personalized Math Key Words Classroom Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Math Learning Rug for Classroom Study Space,NONE_OR_NOT_OBSERVED,Personalized Math Key Words Classroom Rug,SET,41,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Create a comfortable math zone with a personalized learning rug featuring formulas a velvet feel and non slip backing for classrooms and study areas.,"Personalized Math Key Words classroom rug with operation vocabulary for addition, subtraction, multiplication and division learning.",SET,132,personalized Math Key Words rug,"math vocabulary classroom rug, operations learning mat, math key words floor rug","personalized Math Key Words rug; math vocabulary classroom rug, operations learning mat, math key words floor rug",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL,"Marketplace and retail SERPs support custom golf rugs, 19th Hole golf rugs, golf welcome mats, math classroom rugs, math symbols rugs and math formula classroom rugs. B047 separates similar products by visible motif: patriotic golf flag, personalized Alex course rug, minimalist William golf club rug, Steven's 19th Hole quote rug, MATH acronym classroom rug, Math Symbols rug, #MATHLIFE rules rug, Good Day to Do Math rug, Why Math? concept rug and Math Key Words operations rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized Math Key Words rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports cream Math Key Words classroom rug with operation vocabulary and product-level buyer intent.,B047-470-BR01,"B047 buyers include golf fans decorating offices, dens and simulator rooms, golf gift buyers, math teachers, homeschool families and elementary educators creating subject-specific learning areas.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This educational learning rug features bright colors and engaging math formulas designed to stimulate visual senses and inspire young imaginations. It provides a warm, comfortable barrier on chilly floor surfaces while serving as a beautiful decorative touch. Perfect for helping youngsters play, have fun, and learn all at once, this flat-woven carpet is designed to withstand daily activity.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Vibrant mathematics formulas and educational themes designed to improve concentration.</li>
+<li>Personalized options for colors, sizes, and math themes to match your aesthetic.</li>
+<li>Premium velvet feel that keeps feet warm and comfortable on cold floors.</li>
+<li>Equipped with an anti-slip backing to ensure a safe learning and playing space.</li>
+<li>Stain-resistant, easy-to-clean construction that resists spills and marker marks.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Playroom</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip, Stain Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Letter Print</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Math</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polyester</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Premium Velvet</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Spot Clean Only</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This versatile area rug is ideally suited for educational environments and kids' spaces. Enhance the decor of your playroom, classroom, children's bedroom, study, or game room with this engaging learning tool.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalized Math Key Words classroom rug with operation vocabulary for addition, subtraction, multiplication and division learning. Design details Cream rug reading math key words with colored operation boxes for addition, subtraction, multiplication and division vocabulary. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalized Math Key Words classroom rug with operation vocabulary for addition, subtraction, multiplication and division learning.</p><h3>Design details</h3><ul><li>Cream rug reading math key words with colored operation boxes for addition, subtraction, multiplication and division vocabulary.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B047-470,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ddf6f10d0c93e11f5cb29848907a43c0b0b0f1600eb738b13d2ed4ef39278696.jpg?v=1784369760,,Top view of cream Math Key Words classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/83c393d511e9d364ca74b9f361423289c51e653af8e0f2154f65f1a3348afc4e.jpg?v=1784369762,,Classroom mockup with math vocabulary rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ebc29e414f56da8f51fbab9cdb198b7d03e77c75a5c428216dca8c2a121dbb33.jpg?v=1784369765,,Feature graphic showing bound edges thickness and learning patterns,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/706aa2491724f8a3a52c17deefe2d33e3d8158f870c54900214a19fb4c29a607.jpg?v=1784369767,,Playroom mockup with Math Key Words rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/70755ff3d002fd25897d4f705564dc253a54c5b81a076e744980840125941baf.jpg?v=1784369770,,Children sitting near math key words rug detail,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/302ad2e49480686d6ca0513b123fd484f924e0e24c59c7537ef8be328d89f857.jpg?v=1784369772,,Teacher and children on cream math vocabulary rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/416f7ddada8fd4f91985e03bd7a6e347e466698872df692f866cf5493ef726ba.jpg?v=1784369776,,Isolated Math Key Words classroom rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

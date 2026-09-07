@@ -1,0 +1,811 @@
+schema_version,prompt_version,run_id,batch_id,shop_domain,product_key,Handle,product_id,product_gid,identity_status,source_export_ref,source_exported_at,locale,market,url,canonical_url,product_type,title_current,h1_current,title_proposed,title_action,h1_mapping_status,meta_title_current,meta_title_source_state,rendered_title_current,theme_title_suffix,meta_title_seo,meta_title_action,meta_title_chars,meta_description_current,meta_description_source_state,rendered_meta_description_current,meta_description_seo,meta_description_action,meta_description_chars,primary_keyword,secondary_keywords,long_tail_candidates,keyword_strategy,season,keyword_demand_evidence,keyword_serp_fit,meta_keyword,search_intent,keyword_validation_status,keyword_selection_reason,buyer_research_refs,buyer_search_summary,baseline_status,change_scope,mapping_status,mapping_version,description_current_html,description_changes_needed,description_proposed,description_proposed_html,description_change_mode,description_target_section,description_action,revision,review_status,review_reason,approved_by,approved_at,approved_fields,approved_revision,processing_status,evidence_status,content_qa_status,field_evidence_map,evidence_id,issues,img_1_link,img_1_alt_current,img_1_alt,img_1_alt_action,img_2_link,img_2_alt_current,img_2_alt,img_2_alt_action,img_3_link,img_3_alt_current,img_3_alt,img_3_alt_action,img_4_link,img_4_alt_current,img_4_alt,img_4_alt_action,img_5_link,img_5_alt_current,img_5_alt,img_5_alt_action,img_6_link,img_6_alt_current,img_6_alt,img_6_alt_action,img_7_link,img_7_alt_current,img_7_alt,img_7_alt_action,img_8_link,img_8_alt_current,img_8_alt,img_8_alt_action,img_9_link,img_9_alt_current,img_9_alt,img_9_alt_action,img_10_link,img_10_alt_current,img_10_alt,img_10_alt_action,img_11_link,img_11_alt_current,img_11_alt,img_11_alt_action,img_12_link,img_12_alt_current,img_12_alt,img_12_alt_action,img_13_link,img_13_alt_current,img_13_alt,img_13_alt_action,img_14_link,img_14_alt_current,img_14_alt,img_14_alt_action,img_15_link,img_15_alt_current,img_15_alt,img_15_alt_action,img_16_link,img_16_alt_current,img_16_alt,img_16_alt_action,img_17_link,img_17_alt_current,img_17_alt,img_17_alt_action,img_18_link,img_18_alt_current,img_18_alt,img_18_alt_action,img_19_link,img_19_alt_current,img_19_alt,img_19_alt_action
+2.4,2.4,chillgen_20260907_01,B024,chillgen.com,personalized-christmas-doormat-d7f77b93a8-d7f77b93a8,personalized-christmas-doormat-d7f77b93a8-d7f77b93a8,15912100331889,gid://shopify/Product/15912100331889,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B024_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B024_pages/personalized-christmas-doormat-d7f77b93a8-d7f77b93a8.html,2026-09-07T03:30:04+07:00,en-US,US,https://chillgen.com/products/personalized-christmas-doormat-d7f77b93a8-d7f77b93a8,https://chillgen.com/products/personalized-christmas-doormat-d7f77b93a8-d7f77b93a8,Rug,Personalized Santa Letter Christmas Doormat with Family Name for Front Door,Personalized Santa Letter Christmas Doormat with Family Name for Front Door,Santa Letter Christmas Doormat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Santa Letter Christmas Doormat with Family Name,NONE_OR_NOT_OBSERVED,Santa Letter Christmas Doormat,SET,30,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Welcome family and friends with a personalized Santa letter Christmas doormat featuring your family name, a soft fabric top, and non slip backing.","Personalize a Santa letter Christmas doormat with family name, delivery text, Santa graphics, candy cane border and non-slip backing visuals.",SET,141,Santa letter Christmas doormat,"personalized Christmas doormat, family name holiday mat, letter to Santa doormat","Santa letter Christmas doormat; personalized Christmas doormat, family name holiday mat, letter to Santa doormat",LONG_TAIL_CANDIDATE,CHRISTMAS,"Search evidence supports personalized Santa letter doormats, classroom reading rugs, reading corner carpets, library rugs for schools, and personalized vintage baseball rugs. B024 keeps keywords motif-specific while matching gift, classroom, library, playroom and sports-room intent.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,Santa letter Christmas doormat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports Santa letter Christmas doormat and product-level buyer intent.,B024-231-BR01,"B024 buyers include holiday shoppers personalizing a Santa letter entry mat, teachers building a cozy reading corner, librarians decorating story-time spaces, parents furnishing kids rooms, and baseball families buying custom sports room rugs.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Create a warm and festive entryway this holiday season with our personalized Christmas doormat. Designed to welcome family and friends with holiday cheer, this mat features bright and warm colors that instantly bring a festive spirit to your home. It provides a soft feel on bare feet while offering a durable construction that handles daily foot traffic.</p><h3>Product Highlights</h3><ul>
+<li>Festive Christmas theme featuring warm colors and customizable greeting options.</li>
+<li>Soft touching on bare feet for comfort.</li>
+<li>Durable, heat-resistant non-woven fabric top with a non-slip backing.</li>
+<li>Stain resistant and water repellent design to withstand the elements.</li>
+<li>Easy to clean using a wet sponge, towel, and mild detergent.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Repellent</td>
+</tr>
+<tr>
+<td>Is Stain Resistant</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Gingerbread, Stocking, Dog, Cat, Letter</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Christmas, Personalized</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>Christmas</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>High-quality Epoxy</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Polyester with neoprene rubber non-slip backing</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Washable, or clean with wet sponge/towel and mild detergent</td>
+</tr>
+</table><h3>Where It Works</h3><p>This festive mat is suitable for placing on front and back doors, terraces, porches, balconies, garages, and entryways. It also works beautifully inside your kitchen, bedroom, bathroom, living room, or office to spread seasonal cheer.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalize a Santa letter Christmas doormat with family name, delivery text, Santa graphics, candy cane border and non-slip backing visuals. Design details Cream santa letter style christmas doormat with merry christmas script, santa on bicycle, elves, reindeer, presents, delivery text, custom name nova, delivered by santa claus, candy cane striped border, entryway scenes and non-skid rubber backing panel. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalize a Santa letter Christmas doormat with family name, delivery text, Santa graphics, candy cane border and non-slip backing visuals.</p><h3>Design details</h3><ul><li>Cream santa letter style christmas doormat with merry christmas script, santa on bicycle, elves, reindeer, presents, delivery text, custom name nova, delivered by santa claus, candy cane striped border, entryway scenes and non-skid rubber backing panel.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B024-231,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/85171ecb750251349a0a7217d8aa33edb4f5d516e1f126dadf8f44984dd3410e.jpg?v=1784382904,,Santa letter Christmas doormat by white door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fbb11db3c2e5fc5325b5ca4a73d558a69c3520e03a85370b438c6e2aff18f025.jpg?v=1784382905,,personalized Santa letter mat held by person,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b44b72efbaf63f84ea0175975c5cffea5155551293ec86b04b61f2d98cf869e6.jpg?v=1784382909,,Santa letter doormat on snowy entry floor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e47d051b485daa5827bc6cf6578ba62f7c24fd5e31f7c63074e1385ccf0d3aa7.jpg?v=1784382910,,family name Santa letter mat at front door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/573a5a255160da9b2058c332d760284301d8e6e47ddb7761608d58f5a982d316.jpg?v=1784382916,,Santa letter mat on wood floor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/56bb50d3666a2d51326975e5e85587154a5a27a26957164f8737d6d93f7ea91a.jpg?v=1784382915,,angled Santa letter Christmas mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/762e1fd0f2fb4242467794cb155dca456f2ecc91d9400e3d4f185bdbd94cfaa1.jpg?v=1784382920,,Santa letter doormat with dark door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6f4716af2461bff60434e04528f21412f68db51da4b322068c73fe4cf838d5da.jpg?v=1784382921,,non-skid backing detail for Christmas mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c67409b1ef5f99e1986ce8839a76b04121f2eb4586eb2b9b4ec4f5742a7fd4fa.jpg?v=1784382928,,Santa letter doormat product view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/256a1031685fca631aa50f368f413d8098af747536f2ccf8273558b6d3955cc6.jpg?v=1784378200,,Christmas Santa delivery doormat by wreath,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f267db1a8e360986984b7c1e1d50c9c3e870ff98accc339723168ecc00ea7092.jpg?v=1784378020,,custom name Santa letter doormat display,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b73286a2d74a06fdc11a154aa74b8d48f9976b06a3792fe592e8a30bbb584325.jpg?v=1784378025,,Santa letter mat in holiday entryway,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e8b0ae604e60ccbbbcef369bb9e5c793d088ccfeccf9c895ad1c4345c2ac5b47.jpg?v=1784378026,,personalized Christmas letter mat on rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f76760d81400130d74a9bbc3cd801366878196eaf622c31bce702341ecd63c58.jpg?v=1784378030,,Santa letter mat overhead on wood floor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/10dd333608cb6cfe69aa2c41d6ec62f35061e4d5812bb54ed338ebaac6f370d2.jpg?v=1784378031,,angled candy cane border doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/85c9bc7756de00ac06a0cadfba474cfd829f0bd50a90b2783fc0bc62692c7cc4.jpg?v=1784378036,,holiday Santa doormat by dark wood door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6609aac8ee8cd7ededde800337a30ae53f7a03696bd11c06b24f18f4f514be8a.jpg?v=1784378036,,rubber backing and thickness detail,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/34fa98ceffd41a681cd2c3ddb31b613247719e9b19fc6212845a58dd814400ab.jpg?v=1784378043,,letter to Santa Christmas doormat flat view,SET,,,,
+2.4,2.4,chillgen_20260907_01,B024,chillgen.com,custom-kids-read-book-rug-classroom-library-eaedf8485b,custom-kids-read-book-rug-classroom-library-eaedf8485b,15913270182257,gid://shopify/Product/15913270182257,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B024_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B024_pages/custom-kids-read-book-rug-classroom-library-eaedf8485b.html,2026-09-07T03:30:04+07:00,en-US,US,https://chillgen.com/products/custom-kids-read-book-rug-classroom-library-eaedf8485b,https://chillgen.com/products/custom-kids-read-book-rug-classroom-library-eaedf8485b,Rug,Custom Kids Reading Rug with Name for Classroom Library and Story Time,Custom Kids Reading Rug with Name for Classroom Library and Story Time,Kids Read Books Classroom Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Kids Reading Rug with Name for Classroom Library,NONE_OR_NOT_OBSERVED,Kids Read Books Classroom Rug,SET,29,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalize a reading rug with a name or classroom title to create a washable story time space for school libraries reading nooks and home study areas.,"Create a cheerful kids read books classroom rug with colorful book characters, soft microfiber surface, anti-slip backing and library mockups.",SET,142,kids read books classroom rug,"classroom reading rug, library story time rug, kids book rug","kids read books classroom rug; classroom reading rug, library story time rug, kids book rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Search evidence supports personalized Santa letter doormats, classroom reading rugs, reading corner carpets, library rugs for schools, and personalized vintage baseball rugs. B024 keeps keywords motif-specific while matching gift, classroom, library, playroom and sports-room intent.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,kids read books classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports kids read books classroom rug and product-level buyer intent.,B024-232-BR01,"B024 buyers include holiday shoppers personalizing a Santa letter entry mat, teachers building a cozy reading corner, librarians decorating story-time spaces, parents furnishing kids rooms, and baseball families buying custom sports room rugs.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This custom educational rug makes an excellent functional and decorative addition to any learning space. Featuring a playful reading theme, it is designed to encourage children to dive into the world of books while providing a cozy spot for story time. It is a perfect choice for inspiring the next generation of readers and creators.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Features a charming library and book-inspired design to encourage reading.</li>
+<li>Supports personalization to customize with names or specific classroom titles.</li>
+<li>Soft and comfortable memory foam feel, perfect for kids to sit on while studying.</li>
+<li>Equipped with a durable rubber backing and washable construction.</li>
+<li>Highly versatile and suitable for classrooms, reading nooks, or home study spaces.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Classroom, Living Room, Study Room</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Not Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Book, Cat</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Reading, Library</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This decorative carpet fits beautifully in classrooms, reading nooks, and school libraries. It also makes a wonderful addition to a child's bedroom, playroom, or home study area to spark a love for learning.</p>",Make product copy motif-specific while retaining verified public claims only.,"Create a cheerful kids read books classroom rug with colorful book characters, soft microfiber surface, anti-slip backing and library mockups. Design details Cream classroom rug with cool kids and read books text, smiling colorful book characters, classroom/playroom mockups, quick-dry microfiber surface, memory foam cushion, anti-slip backing, stain and fade resistance graphic. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Create a cheerful kids read books classroom rug with colorful book characters, soft microfiber surface, anti-slip backing and library mockups.</p><h3>Design details</h3><ul><li>Cream classroom rug with cool kids and read books text, smiling colorful book characters, classroom/playroom mockups, quick-dry microfiber surface, memory foam cushion, anti-slip backing, stain and fade resistance graphic.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B024-232,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c1bed78905e9432ac1e7c8387c39e06e8f28084977728c3829a6365224668252.jpg?v=1784369630,,kids read books classroom rug in playroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b6423fa9cfb94c367eadc1c361a41476b4eff1d5afc56f2815753fb913ad3b06.jpg?v=1784369630,,read books rug flat product view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f793b0e76356ab17fa9ac04f0ba38d29abf4681a35af67d641b5f50d76842601.jpg?v=1784369635,,backing and surface detail for book rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d3b9450171c764fe604ec21c520c6f982bdf9b081147114ab0f63cc22757af49.jpg?v=1784369635,,microfiber cushion closeup for reading rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c8c5b6d8eae444d5c04ee9a65c95b518c24193ba78338a5d805081f629cf360a.jpg?v=1784369641,,book character rug design detail,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e5683b4c5dbc170024cf87d4f32b97737a24d8e871d2722aa97fd6910bb6fe7f.jpg?v=1784369641,,read books rug in bright playroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/70244edd8ec4be03fff13f9ee4cfcc17acb9895257ad5a418c279cc2c4156185.jpg?v=1784369646,,teacher reading with children on rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/49f7cc28786a77b6197c55db66e897fcfddf5c872daea4aaa0edbe577f20d54b.jpg?v=1784369646,,classroom library rug room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c0c9fdd10d85a63d27163f50206e9457a17d125913a543d9ae04070dbdc9daac.jpg?v=1784369652,,anti-slip backing panel for reading rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B024,chillgen.com,custom-reading-corner-classroom-library-mat-40b8909d74-40b8909d74,custom-reading-corner-classroom-library-mat-40b8909d74-40b8909d74,15913271689585,gid://shopify/Product/15913271689585,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B024_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B024_pages/custom-reading-corner-classroom-library-mat-40b8909d74-40b8909d74.html,2026-09-07T03:30:04+07:00,en-US,US,https://chillgen.com/products/custom-reading-corner-classroom-library-mat-40b8909d74-40b8909d74,https://chillgen.com/products/custom-reading-corner-classroom-library-mat-40b8909d74-40b8909d74,Rug,Reading Corner Rug with Custom Name for Classroom Library and Study Space,Reading Corner Rug with Custom Name for Classroom Library and Study Space,Colorful Reading Corner Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Reading Corner Rug for Classroom Library Space,NONE_OR_NOT_OBSERVED,Colorful Reading Corner Rug,SET,27,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Create an inviting reading area with a custom reading corner rug featuring motivational details and soft surface for classrooms libraries and study rooms.,"Brighten a classroom with a colorful reading corner rug featuring pencil border, paper airplanes, book graphics, size options and washable visuals.",SET,147,colorful reading corner rug,"classroom library rug, personalized reading rug, reading nook carpet","colorful reading corner rug; classroom library rug, personalized reading rug, reading nook carpet",LONG_TAIL_CANDIDATE,EVERGREEN,"Search evidence supports personalized Santa letter doormats, classroom reading rugs, reading corner carpets, library rugs for schools, and personalized vintage baseball rugs. B024 keeps keywords motif-specific while matching gift, classroom, library, playroom and sports-room intent.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,colorful reading corner rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports reading corner classroom rug and product-level buyer intent.,B024-233-BR01,"B024 buyers include holiday shoppers personalizing a Santa letter entry mat, teachers building a cozy reading corner, librarians decorating story-time spaces, parents furnishing kids rooms, and baseball families buying custom sports room rugs.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This custom reading corner rug is a wonderful addition to any classroom, school library, or home study space. Designed with an educational and warm theme, it creates a cozy, inviting atmosphere that encourages children to explore the world of books. It serves as both a beautiful decorative piece and a comfortable floor mat for daily learning and story time.</p><h3>Product Highlights</h3><ul>
+<li>Features a motivational and educational reading-themed design.</li>
+<li>Supports personalization with custom text to fit your classroom or library.</li>
+<li>Soft and comfortable memory foam feel, gentle on children's feet.</li>
+<li>Equipped with a durable rubber backing for stability.</li>
+<li>Easy to clean and maintain for frequent, daily classroom use.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Classroom, Living Room, Study Room</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Not Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Book, Cat</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Reading, Library</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table><h3>Where It Works</h3><p>Perfect for classroom reading corners, elementary school libraries, playrooms, and children's bedrooms. This mat provides a dedicated space for cozy storytelling, quiet study sessions, and interactive group activities.</p>",Make product copy motif-specific while retaining verified public claims only.,"Brighten a classroom with a colorful reading corner rug featuring pencil border, paper airplanes, book graphics, size options and washable visuals. Design details Black reading rug with rainbow pencil border, colorful paper airplanes, open book graphic and text reading will take you everywhere, classroom circle-time mockups, size chart, material panel and machine washable graphic. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Brighten a classroom with a colorful reading corner rug featuring pencil border, paper airplanes, book graphics, size options and washable visuals.</p><h3>Design details</h3><ul><li>Black reading rug with rainbow pencil border, colorful paper airplanes, open book graphic and text reading will take you everywhere, classroom circle-time mockups, size chart, material panel and machine washable graphic.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B024-233,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1451b3a62fbeb503e93a265060bed26beba12f0859b9272664df771c74af2561.jpg?v=1784365160,,colorful reading corner rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7a8c4ae2a8429a2e38b35a2423bcb951e9f1ee8ebd1cb08b3c7486ccd581867e.jpg?v=1784365164,,reading rug size options chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/94ebce60d93e6d48be5b435de9bd28c4e8084b9e7159765b0d2d72d51c0416fb.jpg?v=1784365166,,children sitting on colorful reading rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4315b67b28f97b1c35d640a0effcd3ba7bb084e40f19dfa7c462822f6ebc105c.jpg?v=1784365170,,reading corner rug in library nook,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/99d5567357b7afdd168fc898ee4628f540afa5e960fa653cfc0b1c514434be01.jpg?v=1784365171,,paper airplane reading rug flat view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1a05ef75de3dd2712c607c9a233b5a443e5637f7a3e9cf14a935bba79dbe8d3d.jpg?v=1784365175,,material details for classroom reading rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2995e5ab2430fa858b7b1ea071ddc5c0d913dfd44dfc4a5f970687464de9139d.jpg?v=1784365177,,machine washable reading rug visual,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/dfbaa50c63cc7a9be8ed0eeb391809c0373fd558e5800a1f77800bd8d9d9be8e.jpg?v=1784365181,,reading rug in bright classroom,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B024,chillgen.com,custom-reading-classroom-library-rug-bdef6840ec-bdef6840ec,custom-reading-classroom-library-rug-bdef6840ec-bdef6840ec,15913272803697,gid://shopify/Product/15913272803697,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B024_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B024_pages/custom-reading-classroom-library-rug-bdef6840ec-bdef6840ec.html,2026-09-07T03:30:04+07:00,en-US,US,https://chillgen.com/products/custom-reading-classroom-library-rug-bdef6840ec-bdef6840ec,https://chillgen.com/products/custom-reading-classroom-library-rug-bdef6840ec-bdef6840ec,Rug,Floral Butterfly Reading Rug with Custom Name for Classroom Library,Floral Butterfly Reading Rug with Custom Name for Classroom Library,Reading Gives You Wings Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Floral Butterfly Reading Rug for Library Space,NONE_OR_NOT_OBSERVED,Reading Gives You Wings Rug,SET,27,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalize a floral butterfly reading rug with motivational book details and a soft memory foam surface for classrooms home libraries and reading nooks.,"Add a Reading Gives You Wings rug to a classroom or library with rainbow butterflies, book artwork, soft surface and learning-space mockups.",SET,140,Reading Gives You Wings rug,"classroom reading rug, butterfly library rug, kids reading corner mat","Reading Gives You Wings rug; classroom reading rug, butterfly library rug, kids reading corner mat",LONG_TAIL_CANDIDATE,EVERGREEN,"Search evidence supports personalized Santa letter doormats, classroom reading rugs, reading corner carpets, library rugs for schools, and personalized vintage baseball rugs. B024 keeps keywords motif-specific while matching gift, classroom, library, playroom and sports-room intent.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,Reading Gives You Wings rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports reading gives you wings rug and product-level buyer intent.,B024-234-BR01,"B024 buyers include holiday shoppers personalizing a Santa letter entry mat, teachers building a cozy reading corner, librarians decorating story-time spaces, parents furnishing kids rooms, and baseball families buying custom sports room rugs.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This custom reading rug makes an exceptional addition to any learning space, classroom, or home library. Featuring a beautiful floral butterfly design and motivational theme, it is designed to inspire young readers and create a cozy atmosphere. The soft, memory foam construction provides a comfortable spot for children to sit, read, and learn.</p><h3>Product Highlights</h3><ul>
+<li>Cozy reading-themed design featuring motivational text, books, and butterflies.</li>
+<li>Allows personalization with a custom text option for classroom or library names.</li>
+<li>Soft and comfortable memory foam fabric that is gentle on feet.</li>
+<li>Machine washable and easy to clean for high-traffic educational spaces.</li>
+<li>Versatile floor accent suitable for classrooms, playrooms, and bedrooms.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Classroom, Living Room, Study Room</td>
+</tr>
+<tr>
+<td>Water Resistance Level</td>
+<td>Not Water Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Book, Cat</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Reading, Library</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable</td>
+</tr>
+</table><h3>Where It Works</h3><p>Perfect for elementary classrooms, school libraries, kids' playrooms, and cozy reading nooks. It also adds a charming, educational touch to children's bedrooms and home study areas.</p>",Make product copy motif-specific while retaining verified public claims only.,"Add a Reading Gives You Wings rug to a classroom or library with rainbow butterflies, book artwork, soft surface and learning-space mockups. Design details Black classroom reading rug with reading gives you wings quote, rainbow butterfly pattern, open book with children, clouds and rainbow, playroom/classroom scenes, thickened cushion callout and group reading lifestyle images. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Add a Reading Gives You Wings rug to a classroom or library with rainbow butterflies, book artwork, soft surface and learning-space mockups.</p><h3>Design details</h3><ul><li>Black classroom reading rug with reading gives you wings quote, rainbow butterfly pattern, open book with children, clouds and rainbow, playroom/classroom scenes, thickened cushion callout and group reading lifestyle images.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B024-234,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/94c89005ca5e9681ba66484a8e99ea25996f9913475707322e6479acc4259fa6_0764ea15-46de-4a17-8889-232409d4bb49.jpg?v=1784365139,,Reading Gives You Wings rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f12f934bb3624eb02838f5fbbb48f669e566bf0454102b4eca984b7a6a07b449_218fd664-de74-4abf-ac32-0ab61fbfd02e.jpg?v=1784365142,,butterfly reading rug overhead view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2ea7efb2ac4c8e8ca8b5fd13fe2cda3abcc61708b032d1baab19b7defa3af09e_a4f5cd12-d235-423a-b98f-5302ad9479c8.jpg?v=1784365144,,reading quote rug in kids room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/73af5bd8d41ac6414d3998b7ca7c0cc3a2c064a05cdd8ba3d966d3b109edebfc_30c8a59b-b7e6-4208-84f2-1a8d2ab85677.jpg?v=1784365148,,thickened edge detail for reading rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7f9ed089fe8166080fcf04561bad82c1623263a63bf23e2a9273660f9a110ee7_63140f50-3f8d-4d95-b108-f9837c6817fd.jpg?v=1784365150,,children reading on classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/510ff8b87e6ecfe1c0aba732d69050cbafcc9b537ca15e4fb11613abd2067a0a_f8458d73-52db-478d-aaea-47750e1a06c2.jpg?v=1784365153,,kids sitting on Reading Gives You Wings rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1f451d9b37190fa9cf9bb15ed6f2de1c73b96230e8b8a2197e9b46055d33f736_2151f050-7f1c-42cd-b45c-8ce6541dc46c.jpg?v=1784365155,,butterfly reading rug flat product view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ca21eee2b487dfc16f970e718ddc6907794eaf129159220894b69b37d917cf96_6b25df3b-d551-4876-808e-91e055e6dc2d.jpg?v=1784365158,,classroom reading rug angled view,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B024,chillgen.com,custom-classroom-library-reading-rug-9121bf7e9f-9121bf7e9f,custom-classroom-library-reading-rug-9121bf7e9f-9121bf7e9f,15913274048881,gid://shopify/Product/15913274048881,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B024_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B024_pages/custom-classroom-library-reading-rug-9121bf7e9f-9121bf7e9f.html,2026-09-07T03:30:04+07:00,en-US,US,https://chillgen.com/products/custom-classroom-library-reading-rug-9121bf7e9f-9121bf7e9f,https://chillgen.com/products/custom-classroom-library-reading-rug-9121bf7e9f-9121bf7e9f,Rug,Book and Cat Reading Rug with Custom Name for Classroom Library Space,Book and Cat Reading Rug with Custom Name for Classroom Library Space,Reader Leader Classroom Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Book and Cat Reading Rug for Classroom Library,NONE_OR_NOT_OBSERVED,Reader Leader Classroom Rug,SET,27,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Add custom text to this book and cat reading rug with an inspiring library theme and a soft surface for classrooms reading nooks and study spaces.,"Design a reader leader classroom rug with bookshelf artwork, Today a Reader quote, soft backing details, size chart and library mockups.",SET,136,reader leader classroom rug,"custom classroom library rug, teacher reading rug, bookshelf reading mat","reader leader classroom rug; custom classroom library rug, teacher reading rug, bookshelf reading mat",LONG_TAIL_CANDIDATE,EVERGREEN,"Search evidence supports personalized Santa letter doormats, classroom reading rugs, reading corner carpets, library rugs for schools, and personalized vintage baseball rugs. B024 keeps keywords motif-specific while matching gift, classroom, library, playroom and sports-room intent.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,reader leader classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports reader leader classroom rug and product-level buyer intent.,B024-235-BR01,"B024 buyers include holiday shoppers personalizing a Santa letter entry mat, teachers building a cozy reading corner, librarians decorating story-time spaces, parents furnishing kids rooms, and baseball families buying custom sports room rugs.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Create an inviting and inspiring space for young minds with this custom classroom library rug. Designed featuring a motivational educational theme, this carpet serves as both a functional and decorative piece that is perfect for encouraging children to dive into the world of books. It offers a soft and cozy surface, making it an excellent addition to any reading nook, learning area, or study space.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Inspiring reading and library theme featuring book and cat patterns.</li>
+<li>Supports custom text input for a personalized classroom or library touch.</li>
+<li>Soft and comfortable memory foam fabric that is gentle on feet for sitting and studying.</li>
+<li>Durable construction that is easy to maintain and keep fresh.</li>
+<li>Versatile design ideal for teachers, classrooms, and reading nooks.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Classroom, Living Room, Study Room</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Not Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Book, Cat</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Reading, Library</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This comfortable memory foam rug perfectly fits into classrooms, school libraries, playrooms, and children's bedrooms. It creates a cozy and defined space in reading nooks, study rooms, or any learning environment to inspire young readers.</p>",Make product copy motif-specific while retaining verified public claims only.,"Design a reader leader classroom rug with bookshelf artwork, Today a Reader quote, soft backing details, size chart and library mockups. Design details Black bookshelf style classroom rug with today a reader tomorrow a leader quote, pastel books, bow, pencil cup, apple, classroom group scenes, size chart, non-slip backing and reinforced edge material panel. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Design a reader leader classroom rug with bookshelf artwork, Today a Reader quote, soft backing details, size chart and library mockups.</p><h3>Design details</h3><ul><li>Black bookshelf style classroom rug with today a reader tomorrow a leader quote, pastel books, bow, pencil cup, apple, classroom group scenes, size chart, non-slip backing and reinforced edge material panel.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B024-235,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/44b08834a875555ac8a996e3b34040cc352261e0aea8e2dc5635525efdae698c_aa7c29ee-c4a1-49e8-adaf-5a017231aec9.jpg?v=1784365117,,reader leader classroom rug in library corner,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4de816256325e6d7b31d5cbe046ba7509460874c77cd309d7cde73e553e603cb_e25963bf-9f27-4eb8-b029-c4fa8ce9e9a9.jpg?v=1784365120,,reader leader rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d1b82d919b7c975958f1a2718a85b84de270012798c416f0442271a0a1b0de46_16d1b1c2-6ceb-4e0c-bf95-ef8c8ee21174.jpg?v=1784365122,,bookshelf reading rug overhead view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b2796fc6a25dba88636c16c9b44699f6d683add1952b313228490a3c9703f798_659e4457-a11a-4010-867e-5848e38109e3.jpg?v=1784365126,,reader leader rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fa3e9b93ef415f62f99a6fb3d30788c4f1eb27082328c47eec2bd9ded1fa0811_1ea0f1af-fe36-4bcd-b611-61e20d977345.jpg?v=1784365128,,material details for bookshelf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/366cc1984030e0b0d826758a0a6e83b991cad7f2b3275f0e1f118c0b288ed001_d1aceb65-f764-4dc0-9d72-948aaddd0135.jpg?v=1784365132,,children gathered on classroom reading rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/465c99b653476646b4ab3ea7fa9939e20b1c564faf6e862a9f1cfe6fcae6505f_acd1073c-2cae-4219-9e71-9f0828807cb1.jpg?v=1784365133,,teacher reading with children on rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0661f04dbcc25d489994286f3b7ede118dad843ebd10f72c7cf15c39c8ba431e_0930ed4a-07ba-456d-a0e5-a841a8f62179.jpg?v=1784365137,,reader leader rug design details,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B024,chillgen.com,custom-family-name-welcome-doormat-front-door-6831756395-6831756395,custom-family-name-welcome-doormat-front-door-6831756395-6831756395,15913274966385,gid://shopify/Product/15913274966385,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B024_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B024_pages/custom-family-name-welcome-doormat-front-door-6831756395-6831756395.html,2026-09-07T03:30:04+07:00,en-US,US,https://chillgen.com/products/custom-family-name-welcome-doormat-front-door-6831756395-6831756395,https://chillgen.com/products/custom-family-name-welcome-doormat-front-door-6831756395-6831756395,Rug,A Good Day to Read Rug with Custom Name for Classroom Reading Nook,A Good Day to Read Rug with Custom Name for Classroom Reading Nook,Good Day To Read Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom A Good Day to Read Rug for Classroom Reading Nook,NONE_OR_NOT_OBSERVED,Good Day To Read Rug,SET,20,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Create a cozy reading space with an A Good Day to Read rug featuring custom text a book and cat design and a soft surface for classrooms and libraries.,"Make a cheerful reading nook with a Good Day To Read rug featuring floral letters, book graphic, soft microfiber surface and anti-slip backing.",SET,143,Good Day To Read rug,"classroom reading rug, floral library rug, reading nook mat","Good Day To Read rug; classroom reading rug, floral library rug, reading nook mat",LONG_TAIL_CANDIDATE,EVERGREEN,"Search evidence supports personalized Santa letter doormats, classroom reading rugs, reading corner carpets, library rugs for schools, and personalized vintage baseball rugs. B024 keeps keywords motif-specific while matching gift, classroom, library, playroom and sports-room intent.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,Good Day To Read rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports good day to read rug and product-level buyer intent.,B024-236-BR01,"B024 buyers include holiday shoppers personalizing a Santa letter entry mat, teachers building a cozy reading corner, librarians decorating story-time spaces, parents furnishing kids rooms, and baseball families buying custom sports room rugs.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This custom reading corner rug is a wonderful addition to any classroom, reading nook, or home library. Featuring a cozy design with a book and cat pattern, it offers a warm and inviting feel that encourages children to dive into the world of books. Perfect as a thoughtful gift for teachers, young readers, or students, this functional and decorative piece adds charm and motivation to any learning environment.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Customizable text option allows personalization for classrooms, libraries, or reading corners.</li>
+<li>Soft and comfortable memory foam fabric provides a gentle surface for children to sit on.</li>
+<li>Durable construction is easy to clean and maintain for high-traffic educational spaces.</li>
+<li>Non-slip rubber backing provides traction and stays securely in place.</li>
+<li>Low pile design offers modern styling suitable for multiple indoor rooms.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Classroom, Living Room, Study Room</td>
+</tr>
+<tr>
+<td>Water Resistance Level</td>
+<td>Not Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Book, Cat</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Reading, Library</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This versatile area rug perfectly fits in classrooms, libraries, reading nooks, bedrooms, and study rooms. It creates an inviting space for kids to sit, read, and relax while adding an educational and motivational touch to the decor.</p>",Make product copy motif-specific while retaining verified public claims only.,"Make a cheerful reading nook with a Good Day To Read rug featuring floral letters, book graphic, soft microfiber surface and anti-slip backing. Design details Cream floral classroom rug with it is a good day to read a book text, colorful leaves and flower motifs, open book graphic, classroom circle-time mockup, material details, microfiber cushion and anti-slip backing panel. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Make a cheerful reading nook with a Good Day To Read rug featuring floral letters, book graphic, soft microfiber surface and anti-slip backing.</p><h3>Design details</h3><ul><li>Cream floral classroom rug with it is a good day to read a book text, colorful leaves and flower motifs, open book graphic, classroom circle-time mockup, material details, microfiber cushion and anti-slip backing panel.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B024-236,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6594ef2a562a052c6e04317a004f9731740b1ced79a3b31b6899020120699358_3096fe00-113c-4282-afa7-f39c83a467f3.jpg?v=1784365094,,Good Day To Read rug in classroom nook,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7e4074a16e403032f7a2030b8567b0e9409aca975df1bacd26dd4b05d7e3f473_54c92ebc-6d4b-4eef-9492-73006f02cec7.jpg?v=1784365098,,floral reading rug in study corner,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a26e4d3b4c4b88cc66384fb6e0508fd0d1ce7226d8515e939ea458f0e32e83e8_34b5939b-853d-4e36-a1e8-edf28b223288.jpg?v=1784365100,,Good Day To Read rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4b1e22323cdeb75024ff55bb95de2f2281b70664b5b06944fa34444bff9516b2_d8a58735-df4b-43d2-9c4e-108112c969e5.jpg?v=1784365104,,material panel for floral reading rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d701271934b6d83d468e4b9293b2e61c7ed1fd39214ee3e230a290df9c059a5f_4aeeb853-8259-431c-b3a3-71d3f6c495b2.jpg?v=1784365106,,children gathered on reading rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/781ca01c135a8b4edc8fb2ba55b54fd67b3149e24f596d3fd50cab4693079be1_46399f86-86ad-48d2-9eb4-4817ff144af3.jpg?v=1784365109,,Good Day To Read rug product detail,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f80bb26ee08fb0e549a2cfd785dc81622eb6cbb81388e9a86c3e54d6c38b5851_99327854-a0c7-4619-8e4b-da37806c0a57.jpg?v=1784365111,,microfiber cushion closeup for book rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/72fbc4974dafc38d3419b7758d66da299ef543f484b429d5456ec67fdb929cb9_38fffd9e-aa11-42d1-b662-37915b329074.jpg?v=1784365115,,anti-slip backing detail for reading rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B024,chillgen.com,custom-bookshelf-classroom-library-reading-rug-75ece72c91,custom-bookshelf-classroom-library-reading-rug-75ece72c91,15913275392369,gid://shopify/Product/15913275392369,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B024_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B024_pages/custom-bookshelf-classroom-library-reading-rug-75ece72c91.html,2026-09-07T03:30:04+07:00,en-US,US,https://chillgen.com/products/custom-bookshelf-classroom-library-reading-rug-75ece72c91,https://chillgen.com/products/custom-bookshelf-classroom-library-reading-rug-75ece72c91,Rug,Bookshelf Reading Rug with Custom Name for Classroom and Library Space,Bookshelf Reading Rug with Custom Name for Classroom and Library Space,Bookshelf Classroom Reading Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Bookshelf Reading Rug for Classroom and Library,NONE_OR_NOT_OBSERVED,Bookshelf Classroom Reading Rug,SET,31,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalize a bookshelf reading rug with book and cat details and a soft surface for classrooms home libraries reading corners and study areas.,"Personalize a bookshelf classroom reading rug with teacher name, Today a Reader quote, colorful books, science details and soft surface.",SET,136,bookshelf classroom reading rug,"personalized teacher rug, classroom library rug, custom reading mat","bookshelf classroom reading rug; personalized teacher rug, classroom library rug, custom reading mat",LONG_TAIL_CANDIDATE,EVERGREEN,"Search evidence supports personalized Santa letter doormats, classroom reading rugs, reading corner carpets, library rugs for schools, and personalized vintage baseball rugs. B024 keeps keywords motif-specific while matching gift, classroom, library, playroom and sports-room intent.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,bookshelf classroom reading rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports bookshelf classroom reading rug and product-level buyer intent.,B024-237-BR01,"B024 buyers include holiday shoppers personalizing a Santa letter entry mat, teachers building a cozy reading corner, librarians decorating story-time spaces, parents furnishing kids rooms, and baseball families buying custom sports room rugs.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This custom reading rug makes an excellent functional and decorative addition to any classroom, reading nook, or home library. Featuring a motivational bookshelf theme, it creates a cozy and inspiring space that encourages children to dive into the world of books. It is a thoughtful and educational piece designed to support young readers and teachers alike.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Features a modern bookshelf, book, and cat pattern theme to inspire young readers.</li>
+<li>Supports customization with personalized text for classrooms, libraries, or reading corners.</li>
+<li>Soft and comfortable memory foam fabric is gentle on feet, making it perfect for kids to sit on.</li>
+<li>Durable construction that is easy to clean and maintain, even after frequent use.</li>
+<li>Versatile design that adds warmth, color, and charm to any learning or study space.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Classroom, Living Room, Study Room</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Not Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Book, Cat</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Reading, Library</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>Perfectly fits in classrooms, bedrooms, kids' rooms, entrances, mud rooms, laundry rooms, kitchens, hallways, offices, and dormitories. It is ideal for setting up a cozy learning corner or library space.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalize a bookshelf classroom reading rug with teacher name, Today a Reader quote, colorful books, science details and soft surface. Design details Brown bookshelf style reading rug with today a reader tomorrow a leader quote, teacher name mr. smith, colorful books, science fiction label, globe, backpack, classroom and playroom mockups, thickened surface and bound edge detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalize a bookshelf classroom reading rug with teacher name, Today a Reader quote, colorful books, science details and soft surface.</p><h3>Design details</h3><ul><li>Brown bookshelf style reading rug with today a reader tomorrow a leader quote, teacher name mr. smith, colorful books, science fiction label, globe, backpack, classroom and playroom mockups, thickened surface and bound edge detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B024-237,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8152a664af3a3ad309f5d8e602d6955be7b56183208b7c3f3f80cf80b236e179_4c8838ee-020b-448b-af3e-3213244a643b.jpg?v=1784365074,,personalized bookshelf classroom reading rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c051c60b70768bf231a23e7ffc951195f2584b288842e89e9bb8e5f88506660a_1b3784bc-ece7-468f-8776-f995aa031ed3.jpg?v=1784365078,,bookshelf teacher rug flat view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/92a001c9622a4508a79b2c82c316be0a9a898f1ca496c2bb8d413e2c1393222d_b7776495-4b86-42c2-a2f2-0c3c3bb79238.jpg?v=1784365080,,bookshelf reading rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/de3c3bcd01d54e8a29e4d0d0a59cfe317d7d96a7195809af5802e4b7787d54ab_c0b5c9be-f93b-4bc2-99ce-3306f7f86a20.jpg?v=1784365083,,library bookshelf rug room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/878bbb5eb4f17d065db2e70de84665908831e126a23dc528d0aea674b2be1a76_4a28310f-a0d0-4f6b-8128-086940140984.jpg?v=1784365088,,teacher reading with children on rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c48058ed2b77148db11bd80a045437a4d5293b37967d770cfe99ded420d1bc7e_9d123382-8441-4885-adaa-e14a8a7d594b.jpg?v=1784365089,,children sitting on bookshelf rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1c52784f2b3cf1f88cc89cca4f9c1768c4e98d319c0dd431a91de031da05ee83_3ab668d4-5851-4e9e-bad3-1587f8ccdb91.jpg?v=1784365093,,bookshelf classroom rug detail panel,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B024,chillgen.com,custom-reading-corner-classroom-library-rug-4a41f4c798-4a41f4c798,custom-reading-corner-classroom-library-rug-4a41f4c798-4a41f4c798,15913276277105,gid://shopify/Product/15913276277105,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B024_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B024_pages/custom-reading-corner-classroom-library-rug-4a41f4c798-4a41f4c798.html,2026-09-07T03:30:04+07:00,en-US,US,https://chillgen.com/products/custom-reading-corner-classroom-library-rug-4a41f4c798-4a41f4c798,https://chillgen.com/products/custom-reading-corner-classroom-library-rug-4a41f4c798-4a41f4c798,Rug,Reading Nook Classroom Rug with Custom Name for Library Story Time,Reading Nook Classroom Rug with Custom Name for Library Story Time,Butterfly Reading Corner Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Reading Nook Classroom Rug for Library Story Time,NONE_OR_NOT_OBSERVED,Butterfly Reading Corner Rug,SET,28,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Create a comfortable story time area with a custom reading nook rug featuring book themed details for classrooms libraries and home reading spaces.,"Brighten story time with a butterfly reading corner rug featuring Reading Gives You Wings text, library banner, size chart and washable visuals.",SET,144,butterfly reading corner rug,"classroom library rug, reading gives you wings mat, kids reading nook rug","butterfly reading corner rug; classroom library rug, reading gives you wings mat, kids reading nook rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Search evidence supports personalized Santa letter doormats, classroom reading rugs, reading corner carpets, library rugs for schools, and personalized vintage baseball rugs. B024 keeps keywords motif-specific while matching gift, classroom, library, playroom and sports-room intent.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,butterfly reading corner rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports butterfly reading corner rug and product-level buyer intent.,B024-238-BR01,"B024 buyers include holiday shoppers personalizing a Santa letter entry mat, teachers building a cozy reading corner, librarians decorating story-time spaces, parents furnishing kids rooms, and baseball families buying custom sports room rugs.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This customizable reading corner rug serves as both a functional and decorative piece, making it an excellent addition to any classroom, reading nook, or home library. Featuring a soft and comfortable surface, it is designed to encourage children to dive into the world of books while providing a cozy spot for story time. It makes a thoughtful and practical gift for teachers, students, and young readers alike.</p><h3>Product Highlights</h3><ul>
+<li>Customizable design tailored for classrooms, libraries, or reading corners</li>
+<li>Soft fabric surface made with memory foam that is gentle on feet</li>
+<li>Durable construction that is easy to maintain and keep fresh</li>
+<li>Features a modern pattern depicting books and reading themes</li>
+<li>Versatile floor covering suitable for indoor spaces and learning areas</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Classroom, Living Room, Study Room</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Not Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Book, Cat</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Reading, Library</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table><h3>Where It Works</h3><p>This comfortable rug is perfectly suited for learning and recreational environments such as classrooms, school libraries, playrooms, and dedicated reading nooks. It can also be utilized to add warmth and charm to children's bedrooms or home study spaces.</p>",Make product copy motif-specific while retaining verified public claims only.,"Brighten story time with a butterfly reading corner rug featuring Reading Gives You Wings text, library banner, size chart and washable visuals. Design details White and pink reading rug with colorful butterflies, open book, reading gives you wings quote, check out our library banner, scalloped border, classroom mockups, size chart, machine washable graphic and non-slip backing detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Brighten story time with a butterfly reading corner rug featuring Reading Gives You Wings text, library banner, size chart and washable visuals.</p><h3>Design details</h3><ul><li>White and pink reading rug with colorful butterflies, open book, reading gives you wings quote, check out our library banner, scalloped border, classroom mockups, size chart, machine washable graphic and non-slip backing detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B024-238,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7a87ec3bead09ee5b5b4dfc973a86a2040df9faa9e300e8cb73bc3a442a7dd10_0e2e10d3-ff61-46f0-a959-fe6d53348925.jpg?v=1784365052,,butterfly reading corner rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/afd3add48ede93fee1eb30661c4f25320396b7934b4252843c71b7b399d5c6c9_9dd9e43e-dc25-40a1-92fc-ecf009713c29.jpg?v=1784365055,,butterfly reading rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f7317292216eda25f9a6d9bb811d22c61a1f6319ddda103f52c2f475721552b2_6001e4e3-1762-4b3e-95c7-ea9b36689961.jpg?v=1784365057,,reading gives wings rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6a173a09d8051081915d29d8a772ef7bbcdafd170f49af6b64596370307a2ab4_61cb9f40-de30-40a3-9e1a-e003acfc4693.jpg?v=1784365062,,children gathered on butterfly reading rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/04d9053c2319ec84e510f5c647511d02c653ac68819524a57b13582fe88afddc_2ff5279f-3925-489a-963d-8be7c36fee5c.jpg?v=1784365063,,butterfly reading rug in reading nook,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/821381a3280b50c9aa1d2c64ec768c4457b2eb56f54c85725e9e023871e0ad9c_3eef15e3-1fbf-4e81-99dd-d8fd0e27226e.jpg?v=1784365067,,library banner reading rug near desks,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/be5356a67c9b44a07e229258bf61cc87d25b768d80ab520b704e492f04061d85_c10ab2a1-fe5a-4eb3-b428-bc6bcfb681e0.jpg?v=1784365069,,machine washable butterfly reading rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1bf03d54b4f9c79f02ac55b22c7cee46fa78152f15c19306230611413d225df8_a5d94a1b-7c84-4c34-aa44-8a9fbe29383e.jpg?v=1784365072,,material details for butterfly reading rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B024,chillgen.com,custom-baseball-vintage-pattern-area-rug-non-slip-a74f120767,custom-baseball-vintage-pattern-area-rug-non-slip-a74f120767,15913277030769,gid://shopify/Product/15913277030769,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B024_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B024_pages/custom-baseball-vintage-pattern-area-rug-non-slip-a74f120767.html,2026-09-07T03:30:04+07:00,en-US,US,https://chillgen.com/products/custom-baseball-vintage-pattern-area-rug-non-slip-a74f120767,https://chillgen.com/products/custom-baseball-vintage-pattern-area-rug-non-slip-a74f120767,Rug,Custom Name Vintage Baseball Area Rug with Non Slip Backing for Sports Bedroom,Custom Name Vintage Baseball Area Rug with Non Slip Backing for Sports Bedroom,Vintage Baseball Area Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Vintage Baseball Area Rug with Non Slip Backing,NONE_OR_NOT_OBSERVED,Vintage Baseball Area Rug,SET,25,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Add classic baseball style with a custom vintage area rug featuring a soft low pile surface non slip backing and stitched edges for bedrooms and playrooms.,"Personalize a vintage baseball area rug with player name, number, weathered ball artwork, size chart, microfiber surface and anti-slip backing.",SET,143,vintage baseball area rug,"personalized baseball rug, custom sports room rug, baseball bedroom carpet","vintage baseball area rug; personalized baseball rug, custom sports room rug, baseball bedroom carpet",LONG_TAIL_CANDIDATE,EVERGREEN,"Search evidence supports personalized Santa letter doormats, classroom reading rugs, reading corner carpets, library rugs for schools, and personalized vintage baseball rugs. B024 keeps keywords motif-specific while matching gift, classroom, library, playroom and sports-room intent.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,vintage baseball area rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports vintage baseball area rug and product-level buyer intent.,B024-239-BR01,"B024 buyers include holiday shoppers personalizing a Santa letter entry mat, teachers building a cozy reading corner, librarians decorating story-time spaces, parents furnishing kids rooms, and baseball families buying custom sports room rugs.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Bring the thrilling energy and classic charm of baseball directly into your home with this beautifully designed sports-themed rug. Perfect for sports fans, this flat-woven carpet features a vintage pattern that adds a personalized touch to any space. It provides a soft, comfortable feel underfoot, making it a welcoming addition to family areas where you can relax and play with peace of mind.</p><h3>Product Highlights</h3><ul>
+<li>Features a vintage baseball design perfect for sports-themed rooms and fans.</li>
+<li>Supports customization to create a unique personalized floor accent.</li>
+<li>Soft and comfortable surface provides a cozy feel for kids and pets.</li>
+<li>Equipped with a non-slip backing to keep the rug stable and prevent slips.</li>
+<li>Constructed with durable, high-density stitched edges for a longer lifespan.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sports</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polyester Flannel</td>
+</tr>
+<tr>
+<td>Backing Material Type</td>
+<td>Polyester with Non-Slip Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table><h3>Where It Works</h3><p>This sports-themed carpet fits excellently in active households and specialized spaces. It is an ideal decor choice for a boy's bedroom, playroom, living room, entryway, or any area where sports fans gather.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalize a vintage baseball area rug with player name, number, weathered ball artwork, size chart, microfiber surface and anti-slip backing. Design details Weathered vintage baseball rug with custom name jackson and number 35, large baseball graphic, distressed blue brown background, living room mockups, size chart, quick-dry microfiber surface, memory foam cushion and anti-slip backing panel. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalize a vintage baseball area rug with player name, number, weathered ball artwork, size chart, microfiber surface and anti-slip backing.</p><h3>Design details</h3><ul><li>Weathered vintage baseball rug with custom name jackson and number 35, large baseball graphic, distressed blue brown background, living room mockups, size chart, quick-dry microfiber surface, memory foam cushion and anti-slip backing panel.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B024-239,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71gXiQBB8kL._SL1500.jpg?v=1784384420,,vintage baseball rug with custom name,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71EGIyGMWRL._SL1500.jpg?v=1784384425,,personalized baseball area rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/61tQbdH457L._SL1500.jpg?v=1784384425,,baseball rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/614Bzp-s3CL._SL1500.jpg?v=1784384431,,microfiber cushion closeup for baseball rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71OmWGEDhgL._SL1500.jpg?v=1784384431,,anti-slip backing panel for baseball rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7150We5tRWL._SL1500.jpg?v=1784384436,,vintage baseball rug by fireplace,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B024,chillgen.com,custom-vintage-baseball-area-rug-b5f20ad4f5,custom-vintage-baseball-area-rug-b5f20ad4f5,15913278243185,gid://shopify/Product/15913278243185,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B024_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B024_pages/custom-vintage-baseball-area-rug-b5f20ad4f5.html,2026-09-07T03:30:04+07:00,en-US,US,https://chillgen.com/products/custom-vintage-baseball-area-rug-b5f20ad4f5,https://chillgen.com/products/custom-vintage-baseball-area-rug-b5f20ad4f5,Rug,Personalized Vintage Baseball Area Rug with Fade Resistant Design for Sports Room,Personalized Vintage Baseball Area Rug with Fade Resistant Design for Sports Room,Space Baseball Area Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Vintage Baseball Rug with Fade Resistant Design,NONE_OR_NOT_OBSERVED,Space Baseball Area Rug,SET,23,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Create a sports room with a personalized vintage baseball rug featuring a soft low pile surface fade resistant fibers and non slip backing for bedrooms.,"Customize a space baseball area rug with name, number, glowing baseball artwork, size options, microfiber surface and non-slip backing.",SET,135,space baseball area rug,"personalized baseball rug, custom name sports carpet, baseball bedroom rug","space baseball area rug; personalized baseball rug, custom name sports carpet, baseball bedroom rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Search evidence supports personalized Santa letter doormats, classroom reading rugs, reading corner carpets, library rugs for schools, and personalized vintage baseball rugs. B024 keeps keywords motif-specific while matching gift, classroom, library, playroom and sports-room intent.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,space baseball area rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports space baseball area rug and product-level buyer intent.,B024-240-BR01,"B024 buyers include holiday shoppers personalizing a Santa letter entry mat, teachers building a cozy reading corner, librarians decorating story-time spaces, parents furnishing kids rooms, and baseball families buying custom sports room rugs.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Bring the passion and excitement of baseball right into your home with this beautifully designed sports-themed area rug. Featuring a vintage baseball pattern, this rug is the perfect addition for sports fans looking to elevate their room decor. It provides a comfortable and cozy space underfoot, creating a warm and welcoming atmosphere for family members and pets alike.</p><h3>Product Highlights</h3><ul>
+<li>Sports-inspired vintage baseball design ideal for sports fans</li>
+<li>Supports custom options for a personalized home touch</li>
+<li>Soft flannel fabric surface that is comfortable underfoot</li>
+<li>Non-slip backing to prevent dangerous movements and slips</li>
+<li>Fade-resistant fibers and durable stitched edges for a longer lifespan</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr style=""background-color:#f2f2f2"">
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>3D Sea Turtle Print / Vintage Baseball</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sports</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr style=""background-color:#f2f2f2"">
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polyester, Polypropylene, Flannel fabric</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Polyester, Non-woven fabric with dispensing bottom</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table><h3>Where It Works</h3><p>This versatile sports rug perfectly fits into a living room, bedroom, kid's room, entrance, mud room, laundry, kitchen, hallway, office, or dormitory. It makes an ideal gift for Father's Day, Christmas, birthdays, or any special occasion.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a space baseball area rug with name, number, glowing baseball artwork, size options, microfiber surface and non-slip backing. Design details Black and blue cosmic baseball rug with glowing baseball, custom name sophia and number 22, bold varsity letters, size chart, living room mockups, microfiber cushion closeup and anti-slip backing detail panel. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Customize a space baseball area rug with name, number, glowing baseball artwork, size options, microfiber surface and non-slip backing.</p><h3>Design details</h3><ul><li>Black and blue cosmic baseball rug with glowing baseball, custom name sophia and number 22, bold varsity letters, size chart, living room mockups, microfiber cushion closeup and anti-slip backing detail panel.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B024-240,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d0b605a5da256d6180c2a0866952185c81b7d990ab6bbb8a4c5ca64115d7a0ae.jpg?v=1784384404,,space baseball area rug with custom name,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a39c1b8b8e582deb39748d0f01689c2f8a7587e4a8512bd79bf7262b298a6f6c.jpg?v=1784384404,,personalized baseball rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/18b721e9e9a75a8360d2810633a43386d3d336c40a580f17c63e38872e564e13.jpg?v=1784384409,,microfiber cushion closeup for space baseball rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9e81f21c20da930c3c2e08ecc58d4884521bf6cccb59bd8c1703310ab6e0a602.jpg?v=1784384409,,anti-slip backing detail for baseball rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2df50d8ab13e8a44bdd27867203cd3272f7b42b931af732fe5a2f69e34756890.jpg?v=1784384415,,space baseball rug in lounge room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8f3b784a3719896fc83a1cdd3e3b59da759187221705d20465e55f6418261bd9.jpg?v=1784384415,,custom name baseball rug room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d403c1ee64d46e3b1e7f5216464f2eb08ee7b47971a88bcaa12e14015f063adb.jpg?v=1784384420,,space baseball rug by fireplace,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

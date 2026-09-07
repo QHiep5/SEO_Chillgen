@@ -1,0 +1,950 @@
+schema_version,prompt_version,run_id,batch_id,shop_domain,product_key,Handle,product_id,product_gid,identity_status,source_export_ref,source_exported_at,locale,market,url,canonical_url,product_type,title_current,h1_current,title_proposed,title_action,h1_mapping_status,meta_title_current,meta_title_source_state,rendered_title_current,theme_title_suffix,meta_title_seo,meta_title_action,meta_title_chars,meta_description_current,meta_description_source_state,rendered_meta_description_current,meta_description_seo,meta_description_action,meta_description_chars,primary_keyword,secondary_keywords,long_tail_candidates,keyword_strategy,season,keyword_demand_evidence,keyword_serp_fit,meta_keyword,search_intent,keyword_validation_status,keyword_selection_reason,buyer_research_refs,buyer_search_summary,baseline_status,change_scope,mapping_status,mapping_version,description_current_html,description_changes_needed,description_proposed,description_proposed_html,description_change_mode,description_target_section,description_action,revision,review_status,review_reason,approved_by,approved_at,approved_fields,approved_revision,processing_status,evidence_status,content_qa_status,field_evidence_map,evidence_id,issues,img_1_link,img_1_alt_current,img_1_alt,img_1_alt_action,img_2_link,img_2_alt_current,img_2_alt,img_2_alt_action,img_3_link,img_3_alt_current,img_3_alt,img_3_alt_action,img_4_link,img_4_alt_current,img_4_alt,img_4_alt_action,img_5_link,img_5_alt_current,img_5_alt,img_5_alt_action,img_6_link,img_6_alt_current,img_6_alt,img_6_alt_action,img_7_link,img_7_alt_current,img_7_alt,img_7_alt_action,img_8_link,img_8_alt_current,img_8_alt,img_8_alt_action,img_9_link,img_9_alt_current,img_9_alt,img_9_alt_action,img_10_link,img_10_alt_current,img_10_alt,img_10_alt_action,img_11_link,img_11_alt_current,img_11_alt,img_11_alt_action,img_12_link,img_12_alt_current,img_12_alt,img_12_alt_action,img_13_link,img_13_alt_current,img_13_alt,img_13_alt_action,img_14_link,img_14_alt_current,img_14_alt,img_14_alt_action,img_15_link,img_15_alt_current,img_15_alt,img_15_alt_action,img_16_link,img_16_alt_current,img_16_alt,img_16_alt_action,img_17_link,img_17_alt_current,img_17_alt,img_17_alt_action,img_18_link,img_18_alt_current,img_18_alt,img_18_alt_action,img_19_link,img_19_alt_current,img_19_alt,img_19_alt_action,img_20_link,img_20_alt_current,img_20_alt,img_20_alt_action,img_21_link,img_21_alt_current,img_21_alt,img_21_alt_action,img_22_link,img_22_alt_current,img_22_alt,img_22_alt_action
+2.4,2.4,chillgen_20260907_01,B055,chillgen.com,custom-abc-spanish-educational-rug-6cefdc1a95,custom-abc-spanish-educational-rug-6cefdc1a95,15912070807921,gid://shopify/Product/15912070807921,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B055_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B055_pages/custom-abc-spanish-educational-rug-6cefdc1a95.html,2026-09-07T10:59:27+07:00,en-US,US,https://chillgen.com/products/custom-abc-spanish-educational-rug-6cefdc1a95,https://chillgen.com/products/custom-abc-spanish-educational-rug-6cefdc1a95,Rug,Personalized Spanish Alphabet Area Rug with Teacher Name for Elementary Classrooms,Personalized Spanish Alphabet Area Rug with Teacher Name for Elementary Classrooms,Spanish Educational Classroom Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Spanish Alphabet Rug with Teacher Name,NONE_OR_NOT_OBSERVED,Spanish Educational Classroom Rug,SET,33,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalize this Spanish alphabet area rug with a teacher name. Letters, numbers, shapes, memory foam, and non slip backing suit preschool classrooms.","Spanish educational classroom rug with Este Ciclo Escolar crayon prompts, colorful dots, soft surface and bound edges.",SET,118,Spanish educational classroom rug,"Spanish learning rug, bilingual classroom mat, crayon classroom rug","Spanish educational classroom rug; Spanish learning rug, bilingual classroom mat, crayon classroom rug",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL,"Use motif-specific long tails: Spanish educational rug, personalized classroom rug, composition notebook classroom rug, teacher name welcome mat, kindness classroom rug, math teacher classroom rug, science classroom rug and teacher appreciation rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,Spanish educational classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports Spanish school cycle rug with colorful crayon words on black dotted background and product-level buyer intent.,B055-541-BR01,"B055 buyers are teachers, bilingual educators and classroom decorators choosing floor pieces that combine learning prompts with personalization. Main drivers are readable educational text, custom teacher/name details, classroom fit, soft memory foam feel, non slip backing and easy clean construction.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This Spanish ABC Classroom Rug is a fun and educational addition to any learning environment, designed to teach children the alphabet, numbers, and shapes interactively. Featuring colorful illustrations with Spanish translations, this rug offers a tactile sensory experience that is soft to the touch while maintaining outstanding durability for playtime. It is the perfect piece to welcome students back to school or decorate a dedicated kids' space.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Educational Spanish design featuring the alphabet, numbers, shapes, and animal illustrations.</li>
+<li>Soft sponge interlayer offers a comfortable and gentle surface for children during playtime.</li>
+<li>Equipped with a non-slip rubber backing to safely keep the rug in place.</li>
+<li>Stain-resistant and water-resistant properties combined with reinforced serged edges for durability.</li>
+<li>Versatile design that serves as a beautiful accent in classrooms, playrooms, and bedrooms.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form Type</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Is Stain Resistant</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Water Resistance Level</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Composition notebook, alphabet, ABC, pencil, classroom rules</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Alphabet, Number</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>Back To School Rug</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polypropylene, Polyester</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Product Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This educational area rug is ideal for kids' bedrooms, playrooms, kindergartens, classrooms, preschools, and daycare centers. It performs beautifully on multiple floor types, including tile, wood, ceramic, and marble surfaces.</p>",Make product copy motif-specific while retaining verified public claims only.,"Spanish educational classroom rug with Este Ciclo Escolar crayon prompts, colorful dots, soft surface and bound edges. Design details Black rectangular rug reads este ciclo escolar with large colorful crayons labeled juega, lee, crea, sueña and imagina. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Spanish educational classroom rug with Este Ciclo Escolar crayon prompts, colorful dots, soft surface and bound edges.</p><h3>Design details</h3><ul><li>Black rectangular rug reads este ciclo escolar with large colorful crayons labeled juega, lee, crea, sueña and imagina.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B055-541,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/94c7220bbaa91f7cecc71355934e73754abd313a94abb01ba71e10ac05b77be8.jpg?v=1784374310,,Main rug shows Este Ciclo Escolar with crayon prompt words.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5159038a5fa2e3cc7f145932f3b31293790b6fc0407cc0261bcc581dacc53759.jpg?v=1784374310,,Classroom mockup shows large rug in learning area.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c6f1fcc990958d7854b68f2168b3ffc491fabf9996dfad3456ad30e40555ef8e.jpg?v=1784374315,,Child reading on Spanish crayon rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5cd31bf1b0144200e65e7dcd0e0d8654f1779c736b896e3d8e379ac1585fd469.jpg?v=1784374315,,Children playing on rug with Sueña text visible.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/46a00e3c1b11202d122fb2cb8df723aa849061ca9b6ae4e4331894532cb8064d.jpg?v=1784374320,,"Feature image highlights learning pattern, thickness and bound edges.",SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/bac95c0b3b644e61f1c29746b3a75b0b9e940e649e6110734ed388dbcfbcef71.jpg?v=1784374321,,Child playing on rug in classroom-style room.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3c539078bfa7a1281ea421e053e30f9a6460c9b9ce28faca23f4c1fe8e7262cf.jpg?v=1784374326,,Wide playroom view shows full Spanish educational rug.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B055,chillgen.com,custom-composition-notebook-classroom-rug-03facf229f,custom-composition-notebook-classroom-rug-03facf229f,15912074936689,gid://shopify/Product/15912074936689,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B055_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B055_pages/custom-composition-notebook-classroom-rug-03facf229f.html,2026-09-07T10:59:27+07:00,en-US,US,https://chillgen.com/products/custom-composition-notebook-classroom-rug-03facf229f,https://chillgen.com/products/custom-composition-notebook-classroom-rug-03facf229f,Rug,Composition Notebook Rug with Custom Name for Classroom and Study Area,Composition Notebook Rug with Custom Name for Classroom and Study Area,Bee Classroom Rug with Positive Words,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Composition Notebook Rug for Classroom Study,NONE_OR_NOT_OBSERVED,Bee Classroom Rug with Positive Words,SET,37,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Create an engaging learning area with a composition notebook rug featuring custom text colorful educational motifs and a soft surface for daily use.,"Bee classroom rug with What Can I Bee positive words, custom teacher name, honeycomb design and memory foam comfort.",SET,116,bee classroom rug,"positive words classroom rug, custom teacher name rug, SEL classroom mat","bee classroom rug; positive words classroom rug, custom teacher name rug, SEL classroom mat",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL,"Use motif-specific long tails: Spanish educational rug, personalized classroom rug, composition notebook classroom rug, teacher name welcome mat, kindness classroom rug, math teacher classroom rug, science classroom rug and teacher appreciation rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,bee classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports bee-themed classroom rug with What Can I Bee positive character words and product-level buyer intent.,B055-542-BR01,"B055 buyers are teachers, bilingual educators and classroom decorators choosing floor pieces that combine learning prompts with personalization. Main drivers are readable educational text, custom teacher/name details, classroom fit, soft memory foam feel, non slip backing and easy clean construction.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Ignite curiosity and education with this vibrant notebook classroom rug, perfect for children’s playrooms, classrooms, and living areas. Featuring a lively design inspired by a classic composition notebook with colorful educational motifs, it creates an engaging environment where kids can comfortably explore, play, and learn. It is designed to spark creativity while providing a soft, reliable layer of protection for your floors.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+  <li>Engaging composition notebook design complete with colorful borders, rainbow accents, and customizable name option.</li>
+  <li>Thick, plush memory foam sponge core provides comfortable foot pressure relief for sitting, playing, or reading.</li>
+  <li>Equipped with a non-slip rubber backing to ensure stability and safety on hard floors and carpets.</li>
+  <li>Highly versatile layout suitable for preschools, daycares, bedrooms, playrooms, and homeschool setups.</li>
+  <li>Stain-resistant, durable construction printed with eco-friendly heat sublimation dyes for enduring color vibrancy.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+  <tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+  <tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+  <tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+  <tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+  <tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+  <tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+  <tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+  <tr>
+<td>Room Type</td>
+<td>Classroom, Daycare, Playroom, Bedroom, Living Room</td>
+</tr>
+  <tr>
+<td>Water Resistance Level</td>
+<td>Water Resistant</td>
+</tr>
+  <tr>
+<td>Is Stain Resistant</td>
+<td>Yes</td>
+</tr>
+  <tr>
+<td>Pattern</td>
+<td>Classroom</td>
+</tr>
+  <tr>
+<td>Theme</td>
+<td>Composition notebook, elements successful, educational</td>
+</tr>
+  <tr>
+<td>Style Name</td>
+<td>Back to school gifts, notebook</td>
+</tr>
+  <tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+  <tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+  <tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam / Polyester</td>
+</tr>
+  <tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+  <tr>
+<td>Care Instructions</td>
+<td>Machine washable; regular vacuuming recommended. Wash separately in cold water without bleach; tumble dry or air dry on low heat.</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This educational play rug fits perfectly in classrooms, kindergartens, daycares, and home learning spaces. It also adds a charming, colorful touch to children's bedrooms, playrooms, and nursery environments.</p>",Make product copy motif-specific while retaining verified public claims only.,"Bee classroom rug with What Can I Bee positive words, custom teacher name, honeycomb design and memory foam comfort. Design details Cream rug with bees and honeycomb cells listing traits such as silly, brave, helpful, kind, respectful and independent. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Bee classroom rug with What Can I Bee positive words, custom teacher name, honeycomb design and memory foam comfort.</p><h3>Design details</h3><ul><li>Cream rug with bees and honeycomb cells listing traits such as silly, brave, helpful, kind, respectful and independent.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B055-542,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f89af225bf89ff870e2712e950fdac777a9c1a808a3fc5298a3e8258f3c13da5.jpg?v=1784365718,,Main image shows What Can I Bee rug with Mrs. Thompson name.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5a21423b261f714d002b635d66d1d77d498fbfd290803caee53e9c323ecfc5bb.jpg?v=1784365718,,Classroom mockup shows bee rug in learning space.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/76c1127f0f6d897ee2f1f9686b86679f3252b93c091a718175c5c01e5fbe164d.jpg?v=1784365724,,Playroom mockup shows full rug on floor.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/839946b1bef2cc4279c0fd6a25ecfc403f0b04e45c53efb7596be26b9a2c23ac.jpg?v=1784365724,,"Feature image shows learning pattern, thickness and bound edges.",SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7eefef48a253d97d76a2338f86fbed696e8f401a2c8568164d02f891999face9.jpg?v=1784365729,,Teacher and children using the bee rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f07cb9bf702d5141ad32f23b8ebf1fd67334c667b042e6f8a9c58dd69892e4e2.jpg?v=1784365729,,Backing feature panel shows anti slip and stain resistance.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ca4d4fda4259371f9ba3feac98001fd9d82414517334dd0c31b73f0da8b3fa2d.jpg?v=1784365734,,Clean product image shows honeycomb positive words.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4f9a932561545ee9415d9f43a471310efbd43bb6f7310dec57e65f838fd1376c.jpg?v=1784365735,,Teacher group activity scene on rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/02c7058fe1298fdf05c526a1e8c81285d843e87ee088b0082c3152d55a72ec3f.jpg?v=1784365740,,Close-up notes microfiber surface and memory foam cushion.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B055,chillgen.com,customized-composition-notebook-classroom-rug-bf478c5c0a,customized-composition-notebook-classroom-rug-bf478c5c0a,15912075034993,gid://shopify/Product/15912075034993,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B055_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B055_pages/customized-composition-notebook-classroom-rug-bf478c5c0a.html,2026-09-07T10:59:27+07:00,en-US,US,https://chillgen.com/products/customized-composition-notebook-classroom-rug-bf478c5c0a,https://chillgen.com/products/customized-composition-notebook-classroom-rug-bf478c5c0a,Rug,Notebook Style Classroom Rug with Custom Text for Preschool Learning Space,Notebook Style Classroom Rug with Custom Text for Preschool Learning Space,Reading Motivation Classroom Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Notebook Style Classroom Rug for Preschool Use,NONE_OR_NOT_OBSERVED,Reading Motivation Classroom Rug,SET,32,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Add custom text to this notebook style classroom rug with playful educational details and a soft surface for preschool reading play and learning areas.,"Reading motivation classroom rug with custom teacher name, hot air balloon books, soft pastel design and non slip backing.",SET,122,reading motivation classroom rug,"custom teacher classroom rug, pastel reading rug, teacher name learning mat","reading motivation classroom rug; custom teacher classroom rug, pastel reading rug, teacher name learning mat",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL,"Use motif-specific long tails: Spanish educational rug, personalized classroom rug, composition notebook classroom rug, teacher name welcome mat, kindness classroom rug, math teacher classroom rug, science classroom rug and teacher appreciation rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,reading motivation classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports reading motivation classroom rug with hot air balloon and Mrs Williams name and product-level buyer intent.,B055-543-BR01,"B055 buyers are teachers, bilingual educators and classroom decorators choosing floor pieces that combine learning prompts with personalization. Main drivers are readable educational text, custom teacher/name details, classroom fit, soft memory foam feel, non slip backing and easy clean construction.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This vibrant and engaging educational rug is designed to spark creativity and learning in young minds. Featuring a lively composition notebook design completed with a notebook border, colorful elements, and support for custom text, it serves as an excellent decorative and educational tool. Perfect for inspiring kids while adding a cheerful pop of color, this durable mat provides a comfortable space for play, reading, and exploration.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Vibrant notebook style featuring playful classroom elements and custom text support.</li>
+<li>Constructed with a soft, high-density memory foam inter sponge to cushion feet.</li>
+<li>Includes a non-slip rubber backing to keep the rug safely in place.</li>
+<li>Stain-resistant and highly durable construction made with eco-friendly dyes.</li>
+<li>Extremely versatile for sitting, playing, reading, or relaxing in various learning spaces.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form Type</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom, Daycare</td>
+</tr>
+<tr>
+<td>Water Resistance Level</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Composition notebook, educational</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>Back to school gifts, notebook</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polyester, Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine wash separately or hand wash in cold water; do not bleach; tumble dry or air dry at low temperature; regular vacuuming prolongs life</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This educational mat is perfectly suited for early learning environments, preschool classrooms, and daycare centers. It also makes a wonderful and inviting addition to children's bedrooms, playrooms, and home study spaces.</p>",Make product copy motif-specific while retaining verified public claims only.,"Reading motivation classroom rug with custom teacher name, hot air balloon books, soft pastel design and non slip backing. Design details Pastel rug reads the more that you read the more things you will know, with books in a hot air balloon. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Reading motivation classroom rug with custom teacher name, hot air balloon books, soft pastel design and non slip backing.</p><h3>Design details</h3><ul><li>Pastel rug reads the more that you read the more things you will know, with books in a hot air balloon.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B055-543,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/636543f52aabc03c35051581fda1f3f52c8ba3a0836a8b0a8d206e1982aeb7ba_ea88fbcf-c406-4ec8-8560-485865f9f27b.jpg?v=1784365690,,Main image shows Mrs. Williams reading quote with hot air balloon books.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7d79b99d96b6704df0d8af68d2d2ef893506809169c6e03408529fc84e95e7b4_a7dad7d1-c661-458f-ac8d-cff006268886.jpg?v=1784365695,,Classroom mockup shows pastel rug in learning space.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5e9006c0f533eabb72025f2f190199c29590e8b187ebfa59a12dac7368076e73_3a5b771e-8d08-4eff-b802-c8bdaed31de7.jpg?v=1784365696,,Wide playroom view shows full reading rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b25a027a81d5f18b9040a8078ac71c609014213185829daa517ea3280375e6d2_8ef53206-9daf-4e74-8308-ca8e5efd61da.jpg?v=1784365701,,Feature callout shows learning pattern and bound edges.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5b87a288ec0c4d9ce6580564dd6cc07403f0580df131dedbf4c255445d95b810_a3937c1f-47ce-40fa-a90c-14c25beeec6a.jpg?v=1784365701,,Teacher and children sit on rug during story time.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/98708453426527943b0b6da97e79d6dd8039ed25988af6a2c543f3058ff5d531_4841a72c-c14e-4939-9cdf-eb74efe789b7.jpg?v=1784365706,,Backing panel highlights anti slip and soft material.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/670f3b6a6f1bdf2405b6d8b24422b98eeae5b86f5038b00bd03c2aa135f4d1ed_e8eaef0d-8d6e-473c-881d-01115ae2911d.jpg?v=1784365707,,Clean product image shows full quote and balloon design.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c4c95dc02148f0142f532c89dc72d4a9f1f8e70e0a0de86c02205935d7dc8c5d_407c5b40-a991-417f-97dd-88f8b79dd441.jpg?v=1784365712,,Group reading scene on pastel rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b65453d1141070d6a03ff4e8dedca52ce1f65f23541d48d027e2b55755197667_90fb9ff0-9b4b-4bf6-ab95-47e18a0f4545.jpg?v=1784365713,,Close-up shows plush surface and memory foam cushion.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B055,chillgen.com,personalized-composition-notebook-welcome-doormat-379c157fc5,personalized-composition-notebook-welcome-doormat-379c157fc5,15912075100529,gid://shopify/Product/15912075100529,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B055_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B055_pages/personalized-composition-notebook-welcome-doormat-379c157fc5.html,2026-09-07T10:59:27+07:00,en-US,US,https://chillgen.com/products/personalized-composition-notebook-welcome-doormat-379c157fc5,https://chillgen.com/products/personalized-composition-notebook-welcome-doormat-379c157fc5,Rug,Composition Notebook Area Rug with Custom Name and School Bus Design,Composition Notebook Area Rug with Custom Name and School Bus Design,Future of the World Classroom Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Composition Notebook Area Rug with School Bus,NONE_OR_NOT_OBSERVED,Future of the World Classroom Rug,SET,33,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Welcome learners with a composition notebook area rug featuring custom text a bright banner rainbows bees and a school bus for classrooms and playrooms.,"Future of the World classroom rug with custom teacher name, space artwork, colorful quote and memory foam comfort.",SET,114,future of the world classroom rug,"space classroom rug, custom teacher name rug, school bus classroom mat","future of the world classroom rug; space classroom rug, custom teacher name rug, school bus classroom mat",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL,"Use motif-specific long tails: Spanish educational rug, personalized classroom rug, composition notebook classroom rug, teacher name welcome mat, kindness classroom rug, math teacher classroom rug, science classroom rug and teacher appreciation rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,future of the world classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports space future of the world classroom rug with Mrs Sophia name and product-level buyer intent.,B055-544-BR01,"B055 buyers are teachers, bilingual educators and classroom decorators choosing floor pieces that combine learning prompts with personalization. Main drivers are readable educational text, custom teacher/name details, classroom fit, soft memory foam feel, non slip backing and easy clean construction.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This vibrant and educational area rug is designed to ignite curiosity and creativity in any learning space. Featuring a lively composition notebook border, a bright welcome banner, and charming elements like school buses and rainbows, it provides an engaging environment for children. Perfect for classrooms, playrooms, and bedrooms, it serves as a soft, comforting surface where kids can play, read, and learn.</p><h3>Product Highlights</h3><ul>
+<li>Creative composition notebook design featuring rainbows, bees, a school bus, and a welcome banner.</li>
+<li>Supports customization with a dedicated text input for personalization, such as a teacher's name.</li>
+<li>Thick, plush surface made of high-density memory foam to relieve foot pressure and provide cozy comfort.</li>
+<li>Non-slip backing provides stability and protection for carpet floors.</li>
+<li>Stain-resistant, durable, and easy to clean with machine-washable care.</li>
+<li>Highly versatile design suitable for classrooms, daycares, playrooms, bedrooms, and nurseries.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form Type</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom, Daycare</td>
+</tr>
+<tr>
+<td>Water Resistance Level</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable, Stain Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>composition notebook, elements successful, educational</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>back to school gifts, notebook</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Polyester, Soft Plush</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Vacuum regularly, hand wash in cold water, or machine wash separately. Do not use bleach.</td>
+</tr>
+<tr>
+<td>Drying</td>
+<td>Tumble dry or air dry at low temperature. Avoid prolonged soaking and high temperature.</td>
+</tr>
+</table><h3>Where It Works</h3><p>This versatile area rug is perfect for educational environments such as preschool classrooms, daycares, kindergartens, and homeschool setups. It also makes a charming addition to children's bedrooms, playrooms, and nursery spaces, offering a cozy spot for toddlers and teens alike.</p>",Make product copy motif-specific while retaining verified public claims only.,"Future of the World classroom rug with custom teacher name, space artwork, colorful quote and memory foam comfort. Design details Navy rug reads the future of the world is in this room today with mrs. sophia, earth, astronaut, rocket and planets. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Future of the World classroom rug with custom teacher name, space artwork, colorful quote and memory foam comfort.</p><h3>Design details</h3><ul><li>Navy rug reads the future of the world is in this room today with mrs. sophia, earth, astronaut, rocket and planets.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B055-544,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4907733915327eb304542a9cafb5baa0606dfffb4030bfacfe7ecc431680b02e_c120085c-ef23-4309-a468-28b93c23c3e3.jpg?v=1784365668,,Main image shows Mrs. Sophia future of the world space rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/131aa6b1aaaf5eb806304a15eaa0fb2fdbe04bfd74035441998a5edb30bc139d_a3e05d61-f73d-4405-adab-9d75f2d315c6.jpg?v=1784365668,,Classroom mockup shows rug in playroom setting.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e509bc88431e870f5da33c52f4e20b0c4b30282497a9903099db30d04f82f26b_42d91267-2131-48aa-8367-a9972e363ffb.jpg?v=1784365673,,Wide room view highlights navy space design.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0ddbcfa1e03dff186c99cafff9fe6264d93bad85cdada039d498b46377d6654b_cecef494-21a4-4d15-a1ec-a4932fc6ee23.jpg?v=1784365674,,Feature callout shows learning pattern and bound edges.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e2be3edf5e0a8f72f138d4a1d8d14187594d9821e71f3dd91f5a6a69b9adf5d6_84c3d61c-7e72-487e-afa4-e64b068690ca.jpg?v=1784365679,,Teacher and kids gather on rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/795a309d33ade79258f76fe2aec382fcfe9cf2e951f5f1f826b368faf5059db9_f9e4c14f-abd5-43b1-8644-522264e5560b.jpg?v=1784365679,,Backing panel shows anti slip and stain resistance.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c70f4a970d9c4264d9ed423133fe54b38b2fe9efbfb34e9d67bd135822a8007c_657598e5-0996-4553-a0df-323311f395e5.jpg?v=1784365685,,Clean product image shows full future quote.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a254c9ef501319cba527a59c5be86b7593722ac9760e9ec303d4bec71af2b11b_041f698a-d0e9-4e89-a779-6471020d0b5a.jpg?v=1784365685,,Group story time image with rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ed30b11b069b90b7b775d0c7a89548262677e42ab4d50b5ec561bebcea6455c5_2297a202-8f5a-4331-9919-2f048748e1eb.jpg?v=1784365690,,Close-up shows memory foam cushion and microfiber surface.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B055,chillgen.com,customized-composition-notebook-classroom-rug-33c4fbd370,customized-composition-notebook-classroom-rug-33c4fbd370,15912075395441,gid://shopify/Product/15912075395441,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B055_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B055_pages/customized-composition-notebook-classroom-rug-33c4fbd370.html,2026-09-07T10:59:27+07:00,en-US,US,https://chillgen.com/products/customized-composition-notebook-classroom-rug-33c4fbd370,https://chillgen.com/products/customized-composition-notebook-classroom-rug-33c4fbd370,Rug,Rainbow Notebook Classroom Rug with Custom Text for Daycare and School,Rainbow Notebook Classroom Rug with Custom Text for Daycare and School,Classroom Affirmation Rug with Teacher Name,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Rainbow Notebook Classroom Rug for Daycare Use,NONE_OR_NOT_OBSERVED,Classroom Affirmation Rug with Teacher Name,SET,43,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Bring color to a daycare or classroom with a rainbow notebook rug featuring custom text a bright border school illustrations and a soft surface.,"Classroom affirmation rug with Mrs. Smith custom name, colorful You Are words, rainbow border and memory foam comfort.",SET,118,classroom affirmation rug,"personalized teacher name rug, You Are classroom mat, SEL learning rug","classroom affirmation rug; personalized teacher name rug, You Are classroom mat, SEL learning rug",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL,"Use motif-specific long tails: Spanish educational rug, personalized classroom rug, composition notebook classroom rug, teacher name welcome mat, kindness classroom rug, math teacher classroom rug, science classroom rug and teacher appreciation rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,classroom affirmation rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports black classroom affirmation rug with rainbow border and Mrs Smith name and product-level buyer intent.,B055-545-BR01,"B055 buyers are teachers, bilingual educators and classroom decorators choosing floor pieces that combine learning prompts with personalization. Main drivers are readable educational text, custom teacher/name details, classroom fit, soft memory foam feel, non slip backing and easy clean construction.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This vibrant and educational classroom rug is designed to ignite curiosity and creativity in young learners. Featuring a playful composition notebook design complete with a colorful notebook border, a bright banner, and friendly school-themed illustrations like rainbows and a school bus, it makes the perfect addition to any learning space. Ideal for classrooms, playrooms, and daycares, this soft and comfortable mat helps turn any space into an inviting environment for children to explore and play.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Vibrant classroom notebook design with engaging school themes and customizable text options</li>
+<li>Thick, plush, and soft surface provides a comfortable space for kids to play, read, or sit</li>
+<li>Non-slip backing provides stability and protects floors in high-traffic spaces</li>
+<li>Eco-friendly dyes with premium heat dye sublimation ensure enduring, fade-resistant colors</li>
+<li>Versatile design that adds a decorative and educational touch to multiple indoor spaces</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom, Daycare</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable, Stain Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>composition notebook, elements successful, educational</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>back to school gifts, notebook</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polyester, Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine wash separately or hand wash in cold water; do not use bleach</td>
+</tr>
+<tr>
+<td>Drying</td>
+<td>Tumble dry or air dry at low temperature; avoid high temperature exposure</td>
+</tr>
+<tr>
+<td>Regular Maintenance</td>
+<td>Regular vacuuming recommended; vacuum-packed rug recovers fully within 1-2 days</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This educational play rug is perfect for preschool classrooms, daycares, and kindergarten rooms. It also fits beautifully in children's playrooms, bedrooms, and homeschool environments to create a cozy and inspiring study area.</p>",Make product copy motif-specific while retaining verified public claims only.,"Classroom affirmation rug with Mrs. Smith custom name, colorful You Are words, rainbow border and memory foam comfort. Design details Black rug reads when you enter this mrs. smith's classroom you are with positive words including scientists, creators, authors and loved. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Classroom affirmation rug with Mrs. Smith custom name, colorful You Are words, rainbow border and memory foam comfort.</p><h3>Design details</h3><ul><li>Black rug reads when you enter this mrs. smith's classroom you are with positive words including scientists, creators, authors and loved.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B055-545,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a80ba5aa45af992e9631819260927ab315b4e5d2fb1c92fa3ed979acb000b67f.jpg?v=1784365646,,Main image shows Mrs. Smith classroom affirmation rug with rainbow border.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a14176b5b3eebc01bbe8d8ce68c4775a7d14eda100139fc08d50aba0ef893cea.jpg?v=1784365646,,Classroom mockup shows full positive-word design.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1b8c1ee8268b0fd911af77afa8b938b2fb96d80a0efc5176e2f97bc5ccd94ff9.jpg?v=1784365651,,Playroom view shows rug scale.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/bf7719676232b60762c37b0935580a196193a9394ae03288b19fe19ff91aefda.jpg?v=1784365651,,Teacher and students gather on rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/93754eea12c7769a4f37b8e40d7a3967af651f84ec59878ff35b7cadb179cd2d.jpg?v=1784365657,,Group reading scene shows affirmation rug in use.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/692451db357c3b746d0991d367a9ba4bebf838dde78acdade16fbfb8ee87ed51.jpg?v=1784365657,,"Feature callout highlights learning pattern, thickness and bound edges.",SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6f6f8562768edb386c9a068f34597580f2cbf5dbaa18c581e0e110135a3dec1e.jpg?v=1784365662,,Close-up shows microfiber surface and memory foam cushion.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e72446f1c6449d3160a8e76a6c321ef8de0797ac7c180dba82a5880fa4d3b88a.jpg?v=1784365663,,Backing panel shows anti slip and stain resistance.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B055,chillgen.com,custom-composition-notebook-classroom-rug-with-plush-memory-foam-75c4b7b9bc,custom-composition-notebook-classroom-rug-with-plush-memory-foam-75c4b7b9bc,15912075526513,gid://shopify/Product/15912075526513,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B055_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B055_pages/custom-composition-notebook-classroom-rug-with-plush-memory-foam-75c4b7b9bc.html,2026-09-07T10:59:27+07:00,en-US,US,https://chillgen.com/products/custom-composition-notebook-classroom-rug-with-plush-memory-foam-75c4b7b9bc,https://chillgen.com/products/custom-composition-notebook-classroom-rug-with-plush-memory-foam-75c4b7b9bc,Rug,Composition Notebook Rug with Custom Name and Soft Memory Foam Surface,Composition Notebook Rug with Custom Name and Soft Memory Foam Surface,Kindness Classroom Rug with Custom Name,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Composition Notebook Rug with Memory Foam Surface,NONE_OR_NOT_OBSERVED,Kindness Classroom Rug with Custom Name,SET,39,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalize a composition notebook rug with a teacher or classroom name and enjoy a soft memory foam surface for reading play and classroom activities.,"Kindness classroom rug with Mrs. Anderson custom name, wildflower design, kindness checklist and soft memory foam surface.",SET,122,kindness classroom rug,"custom teacher name rug, wildflower classroom mat, SEL kindness rug","kindness classroom rug; custom teacher name rug, wildflower classroom mat, SEL kindness rug",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL,"Use motif-specific long tails: Spanish educational rug, personalized classroom rug, composition notebook classroom rug, teacher name welcome mat, kindness classroom rug, math teacher classroom rug, science classroom rug and teacher appreciation rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,kindness classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports floral kindness classroom rug with Mrs Anderson custom name and kindness checklist and product-level buyer intent.,B055-546-BR01,"B055 buyers are teachers, bilingual educators and classroom decorators choosing floor pieces that combine learning prompts with personalization. Main drivers are readable educational text, custom teacher/name details, classroom fit, soft memory foam feel, non slip backing and easy clean construction.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This creative and educational area rug features an engaging composition notebook design, complete with a classic notebook border and playful classroom elements. Designed to spark curiosity and learning, it serves as a vibrant focal point that adds a warm, welcoming touch to any learning or play space. Crafted for comfort and daily use, this rug is the perfect addition for inspiring children and showing appreciation for educators.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Vibrant classroom notebook design adorned with rainbows, bees, a school bus, and educational reminders.</li>
+<li>Supports custom personalization with one text input for a personalized teacher or classroom name.</li>
+<li>Thick, plush, and soft memory foam surface ideal for children to sit, play, read, or nap.</li>
+<li>Equipped with a non-slip rubber backing to ensure a safe play environment.</li>
+<li>Stain-resistant, durable construction made with eco-friendly dyes for lasting, vibrant colors.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form Type</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom, Daycare</td>
+</tr>
+<tr>
+<td>Water Resistance Level</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Is Stain Resistant</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>composition notebook, elements successful, educational</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>back to school gifts, notebook</td>
+</tr>
+<tr>
+<td>Occasion</td>
+<td>All season, Teacher's Day</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam / Polyester</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Product Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Regular vacuuming, hand wash in cold water, or machine wash separately without bleach; clean with a damp cloth and mild soap</td>
+</tr>
+<tr>
+<td>Drying</td>
+<td>Tumble dry or air dry at low temperature; avoid high temperature exposure and prolonged soaking</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This versatile area rug is perfect for educational environments like classrooms, daycares, kindergartens, and homeschool setups. It also fits beautifully in home spaces, including children's bedrooms, playrooms, living rooms, and nursery spaces.</p>",Make product copy motif-specific while retaining verified public claims only.,"Kindness classroom rug with Mrs. Anderson custom name, wildflower design, kindness checklist and soft memory foam surface. Design details Pink floral rug reads spread kindness like wildflowers with custom teacher name and kindness checklist. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Kindness classroom rug with Mrs. Anderson custom name, wildflower design, kindness checklist and soft memory foam surface.</p><h3>Design details</h3><ul><li>Pink floral rug reads spread kindness like wildflowers with custom teacher name and kindness checklist.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B055-546,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5791322bad8f5b30f032d1315383dee08cd87298427f59753185f962807e6b6a.jpg?v=1784365618,,Main image shows Mrs. Anderson Spread Kindness Like Wildflowers rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/aa358787089f85f6ed32c88a023a1dea3f2018000952b8af432160c20bf08cfa.jpg?v=1784365623,,Classroom mockup shows floral rug in learning room.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/47a2e5f21d40292a93aec2cfe679b6632a91d05a1be3be72c272a8e8cbd984be.jpg?v=1784365624,,Wide playroom scene shows full rug layout.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fe608c511e9b8b7b54398a0cb81cf8a23cb96be5d6744f9b23f5b8391ce1c97b.jpg?v=1784365629,,"Feature image shows learning pattern, thickness and bound edges.",SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/331355d0c4cadf599a7542cd9e6606681d54bbd4f9acdb4c5aaefb189443aa99.jpg?v=1784365630,,Teacher and children sit on kindness rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/705543316bc9b5e2e968e5511f561bce80c8cb93f77c64e5669556514e4904bc.jpg?v=1784365634,,Backing panel shows anti slip backing and soft material.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0cca801b49b6e7654064e457fd523bed3dbf6713295e1892242d928bb6d4ec21.jpg?v=1784365635,,Clean product image shows kindness checklist.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/194e37af31117e63a3cfaa3352e8363dd2e3493bd2868ce7f7c181348048c9fe.jpg?v=1784365640,,Group activity image with floral kindness rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/96fe1b8c8ff88b5f97f378cdbffa6cc3658afa4724954f6eab54d51e7fe583b6.jpg?v=1784365640,,Close-up shows quick dry microfiber and memory foam cushion.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B055,chillgen.com,custom-classroom-notebook-rug-32dd233cb2,custom-classroom-notebook-rug-32dd233cb2,15912075723121,gid://shopify/Product/15912075723121,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B055_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B055_pages/custom-classroom-notebook-rug-32dd233cb2.html,2026-09-07T10:59:27+07:00,en-US,US,https://chillgen.com/products/custom-classroom-notebook-rug-32dd233cb2,https://chillgen.com/products/custom-classroom-notebook-rug-32dd233cb2,Rug,School Bus Notebook Area Rug with Custom Text for Classroom and Playroom,School Bus Notebook Area Rug with Custom Text for Classroom and Playroom,Big Heart Teacher Appreciation Classroom Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom School Bus Notebook Area Rug for Learning Spaces,NONE_OR_NOT_OBSERVED,Big Heart Teacher Appreciation Classroom Rug,SET,44,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Add custom text to this school bus notebook area rug with rainbow bee and classroom details for bedrooms playrooms and educational learning spaces.,"Teacher appreciation classroom rug with Big Heart Little Minds quote, Mrs. Sophia custom name, pastel hearts and memory foam comfort.",SET,133,teacher appreciation classroom rug,"big heart little minds rug, custom teacher name mat, thank you teacher rug","teacher appreciation classroom rug; big heart little minds rug, custom teacher name mat, thank you teacher rug",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL,"Use motif-specific long tails: Spanish educational rug, personalized classroom rug, composition notebook classroom rug, teacher name welcome mat, kindness classroom rug, math teacher classroom rug, science classroom rug and teacher appreciation rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,teacher appreciation classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports teacher appreciation rug with big heart little minds quote and Mrs Sophia name and product-level buyer intent.,B055-547-BR01,"B055 buyers are teachers, bilingual educators and classroom decorators choosing floor pieces that combine learning prompts with personalization. Main drivers are readable educational text, custom teacher/name details, classroom fit, soft memory foam feel, non slip backing and easy clean construction.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This vibrant classroom rug is designed to spark creativity and learning in children's playrooms, bedrooms, and learning environments. Featuring a lively notebook style complete with a colorful border, a welcoming banner, and educational elements like rainbows, bees, and a school bus, it encourages kids to explore while they play. The soft, high-density memory foam construction provides foot pressure relief, making it a comfortable and educational addition to any space.</p><h3>Product Highlights</h3><ul>
+<li>Educational notebook design with colorful patterns, school themes, and custom text options to inspire children.</li>
+<li>Thick, plush, and soft surface ideal for toddlers, kids, and teenagers to play, read, or nap.</li>
+<li>Constructed with eco-friendly dyes for enduring vibrancy and a safe, odorless experience for families and pets.</li>
+<li>Features a non-slip backing to protect carpet floors and ensure secure movement.</li>
+<li>Stain-resistant and easy to clean, offering long-lasting durability with minimal maintenance.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Is Stain Resistant</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Water Resistance Level</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>composition notebook, elements successful, educational</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>back to school gifts, notebook</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Polyester / Plush Soft Surface</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash / Hand Wash</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Regular vacuuming, hand wash in cold water or machine wash separately. Do not use bleach.</td>
+</tr>
+<tr>
+<td>Drying</td>
+<td>Tumble dry or air dry at low temperature. Avoid prolonged soaking and high temperature exposure.</td>
+</tr>
+</table><h3>Where It Works</h3><p>Perfect for classrooms, playrooms, daycares, kindergartens, and homeschool environments. It also adds a charming, colorful touch to children's bedrooms and nursery spaces.</p>",Make product copy motif-specific while retaining verified public claims only.,"Teacher appreciation classroom rug with Big Heart Little Minds quote, Mrs. Sophia custom name, pastel hearts and memory foam comfort. Design details Pastel rug reads it takes a big heart to teach little minds, thank you for everything you do mrs. sophia. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Teacher appreciation classroom rug with Big Heart Little Minds quote, Mrs. Sophia custom name, pastel hearts and memory foam comfort.</p><h3>Design details</h3><ul><li>Pastel rug reads it takes a big heart to teach little minds, thank you for everything you do mrs. sophia.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B055-547,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5387802368a38956292fb23d84075e22240a3f9c88b2ad9b93315bcda8d49cd6.jpg?v=1784365596,,Main image shows Big Heart Little Minds quote with Mrs. Sophia.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0b581397904ba2bbb5364e3a376bfd60764395310cb74a616e76d06ade2e5ede.jpg?v=1784365596,,Classroom mockup shows pastel appreciation rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d0758beb10d8fcf490a22312c49fca7c40b9a87c74ab8d0e365fa94d24e9b588.jpg?v=1784365601,,Wide room view shows rug in playroom/classroom.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/98f2870dcac59711938dc8fcaf8e2111340490147e3c11d67226e56795fc16ce.jpg?v=1784365601,,Group activity scene shows rug scale.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ccc52fa8a4efbceba1e29ebd2da16bbb640b4ffafcdef32615421dfaf532a5b0.jpg?v=1784365607,,Feature callout shows learning pattern and bound edges.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/92a1bcb4f661d2719314f1af32b6a4bf78c840cd68512b88b8e72b9de02d13b9.jpg?v=1784365607,,Close-up highlights microfiber surface and memory foam cushion.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0f0b89800e9f3e31a8668399dbcd19aaf0d0db914cbe81c2dc832260a4627e81.jpg?v=1784365612,,Backing panel shows anti slip and stain resistance.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1a467fcbd82723629a0b5077f84707f457828d7779cd2e4d9971154fef9589d7.jpg?v=1784365612,,Clean product image shows full teacher appreciation quote.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/100e8a49eec78b4cb01581687aaf1e0492f2362539237857cf55b665677a6517.jpg?v=1784365618,,Teacher and children group scene on rug.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B055,chillgen.com,custom-composition-notebook-classroom-rug-non-slip-a1d50055bf,custom-composition-notebook-classroom-rug-non-slip-a1d50055bf,15912075886961,gid://shopify/Product/15912075886961,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B055_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B055_pages/custom-composition-notebook-classroom-rug-non-slip-a1d50055bf.html,2026-09-07T10:59:27+07:00,en-US,US,https://chillgen.com/products/custom-composition-notebook-classroom-rug-non-slip-a1d50055bf,https://chillgen.com/products/custom-composition-notebook-classroom-rug-non-slip-a1d50055bf,Rug,Composition Notebook Classroom Rug with Custom Name and Non Slip Backing,Composition Notebook Classroom Rug with Custom Name and Non Slip Backing,Math Teacher Classroom Rug with Custom Name,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Notebook Classroom Rug with Non Slip Backing,NONE_OR_NOT_OBSERVED,Math Teacher Classroom Rug with Custom Name,SET,43,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Create a personalized classroom space with a composition notebook rug featuring custom text a plush surface and non slip backing for active learning.,"Math teacher classroom rug with Mrs. Taylor custom name, geometry artwork, numbers, non slip backing and memory foam comfort.",SET,125,math teacher classroom rug,"personalized math classroom mat, geometry teacher rug, custom teacher name rug","math teacher classroom rug; personalized math classroom mat, geometry teacher rug, custom teacher name rug",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL,"Use motif-specific long tails: Spanish educational rug, personalized classroom rug, composition notebook classroom rug, teacher name welcome mat, kindness classroom rug, math teacher classroom rug, science classroom rug and teacher appreciation rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,math teacher classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports math teacher classroom rug with Mrs Taylor name and geometry notebook art and product-level buyer intent.,B055-548-BR01,"B055 buyers are teachers, bilingual educators and classroom decorators choosing floor pieces that combine learning prompts with personalization. Main drivers are readable educational text, custom teacher/name details, classroom fit, soft memory foam feel, non slip backing and easy clean construction.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Create an inspiring and educational space with this vibrant classroom area rug, styled like a classic composition notebook. Designed to spark creativity and curiosity, it is the perfect addition to playrooms, daycares, and learning environments. This soft and plush educational play mat offers a cozy, comfortable surface that invites children and toddlers to sit, play, read, or relax.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Features an engaging composition notebook design with a playful border, vibrant banner, and educational elements.</li>
+<li>Supports customized text input, making it a thoughtful, personalized touch for classrooms and new educators.</li>
+<li>Thick, plush, and soft surface crafted with high-density memory foam to comfortably relieve foot pressure.</li>
+<li>Equipped with a non-slip rubber backing to ensure stability and protect floors during active play.</li>
+<li>Stain-resistant, durable construction printed with eco-friendly dyes for lasting, vibrant colors.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form Type</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom, Daycare</td>
+</tr>
+<tr>
+<td>Water Resistance Level</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Is Stain Resistant</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>composition notebook, elements successful, educational</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>back to school gifts, notebook</td>
+</tr>
+<tr>
+<td>Occasion</td>
+<td>All season, Teacher's Day</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Product Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable, non-slip, stain-resistant</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This cozy educational rug is ideally suited for classrooms, preschools, and daycares to provide a defined learning area. It also fits beautifully in home environments like kids' bedrooms, playrooms, and living rooms for daily play and study.</p>",Make product copy motif-specific while retaining verified public claims only.,"Math teacher classroom rug with Mrs. Taylor custom name, geometry artwork, numbers, non slip backing and memory foam comfort. Design details Black rug reads mrs. taylor math makes us sharp with ruler, geometry diagrams, numbers and classroom doodles. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Math teacher classroom rug with Mrs. Taylor custom name, geometry artwork, numbers, non slip backing and memory foam comfort.</p><h3>Design details</h3><ul><li>Black rug reads mrs. taylor math makes us sharp with ruler, geometry diagrams, numbers and classroom doodles.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B055-548,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d38453468dc1806ccba37e3b8a2ec25965fb4212dd00e2ad2944b7fc46ac8032_1cc9fee9-5cb9-44b9-a6ed-142f7e13c61e.jpg?v=1784365569,,Main image shows Mrs. Taylor Math Makes Us Sharp rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/519da637251f887aead083e77fa1ad6358f564d81be308a7ee72d71e8fbc0db5_309c208f-2546-4e4b-a3c4-d0a7706221ba.jpg?v=1784365574,,Classroom mockup shows math rug in learning area.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5e4ed23644478ef6688215e458d737d2d88ac9eb73ca0f4a1b47b49527240bd0_5dd8998d-4f10-4e95-af9d-9c598a7170ad.jpg?v=1784365574,,Wide room view shows black math design.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b45c22b381079cb9efd6fc636b0a87d177ba7cec581a0e35a45f4928e27edb70_219ac3b5-1b70-4918-a2c3-afc49258319c.jpg?v=1784365579,,Teacher and students sit on math rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8a452efe37028f90e2f4504262981aabce47e28eec0631eb673e0af9549c1789_30d4c272-df74-4d5d-8b7e-2e447b775737.jpg?v=1784365580,,Feature image shows learning pattern and bound edges.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/53f53be3cb08f026f7d14e688df447dedd6060eafe22cf15c1d00333f35b1de0_8b1f58a2-ca60-45dd-9890-b4b8e1c88e5c.jpg?v=1784365585,,Backing panel highlights anti slip and soft material.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ea8a99b34a6337339a72d00b71d5065b7b2c4bc50071c0c8f04f824f1c948fc0_27efe811-877a-4321-a80f-8ac26a682084.jpg?v=1784365585,,Clean product image shows math quote and geometry art.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d7cca1573f35b66163025d3693d636720e594a236d265ae848b6adef8cd24e37_6a81fbfa-415c-49cf-a002-c12076de7dd7.jpg?v=1784365590,,Group reading/activity scene on math rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7c4af9b9c43dfd2439d4e1b2364e861a5a9504e9083aa71192cf75cd3d449610_ed1bb2ab-9e34-4403-a327-9cc502bd8170.jpg?v=1784365590,,Close-up shows microfiber surface and memory foam cushion.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B055,chillgen.com,customized-composition-notebook-classroom-rug-7b0ed5679d,customized-composition-notebook-classroom-rug-7b0ed5679d,15912075985265,gid://shopify/Product/15912075985265,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B055_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B055_pages/customized-composition-notebook-classroom-rug-7b0ed5679d.html,2026-09-07T10:59:27+07:00,en-US,US,https://chillgen.com/products/customized-composition-notebook-classroom-rug-7b0ed5679d,https://chillgen.com/products/customized-composition-notebook-classroom-rug-7b0ed5679d,Rug,Colorful Notebook Classroom Rug with Custom Name for Daycare and Playroom,Colorful Notebook Classroom Rug with Custom Name for Daycare and Playroom,Lined Paper Classroom Welcome Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Colorful Notebook Classroom Rug for Daycare,NONE_OR_NOT_OBSERVED,Lined Paper Classroom Welcome Rug,SET,33,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalize this colorful notebook classroom rug with school themed graphics and a soft surface for daycares playrooms classrooms and learning areas.,"Lined paper classroom welcome rug with Mrs. Smith custom name, pencil artwork, colorful letters and memory foam comfort.",SET,120,lined paper classroom rug,"personalized classroom welcome rug, custom teacher name mat, notebook teacher rug","lined paper classroom rug; personalized classroom welcome rug, custom teacher name mat, notebook teacher rug",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL,"Use motif-specific long tails: Spanish educational rug, personalized classroom rug, composition notebook classroom rug, teacher name welcome mat, kindness classroom rug, math teacher classroom rug, science classroom rug and teacher appreciation rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,lined paper classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,"Selected because page/image evidence supports lined paper classroom welcome rug with pencil, paper scraps and Mrs Smith name and product-level buyer intent.",B055-549-BR01,"B055 buyers are teachers, bilingual educators and classroom decorators choosing floor pieces that combine learning prompts with personalization. Main drivers are readable educational text, custom teacher/name details, classroom fit, soft memory foam feel, non slip backing and easy clean construction.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This vibrant classroom area rug features an engaging composition notebook style design, complete with colorful educational elements like rainbows, bees, a school bus, and inspirational reminders. Perfectly crafted to spark creativity and learning, it provides a cozy and secure space for children to study, play, and relax. Designed to protect your floors while adding a lively pop of color, it serves as an excellent decorative and educational tool for both teachers and parents.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Vibrant educational design inspired by a classroom notebook with colorful school-themed graphics.</li>
+<li>Supports personalization with one custom text input, making it a perfect unique gift for teachers.</li>
+<li>Thick, plush, and soft surface made with high-density memory foam to comfortably relieve foot pressure.</li>
+<li>Non-slip rubber backing ensures stability and safety for toddlers, kids, and pets.</li>
+<li>Stain-resistant, durable, and easy to clean, maintaining its vibrant colors over time.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form Type</td>
+<td>Area Rug</td>
+</tr>
+<li>Item Shape<td>Rectangular</td>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Is Stain Resistant</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Other Special Features of the Product</td>
+<td>Washable</td>
+</tr>
+<tr>
+<td>Water Resistance Level</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>composition notebook, elements successful, educational</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>back to school gifts, notebook</td>
+</tr>
+<tr>
+<td>Occasion</td>
+<td>All season, Teacher's Day</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</li>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polyester</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Product Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Regular vacuuming, hand wash in cold water or machine wash separately without bleach; tumble dry or air dry at low temperature; avoid prolonged soaking</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This educational area rug is ideal for indoor learning environments such as classrooms, preschools, daycares, and homeschool setups. It also fits perfectly in children's playrooms, bedrooms, nurseries, or living rooms to create a comfortable and inspiring play zone.</p>",Make product copy motif-specific while retaining verified public claims only.,"Lined paper classroom welcome rug with Mrs. Smith custom name, pencil artwork, colorful letters and memory foam comfort. Design details White lined paper rug reads welcome to mrs. smith's class with colorful letters, pencil, paper scraps and stars. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Lined paper classroom welcome rug with Mrs. Smith custom name, pencil artwork, colorful letters and memory foam comfort.</p><h3>Design details</h3><ul><li>White lined paper rug reads welcome to mrs. smith's class with colorful letters, pencil, paper scraps and stars.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B055-549,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/07f46a1ceda3e4b7b5babe70efce1b2a08ce6f2d14d522c4140f124317d41b82.jpg?v=1784365546,,Main image shows lined paper Welcome to Mrs. Smith's Class rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fc9ace66a62353871151fd46f08e0426b90d8a39a4be9f84bf0d21769512396a.jpg?v=1784365546,,Classroom mockup shows white notebook rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ffd8e090a9b15499c387a452cefdee9d65ff86b9851220eed253dc90d7d755e0.jpg?v=1784365551,,Playroom room view shows full rug placement.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4601a488b172ed05cb65d13e2fff0a4f72685b8a3a35bd0a630a4dea35098000.jpg?v=1784365552,,Teacher and kids activity scene on rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c3f482ce680bf432a298e2f8c3daae7e216c8b0d32636274e63d8aa334f42014.jpg?v=1784365556,,"Feature image highlights learning pattern, thickness and bound edges.",SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ec33e8c091cdef389496b68b142796466f139f1043f06a2e3c3edb11021ee7d6.jpg?v=1784365557,,Backing panel shows anti slip and stain resistance.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/30ab265ba98bae9aeb4ce404632caae281ec674296b0138de367d938a43ebcc3.jpg?v=1784365562,,Clean product image shows full pencil and paper design.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/61079de0bddbbb7d5a938977e4a555f4683a80fddc8a38abf6bdd8056f4ec953.jpg?v=1784365562,,Close-up shows microfiber surface and memory foam cushion.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f9a3f659cde5918c8b293a21245eade171504286f8255788d90aea22ec57d74d.jpg?v=1784365568,,Group activity image shows rug scale.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B055,chillgen.com,customized-composition-notebook-classroom-rug-3fad5212e6,customized-composition-notebook-classroom-rug-3fad5212e6,15912076181873,gid://shopify/Product/15912076181873,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B055_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B055_pages/customized-composition-notebook-classroom-rug-3fad5212e6.html,2026-09-07T10:59:27+07:00,en-US,US,https://chillgen.com/products/customized-composition-notebook-classroom-rug-3fad5212e6,https://chillgen.com/products/customized-composition-notebook-classroom-rug-3fad5212e6,Rug,Notebook Welcome Rug with Custom Teacher Name for Classroom Learning Area,Notebook Welcome Rug with Custom Teacher Name for Classroom Learning Area,Science Classroom Rug with Custom Teacher Name,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Notebook Welcome Rug with Teacher Name for Class,NONE_OR_NOT_OBSERVED,Science Classroom Rug with Custom Teacher Name,SET,46,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Welcome students with a notebook themed rug featuring a custom teacher name colorful patterns and a soft surface for classrooms and learning spaces.,"Science classroom rug with Mrs. Olivia custom name, periodic table elements of a successful student design and non slip backing.",SET,128,science classroom rug,"periodic table classroom rug, custom teacher name rug, successful student mat","science classroom rug; periodic table classroom rug, custom teacher name rug, successful student mat",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL,"Use motif-specific long tails: Spanish educational rug, personalized classroom rug, composition notebook classroom rug, teacher name welcome mat, kindness classroom rug, math teacher classroom rug, science classroom rug and teacher appreciation rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,science classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports science classroom rug with periodic table style successful student elements and product-level buyer intent.,B055-550-BR01,"B055 buyers are teachers, bilingual educators and classroom decorators choosing floor pieces that combine learning prompts with personalization. Main drivers are readable educational text, custom teacher/name details, classroom fit, soft memory foam feel, non slip backing and easy clean construction.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This vibrant and engaging classroom rug features a lively composition notebook design, complete with a notebook border and a colorful welcome theme to inspire young minds. Crafted with a soft and plush surface, it provides a comfortable space for children, toddlers, and teenagers to play, read, or relax. Designed for educational settings and play areas, this durable area rug brings both warmth and functionality to any learning environment.</p><h3>Product Highlights</h3><ul>
+<li>Engaging educational design featuring a composition notebook style with vibrant patterns</li>
+<li>Customizable option allowing personalization with a teacher's name</li>
+<li>Thick, plush, and soft memory foam surface to relieve foot pressure</li>
+<li>Non-slip rubber backing to protect carpet floors and ensure safety</li>
+<li>Stain-resistant, durable construction made with eco-friendly dyes</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom, Daycare, Playroom, Bedroom, Living Room</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Is Stain Resistant</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Composition Notebook, Educational</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Back to school gifts, notebook</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polyester</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash, Hand Wash</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Vacuum regularly, hand wash in cold water or machine wash separately, clean with damp cloth and mild soap (avoid bleach)</td>
+</tr>
+<tr>
+<td>Drying</td>
+<td>Tumble dry or air dry at low temperature, air dry, avoid high temperature exposure</td>
+</tr>
+</table><h3>Where It Works</h3><p>Perfect for educational environments such as classrooms, preschools, kindergartens, daycares, and homeschools. It also makes a wonderful and cozy addition to children's playrooms, bedrooms, nurseries, and living rooms.</p>",Make product copy motif-specific while retaining verified public claims only.,"Science classroom rug with Mrs. Olivia custom name, periodic table elements of a successful student design and non slip backing. Design details Black rug reads mrs. olivia elements of a successful student with colorful periodic-table style blocks like focus, respect and patience. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Science classroom rug with Mrs. Olivia custom name, periodic table elements of a successful student design and non slip backing.</p><h3>Design details</h3><ul><li>Black rug reads mrs. olivia elements of a successful student with colorful periodic-table style blocks like focus, respect and patience.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B055-550,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b01276f548df9df57b0d3c7b81190323ffc4818723df4ed115c50790eb7f7eae.jpg?v=1784365518,,Main image shows Mrs. Olivia successful student elements rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/92dd2e667c5aabe4b969b2888d5741487004767cf69300a79424a0bdc01f749a.jpg?v=1784365521,,Classroom mockup shows periodic table style rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f00b7d55c0b72f6df94004af3a7d2139aea5c103faf1769b282032194f9ac2e1.jpg?v=1784365523,,Wide room image shows science rug layout.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2338895c1065cf23a71ee2bdfa6ef7db18c10124b33eb2ad6208b67993fd31f6.jpg?v=1784365528,,Group activity scene shows rug under children.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a3d2f04a9df1e9cd587e14e7fff6160bbb0967995096d59382951c085d28e693.jpg?v=1784365529,,Feature image highlights learning pattern and bound edges.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2c4b003c80dcb791d38d400efb729324e9b112fd8cd09a0050d0c8edf53410ed.jpg?v=1784365535,,Close-up shows memory foam cushion and quick dry surface.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b192c9f5e8656ad72caa88f587ba331e0075447165ddb502259dfe3811ad267b.jpg?v=1784365535,,Teacher and children activity scene on rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e60d52a66fd11d3b2fbc400af2e730dfea8bd85554c8f53e33ce318243b08160.jpg?v=1784365540,,Clean product image shows elements grid.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4b2196ddf447211de7a97340baca95e968098d4e0dafeb4a4995365f4526bcf7.jpg?v=1784365540,,Backing panel shows anti slip and stain resistance.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

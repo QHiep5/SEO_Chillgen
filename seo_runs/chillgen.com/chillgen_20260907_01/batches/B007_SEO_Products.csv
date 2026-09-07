@@ -1,0 +1,584 @@
+schema_version,prompt_version,run_id,batch_id,shop_domain,product_key,Handle,product_id,product_gid,identity_status,source_export_ref,source_exported_at,locale,market,url,canonical_url,product_type,title_current,h1_current,title_proposed,title_action,h1_mapping_status,meta_title_current,meta_title_source_state,rendered_title_current,theme_title_suffix,meta_title_seo,meta_title_action,meta_title_chars,meta_description_current,meta_description_source_state,rendered_meta_description_current,meta_description_seo,meta_description_action,meta_description_chars,primary_keyword,secondary_keywords,long_tail_candidates,keyword_strategy,season,keyword_demand_evidence,keyword_serp_fit,meta_keyword,search_intent,keyword_validation_status,keyword_selection_reason,buyer_research_refs,buyer_search_summary,baseline_status,change_scope,mapping_status,mapping_version,description_current_html,description_changes_needed,description_proposed,description_proposed_html,description_change_mode,description_target_section,description_action,revision,review_status,review_reason,approved_by,approved_at,approved_fields,approved_revision,processing_status,evidence_status,content_qa_status,field_evidence_map,evidence_id,issues,img_1_link,img_1_alt_current,img_1_alt,img_1_alt_action,img_2_link,img_2_alt_current,img_2_alt,img_2_alt_action,img_3_link,img_3_alt_current,img_3_alt,img_3_alt_action,img_4_link,img_4_alt_current,img_4_alt,img_4_alt_action,img_5_link,img_5_alt_current,img_5_alt,img_5_alt_action,img_6_link,img_6_alt_current,img_6_alt,img_6_alt_action,img_7_link,img_7_alt_current,img_7_alt,img_7_alt_action,img_8_link,img_8_alt_current,img_8_alt,img_8_alt_action,img_9_link,img_9_alt_current,img_9_alt,img_9_alt_action,img_10_link,img_10_alt_current,img_10_alt,img_10_alt_action,img_11_link,img_11_alt_current,img_11_alt,img_11_alt_action,img_12_link,img_12_alt_current,img_12_alt,img_12_alt_action,img_13_link,img_13_alt_current,img_13_alt,img_13_alt_action,img_14_link,img_14_alt_current,img_14_alt,img_14_alt_action,img_15_link,img_15_alt_current,img_15_alt,img_15_alt_action,img_16_link,img_16_alt_current,img_16_alt,img_16_alt_action,img_17_link,img_17_alt_current,img_17_alt,img_17_alt_action,img_18_link,img_18_alt_current,img_18_alt,img_18_alt_action
+2.4,2.4,chillgen_20260907_01,B007,chillgen.com,personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04,personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04,15976499446129,gid://shopify/Product/15976499446129,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B007_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04.html,2026-09-07T02:11:32+07:00,en-US,US,https://chillgen.com/products/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04,https://chillgen.com/products/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04,Rug,Personalized Pet Dog Welcome Door Mat with Photo and Name (A04) - A04,Personalized Pet Dog Welcome Door Mat with Photo and Name (A04) - A04,Personalized Dog Approval Doormat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Pet Dog Welcome Door Mat – (A04) - A04,NONE_OR_NOT_OBSERVED,Personalized Dog Approval Doormat,SET,33,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"This personalized welcome doormat features a custom pet photo and name, with a non-slip backing, perfect for entryways and covered outdoor spaces.","Customize a dog approval welcome mat with pet photo, name text, paw prints, non-slip backing visuals, and entryway mockups.",SET,123,personalized dog approval doormat,"custom dog photo welcome mat, personalized pet doormat, dog name door mat","personalized dog approval doormat; custom dog photo welcome mat, personalized pet doormat, dog name door mat",LONG_TAIL_CANDIDATE,EVERGREEN_PET_LOVER,"SERP_ONLY: public marketplace/category results show custom pet doormats, personalized dog door mats, koi/3D pond mats, and nautical rugs; no paid volume or first-party search data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized dog approval doormat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports personalized dog approval welcome mat and product-level buyer intent.,B007-061-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: personalized entryway gifting for pet owners, calming Japanese koi pond decor, or nautical welcome-aboard decor.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This personalized pet welcome doormat creates a warm and memorable entrance for your home. Featuring a custom photo and name design, this mat celebrates your furry friend while adding a unique touch to your front door. It is designed to catch dirt, dust, mud, and moisture from daily foot traffic, making it a functional and personal home accent.</p><h3>Product Highlights</h3><ul>
+<li>Personalized with your dog or cat photo and name</li>
+<li>Soft fabric surface provides comfort</li>
+<li>Neoprene rubber backing helps keep the mat securely in place</li>
+<li>Helps catch dirt, dust, mud, and moisture</li>
+<li>Suitable for various indoor and covered outdoor spaces</li>
+<li>Easy to clean and maintain for everyday use</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor/Outdoor</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non-Slip Backing, Personalized</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Custom Photo &amp; Name</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Pet, Dog, Cat, Welcome</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Personalized</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Neoprene Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Shake off, vacuum, hose down, or spot clean with mild soap and water when needed. Air dry only.</td>
+</tr>
+</table><h3>Where It Works</h3><p>This versatile doormat is suitable for front doors, entryways, porches, patios, kitchens, laundry rooms, mudrooms, or other covered outdoor spaces. It's an ideal addition to any home that values a personal touch and functional decor.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a dog approval welcome mat with pet photo, name text, paw prints, non-slip backing visuals, and entryway mockups. Design details Rectangular tan doormat with a golden retriever photo, black paw prints, and the text visitors must be approved by chance, shown held by a person, at doorways, beside a bed, with customized photo and non-skid cleaning graphic. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Customize a dog approval welcome mat with pet photo, name text, paw prints, non-slip backing visuals, and entryway mockups.</p><h3>Design details</h3><ul><li>Rectangular tan doormat with a golden retriever photo, black paw prints, and the text visitors must be approved by chance, shown held by a person, at doorways, beside a bed, with customized photo and non-skid cleaning graphic.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B007-061,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/32257609732fee64d3788f1d3c81067eac07dfc7292c5f6083bfb033af412a87.jpg?v=1787250648,,personalized dog approval doormat with golden retriever photo and paw prints,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/291ee55bd19b767fba20da5dcbcac6fe3808a83c378cd9c1b384fd2690fedf6d.jpg?v=1787250648,,person holding tan dog approval welcome mat with pet photo,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8bc63d4a55e5be8ae0bc55aa7d1769f374b7161a66d525d95f7d4b4098b78a5d.jpg?v=1787250648,,dog approval mat placed at an exterior doorway,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fdccb7eaf300fa90e3e0c20fc92212ce6fd47fcc6c9977d43ee32b85d3402826.jpg?v=1787250648,,angled doorway mockup of dog approval mat with Chance name,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/039b59e536363bec06d6752e2433d2cf9a5c5a29eb98c7ad9f044ea5d7525518.jpg?v=1787250648,,customized photo graphic for dog approval welcome mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/28751965f00a4915e207644d456e5ee77ed44b4930108d5b164dd56c91238eda.jpg?v=1787250648,,dog approval mat shown on light wood entry floor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/13bf79f46f8978cee74d81df70fa055dfc5b4f8951b524adf6375283b2368306.jpg?v=1787250648,,dog approval mat displayed beside a bed,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/40e531dbec6503664cf021486d7fe42df0e7c0b034abfe4148e136ed91e705a8.jpg?v=1787250648,,non-skid backing and easy-clean graphic for dog approval mat,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B007,chillgen.com,personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02,personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02,15976493384049,gid://shopify/Product/15976493384049,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B007_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02.html,2026-09-07T02:11:32+07:00,en-US,US,https://chillgen.com/products/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02,https://chillgen.com/products/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02,Rug,Personalized Pet Dog Welcome Door Mat with Photo and Name - Design 02,Personalized Pet Dog Welcome Door Mat with Photo and Name - Design 02,Custom Dog Photo Welcome Mat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Pet Dog Welcome Door Mat – - Design 02,NONE_OR_NOT_OBSERVED,Custom Dog Photo Welcome Mat,SET,28,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"This personalized welcome mat with a soft fabric surface and non-slip backing is perfect for entryways, kitchens, or patios.","Create a custom dog welcome mat with pet photo artwork, script welcome text, soft fabric surface, non-slip backing, and entryway mockups.",SET,137,custom dog photo welcome mat,"personalized dog door mat, pet photo doormat, dog welcome mat","custom dog photo welcome mat; personalized dog door mat, pet photo doormat, dog welcome mat",LONG_TAIL_CANDIDATE,EVERGREEN_PET_LOVER,"SERP_ONLY: public marketplace/category results show custom pet doormats, personalized dog door mats, koi/3D pond mats, and nautical rugs; no paid volume or first-party search data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,custom dog photo welcome mat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports custom dog welcome mat and product-level buyer intent.,B007-062-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: personalized entryway gifting for pet owners, calming Japanese koi pond decor, or nautical welcome-aboard decor.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This personalized pet doormat creates a warm and memorable entrance for any home. Featuring a custom photo and name design, it's a unique way to celebrate a furry friend while adding personality to your front door. Designed for daily foot traffic, it helps catch dirt and moisture while providing a welcoming touch.</p><h3>Product Highlights</h3><ul>
+<li>Features a custom pet photo and name design to personalize your entrance.</li>
+<li>Soft fabric surface provides comfort and helps trap dirt.</li>
+<li>Non-slip neoprene rubber backing helps keep the mat securely in place.</li>
+<li>Helps catch dirt, dust, mud, and moisture from daily foot traffic.</li>
+<li>Suitable for various indoor and covered outdoor spaces.</li>
+<li>Easy to clean and maintain with multiple cleaning options.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor/Outdoor</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Personalized</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Pet</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Welcome Mat</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Neoprene Rubber</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Soft Fabric</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Shake off, vacuum, hose down, or spot clean with mild soap and water when needed. Air dry only.</td>
+</tr>
+</table><h3>Where It Works</h3><p>This versatile doormat is ideal for front doors, entryways, porches, and patios. It also works well in kitchens, laundry rooms, and mudrooms, providing a personalized and functional addition to high-traffic areas.</p>",Make product copy motif-specific while retaining verified public claims only.,"Create a custom dog welcome mat with pet photo artwork, script welcome text, soft fabric surface, non-slip backing, and entryway mockups. Design details Rectangular tan mat with script welcome text and an illustrated dog peeking over a line, shown held by a person, at doorways, beside a bed, with backing thickness and custom photo variant graphics. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Create a custom dog welcome mat with pet photo artwork, script welcome text, soft fabric surface, non-slip backing, and entryway mockups.</p><h3>Design details</h3><ul><li>Rectangular tan mat with script welcome text and an illustrated dog peeking over a line, shown held by a person, at doorways, beside a bed, with backing thickness and custom photo variant graphics.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B007-062,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1a71385cb3fcfa26196c23e82462e4501b0d967a4a051647c10ab5b6cb80f069.jpg?v=1787248250,,tan welcome mat with illustrated dog peeking over a line,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/dee59576dca397e6aa341397491df22a0626ed9575ebd803e714272fe2f28940.jpg?v=1787248250,,person holding custom dog welcome mat with script welcome text,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/43aa6021c9fd73344300d10fc803b7388cab1a01e7aa9189da87d6b3ecc51206.jpg?v=1787248250,,non-skid backing and 3 mm thickness graphic for dog welcome mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/beb26a3db98c7ec9b51a2f2a92587c0a339121fa85b096afb29c403d80f97324.jpg?v=1787248250,,dog welcome mat placed by an exterior doorway,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8aaa681a9648a7afadfec129077dd4ff2d1380c30ea99ed3140b565424e4f1a4.jpg?v=1787248250,,dog welcome mat on light wood entry floor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/432a5a1885cb1ae823d9767971229ad2735714ad0059c838ddf9d1cf4d5673ae.jpg?v=1787248251,,angled doorway mockup of dog welcome mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f1690e7b464d781c7344013e45f42d9b02d54cc27dc1c4f8f35408c40a725c99.jpg?v=1787248250,,dog welcome mat displayed beside a bed,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/48b1a3c35497c63b2e268a71731d9cf32b80155d137626f5ff8cf226402024dd.jpg?v=1787248250,,custom photo variant with white dog on welcome mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3a7a3fa5f475286a5200ef6de3d157409ab5ef88fa2f2ae7dd39ecd53868a521.jpg?v=1787248250,,custom photo variant with black and white dog on welcome mat,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B007,chillgen.com,personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01,personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01,15976492859761,gid://shopify/Product/15976492859761,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B007_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01.html,2026-09-07T02:11:32+07:00,en-US,US,https://chillgen.com/products/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01,https://chillgen.com/products/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01,Rug,Personalized Pet Dog Welcome Door Mat with Photo and Name - Design 01,Personalized Pet Dog Welcome Door Mat with Photo and Name - Design 01,Personalized Dog House Doormat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Pet Dog Welcome Door Mat – - Design 01,NONE_OR_NOT_OBSERVED,Personalized Dog House Doormat,SET,30,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"This personalized pet doormat, made of sponge-memory foam, features a non-slip backing, perfect for welcoming guests in your entryway.","Personalize a dog house doormat with pet photo artwork, custom house text, entryway mockups, non-slip backing visuals, and easy-clean detail.",SET,141,personalized dog house doormat,"custom pet photo doormat, dog welcome door mat, personalized pet mat","personalized dog house doormat; custom pet photo doormat, dog welcome door mat, personalized pet mat",LONG_TAIL_CANDIDATE,EVERGREEN_PET_LOVER,"SERP_ONLY: public marketplace/category results show custom pet doormats, personalized dog door mats, koi/3D pond mats, and nautical rugs; no paid volume or first-party search data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized dog house doormat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports welcome to dog house photo mat and product-level buyer intent.,B007-063-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: personalized entryway gifting for pet owners, calming Japanese koi pond decor, or nautical welcome-aboard decor.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This personalized pet doormat offers a warm and inviting entrance, allowing you to feature a cherished photo and name of your dog or cat. It adds a unique touch of personality to your front door while celebrating your beloved furry companion. Designed for both aesthetic appeal and practical use, this doormat is a distinctive addition to any home.</p><h3>Product Highlights</h3><ul>
+<li>Customizable with your favorite pet photo and name for a unique welcome.</li>
+<li>Soft fabric surface provides a comfortable feel underfoot.</li>
+<li>Non-slip neoprene rubber backing helps keep the mat securely in place.</li>
+<li>Effectively catches dirt, dust, mud, and moisture from daily foot traffic.</li>
+<li>Suitable for use in various indoor and covered outdoor spaces.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor/Outdoor</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non-Slip, Personalized</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Personalized</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Pets</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Neoprene Rubber</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Soft Fabric</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Shake off, vacuum, hose down, or spot clean with mild soap and water. Air dry only.</td>
+</tr>
+</table><h3>Where It Works</h3><p>This versatile pet welcome doormat is ideal for front doors, entryways, porches, patios, kitchens, laundry rooms, and mudrooms. Its durable construction and personalized design make it perfect for adding a personal touch to covered outdoor spaces and high-traffic areas within your home.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalize a dog house doormat with pet photo artwork, custom house text, entryway mockups, non-slip backing visuals, and easy-clean detail. Design details Rectangular tan mat with a large dog portrait and text welcome to cooper's house, shown held by a person, at doorways, beside a bed, with customized photo and backing graphic. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalize a dog house doormat with pet photo artwork, custom house text, entryway mockups, non-slip backing visuals, and easy-clean detail.</p><h3>Design details</h3><ul><li>Rectangular tan mat with a large dog portrait and text welcome to cooper's house, shown held by a person, at doorways, beside a bed, with customized photo and backing graphic.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B007-063,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d57c192ca6bb99673334162ea2de3331be5f7f5d9788b58348e5cf680b2c20dd.jpg?v=1787247938,,personalized dog house doormat with Cooper's House text,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/718f452646ca16de8aa20e33629f3ea975ce694cbcf5c7ebc4c75ffa530460db.jpg?v=1787247938,,person holding tan dog house photo doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c19fa712d48e19ab3e4ab6e06011b0ea072f00e2c8a937b035410f2b52669a46.jpg?v=1787247937,,dog house mat placed at doorway with Cooper's House text,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/59b8177c9f5f674573dff63b2c3a0fcfe298fa2bcccd8a4665a0efbcb29ddf60.jpg?v=1787247938,,angled doorway mockup of dog house photo mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/02b0782b90ed975b6104eb31d3ab44923862055057152513a0d43e26a8a5f66f.jpg?v=1787247938,,customized photo graphic for dog house doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/16cd56e31e7522dc6c970116cb8b78f2733c06e417536e5518ffdc5e879cc46c.jpg?v=1787247938,,dog house doormat shown on light wood entry floor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a094e03da43b7821c9dbfb1bb7fc06fd3c184a3124528ca07c1042723777751b.jpg?v=1787247938,,dog house photo mat displayed beside a bed,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f1154b6608a22ace3cfe941d8998b36e690d71ff09d62ec673e0155aae1462f1.jpg?v=1787247937,,non-skid backing and easy-clean graphic for dog house mat,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B007,chillgen.com,personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03,personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03,15976492761457,gid://shopify/Product/15976492761457,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B007_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03.html,2026-09-07T02:11:32+07:00,en-US,US,https://chillgen.com/products/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03,https://chillgen.com/products/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03,Rug,Personalized Pet Dog Welcome Door Mat with Photo and Name - Design 03,Personalized Pet Dog Welcome Door Mat with Photo and Name - Design 03,Personalized Multi-Pet Welcome Mat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Pet Dog Welcome Door Mat – - Design 03,NONE_OR_NOT_OBSERVED,Personalized Multi-Pet Welcome Mat,SET,34,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,This personalized pet doormat with a soft fabric surface and non-slip backing is ideal for front doors and covered outdoor spaces.,"Customize a multi-pet welcome mat with paw and footprint icons, pet names, welcome-to-our-home text, non-slip backing visuals, and doorway mockups.",SET,147,personalized multi pet welcome mat,"custom pet name doormat, dog paw welcome mat, personalized pet door mat","personalized multi pet welcome mat; custom pet name doormat, dog paw welcome mat, personalized pet door mat",LONG_TAIL_CANDIDATE,EVERGREEN_PET_LOVER,"SERP_ONLY: public marketplace/category results show custom pet doormats, personalized dog door mats, koi/3D pond mats, and nautical rugs; no paid volume or first-party search data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized multi pet welcome mat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports multi-pet welcome home doormat and product-level buyer intent.,B007-064-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: personalized entryway gifting for pet owners, calming Japanese koi pond decor, or nautical welcome-aboard decor.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This personalized pet doormat creates a warm and memorable entrance for your home. Featuring a custom design with your pet's photo and name, it celebrates your furry friend while adding a unique touch to your front door. It serves as a welcoming accent, reflecting your personal style.</p><h3>Product Highlights</h3><ul>
+<li>Customizable with your pet's photo and name for a unique welcome mat.</li>
+<li>Soft fabric surface provides a comfortable feel underfoot.</li>
+<li>Non-slip neoprene rubber backing helps keep the mat securely in place.</li>
+<li>Designed to help trap dirt, dust, mud, and moisture from daily foot traffic.</li>
+<li>Suitable for various entryways, patios, and covered outdoor spaces.</li>
+<li>Easy to clean through shaking, vacuuming, hosing down, or spot cleaning.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor Outdoor</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Personalized</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Pet, Dog, Cat</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Personalized</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Neoprene Rubber</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Soft Fabric</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Shake off, vacuum, hose down, or spot clean with mild soap and water. Air dry only.</td>
+</tr>
+</table><h3>Where It Works</h3><p>This versatile doormat is suitable for front doors, entryways, porches, patios, kitchens, laundry rooms, mudrooms, or covered outdoor spaces. It's designed for busy homes and everyday use, providing a personalized welcome wherever it's placed.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a multi-pet welcome mat with paw and footprint icons, pet names, welcome-to-our-home text, non-slip backing visuals, and doorway mockups. Design details Rectangular tan mat with script welcome, text to our home, multiple paw and footprint icons labeled ruby, lucas, jennie, and chance, shown in doorway and bedside mockups with backing graphic. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Customize a multi-pet welcome mat with paw and footprint icons, pet names, welcome-to-our-home text, non-slip backing visuals, and doorway mockups.</p><h3>Design details</h3><ul><li>Rectangular tan mat with script welcome, text to our home, multiple paw and footprint icons labeled ruby, lucas, jennie, and chance, shown in doorway and bedside mockups with backing graphic.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B007-064,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8e3b52cddf2687d45de16b566a30627a34b7d4c4617787630de314099fa261bb.jpg?v=1787247923,,multi-pet welcome mat with paw and footprint icons plus pet names,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f2c3444cef5e6af90a2824ffebca22785daeb605e7b72882289d3d6abbdc03d2.jpg?v=1787247923,,person holding personalized multi-pet welcome mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/125e6344a5a88d8d9b6c6d710d186596f179d20c3a681b076bfd9f5029ea1108.jpg?v=1787247923,,multi-pet welcome home mat displayed beside a bed,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/33ae24ec6fd4a6374dcc7ed93e58b9f439a775e84d178204d872bb39b86e505d.jpg?v=1787247923,,multi-pet welcome mat placed at a doorway,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2970c3731d1b7ed32acc4d0b899794babfa295a4a2d4876a7d5387118498af3a.jpg?v=1787247923,,multi-pet welcome mat on light wood entry floor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ed66aa68ddd5a785d6ddbbdf56a710697552d700af816aea3f7c1052ddf2a789.jpg?v=1787247923,,angled doorway mockup of multi-pet welcome mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0c667030b14b07cbc8a79bb60bae6675f830617afe000a35f0b35c5c7d6183fe.jpg?v=1787247923,,non-skid backing and easy-clean graphic for multi-pet mat,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B007,chillgen.com,personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05,personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05,15976492630385,gid://shopify/Product/15976492630385,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B007_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05.html,2026-09-07T02:11:32+07:00,en-US,US,https://chillgen.com/products/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05,https://chillgen.com/products/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05,Rug,Personalized Pet Dog Welcome Door Mat with Photo and Name (A05) - A05,Personalized Pet Dog Welcome Door Mat with Photo and Name (A05) - A05,Personalized Luna Dog Doormat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Pet Dog Welcome Door Mat – (A05) - A05,NONE_OR_NOT_OBSERVED,Personalized Luna Dog Doormat,SET,29,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"This personalized doormat features a custom pet photo, a soft fabric surface, and a non-slip backing, perfect for welcoming guests at your entryway.","Create a personalized dog doormat with welcome-to-house text, pet portrait artwork, custom photo option, doorway mockups, and non-slip backing visuals.",SET,151,personalized dog name doormat,"custom dog photo doormat, welcome to dog house mat, pet name door mat","personalized dog name doormat; custom dog photo doormat, welcome to dog house mat, pet name door mat",LONG_TAIL_CANDIDATE,EVERGREEN_PET_LOVER,"SERP_ONLY: public marketplace/category results show custom pet doormats, personalized dog door mats, koi/3D pond mats, and nautical rugs; no paid volume or first-party search data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized dog name doormat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports welcome to Luna's house dog mat and product-level buyer intent.,B007-065-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: personalized entryway gifting for pet owners, calming Japanese koi pond decor, or nautical welcome-aboard decor.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This personalized pet welcome doormat creates a warm and memorable entrance, featuring a custom photo and name of your beloved dog or cat. It's a sweet way to celebrate your furry friend while adding personality to your front door. Designed to catch dirt, dust, mud, and moisture, this mat is suitable for everyday use in busy homes.</p><h3>Product Highlights</h3><ul>
+<li>Features custom pet photo and name design for a unique welcome mat.</li>
+<li>Soft fabric surface provides comfort underfoot.</li>
+<li>Non-slip neoprene rubber backing helps keep the mat securely in place.</li>
+<li>Helps catch dirt, dust, mud, and moisture from daily foot traffic.</li>
+<li>Suitable for both indoor and covered outdoor spaces.</li>
+<li>Easy to clean and maintain with various methods.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor/Outdoor</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Neoprene Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Shake off, vacuum, hose down, or spot clean with mild soap and water when needed.</td>
+</tr>
+<tr>
+<td>Drying</td>
+<td>Air dry only.</td>
+</tr>
+</table><h3>Where It Works</h3><p>This personalized pet doormat is ideal for front doors, entryways, porches, patios, kitchens, laundry rooms, mudrooms, or covered outdoor spaces. Its design and functionality make it a versatile addition to various areas of your home.</p>",Make product copy motif-specific while retaining verified public claims only.,"Create a personalized dog doormat with welcome-to-house text, pet portrait artwork, custom photo option, doorway mockups, and non-slip backing visuals. Design details Rectangular tan mat with text welcome to luna's house and a dog portrait peeking over a border, shown held by a person, at doorways, beside a bed, with custom photo variants and backing graphic. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Create a personalized dog doormat with welcome-to-house text, pet portrait artwork, custom photo option, doorway mockups, and non-slip backing visuals.</p><h3>Design details</h3><ul><li>Rectangular tan mat with text welcome to luna's house and a dog portrait peeking over a border, shown held by a person, at doorways, beside a bed, with custom photo variants and backing graphic.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B007-065,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e841be8b4cfd4ab2ac5884baafc43f733f69b2dcaf94ccb0b536be81a341a1c2.jpg?v=1787247905,,welcome to Luna's house dog doormat with portrait artwork,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c2e5ce02201403d6f25f4bc936bce045ac70481afd676d838c41818b33e96a21.jpg?v=1787247905,,person holding Luna dog name doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/01b22e4dd3ecad907263be129a17101597d8de99d36e54e1cbeb056ff7606306.jpg?v=1787247905,,Luna dog doormat shown on light wood entry floor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a5a9655f2d75735f10c7f2c43e3e4337922dce639ee349716e0bcffe09a82f06.jpg?v=1787247905,,angled doorway mockup of Luna dog mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/04cf956eaa91fa43167a91c51a1ad07dbe4e49c503b2b01b0be5dc474d9daf8b.jpg?v=1787247905,,customized photo graphic for Luna dog doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3e6940e6082816f60ca831c2011a91192788a1fa2526304d2c9de8a60e7c79d4.jpg?v=1787247905,,custom photo variant with corgi-style dog on Luna mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/bb31d6316e3ab906c3ec21ff3f0a0fd8469e19d88fd482863331f16d3827df15.jpg?v=1787247905,,Luna dog doormat displayed beside a bed,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b8c4230cc1f3b6332fa046acc7bfd44402518f84a40c27254d9503ab1590c8d6.jpg?v=1787247905,,Luna dog doormat placed at exterior doorway,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c8c0c9ca61e9e046f176879a75be0011c09b96bf16c35b1158521b275b5d7a7f.jpg?v=1787247905,,non-skid backing and easy-clean graphic for Luna dog mat,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B007,chillgen.com,custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01,custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01,15976488862065,gid://shopify/Product/15976488862065,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B007_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01.html,2026-09-07T02:11:32+07:00,en-US,US,https://chillgen.com/products/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01,https://chillgen.com/products/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01,Rug,"Custom Japanese Koi Fish Shaped Area Rug, Personalized 3D - Design 01","Custom Japanese Koi Fish Shaped Area Rug, Personalized 3D - Design 01",Japanese Koi Pond Shaped Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Custom Japanese Koi Fish Shaped Area Rug, – - Design 01",NONE_OR_NOT_OBSERVED,Japanese Koi Pond Shaped Rug,SET,28,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"This shaped area rug features a 3D Koi pond design with a soft, non-slip backing, perfect for enhancing bedrooms and living rooms.","Add a Japanese koi pond shaped rug with mossy edge, lily pads, white flowers, 3D pond artwork, kid-and-pet mockups, and cleaning visuals.",SET,137,Japanese koi pond shaped rug,"3D koi fish rug, koi pond area rug, Japanese fish rug","Japanese koi pond shaped rug; 3D koi fish rug, koi pond area rug, Japanese fish rug",LONG_TAIL_CANDIDATE,EVERGREEN_ZEN_DECOR,"SERP_ONLY: public marketplace/category results show custom pet doormats, personalized dog door mats, koi/3D pond mats, and nautical rugs; no paid volume or first-party search data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,Japanese koi pond shaped rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports moss edge koi pond rug and product-level buyer intent.,B007-066-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: personalized entryway gifting for pet owners, calming Japanese koi pond decor, or nautical welcome-aboard decor.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This unique area rug features a captivating 3D Koi pond design, bringing a serene and natural aesthetic to any room. Its realistic depiction of koi fish, lotus leaves, and pond water creates an optical illusion that enhances your home decor. Ideal for adding a distinctive touch, this shaped rug serves as both a functional floor mat and an artistic accent piece.</p><h3>Product Highlights</h3><ul>
+<li>Features a 3D Koi pond design with realistic aquatic and floral elements.</li>
+<li>Crafted with a soft, suede-like upper layer for comfortable interaction.</li>
+<li>Equipped with a non-slip bottom for stable use on indoor surfaces.</li>
+<li>Low pile construction made from high-quality polypropylene for easy maintenance.</li>
+<li>Reinforced serged edges contribute to the rug's long-term durability.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Custom Shape</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Living Room, Reading Corner, Meditation Space, Entryway</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>3D Koi Pond, Lotus, Stones</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Japanese, Zen, Nature-inspired</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polypropylene, Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Suede-like upper layer</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Easy to clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This rug is well-suited for various indoor settings, including bedrooms, living rooms, and entryways. It also enhances reading corners and meditation spaces, aligning with a Japanese-style home decor theme to create a calm and inviting atmosphere.</p>",Make product copy motif-specific while retaining verified public claims only.,"Add a Japanese koi pond shaped rug with mossy edge, lily pads, white flowers, 3D pond artwork, kid-and-pet mockups, and cleaning visuals. Design details Irregular pond-shaped rug with moss-green edge, dark water, lily pads, white flowers, and a red-and-white koi fish, shown in room mockups with kid and pet friendly, cleaning, size chart, and lighting images; gallery contains repeated image set. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Add a Japanese koi pond shaped rug with mossy edge, lily pads, white flowers, 3D pond artwork, kid-and-pet mockups, and cleaning visuals.</p><h3>Design details</h3><ul><li>Irregular pond-shaped rug with moss-green edge, dark water, lily pads, white flowers, and a red-and-white koi fish, shown in room mockups with kid and pet friendly, cleaning, size chart, and lighting images; gallery contains repeated image set.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B007-066,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d076d62bad6f67e52b4a0e5e3ce4b3b4b94ad54b595c944ca45cbdc3dce40476.jpg?v=1787246941,,"koi pond shaped rug with moss edge, lily pads and white flowers",SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/87343532f9b419c139c5d50b4944e55bb50cb29245f27e8a7d32127f68ee109c.jpg?v=1787246941,,overhead room mockup of moss edge koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/da62311ade567585851e29aac0e8d7e61ece77957964ad8486e699c4c77d39ab.jpg?v=1787246940,,isolated moss edge koi pond rug on white background,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cd208c87ac8b757254ad979fc8bb6eddd6db796048d894ff99aa75c9fd6ae8ec.jpg?v=1787246940,,koi pond rug in bright living room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/385b94e7e085d3157686393010262e59c1ca23516758f905006be01be34cb381.jpg?v=1787246940,,kid and pet friendly graphic for koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5d02a1cd409147fe9a3d4167560522c8581fbe2bd7d45cbe259acffbf071d71e.jpg?v=1787246940,,machine washable robot cleaning and vacuum graphic for koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/62d87a37e5636c2a8cd7c8f547a8118b58005f5807e8b0eaf37d902abf0a44a3.jpg?v=1787246940,,multi-room mockup collage for koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a567b605ecabb1b45e50bf476af8aa3d81df73dfc9b4a1b8e7db340d81db74f9.jpg?v=1787246941,,size chart and backing view for koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/860002fbccb2b23e12055faad56c24c0564c15a45bec0dedb4c94ab57c6f46b9.jpg?v=1787246941,,lighting variation graphic for koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d076d62bad6f67e52b4a0e5e3ce4b3b4b94ad54b595c944ca45cbdc3dce40476_a3d16c4d-0078-4159-83bc-497347730406.jpg?v=1787247416,,repeated dark floor view of moss edge koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/87343532f9b419c139c5d50b4944e55bb50cb29245f27e8a7d32127f68ee109c_67eaf068-258c-4ed0-ada7-08d7cd480367.jpg?v=1787247416,,repeated overhead room mockup of koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/da62311ade567585851e29aac0e8d7e61ece77957964ad8486e699c4c77d39ab_c332bd5b-1b0a-43ee-ab99-d30e0a1ffd93.jpg?v=1787247416,,repeated isolated view of koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cd208c87ac8b757254ad979fc8bb6eddd6db796048d894ff99aa75c9fd6ae8ec_51946b02-2995-4dd4-b0bb-436907b0b4fe.jpg?v=1787247416,,repeated bright living room mockup of koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/385b94e7e085d3157686393010262e59c1ca23516758f905006be01be34cb381_b51b1496-6613-4289-b310-109057223f83.jpg?v=1787247416,,repeated kid and pet friendly graphic for koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5d02a1cd409147fe9a3d4167560522c8581fbe2bd7d45cbe259acffbf071d71e_3faae7c6-dc57-4201-8969-bc1ea490700d.jpg?v=1787247416,,repeated cleaning graphic for koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/62d87a37e5636c2a8cd7c8f547a8118b58005f5807e8b0eaf37d902abf0a44a3_1b8ab3fc-cc7d-41d1-a964-1cfe51f51968.jpg?v=1787247416,,repeated multi-room mockup collage for koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a567b605ecabb1b45e50bf476af8aa3d81df73dfc9b4a1b8e7db340d81db74f9_b7987058-6de3-414d-b3ab-12e742af4045.jpg?v=1787247416,,repeated size chart for koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/860002fbccb2b23e12055faad56c24c0564c15a45bec0dedb4c94ab57c6f46b9_8221cd0f-6696-40c2-8b05-1dc3983ef123.jpg?v=1787247416,,repeated lighting variation graphic for koi pond rug,SET
+2.4,2.4,chillgen_20260907_01,B007,chillgen.com,custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04,custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04,15976486470001,gid://shopify/Product/15976486470001,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B007_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04.html,2026-09-07T02:11:32+07:00,en-US,US,https://chillgen.com/products/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04,https://chillgen.com/products/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04,Rug,"Custom Japanese Koi Fish Shaped Area Rug, Personalized 3D - Design 04","Custom Japanese Koi Fish Shaped Area Rug, Personalized 3D - Design 04",Stone Border Koi Pond Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Custom Japanese Koi Fish Shaped Area Rug, – - Design 04",NONE_OR_NOT_OBSERVED,Stone Border Koi Pond Rug,SET,25,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"This Japanese-style koi fish area rug features a 3D optical illusion design and a non-slip backing, perfect for living rooms.","Style a room with a stone border koi pond rug featuring 3D water artwork, multiple koi fish, room mockups, cleaning visuals, and size chart.",SET,140,stone border koi pond rug,"3D koi pond rug, Japanese koi fish rug, koi area rug","stone border koi pond rug; 3D koi pond rug, Japanese koi fish rug, koi area rug",LONG_TAIL_CANDIDATE,EVERGREEN_ZEN_DECOR,"SERP_ONLY: public marketplace/category results show custom pet doormats, personalized dog door mats, koi/3D pond mats, and nautical rugs; no paid volume or first-party search data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,stone border koi pond rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports stone border koi pond rug and product-level buyer intent.,B007-067-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: personalized entryway gifting for pet owners, calming Japanese koi pond decor, or nautical welcome-aboard decor.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This uniquely shaped area rug brings the serene beauty of a 3D koi pond into your home. Featuring realistic imagery of koi fish, lotus leaves, and natural stones, it creates a calming focal point. With a soft upper layer and non-slip backing, this rug combines comfort with practicality, making it an ideal addition to various indoor spaces.</p><h3>Product Highlights</h3><ul>
+<li>Features a 3D koi fish pond design with nature-inspired artwork.</li>
+<li>Designed for Zen-inspired room decor.</li>
+<li>Soft suede-like upper layer provides comfortable touch.</li>
+<li>Equipped with a non-slip bottom for stable indoor use.</li>
+<li>Made with low pile polypropylene for easy cleaning.</li>
+<li>Reinforced serged edges enhance durability.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Custom Shape</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Living Room, Reading Corner, Meditation Space, Entryway</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non-Slip, Easy Care, Durable Edges</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>3D Koi Pond, Lotus, Stones</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Koi Fish, Zen, Nature</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Japanese-style</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polypropylene, Sponge - Memory Foam (Suede-like upper layer)</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Easy to clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This area rug is suitable for enhancing the aesthetic of bedrooms, living rooms, and meditation spaces. Its design complements Zen-inspired or Japanese-style home decor, creating a peaceful ambiance in reading corners or entryways.</p>",Make product copy motif-specific while retaining verified public claims only.,"Style a room with a stone border koi pond rug featuring 3D water artwork, multiple koi fish, room mockups, cleaning visuals, and size chart. Design details Oval pond rug with rounded stone border, green-blue water, and several koi fish in red, white, yellow, and orange, shown in living room, multi-room, lighting, kid/pet, cleaning, and size chart images. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Style a room with a stone border koi pond rug featuring 3D water artwork, multiple koi fish, room mockups, cleaning visuals, and size chart.</p><h3>Design details</h3><ul><li>Oval pond rug with rounded stone border, green-blue water, and several koi fish in red, white, yellow, and orange, shown in living room, multi-room, lighting, kid/pet, cleaning, and size chart images.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B007-067,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2c0c47d3146ba69d3ecf772e2e7179f35e74cc618ed9022f0c24e847449f0e55.jpg?v=1787246190,,stone border koi pond rug with multiple koi fish,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3d3ecf62969b5cd05d1cf8332058bc4361b7d53aaf1c77b36ec55fed911b8d5d.jpg?v=1787246190,,overhead room mockup of stone border koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4c4634e63ae380ef66f4ab2fa75803043b61fc14af52a67d431db9ba7cea9a91.jpg?v=1787246190,,bright living room mockup of stone border koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c14bc36c70ded58bacc463cf371a844d28f85a8535e25a446227b467a6f7b617.jpg?v=1787246190,,isolated view of oval stone border koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/50737b7377f06ef4b3e345c9fe9d3abfe6a487ac6ae26a91364c06c157e0c732.jpg?v=1787246190,,multi-room mockup collage for stone border koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/dce222035c5e35dc58f6de97f7a8c8114a8851d86c19fb27e644f4999af02ebc.jpg?v=1787246190,,lighting variation graphic for stone border koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f6df55a69f6fbacdc68e528bc76c45d4dc395c69b352af6f3eada9e6b1af94a5.jpg?v=1787246190,,kid and pet friendly graphic for stone border koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/43bd49fee52d5adebe59f37e5ba689ceb5c8689fb1725e1c252afc3ff1e27ddf.jpg?v=1787246190,,machine washable robot cleaning and vacuum graphic for stone border koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/38ad0df3f354f44d14ff22b0e546b8e1e71e35f6ffa35c4e3ea524f4735923fe.jpg?v=1787246190,,size chart and backing view for stone border koi pond rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B007,chillgen.com,custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08,custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08,15976486404465,gid://shopify/Product/15976486404465,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B007_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08.html,2026-09-07T02:11:32+07:00,en-US,US,https://chillgen.com/products/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08,https://chillgen.com/products/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08,Rug,"Custom Japanese Koi Fish Shaped Area Rug, Personalized 3D - Design 08","Custom Japanese Koi Fish Shaped Area Rug, Personalized 3D - Design 08",Swirl Water Koi Pond Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Custom Japanese Koi Fish Shaped Area Rug, – - Design 08",NONE_OR_NOT_OBSERVED,Swirl Water Koi Pond Rug,SET,24,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"This custom Japanese Koi Fish shaped area rug features a 3D optical illusion design and a non-slip backing, ideal for bedroom decor.","Choose a swirl water koi pond rug with Japanese fish artwork, green lily clusters, 3D pond styling, cleaning visuals, and room mockups.",SET,135,swirl water koi pond rug,"Japanese koi fish rug, 3D koi pond rug, koi area rug","swirl water koi pond rug; Japanese koi fish rug, 3D koi pond rug, koi area rug",LONG_TAIL_CANDIDATE,EVERGREEN_ZEN_DECOR,"SERP_ONLY: public marketplace/category results show custom pet doormats, personalized dog door mats, koi/3D pond mats, and nautical rugs; no paid volume or first-party search data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,swirl water koi pond rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports swirl water koi pond rug and product-level buyer intent.,B007-068-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: personalized entryway gifting for pet owners, calming Japanese koi pond decor, or nautical welcome-aboard decor.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Discover a unique accent for your home with this custom-shaped area rug, featuring a vibrant 3D koi pond design. This rug showcases realistic imagery of koi fish, lotus leaves, and stones, bringing a touch of nature-inspired artistry indoors. Crafted for both visual appeal and comfort, it serves as a distinctive decorative piece for various living spaces.</p><h3>Product Highlights</h3><ul>
+<li>Features a 3D koi pond design with realistic fish, water, and lotus elements.</li>
+<li>Soft suede-like upper layer provides a comfortable touch underfoot.</li>
+<li>Equipped with a non-slip bottom for enhanced stability during indoor use.</li>
+<li>Made from durable polypropylene with a low pile for easy maintenance.</li>
+<li>Designed with reinforced serged edges for long-lasting quality.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+</table><h3>Where It Works</h3><p>This rug is an excellent choice for creating a serene and decorative atmosphere in bedrooms, living rooms, and meditation spaces. It also functions well in reading corners, entryways, or any area seeking a Japanese-style home decor touch, offering both comfort and visual interest.</p>",Make product copy motif-specific while retaining verified public claims only.,"Choose a swirl water koi pond rug with Japanese fish artwork, green lily clusters, 3D pond styling, cleaning visuals, and room mockups. Design details Irregular pond-shaped rug with dark teal swirling water, clustered green lily pads, and three orange-and-white koi fish, shown in room mockups with kid/pet, cleaning, size, and lighting graphics. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Choose a swirl water koi pond rug with Japanese fish artwork, green lily clusters, 3D pond styling, cleaning visuals, and room mockups.</p><h3>Design details</h3><ul><li>Irregular pond-shaped rug with dark teal swirling water, clustered green lily pads, and three orange-and-white koi fish, shown in room mockups with kid/pet, cleaning, size, and lighting graphics.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B007-068,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3915630dba795ef07322fb94d43827fd9cefbd7819e421322604d02d0b332413.jpg?v=1787246170,,swirl water koi pond rug with green lily clusters and orange koi,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/48c763cd62487c8ac96c174c91cf3903a340f2f7d0dcec819f6749dca1e5a039.jpg?v=1787246170,,kid and pet friendly graphic for swirl water koi rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/016a3e8559e33eda19cb5ba103681db3b68c6ecd64c089b9160aa8f7e179f64e.jpg?v=1787246170,,machine washable robot cleaning and vacuum graphic for swirl water koi rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9cda59f5cf1938346ff6f80833b3c61cda4f4b6e5b222525221dd66b64e8ed4e.jpg?v=1787246170,,isolated swirl water koi pond rug on white background,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c7ddad4baacb484d644301c4f69797dc4905aeb82fefe184172b8dd1381144b7.jpg?v=1787246170,,overhead room mockup of swirl water koi rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b8bb605f913af480a5fcc01c3874e0ea80f03cb4fc4dd5e129b67f2d724454a9.jpg?v=1787246170,,bright living room mockup of swirl water koi rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1036f2155391e0464cde976e9e9acf2c018f0b015da12ba309beafe73809a0c4.jpg?v=1787246170,,multi-room mockup collage for swirl water koi rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/218cefb65c638e0550c968afdc9440b843aad13ea34d79561bb9cb088c557339.jpg?v=1787246170,,size chart and backing view for swirl water koi rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fdc0e83703c6ac9f5f292c8b4786da9ce0cff4b399622ebb4422c511233ae9a2.jpg?v=1787246170,,lighting variation graphic for swirl water koi rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B007,chillgen.com,custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical,custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical,15976486338929,gid://shopify/Product/15976486338929,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B007_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical.html,2026-09-07T02:11:32+07:00,en-US,US,https://chillgen.com/products/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical,https://chillgen.com/products/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical,Rug,"Custom Japanese Koi Fish Shaped Area Rug, Personalized 3D Optical","Custom Japanese Koi Fish Shaped Area Rug, Personalized 3D Optical",3D Optical Koi Pond Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Japanese Koi Fish Shaped – Personalized 3D Optical,NONE_OR_NOT_OBSERVED,3D Optical Koi Pond Rug,SET,23,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"This Japanese Koi Fish area rug features a 3D optical illusion pond design with a non-slip backing, perfect for bedroom or living room decor.","Decorate with a 3D optical koi pond rug featuring stone edging, swimming koi, pink flowers, room mockups, cleaning visuals, and size chart.",SET,139,3D optical koi pond rug,"Japanese koi fish rug, koi pond area rug, stone border koi rug","3D optical koi pond rug; Japanese koi fish rug, koi pond area rug, stone border koi rug",LONG_TAIL_CANDIDATE,EVERGREEN_ZEN_DECOR,"SERP_ONLY: public marketplace/category results show custom pet doormats, personalized dog door mats, koi/3D pond mats, and nautical rugs; no paid volume or first-party search data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,3D optical koi pond rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports 3D optical koi pond rug and product-level buyer intent.,B007-069-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: personalized entryway gifting for pet owners, calming Japanese koi pond decor, or nautical welcome-aboard decor.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This unique area rug brings a touch of tranquility and natural beauty to any space with its 3D Koi Pond design. Featuring realistic koi fish, lotus leaves, and stones, it creates an immersive optical illusion that transforms your floor. Ideal for enhancing the ambiance of various rooms, this rug combines artistic design with practical features for comfortable and stable indoor use.</p>
+<h3>Product Highlights</h3>
+<ul>
+<li>Features a captivating 3D Koi Pond design with realistic fish and natural elements.</li>
+<li>Soft suede-like upper layer provides a comfortable touch underfoot.</li>
+<li>Non-slip bottom ensures stability for safe indoor placement.</li>
+<li>Reinforced serged edges contribute to the rug's long-lasting durability.</li>
+<li>Low pile construction allows for easy cleaning and maintenance.</li>
+</ul>
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Custom Shape</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Living Room, Reading Corner, Meditation Space, Entryway</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non-Slip, Washable, Easy Care</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>3D Optical Illusion, Nature-inspired</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Japanese Koi Fish, Zen</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Japanese-style home decor</td>
+</tr>
+</table>
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polypropylene, Sponge - Memory Foam (Suede-like upper layer)</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Easy to clean</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Washable</td>
+</tr>
+</table>
+<h3>Where It Works</h3>
+<p>This versatile area rug is perfect for creating a serene atmosphere in bedrooms, living rooms, and meditation spaces. Its unique design also makes it an excellent addition to reading corners and entryways, especially for those looking to complement Japanese-style home decor.</p>",Make product copy motif-specific while retaining verified public claims only.,"Decorate with a 3D optical koi pond rug featuring stone edging, swimming koi, pink flowers, room mockups, cleaning visuals, and size chart. Design details Pond-shaped rug with light stone border, green-blue water, multiple red and yellow koi fish, and pink flowers at the edge, shown in room mockups with cleaning, lighting, size chart, and kid/pet friendly graphics. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Decorate with a 3D optical koi pond rug featuring stone edging, swimming koi, pink flowers, room mockups, cleaning visuals, and size chart.</p><h3>Design details</h3><ul><li>Pond-shaped rug with light stone border, green-blue water, multiple red and yellow koi fish, and pink flowers at the edge, shown in room mockups with cleaning, lighting, size chart, and kid/pet friendly graphics.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B007-069,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/de16754fafa4a6319fdd2c76a277c276f3a8fb146e9dc171670b347baa810505.jpg?v=1787246132,,3D optical koi pond rug with stone edge and pink flowers,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2fea1deb0b202151ae15ce3be7ed76fac4002482ea24ca270f6b287188131ee2.jpg?v=1787246132,,overhead room mockup of 3D optical koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6f7d9dabf3a1002900d6864e982f6e1d44bc1da3abe34f58ec594a9ba5697629.jpg?v=1787246132,,isolated 3D optical koi pond rug on white background,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4746494f6ea37499ecbdc30d9b40e86e63dc8217890e4ea2ec004b4e7ef80713.jpg?v=1787246132,,bright living room mockup of 3D optical koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0a5bf0b6fd5e3aa1c4207326cbf3efff9f5a39b500c897b8ba35c4a788794431.jpg?v=1787246132,,machine washable robot cleaning and vacuum graphic for 3D optical koi rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1ea46763a4ad2a1a51447b30c5aa9eef11bcfec9757ea897332eb909b372224c.jpg?v=1787246132,,lighting variation graphic for 3D optical koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/38066e8df9c4f82b67cbe965040dd30c10461e7beb59f58b62b139278e5e3b5e.jpg?v=1787246132,,size chart and backing view for 3D optical koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3cab5e1984522b87b3df0539f7898c417cf9e757fa6e16bb32f3e64c1b9ca0e1.jpg?v=1787246132,,multi-room mockup collage for 3D optical koi pond rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/066e9758b117c316c6c9c5011e066587e8f6980ded93e7de8c9f0653c6f0a7f4.jpg?v=1787246132,,kid and pet friendly graphic for 3D optical koi pond rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B007,chillgen.com,boat-rug-03-boat-rug-03-design-22,boat-rug-03-boat-rug-03-design-22,15976482210161,gid://shopify/Product/15976482210161,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B007_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/boat-rug-03-boat-rug-03-design-22.html,2026-09-07T02:11:32+07:00,en-US,US,https://chillgen.com/products/boat-rug-03-boat-rug-03-design-22,https://chillgen.com/products/boat-rug-03-boat-rug-03-design-22,Rug,Boat Rug 03 - Boat Rug 03 - Design 22,Boat Rug 03 - Boat Rug 03 - Design 22,Personalized Welcome Aboard Boat Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Boat Rug 03 - Boat Rug 03 - Design 22 – ChillGen,NONE_OR_NOT_OBSERVED,Personalized Welcome Aboard Boat Rug,SET,36,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized nautical polyester rug, machine-made with a low pile, ideal as a welcome aboard mat for decks and entryways.","Customize a welcome aboard boat rug with boat name and location text, nautical compass artwork, black-and-white styling, and entryway decor appeal.",SET,147,personalized welcome aboard boat rug,"custom boat name rug, nautical entryway rug, boat welcome mat","personalized welcome aboard boat rug; custom boat name rug, nautical entryway rug, boat welcome mat",LONG_TAIL_CANDIDATE,EVERGREEN_NAUTICAL,"SERP_ONLY: public marketplace/category results show custom pet doormats, personalized dog door mats, koi/3D pond mats, and nautical rugs; no paid volume or first-party search data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized welcome aboard boat rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports personalized welcome aboard boat rug and product-level buyer intent.,B007-070-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: personalized entryway gifting for pet owners, calming Japanese koi pond decor, or nautical welcome-aboard decor.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This custom boat rug offers a personalized touch for any marine setting, featuring classic anchors and maritime typography. Ideal for welcoming guests aboard, it serves as a stylish and functional accent for various boat areas or coastal-themed spaces. The design allows for personalization with a boat name, family name, or custom text, creating a unique item for boat owners.</p><h3>Product Highlights</h3><ul>
+<li>Personalize with boat name, family name, or custom text for a unique design.</li>
+<li>Versatile for use as a boat floor mat, marine rug, or nautical area rug.</li>
+<li>Features classic anchors, rope accents, and maritime typography.</li>
+<li>Suitable for decks, cabins, docks, entryways, and living spaces.</li>
+<li>Thoughtful gift for captains, boat owners, and sailing enthusiasts.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Anchor, Rope accents, Maritime typography</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polyester</td>
+</tr>
+</table><h3>Where It Works</h3><p>This nautical rug is designed for a variety of marine and coastal environments. It is perfect for boat decks, cabins, docks, and entryways, enhancing the aesthetic of any boat. Additionally, its versatile design makes it suitable for patios, indoor living spaces, or covered outdoor areas where a coastal theme is desired.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a welcome aboard boat rug with boat name and location text, nautical compass artwork, black-and-white styling, and entryway decor appeal. Design details Rectangular black and white nautical rug with compass rose, border lines, and text welcome aboard, boat name, and location, shown in a bright coastal entryway. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Customize a welcome aboard boat rug with boat name and location text, nautical compass artwork, black-and-white styling, and entryway decor appeal.</p><h3>Design details</h3><ul><li>Rectangular black and white nautical rug with compass rose, border lines, and text welcome aboard, boat name, and location, shown in a bright coastal entryway.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B007-070,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b525a09db439b8aa05569d6630a1f43123a33081f37c8645528473bd335b2c0a.jpg?v=1787245165,,black and white welcome aboard boat rug with compass and boat name text,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

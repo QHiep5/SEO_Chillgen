@@ -1,0 +1,793 @@
+schema_version,prompt_version,run_id,batch_id,shop_domain,product_key,Handle,product_id,product_gid,identity_status,source_export_ref,source_exported_at,locale,market,url,canonical_url,product_type,title_current,h1_current,title_proposed,title_action,h1_mapping_status,meta_title_current,meta_title_source_state,rendered_title_current,theme_title_suffix,meta_title_seo,meta_title_action,meta_title_chars,meta_description_current,meta_description_source_state,rendered_meta_description_current,meta_description_seo,meta_description_action,meta_description_chars,primary_keyword,secondary_keywords,long_tail_candidates,keyword_strategy,season,keyword_demand_evidence,keyword_serp_fit,meta_keyword,search_intent,keyword_validation_status,keyword_selection_reason,buyer_research_refs,buyer_search_summary,baseline_status,change_scope,mapping_status,mapping_version,description_current_html,description_changes_needed,description_proposed,description_proposed_html,description_change_mode,description_target_section,description_action,revision,review_status,review_reason,approved_by,approved_at,approved_fields,approved_revision,processing_status,evidence_status,content_qa_status,field_evidence_map,evidence_id,issues,img_1_link,img_1_alt_current,img_1_alt,img_1_alt_action,img_2_link,img_2_alt_current,img_2_alt,img_2_alt_action,img_3_link,img_3_alt_current,img_3_alt,img_3_alt_action,img_4_link,img_4_alt_current,img_4_alt,img_4_alt_action,img_5_link,img_5_alt_current,img_5_alt,img_5_alt_action,img_6_link,img_6_alt_current,img_6_alt,img_6_alt_action,img_7_link,img_7_alt_current,img_7_alt,img_7_alt_action,img_8_link,img_8_alt_current,img_8_alt,img_8_alt_action,img_9_link,img_9_alt_current,img_9_alt,img_9_alt_action,img_10_link,img_10_alt_current,img_10_alt,img_10_alt_action,img_11_link,img_11_alt_current,img_11_alt,img_11_alt_action,img_12_link,img_12_alt_current,img_12_alt,img_12_alt_action,img_13_link,img_13_alt_current,img_13_alt,img_13_alt_action,img_14_link,img_14_alt_current,img_14_alt,img_14_alt_action,img_15_link,img_15_alt_current,img_15_alt,img_15_alt_action,img_16_link,img_16_alt_current,img_16_alt,img_16_alt_action,img_17_link,img_17_alt_current,img_17_alt,img_17_alt_action,img_18_link,img_18_alt_current,img_18_alt,img_18_alt_action,img_19_link,img_19_alt_current,img_19_alt,img_19_alt_action
+2.4,2.4,chillgen_20260907_01,B011,chillgen.com,personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat,personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat,15969302446449,gid://shopify/Product/15969302446449,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B011_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B011_pages/personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat.html,2026-09-07T02:33:12+07:00,en-US,US,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat,Rug,"Personalized Teacher Classroom Rug, Custom Back to School Welcome Mat","Personalized Teacher Classroom Rug, Custom Back to School Welcome Mat",Personalized Classroom Welcome Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized Teacher Classroom Rug, – School Welcome Mat",NONE_OR_NOT_OBSERVED,Personalized Classroom Welcome Rug,SET,34,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"This back-to-school style area rug is personalized, machine-made with sponge-memory foam, and ideal for classroom floors.","Customize a classroom welcome rug with teacher-name text, colorful affirmations, school icons, size chart, washable care and backing visuals.",SET,141,personalized classroom welcome rug,"custom teacher name rug, back to school welcome mat, classroom affirmation rug","personalized classroom welcome rug; custom teacher name rug, back to school welcome mat, classroom affirmation rug",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL_EVERGREEN,"SERP_ONLY: public marketplace/category pages show personalized teacher classroom rugs, back-to-school welcome mats, custom classroom doormats, teacher-name decor and school-season entry rugs. No paid volume, Search Console, or internal search data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized classroom welcome rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports personalized classroom affirmation welcome rug and product-level buyer intent.,B011-101-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: teachers and gift buyers want personalized back-to-school classroom rugs that welcome students, show teacher/classroom identity, and add colorful decor for entry, reading, or circle-time spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This personalized classroom rug offers a warm and inviting touch to any learning environment. Designed with a vibrant back-to-school theme, it features playful educational motifs that create a cheerful atmosphere. This durable area rug is ideal for making classroom spaces feel organized and ready for a new academic year.</p><h3>Product Highlights</h3><ul>
+<li>Customizable with teacher name, classroom name, or welcome text.</li>
+<li>Features colorful school-inspired details like crayons and apples.</li>
+<li>Soft and durable construction for everyday use.</li>
+<li>Equipped with a non-woven fabric top and sponge interlayer for comfort.</li>
+<li>Low-pile construction and reinforced edges for easy care and durability.</li>
+<li>Suitable for various learning and living spaces.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Checkered</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Alphabet</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Vacuum regularly or spot clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This versatile rug is well-suited for classrooms, reading corners, activity areas, and welcome setups. It can also enhance the ambiance of bedrooms, living rooms, playrooms, daycares, preschools, and homeschool environments.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a classroom welcome rug with teacher-name text, colorful affirmations, school icons, size chart, washable care and backing visuals. Design details Black classroom rug with in this classroom you are wording, teacher-name classroom strip, colorful school characters and supplies, affirmation labels such as loved, kind, special, important and courageous, classroom scenes, size chart, machine-washable visual and backing details. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Customize a classroom welcome rug with teacher-name text, colorful affirmations, school icons, size chart, washable care and backing visuals.</p><h3>Design details</h3><ul><li>Black classroom rug with in this classroom you are wording, teacher-name classroom strip, colorful school characters and supplies, affirmation labels such as loved, kind, special, important and courageous, classroom scenes, size chart, machine-washable visual and backing details.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B011-101,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0252c420e77969b7773c7184f197dfd51697a86b07e0c928cd2d698e788945e2.jpg?v=1786646330,,personalized classroom affirmation welcome rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5004e8b7842c2dbed56f0a7e62eb5e210d2b8a2d440623f3a57ad56266a9ef4f.jpg?v=1786646329,,size chart for custom classroom welcome rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7a84eed18009522098a1ae2135aef2fa21311e76c16e111fe786d41e8d04074a.jpg?v=1786646330,,close angled view of classroom affirmation rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ec522d6a9022a9cd363b403f3ade369cd1ab1f9dda67ee3b55d81c892d366e5f.jpg?v=1786646329,,teacher-name welcome rug beside desks,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3da3bf266619bfc71280582a2f8bdef59eb27a27f0ed9fd0f6fee7f958b695a2.jpg?v=1786646329,,custom classroom welcome mat in home classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/26ff6e54fc28c299a27d20aafdc054a556f041dc891afa515167b8aae2716661.jpg?v=1786646329,,teacher with students on affirmation welcome rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a674732cd22dd8b3d395c94d7e6dca85341ee1031de0b7d222322f32ee6eee45.jpg?v=1786646329,,large classroom mockup of personalized welcome rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7f1e8d698641a0e9181cae4300d55e3969c33a3f0e05c6f1356061ddb5864c3d.jpg?v=1786646330,,machine washable vacuum cleaner graphic for classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5c33264dded8c5b0801018b706b27bf393e81cedba7c67be4f981647d58f6496.jpg?v=1786646329,,material and non-slip backing detail for welcome rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B011,chillgen.com,personalized-teacher-classroom-rug-custom-back-to-school-design-100,personalized-teacher-classroom-rug-custom-back-to-school-design-100,15969302511985,gid://shopify/Product/15969302511985,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B011_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B011_pages/personalized-teacher-classroom-rug-custom-back-to-school-design-100.html,2026-09-07T02:33:12+07:00,en-US,US,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-100,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-100,Rug,"Personalized Teacher Classroom Rug, Custom Back to School - Design 100","Personalized Teacher Classroom Rug, Custom Back to School - Design 100",Personalized It's Okay Classroom Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized Teacher Classroom Rug, Custom – - Design 100",NONE_OR_NOT_OBSERVED,Personalized It's Okay Classroom Rug,SET,36,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized rectangular classroom rug with low pile, made from sponge-memory foam, ideal for educational and learning spaces.","Customize an It's Okay classroom rug with teacher-name text, ocean animals, reassurance prompts, size chart, washable care and backing visuals.",SET,143,personalized it's okay classroom rug,"custom teacher SEL rug, classroom reassurance rug, back to school teacher rug","personalized it's okay classroom rug; custom teacher SEL rug, classroom reassurance rug, back to school teacher rug",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL_EVERGREEN,"SERP_ONLY: public marketplace/category pages show personalized teacher classroom rugs, back-to-school welcome mats, custom classroom doormats, teacher-name decor and school-season entry rugs. No paid volume, Search Console, or internal search data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized it's okay classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports personalized it's okay classroom rug and product-level buyer intent.,B011-102-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: teachers and gift buyers want personalized back-to-school classroom rugs that welcome students, show teacher/classroom identity, and add colorful decor for entry, reading, or circle-time spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This personalized classroom rug offers a warm and inviting atmosphere for educational spaces. Designed with a bright, school-inspired theme, it brings cheerful decor to any room. It serves as a thoughtful and functional piece for teachers seeking to enhance their classroom environment.</p><h3>Product Highlights</h3><ul>
+<li>Customizable with a teacher's name or welcome text</li>
+<li>Features colorful school-themed graphics like crayons and apples</li>
+<li>Soft and durable material for comfortable everyday use</li>
+<li>Designed for easy placement in various room settings</li>
+<li>Low-pile construction for simple maintenance</li>
+<li>Reinforced serged edges enhance durability</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form Type</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Water Resistance Level</td>
+<td>Not Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Checkered</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Alphabet</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table><h3>Where It Works</h3><p>This rug is suitable for various educational settings, including classrooms, preschools, daycares, and elementary rooms. It can also enhance learning spaces in playrooms, bedrooms, and living rooms.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize an It's Okay classroom rug with teacher-name text, ocean animals, reassurance prompts, size chart, washable care and backing visuals. Design details Aqua ocean classroom rug with it's okay to wording, sea animals and coral, teacher-name classroom text and reassurance prompts including start over, make mistakes, have bad days, have feelings, not know something, ask for help and change your mind, with classroom scenes and washable/backing graphics. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Customize an It's Okay classroom rug with teacher-name text, ocean animals, reassurance prompts, size chart, washable care and backing visuals.</p><h3>Design details</h3><ul><li>Aqua ocean classroom rug with it's okay to wording, sea animals and coral, teacher-name classroom text and reassurance prompts including start over, make mistakes, have bad days, have feelings, not know something, ask for help and change your mind, with classroom scenes and washable/backing graphics.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B011-102,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/32e3703b5ff52dc03324b6e1f99f09b7a64a7cc319a41cac9341e6a96cdbc4e9.jpg?v=1786646344,,it's okay classroom rug in classroom mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9bd9fa6d63b479d5c887c76c8adcf7773eb1fa9f042d67217af6579bb3edcc79.jpg?v=1786646344,,size chart for personalized ocean classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/eb056b5c168331b02d7ba2dd37295f5dec23f70fa78ab8d154ae3a712303935b.jpg?v=1786646344,,close view of it's okay rug with sea animals,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2d9ca82e1f4d4179c95ca2a9336940714a63aa29cfbf95ff2692bfbf877727d2.jpg?v=1786646344,,teacher-name reassurance rug beside desks,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6d39f3949bd5918468ca430b5ea893585b09af5a560018eb89bceb7a5c7153a8.jpg?v=1786646344,,custom it's okay rug in home classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9410527b3dfa1da2a2de30997a57e7d8a95902dda718f80863ddc064572336f5.jpg?v=1786646344,,teacher with students on ocean SEL rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/de9e0fdfb519e7687488515f86d3c5ddf5c4232474b5f89f499133d3bece4e16.jpg?v=1786646344,,large classroom scene with it's okay rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4f0a25ebbf2422eea0d9f2b75f800becc99a4a2a7ac853c19136770b48e97430.jpg?v=1786646344,,machine washable vacuum cleaner graphic for SEL rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/032258c597a75361328a7124e03c9e9dfd5eebae33411101f92fa3f62b5353a7.jpg?v=1786646344,,material and non-slip backing detail for ocean classroom rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B011,chillgen.com,personalized-teacher-classroom-rug-custom-back-to-school-design-101,personalized-teacher-classroom-rug-custom-back-to-school-design-101,15969302577521,gid://shopify/Product/15969302577521,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B011_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B011_pages/personalized-teacher-classroom-rug-custom-back-to-school-design-101.html,2026-09-07T02:33:12+07:00,en-US,US,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-101,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-101,Rug,"Personalized Teacher Classroom Rug, Custom Back to School - Design 101","Personalized Teacher Classroom Rug, Custom Back to School - Design 101",Personalized Neon Classroom Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized Teacher Classroom Rug, Custom – - Design 101",NONE_OR_NOT_OBSERVED,Personalized Neon Classroom Rug,SET,31,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"This personalized Back to School style area rug with a low pile height is made from sponge-memory foam, perfect for classrooms.","Customize a neon classroom welcome rug with teacher-name text, chalkboard school icons, size chart, washable care and backing visuals.",SET,134,personalized neon classroom rug,"custom teacher welcome rug, neon classroom decor, back to school classroom mat","personalized neon classroom rug; custom teacher welcome rug, neon classroom decor, back to school classroom mat",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL_EVERGREEN,"SERP_ONLY: public marketplace/category pages show personalized teacher classroom rugs, back-to-school welcome mats, custom classroom doormats, teacher-name decor and school-season entry rugs. No paid volume, Search Console, or internal search data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized neon classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports personalized neon classroom welcome rug and product-level buyer intent.,B011-103-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: teachers and gift buyers want personalized back-to-school classroom rugs that welcome students, show teacher/classroom identity, and add colorful decor for entry, reading, or circle-time spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This personalized classroom rug creates a warm and inviting atmosphere for learning spaces. Featuring a bright, school-inspired design, this rug can be customized with a teacher's name or welcome text, making it a special addition to any classroom. It's designed for comfort and durability, providing a cheerful and organized feel for a new school year.</p><h3>Product Highlights</h3><ul>
+<li>Personalized with teacher name or welcome text</li>
+<li>Bright design with colorful school-inspired details</li>
+<li>Soft and durable construction for everyday use</li>
+<li>Low-pile for easy maintenance</li>
+<li>Suitable for various classroom areas and learning spaces</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Checkered</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Alphabet</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Vacuum regularly or spot clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This rug is ideal for creating a welcoming environment in classrooms, reading corners, activity areas, and entryways. Its durable design also makes it suitable for playrooms, daycares, preschools, and elementary rooms.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a neon classroom welcome rug with teacher-name text, chalkboard school icons, size chart, washable care and backing visuals. Design details Black chalkboard-style rug with neon colors, welcome to teacher-name classroom wording, school icons including globe, backpack, pencils, books, notebook and science flask, shown in classroom scenes with size chart, washable graphic and non-slip backing detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Customize a neon classroom welcome rug with teacher-name text, chalkboard school icons, size chart, washable care and backing visuals.</p><h3>Design details</h3><ul><li>Black chalkboard-style rug with neon colors, welcome to teacher-name classroom wording, school icons including globe, backpack, pencils, books, notebook and science flask, shown in classroom scenes with size chart, washable graphic and non-slip backing detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B011-103,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/aa2c25fa7fd6d32ffde5d67b118b8d600edcc64ef61048fc5bf279ca3c90dddf.jpg?v=1786646357,,neon teacher classroom welcome rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f419c0f958a6969cd002d131ef064952ad74456e53073f16ea9cb051ea4159ce.jpg?v=1786646357,,size chart for personalized neon classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a03a1cddd33c782b6cfdb83e49fe0550c4a529d88d403e670a774880b174c194.jpg?v=1786646357,,close angled view of neon school icon rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/199e8debf4295e4bc522a9f098d12141436786e5f6320dff0075534c7ce57067.jpg?v=1786646357,,custom neon teacher rug beside desks,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/af6f477be7ffb2942251df3fe63f21be58212646865ca5897f988acd125ca8bb.jpg?v=1786646357,,neon classroom rug in home classroom scene,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4d41595e57ab0f1e40390756fc14495e9d1e01b68309c6dbb415f1a92312f64e.jpg?v=1786646357,,teacher with students on neon classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/314c6073c4933db1e17778968cde634b03a13432b9339e4a5d9fb7892087c92b.jpg?v=1786646357,,large classroom mockup of neon welcome rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/54e23838b30410e1e092776c57300a2d7f8a07eb09c22d2848ad0a980043971a.jpg?v=1786646357,,machine washable vacuum cleaner graphic for neon rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/eaa203c6d7dc054eea875fe1cb6ff9fc9ce73fa08d2feae61f52da9dab24948e.jpg?v=1786646357,,material and backing detail for neon classroom rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B011,chillgen.com,personalized-teacher-classroom-rug-custom-back-to-school-design-102,personalized-teacher-classroom-rug-custom-back-to-school-design-102,15969302675825,gid://shopify/Product/15969302675825,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B011_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B011_pages/personalized-teacher-classroom-rug-custom-back-to-school-design-102.html,2026-09-07T02:33:12+07:00,en-US,US,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-102,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-102,Rug,"Personalized Teacher Classroom Rug, Custom Back to School - Design 102","Personalized Teacher Classroom Rug, Custom Back to School - Design 102",Personalized Pastel Kindness Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized Teacher Classroom Rug, Custom – - Design 102",NONE_OR_NOT_OBSERVED,Personalized Pastel Kindness Rug,SET,32,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"This back-to-school style rug with a low pile is machine-made from sponge-memory foam, perfect for classrooms.","Customize a pastel kindness classroom rug with teacher-name text, bows, daisies, crayon affirmations, size graphic and thickened edge visuals.",SET,142,personalized pastel kindness rug,"custom teacher kindness rug, pastel classroom welcome mat, back to school classroom rug","personalized pastel kindness rug; custom teacher kindness rug, pastel classroom welcome mat, back to school classroom rug",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL_EVERGREEN,"SERP_ONLY: public marketplace/category pages show personalized teacher classroom rugs, back-to-school welcome mats, custom classroom doormats, teacher-name decor and school-season entry rugs. No paid volume, Search Console, or internal search data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized pastel kindness rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports personalized pastel kindness classroom rug and product-level buyer intent.,B011-104-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: teachers and gift buyers want personalized back-to-school classroom rugs that welcome students, show teacher/classroom identity, and add colorful decor for entry, reading, or circle-time spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This personalized classroom rug offers a warm and inviting atmosphere for learning environments. Featuring a vibrant, school-inspired design, it serves as a cheerful and organized focal point. Its soft and durable construction makes it ideal for everyday use in busy educational spaces.</p><h3>Product Highlights</h3><ul>
+<li>Customizable with teacher name or welcome text</li>
+<li>Bright design with school-themed icons like crayons and apples</li>
+<li>Soft and comfortable feel for various activities</li>
+<li>Features a low-pile construction for easy maintenance</li>
+<li>Versatile for classrooms, reading corners, and playrooms</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Checkered</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Alphabet</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Vacuum regularly or spot clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This rug is well-suited for various educational settings, including classrooms, preschools, daycares, and elementary rooms. It also works well in children's bedrooms, living rooms, and playrooms, creating a dedicated and engaging space.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a pastel kindness classroom rug with teacher-name text, bows, daisies, crayon affirmations, size graphic and thickened edge visuals. Design details Pastel classroom rug with aqua checkered border, pink bows, daisies, teacher-name classroom text, crayon affirmations such as kind, brave, special, smart and loved, and color the world with kindness wording, shown in classroom, playroom and teacher/student scenes with size and thickened edge graphics. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Customize a pastel kindness classroom rug with teacher-name text, bows, daisies, crayon affirmations, size graphic and thickened edge visuals.</p><h3>Design details</h3><ul><li>Pastel classroom rug with aqua checkered border, pink bows, daisies, teacher-name classroom text, crayon affirmations such as kind, brave, special, smart and loved, and color the world with kindness wording, shown in classroom, playroom and teacher/student scenes with size and thickened edge graphics.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B011-104,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d3544c2fd19c586d04d6bb90248307fe7f1081604df0b48d2fd22951c3f87b41.jpg?v=1786646375,,pastel teacher kindness rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e347ea6a9bf8af7315015bcc43d786aaca85725063938c6f65a6f37a11ed0c1a.jpg?v=1786646376,,size graphic for pastel classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/148fd5de2368656a1983fe359a0cb69f7cb7985e48c535ede290e8042b3e0cf2.jpg?v=1786646375,,pastel kindness rug in classroom with storage cubbies,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/33a0bf0462a13ad32aa9ba40d1d7775f5a7bd852be209916982eaf6270976ecd.jpg?v=1786646375,,overhead view of custom teacher kindness rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/216aa4121a55479b27667ea68db854fdb2b2b87ed21525537396119c2bfe2ec6.jpg?v=1786646375,,pastel classroom rug in playroom scene,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d02f0264108d89af21fe669c175f74a569c3120b26ac97d81877a9240ad24ea0.jpg?v=1786646375,,front product image of pastel kindness rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4302436c574a81fed6d46cdc565cf9fc8b9e9bf60b043010c35a321f654fd6c5.jpg?v=1786646376,,teacher and children on pastel classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f24f20fb382f0f09ccb93ed4136a14b86e4c6490f9920b222c2d1425a5515afa.jpg?v=1786646375,,teacher reading with children on kindness rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cca305b5b05d1c6a0fd2f19a614fa7176c3387835eab2add8978b8ed60efc08a.jpg?v=1786646376,,thickened bound edge graphic for pastel classroom rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B011,chillgen.com,personalized-teacher-classroom-rug-custom-back-to-school-design-103,personalized-teacher-classroom-rug-custom-back-to-school-design-103,15969302774129,gid://shopify/Product/15969302774129,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B011_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B011_pages/personalized-teacher-classroom-rug-custom-back-to-school-design-103.html,2026-09-07T02:33:12+07:00,en-US,US,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-103,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-103,Rug,"Personalized Teacher Classroom Rug, Custom Back to School - Design 103","Personalized Teacher Classroom Rug, Custom Back to School - Design 103",Personalized Rainbow Classroom Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized Teacher Classroom Rug, Custom – - Design 103",NONE_OR_NOT_OBSERVED,Personalized Rainbow Classroom Rug,SET,34,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized Back to School style rug, made with durable sponge - memory foam, ideal for classroom and learning spaces.","Customize a rainbow classroom welcome rug with teacher-name text, chalkboard styling, school icons, size chart, washable care and backing visuals.",SET,146,personalized rainbow classroom rug,"custom teacher welcome rug, chalkboard classroom rug, back to school teacher mat","personalized rainbow classroom rug; custom teacher welcome rug, chalkboard classroom rug, back to school teacher mat",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL_EVERGREEN,"SERP_ONLY: public marketplace/category pages show personalized teacher classroom rugs, back-to-school welcome mats, custom classroom doormats, teacher-name decor and school-season entry rugs. No paid volume, Search Console, or internal search data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized rainbow classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports personalized rainbow chalkboard classroom rug and product-level buyer intent.,B011-105-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: teachers and gift buyers want personalized back-to-school classroom rugs that welcome students, show teacher/classroom identity, and add colorful decor for entry, reading, or circle-time spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Create a warm and inviting atmosphere in any learning space with this custom back-to-school rug. Designed with bright, school-inspired details, it adds a cheerful and organized touch to classrooms. This rug is a thoughtful decor piece for educators aiming to make their room special and ready for a new academic year.</p><h3>Product Highlights</h3><ul>
+<li>Features colorful school-inspired details like crayons, notebooks, and apples.</li>
+<li>Customizable with a teacher name, classroom name, or welcome text.</li>
+<li>Provides a comfortable feel with a non-woven fabric top and sponge interlayer.</li>
+<li>Durable construction ensures dependable everyday use and tear resistance.</li>
+<li>Low-pile design makes cleaning simple for long-lasting freshness.</li>
+<li>Reinforced serged edges add to the rug's durability.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form Type</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Checkered</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Alphabet</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Back to School</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table><h3>Where It Works</h3><p>This rug is suitable for classrooms, reading corners, activity areas, and welcome setups. It can also be used in bedrooms, living rooms, playrooms, daycares, preschools, elementary rooms, and other learning spaces.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a rainbow classroom welcome rug with teacher-name text, chalkboard styling, school icons, size chart, washable care and backing visuals. Design details Black chalkboard-style classroom rug with welcome to teacher-name classroom wording, rainbow, apple, books, pencils, science flask, clouds and colorful striped border, shown in classroom scenes with size chart, washable graphic and material/backing details. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Customize a rainbow classroom welcome rug with teacher-name text, chalkboard styling, school icons, size chart, washable care and backing visuals.</p><h3>Design details</h3><ul><li>Black chalkboard-style classroom rug with welcome to teacher-name classroom wording, rainbow, apple, books, pencils, science flask, clouds and colorful striped border, shown in classroom scenes with size chart, washable graphic and material/backing details.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B011-105,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/208547efb44589c35312c1b8c282be3e5548312a33b5e7bda600eb1252e7e939.jpg?v=1786646393,,rainbow teacher classroom welcome rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/caa98819f1a28cfd864d16e8765fa05994152f09bde8b1cbb50bf3a27f1e21e5.jpg?v=1786646393,,size chart for personalized rainbow classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ba2fbdd346b3db14a23dd42825a18912d75a41f8c66fce39068d426c57b24390.jpg?v=1786646393,,close angled view of rainbow chalkboard rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/56b2dc4f881b1d34b46bcb72df1b8f6296dda4adcb9b2c5df76a28331368d544.jpg?v=1786646393,,custom rainbow teacher rug beside desks,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/608e027796abcc38a7dc0ddc900be2bae2131c325d3f213c7bb29f3faf9f0091.jpg?v=1786646393,,rainbow classroom rug in home classroom scene,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/635d01b569fd33e2bc13a56cf612aa23025d0f9eae097d8f2a2edd811f224744.jpg?v=1786646393,,teacher with students on rainbow classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a39850fc9b4264e793eae799767305afdb54c070dadcb1d47c2c562c661440c7.jpg?v=1786646393,,large classroom mockup of rainbow welcome rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/bfe6dd1bd526443223b7b1dcc5468984dfd1260bbcae1d0af0d73424debe74e6.jpg?v=1786646393,,machine washable vacuum cleaner graphic for rainbow rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c92adc7faab12f01937395cf0f1e5f4c07198ea9eef88b2addc1c264e115778e.jpg?v=1786646393,,material and backing detail for rainbow classroom rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B011,chillgen.com,personalized-teacher-classroom-rug-custom-back-to-school-design-104,personalized-teacher-classroom-rug-custom-back-to-school-design-104,15969303003505,gid://shopify/Product/15969303003505,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B011_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B011_pages/personalized-teacher-classroom-rug-custom-back-to-school-design-104.html,2026-09-07T02:33:12+07:00,en-US,US,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-104,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-104,Rug,"Personalized Teacher Classroom Rug, Custom Back to School - Design 104","Personalized Teacher Classroom Rug, Custom Back to School - Design 104",Personalized Teacher Welcome Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized Teacher Classroom Rug, Custom – - Design 104",NONE_OR_NOT_OBSERVED,Personalized Teacher Welcome Rug,SET,32,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"This personalized Back to School style rug, made from Sponge - Memory Foam, is low-pile and washable, ideal for classroom settings.","Customize a teacher welcome rug with classroom-name text, chalkboard style, bunting, apple and books, size chart, washable and backing visuals.",SET,143,personalized teacher welcome rug,"custom classroom welcome mat, back to school teacher rug, teacher name classroom rug","personalized teacher welcome rug; custom classroom welcome mat, back to school teacher rug, teacher name classroom rug",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL_EVERGREEN,"SERP_ONLY: public marketplace/category pages show personalized teacher classroom rugs, back-to-school welcome mats, custom classroom doormats, teacher-name decor and school-season entry rugs. No paid volume, Search Console, or internal search data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized teacher welcome rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports personalized chalkboard teacher welcome rug and product-level buyer intent.,B011-106-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: teachers and gift buyers want personalized back-to-school classroom rugs that welcome students, show teacher/classroom identity, and add colorful decor for entry, reading, or circle-time spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This personalized classroom rug is designed to create a welcoming and cheerful learning environment. Featuring a vibrant design with school-inspired elements, it can be customized with a teacher's name or a special welcome message. It serves as a thoughtful decor piece that adds comfort and personality to any classroom setting.</p><h3>Product Highlights</h3><ul>
+<li>Customizable with teacher name, classroom name, or welcome text</li>
+<li>Bright design with colorful school-inspired details and learning icons</li>
+<li>Soft and durable construction for comfortable everyday use</li>
+<li>Features low-pile construction and reinforced serged edges for durability</li>
+<li>Versatile for classroom floors, reading corners, and activity areas</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Checkered</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Alphabet</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Product Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Vacuum regularly or spot clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This rug is suitable for classrooms, bedrooms, living rooms, playrooms, daycares, preschools, and elementary rooms. It is ideal for creating inviting spaces such as reading corners, activity areas, door entrances, and general welcome setups.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a teacher welcome rug with classroom-name text, chalkboard style, bunting, apple and books, size chart, washable and backing visuals. Design details Black chalkboard-style rug with welcome to teacher-name classroom wording, bunting flags, apple, pencil cup, books, hearts and blue border, shown in classroom mockups with size chart, washable care image and non-slip backing detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Customize a teacher welcome rug with classroom-name text, chalkboard style, bunting, apple and books, size chart, washable and backing visuals.</p><h3>Design details</h3><ul><li>Black chalkboard-style rug with welcome to teacher-name classroom wording, bunting flags, apple, pencil cup, books, hearts and blue border, shown in classroom mockups with size chart, washable care image and non-slip backing detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B011-106,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/dc8eb47c280ae37a57cfa2e6877d7d2b79bb4795984868134b1a34070ca7fc94.jpg?v=1786646434,,teacher welcome rug in classroom mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/90acea55769865c785d48de98fc8ec81596e317f4b65ae10994413075f6f18ac.jpg?v=1786646434,,size chart for personalized teacher welcome rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/55e9ea068f05913e608cbb79e9a4186f27f7698cb54744ceb1602beb47eeca2a.jpg?v=1786646434,,close angled view of chalkboard welcome rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a7d627995370b8ae64ee2bc5a30d65a883c1ef7bd7c4adf64120b64e50a786c9.jpg?v=1786646434,,teacher-name welcome rug beside desks,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2a67cdfd140e55b367a97379d9b8e89162a8190f9eb7b9e8cec2794c6d555c6e.jpg?v=1786646434,,custom classroom welcome mat in home classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ea7acfbc3906243cddedac7bccb750cdfce4e83121cb87192030abc0a47173fa.jpg?v=1786646434,,teacher with students on welcome classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1d14d8b78520a0504ee64c56846a0e86dfb5745502fbf36eb8a62059105522e2.jpg?v=1786646434,,large classroom mockup of teacher welcome rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cd0c0998977ffdfd2f0a72fedb4585f5e9b29cfc91031288bba3bd19c9830cb8.jpg?v=1786646434,,machine washable vacuum cleaner graphic for welcome rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/097425a71d102fc9d65d0596338a6d6659ac4b27749fcdb908d16a1df1c03e61.jpg?v=1786646434,,material and backing detail for teacher welcome rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B011,chillgen.com,personalized-teacher-classroom-rug-custom-back-to-school-design-105,personalized-teacher-classroom-rug-custom-back-to-school-design-105,15969303101809,gid://shopify/Product/15969303101809,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B011_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B011_pages/personalized-teacher-classroom-rug-custom-back-to-school-design-105.html,2026-09-07T02:33:12+07:00,en-US,US,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-105,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-105,Rug,"Personalized Teacher Classroom Rug, Custom Back to School - Design 105","Personalized Teacher Classroom Rug, Custom Back to School - Design 105",Personalized Classroom Affirmation Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized Teacher Classroom Rug, Custom – - Design 105",NONE_OR_NOT_OBSERVED,Personalized Classroom Affirmation Rug,SET,38,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"This back to school style rug, made from sponge-memory foam, offers a low-pile, washable design for classrooms.","Customize a classroom affirmation rug with teacher-name text, doodle school icons, grow/be kind/learn prompts, and thickened edge visuals.",SET,138,personalized classroom affirmation rug,"custom teacher affirmation rug, back to school classroom mat, positive classroom rug","personalized classroom affirmation rug; custom teacher affirmation rug, back to school classroom mat, positive classroom rug",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL_EVERGREEN,"SERP_ONLY: public marketplace/category pages show personalized teacher classroom rugs, back-to-school welcome mats, custom classroom doormats, teacher-name decor and school-season entry rugs. No paid volume, Search Console, or internal search data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized classroom affirmation rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports personalized classroom affirmation rug and product-level buyer intent.,B011-107-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: teachers and gift buyers want personalized back-to-school classroom rugs that welcome students, show teacher/classroom identity, and add colorful decor for entry, reading, or circle-time spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This personalized classroom rug offers a warm and welcoming atmosphere for any educational space. Featuring a vibrant back-to-school design, it creates a cheerful and organized environment. Ideal for various settings, this rug combines comfort with durability for everyday use.</p><h3>Product Highlights</h3><ul>
+<li>Customizable with teacher name, classroom name, or welcome text</li>
+<li>Bright design with school-inspired details and playful learning icons</li>
+<li>Comfortable feel with soft, durable construction</li>
+<li>Easy to clean low-pile surface and reinforced edges</li>
+<li>Versatile for classrooms, reading corners, and activity areas</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form Type</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Checkered</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Alphabet</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Vacuum regularly or spot clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This rug is suitable for classrooms, bedrooms, living rooms, playrooms, daycares, preschools, elementary rooms, and other learning spaces. It is perfect for creating inviting reading corners, activity areas, or welcoming entryways.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a classroom affirmation rug with teacher-name text, doodle school icons, grow/be kind/learn prompts, and thickened edge visuals. Design details Black doodle-style classroom rug with central teacher-name classroom text, rainbow, flowers, pencils, apple, stars and sticky-note affirmations including grow, be kind, learn, believe, dream big, inspire, be you and you matter, plus classroom/playroom scenes and thickened edge graphic. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Customize a classroom affirmation rug with teacher-name text, doodle school icons, grow/be kind/learn prompts, and thickened edge visuals.</p><h3>Design details</h3><ul><li>Black doodle-style classroom rug with central teacher-name classroom text, rainbow, flowers, pencils, apple, stars and sticky-note affirmations including grow, be kind, learn, believe, dream big, inspire, be you and you matter, plus classroom/playroom scenes and thickened edge graphic.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B011-107,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6c1960973a10da9812fcb8b064ba4f68acd398fb0f2e547ffc9d845aa47a5aac.jpg?v=1786646450,,personalized classroom affirmation rug in room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/60519003026ecfe7713a958c767611bcdc8f8d86f1d5d0dc31c89e79c65b7ba9.jpg?v=1786646450,,affirmation teacher rug in classroom with cubbies,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fa559929cc1500d3ae1f179048429ddc0ce17bd429d0113f935ef126a9696535.jpg?v=1786646450,,overhead view of teacher-name affirmation rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/69303cdbf16ac1989315f74d8ec2ff5c8029423788f53c0ba5151819cf928061.jpg?v=1786646450,,affirmation classroom rug in playroom scene,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4068ec64bca629a43838e758e31fc4966ad80ae1a455552e989eeb4b6463f00b.jpg?v=1786646450,,front product image of classroom affirmation rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b0453f4d569ad77b379617d82205303306f277ad51e3ae214862b70b839a94bc.jpg?v=1786646450,,teacher and children on affirmation classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b76ff9f72e60d3db5fee87599f7c4ea92c8c705889fea999e78eb866859d06e8.jpg?v=1786646450,,teacher reading with children on affirmation rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9d5ece5d1184a67b4e3a276bd1861f19506e83634038b9ac68566764092390a2.jpg?v=1786646450,,thickened bound edge graphic for affirmation rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B011,chillgen.com,personalized-teacher-classroom-rug-custom-back-to-school-design-106,personalized-teacher-classroom-rug-custom-back-to-school-design-106,15969303200113,gid://shopify/Product/15969303200113,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B011_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B011_pages/personalized-teacher-classroom-rug-custom-back-to-school-design-106.html,2026-09-07T02:33:12+07:00,en-US,US,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-106,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-106,Rug,"Personalized Teacher Classroom Rug, Custom Back to School - Design 106","Personalized Teacher Classroom Rug, Custom Back to School - Design 106",Personalized Crayon Classroom Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized Teacher Classroom Rug, Custom – - Design 106",NONE_OR_NOT_OBSERVED,Personalized Crayon Classroom Rug,SET,33,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Back to School style area rug, made with sponge-memory foam, features a washable design perfect for classrooms and playrooms.","Customize a crayon classroom rug with teacher-name text, In This Classroom affirmations, colorful border, school icons, and thickened edge visuals.",SET,147,personalized crayon classroom rug,"custom teacher affirmation mat, back to school classroom rug, classroom crayon rug","personalized crayon classroom rug; custom teacher affirmation mat, back to school classroom rug, classroom crayon rug",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL_EVERGREEN,"SERP_ONLY: public marketplace/category pages show personalized teacher classroom rugs, back-to-school welcome mats, custom classroom doormats, teacher-name decor and school-season entry rugs. No paid volume, Search Console, or internal search data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized crayon classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports personalized crayon affirmation classroom rug and product-level buyer intent.,B011-108-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: teachers and gift buyers want personalized back-to-school classroom rugs that welcome students, show teacher/classroom identity, and add colorful decor for entry, reading, or circle-time spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This personalized classroom rug is designed to create a warm and inviting atmosphere for learning spaces. Featuring a vibrant design with school-inspired elements, it offers a cheerful and organized foundation for any classroom. It serves as a thoughtful decorative piece, enhancing the room's aesthetic and fostering a welcoming environment for students and educators.</p><h3>Product Highlights</h3><ul>
+<li>Customizable with a teacher name, classroom name, or welcome text</li>
+<li>Bright design with colorful school-inspired details and playful learning icons</li>
+<li>Soft and comfortable feel for various activities</li>
+<li>Durable and tear-resistant construction for everyday use</li>
+<li>Low-pile construction for simple cleaning</li>
+<li>Reinforced serged edges for added durability</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Not Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Checkered</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Alphabet</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Back to School</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Vacuum regularly or spot clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This versatile rug is ideal for various educational settings, including classrooms, preschools, kindergartens, and elementary rooms. It is also suitable for home learning spaces, reading corners, and activity areas, creating a comfortable and engaging atmosphere for children.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a crayon classroom rug with teacher-name text, In This Classroom affirmations, colorful border, school icons, and thickened edge visuals. Design details Black classroom rug with in this classroom you are wording, large teacher name at bottom, colorful crayon words such as brave, helpful, kind, unique, smart and loved, rainbow border and school icons, shown in classroom/playroom scenes with thickened edge graphic. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Customize a crayon classroom rug with teacher-name text, In This Classroom affirmations, colorful border, school icons, and thickened edge visuals.</p><h3>Design details</h3><ul><li>Black classroom rug with in this classroom you are wording, large teacher name at bottom, colorful crayon words such as brave, helpful, kind, unique, smart and loved, rainbow border and school icons, shown in classroom/playroom scenes with thickened edge graphic.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B011-108,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/485cd2535c7fa2edc04ba81a413e3a6f6517dbf3a62e702895823d2edaaa6f3a.jpg?v=1786646471,,crayon affirmation classroom rug in room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f4982bd9bcde617120a24ecbe4f5292f03c3134d64653d97762cf264ee491ee5.jpg?v=1786646471,,custom teacher crayon rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/42381181f07e75bfb8b866b9dcc2521d2eef1ae3043a10686e59e217d5b145a8.jpg?v=1786646471,,overhead view of personalized crayon classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c1ecc276bbc76b71208917cfbe3d9e5659737e63e262b4942fedb011aef4762f.jpg?v=1786646471,,crayon affirmation rug in playroom scene,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e267a07226290784a450d0e4ed252c73ff937e12ec823e4956d4f3eb186aa76f.jpg?v=1786646471,,front product image of teacher crayon rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e9624f47bb7c890a24048e54c7d243217083277315ec7887d3851e559b7452a5.jpg?v=1786646471,,teacher and children on crayon classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/17d9306d509cab73672635afff74b48191e5bb8c611fef6877b671144e9f91ee.jpg?v=1786646471,,teacher reading with children on crayon rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a5352156873286029a5aef82537425dcad42ef242b8b23880886a7796e055118.jpg?v=1786646471,,thickened bound edge graphic for crayon classroom rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B011,chillgen.com,personalized-teacher-classroom-rug-custom-back-to-school-design-107,personalized-teacher-classroom-rug-custom-back-to-school-design-107,15969303265649,gid://shopify/Product/15969303265649,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B011_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B011_pages/personalized-teacher-classroom-rug-custom-back-to-school-design-107.html,2026-09-07T02:33:12+07:00,en-US,US,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-107,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-107,Rug,"Personalized Teacher Classroom Rug, Custom Back to School - Design 107","Personalized Teacher Classroom Rug, Custom Back to School - Design 107",Personalized Learning Day Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized Teacher Classroom Rug, Custom – - Design 107",NONE_OR_NOT_OBSERVED,Personalized Learning Day Rug,SET,29,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized low-pile rectangular classroom rug with a cheerful back-to-school theme, ideal for creating a welcoming learning space.","Customize a good day for learning classroom rug with teacher-name text, chalk-style school icons, rainbow art, and thickened edge visuals.",SET,138,personalized learning day rug,"good day for learning rug, custom teacher classroom rug, back to school welcome rug","personalized learning day rug; good day for learning rug, custom teacher classroom rug, back to school welcome rug",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL_EVERGREEN,"SERP_ONLY: public marketplace/category pages show personalized teacher classroom rugs, back-to-school welcome mats, custom classroom doormats, teacher-name decor and school-season entry rugs. No paid volume, Search Console, or internal search data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized learning day rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports personalized good day for learning rug and product-level buyer intent.,B011-109-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: teachers and gift buyers want personalized back-to-school classroom rugs that welcome students, show teacher/classroom identity, and add colorful decor for entry, reading, or circle-time spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This personalized classroom rug offers a warm and welcoming touch to any educational space. Featuring a vibrant design with school-inspired details, it helps create an inviting atmosphere for learning. It's a thoughtful piece of decor, perfect for making a classroom feel cheerful and organized.</p><h3>Product Highlights</h3><ul>
+<li>Customizable with teacher name, classroom name, or welcome text</li>
+<li>Bright design with colorful school-inspired details</li>
+<li>Soft and comfortable feel for various activities</li>
+<li>Durable and tear-resistant for everyday use</li>
+<li>Easy care with low-pile construction and reinforced edges</li>
+<li>Versatile for classrooms, reading corners, and activity areas</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form Type</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Checkered</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Alphabet</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Back to School</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Non-woven fabric top, sponge interlayer</td>
+</tr>
+<tr>
+<td>Product Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Vacuum regularly or spot clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This rug is ideal for creating an engaging environment in classrooms, preschools, daycares, and elementary rooms. It can also enhance reading corners, activity areas, and welcome setups within learning spaces.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a good day for learning classroom rug with teacher-name text, chalk-style school icons, rainbow art, and thickened edge visuals. Design details Black chalk-style classroom rug with it's a good day for learning wording, large pencil teacher-name strip, panel icons including sun, apple, rainbow, crayons, scissors, globe, book and flowers, shown in classroom/playroom scenes with thickened edge graphic. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Customize a good day for learning classroom rug with teacher-name text, chalk-style school icons, rainbow art, and thickened edge visuals.</p><h3>Design details</h3><ul><li>Black chalk-style classroom rug with it's a good day for learning wording, large pencil teacher-name strip, panel icons including sun, apple, rainbow, crayons, scissors, globe, book and flowers, shown in classroom/playroom scenes with thickened edge graphic.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B011-109,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4d37d12bc564c93aefa3f771fc360cf3d6c2b88292f7af44deacbe387be5710b.jpg?v=1786646488,,good day for learning teacher rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8741ac542cd9cb744f4b3965f8996fdf86730ac8a90686060a25daa0e45d8925.jpg?v=1786646488,,custom learning day rug in classroom with cubbies,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0ec075b37cf0f4ac7b4f20210c0ccb751a163ff6d02d154ed8c56c68075aaea2.jpg?v=1786646488,,overhead view of personalized learning day rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/99b07678eba819c5d4cd042edae322b54624c7ac19b208bd0fca1b4bc0c297e4.jpg?v=1786646488,,learning day rug in playroom scene,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0665e6b0bf7cb9478d276c8cbc75b872acb86fce642655ee5c2b9e27375b18e4.jpg?v=1786646488,,front product image of good day for learning rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d7df0914255a6d6be4bfc8a9af691543d298b5fe3a9e63a48899f007bf6b6ccd.jpg?v=1786646488,,teacher and children on learning day rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8a3096069415759144f86a56c1877c065da5231fee96bdd5e075e69857daaaf0.jpg?v=1786646488,,teacher reading with children on learning rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/25e3c2c79edc80791d86661c246f01348676dea4821f17c18545518b3c7c758e.jpg?v=1786646488,,thickened bound edge graphic for learning day rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B011,chillgen.com,personalized-teacher-classroom-rug-custom-back-to-school-design-108,personalized-teacher-classroom-rug-custom-back-to-school-design-108,15969303331185,gid://shopify/Product/15969303331185,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B011_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B011_pages/personalized-teacher-classroom-rug-custom-back-to-school-design-108.html,2026-09-07T02:33:12+07:00,en-US,US,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-108,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-108,Rug,"Personalized Teacher Classroom Rug, Custom Back to School - Design 108","Personalized Teacher Classroom Rug, Custom Back to School - Design 108",Personalized Rainbow Welcome Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized Teacher Classroom Rug, Custom – - Design 108",NONE_OR_NOT_OBSERVED,Personalized Rainbow Welcome Rug,SET,32,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized Back to School style rug, made with sponge-memory foam, features a washable design, ideal for classroom floors.","Customize a rainbow welcome classroom rug with teacher-name text, colorful scallop border, affirmation circles, classroom scenes, and edge visuals.",SET,147,personalized rainbow welcome rug,"custom teacher welcome mat, colorful classroom rug, back to school classroom decor","personalized rainbow welcome rug; custom teacher welcome mat, colorful classroom rug, back to school classroom decor",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL_EVERGREEN,"SERP_ONLY: public marketplace/category pages show personalized teacher classroom rugs, back-to-school welcome mats, custom classroom doormats, teacher-name decor and school-season entry rugs. No paid volume, Search Console, or internal search data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized rainbow welcome rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports personalized rainbow welcome classroom rug and product-level buyer intent.,B011-110-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: teachers and gift buyers want personalized back-to-school classroom rugs that welcome students, show teacher/classroom identity, and add colorful decor for entry, reading, or circle-time spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Create a warm and inviting atmosphere with this personalized classroom rug, designed to make any learning space feel special. Featuring a vibrant, school-inspired design, this rug adds a cheerful touch and encourages an organized environment for students and teachers alike. It serves as a thoughtful decorative piece, enhancing the classroom’s aesthetic and functionality.</p><h3>Product Highlights</h3><ul>
+<li>Customizable with a teacher's name, classroom name, or welcome text.</li>
+<li>Bright design with school-themed elements like crayons, notebooks, and apples.</li>
+<li>Soft, durable material for comfortable feel and reliable everyday use.</li>
+<li>Features a non-woven fabric top, sponge interlayer, and polyester construction.</li>
+<li>Low-pile construction and reinforced serged edges for simple care and durability.</li>
+<li>Versatile for classroom floors, reading corners, and activity areas.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form Type</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Checkered</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Alphabet</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Vacuum regularly or spot clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This rug is well-suited for various educational settings, including classrooms, daycares, preschools, and elementary rooms. It can also be placed in reading corners, activity areas, or welcome setups to create a designated and comfortable space.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a rainbow welcome classroom rug with teacher-name text, colorful scallop border, affirmation circles, classroom scenes, and edge visuals. Design details Bright white classroom rug with rainbow scallop border, welcome to teacher-name classroom wording, rainbow and school icons, circular affirmations such as you are kind, amazing, smart, brave, brilliant and you are us, shown in classroom and teacher/student scenes with thickened edge graphic. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Customize a rainbow welcome classroom rug with teacher-name text, colorful scallop border, affirmation circles, classroom scenes, and edge visuals.</p><h3>Design details</h3><ul><li>Bright white classroom rug with rainbow scallop border, welcome to teacher-name classroom wording, rainbow and school icons, circular affirmations such as you are kind, amazing, smart, brave, brilliant and you are us, shown in classroom and teacher/student scenes with thickened edge graphic.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B011-110,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0e0f6a5cf52e63cdc00bc5796c9e4e148712d3f942feb068384b6c4f29647a83.jpg?v=1786646518,,rainbow welcome classroom rug in room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/bb9a666fd29853fa4d09ecbfd59bbc371436cb7ff0efe5807b81539639d2bb81.jpg?v=1786646518,,custom rainbow teacher rug in classroom with cubbies,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/06cb74dc13a73b0c4f2deedac92c96d30fffab0072618c59d5fa4f722a9c9475.jpg?v=1786646517,,overhead view of personalized rainbow welcome rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3724210abc49d3a8cc4179a69580337e8615eb41c3584ece6dfe89df1fccb3b0.jpg?v=1786646518,,rainbow classroom rug in playroom scene,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e4dac5a8154767a235fe942bce8f8f8f6ce40f25ddb0fcc17197a4bbace40455.jpg?v=1786646517,,teacher reading with children on rainbow welcome rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f7081f34a36b77c83f675c85e7866570a0293fd47a4a6108228953dbee3f275c.jpg?v=1786646518,,teacher and children on colorful classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f31428fc05c26c06cbd3fbbb92f37cf069756210bae982af36f7041eeb390b9c.jpg?v=1786646517,,front product image of rainbow classroom welcome rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cc7b8f6ff3e77bdab23adc56b5a4934bde0f3862119c8dd21f2051500ba2f907.jpg?v=1786646517,,thickened bound edge graphic for rainbow welcome rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

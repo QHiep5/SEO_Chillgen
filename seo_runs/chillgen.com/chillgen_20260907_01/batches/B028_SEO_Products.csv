@@ -1,0 +1,780 @@
+schema_version,prompt_version,run_id,batch_id,shop_domain,product_key,Handle,product_id,product_gid,identity_status,source_export_ref,source_exported_at,locale,market,url,canonical_url,product_type,title_current,h1_current,title_proposed,title_action,h1_mapping_status,meta_title_current,meta_title_source_state,rendered_title_current,theme_title_suffix,meta_title_seo,meta_title_action,meta_title_chars,meta_description_current,meta_description_source_state,rendered_meta_description_current,meta_description_seo,meta_description_action,meta_description_chars,primary_keyword,secondary_keywords,long_tail_candidates,keyword_strategy,season,keyword_demand_evidence,keyword_serp_fit,meta_keyword,search_intent,keyword_validation_status,keyword_selection_reason,buyer_research_refs,buyer_search_summary,baseline_status,change_scope,mapping_status,mapping_version,description_current_html,description_changes_needed,description_proposed,description_proposed_html,description_change_mode,description_target_section,description_action,revision,review_status,review_reason,approved_by,approved_at,approved_fields,approved_revision,processing_status,evidence_status,content_qa_status,field_evidence_map,evidence_id,issues,img_1_link,img_1_alt_current,img_1_alt,img_1_alt_action,img_2_link,img_2_alt_current,img_2_alt,img_2_alt_action,img_3_link,img_3_alt_current,img_3_alt,img_3_alt_action,img_4_link,img_4_alt_current,img_4_alt,img_4_alt_action,img_5_link,img_5_alt_current,img_5_alt,img_5_alt_action,img_6_link,img_6_alt_current,img_6_alt,img_6_alt_action,img_7_link,img_7_alt_current,img_7_alt,img_7_alt_action,img_8_link,img_8_alt_current,img_8_alt,img_8_alt_action,img_9_link,img_9_alt_current,img_9_alt,img_9_alt_action,img_10_link,img_10_alt_current,img_10_alt,img_10_alt_action,img_11_link,img_11_alt_current,img_11_alt,img_11_alt_action,img_12_link,img_12_alt_current,img_12_alt,img_12_alt_action,img_13_link,img_13_alt_current,img_13_alt,img_13_alt_action,img_14_link,img_14_alt_current,img_14_alt,img_14_alt_action,img_15_link,img_15_alt_current,img_15_alt,img_15_alt_action,img_16_link,img_16_alt_current,img_16_alt,img_16_alt_action,img_17_link,img_17_alt_current,img_17_alt,img_17_alt_action,img_18_link,img_18_alt_current,img_18_alt,img_18_alt_action,img_19_link,img_19_alt_current,img_19_alt,img_19_alt_action
+2.4,2.4,chillgen_20260907_01,B028,chillgen.com,custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a,custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a,15913340567921,gid://shopify/Product/15913340567921,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B028_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B028_pages/custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a.html,2026-09-07T03:49:43+07:00,en-US,US,https://chillgen.com/products/custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a,https://chillgen.com/products/custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a,Rug,Personalized Nautical Octopus Shaped Rug with Non Slip Backing for Bedroom,Personalized Nautical Octopus Shaped Rug with Non Slip Backing for Bedroom,Wave Octopus Shaped Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Nautical Octopus Rug with Non Slip Backing,NONE_OR_NOT_OBSERVED,Wave Octopus Shaped Rug,SET,23,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Add a custom name to this nautical octopus shaped rug with ocean artwork, a soft low pile surface, and non slip backing for bedrooms and beach houses.","Add a wave octopus shaped rug with dark tentacles, blue ocean waves, coral accents, custom-cut shape, size chart and anti-slip backing.",SET,135,wave octopus shaped rug,"octopus area rug, sea monster tentacle rug, ocean themed rug","wave octopus shaped rug; octopus area rug, sea monster tentacle rug, ocean themed rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Search and marketplace evidence supports octopus shaped rugs, sea monster/tentacle rugs, tree of life rugs, western horse rugs and running horse area rugs. B028 separates near-duplicate octopus and horse designs by visible color, scene and motif.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,wave octopus shaped rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports wave octopus shaped rug and product-level buyer intent.,B028-271-BR01,"B028 buyers include coastal and ocean decor shoppers, fantasy sea-monster fans, tree-of-life home decor buyers, horse lovers, western/ranch decor shoppers and gift buyers furnishing bedrooms, living rooms or themed spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Bring deep-sea mystery into your space with this custom octopus shaped area rug, designed for ocean lovers and anyone who enjoys bold sea monster decor. Featuring dramatic tentacles, rich ocean colors, and a unique custom-shape look, this nautical rug adds a strong decorative statement to your floor. It is crafted with a soft surface and anti-slip backing to ensure comfort underfoot while staying securely in place.</p><h3>Product Highlights</h3><ul>
+<li>Bold octopus shaped design with dramatic tentacles and colorful ocean artwork.</li>
+<li>Personalization support allows for a custom name on the sea monster design.</li>
+<li>Ultra-soft surface providing comfort underfoot.</li>
+<li>Non-slip backing for enhanced stability on various floor types.</li>
+<li>Low pile and reinforced serged edges make it durable and easy to clean.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Custom Shape</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Is Stain Resistant</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sea Monster, Nautical</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>Modern</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polypropylene</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Polyester, Polyurethane</td>
+</tr>
+<tr>
+<td>Product Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table><h3>Where It Works</h3><p>This nautical octopus rug works beautifully in bedrooms, living rooms, game rooms, dorms, reading corners, and beach houses. Its eye-catching design also makes it a great choice for themed displays and bold accent spaces.</p>",Make product copy motif-specific while retaining verified public claims only.,"Add a wave octopus shaped rug with dark tentacles, blue ocean waves, coral accents, custom-cut shape, size chart and anti-slip backing. Design details Custom shaped octopus rug with dark blue tentacles, crashing blue waves, orange coral accents, irregular cut edge, room mockups, custom shape area rugs panel, ultra-soft velvet, anti-slip backing, hd printing, layered backing diagram and size chart. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Add a wave octopus shaped rug with dark tentacles, blue ocean waves, coral accents, custom-cut shape, size chart and anti-slip backing.</p><h3>Design details</h3><ul><li>Custom shaped octopus rug with dark blue tentacles, crashing blue waves, orange coral accents, irregular cut edge, room mockups, custom shape area rugs panel, ultra-soft velvet, anti-slip backing, hd printing, layered backing diagram and size chart.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B028-271,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/17c68198d987f5fa6e22bcc5659b741ed9893011ab938f469f3b771bbb7234ce.jpg?v=1784376301,,wave octopus shaped rug on wood floor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e608f8744c605a6777f91de19f866cb72d678a0d203400f3c0308819258045fe.jpg?v=1784376305,,octopus wave rug product view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9e414157e8b3685fbf42f327ccafa15a3caa9a63d50b3b38518f6b294fc644bb.jpg?v=1784376306,,sea monster tentacle rug room view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2b1a828c9b586a453398c84d15e605905691e1a9ede3418219b649afd5bbd266.jpg?v=1784376311,,custom shape octopus rug feature panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fd82d4f1d27368eb36dafcecba631efa4f707d9b903f5c3d954c1907f09081d8.jpg?v=1784376311,,wave octopus rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9c0f1bdc3977ccfca5e4e52d69db79ba591a881e202a9f9554b58ac7e94207bb.jpg?v=1784376316,,layered backing detail for octopus rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ddd18d64322f2d59624160239ca37a70f3b80d6ae71187253c70743119559d07.jpg?v=1784376317,,octopus shaped rug size chart,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B028,chillgen.com,custom-octopus-sea-monster-welcome-mat-c69579f5ed,custom-octopus-sea-monster-welcome-mat-c69579f5ed,15913340993905,gid://shopify/Product/15913340993905,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B028_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B028_pages/custom-octopus-sea-monster-welcome-mat-c69579f5ed.html,2026-09-07T03:49:43+07:00,en-US,US,https://chillgen.com/products/custom-octopus-sea-monster-welcome-mat-c69579f5ed,https://chillgen.com/products/custom-octopus-sea-monster-welcome-mat-c69579f5ed,Rug,Personalized Sea Monster Octopus Area Rug with Colorful Ocean Wave Artwork,Personalized Sea Monster Octopus Area Rug with Colorful Ocean Wave Artwork,Porthole Octopus Shaped Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Sea Monster Octopus Rug with Ocean Art,NONE_OR_NOT_OBSERVED,Porthole Octopus Shaped Rug,SET,27,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Add a custom name to this sea monster octopus area rug with ocean wave artwork, a velvet surface, and non slip backing for bedrooms and game rooms.","Decorate with a porthole octopus shaped rug featuring red tentacles, nautical window art, custom-cut edge and non-slip backing.",SET,127,porthole octopus shaped rug,"red octopus rug, nautical sea monster rug, custom shape area rug","porthole octopus shaped rug; red octopus rug, nautical sea monster rug, custom shape area rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Search and marketplace evidence supports octopus shaped rugs, sea monster/tentacle rugs, tree of life rugs, western horse rugs and running horse area rugs. B028 separates near-duplicate octopus and horse designs by visible color, scene and motif.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,porthole octopus shaped rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports porthole octopus shaped rug and product-level buyer intent.,B028-272-BR01,"B028 buyers include coastal and ocean decor shoppers, fantasy sea-monster fans, tree-of-life home decor buyers, horse lovers, western/ranch decor shoppers and gift buyers furnishing bedrooms, living rooms or themed spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Bring deep-sea mystery into your space with this unique octopus shaped rug, designed for ocean lovers and anyone who enjoys bold nautical decor. Featuring dramatic tentacles and rich sea monster styling, this eye-catching area rug serves as a strong decorative statement on any floor. It combines comfortable underfoot support with vivid colorful artwork to instantly elevate your interior design.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Bold octopus design featuring dramatic tentacles and colorful ocean wave artwork</li>
+<li>Supports custom personalization with name text inputs</li>
+<li>Comfortable feel underfoot with an ultra-soft velvet surface</li>
+<li>Functional non-slip backing for secure placement and safety</li>
+<li>Versatile design ideal for themed spaces, game rooms, and seasonal displays</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Custom Shape</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Dining Room, Entryway, Guest Room, Living Room</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sea Monster, Back to School</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polypropylene</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Polyester</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+<tr>
+<td>Stain Resistance</td>
+<td>Yes</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This nautical themed area rug fits perfectly in bedrooms, living rooms, and guest rooms. It also makes an exceptional addition to game rooms, dorms, reading corners, beach houses, or entryway spaces.</p>",Make product copy motif-specific while retaining verified public claims only.,"Decorate with a porthole octopus shaped rug featuring red tentacles, nautical window art, custom-cut edge and non-slip backing. Design details Custom shaped rug with red octopus reaching through brass porthole, blue water background, curling tentacles, wood floor and living room mockups, custom shape feature panel, layered backing detail and size chart. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Decorate with a porthole octopus shaped rug featuring red tentacles, nautical window art, custom-cut edge and non-slip backing.</p><h3>Design details</h3><ul><li>Custom shaped rug with red octopus reaching through brass porthole, blue water background, curling tentacles, wood floor and living room mockups, custom shape feature panel, layered backing detail and size chart.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B028-272,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6d6fe66d6c8084d04de2050cbad3ef67e1b00ccbb94180fd3d1ae4605ea05d96.jpg?v=1784376263,,red porthole octopus rug on wood floor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/636ec068d1cc790bb746b4b1b71b6a0675c5c37d180c218c7c17eaf8bf97d5ca.jpg?v=1784376268,,porthole octopus rug product view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/92c8100433a94be939a86d84deebf552e8925fbf4d4f935a65224396a99c91f1.jpg?v=1784376268,,custom shape octopus rug feature panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/661cd7a51c91c793ad280643561c7e25e8ac1edb7f08f9c8b97559fb00518cce.jpg?v=1784376273,,red octopus shaped rug room view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4eaab673accc3deecfc19d3dfd98ffb412a6168edad779c0434a594f91e43ef6.jpg?v=1784376274,,nautical octopus rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/17a8da7b73e49e03a22ede1e3b4e8a40c99f3fe6198f3d955eb2b3c1c7b72f33.jpg?v=1784376278,,layered backing detail for red octopus rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d226cf0bfb11ace0e2f5572b889c4e58a965d3cadbb93d5d75c7456c0f945f1c.jpg?v=1784376279,,porthole octopus rug size chart,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B028,chillgen.com,custom-octopus-shaped-area-rug-a96e544960-a96e544960,custom-octopus-shaped-area-rug-a96e544960-a96e544960,15913341223281,gid://shopify/Product/15913341223281,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B028_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B028_pages/custom-octopus-shaped-area-rug-a96e544960-a96e544960.html,2026-09-07T03:49:43+07:00,en-US,US,https://chillgen.com/products/custom-octopus-shaped-area-rug-a96e544960-a96e544960,https://chillgen.com/products/custom-octopus-shaped-area-rug-a96e544960-a96e544960,Rug,Personalized Octopus Shaped Rug with Velvet Surface for Bedroom and Living Room,Personalized Octopus Shaped Rug with Velvet Surface for Bedroom and Living Room,Blue Tentacle Octopus Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Octopus Shaped Rug with Velvet Surface,NONE_OR_NOT_OBSERVED,Blue Tentacle Octopus Rug,SET,25,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalize this octopus shaped rug with a custom name, ocean wave artwork, a soft velvet surface, and non slip backing for bedrooms and living rooms.","Add a blue tentacle octopus rug with swirling custom-cut shape, deep ocean artwork, size chart, layered backing and soft velvet feel.",SET,133,blue tentacle octopus rug,"octopus shaped rug, ocean tentacle rug, sea creature area rug","blue tentacle octopus rug; octopus shaped rug, ocean tentacle rug, sea creature area rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Search and marketplace evidence supports octopus shaped rugs, sea monster/tentacle rugs, tree of life rugs, western horse rugs and running horse area rugs. B028 separates near-duplicate octopus and horse designs by visible color, scene and motif.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,blue tentacle octopus rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports blue tentacle octopus rug and product-level buyer intent.,B028-273-BR01,"B028 buyers include coastal and ocean decor shoppers, fantasy sea-monster fans, tree-of-life home decor buyers, horse lovers, western/ranch decor shoppers and gift buyers furnishing bedrooms, living rooms or themed spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Bring deep-sea mystery into your space with this unique custom-shape octopus area rug, designed for ocean lovers and sea monster enthusiasts. Featuring eye-catching tentacles, rich ocean colors, and dramatic artwork, this nautical accent carpet adds a strong decorative statement to your floors. The soft surface and comfortable feel underfoot make it a perfect addition to a variety of indoor living areas.</p><h3>Product Highlights</h3><ul>
+<li>Bold octopus shape design with sea monster style and colorful ocean wave artwork.</li>
+<li>Personalization support allows custom options with name inputs.</li>
+<li>Comfortable underfoot feel with an ultra-soft velvet surface.</li>
+<li>Anti-slip backing provides stable placement on various floor surfaces.</li>
+<li>Durable construction with reinforced serged edges to ensure long-lasting use.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Custom Shape</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Dining Room, Entryway, Guest Room, Living Room</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sea Monster, Back to school</td>
+</tr>
+<tr>
+<td>Is Stain Resistant</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Polyester</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Ultra-soft velvet surface</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table><h3>Where It Works</h3><p>This nautical octopus area rug works beautifully in bedrooms, living rooms, game rooms, and dorm rooms. It is also an excellent decor piece for reading corners, beach houses, themed spaces, or unique holiday displays.</p>",Make product copy motif-specific while retaining verified public claims only.,"Add a blue tentacle octopus rug with swirling custom-cut shape, deep ocean artwork, size chart, layered backing and soft velvet feel. Design details Dark blue custom shaped octopus/tentacle rug with swirling tentacles, gold suction-cup accents, deep ocean tones, room mockups, ultra-soft velvet feature panel, layered backing graphic and size chart. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Add a blue tentacle octopus rug with swirling custom-cut shape, deep ocean artwork, size chart, layered backing and soft velvet feel.</p><h3>Design details</h3><ul><li>Dark blue custom shaped octopus/tentacle rug with swirling tentacles, gold suction-cup accents, deep ocean tones, room mockups, ultra-soft velvet feature panel, layered backing graphic and size chart.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B028-273,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/91d5ef126b80b0cb5d45b14a57475bb62d0ba9f42d95b1021d2da27db84727d9.jpg?v=1784376247,,blue tentacle octopus rug on wood floor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ae0a474ecf01e805993c9d5d090dd8a40052fd130f233b65245d2d0c5f2e768d.jpg?v=1784376246,,swirling tentacle rug room view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/582e3e5f02d301e7087665a3fa7204945409f1f350aa1b47b25f21198a07e423.jpg?v=1784376252,,custom shape blue octopus rug panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0ef4e18469890bac9ab34f8f331969b1472319c322cf8e782cfb2f9758e7130e.jpg?v=1784376252,,blue octopus rug product view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/af142af8ca6cd630c25f051f9a15a78659a9a49731c088a2ae92e32c879c8798.jpg?v=1784376257,,tentacle rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/dab709d30df5f8586af1ea0ec2a6ba3829d479032049d7f2feb5152f728cdac3.jpg?v=1784376257,,layered backing detail for blue octopus rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/debe15352a29baa20d8167a02297ef59de5c0d5660a9665f21225bf4485a1cde.jpg?v=1784376263,,blue tentacle rug size chart,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B028,chillgen.com,custom-octopus-shaped-area-rug-sea-monster-1975158434,custom-octopus-shaped-area-rug-sea-monster-1975158434,15913341387121,gid://shopify/Product/15913341387121,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B028_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B028_pages/custom-octopus-shaped-area-rug-sea-monster-1975158434.html,2026-09-07T03:49:43+07:00,en-US,US,https://chillgen.com/products/custom-octopus-shaped-area-rug-sea-monster-1975158434,https://chillgen.com/products/custom-octopus-shaped-area-rug-sea-monster-1975158434,Rug,Personalized Tentacle Shaped Octopus Rug for Bedroom and Reading Corner,Personalized Tentacle Shaped Octopus Rug for Bedroom and Reading Corner,Cave Octopus Shaped Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Tentacle Shaped Octopus Rug with Name,NONE_OR_NOT_OBSERVED,Cave Octopus Shaped Rug,SET,23,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Add a custom name to this tentacle shaped octopus rug with ocean artwork, a soft low pile surface, and non slip backing for bedrooms and reading corners.","Create an underwater focal point with a cave octopus shaped rug featuring purple sea monster art, rocky border, size chart and backing detail.",SET,142,cave octopus shaped rug,"sea monster area rug, purple octopus rug, underwater cave rug","cave octopus shaped rug; sea monster area rug, purple octopus rug, underwater cave rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Search and marketplace evidence supports octopus shaped rugs, sea monster/tentacle rugs, tree of life rugs, western horse rugs and running horse area rugs. B028 separates near-duplicate octopus and horse designs by visible color, scene and motif.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,cave octopus shaped rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports cave octopus shaped rug and product-level buyer intent.,B028-274-BR01,"B028 buyers include coastal and ocean decor shoppers, fantasy sea-monster fans, tree-of-life home decor buyers, horse lovers, western/ranch decor shoppers and gift buyers furnishing bedrooms, living rooms or themed spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Bring the mystery of the deep sea into your home with this striking custom-shaped octopus rug. Featuring dramatic tentacles and rich ocean colors, this eye-catching nautical accent piece is designed for sea monster fans and ocean lovers alike. It serves as a bold decorative statement while adding comfort underfoot to any room.</p><h3>Product Highlights</h3><ul>
+<li>Eye-catching octopus shape with dramatic tentacles and colorful ocean artwork.</li>
+<li>Personalized design supporting custom name text.</li>
+<li>Soft surface with comfortable low pile feel underfoot.</li>
+<li>Anti-slip backing and reinforced serged edges for durability.</li>
+<li>Easy to care for and keep clean over long-term use.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Custom Shape</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Dining Room, Entryway, Guest Room, Living Room</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip, Stain Resistant</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sea Monster, Nautical Ocean</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polypropylene</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Polyester</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table><h3>Where It Works</h3><p>This bold ocean-themed accent carpet works beautifully in bedrooms, living rooms, and game rooms. It is also an excellent fit for dorm rooms, reading corners, beach houses, and festive Halloween displays.</p>",Make product copy motif-specific while retaining verified public claims only.,"Create an underwater focal point with a cave octopus shaped rug featuring purple sea monster art, rocky border, size chart and backing detail. Design details Custom shaped rug with purple octopus in underwater cave, spotlight from surface, rocky border, deep blue water, room mockups, custom shape feature panel, layered backing detail and size chart. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Create an underwater focal point with a cave octopus shaped rug featuring purple sea monster art, rocky border, size chart and backing detail.</p><h3>Design details</h3><ul><li>Custom shaped rug with purple octopus in underwater cave, spotlight from surface, rocky border, deep blue water, room mockups, custom shape feature panel, layered backing detail and size chart.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B028-274,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4203c13b9710d70828be9758b4572021fe1f43b4b725c1260893bc7ea1c45f4b.jpg?v=1784376225,,cave octopus shaped rug on wood floor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cf2915177f7f63e49efa5e612a344c004e042e192f355a249771ea8f764a1cee.jpg?v=1784376231,,underwater octopus rug product view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/eeec74d8b8455add16326093e5245c617c28121b2849a012ecf6daf86f324117.jpg?v=1784376230,,sea monster cave rug room view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/736612c6f9a625fa0b79196d554206b9413bd594a33e8ffcee6ca68634814938.jpg?v=1784376236,,custom shape cave octopus rug panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/27956cf0301bbc5b76c632114578a756fdfc1b3a9e7a783fefdad402fcd4c72c.jpg?v=1784376236,,purple octopus rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/75f99b5be5efddbd92901af8c811603adcaaf789cd2f7bf244a12f03de1145ac.jpg?v=1784376241,,layered backing detail for cave rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9d96a149950ff3dfcd32dcf704b557a522a7eae673ceeeea4db9be7564997206.jpg?v=1784376241,,cave octopus rug size chart,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B028,chillgen.com,custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12,custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12,15913341583729,gid://shopify/Product/15913341583729,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B028_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B028_pages/custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12.html,2026-09-07T03:49:43+07:00,en-US,US,https://chillgen.com/products/custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12,https://chillgen.com/products/custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12,Rug,Personalized Sea Monster Octopus Shaped Rug with Ocean Artwork for Game Room,Personalized Sea Monster Octopus Shaped Rug with Ocean Artwork for Game Room,Teal Octopus Shaped Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Sea Monster Octopus Shaped Rug with Ocean Art,NONE_OR_NOT_OBSERVED,Teal Octopus Shaped Rug,SET,23,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalize this sea monster octopus shaped rug with a custom name, ocean artwork, a low pile surface, and non slip backing for game rooms and bedrooms.","Style an ocean room with a teal octopus shaped rug featuring bold cartoon tentacles, custom-cut shape, size chart and anti-slip backing.",SET,136,teal octopus shaped rug,"octopus floor mat, ocean themed area rug, sea creature rug","teal octopus shaped rug; octopus floor mat, ocean themed area rug, sea creature rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Search and marketplace evidence supports octopus shaped rugs, sea monster/tentacle rugs, tree of life rugs, western horse rugs and running horse area rugs. B028 separates near-duplicate octopus and horse designs by visible color, scene and motif.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,teal octopus shaped rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports teal octopus shaped rug and product-level buyer intent.,B028-275-BR01,"B028 buyers include coastal and ocean decor shoppers, fantasy sea-monster fans, tree-of-life home decor buyers, horse lovers, western/ranch decor shoppers and gift buyers furnishing bedrooms, living rooms or themed spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Bring deep-sea mystery into your space with this unique octopus shaped area rug. Featuring dramatic tentacles and rich ocean colors, this custom-shaped rug adds a strong decorative statement to your floor. Designed for sea monster lovers and nautical enthusiasts, it provides comfort underfoot while transforming any room into a bold ocean-themed display.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Eye-catching octopus design with dramatic tentacles and colorful ocean artwork.</li>
+<li>Supports personalization and custom name text.</li>
+<li>Comfortable low pile with an ultra-soft velvet surface.</li>
+<li>Practical non-slip backing helps keep the rug securely in place.</li>
+<li>Reinforced serged edges provide long-term durability and easy care.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Custom Shape</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Dining Room, Entryway, Guest Room, Living Room</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sea Monster</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Stain Resistant</td>
+<td>Yes</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polypropylene</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Polyester</td>
+</tr>
+<li>Care Instructions</li>
+<td>Machine Wash</td>
+</table>
+
+<h3>Where It Works</h3>
+<p>This nautical statement piece fits perfectly in bedrooms, living rooms, game rooms, dorms, and reading corners. It also serves as great decor for beach houses, entryways, or themed Halloween displays.</p>",Make product copy motif-specific while retaining verified public claims only.,"Style an ocean room with a teal octopus shaped rug featuring bold cartoon tentacles, custom-cut shape, size chart and anti-slip backing. Design details Custom shaped teal and navy octopus rug with rounded tentacles, wave-like border, playful sea creature illustration, wood floor and living room mockups, custom shape panel, layered backing graphic and size chart. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Style an ocean room with a teal octopus shaped rug featuring bold cartoon tentacles, custom-cut shape, size chart and anti-slip backing.</p><h3>Design details</h3><ul><li>Custom shaped teal and navy octopus rug with rounded tentacles, wave-like border, playful sea creature illustration, wood floor and living room mockups, custom shape panel, layered backing graphic and size chart.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B028-275,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/63a454c43b95a2b42fd6674c250a7657ec482d2a8fbbd92706836452e6e1e0d3.jpg?v=1784376209,,teal octopus shaped rug on wood floor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b82a8a421eac75a3bb6b2520e5060ad731dc0a4974818922a395d2dea9c03dc3.jpg?v=1784376210,,teal octopus rug product view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9e0cb463422f82ebd53ff6cb37cd0607394c043e3182239943b02a0d8f0af186.jpg?v=1784376215,,octopus floor mat room view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/12aa3a2dbc50b87f558ad355f72a54b3ee69e85d6b7f692f5235d694f2985a91.jpg?v=1784376214,,custom shape teal octopus rug panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e2bc083241d0bb96ba4ae072c3255b17ed2e696c29025065cc6fd3349ca9ad78.jpg?v=1784376220,,teal octopus rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8c9a99174ba95745e6acc4d35f3eac35a92dd4542a990a35b2e24f5b6407e904.jpg?v=1784376220,,layered backing detail for teal rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/535188b5d9710c8c4d24ba3145b8aa7010ff68b714dc839221094f2e5b742e9a.jpg?v=1784376225,,teal octopus shaped rug size chart,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B028,chillgen.com,tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9,tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9,15913347842417,gid://shopify/Product/15913347842417,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B028_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B028_pages/tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9.html,2026-09-07T03:49:43+07:00,en-US,US,https://chillgen.com/products/tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9,https://chillgen.com/products/tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9,Rug,Personalized Yggdrasil Area Rug with Optional Text for Living Room and Bedroom,Personalized Yggdrasil Area Rug with Optional Text for Living Room and Bedroom,Tree Of Life Area Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Yggdrasil Area Rug with Optional Text,NONE_OR_NOT_OBSERVED,Tree Of Life Area Rug,SET,21,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalize this Yggdrasil area rug with optional text and add a Celtic Tree of Life accent with memory foam comfort to living rooms or bedrooms.,"Add a tree of life area rug with teal night-sky background, gold botanical tree, ornate border, size chart and anti-slip backing.",SET,129,tree of life area rug,"tree of life rug, botanical living room rug, mystical tree rug","tree of life area rug; tree of life rug, botanical living room rug, mystical tree rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Search and marketplace evidence supports octopus shaped rugs, sea monster/tentacle rugs, tree of life rugs, western horse rugs and running horse area rugs. B028 separates near-duplicate octopus and horse designs by visible color, scene and motif.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,tree of life area rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports tree of life area rug and product-level buyer intent.,B028-276-BR01,"B028 buyers include coastal and ocean decor shoppers, fantasy sea-monster fans, tree-of-life home decor buyers, horse lovers, western/ranch decor shoppers and gift buyers furnishing bedrooms, living rooms or themed spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Enhance your home with this beautiful indoor floor rug featuring the Celtic Yggdrasil Tree of Life design. This decorative piece provides a soft and warm feel underfoot, helping to soothe tired feet while shielding toes from cold floors. Its beautiful print delivers long-lasting color vibrancy, making it an excellent addition to your everyday home decor.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Vibrant Celtic Tree of Life and Viking Yggdrasil design pattern.</li>
+<li>Personalized customization options available in multiple sizes.</li>
+<li>Thick, plush top layer with a comfortable memory foam cushion feel.</li>
+<li>Equipped with a non-slip backing for extra grip and durability.</li>
+<li>Stain-resistant low pile design that is easy to clean and maintain.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile (4 Millimeters)</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Repellent</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable, Stain Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Yggdrasil</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Viking, Celtic, Yggdrasil</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>CELTIC TREE RUG</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polyester, Non-Woven Fabric</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber / Epoxy Non-Slip Grip</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Use a damp cloth with mild soapy water to clean; avoid bleach; let air dry. Light vacuuming recommended.</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This versatile indoor mat works wonderfully in living rooms, bedrooms, dining rooms, kitchens, and children\'s playrooms. It serves as a practical, decorative accent for high-traffic indoor areas and makes a thoughtful housewarming or holiday gift.</p>",Make product copy motif-specific while retaining verified public claims only.,"Add a tree of life area rug with teal night-sky background, gold botanical tree, ornate border, size chart and anti-slip backing. Design details Rectangular tree of life rug with glowing gold tree and roots, teal black starry botanical background, ornate gold border, living room and fireplace mockups, size chart, microfiber cushion closeup and anti-slip backing panel. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Add a tree of life area rug with teal night-sky background, gold botanical tree, ornate border, size chart and anti-slip backing.</p><h3>Design details</h3><ul><li>Rectangular tree of life rug with glowing gold tree and roots, teal black starry botanical background, ornate gold border, living room and fireplace mockups, size chart, microfiber cushion closeup and anti-slip backing panel.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B028-276,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/eeffb493ccf7b6f5b396482667d5c47b8e4a8cd76efcd39934138dda3863365b.jpg?v=1784385157,,tree of life area rug by sofa,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3dab9acd08185efa4b7b772aab50cb7c881c66bdc934da2ab25e8b38a9034ec2.jpg?v=1784385158,,tree of life rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/20a56c08e27282d4fc7720e8c1cf3b20bc8db9fff53c491e79d306e696753f10.jpg?v=1784385162,,microfiber cushion closeup for tree rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/69be1b80f1ebcf74a257b502e3fb9933fe78a112ce2738340c0e35f5e5c54f36.jpg?v=1784385163,,anti-slip backing detail for tree rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/46787613dc2d2ed059d529670373f70ee67a693fd29500a3dacc3c2867313265.jpg?v=1784385168,,tree of life rug by fireplace,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/89717de2535781e8af8d6b4b19ad93c28a6b8ae4b9aa62e205c09c8dba917137.jpg?v=1784385168,,botanical tree rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/678103ed5c6334c1e061d871850385cfec3a330d9a66bffa4b6fcde8d43df115.jpg?v=1784385174,,tree of life rug room view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/095d7a05ea29d5e938dd6749f4e97427666aae48f63936649e30bfe8267621a2.jpg?v=1784385174,,tree rug quiet fireside scene,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B028,chillgen.com,western-running-horse-area-rug-122e8b85fb-122e8b85fb,western-running-horse-area-rug-122e8b85fb-122e8b85fb,15913417900401,gid://shopify/Product/15913417900401,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B028_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B028_pages/western-running-horse-area-rug-122e8b85fb-122e8b85fb.html,2026-09-07T03:49:43+07:00,en-US,US,https://chillgen.com/products/western-running-horse-area-rug-122e8b85fb-122e8b85fb,https://chillgen.com/products/western-running-horse-area-rug-122e8b85fb-122e8b85fb,Rug,Personalized Western Horse Doormat with Family Name and Address for Entryway,Personalized Western Horse Doormat with Family Name and Address for Entryway,Black Running Horse Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Western Horse Doormat with Family Name,NONE_OR_NOT_OBSERVED,Black Running Horse Rug,SET,23,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalize this western horse doormat with a family name, monogram, and address. Memory foam comfort and non slip backing suit entryways and home offices.","Decorate with a black running horse rug featuring golden sunset glow, western motion artwork, size chart and non-slip backing.",SET,126,black running horse rug,"western horse area rug, galloping horse rug, equestrian room rug","black running horse rug; western horse area rug, galloping horse rug, equestrian room rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Search and marketplace evidence supports octopus shaped rugs, sea monster/tentacle rugs, tree of life rugs, western horse rugs and running horse area rugs. B028 separates near-duplicate octopus and horse designs by visible color, scene and motif.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,black running horse rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports black running horse rug and product-level buyer intent.,B028-277-BR01,"B028 buyers include coastal and ocean decor shoppers, fantasy sea-monster fans, tree-of-life home decor buyers, horse lovers, western/ranch decor shoppers and gift buyers furnishing bedrooms, living rooms or themed spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This beautiful horse-themed area rug features a stunning western running horse design, perfect for adding a touch of nature and elegance to your home decor. Constructed with a soft top layer and a comfortable sponge interlayer, it provides a plush, memory foam-like cushion underfoot. Designed for durability and daily use, this non-slip accent piece serves as both a stylish focal point and a cozy comfort layer for any room.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Vibrant western running horse artistic print with long-lasting color quality.</li>
+<li>Supports personalized customization options for tailored sizing.</li>
+<li>Thick, soft, and absorbent memory foam interlayer helps soothe tired feet.</li>
+<li>Equipped with a high-quality non-slip backing for secure floor placement.</li>
+<li>Stain-resistant low pile fabric with durable reinforced serged edges.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Horse</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Horse, Animals</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>HORSE AREA RUG</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polyester, Polypropylene</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber, Epoxy</td>
+</tr>
+<li>Care Instructions</li>
+<td>Washable; clean with a damp cloth and mild soapy water (avoid bleach) and air dry. Light vacuuming recommended.</td>
+</table>
+
+<h3>Where It Works</h3>
+<p>This versatile accent rug is highly suited for cozying up your living room, bedroom, or children's playroom. It also makes a wonderful and practical addition to dining rooms, kitchens, or home offices.</p>",Make product copy motif-specific while retaining verified public claims only.,"Decorate with a black running horse rug featuring golden sunset glow, western motion artwork, size chart and non-slip backing. Design details Rectangular area rug with black galloping horse, golden circular sunset glow, dust and sparkle effects, living room and fireplace mockups, size chart, microfiber cushion closeup and anti-slip backing panel. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Decorate with a black running horse rug featuring golden sunset glow, western motion artwork, size chart and non-slip backing.</p><h3>Design details</h3><ul><li>Rectangular area rug with black galloping horse, golden circular sunset glow, dust and sparkle effects, living room and fireplace mockups, size chart, microfiber cushion closeup and anti-slip backing panel.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B028-277,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ffa182e5e1f7298819fc44c2114210637c0597e3134393f58c7046f674f75deb.jpg?v=1784377469,,black running horse rug by sofa,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ca8205e881f49d5d94649726b0640eb15037bc22d41ad1cbcc8649d987d6d338.jpg?v=1784377469,,running horse rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8e99897347483de93382b27779a61a4593d6c810a69411c4245a70d1e3c5ba13.jpg?v=1784377474,,microfiber cushion closeup for horse rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ea32e09d7fbf93796c7de2b7b71db1946fc5edc37bdea7f6949558f5b22ff118.jpg?v=1784377474,,anti-slip backing detail for horse rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/72a05f1e6131dfb2c6bae1f5485a828a4f88716dde92a06b9aca4d87bcdf6066.jpg?v=1784377479,,horse rug by fireplace,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/14e4b088a8011abd7f325a4bfeb0efbfc2589c9710940b63bd09c56a5debff8e.jpg?v=1784377479,,black horse area rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6f0ba5c6322318855ed7667885b600b356bf92d0051db082e07a08a47b315e45.jpg?v=1784377484,,western running horse rug room view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e0d162c34133116607724e62ea1153556a3d259241772d62adfdd12a1d06a4dc.jpg?v=1784377485,,horse rug quiet fireside scene,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B028,chillgen.com,custom-running-horse-area-rug-5eadea7a69,custom-running-horse-area-rug-5eadea7a69,15913417998705,gid://shopify/Product/15913417998705,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B028_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B028_pages/custom-running-horse-area-rug-5eadea7a69.html,2026-09-07T03:49:43+07:00,en-US,US,https://chillgen.com/products/custom-running-horse-area-rug-5eadea7a69,https://chillgen.com/products/custom-running-horse-area-rug-5eadea7a69,Rug,Custom Running Horse Area Rug with Optional Text and Memory Foam for Living Room,Custom Running Horse Area Rug with Optional Text and Memory Foam for Living Room,Purple Horse Area Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Running Horse Area Rug with Memory Foam Comfort,NONE_OR_NOT_OBSERVED,Purple Horse Area Rug,SET,21,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Customize this running horse area rug with optional text. Memory foam cushioning and non slip backing add comfort to living rooms, bedrooms, and entryways.","Add a purple horse area rug with black horse portrait, floral accents, dreamy sky background, size chart and anti-slip backing.",SET,127,purple horse area rug,"horse bedroom rug, equestrian area rug, floral horse rug","purple horse area rug; horse bedroom rug, equestrian area rug, floral horse rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Search and marketplace evidence supports octopus shaped rugs, sea monster/tentacle rugs, tree of life rugs, western horse rugs and running horse area rugs. B028 separates near-duplicate octopus and horse designs by visible color, scene and motif.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,purple horse area rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports purple horse area rug and product-level buyer intent.,B028-278-BR01,"B028 buyers include coastal and ocean decor shoppers, fantasy sea-monster fans, tree-of-life home decor buyers, horse lovers, western/ranch decor shoppers and gift buyers furnishing bedrooms, living rooms or themed spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This beautiful horse-themed area rug brings a touch of western elegance to your indoor spaces. Featuring a vibrant, long-lasting running horse design, it serves as a stunning centerpiece that elevates your home decor. Crafted to provide a soft and plush walking experience, this functional accent piece helps soothe tired feet while shielding toes from cold floors.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Vibrant western running horse artistic design</li>
+<li>Supports custom options for personalized home styling</li>
+<li>Thick, soft, and absorbent high-density memory foam feel</li>
+<li>Non-slip underside backing for enhanced floor grip</li>
+<li>Versatile low-profile height suitable for multiple indoor spaces</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor/Outdoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Living Room, Bedroom, Dining Room, Playroom</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Horse</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Horse, Animals</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>HORSE AREA RUG</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polyester, Polypropylene</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber, Epoxy</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Thick, soft, and absorbent non-woven fabric with sponge interlayer</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Stain-resistant material; easy to clean</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Washable; use a damp cloth with mild soapy water (avoid bleach)</td>
+</tr>
+<tr>
+<td>Drying</td>
+<td>Air dry</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This versatile area rug works beautifully in high-traffic indoor areas such as the living room, bedroom, dining room, kitchen, or children's playroom. It is also an excellent choice for entryway floor decor or as a thoughtful housewarming present.</p>",Make product copy motif-specific while retaining verified public claims only.,"Add a purple horse area rug with black horse portrait, floral accents, dreamy sky background, size chart and anti-slip backing. Design details Rectangular rug with black horse portrait, purple and pink sky, violet flowers, dreamy glowing effects, living room and fireplace mockups, size chart, microfiber cushion closeup and anti-slip backing detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Add a purple horse area rug with black horse portrait, floral accents, dreamy sky background, size chart and anti-slip backing.</p><h3>Design details</h3><ul><li>Rectangular rug with black horse portrait, purple and pink sky, violet flowers, dreamy glowing effects, living room and fireplace mockups, size chart, microfiber cushion closeup and anti-slip backing detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B028-278,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3dcb618154d1664e3d2bd4f0a41f80471319e68b6688a3781c14717e16d8e953.jpg?v=1784377448,,purple horse area rug by sofa,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ae41968e6be16e5808ab676a18dcda617577d00b066ab9b8fa780b414ed86859.jpg?v=1784377448,,purple horse rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9d2706d28c7d0e0ef8db324b2ab913205f6803b914265ab8f585eb5062ea1517.jpg?v=1784377453,,microfiber cushion closeup for floral horse rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5325fdc1aebdbdbb96597d13bd7116387f3a8af7c50af5e072261e3c1e507769.jpg?v=1784377453,,anti-slip backing detail for purple horse rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a279410e00aa47be3c99932c3a99ffc7b1668ad4ff4a0b62baf136520b81dd36.jpg?v=1784377458,,horse rug by fireplace,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c79e371422c5d600940655be7184f802fa94e29043e895b620ebfc978ae4af5c.jpg?v=1784377458,,purple horse rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/bc21892d0e83ef2b2ed2b8f1e055ee74d494853a53623ca435007333cc362bfa.jpg?v=1784377463,,floral horse area rug room view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/513d1b3d398949637717b1c856c715d1b61b9e9fc00192c498f455bb5e4dac75.jpg?v=1784377464,,purple horse rug quiet fireside scene,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B028,chillgen.com,custom-running-horse-welcome-mat-5c3fa81b88,custom-running-horse-welcome-mat-5c3fa81b88,15913418064241,gid://shopify/Product/15913418064241,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B028_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B028_pages/custom-running-horse-welcome-mat-5c3fa81b88.html,2026-09-07T03:49:43+07:00,en-US,US,https://chillgen.com/products/custom-running-horse-welcome-mat-5c3fa81b88,https://chillgen.com/products/custom-running-horse-welcome-mat-5c3fa81b88,Rug,Personalized Running Horse Welcome Mat with Custom Text for Home Entryway,Personalized Running Horse Welcome Mat with Custom Text for Home Entryway,Rustic Horse Area Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Running Horse Welcome Mat with Custom Text,NONE_OR_NOT_OBSERVED,Rustic Horse Area Rug,SET,21,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalize this running horse welcome mat with custom text. A low pile surface and non slip backing make it suitable for entryways and reading nooks.,"Style a western room with a rustic horse area rug featuring dramatic horse portrait, brown dust tones, size chart and non-slip backing.",SET,135,rustic horse area rug,"western horse rug, ranch decor rug, horse lover area rug","rustic horse area rug; western horse rug, ranch decor rug, horse lover area rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Search and marketplace evidence supports octopus shaped rugs, sea monster/tentacle rugs, tree of life rugs, western horse rugs and running horse area rugs. B028 separates near-duplicate octopus and horse designs by visible color, scene and motif.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,rustic horse area rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports rustic horse area rug and product-level buyer intent.,B028-279-BR01,"B028 buyers include coastal and ocean decor shoppers, fantasy sea-monster fans, tree-of-life home decor buyers, horse lovers, western/ranch decor shoppers and gift buyers furnishing bedrooms, living rooms or themed spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This premium area rug features a striking western running horse design, bringing a touch of natural beauty and warmth to your home decor. Crafted with a soft top layer and a supportive cushioned interlayer, it offers a plush, comfortable feel underfoot that helps soothe tired feet. Designed for both style and durability, this versatile floor accent serves as a beautiful focal point while standing up to everyday use.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Vibrant western running horse pattern printed with high-quality heat dye sublimation.</li>
+<li>Supports personalized sizing options to fit your unique living space.</li>
+<li>Constructed with a soft, absorbent surface and a high-density memory foam cushion.</li>
+<li>Equipped with a non-slip backing for enhanced stability and safety on various floor types.</li>
+<li>Low-pile height of 4mm allows for easy placement under furniture and near doors.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Living Room, Bedroom, Dining Room, Playroom</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable, Non-Slip, Stain-Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Horse</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Horse, Animals</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Western</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polypropylene, Polyester</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber, Epoxy</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Easy to clean; use a damp cloth with mild soapy water (avoid bleach) and air dry. Light vacuuming recommended.</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This decorative horse carpet is perfectly suited for high-traffic indoor environments, including the living room, bedroom, kids\' playroom, and dining area. Its durable, low-pile design also makes it an excellent choice for entryway floor decor and cozy reading nooks.</p>",Make product copy motif-specific while retaining verified public claims only.,"Style a western room with a rustic horse area rug featuring dramatic horse portrait, brown dust tones, size chart and non-slip backing. Design details Rectangular rug with close-up black and white horse portrait, brown dusty background, dramatic motion texture, living room and fireplace mockups, size chart, microfiber cushion closeup and anti-slip backing panel. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Style a western room with a rustic horse area rug featuring dramatic horse portrait, brown dust tones, size chart and non-slip backing.</p><h3>Design details</h3><ul><li>Rectangular rug with close-up black and white horse portrait, brown dusty background, dramatic motion texture, living room and fireplace mockups, size chart, microfiber cushion closeup and anti-slip backing panel.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B028-279,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d116c0e4b264a90ed455735e6d5fbd0b0d138330364212ac71889c49ac66dd77.jpg?v=1784377427,,rustic horse area rug by sofa,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2c8f6ee34e6f167c94e6f28629656521d20f527b51ee1d05cda6a365b8b2f84b.jpg?v=1784377427,,rustic horse rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a2338834e629fa16cf949f5f1509c0963e25863181aad1e94cbbdf7fb12d987e.jpg?v=1784377432,,microfiber cushion closeup for horse rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f28c47295d1d857614c7331422008a39734252727a7f365618ef7731c714f796.jpg?v=1784377432,,anti-slip backing detail for rustic horse rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5669075d4e56073c7b850b734b6d491a999695e488ec735db10d31d7057a5153.jpg?v=1784377437,,horse portrait rug by fireplace,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4d1e405a29adcd81112f7d7a60f7dd7ebf55f242115ff2846568262550c5c218.jpg?v=1784377438,,rustic horse rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/21ddf384cd1954176e0a9689d80bc4be002d94fa4cfd501dfe45a8d5560d3cf4.jpg?v=1784377443,,western horse rug room view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/633bd3b0662584c0b5fa1fb2f824efd24283f9a6e7ca191c14f0ffeb2671c8a1.jpg?v=1784377443,,horse rug quiet fireside scene,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B028,chillgen.com,custom-running-horse-welcome-mat-a0cd749d2b,custom-running-horse-welcome-mat-a0cd749d2b,15913418359153,gid://shopify/Product/15913418359153,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B028_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B028_pages/custom-running-horse-welcome-mat-a0cd749d2b.html,2026-09-07T03:49:43+07:00,en-US,US,https://chillgen.com/products/custom-running-horse-welcome-mat-a0cd749d2b,https://chillgen.com/products/custom-running-horse-welcome-mat-a0cd749d2b,Rug,Custom Rustic Running Horse Rug with Optional Text for Living Room and Bedroom,Custom Rustic Running Horse Rug with Optional Text for Living Room and Bedroom,Rainbow Horse Area Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Rustic Running Horse Rug with Memory Foam Comfort,NONE_OR_NOT_OBSERVED,Rainbow Horse Area Rug,SET,22,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Customize this rustic running horse rug with optional text. Memory foam cushioning and non slip backing bring comfort to living rooms and bedrooms.,"Brighten a horse lover room with a rainbow horse area rug featuring colorful mane artwork, size chart, soft surface and backing detail.",SET,135,rainbow horse area rug,"colorful horse rug, equestrian bedroom rug, horse lover floor mat","rainbow horse area rug; colorful horse rug, equestrian bedroom rug, horse lover floor mat",LONG_TAIL_CANDIDATE,EVERGREEN,"Search and marketplace evidence supports octopus shaped rugs, sea monster/tentacle rugs, tree of life rugs, western horse rugs and running horse area rugs. B028 separates near-duplicate octopus and horse designs by visible color, scene and motif.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,rainbow horse area rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports rainbow horse area rug and product-level buyer intent.,B028-280-BR01,"B028 buyers include coastal and ocean decor shoppers, fantasy sea-monster fans, tree-of-life home decor buyers, horse lovers, western/ranch decor shoppers and gift buyers furnishing bedrooms, living rooms or themed spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This premium horse-themed area rug brings the beauty of running horses into your home decor while offering exceptional comfort. Crafted with a soft top layer and a memory foam cushion interlayer, it effectively relieves foot pressure and shields toes from cold floors. Its beautiful design and durable construction make it a perfect addition to any horse lover\'s living space.</p><h3>Product Highlights</h3><ul>
+<li>Beautiful horse collection design printed with high-quality heat dye sublimation for long-lasting color vibrancy.</li>
+<li>Customizable options with multiple size selections to perfectly fit your home decor needs.</li>
+<li>Ultra-soft memory foam cushion interlayer that provides a plush, comfortable walking experience.</li>
+<li>Durable non-slip backing constructed with high-quality epoxy to ensure the rug stays in place.</li>
+<li>Low-profile pile height that fits easily under furniture and reduces tripping hazards.</li>
+<li>Easy to clean and maintain, making it ideal for busy areas with frequent foot traffic.</li>
+</ul><h3>Specifications</h3><table border=""\'1\'"" cellpadding=""\'6\'"" style=""\'border-collapse:collapse;width:100%\'"">
+<tr>
+<th align=""\'left\'"" width=""\'35%\'"">Attribute</th>
+<th align=""\'left\'"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Horse</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Horse, Animals</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>HORSE AREA RUG</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Occasion</td>
+<td>Housewarming</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""\'1\'"" cellpadding=""\'6\'"" style=""\'border-collapse:collapse;width:100%\'"">
+<tr>
+<th align=""\'left\'"" width=""\'35%\'"">Item</th>
+<th align=""\'left\'"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polypropylene, Polyester</td>
+</tr>
+<tr>
+<td>Backing Material Type</td>
+<td>Rubber, Epoxy</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Stain-resistant, easy to clean. Use a damp cloth with mild soapy water (avoid bleach) and let air dry. Light vacuuming is recommended.</td>
+</tr>
+</table><h3>Where It Works</h3><p>Perfect for home decor, floor decor indoor, living rooms, bedrooms, dining rooms, or children\'s playrooms. This versatile rug also makes a meaningful and practical present for birthdays, holidays, or special occasions.</p>",Make product copy motif-specific while retaining verified public claims only.,"Brighten a horse lover room with a rainbow horse area rug featuring colorful mane artwork, size chart, soft surface and backing detail. Design details Rectangular rug with tan horse portrait, rainbow mane, warm cream and gold background, colorful leaf-like strokes, living room and fireplace mockups, size chart, microfiber cushion closeup and anti-slip backing panel. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Brighten a horse lover room with a rainbow horse area rug featuring colorful mane artwork, size chart, soft surface and backing detail.</p><h3>Design details</h3><ul><li>Rectangular rug with tan horse portrait, rainbow mane, warm cream and gold background, colorful leaf-like strokes, living room and fireplace mockups, size chart, microfiber cushion closeup and anti-slip backing panel.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B028-280,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7aa679c15b76c178a5686cbf93414ce32a24aac9561754ccdf37446c9a6b8e21.jpg?v=1784377406,,rainbow horse area rug by sofa,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6022216c5f67dd88706e1765a04ebbb27698fa2ae50d973695d9810254bd3528.jpg?v=1784377406,,rainbow horse rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4c5cf7781aa4385c5ede3aa3c9ad88fbc881d1917d4e0c0b1d0581caaa22e8f6.jpg?v=1784377411,,microfiber cushion closeup for rainbow horse rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b869ab05e9751f8c7be0a41da47c65ba2e0c7ffc1596ea2c9628f272858bd3e1.jpg?v=1784377411,,anti-slip backing detail for horse rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9300d8d142a18d2c6c0f93ce69f8ed170a99ef4d8af6326ab4d6a4121266df8d.jpg?v=1784377416,,rainbow horse rug by fireplace,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fee0f0d0b16f4e8fd35dee23cd5052e7a953cd63e0ab4e56dce5bda3cf7a7d93.jpg?v=1784377416,,colorful horse rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5a394b2a619665ee18ba59c3c2f0033f60db0bb8f5045bc7772bc3ae7e37cfa2.jpg?v=1784377422,,rainbow horse rug room view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/43d955a516ce2fa9822ffcbae834e1455c338da8070623ed15a5b4a3a26b5f2d.jpg?v=1784377421,,horse rug quiet fireside scene,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

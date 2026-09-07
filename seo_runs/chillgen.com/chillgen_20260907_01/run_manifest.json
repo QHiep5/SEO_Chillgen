@@ -1,0 +1,54 @@
+{
+  "schema_version": "2.4",
+  "prompt_version": "2.4",
+  "run_id": "chillgen_20260907_01",
+  "shop_domain": "chillgen.com",
+  "brand": "Chillgen",
+  "storefront_url": "https://chillgen.com",
+  "shopify_admin_url": "https://admin.shopify.com/store/bbjttb-n9",
+  "target_market": "United States",
+  "seo_language": "English",
+  "shop_default_language": "English",
+  "product_niche": "POD / Printed Rugs",
+  "inventory_scope": "ALL_PUBLIC_PRODUCTS",
+  "campaign_focus": [
+    "HALLOWEEN",
+    "CHRISTMAS"
+  ],
+  "authorized_phases": [
+    "SETUP",
+    "INVENTORY",
+    "RESEARCH_BATCH_B001"
+  ],
+  "required_stop_after": "RESEARCH_BATCH_B001",
+  "research_batch_size": 10,
+  "shopify_admin_source": {
+    "status": "NOT_PROVIDED",
+    "search_path": "inputs/shopify/",
+    "selected_export": null
+  },
+  "source_of_truth": [
+    {
+      "path": "seo-prompt/chillgen/prompt.md",
+      "sha256": "254c5ab3b2930be0f00bd64a61ecbf9be0ed2441ef90ce62001f1dbf3d96b713"
+    },
+    {
+      "path": "seo-prompt/chillgen/prompt_qa.md",
+      "sha256": "caeacb83a45638bcffc03ce1d2daf1fc9e915f417ada6b66eb706284283ea96c"
+    },
+    {
+      "path": "seo-prompt/chillgen/huongdansudung.md",
+      "sha256": "eeb8f24d284ffa91945f45fa2902ceba092105f20cc005e0d5a78faea7656420"
+    }
+  ],
+  "source_repository": {
+    "path": "seo-prompt/",
+    "expected_commit": "157cfb46f15836a50f8adf752f6da6c7f8443c11",
+    "observed_commit": "157cfb46f15836a50f8adf752f6da6c7f8443c11",
+    "commit_verified": true,
+    "working_tree_clean": true
+  },
+  "current_stage": "SETUP_COMPLETE",
+  "created_at": "2026-09-07T00:40:23+07:00",
+  "updated_at": "2026-09-07T00:40:23+07:00"
+}

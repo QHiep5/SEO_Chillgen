@@ -1,0 +1,505 @@
+schema_version,prompt_version,run_id,batch_id,shop_domain,product_key,Handle,product_id,product_gid,identity_status,source_export_ref,source_exported_at,locale,market,url,canonical_url,product_type,title_current,h1_current,title_proposed,title_action,h1_mapping_status,meta_title_current,meta_title_source_state,rendered_title_current,theme_title_suffix,meta_title_seo,meta_title_action,meta_title_chars,meta_description_current,meta_description_source_state,rendered_meta_description_current,meta_description_seo,meta_description_action,meta_description_chars,primary_keyword,secondary_keywords,long_tail_candidates,keyword_strategy,season,keyword_demand_evidence,keyword_serp_fit,meta_keyword,search_intent,keyword_validation_status,keyword_selection_reason,buyer_research_refs,buyer_search_summary,baseline_status,change_scope,mapping_status,mapping_version,description_current_html,description_changes_needed,description_proposed,description_proposed_html,description_change_mode,description_target_section,description_action,revision,review_status,review_reason,approved_by,approved_at,approved_fields,approved_revision,processing_status,evidence_status,content_qa_status,field_evidence_map,evidence_id,issues,img_1_link,img_1_alt_current,img_1_alt,img_1_alt_action,img_2_link,img_2_alt_current,img_2_alt,img_2_alt_action,img_3_link,img_3_alt_current,img_3_alt,img_3_alt_action,img_4_link,img_4_alt_current,img_4_alt,img_4_alt_action,img_5_link,img_5_alt_current,img_5_alt,img_5_alt_action,img_6_link,img_6_alt_current,img_6_alt,img_6_alt_action,img_7_link,img_7_alt_current,img_7_alt,img_7_alt_action,img_8_link,img_8_alt_current,img_8_alt,img_8_alt_action,img_9_link,img_9_alt_current,img_9_alt,img_9_alt_action,img_10_link,img_10_alt_current,img_10_alt,img_10_alt_action,img_11_link,img_11_alt_current,img_11_alt,img_11_alt_action,img_12_link,img_12_alt_current,img_12_alt,img_12_alt_action,img_13_link,img_13_alt_current,img_13_alt,img_13_alt_action,img_14_link,img_14_alt_current,img_14_alt,img_14_alt_action,img_15_link,img_15_alt_current,img_15_alt,img_15_alt_action,img_16_link,img_16_alt_current,img_16_alt,img_16_alt_action,img_17_link,img_17_alt_current,img_17_alt,img_17_alt_action,img_18_link,img_18_alt_current,img_18_alt,img_18_alt_action,img_19_link,img_19_alt_current,img_19_alt,img_19_alt_action,img_20_link,img_20_alt_current,img_20_alt,img_20_alt_action,img_21_link,img_21_alt_current,img_21_alt,img_21_alt_action,img_22_link,img_22_alt_current,img_22_alt,img_22_alt_action
+2.4,2.4,chillgen_20260907_01,B057,chillgen.com,custom-golf-area-rug-d8623da216,custom-golf-area-rug-d8623da216,15912083849585,gid://shopify/Product/15912083849585,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B057_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-golf-area-rug-d8623da216.html,2026-09-07T11:13:57+07:00,en-US,US,https://chillgen.com/products/custom-golf-area-rug-d8623da216,https://chillgen.com/products/custom-golf-area-rug-d8623da216,Rug,Custom Golf Area Rug for Living Room and Home Office Decor,Custom Golf Area Rug for Living Room and Home Office Decor,Personalized Golf Area Rug for Home Office,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Golf Area Rug for Living Room and Home Office Decor,NONE_OR_NOT_OBSERVED,Personalized Golf Area Rug for Home Office,SET,42,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,This custom golf area rug blends modern golf aesthetics with home decor to bring the golf experience indoors. It offers a perfect balance of sporty style and...,"Personalized golf area rug with 19th hole text, club and ball artwork, green putting style, memory foam cushion and non slip backing.",SET,133,personalized golf area rug,"golf office rug, 19th hole golf rug, golf decor mat","personalized golf area rug; golf office rug, 19th hole golf rug, golf decor mat",LONG_TAIL_CANDIDATE,EVERGREEN,"Use long-tail keywords that separate the final motifs: personalized golf rug, octopus skull rug, blue octopus area rug, octopus mandala rug, octopus mosaic rug, vintage octopus rug, watercolor octopus rug, coastal octopus welcome mat and personalized teacher round rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized golf area rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,"Selected because page/image evidence supports personalized green golf rug with 19th hole text, club, ball and putting green design and product-level buyer intent.",B057-561-BR01,"B057 buyers include golf fans decorating offices or man caves, coastal decor shoppers choosing octopus rugs in different art styles, and teachers buying custom round classroom rugs. Key concerns are visual specificity, personalization, room fit, size options, soft microfiber/memory foam feel and non slip backing.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This custom golf area rug blends modern golf aesthetics with home decor to bring the golf experience indoors. It offers a perfect balance of sporty style and daily functionality, making it an excellent addition to any room. Crafted for durability and comfort, it features a unique design that is perfect for golf enthusiasts.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Elegant golf-themed design brings a sporty look to your indoor spaces.</li>
+<li>Customizable options allow you to select the perfect fit for your home.</li>
+<li>Sponge interlayer provides a comfortable, soft feeling underfoot.</li>
+<li>Non-slip properties ensure the floor mat stays securely in place.</li>
+<li>Low pile surface makes it highly resistant to wear and easy to clean.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polypropylene, Polyester, Non-woven Fabric</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Sponge Interlayer</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Washable, easy to clean, ideal for areas with frequent spills</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This versatile area rug is ideal for the living room, kitchen, office, bedroom, dining room, or doorway. It serves as a practical and meaningful present for golf lovers, dads, and boys.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalized golf area rug with 19th hole text, club and ball artwork, green putting style, memory foam cushion and non slip backing. Design details Green rug reads anderson's 19th hole duffer's welcome with golf club, ball, flag and putting green stripe artwork. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalized golf area rug with 19th hole text, club and ball artwork, green putting style, memory foam cushion and non slip backing.</p><h3>Design details</h3><ul><li>Green rug reads anderson's 19th hole duffer's welcome with golf club, ball, flag and putting green stripe artwork.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B057-561,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71WZqz98UhL._SL1500.jpg?v=1784384514,,Main image shows personalized green 19th Hole golf rug in home office.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/61L5bOFAP2L._SL1500.jpg?v=1784384514,,Sofa-side scene shows Anderson's golf rug and club artwork.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/61n1Oi30tML._SL1500.jpg?v=1784384519,,"Size chart lists small, medium and large rug sizes.",SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/61LvXM5J-PL._SL1500.jpg?v=1784384519,,Close-up shows quick dry microfiber surface and memory foam cushion.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71NIoWwj11L._SL1500.jpg?v=1784384524,,Backing panel shows anti slip and stain resistance.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/618ZTmhRWfL._SL1500.jpg?v=1784384524,,Bright living room mockup shows full golf rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71J_A7csKzL._SL1500.jpg?v=1784384530,,Patio-style placement shows rug scale.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/61DbNo1ClLL._SL1500.jpg?v=1784384530,,Cozy fireplace scene with person near golf rug.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B057,chillgen.com,custom-octopus-welcome-mat-87bf0d33b5,custom-octopus-welcome-mat-87bf0d33b5,15912084242801,gid://shopify/Product/15912084242801,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B057_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-87bf0d33b5.html,2026-09-07T11:13:57+07:00,en-US,US,https://chillgen.com/products/custom-octopus-welcome-mat-87bf0d33b5,https://chillgen.com/products/custom-octopus-welcome-mat-87bf0d33b5,Rug,Octopus Skull Welcome Mat with Coastal Artwork for Entryway and Bedroom,Octopus Skull Welcome Mat with Coastal Artwork for Entryway and Bedroom,Octopus Skull Coastal Area Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Octopus Skull Welcome Mat with Coastal Art for Home,NONE_OR_NOT_OBSERVED,Octopus Skull Coastal Area Rug,SET,30,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Add coastal style with an octopus skull welcome mat featuring a low pile surface, sponge cushioning, and reinforced edges for entryways and bedrooms.","Octopus skull coastal area rug with teal tentacles, dark ocean artwork, memory foam cushion and anti slip backing.",SET,114,octopus skull rug,"coastal gothic rug, nautical skull mat, sea life area rug","octopus skull rug; coastal gothic rug, nautical skull mat, sea life area rug",LONG_TAIL_CANDIDATE,HALLOWEEN,"Use long-tail keywords that separate the final motifs: personalized golf rug, octopus skull rug, blue octopus area rug, octopus mandala rug, octopus mosaic rug, vintage octopus rug, watercolor octopus rug, coastal octopus welcome mat and personalized teacher round rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,octopus skull rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports octopus skull coastal rug with teal tentacles and dark sea background and product-level buyer intent.,B057-562-BR01,"B057 buyers include golf fans decorating offices or man caves, coastal decor shoppers choosing octopus rugs in different art styles, and teachers buying custom round classroom rugs. Key concerns are visual specificity, personalization, room fit, size options, soft microfiber/memory foam feel and non slip backing.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Add a touch of coastal charm to your home with this unique coastal beach-themed floor covering. Designed featuring a distinctive marine motif, it brings a fresh seaside feel to any indoor space. This versatile accent piece provides comfort underfoot while enhancing your interior decor.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Customizable options available in multiple sizes to fit various rooms.</li>
+<li>Constructed with a soft sponge interlayer for comfortable cushioning.</li>
+<li>Features a low pile surface that is exceptionally easy to clean.</li>
+<li>Durable construction with polyester offering excellent tear resistance.</li>
+<li>Reinforced serged edges ensure long-lasting durability.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Coastal, Beach, Octopus</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam, Polyester, Polypropylene</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Non-woven fabric</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Easy to clean, low pile ideal for high-traffic areas, washable</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This coastal rug works beautifully in a variety of indoor spaces, including the living room, kitchen, bathroom, bedroom, or entryway. It also makes a meaningful and practical gift for housewarmings, birthdays, or special seasonal occasions.</p>",Make product copy motif-specific while retaining verified public claims only.,"Octopus skull coastal area rug with teal tentacles, dark ocean artwork, memory foam cushion and anti slip backing. Design details Dark rectangular rug shows a large skull over teal octopus tentacles with suction cup details and room mockups. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Octopus skull coastal area rug with teal tentacles, dark ocean artwork, memory foam cushion and anti slip backing.</p><h3>Design details</h3><ul><li>Dark rectangular rug shows a large skull over teal octopus tentacles with suction cup details and room mockups.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B057-562,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9cc7c544867f505c7845b83f65fa4211cd372f9f0ebfe6b5870d61e0da196ff2.jpg?v=1784376525,,Main image shows skull over teal octopus tentacles by sofa.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/72084b14c91e4c5ce1de028cd69dbf7f1d6593f769bedc9b4f8f81dff67f43b7.jpg?v=1784376529,,Size chart shows three rectangular rug sizes.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c530b48fdfa8c1c3396ad97fcfabdb77c386972bd1869696d24a71e49fd26c7d.jpg?v=1784376531,,Close-up shows tentacles and memory foam cushion.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/20b1084ba76cbc289356d9452aa58473f9f51954943e65a7db500d45b820e343.jpg?v=1784376535,,Living room mockup with octopus skull rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b1c4859b3a6b39fd3badfb23b6c02cabec96d8a6fa634e4937f35b5704ace700.jpg?v=1784376536,,Family scene shows rug scale and soft use.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/05ba6e6291f4cf01c7eae87e758de2abd40c394f7a16ac1e6851a50d899fbad7.jpg?v=1784376540,,Backing panel shows anti slip and stain resistance.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/58ef697cbf587ec34ce8f0e3102c2e650c02ec3467a7b256b7471f9fe28c9937.jpg?v=1784376541,,Sofa-side image shows full skull octopus design.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B057,chillgen.com,custom-octopus-welcome-mat-entryway-464c692e0a,custom-octopus-welcome-mat-entryway-464c692e0a,15912084537713,gid://shopify/Product/15912084537713,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B057_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-entryway-464c692e0a.html,2026-09-07T11:13:57+07:00,en-US,US,https://chillgen.com/products/custom-octopus-welcome-mat-entryway-464c692e0a,https://chillgen.com/products/custom-octopus-welcome-mat-entryway-464c692e0a,Rug,Coastal Octopus Area Rug with Low Pile Surface for Classroom and Bedroom,Coastal Octopus Area Rug with Low Pile Surface for Classroom and Bedroom,Blue Octopus Tentacle Area Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Coastal Octopus Area Rug for Classroom and Bedroom,NONE_OR_NOT_OBSERVED,Blue Octopus Tentacle Area Rug,SET,30,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Bring ocean artwork to a classroom or bedroom with a coastal octopus area rug featuring a low pile surface, soft sponge support, and reinforced edges.","Blue octopus tentacle area rug with glowing suction cup artwork, dark ocean style, memory foam cushion and non slip backing.",SET,124,blue octopus tentacle rug,"octopus area rug, ocean sea life rug, nautical bedroom mat","blue octopus tentacle rug; octopus area rug, ocean sea life rug, nautical bedroom mat",LONG_TAIL_CANDIDATE,EVERGREEN,"Use long-tail keywords that separate the final motifs: personalized golf rug, octopus skull rug, blue octopus area rug, octopus mandala rug, octopus mosaic rug, vintage octopus rug, watercolor octopus rug, coastal octopus welcome mat and personalized teacher round rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,blue octopus tentacle rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports blue glowing octopus tentacle rug with black ocean background and product-level buyer intent.,B057-563-BR01,"B057 buyers include golf fans decorating offices or man caves, coastal decor shoppers choosing octopus rugs in different art styles, and teachers buying custom round classroom rugs. Key concerns are visual specificity, personalization, room fit, size options, soft microfiber/memory foam feel and non slip backing.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This custom coastal area rug features a striking octopus theme, perfect for bringing a touch of the ocean into your home. Designed to be both stylish and highly practical, this versatile floor mat serves as an eye-catching accent piece for any room. Crafted with durable materials, it provides a comfortable underfoot feel while maintaining long-lasting resilience against daily wear and tear.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Customizable design allowing you to personalize your coastal themed mat.</li>
+<li>Constructed with a soft top layer of non-woven fabric and a supportive sponge interlayer.</li>
+<li>Highly durable polyester composition offers fantastic tear resistance.</li>
+<li>Low pile surface crafted from quality polypropylene makes cleaning simple.</li>
+<li>Finished with reinforced serged edges to ensure long-lasting durability.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Coastal Octopus</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam, Polyester, Polypropylene</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Easy to clean low pile surface, ideal for areas with spills and sticky fingers</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This versatile octopus rug fits beautifully in classrooms, bathrooms, kids' play rooms, bedrooms, living rooms, kitchens, offices, doorways, and dining rooms. It also makes a practical and thoughtful gift for holidays, birthdays, or housewarmings.</p>",Make product copy motif-specific while retaining verified public claims only.,"Blue octopus tentacle area rug with glowing suction cup artwork, dark ocean style, memory foam cushion and non slip backing. Design details Black and blue rug features a dramatic octopus tentacle close-up with glowing suction cups and room mockups. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Blue octopus tentacle area rug with glowing suction cup artwork, dark ocean style, memory foam cushion and non slip backing.</p><h3>Design details</h3><ul><li>Black and blue rug features a dramatic octopus tentacle close-up with glowing suction cups and room mockups.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B057-563,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/35b6aaabfc2a2870f263512f9354f615ffe28b4277c493eac16ebda87dbce6be.jpg?v=1784376508,,Main sofa-side scene shows glowing blue octopus tentacle rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a2efdb816fa886dda4e6721f00432b4d74d954e2148906e7446d09429cab5efc.jpg?v=1784376510,,Size chart lists three rectangular sizes.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/636355a7b8f43d04252e05181e57040d37f02ea72a193e797d90ce6e71431dcd.jpg?v=1784376513,,Close-up shows blue suction cups and memory foam cushion.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/100af9ed4450239457b3ced43978193805811140cabbc36646701a3250e33d47.jpg?v=1784376515,,Living room mockup displays full tentacle rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c8355883b6b00641c588bd4ce1742fedd18c712a754a8103276ab5a4f644747b.jpg?v=1784376519,,Family scene shows scale and softness.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6cb9569e9162cc4c9cdda74baa027f74ebc7e2d27eeec9dbd72e192e7a698a7e.jpg?v=1784376521,,Backing panel shows anti slip and stain resistance.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b0892547ed0597010abbd612278004db05a18454d8bd5d18633940a573790ef8.jpg?v=1784376524,,Sofa-side room image with full dark octopus design.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B057,chillgen.com,custom-octopus-welcome-mat-for-front-door-cf228fd538,custom-octopus-welcome-mat-for-front-door-cf228fd538,15912084767089,gid://shopify/Product/15912084767089,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B057_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-for-front-door-cf228fd538.html,2026-09-07T11:13:57+07:00,en-US,US,https://chillgen.com/products/custom-octopus-welcome-mat-for-front-door-cf228fd538,https://chillgen.com/products/custom-octopus-welcome-mat-for-front-door-cf228fd538,Rug,Octopus Mandala Welcome Mat with Coastal Art for Entryway and Living Room,Octopus Mandala Welcome Mat with Coastal Art for Entryway and Living Room,Octopus Mandala Coastal Area Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Octopus Mandala Welcome Mat with Coastal Art for Home,NONE_OR_NOT_OBSERVED,Octopus Mandala Coastal Area Rug,SET,32,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Create a coastal accent with an octopus mandala welcome mat featuring memory foam cushioning, reinforced edges, and a low pile surface for entryways.","Octopus mandala coastal rug with turquoise nautical artwork, white octopus, memory foam cushion and non slip backing.",SET,117,octopus mandala rug,"turquoise octopus rug, coastal area rug, nautical living room mat","octopus mandala rug; turquoise octopus rug, coastal area rug, nautical living room mat",LONG_TAIL_CANDIDATE,EVERGREEN,"Use long-tail keywords that separate the final motifs: personalized golf rug, octopus skull rug, blue octopus area rug, octopus mandala rug, octopus mosaic rug, vintage octopus rug, watercolor octopus rug, coastal octopus welcome mat and personalized teacher round rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,octopus mandala rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports turquoise octopus mandala rug with white octopus and ornate nautical line art and product-level buyer intent.,B057-564-BR01,"B057 buyers include golf fans decorating offices or man caves, coastal decor shoppers choosing octopus rugs in different art styles, and teachers buying custom round classroom rugs. Key concerns are visual specificity, personalization, room fit, size options, soft microfiber/memory foam feel and non slip backing.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Enhance your home decor with this coastal-inspired accent rug featuring a unique octopus theme. Crafted for both functionality and style, this versatile floor piece adds a beach-inspired touch to any living space. Its low-pile design combined with durable materials makes it a practical addition to busy households.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Features an artistic coastal beach theme with a distinct octopus design.</li>
+<li>Supports custom options to easily select your preferred sizing.</li>
+<li>Constructed with a soft memory foam and sponge interlayer for comfortable underfoot cushioning.</li>
+<li>Designed with a top layer of non-woven fabric and durable polyester to resist tearing.</li>
+<li>Reinforced serged edges provide enhanced durability and long-lasting use.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Octopus, Coastal, Beach</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polypropylene, Polyester, Memory Foam</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Easy to clean, low pile ideal for handling everyday spills</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This coastal rug is perfectly suited for high-traffic indoor environments such as the living room, kitchen, entryway, or bathroom. It also makes an exceptional and thoughtful gift for housewarmings, holidays, or any beach-loving enthusiast.</p>",Make product copy motif-specific while retaining verified public claims only.,"Octopus mandala coastal rug with turquoise nautical artwork, white octopus, memory foam cushion and non slip backing. Design details Turquoise rug shows white octopus with ornate line art, circular nautical details and room placement images. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Octopus mandala coastal rug with turquoise nautical artwork, white octopus, memory foam cushion and non slip backing.</p><h3>Design details</h3><ul><li>Turquoise rug shows white octopus with ornate line art, circular nautical details and room placement images.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B057-564,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e01eb2f764cf1ab3d8c07aff69587671e045ff02d78d6d3967d8ba12305022ab.jpg?v=1784376489,,Main image shows turquoise octopus mandala rug beside sofa.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9d2073999149336bfd0f9b2cc38301b8f7882f0a2ab7d58b9639b489bd8f5ae0.jpg?v=1784376492,,Size chart shows three rectangular options.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a85df98c0770903c3495d676db87a63dbb0c5e861fc4ae7b8845dcfd768160e4.jpg?v=1784376495,,Close-up highlights ornate octopus lines and memory foam cushion.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f3fbfd0b595aece6b5e1163cecfd6e5005ffe0b4803b54ef73428a92358ca21c.jpg?v=1784376497,,Living room mockup shows full turquoise design.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6ffa2941dd7419c7ae282126797a534ac1fcc583f55057ec38fff1518c0affde.jpg?v=1784376499,,Family scene shows rug scale.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2cdebf91b1ee66db202ec448f1685544097d9ce34a67b4ecc74833d433461e44.jpg?v=1784376503,,Backing panel shows anti slip and stain resistance.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/307418163847829c1174fe797b7a38f12eb509a3aa4c9037bd5426f238a09e17.jpg?v=1784376505,,Sofa-side image displays full octopus mandala rug.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B057,chillgen.com,custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da,custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da,15912084963697,gid://shopify/Product/15912084963697,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B057_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da.html,2026-09-07T11:13:57+07:00,en-US,US,https://chillgen.com/products/custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da,https://chillgen.com/products/custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da,Rug,Octopus Mosaic Area Rug with Low Pile Surface for Living Room and Bedroom,Octopus Mosaic Area Rug with Low Pile Surface for Living Room and Bedroom,Red Octopus Mosaic Area Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Octopus Mosaic Area Rug with Low Pile Surface for Home,NONE_OR_NOT_OBSERVED,Red Octopus Mosaic Area Rug,SET,27,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Add coastal artwork with an octopus mosaic area rug featuring a low pile surface, sponge support, and reinforced edges for living rooms and bedrooms.","Red octopus mosaic area rug with dark teal stained-glass style artwork, memory foam cushion and non slip backing.",SET,113,red octopus mosaic rug,"octopus area rug, coastal sea life rug, nautical bedroom mat","red octopus mosaic rug; octopus area rug, coastal sea life rug, nautical bedroom mat",LONG_TAIL_CANDIDATE,EVERGREEN,"Use long-tail keywords that separate the final motifs: personalized golf rug, octopus skull rug, blue octopus area rug, octopus mandala rug, octopus mosaic rug, vintage octopus rug, watercolor octopus rug, coastal octopus welcome mat and personalized teacher round rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,red octopus mosaic rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports red octopus mosaic rug with dark teal stained-glass style pattern and product-level buyer intent.,B057-565-BR01,"B057 buyers include golf fans decorating offices or man caves, coastal decor shoppers choosing octopus rugs in different art styles, and teachers buying custom round classroom rugs. Key concerns are visual specificity, personalization, room fit, size options, soft microfiber/memory foam feel and non slip backing.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This versatile area rug features a coastal beach theme with a unique octopus design, perfect for adding a touch of seaside charm to your home. Designed for comfort and durability, it includes a soft top layer and a sturdy construction that stands up to daily use. Ideal for multiple indoor settings, this rug offers a practical blend of style and everyday functionality.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Features a coastal beach theme with an eye-catching octopus design.</li>
+<li>Supports custom sizing to fit your specific living space perfectly.</li>
+<li>Constructed with a soft non-woven top fabric and a supportive sponge interlayer.</li>
+<li>Durable design with reinforced serged edges to prevent fraying over time.</li>
+<li>Low pile surface that is easy to clean, ideal for areas prone to spills.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Coastal, Beach, Octopus</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Customizable, Tear Resistant, Reinforced Edges</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam, Polyester, Polypropylene</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<li>Care Instructions<td>Easy to clean, low pile design suitable for spills and everyday maintenance.</td>
+</li>
+</table>
+
+<h3>Where It Works</h3>
+<p>This coastal rug is a wonderful addition to your living room, kitchen, bathroom, entryway, or bedroom. Its durable design also makes it a great gift option for special occasions like Thanksgiving, Christmas, or birthdays.</p>",Make product copy motif-specific while retaining verified public claims only.,"Red octopus mosaic area rug with dark teal stained-glass style artwork, memory foam cushion and non slip backing. Design details Dark teal rug shows red octopus with mosaic or stained-glass style tentacles and high contrast pattern. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Red octopus mosaic area rug with dark teal stained-glass style artwork, memory foam cushion and non slip backing.</p><h3>Design details</h3><ul><li>Dark teal rug shows red octopus with mosaic or stained-glass style tentacles and high contrast pattern.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B057-565,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/47adb929eef19ab97b4bd2c35270d3c0f3e991efd2c1a7635ff7395320955571.jpg?v=1784376471,,Main image shows red octopus mosaic rug in sofa-side room.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/580ba1512cf0b324bb255c47841033e3d6f6d72f6db294436888453211c1327a.jpg?v=1784376473,,Size chart shows three rug sizes.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/61b4e3f5b796472f6d79fe7e16e80baf725c6d670a5730070c1542488649f52a.jpg?v=1784376476,,Close-up shows mosaic texture and memory foam cushion.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1b1c90a1488172509d89ad73f97a6089fe78495277cf353b464152dac757264f.jpg?v=1784376479,,Living room mockup displays full red octopus rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/86c5fcc1041ddf341ff0198a320744551fff37b9f910d37d04e06bdbc218f583.jpg?v=1784376481,,Family scene shows rug scale.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/85fb1710aaad368120d65ebd6ccb5ddedb4f673f7685523c79b08a7e7ad6a8f6.jpg?v=1784376484,,Backing panel shows anti slip and stain resistance.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5666688138a854e8375897f7745c82dff04e3f77cfa63642d862837eb1fdf00d.jpg?v=1784376486,,Sofa-side image shows full stained-glass style design.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B057,chillgen.com,custom-octopus-coastal-welcome-mat-330b515744,custom-octopus-coastal-welcome-mat-330b515744,15912085160305,gid://shopify/Product/15912085160305,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B057_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-coastal-welcome-mat-330b515744.html,2026-09-07T11:13:57+07:00,en-US,US,https://chillgen.com/products/custom-octopus-coastal-welcome-mat-330b515744,https://chillgen.com/products/custom-octopus-coastal-welcome-mat-330b515744,Rug,Vintage Octopus Welcome Mat with Coastal Theme for Kitchen and Entryway,Vintage Octopus Welcome Mat with Coastal Theme for Kitchen and Entryway,Vintage Cream Octopus Coastal Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Vintage Octopus Welcome Mat with Coastal Theme for Home,NONE_OR_NOT_OBSERVED,Vintage Cream Octopus Coastal Rug,SET,33,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Bring vintage coastal style with an octopus welcome mat featuring a low pile surface, soft sponge layer, and reinforced edges for kitchens and entryways.","Vintage cream octopus coastal rug with teal nautical artwork, antique border, memory foam cushion and non slip backing.",SET,119,vintage octopus coastal rug,"cream octopus area rug, nautical beach house rug, coastal living room mat","vintage octopus coastal rug; cream octopus area rug, nautical beach house rug, coastal living room mat",LONG_TAIL_CANDIDATE,EVERGREEN,"Use long-tail keywords that separate the final motifs: personalized golf rug, octopus skull rug, blue octopus area rug, octopus mandala rug, octopus mosaic rug, vintage octopus rug, watercolor octopus rug, coastal octopus welcome mat and personalized teacher round rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,vintage octopus coastal rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports vintage cream octopus rug with teal background and antique nautical border and product-level buyer intent.,B057-566-BR01,"B057 buyers include golf fans decorating offices or man caves, coastal decor shoppers choosing octopus rugs in different art styles, and teachers buying custom round classroom rugs. Key concerns are visual specificity, personalization, room fit, size options, soft microfiber/memory foam feel and non slip backing.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This customizable coastal theme area rug brings a touch of beachside charm to your living spaces, featuring a unique octopus design. Crafted with a soft top layer of non-woven fabric and a supportive sponge interlayer, it provides a comfortable underfoot experience while staying securely in place. Designed for durability and daily use, this low-pile rug adds both aesthetic appeal and practical floor protection to your home.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Features a coastal beach theme with an eye-catching octopus design.</li>
+<li>Supports custom sizing to perfectly fit your specific room requirements.</li>
+<li>Constructed with a soft non-woven top layer and a comfortable sponge interlayer.</li>
+<li>Tear-resistant polyester blend ensures long-lasting durability.</li>
+<li>Low pile surface with reinforced serged edges prevents fraying and simplifies cleaning.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Coastal, Beach, Octopus</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Vintage Octopus</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam, Polypropylene, Polyester</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Non-woven fabric with sponge interlayer</td>
+</tr>
+<li>Care Instructions<td>Easy to clean, low pile ideal for handling spills, washable construction</td>
+</li>
+</table>
+
+<h3>Where It Works</h3>
+<p>This versatile coastal rug is ideal for the living room, kitchen, entryway, bathroom, or bedroom. It also makes a meaningful and practical present for housewarmings, holidays, and special occasions.</p>",Make product copy motif-specific while retaining verified public claims only.,"Vintage cream octopus coastal rug with teal nautical artwork, antique border, memory foam cushion and non slip backing. Design details Teal and tan rug features cream octopus with antique illustrated style and dark framed border. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Vintage cream octopus coastal rug with teal nautical artwork, antique border, memory foam cushion and non slip backing.</p><h3>Design details</h3><ul><li>Teal and tan rug features cream octopus with antique illustrated style and dark framed border.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B057-566,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e6344a78374454fc2be29326063244d6a8db4ebf2712bd2160808efdb0008373.jpg?v=1784376452,,Main image shows cream octopus on teal vintage rug beside sofa.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0d9e82956201e882c719e372358ef2368825fde0f4027f5c9bc73573ac634d3e.jpg?v=1784376454,,Size chart lists three rectangular sizes.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9103e4842851bbfcdc1b756dbf0949be5020a2e77add9efebfcac2f6132a5d43.jpg?v=1784376457,,Close-up shows antique border and memory foam cushion.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7cb1901380bdedca1451116662b60d0aace4463c7789ac20f6b33560d1e79045.jpg?v=1784376460,,Living room mockup shows full vintage octopus rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/95cfce456adae3973f9d13a3d1f3af8d43ec60b6f8d5f34cbd094fe2d74d137d.jpg?v=1784376462,,Family image shows rug scale.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/11b614f23f84eb278b299d316b7b8afd80bdc77279f2df075fbd446a33b2704f.jpg?v=1784376465,,Backing panel shows anti slip and stain resistance.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a52927f8fc9cd8d7fd85ed98415980ab1b05b39420d9f4a97932d3990eeef1d7.jpg?v=1784376468,,Sofa-side view shows cream octopus artwork.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B057,chillgen.com,custom-octopus-coastal-welcome-mat-2e91144f8b,custom-octopus-coastal-welcome-mat-2e91144f8b,15912085455217,gid://shopify/Product/15912085455217,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B057_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-coastal-welcome-mat-2e91144f8b.html,2026-09-07T11:13:57+07:00,en-US,US,https://chillgen.com/products/custom-octopus-coastal-welcome-mat-2e91144f8b,https://chillgen.com/products/custom-octopus-coastal-welcome-mat-2e91144f8b,Rug,Colorful Coastal Octopus Area Rug with Reinforced Edges for Living Room,Colorful Coastal Octopus Area Rug with Reinforced Edges for Living Room,Watercolor Octopus Coastal Area Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Colorful Coastal Octopus Area Rug with Reinforced Edges,NONE_OR_NOT_OBSERVED,Watercolor Octopus Coastal Area Rug,SET,35,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Brighten your floor with a coastal octopus area rug featuring colorful artwork, reinforced edges, a low pile surface, and sponge support for living rooms.","Watercolor octopus coastal area rug with rainbow splatter artwork, white background, memory foam cushion and non slip backing.",SET,126,watercolor octopus rug,"colorful coastal area rug, octopus living room rug, nautical art mat","watercolor octopus rug; colorful coastal area rug, octopus living room rug, nautical art mat",LONG_TAIL_CANDIDATE,EVERGREEN,"Use long-tail keywords that separate the final motifs: personalized golf rug, octopus skull rug, blue octopus area rug, octopus mandala rug, octopus mosaic rug, vintage octopus rug, watercolor octopus rug, coastal octopus welcome mat and personalized teacher round rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,watercolor octopus rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports watercolor rainbow octopus rug on white background and product-level buyer intent.,B057-567-BR01,"B057 buyers include golf fans decorating offices or man caves, coastal decor shoppers choosing octopus rugs in different art styles, and teachers buying custom round classroom rugs. Key concerns are visual specificity, personalization, room fit, size options, soft microfiber/memory foam feel and non slip backing.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Add a touch of coastal charm to your home with this unique octopus themed floor rug. Featuring a vibrant sea-life design, it is perfect for bringing a beach-inspired aesthetic to your favorite living spaces. Built with durability and comfort in mind, this versatile rug serves as both a stylish decorative accent and a functional floor covering.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Features an artistic coastal beach theme with a colorful octopus design.</li>
+<li>Supports personalization with custom sizing options to fit your specific space.</li>
+<li>Designed with a comfortable top layer of non-woven fabric and a soft sponge interlayer.</li>
+<li>Constructed with tear-resistant polyester and reinforced serged edges for long-lasting durability.</li>
+<li>Low pile surface ensures the rug is simple to clean and maintain in busy households.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Coastal, Beach, Octopus</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam, Polypropylene, Polyester</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Non-woven fabric with sponge interlayer</td>
+</tr>
+<li>Care Instructions<td>Easy to clean low pile, suitable for areas with common spills</td>
+</li>
+</table>
+
+<h3>Where It Works</h3>
+<p>This coastal themed rug is highly versatile and fits beautifully in a variety of settings. It is an ideal addition to your living room, kitchen, bathroom, entryway, bedroom, or kid's play room.</p>",Make product copy motif-specific while retaining verified public claims only.,"Watercolor octopus coastal area rug with rainbow splatter artwork, white background, memory foam cushion and non slip backing. Design details White rug shows a colorful watercolor octopus with bright orange, blue, purple and yellow splatter details. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Watercolor octopus coastal area rug with rainbow splatter artwork, white background, memory foam cushion and non slip backing.</p><h3>Design details</h3><ul><li>White rug shows a colorful watercolor octopus with bright orange, blue, purple and yellow splatter details.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B057-567,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b0e46f25dda01d85ada7073888f4227213bad2be5e3bc5f187dc99ba2f86727d.jpg?v=1784376433,,Living room image shows colorful watercolor octopus rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/17149d77994d49a67970c0d11d827151967392343a76b714e6185cc7db409c48.jpg?v=1784376436,,Sofa-side mockup shows full rainbow octopus design.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6beb038c7a0561ad34fe11032b587ffa9aee8e216538e4b3d9bb35ef3cd113e1.jpg?v=1784376439,,Size chart displays three rug options.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7cfa09deddb89d436345f3794c12eccf922b30e7f87413868aea2a889bab1250.jpg?v=1784376441,,Family scene shows scale and soft use.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/96567f54b1652389fc482dc2d5a444ead53805d660cff7cf5bfa9ffe1e55ddcc.jpg?v=1784376444,,Backing panel shows anti slip and stain resistance.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a272600d943b3c234f4525ef970c71cf8753c33da724342759a66ca7c78e8ec5.jpg?v=1784376447,,Sofa-side placement image with watercolor octopus rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2a3c69b23421b5069de1bd0362c18d98006127bbcbd9fe0550603b482b68fc79.jpg?v=1784376450,,Close-up shows quick dry microfiber and memory foam cushion.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B057,chillgen.com,custom-octopus-welcome-mat-coastal-front-door-5012959a0b,custom-octopus-welcome-mat-coastal-front-door-5012959a0b,15912085782897,gid://shopify/Product/15912085782897,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B057_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-coastal-front-door-5012959a0b.html,2026-09-07T11:13:57+07:00,en-US,US,https://chillgen.com/products/custom-octopus-welcome-mat-coastal-front-door-5012959a0b,https://chillgen.com/products/custom-octopus-welcome-mat-coastal-front-door-5012959a0b,Rug,Coastal Octopus Welcome Mat with Low Pile Design for Entryway and Kitchen,Coastal Octopus Welcome Mat with Low Pile Design for Entryway and Kitchen,Teal Octopus Coastal Area Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Coastal Octopus Welcome Mat with Low Pile for Entryway,NONE_OR_NOT_OBSERVED,Teal Octopus Coastal Area Rug,SET,29,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Add coastal octopus art with a low pile welcome mat featuring reinforced edges and soft sponge support for entryways, kitchens, and living rooms.","Teal octopus coastal area rug with white wave artwork, gold suction cup accents, memory foam cushion and non slip backing.",SET,122,teal octopus coastal rug,"nautical octopus rug, beach house area rug, coastal front door mat","teal octopus coastal rug; nautical octopus rug, beach house area rug, coastal front door mat",LONG_TAIL_CANDIDATE,EVERGREEN,"Use long-tail keywords that separate the final motifs: personalized golf rug, octopus skull rug, blue octopus area rug, octopus mandala rug, octopus mosaic rug, vintage octopus rug, watercolor octopus rug, coastal octopus welcome mat and personalized teacher round rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,teal octopus coastal rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports teal octopus coastal rug with white waves and gold suction cup accents and product-level buyer intent.,B057-568-BR01,"B057 buyers include golf fans decorating offices or man caves, coastal decor shoppers choosing octopus rugs in different art styles, and teachers buying custom round classroom rugs. Key concerns are visual specificity, personalization, room fit, size options, soft microfiber/memory foam feel and non slip backing.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This coastal beach-themed floor rug brings a touch of ocean-inspired art to your home decor. Featuring a unique octopus design, it is designed for both style and functional everyday use. It serves as a comfortable addition to various living spaces while offering a practical surface for high-traffic areas.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Features a coastal beach-inspired octopus art design.</li>
+<li>Supports custom sizing options to fit your specific space.</li>
+<li>Features a soft top layer of non-woven fabric with a sponge interlayer.</li>
+<li>Constructed with polyester and polypropylene for tear resistance and durability.</li>
+<li>Designed with a low pile for easy cleaning and reinforced serged edges.</li>
+<li>Versatile design suitable for indoor and outdoor environments.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Coastal, Beach, Octopus</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Tear Resistant, Reinforced Serged Edges</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam, Polyester, Polypropylene</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Sponge Interlayer</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Easy to clean, washable, ideal for spaces with spills</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This coastal rug is a perfect fit for your living room, bathroom, kitchen, entryway, or bedroom. It also makes a wonderful and practical gift for housewarmings, birthdays, or special holiday occasions.</p>",Make product copy motif-specific while retaining verified public claims only.,"Teal octopus coastal area rug with white wave artwork, gold suction cup accents, memory foam cushion and non slip backing. Design details White and teal rug shows large octopus tentacles with gold-ring suction cups and watery coastal texture. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Teal octopus coastal area rug with white wave artwork, gold suction cup accents, memory foam cushion and non slip backing.</p><h3>Design details</h3><ul><li>White and teal rug shows large octopus tentacles with gold-ring suction cups and watery coastal texture.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B057-568,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f4ec762b64765ffc4393398e5c43d71e6b1234644f53955505ec5721b14c016e.jpg?v=1784376415,,Main image shows teal octopus rug by sofa.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/abf53b5355b3b28f2378cc5a349d6e3a0ca5dc7f92503bf735b316803d207199.jpg?v=1784376417,,"Size chart lists small, medium and large options.",SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/34bf821905aee0f3de9cf2da59454b7f815f1ebad6d3b94417f6302839e118c7.jpg?v=1784376420,,"Close-up shows teal tentacles, gold suction cups and memory foam cushion.",SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5ee14bb6c43d02bc723d823b6e5490049581d02f09bf15ac45afe6f9a714c6eb.jpg?v=1784376422,,Living room mockup shows full rug placement.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f8885a099d30ec975951073bf7d37330da74115d450e6f85be3a86d2bedf9b2f.jpg?v=1784376425,,Family scene shows rug scale and softness.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/828683f2d7314870d0060c3e5b2c85801605d58c998b2f246009016f4ef9d023.jpg?v=1784376428,,Backing panel shows anti slip and stain resistance.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f746a5d2b60ca1244f47312e2a72564c62dc4da6dbe65796c8d7ae51c9019dd3.jpg?v=1784376431,,Sofa-side image shows full teal coastal design.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B057,chillgen.com,personalized-teacher-round-rug-with-name-0e0fa122bd,personalized-teacher-round-rug-with-name-0e0fa122bd,15912097677681,gid://shopify/Product/15912097677681,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B057_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/personalized-teacher-round-rug-with-name-0e0fa122bd.html,2026-09-07T11:13:57+07:00,en-US,US,https://chillgen.com/products/personalized-teacher-round-rug-with-name-0e0fa122bd,https://chillgen.com/products/personalized-teacher-round-rug-with-name-0e0fa122bd,Rug,Custom Crayon Classroom Round Rug with Name for Reading Corner Storytime,Custom Crayon Classroom Round Rug with Name for Reading Corner Storytime,Personalized Teacher Round Classroom Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Crayon Classroom Round Rug with Name for Reading,NONE_OR_NOT_OBSERVED,Personalized Teacher Round Classroom Rug,SET,40,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Create a group space with a custom crayon classroom round rug featuring a teacher name or class message for reading corners, storytime, and activities.","Personalized teacher round classroom rug with Mrs. Smith name, composition speckle border, storytime size and non slip backing.",SET,127,personalized teacher round rug,"round classroom welcome rug, teacher name classroom mat, storytime reading corner rug","personalized teacher round rug; round classroom welcome rug, teacher name classroom mat, storytime reading corner rug",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL,"Use long-tail keywords that separate the final motifs: personalized golf rug, octopus skull rug, blue octopus area rug, octopus mandala rug, octopus mosaic rug, vintage octopus rug, watercolor octopus rug, coastal octopus welcome mat and personalized teacher round rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized teacher round rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports round personalized classroom welcome rug with Mrs Smith name and composition speckle border and product-level buyer intent.,B057-569-BR01,"B057 buyers include golf fans decorating offices or man caves, coastal decor shoppers choosing octopus rugs in different art styles, and teachers buying custom round classroom rugs. Key concerns are visual specificity, personalization, room fit, size options, soft microfiber/memory foam feel and non slip backing.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Create a warm and inspiring learning environment with this custom round rug designed especially for educators. Featuring a playful theme, this soft floor mat is perfect for classroom reading corners, storytime, or group activities. It allows for personalized details like names or class mottos to make any classroom feel truly unique.</p><h3>Product Highlights</h3><ul>
+<li>Supports personalized customization with a teacher name, class motto, or inspiring message.</li>
+<li>Crafted from soft, skin-friendly fabric ideal for students during group seating.</li>
+<li>Equipped with a secure non-slip backing for safety in busy classrooms.</li>
+<li>Lightweight design that rolls up easily for convenient storage and rotating setups.</li>
+<li>An excellent and thoughtful gift idea for Back to School or Teacher Appreciation Week.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Round</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Galaxy Pattern</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Composition Notebook, Crayon, Teacher Gift</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom, Reading Corner, Kids Room</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Soft, skin-friendly fabric</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Vacuum regularly to keep it fresh</td>
+</tr>
+</table><h3>Where It Works</h3><p>This charming round rug is perfectly suited for school classrooms, early learning centers, and cozy reading corners. It also makes an exceptional decorative floor mat for kids' play areas or a heartwarming gift for teachers.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalized teacher round classroom rug with Mrs. Smith name, composition speckle border, storytime size and non slip backing. Design details Round black speckled rug reads welcome to mrs. smith's classroom with colorful teacher name and central label design. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalized teacher round classroom rug with Mrs. Smith name, composition speckle border, storytime size and non slip backing.</p><h3>Design details</h3><ul><li>Round black speckled rug reads welcome to mrs. smith's classroom with colorful teacher name and central label design.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B057-569,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b93e14dc99f3dba9819b42f6702fcf0a528fb34718e93ecceebaeeb5b549a445_dd4329e5-0991-4638-8791-111148248428.jpg?v=1784363420,,Classroom mockup shows round Mrs Smith welcome rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7b3b9c26e7b79f2b08957b0efe87252118be73011c484f9cee6145e6240462db_d47bb9df-3db5-40a2-8953-80f2bbadd202.jpg?v=1784363425,,Child reading on round teacher rug for scale.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/319cffb0316bf654e814a97554fde389a84300f14566003605fbd6a1af1e7260_3945b7ca-5d81-4cb7-a691-e1421f4f6857.jpg?v=1784363431,,Size chart shows four round rug options.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/91e7c771ad4ce6ad99cec2e8962e8df10eac8b6e764fad2f5ebb2630b5c3cbb2_42adb92c-2c1b-401c-bb1b-cc520ef56fb3.jpg?v=1784363437,,Group classroom scene shows storytime use.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cf6def3a77b870cba5847bc07e8d21a529e2e55d2e26e6d194e5270fa613cd72_1538fb4e-f716-4892-938e-ea6ed5d46a2a.jpg?v=1784363442,,Backing callout shows non slip TPR bottom.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4c8a12535ab9ccf0a2b7e10aa3381cbb803c72e43450ffcef893bc1618597f33_49874114-e54f-4745-9227-9f6bd4018eb9.jpg?v=1784363448,,Design callout highlights colorful teacher name and speckle border.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/62e36045f9eeb05ee8039138507fc315ff6974255c86dc92eec584eb850e24b4_07df1935-e92f-49e5-aad7-175300dab44f.jpg?v=1784363454,,Backing image notes soft comfortable non slip underside.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2994771139d47cb7a82cc05f57a14862a8123fec97519a53d0b9603edeedb3eb_acf525b6-1455-4ad2-9f6e-89c4ee25402b.jpg?v=1784363460,,"Multi-room graphic shows nursery, living room and kids playroom use.",SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

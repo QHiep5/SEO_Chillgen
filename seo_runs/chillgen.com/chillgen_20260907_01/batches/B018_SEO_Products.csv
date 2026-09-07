@@ -1,0 +1,839 @@
+schema_version,prompt_version,run_id,batch_id,shop_domain,product_key,Handle,product_id,product_gid,identity_status,source_export_ref,source_exported_at,locale,market,url,canonical_url,product_type,title_current,h1_current,title_proposed,title_action,h1_mapping_status,meta_title_current,meta_title_source_state,rendered_title_current,theme_title_suffix,meta_title_seo,meta_title_action,meta_title_chars,meta_description_current,meta_description_source_state,rendered_meta_description_current,meta_description_seo,meta_description_action,meta_description_chars,primary_keyword,secondary_keywords,long_tail_candidates,keyword_strategy,season,keyword_demand_evidence,keyword_serp_fit,meta_keyword,search_intent,keyword_validation_status,keyword_selection_reason,buyer_research_refs,buyer_search_summary,baseline_status,change_scope,mapping_status,mapping_version,description_current_html,description_changes_needed,description_proposed,description_proposed_html,description_change_mode,description_target_section,description_action,revision,review_status,review_reason,approved_by,approved_at,approved_fields,approved_revision,processing_status,evidence_status,content_qa_status,field_evidence_map,evidence_id,issues,img_1_link,img_1_alt_current,img_1_alt,img_1_alt_action,img_2_link,img_2_alt_current,img_2_alt,img_2_alt_action,img_3_link,img_3_alt_current,img_3_alt,img_3_alt_action,img_4_link,img_4_alt_current,img_4_alt,img_4_alt_action,img_5_link,img_5_alt_current,img_5_alt,img_5_alt_action,img_6_link,img_6_alt_current,img_6_alt,img_6_alt_action,img_7_link,img_7_alt_current,img_7_alt,img_7_alt_action,img_8_link,img_8_alt_current,img_8_alt,img_8_alt_action,img_9_link,img_9_alt_current,img_9_alt,img_9_alt_action,img_10_link,img_10_alt_current,img_10_alt,img_10_alt_action,img_11_link,img_11_alt_current,img_11_alt,img_11_alt_action,img_12_link,img_12_alt_current,img_12_alt,img_12_alt_action,img_13_link,img_13_alt_current,img_13_alt,img_13_alt_action,img_14_link,img_14_alt_current,img_14_alt,img_14_alt_action,img_15_link,img_15_alt_current,img_15_alt,img_15_alt_action,img_16_link,img_16_alt_current,img_16_alt,img_16_alt_action,img_17_link,img_17_alt_current,img_17_alt,img_17_alt_action,img_18_link,img_18_alt_current,img_18_alt,img_18_alt_action,img_19_link,img_19_alt_current,img_19_alt,img_19_alt_action
+2.4,2.4,chillgen_20260907_01,B018,chillgen.com,personalized-family-couple-doormat-custom-couple-husband-design-04,personalized-family-couple-doormat-custom-couple-husband-design-04,15969437286769,gid://shopify/Product/15969437286769,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B018_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B018_pages/personalized-family-couple-doormat-custom-couple-husband-design-04.html,2026-09-07T03:05:08+07:00,en-US,US,https://chillgen.com/products/personalized-family-couple-doormat-custom-couple-husband-design-04,https://chillgen.com/products/personalized-family-couple-doormat-custom-couple-husband-design-04,Rug,"Personalized Family Couple Doormat, Custom Couple Husband - Design 04","Personalized Family Couple Doormat, Custom Couple Husband - Design 04",Funny Couple Welcome Doormat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized Family Couple Doormat, Custom – - Design 04",NONE_OR_NOT_OBSERVED,Funny Couple Welcome Doormat,SET,28,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Modern personalized doormat with a non-slip rubber backing, perfect for welcoming guests in any entryway.","Personalize a funny couple welcome doormat with cartoon portraits, custom names, grumpy old man joke text, size guide and non-slip backing.",SET,139,funny couple welcome doormat,"personalized couple doormat, custom family doormat, husband wife gift mat","funny couple welcome doormat; personalized couple doormat, custom family doormat, husband wife gift mat",LONG_TAIL_CANDIDATE,EVERGREEN,"Current marketplace results support personalized couple doormats, family name entry mats, ABC alphabet classroom rugs, feelings chart classroom rugs, calming corner tools and soccer/sports round rugs. B018 uses product-specific visual motifs as primary terms and broader buyer-intent terms as secondaries.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,funny couple welcome doormat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports lovely lady grumpy old man couple doormat and product-level buyer intent.,B018-171-BR01,"B018 buyers include couples/families looking for humorous personalized entry mats, parents and teachers buying educational or emotional-learning classroom rugs, and soccer fans decorating bedrooms, game rooms or event spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This custom doormat offers a personal touch to any home entrance, perfect for couples and families. Featuring personalized designs such as family names or couple illustrations, it transforms an ordinary doorway into a unique welcome. Designed for both aesthetic appeal and practical use, this doormat creates a warm and inviting atmosphere for guests.</p><h3>Product Highlights</h3><ul>
+<li>Customizable with family names or couple illustrations for a unique touch.</li>
+<li>Crafted with a textured top for effective dirt scraping.</li>
+<li>Features a non-slip rubber backing to ensure stability.</li>
+<li>Suitable for everyday decor or festive holiday embellishments.</li>
+<li>Versatile for placement at front doors, patios, kitchens, or apartment entries.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Outdoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Entryway, Living Room</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Customized, Non Slip</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Hearts</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Family, Love</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polyester Blend</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table><h3>Where It Works</h3><p>This personalized doormat is ideal for enhancing the entryway of homes, whether at the front door, on a patio, or in an apartment. It also suits various indoor spaces such as living rooms or bedrooms, adding a cozy and personalized element to any area.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalize a funny couple welcome doormat with cartoon portraits, custom names, grumpy old man joke text, size guide and non-slip backing. Design details Blue and tan rectangular doormat with cartoon couple portraits, quote about a lovely lady and a grumpy old man living here, custom names, entryway and dog mockups, size guide, absorbent easy-clean icons and non-skid rubber backing detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalize a funny couple welcome doormat with cartoon portraits, custom names, grumpy old man joke text, size guide and non-slip backing.</p><h3>Design details</h3><ul><li>Blue and tan rectangular doormat with cartoon couple portraits, quote about a lovely lady and a grumpy old man living here, custom names, entryway and dog mockups, size guide, absorbent easy-clean icons and non-skid rubber backing detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B018-171,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/88d1344c07a3646563b8538205e18bda7f185fd609f48da9a0d302fa96d9e407.jpg?v=1786652343,,funny couple welcome doormat product image,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c00d1a65b17447bf2ed6eeda8aad9d16d32f80664eaa0d7ce9c3bd61047718a3.jpg?v=1786652343,,custom couple doormat at indoor entry,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3dc1b473ae4f7572ee7951288aef9af2be52689417b050c4cfb9d6f374dadd06.jpg?v=1786652343,,couple welcome mat at front door with dog,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3657c3631dc74cd2de906fd10269ba8b1987aef3e979f1e53a22e6b28a9a17a9.jpg?v=1786652343,,couple holding personalized grumpy old man mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6814a409d7231fd54f00cf16b559e736e50d6446e9e2ba97b1483bcc35e1c196.jpg?v=1786652343,,multi-room use cases for couple doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e57b580b2a2b327405a2258ab72dc642c03bd54427109819d32da937774a2c0f.jpg?v=1786652343,,size guide for personalized couple mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/521cd93bf136bc38154e1ed5c494da16e9ec8d6eef09dda5e2a9e1367148e440.jpg?v=1786652343,,non-skid rubber backing detail for doormat,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B018,chillgen.com,personalized-family-couple-doormat-custom-couple-husband-design-02,personalized-family-couple-doormat-custom-couple-husband-design-02,15969433944433,gid://shopify/Product/15969433944433,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B018_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B018_pages/personalized-family-couple-doormat-custom-couple-husband-design-02.html,2026-09-07T03:05:08+07:00,en-US,US,https://chillgen.com/products/personalized-family-couple-doormat-custom-couple-husband-design-02,https://chillgen.com/products/personalized-family-couple-doormat-custom-couple-husband-design-02,Rug,"Personalized Family Couple Doormat, Custom Couple Husband - Design 02","Personalized Family Couple Doormat, Custom Couple Husband - Design 02",Animals And Kids Couple Doormat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized Family Couple Doormat, Custom – - Design 02",NONE_OR_NOT_OBSERVED,Animals And Kids Couple Doormat,SET,31,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Modern personalized doormat with non-slip backing, made from polyester blend, perfect for entryways and patios.","Welcome guests with an animals and kids couple doormat featuring cartoon portraits, custom names, zoo joke text, size options and non-slip backing.",SET,147,animals and kids couple doormat,"personalized couple doormat, funny family doormat, custom entry mat","animals and kids couple doormat; personalized couple doormat, funny family doormat, custom entry mat",LONG_TAIL_CANDIDATE,EVERGREEN,"Current marketplace results support personalized couple doormats, family name entry mats, ABC alphabet classroom rugs, feelings chart classroom rugs, calming corner tools and soccer/sports round rugs. B018 uses product-specific visual motifs as primary terms and broader buyer-intent terms as secondaries.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,animals and kids couple doormat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports animals and kids couple doormat and product-level buyer intent.,B018-172-BR01,"B018 buyers include couples/families looking for humorous personalized entry mats, parents and teachers buying educational or emotional-learning classroom rugs, and soccer fans decorating bedrooms, game rooms or event spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This custom couple doormat offers a warm, personal welcome, allowing you to add a family name or custom characters. It transforms any doorway into a unique and inviting entry point. Made with a textured surface for scraping dirt and a durable non-slip rubber backing, this doormat combines functionality with personalized charm.</p><h3>Product Highlights</h3><ul>
+<li>Customizable with family name or couple characters for a unique touch.</li>
+<li>Features a textured top for effective dirt scraping.</li>
+<li>Equipped with a non-slip rubber backing to ensure stability.</li>
+<li>Suitable for everyday decor or festive holiday themes.</li>
+<li>Versatile for use at the front door, patio, kitchen, or apartment entry.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Entryway, Living Room</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Customized, Non Slip</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Hearts</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Family, Love</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polyester Blend</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table><h3>Where It Works</h3><p>This doormat is ideal for welcoming guests at the front door or enhancing the aesthetic of a patio, kitchen, or apartment entry. Its personalized design and practical features make it suitable for various home settings.</p>",Make product copy motif-specific while retaining verified public claims only.,"Welcome guests with an animals and kids couple doormat featuring cartoon portraits, custom names, zoo joke text, size options and non-slip backing. Design details Brown rectangular personalized doormat with cartoon couple seated together, welcome text, hope you like animals and kids because it is a zoo inside quote, custom names, entryway mockups, size guide and non-skid backing detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Welcome guests with an animals and kids couple doormat featuring cartoon portraits, custom names, zoo joke text, size options and non-slip backing.</p><h3>Design details</h3><ul><li>Brown rectangular personalized doormat with cartoon couple seated together, welcome text, hope you like animals and kids because it is a zoo inside quote, custom names, entryway mockups, size guide and non-skid backing detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B018-172,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/61fc9a5ed970be6afa3aee0b655fe3344f08c88b2b0773239ad94658699ee934.jpg?v=1786651581,,animals and kids personalized couple doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1543807f72d5a0c20f528a38b4738077b9680c6e5134b8787cc8a880e54f8ee7.jpg?v=1786651581,,funny family doormat at indoor entry,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/77b33890e34fd0668abd8f48a91cbc17f83b7850578869de29b7f83705d643c6.jpg?v=1786651581,,custom couple mat at front door with dog,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c4bc6528e5680ef2b394e9baa5cefe308fca0f849c5f419d49c801f17831cb03.jpg?v=1786651581,,couple holding animals and kids doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6b9cd1cd49d9a5671f7e3921aea91c391fa87daca3c61300349f3d105a8e3976.jpg?v=1786651581,,multi-room use cases for personalized doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cad83df02fe30fc556e04eca1fffca967e7f644f89591e71f3d17845ec7c5dac.jpg?v=1786651581,,size guide for funny family doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0d9d292fbd61e885bb1839ec7e810bd7dc4c641da2d8a8d0033d4ae8b509693f.jpg?v=1786651581,,non-skid rubber backing detail for entry mat,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B018,chillgen.com,personalized-family-couple-doormat-custom-couple-husband-wife-doormat,personalized-family-couple-doormat-custom-couple-husband-wife-doormat,15969426932081,gid://shopify/Product/15969426932081,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B018_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B018_pages/personalized-family-couple-doormat-custom-couple-husband-wife-doormat.html,2026-09-07T03:05:08+07:00,en-US,US,https://chillgen.com/products/personalized-family-couple-doormat-custom-couple-husband-wife-doormat,https://chillgen.com/products/personalized-family-couple-doormat-custom-couple-husband-wife-doormat,Rug,"Personalized Family Couple Doormat, Custom Couple Husband Wife Doormat","Personalized Family Couple Doormat, Custom Couple Husband Wife Doormat",Personalized Couple Welcome Mat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized Family Couple Doormat, – Husband Wife Doormat",NONE_OR_NOT_OBSERVED,Personalized Couple Welcome Mat,SET,31,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Modern polyester blend doormat, machine-made with a non-slip backing, perfect for personalized entries in bedrooms or living rooms.","Personalize a couple welcome mat with cartoon portraits, custom names, lovely lady and grumpy old man text, size guide and non-slip backing.",SET,140,personalized couple welcome mat,"custom couple doormat, funny husband wife doormat, family entry mat","personalized couple welcome mat; custom couple doormat, funny husband wife doormat, family entry mat",LONG_TAIL_CANDIDATE,EVERGREEN,"Current marketplace results support personalized couple doormats, family name entry mats, ABC alphabet classroom rugs, feelings chart classroom rugs, calming corner tools and soccer/sports round rugs. B018 uses product-specific visual motifs as primary terms and broader buyer-intent terms as secondaries.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized couple welcome mat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports welcome grumpy old man couple doormat and product-level buyer intent.,B018-173-BR01,"B018 buyers include couples/families looking for humorous personalized entry mats, parents and teachers buying educational or emotional-learning classroom rugs, and soccer fans decorating bedrooms, game rooms or event spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This custom doormat offers a warm, personal welcome, allowing for the addition of family names, couple characters, or personalized designs. It is designed to transform any doorway into a unique greeting point, perfect for various festive occasions or as a thoughtful gift.</p><p></p><h3>Product Highlights</h3><ul>
+<li>Features personalized designs for couples and families.</li>
+<li>Suitable for everyday home décor and holiday decorating.</li>
+<li>Equipped with a textured top and non-slip rubber backing.</li>
+<li>Easy to clean by shaking, vacuuming, or wiping.</li>
+<li>Ideal for front doors, patios, kitchens, or apartment entries.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Entryway, Living Room</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Customized, Non Slip</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Hearts</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Family, Love</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polyester Blend</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table><h3>Where It Works</h3><p>This doormat is suitable for use at the front door, patio, kitchen, or apartment entry. It is also perfect for indoor entryways or as a decorative element in a bedroom or living room.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalize a couple welcome mat with cartoon portraits, custom names, lovely lady and grumpy old man text, size guide and non-slip backing. Design details Navy and tan welcome doormat with hearts, cartoon husband and wife portraits, custom names, phrase a lovely lady and her grumpy old man live here, entryway dog mockup, size guide, multi-room use graphic and rubber backing detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalize a couple welcome mat with cartoon portraits, custom names, lovely lady and grumpy old man text, size guide and non-slip backing.</p><h3>Design details</h3><ul><li>Navy and tan welcome doormat with hearts, cartoon husband and wife portraits, custom names, phrase a lovely lady and her grumpy old man live here, entryway dog mockup, size guide, multi-room use graphic and rubber backing detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B018-173,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ce6cc9643c7a55bb28a9e18bd6dce2c8ecb866d39b7319ccf886d5cd70aa659e.jpg?v=1786650831,,personalized couple welcome mat product image,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fb7972688d5d6a44df9c73e9cdb9db712a431a87228bcb4c6a0ad8efbfc4b2a3.jpg?v=1786650831,,custom couple welcome mat at indoor entry,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b2c00d9be79d866d21e711f72ad63d12e476705a41dbf1bf0d3869daef3fc00d.jpg?v=1786650832,,couple holding personalized welcome doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ab25fb229637d917329b62571fe5be3cc5a670b6d4a33c35c82c7b66659e1d67.jpg?v=1786650831,,couple mat at front door with dog,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f1dec2e4dd5e88927c12f87db309e3719a080374d97c98a3e426960d5907e379.jpg?v=1786650831,,size guide for couple welcome doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/209c6316c211337f160f27a7a6657f049be72550a20a11dea8ee8e856a142fab.jpg?v=1786650831,,multi-room use cases for custom couple mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8ef96fce28492da7ca1ab2324311e830052e773db3341fcb1ecf752de0a4fece.jpg?v=1786650831,,non-skid rubber backing detail for welcome mat,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B018,chillgen.com,abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46,abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46,15959874142577,gid://shopify/Product/15959874142577,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B018_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B018_pages/abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46.html,2026-09-07T03:05:08+07:00,en-US,US,https://chillgen.com/products/abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46,https://chillgen.com/products/abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46,Rug,ABC Kids Play Rug with Animal Letter Pattern and Non Slip Backing for Playrooms,ABC Kids Play Rug with Animal Letter Pattern and Non Slip Backing for Playrooms,ABC Animal Alphabet Kids Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,ABC Kids Play Rug with Animal Letters and Non Slip Backing,NONE_OR_NOT_OBSERVED,ABC Animal Alphabet Kids Rug,SET,28,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Bring learning into playtime with an ABC kids play rug featuring colorful animal and letter designs plus non slip backing for playrooms and classrooms.,"Help kids learn with an ABC animal alphabet rug featuring letters, numbers, shapes, colors, non-slip backing and easy-clean classroom visuals.",SET,142,ABC animal alphabet rug,"kids playroom rug, classroom alphabet carpet, non slip educational rug","ABC animal alphabet rug; kids playroom rug, classroom alphabet carpet, non slip educational rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Current marketplace results support personalized couple doormats, family name entry mats, ABC alphabet classroom rugs, feelings chart classroom rugs, calming corner tools and soccer/sports round rugs. B018 uses product-specific visual motifs as primary terms and broader buyer-intent terms as secondaries.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,ABC animal alphabet rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports ABC animal alphabet kids play rug and product-level buyer intent.,B018-174-BR01,"B018 buyers include couples/families looking for humorous personalized entry mats, parents and teachers buying educational or emotional-learning classroom rugs, and soccer fans decorating bedrooms, game rooms or event spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This educational play rug is designed for imaginative learning and everyday activities. Featuring a vibrant animal and letter pattern, it encourages storytelling, exploration, and creativity in toddlers and young children. The soft low-pile construction provides a comfortable, cushioned surface for reading, crawling, and playing indoors.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Vibrant educational pattern featuring animals and letters to inspire interactive learning</li>
+<li>Soft crystal velvet fabric provides a comfortable, cushioned feel for indoor play</li>
+<li>Reliable non-slip backing helps keep the rug stable and reduces unwanted movement</li>
+<li>Easy to clean and maintain, suitable for regular vacuuming or machine washing</li>
+<li>Versatile design ideal for playrooms, bedrooms, nurseries, and school environments</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Not Water Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Animal with Letters</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Animals</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Crystal fleece</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Non-Slip Backing</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Spot Clean Only / Machine Washable</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This functional rug works beautifully in bedrooms, playrooms, classrooms, nurseries, daycare centers, and homeschooling spaces. It provides a dedicated and engaging area for children's learning, activities, and quiet time.</p>",Make product copy motif-specific while retaining verified public claims only.,"Help kids learn with an ABC animal alphabet rug featuring letters, numbers, shapes, colors, non-slip backing and easy-clean classroom visuals. Design details Large colorful rectangular kids rug with a-z animal letter blocks, numbers, colors, shapes and arrows, playroom mockups, perfect size panel, cleaning instructions, waterproof note, non-slip backing and classroom learning graphics. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Help kids learn with an ABC animal alphabet rug featuring letters, numbers, shapes, colors, non-slip backing and easy-clean classroom visuals.</p><h3>Design details</h3><ul><li>Large colorful rectangular kids rug with a-z animal letter blocks, numbers, colors, shapes and arrows, playroom mockups, perfect size panel, cleaning instructions, waterproof note, non-slip backing and classroom learning graphics.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B018-174,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/76254846fdf4549ca9713da54588a0df5b4a935fffe2be10af58613e8ef1555d_86f01b5b-2fa5-49b9-85c0-9433cf9d5e40.jpg?v=1786166031,,ABC animal alphabet rug in kids room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/382c750bf689dca956fa60b22e596ff0486133363686ddb109ca0067256b674f.jpg?v=1786166031,,size and learning features for ABC rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0e91d2f35acc8b0366f06ad3a68f0e1aee15f9c0369f6d227ed2c938c6f83e58_61b41ff5-f6d1-4a1a-aec1-7b501b3e2378.jpg?v=1786166031,,easy-clean instructions for kids play rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/62ddfba6bb70122345519f7cc5255d87ae9c826b8736c8ead36ee0994a711d7c_a09d9950-308a-47b7-aa4e-7dca57510b90.jpg?v=1786166031,,ABC rug for letters shapes and numbers,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/61d0ae19807503b3d4a22937de72c2fc4baa81fbcbc84c7de278752ab86b4ea9_fb6cdb4b-0a71-4071-b9f0-ccd314769c9b.jpg?v=1786166031,,parent and child playing on alphabet mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9623ea97a80453e888ff2c1cbd7593f3fc53cd6793c2216308c9677735c1de25_c70ed07a-bc1e-46aa-bd65-9ad862bbaeff.jpg?v=1786166031,,non-slip backing detail for ABC rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c3f6335e00569e2986d6b35b7660cd2c0d0a1d48c46abcb82329fcfb33a1efc6_002aa5c1-8eb7-4811-9fc2-d8c44748065c.jpg?v=1786166031,,alphabet play rug in bedroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f96ee765799c3afce54869bde4f710f55e97f540485faf7071b5d564e2e53d7b_dc7ba8de-7731-476d-a2d9-e1619a3cc95c.jpg?v=1786166031,,ABC animal rug in cozy playroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7b2dd732293358281ceb98f0efea06b432303c2cf4adf9c1dacfc4ed9115eab1_7f3d8964-826f-4387-823c-2781511b9979.jpg?v=1786166031,,flat product image of educational kids rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B018,chillgen.com,custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4,custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4,15940516905329,gid://shopify/Product/15940516905329,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B018_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B018_pages/custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4.html,2026-09-07T03:05:08+07:00,en-US,US,https://chillgen.com/products/custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4,https://chillgen.com/products/custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4,Rug,Feelings Chart Classroom Area Rug for Emotional Learning and Calming Corners,Feelings Chart Classroom Area Rug for Emotional Learning and Calming Corners,Feelings Chart Classroom Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Feelings Chart Classroom Rug for Emotional Learning,NONE_OR_NOT_OBSERVED,Feelings Chart Classroom Rug,SET,28,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Support emotional learning with a feelings chart classroom rug for calming corners and playrooms. It has a soft memory foam surface and anti skid backing.,"Support emotional learning with a feelings chart classroom rug featuring mood faces, welcome message, rainbow art and calming corner use.",SET,137,feelings chart classroom rug,"emotions learning rug, calming corner rug, classroom welcome mat","feelings chart classroom rug; emotions learning rug, calming corner rug, classroom welcome mat",LONG_TAIL_CANDIDATE,EVERGREEN,"Current marketplace results support personalized couple doormats, family name entry mats, ABC alphabet classroom rugs, feelings chart classroom rugs, calming corner tools and soccer/sports round rugs. B018 uses product-specific visual motifs as primary terms and broader buyer-intent terms as secondaries.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,feelings chart classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports feelings chart classroom rug and product-level buyer intent.,B018-175-BR01,"B018 buyers include couples/families looking for humorous personalized entry mats, parents and teachers buying educational or emotional-learning classroom rugs, and soccer fans decorating bedrooms, game rooms or event spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Create a supportive and inviting learning environment with this specialized educational area rug. Featuring an engaging feelings chart design, it serves as an excellent mental health tool and calming corner resource for children. It offers a soft, comfortable surface that is both functional and decorative, making it the perfect addition to early education settings.</p><h3>Product Highlights</h3><ul>
+<li>Educational feelings chart design to help children identify and process emotions</li>
+<li>Soft and comfortable memory foam construction with a cozy sponge interlayer</li>
+<li>Highly anti-skid backing for secure placement without the need for an extra rug pad</li>
+<li>Tear-resistant and durable polyester fabric designed to withstand high-traffic use</li>
+<li>Easy-to-clean material that allows vacuuming, sweeping, or rinsing with a garden hose</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Classroom, Nursery Room, Playroom, Study Room</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Fluffy, Lightweight, Anti-skid, Insulating</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Cartoon</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Educational</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Custom</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam, Non-woven Fabric, Polyester</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>High-quality Epoxy</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Hand Wash Only</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Vacuum, sweep, wipe with damp cloth and mild soap, or flush with garden hose</td>
+</tr>
+</table><h3>Where It Works</h3><p>This educational rug is perfectly suited for school classrooms, nursery schools, playrooms, and children\'s bedrooms. It creates an ideal designated calming corner or study space for young learners.</p>",Make product copy motif-specific while retaining verified public claims only.,"Support emotional learning with a feelings chart classroom rug featuring mood faces, welcome message, rainbow art and calming corner use. Design details Cream rectangular feelings rug with all feelings are welcome here text, rainbow graphics, labeled emotion faces such as happy angry sad excited jealous tired worried and frustrated, classroom and living room mockups, thickened rounded edges and child group scenes. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Support emotional learning with a feelings chart classroom rug featuring mood faces, welcome message, rainbow art and calming corner use.</p><h3>Design details</h3><ul><li>Cream rectangular feelings rug with all feelings are welcome here text, rainbow graphics, labeled emotion faces such as happy angry sad excited jealous tired worried and frustrated, classroom and living room mockups, thickened rounded edges and child group scenes.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B018-175,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/750143c757697e82042bf164b8395b90213a622dc9cb88a4ec7c34ec4d89bf3f.jpg?v=1785258574,,feelings chart classroom rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d4412072b2a926b5bd7160c2eda69923666e055968695e80314f42cc8463e89e.jpg?v=1785258573,,emotions rug in classroom play area,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ca1ffa47c4f26d34059a69fe9a45a2e55e70047b4e87dbcce6cf5bec429aad9a.jpg?v=1785258574,,all feelings are welcome rug product image,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/aa1ae8fefacf0e8f95826d10fe86c5868afd06c83f31c34d66d301c73301c7de.jpg?v=1785258574,,thickened edge detail for feelings rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2e1cd2aa167e4fa05c8191b682962bbe2c2e6d89eec879ffac155bf5da2e3210.jpg?v=1785258574,,feelings chart rug in kids room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/60924bcb6e4c1fb68847a9961e41a99806edc25d84ef0339c75b1d598a262533.jpg?v=1785258574,,emotional learning welcome mat on floor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/343a0b3cc53d4e3eb69c73e8719934e1a47e8f55300b74445ef104d0e44eb97a.jpg?v=1785258573,,teacher and children using feelings rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/75998db50258dc1ae90b669d9cf1354ed4cf955d5ee755ad71ae3123663754cc.jpg?v=1785258574,,children sitting near emotions chart rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B018,chillgen.com,custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9,custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9,15940476305777,gid://shopify/Product/15940476305777,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B018_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B018_pages/custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9.html,2026-09-07T03:05:08+07:00,en-US,US,https://chillgen.com/products/custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9,https://chillgen.com/products/custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9,Rug,Custom Hundred Acre Wood Map Area Rug for Kids Room and Playroom Decor,Custom Hundred Acre Wood Map Area Rug for Kids Room and Playroom Decor,Hundred Acre Wood Map Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Hundred Acre Wood Map Rug for Kids Room Decor,NONE_OR_NOT_OBSERVED,Hundred Acre Wood Map Rug,SET,25,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Add a detailed Hundred Acre Wood map rug to a kids room or play area. Customize the design and enjoy a soft memory foam surface with anti skid backing.,"Add storybook charm with a Hundred Acre Wood map rug featuring illustrated forest paths, nursery styling, soft microfiber and non-slip backing.",SET,143,Hundred Acre Wood map rug,"storybook kids room rug, nursery map rug, playroom area rug","Hundred Acre Wood map rug; storybook kids room rug, nursery map rug, playroom area rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Current marketplace results support personalized couple doormats, family name entry mats, ABC alphabet classroom rugs, feelings chart classroom rugs, calming corner tools and soccer/sports round rugs. B018 uses product-specific visual motifs as primary terms and broader buyer-intent terms as secondaries.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,Hundred Acre Wood map rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports Hundred Acre Wood map rug and product-level buyer intent.,B018-176-BR01,"B018 buyers include couples/families looking for humorous personalized entry mats, parents and teachers buying educational or emotional-learning classroom rugs, and soccer fans decorating bedrooms, game rooms or event spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This delightful area rug features a detailed map design of the magical Hundred Acre Wood, a land full of adventures and good friends. Designed to bring warmth and imagination to your living space, this rug serves as both a cozy floor covering and an engaging decorative piece. It is crafted to support custom personalization, making it a truly unique addition to your home decor.</p><h3>Product Highlights</h3><ul>
+<li>Features an enchanting Hundred Acre Wood map design</li>
+<li>Supports custom personalized rug options</li>
+<li>Soft fluffy surface with high-grade velvet and sponge memory foam</li>
+<li>Equipped with an anti-skid high-quality epoxy backing</li>
+<li>Versatile styling suitable for modern living rooms and kids bedrooms</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Living Room, Kids Room</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Fluffy, Anti-skid</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Solid</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Jungle, Map, Modern</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>High-quality Epoxy</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>High-grade velvet, warm and cozy</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Hand Wash Only</td>
+</tr>
+<tr>
+<td>Durability</td>
+<td>Wear-resistant, no tears, no shedding</td>
+</tr>
+</table><h3>Where It Works</h3><p>This beautiful map rug is perfectly suited for indoor living rooms, boys and girls bedrooms, and kids play areas. Its delightful theme and cozy texture make it an inviting accent piece that coordinates well with youthful and modern home decors.</p>",Make product copy motif-specific while retaining verified public claims only.,"Add storybook charm with a Hundred Acre Wood map rug featuring illustrated forest paths, nursery styling, soft microfiber and non-slip backing. Design details Cream rectangular storybook map rug with illustrated forest, paths, labeled locations, compass marks and trees, bedroom living room and nursery mockups, size guide, anti-slip backing comparison, soft microfiber material panels and low pile durable edge details. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Add storybook charm with a Hundred Acre Wood map rug featuring illustrated forest paths, nursery styling, soft microfiber and non-slip backing.</p><h3>Design details</h3><ul><li>Cream rectangular storybook map rug with illustrated forest, paths, labeled locations, compass marks and trees, bedroom living room and nursery mockups, size guide, anti-slip backing comparison, soft microfiber material panels and low pile durable edge details.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B018-176,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/baf2fe8d85aa8a9f042b17c02de3dcb299ee0459742a7a471f74ad4ecff2b317.jpg?v=1785257434,,Hundred Acre Wood map rug overhead view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a59a551cbf5fcf436a58d8c85c09dec494806106c2ba5a358103040bccd7a8dd.jpg?v=1785257434,,storybook map rug in bedroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/bcc81ee41f4775967f5bf44005bd34d18d93865e4ecdbc73a87f2289a2baf33f.jpg?v=1785257434,,map area rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f6fbe52c1636c8c98d8703bd1b9fe91e031b60d30876a8b73e6797900691d0bc.jpg?v=1785257434,,size guide for kids map rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9c3b2769c506d8ef7860729792800f6cfff9407753bba1dd3ebb9fde5162508d.jpg?v=1785257434,,anti-slip backing comparison for map rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/94f4507779989e9ca62b8700919ad339a39465cd55e8fe3692066f8f9638a834.jpg?v=1785257434,,soft microfiber detail for storybook rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1e68d02406144ccce6357dd12a499a9462c661d6910dabf6bec6f8790ed77862.jpg?v=1785257434,,family and dog on map rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c1f6580d11995a5efd6f6b5b0aa56939108bcb620d8817dd1e4b5b4e32347401.jpg?v=1785257434,,flat product image of storybook map rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71d53c0cedc18fd2d3d5912d41d7913ed0e87dd40f71b9ce69879cfa9738dc6b.jpg?v=1785257434,,map rug in family living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/621a530a929c445f4c750a8727939152fa456688ec2cb4afe696da53a2415076.jpg?v=1785257434,,soft microfiber low pile detail for map rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B018,chillgen.com,educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c,educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c,15940438262129,gid://shopify/Product/15940438262129,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B018_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B018_pages/educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c.html,2026-09-07T03:05:08+07:00,en-US,US,https://chillgen.com/products/educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c,https://chillgen.com/products/educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c,Rug,Alphabet Classroom Area Rug with Handwriting Guide for Preschool Learning,Alphabet Classroom Area Rug with Handwriting Guide for Preschool Learning,Alphabet Handwriting Classroom Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Alphabet Classroom Rug with Handwriting Learning Guide,NONE_OR_NOT_OBSERVED,Alphabet Handwriting Classroom Rug,SET,34,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Bring letters and handwriting practice into classrooms and playrooms with this alphabet area rug featuring a soft memory foam layer and non slip backing.,"Teach letter practice with an alphabet handwriting classroom rug featuring colorful uppercase letters, school icons and non-slip backing visuals.",SET,145,alphabet handwriting classroom rug,"ABC classroom rug, educational alphabet mat, kids learning carpet","alphabet handwriting classroom rug; ABC classroom rug, educational alphabet mat, kids learning carpet",LONG_TAIL_CANDIDATE,EVERGREEN,"Current marketplace results support personalized couple doormats, family name entry mats, ABC alphabet classroom rugs, feelings chart classroom rugs, calming corner tools and soccer/sports round rugs. B018 uses product-specific visual motifs as primary terms and broader buyer-intent terms as secondaries.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,alphabet handwriting classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports alphabet handwriting classroom rug and product-level buyer intent.,B018-177-BR01,"B018 buyers include couples/families looking for humorous personalized entry mats, parents and teachers buying educational or emotional-learning classroom rugs, and soccer fans decorating bedrooms, game rooms or event spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Create an engaging and educational environment with this vibrant classroom area rug, specifically designed to support learning and development. Featuring a colorful educational alphabet pattern, this floor mat is perfect for preschool, Pre-K, and elementary spaces. It provides a comfortable and interactive area where kids can learn their letters, practice handwriting samplers, or play with toys.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Features a colorful educational alphabet and handwriting print designed for classrooms and playrooms.</li>
+<li>Constructed with a soft top layer of non-woven fabric and a comfortable memory foam sponge interlayer.</li>
+<li>Extremely anti-skid backing keeps the mat securely in place without requiring an additional rug pad.</li>
+<li>Highly durable and tear-resistant polyester construction suitable for high-traffic indoor areas.</li>
+<li>Easy to maintain and clean, making it highly practical for households with kids or pets.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Classroom, Living Room, Playroom, Study Room</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip, Insulating</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Classroom Print</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Colorful, Educational</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam, Polyester</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Epoxy</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Non-woven fabric with sponge interlayer</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Clean with damp cloth and mild soap, air dry; vacuum, sweep, or shake clean; hose washable</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This multifunctional rug is perfectly tailored for classrooms, playrooms, kid's bedrooms, and study spaces. It also makes a wonderful and practical addition to high-traffic home areas like living rooms, nurseries, and entrances.</p>",Make product copy motif-specific while retaining verified public claims only.,"Teach letter practice with an alphabet handwriting classroom rug featuring colorful uppercase letters, school icons and non-slip backing visuals. Design details Black rectangular alphabet rug with colorful uppercase handwriting-style letters a-z, school icons, animals and pencils, classroom mockups, compact foldable non-slip feature panel, tightly bound edges and anti-slip backing graphic. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Teach letter practice with an alphabet handwriting classroom rug featuring colorful uppercase letters, school icons and non-slip backing visuals.</p><h3>Design details</h3><ul><li>Black rectangular alphabet rug with colorful uppercase handwriting-style letters a-z, school icons, animals and pencils, classroom mockups, compact foldable non-slip feature panel, tightly bound edges and anti-slip backing graphic.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B018-177,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6f4dbd4174139956dd35717e66718b280df14ab97765f2291e45d5cc19374cba.jpg?v=1785256128,,alphabet handwriting classroom rug in room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7b351bb479f36eee751aeb45491c78492c3ec88c70fe99d874ea37f5e354cb5b.jpg?v=1785256128,,foldable non-slip ABC rug feature panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/73e2ed8ce169e6463106d111fb69ca3f4309071599591df4735828c5c0a695ce.jpg?v=1785256128,,letter detail and bound edges for alphabet rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/58ad622cc88d564531112baee0eff21a31e33c40f3ff49a657b1afe5943b2f0d.jpg?v=1785256128,,anti-slip backing graphic for ABC classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0c5c3d6759b088dc8b6e2edb579e44717935073ee1ec419ae0f35cdeb1215eef.jpg?v=1785256128,,alphabet rug in playroom classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/98eea2552ddf6238d3c43ad4d0bdfdad93e6ad4035f5477f02b315a25543223f.jpg?v=1785256128,,flat product image of alphabet handwriting rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B018,chillgen.com,colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9,colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9,15940439048561,gid://shopify/Product/15940439048561,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B018_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B018_pages/colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9.html,2026-09-07T03:05:08+07:00,en-US,US,https://chillgen.com/products/colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9,https://chillgen.com/products/colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9,Rug,Feeling Chart Classroom Area Rug for Emotional Learning and Playrooms,Feeling Chart Classroom Area Rug for Emotional Learning and Playrooms,Feelings Zone Classroom Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Feeling Chart Classroom Rug for Emotional Learning,NONE_OR_NOT_OBSERVED,Feelings Zone Classroom Rug,SET,27,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Support emotional learning in classrooms and playrooms with this colorful feeling chart rug featuring a soft memory foam layer and non slip backing.,"Create a calming corner with a feelings zone classroom rug showing blue, green, yellow and red mood zones plus soft non-slip backing visuals.",SET,141,feelings zone classroom rug,"zones of regulation rug, calming corner classroom rug, emotions learning mat","feelings zone classroom rug; zones of regulation rug, calming corner classroom rug, emotions learning mat",LONG_TAIL_CANDIDATE,EVERGREEN,"Current marketplace results support personalized couple doormats, family name entry mats, ABC alphabet classroom rugs, feelings chart classroom rugs, calming corner tools and soccer/sports round rugs. B018 uses product-specific visual motifs as primary terms and broader buyer-intent terms as secondaries.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,feelings zone classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports zones of regulation feelings classroom rug and product-level buyer intent.,B018-178-BR01,"B018 buyers include couples/families looking for humorous personalized entry mats, parents and teachers buying educational or emotional-learning classroom rugs, and soccer fans decorating bedrooms, game rooms or event spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Create a vibrant and engaging learning environment with this colorful educational rug. Designed specifically for classrooms, playrooms, and kids' rooms, it features a theme focused on emotional management and educational play. This durable mat serves as both a practical floor covering and a functional teaching tool, making it the perfect addition for back-to-school season.</p>
+<h3>Product Highlights</h3>
+<ul>
+<li>Vibrant emotional management feeling chart print ideal for classroom learning</li>
+<li>Constructed with a soft memory foam and sponge interlayer for comfortable play</li>
+<li>Extremely anti-skid backing eliminates the need for an additional rug pad</li>
+<li>Highly durable polyester composition offers excellent tear resistance in high-traffic areas</li>
+<li>Versatile design serves as an educational play mat for both boys and girls</li>
+</ul>
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse: collapse; width: 100%;"">
+<tbody>
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Classroom, Living Room, Playroom, Study Room</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip, Insulating</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Classroom Print</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Colorful, Educational</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse: collapse; width: 100%;"">
+<tbody>
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam, Polyester</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Epoxy</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Non-woven fabric with sponge interlayer</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Clean with damp cloth and mild soap, air dry</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Vacuum, sweep, shake off, wipe with damp cloth, or flush with garden hose</td>
+</tr>
+</tbody>
+</table>
+<h3>Where It Works</h3>
+<p>This multifunctional rug is perfectly suited for high-traffic indoor environments such as classrooms, playrooms, and bedrooms. It also functions beautifully in living rooms, study spaces, and children's dormitories to encourage comfortable learning and play.</p>",Make product copy motif-specific while retaining verified public claims only.,"Create a calming corner with a feelings zone classroom rug showing blue, green, yellow and red mood zones plus soft non-slip backing visuals. Design details White rectangular classroom rug with what zone are you in text, blue green yellow and red emotion zones with faces and labels, playroom and classroom mockups, teacher-child use scene, thickened edge panel, anti-slip backing and cleaning method visuals. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Create a calming corner with a feelings zone classroom rug showing blue, green, yellow and red mood zones plus soft non-slip backing visuals.</p><h3>Design details</h3><ul><li>White rectangular classroom rug with what zone are you in text, blue green yellow and red emotion zones with faces and labels, playroom and classroom mockups, teacher-child use scene, thickened edge panel, anti-slip backing and cleaning method visuals.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B018-178,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/20d31b3da4659683fbf0b882602499d886e1df5425c27c0f937a5a2626a1eae4.jpg?v=1785256154,,feelings zone classroom rug in playroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/788f279710d23f9be318fdc3fe1203906e735ea7ca8ff800c70917e6fd2f7291.jpg?v=1785256154,,what zone are you in rug angled view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/15ffd55e2a2c5853df2d85373a5f8f306011fd17de4ca796560d84851e203580.jpg?v=1785256154,,emotion zones classroom rug product image,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5b1bd8c6c11a473f8a6250a3011ec3b18d57f36c12ee3078b9d72791ad799e9f.jpg?v=1785256154,,feelings zone rug in kids room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c85daeb9797dae3740a9cd914b7af06883e33e52dacb1a24633c137a05200791.jpg?v=1785256154,,teacher and children using emotions rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d531cca97b1986cb2ffc3daccff12d11fece4cc7ada173a86784bba9467fad5f.jpg?v=1785256154,,thickened edge detail for feelings zone rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/326af8828bc5d30adc276d1f9ff495ad51c628fcd452dd2a466d2957c42d848f.jpg?v=1785256154,,anti-slip backing graphic for classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4d9dd0ebbb23fb31c9d8944769e99a2703461bcf252a6b95f8af3db957bd6bdb.jpg?v=1785256154,,multipurpose use graphic for emotions rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3339fe19bfd18c660068d1563358687ca385d3620842a7b59ffc32a4c24626b9.jpg?v=1785256154,,cleaning method visual for classroom rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B018,chillgen.com,custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4,custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4,15913465381233,gid://shopify/Product/15913465381233,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B018_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B018_pages/custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4.html,2026-09-07T03:05:08+07:00,en-US,US,https://chillgen.com/products/custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4,https://chillgen.com/products/custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4,Rug,Custom Soccer Flags Round Rug with Low Pile Surface for Bedroom and Game Room,Custom Soccer Flags Round Rug with Low Pile Surface for Bedroom and Game Room,Soccer Host Flags Round Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Soccer Flags Round Rug with Low Pile Surface,NONE_OR_NOT_OBSERVED,Soccer Host Flags Round Rug,SET,27,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Bring soccer spirit home with a custom flags round rug featuring trophy visuals a low pile surface and non slip backing for bedrooms and game rooms.,"Celebrate soccer season with a round host flags trophy rug featuring Canada USA Mexico text, fireworks, size guide and non-slip backing.",SET,136,soccer host flags round rug,"soccer trophy rug, 2026 soccer rug, sports game room rug","soccer host flags round rug; soccer trophy rug, 2026 soccer rug, sports game room rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Current marketplace results support personalized couple doormats, family name entry mats, ABC alphabet classroom rugs, feelings chart classroom rugs, calming corner tools and soccer/sports round rugs. B018 uses product-specific visual motifs as primary terms and broader buyer-intent terms as secondaries.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,soccer host flags round rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports soccer host flags trophy round rug and product-level buyer intent.,B018-179-BR01,"B018 buyers include couples/families looking for humorous personalized entry mats, parents and teachers buying educational or emotional-learning classroom rugs, and soccer fans decorating bedrooms, game rooms or event spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Celebrate the excitement of the global soccer season with this Soccer Championship Round Rug. Designed with trophy-inspired elements and host nation themes, this piece brings the energetic spirit of international sports competition directly into your home. It features a soft surface combined with practical elements, making it an excellent addition for passionate fans who want to showcase their love for the game.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Features bold trophy visuals and designs inspired by tournament host nations.</li>
+<li>Supports customized details to create a personalized sports theme.</li>
+<li>Constructed with low pile flat woven fabric for a comfortable feel underfoot.</li>
+<li>Equipped with a non-slip backing and reinforced serged edges for enhanced safety and durability.</li>
+<li>Highly versatile decor piece suitable for multiple rooms and sports-themed spaces.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Round</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor Outdoor Usage</td>
+<td>Both</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Living Room, Playroom</td>
+</tr>
+<tr>
+<td>Is Stain Resistant</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sports</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam, Polypropylene</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Polyester</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This sports-themed round rug is perfect for living rooms, bedrooms, and playrooms. It serves as an ideal floor decor piece for game rooms, kids' play areas, or any dedicated sports fan's space.</p>",Make product copy motif-specific while retaining verified public claims only.,"Celebrate soccer season with a round host flags trophy rug featuring Canada USA Mexico text, fireworks, size guide and non-slip backing. Design details Round cream soccer rug with trophy, soccer ball, canada usa mexico text, united as one slogan, stars, fireworks, flag border, room mockups, size guide, nonslip detail graphic and superior quality backing panel. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Celebrate soccer season with a round host flags trophy rug featuring Canada USA Mexico text, fireworks, size guide and non-slip backing.</p><h3>Design details</h3><ul><li>Round cream soccer rug with trophy, soccer ball, canada usa mexico text, united as one slogan, stars, fireworks, flag border, room mockups, size guide, nonslip detail graphic and superior quality backing panel.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B018-179,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/87afd7d8ed9477bc623dee162638a42b6fa363079c79e0b0ea086d85d4f7e28e.jpg?v=1784383921,,soccer host flags trophy round rug overhead view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/da53d236a935e9a11d8a486a419a1acd4e1fda2689084988bf9e6adfdb5d383f.jpg?v=1784383921,,size guide for soccer host flags rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/abd3bff1ef0bf4c3ca0aa0ab2885b9b2e6f10261820f8e71412e296f6e23908e.jpg?v=1784383927,,soccer trophy rug near fireplace,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/dcd7ba5d525900780fd60d6d1e79bb38b546706090d39f5abc7d527e713aa921.jpg?v=1784383927,,child sitting near soccer host flags rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8bfbb9ae713ba5e65be2e4be8070903db32d8e34a0a75c1e3e506e5edee0f811.jpg?v=1784383933,,soccer rug in seasonal living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e1a3a69ecdf5924a340c0b6daff105b1a43c18595fb0009f9fabf4e2aceee3da.jpg?v=1784383933,,soccer host flags rug under dining table,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/dc8c9dee3dd18c4aa39aff1d0d78a5a975f044459b3b826f82b4cf2612683b0e.jpg?v=1784383938,,nonslip detail graphic for soccer rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/155fc5ecbefd4aee65ba98bfbeaae1c50308bf8c67aacebdf3f1b2100b4563d7.jpg?v=1784383939,,superior quality backing panel for soccer rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B018,chillgen.com,custom-soccer-championship-round-rug-6b6ea4fbf7,custom-soccer-championship-round-rug-6b6ea4fbf7,15913465184625,gid://shopify/Product/15913465184625,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B018_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B018_pages/custom-soccer-championship-round-rug-6b6ea4fbf7.html,2026-09-07T03:05:08+07:00,en-US,US,https://chillgen.com/products/custom-soccer-championship-round-rug-6b6ea4fbf7,https://chillgen.com/products/custom-soccer-championship-round-rug-6b6ea4fbf7,Rug,Custom Soccer Tournament Round Rug with Memory Foam for Living Room,Custom Soccer Tournament Round Rug with Memory Foam for Living Room,Soccer Tournament Trophy Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Soccer Tournament Round Rug with Memory Foam,NONE_OR_NOT_OBSERVED,Soccer Tournament Trophy Rug,SET,28,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Celebrate international competition with a custom soccer tournament round rug featuring trophy graphics memory foam and non slip backing for living rooms.,"Decorate a fan room with a soccer tournament trophy rug featuring flags, scoreboard art, stadium lights, size guide and non-slip backing.",SET,137,soccer tournament trophy rug,"soccer round rug, football game room rug, sports bedroom rug","soccer tournament trophy rug; soccer round rug, football game room rug, sports bedroom rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Current marketplace results support personalized couple doormats, family name entry mats, ABC alphabet classroom rugs, feelings chart classroom rugs, calming corner tools and soccer/sports round rugs. B018 uses product-specific visual motifs as primary terms and broader buyer-intent terms as secondaries.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,soccer tournament trophy rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports soccer tournament trophy round rug and product-level buyer intent.,B018-180-BR01,"B018 buyers include couples/families looking for humorous personalized entry mats, parents and teachers buying educational or emotional-learning classroom rugs, and soccer fans decorating bedrooms, game rooms or event spaces.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Celebrate the excitement of the global soccer season with this Soccer Championship Round Rug. Designed with trophy-inspired elements and international themes, this rug brings the energy and pride of world competition directly into your home. It is the perfect decor accent for passionate sports fans who want to showcase their love for the game in a bold and stylish way.</p><h3>Product Highlights</h3><ul>
+<li>Inspired by the global soccer tournament with bold trophy visuals.</li>
+<li>Features a comfortable low pile height made of soft memory foam fabric.</li>
+<li>Equipped with a non-slip backing for added safety and floor grip.</li>
+<li>Designed with reinforced serged edges to ensure long-lasting durability.</li>
+<li>Easy to maintain with a washable design that is simple to clean.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr bgcolor=""#f2f2f2"">
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Round</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor Outdoor Usage</td>
+<td>Both</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Living Room, Playroom</td>
+</tr>
+<tr>
+<td>Is Stain Resistant</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Sports</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr bgcolor=""#f2f2f2"">
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Polyester</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table><h3>Where It Works</h3><p>This round sports-themed rug is an excellent fit for living rooms, bedrooms, playrooms, and game rooms. It makes a wonderful decorative addition to any fan-inspired space, kids' sports area, or a dedicated man cave.</p>",Make product copy motif-specific while retaining verified public claims only.,"Decorate a fan room with a soccer tournament trophy rug featuring flags, scoreboard art, stadium lights, size guide and non-slip backing. Design details Round colorful soccer rug with large trophy, soccer ball, scoreboard, stadium lights, country flags including usa canada mexico, world game 2026 text, room mockups, size guide, nonslip detail and tpr backing quality panel. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Decorate a fan room with a soccer tournament trophy rug featuring flags, scoreboard art, stadium lights, size guide and non-slip backing.</p><h3>Design details</h3><ul><li>Round colorful soccer rug with large trophy, soccer ball, scoreboard, stadium lights, country flags including usa canada mexico, world game 2026 text, room mockups, size guide, nonslip detail and tpr backing quality panel.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B018-180,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6ea08b70431b2515bed85172eb022a8fd6865042d7aed9a1c243a4c8fb0c1328.jpg?v=1784383969,,soccer tournament trophy rug overhead view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/505d3fe6c221304e2c54e36a1aa7e7951fd45eca9eb9996cc87daf14ba8ae3e9.jpg?v=1784383970,,size guide for soccer tournament rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/580c9c64c6ad6ad94c33b2d38509c3b871ed2956ccb2af7a9b8fe8ff56eff6c9.jpg?v=1784383974,,soccer trophy rug in fireplace room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f41f575865933a75eb1c64c1a16f75052173a7243c1b040b576cf7e038fc7ca1.jpg?v=1784383976,,child sitting near soccer round rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c2856565dccfc3734c0c958be2227bcc1ab3cc24a6b8d2dc190b1d7120eaa02c.jpg?v=1784383980,,soccer tournament rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fc9d64bc96fe74701fb29d1c012eeb6a42831bfc74ddb66e0a9d6c779e0c061e.jpg?v=1784383982,,soccer round rug under dining table,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0e886f49d462917119d67be6f38e3b8bc8f5728106490bbb83783fb342999d75.jpg?v=1784383986,,nonslip detail graphic for sports rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/648a8ff0a8e751c54bb015ffe287e927ca4507dda2ae3e4d3e1afb6fff9b60a6.jpg?v=1784383988,,superior quality backing panel for soccer rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
