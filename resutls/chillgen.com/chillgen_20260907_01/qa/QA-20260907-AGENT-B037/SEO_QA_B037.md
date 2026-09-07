@@ -3,36 +3,36 @@
 - QA run: `QA-20260907-AGENT-B037`
 - Source workbook: `SEO_Chillgen\resutls\chillgen.com\chillgen_20260907_01\SEO_Product_Optimization.xlsx`
 - Source SHA-256: `164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7`
-- Batch status: `QA_PASS`
+- Batch status: `QA_FAIL`
 - Products checked: `10`
-- Images checked: `72` / expected `72`
-- Batch average final score: `95.0`
-- Critical/Major: `0/0`; Limitations: `20`
+- Images checked: `72` / in scope `72`
+- Batch average final score: `69.8`
+- Critical/Major: `0/16`; Limitations: `30`
 
-QA_PASS means content QA passed for handoff; it is not APPROVED and does not authorize Shopify deploy.
+This evidence-driven QA rerun does not use fixed scores. QA_PASS is not APPROVED and does not authorize Shopify deploy.
 
 ## Product Scores
 
 | Product | Score | Status | Images | Notes |
 |---|---:|---|---:|---|
-| `wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f` | 95.0 | QA_PASS | 5 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7` | 95.0 | QA_PASS | 7 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `custom-dog-paw-print-shaped-rug-39afbc78d5` | 95.0 | QA_PASS | 7 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `custom-bear-paw-print-area-rug-a5abc100ab` | 95.0 | QA_PASS | 7 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `custom-bear-paw-print-area-rug-7ff5dd63e9` | 95.0 | QA_PASS | 7 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `custom-bear-paw-print-area-rug-a43b3e3594` | 95.0 | QA_PASS | 7 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc` | 95.0 | QA_PASS | 7 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd` | 95.0 | QA_PASS | 7 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `custom-road-map-area-rug-play-mat-baa948f510-baa948f510` | 95.0 | QA_PASS | 9 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `custom-road-map-area-rug-play-mat-9cf6abf61b` | 95.0 | QA_PASS | 9 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
+| `wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f` | 73.0 | QA_REVISE | 5/5 | Major=1; Limitation=3; evidence-driven checks only. |
+| `custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7` | 73.0 | QA_REVISE | 7/7 | Major=1; Limitation=3; evidence-driven checks only. |
+| `custom-dog-paw-print-shaped-rug-39afbc78d5` | 63.0 | QA_FAIL | 7/7 | Major=3; Limitation=3; evidence-driven checks only. |
+| `custom-bear-paw-print-area-rug-a5abc100ab` | 70.5 | QA_REVISE | 7/7 | Major=1; Limitation=3; evidence-driven checks only. |
+| `custom-bear-paw-print-area-rug-7ff5dd63e9` | 70.5 | QA_REVISE | 7/7 | Major=1; Limitation=3; evidence-driven checks only. |
+| `custom-bear-paw-print-area-rug-a43b3e3594` | 65.5 | QA_FAIL | 7/7 | Major=3; Limitation=3; evidence-driven checks only. |
+| `custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc` | 73.0 | QA_REVISE | 7/7 | Major=1; Limitation=3; evidence-driven checks only. |
+| `custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd` | 70.5 | QA_REVISE | 7/7 | Major=1; Limitation=3; evidence-driven checks only. |
+| `custom-road-map-area-rug-play-mat-baa948f510-baa948f510` | 73.0 | QA_REVISE | 9/9 | Major=1; Limitation=3; evidence-driven checks only. |
+| `custom-road-map-area-rug-play-mat-9cf6abf61b` | 65.5 | QA_FAIL | 9/9 | Major=3; Limitation=3; evidence-driven checks only. |
 
 ## Findings
 
-- No CRITICAL or MAJOR content issue found in B037 after live PDP and image review.
-- Auto-check `non-slip` warnings were resolved by live meta/page text and feature/backing images showing non-slip/anti-slip backing.
-- Auto-check `identity_status` warnings were downgraded to LIMITATION: storefront identity is confirmed, but admin/export before-state is still required before approval or deployment.
-- Keyword evidence is suitable for content QA but remains `SERP_ONLY`: no paid volume, direct Chillgen Search Console, internal search, or customer review evidence was provided.
+- Evidence-driven status for B037: `QA_FAIL`.
+- Previous agent reports that assigned `FULL` image criteria and fixed `95.0` scores are invalid as QA evidence; this rerun uses field/image rules instead.
+- Keyword evidence remains `SERP_ONLY`: no paid volume, direct Chillgen Search Console, internal search, or customer review evidence was provided.
+- Direct human visual confirmation and Shopify admin/export before-state are still required before approval or deployment.
 
 ## Next Step
 
-Review the limitations before approval/deploy. If accepted, B037 can move to human content approval; otherwise add admin export and stronger demand evidence, then re-QA the affected fields.
+Review MAJOR and LIMITATION rows for B037; resolve or accept them explicitly before Human Approval.

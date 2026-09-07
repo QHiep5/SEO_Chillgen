@@ -3,36 +3,36 @@
 - QA run: `QA-20260907-AGENT-B005`
 - Source workbook: `SEO_Chillgen\resutls\chillgen.com\chillgen_20260907_01\SEO_Product_Optimization.xlsx`
 - Source SHA-256: `164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7`
-- Batch status: `QA_PASS`
+- Batch status: `QA_REVISE`
 - Products checked: `10`
-- Images checked: `74` / expected `74`
-- Batch average final score: `95.0`
-- Critical/Major: `0/0`; Limitations: `20`
+- Images checked: `74` / in scope `74`
+- Batch average final score: `78.0`
+- Critical/Major: `0/5`; Limitations: `30`
 
-QA_PASS means content QA passed for handoff; it is not APPROVED and does not authorize Shopify deploy.
+This evidence-driven QA rerun does not use fixed scores. QA_PASS is not APPROVED and does not authorize Shopify deploy.
 
 ## Product Scores
 
 | Product | Score | Status | Images | Notes |
 |---|---:|---|---:|---|
-| `personalized-football-shaped-rug-non-slip-washable-sport-design-03` | 95.0 | QA_PASS | 9 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `personalized-football-shaped-rug-non-slip-washable-sport-design-02` | 95.0 | QA_PASS | 9 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `personalized-football-shaped-rug-non-slip-washable-sport-design-01` | 95.0 | QA_PASS | 7 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `personalized-football-shaped-rug-non-slip-washable-sport-design-05` | 95.0 | QA_PASS | 7 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `personalized-football-shaped-rug-non-slip-washable-sport-carpet-a04` | 95.0 | QA_PASS | 7 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `custom-dragon-shaped-area-rug-personalized-library-wester-design-02` | 95.0 | QA_PASS | 7 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `custom-dragon-shaped-area-rug-personalized-library-wester-design-08` | 95.0 | QA_PASS | 7 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `custom-dragon-shaped-area-rug-personalized-library-wester-design-05` | 95.0 | QA_PASS | 7 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `custom-dragon-shaped-area-rug-personalized-library-wester-design-07` | 95.0 | QA_PASS | 7 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `custom-dragon-shaped-area-rug-personalized-library-wester-design-03` | 95.0 | QA_PASS | 7 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
+| `personalized-football-shaped-rug-non-slip-washable-sport-design-03` | 83.0 | QA_REVISE | 9/9 | Major=0; Limitation=3; evidence-driven checks only. |
+| `personalized-football-shaped-rug-non-slip-washable-sport-design-02` | 83.0 | QA_REVISE | 9/9 | Major=0; Limitation=3; evidence-driven checks only. |
+| `personalized-football-shaped-rug-non-slip-washable-sport-design-01` | 83.0 | QA_REVISE | 7/7 | Major=0; Limitation=3; evidence-driven checks only. |
+| `personalized-football-shaped-rug-non-slip-washable-sport-design-05` | 83.0 | QA_REVISE | 7/7 | Major=0; Limitation=3; evidence-driven checks only. |
+| `personalized-football-shaped-rug-non-slip-washable-sport-carpet-a04` | 83.0 | QA_REVISE | 7/7 | Major=0; Limitation=3; evidence-driven checks only. |
+| `custom-dragon-shaped-area-rug-personalized-library-wester-design-02` | 73.0 | QA_REVISE | 7/7 | Major=1; Limitation=3; evidence-driven checks only. |
+| `custom-dragon-shaped-area-rug-personalized-library-wester-design-08` | 73.0 | QA_REVISE | 7/7 | Major=1; Limitation=3; evidence-driven checks only. |
+| `custom-dragon-shaped-area-rug-personalized-library-wester-design-05` | 73.0 | QA_REVISE | 7/7 | Major=1; Limitation=3; evidence-driven checks only. |
+| `custom-dragon-shaped-area-rug-personalized-library-wester-design-07` | 73.0 | QA_REVISE | 7/7 | Major=1; Limitation=3; evidence-driven checks only. |
+| `custom-dragon-shaped-area-rug-personalized-library-wester-design-03` | 73.0 | QA_REVISE | 7/7 | Major=1; Limitation=3; evidence-driven checks only. |
 
 ## Findings
 
-- No CRITICAL or MAJOR content issue found in B005 after live PDP and image review.
-- Auto-check `non-slip` warnings were resolved by live meta/page text and feature/backing images showing non-slip/anti-slip backing.
-- Auto-check `identity_status` warnings were downgraded to LIMITATION: storefront identity is confirmed, but admin/export before-state is still required before approval or deployment.
-- Keyword evidence is suitable for content QA but remains `SERP_ONLY`: no paid volume, direct Chillgen Search Console, internal search, or customer review evidence was provided.
+- Evidence-driven status for B005: `QA_REVISE`.
+- Previous agent reports that assigned `FULL` image criteria and fixed `95.0` scores are invalid as QA evidence; this rerun uses field/image rules instead.
+- Keyword evidence remains `SERP_ONLY`: no paid volume, direct Chillgen Search Console, internal search, or customer review evidence was provided.
+- Direct human visual confirmation and Shopify admin/export before-state are still required before approval or deployment.
 
 ## Next Step
 
-Review the limitations before approval/deploy. If accepted, B005 can move to human content approval; otherwise add admin export and stronger demand evidence, then re-QA the affected fields.
+Review MAJOR and LIMITATION rows for B005; resolve or accept them explicitly before Human Approval.

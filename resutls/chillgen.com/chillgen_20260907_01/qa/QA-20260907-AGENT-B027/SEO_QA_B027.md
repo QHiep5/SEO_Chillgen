@@ -3,36 +3,36 @@
 - QA run: `QA-20260907-AGENT-B027`
 - Source workbook: `SEO_Chillgen\resutls\chillgen.com\chillgen_20260907_01\SEO_Product_Optimization.xlsx`
 - Source SHA-256: `164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7`
-- Batch status: `QA_PASS`
+- Batch status: `QA_FAIL`
 - Products checked: `10`
-- Images checked: `81` / expected `81`
-- Batch average final score: `95.0`
-- Critical/Major: `0/0`; Limitations: `20`
+- Images checked: `81` / in scope `81`
+- Batch average final score: `70.8`
+- Critical/Major: `0/16`; Limitations: `30`
 
-QA_PASS means content QA passed for handoff; it is not APPROVED and does not authorize Shopify deploy.
+This evidence-driven QA rerun does not use fixed scores. QA_PASS is not APPROVED and does not authorize Shopify deploy.
 
 ## Product Scores
 
 | Product | Score | Status | Images | Notes |
 |---|---:|---|---:|---|
-| `personalized-orthodox-doormat-with-christian-cross-and-eagle-6be5c719a3-6be5c719a3` | 95.0 | QA_PASS | 8 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `personalized-orthodox-christian-area-rug-00beb8fce2` | 95.0 | QA_PASS | 8 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `custom-orthodox-rug-three-bar-cross-byzantine-eagle-d81169235b-d81169235b` | 95.0 | QA_PASS | 8 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `personalized-orthodox-christian-area-rug-fb5a56fef9-fb5a56fef9` | 95.0 | QA_PASS | 8 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `personalized-teachers-classroom-rules-rug-b0d7bd292a-b0d7bd292a` | 95.0 | QA_PASS | 9 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `personalized-classroom-rules-welcome-mat-07b188eb0d` | 95.0 | QA_PASS | 8 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `personalized-teachers-classroom-rug-with-custom-name-87d858996b` | 95.0 | QA_PASS | 8 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `personalized-classroom-rules-rug-custom-teacher-name-2b9854c06f` | 95.0 | QA_PASS | 8 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `personalized-classroom-rules-rug-with-custom-teacher-name-ad0787fb44` | 95.0 | QA_PASS | 9 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `custom-octopus-shaped-area-rug-9041fd8f83` | 95.0 | QA_PASS | 7 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
+| `personalized-orthodox-doormat-with-christian-cross-and-eagle-6be5c719a3-6be5c719a3` | 73.0 | QA_REVISE | 8/8 | Major=1; Limitation=3; evidence-driven checks only. |
+| `personalized-orthodox-christian-area-rug-00beb8fce2` | 73.0 | QA_REVISE | 8/8 | Major=1; Limitation=3; evidence-driven checks only. |
+| `custom-orthodox-rug-three-bar-cross-byzantine-eagle-d81169235b-d81169235b` | 65.5 | QA_FAIL | 8/8 | Major=3; Limitation=3; evidence-driven checks only. |
+| `personalized-orthodox-christian-area-rug-fb5a56fef9-fb5a56fef9` | 73.0 | QA_REVISE | 8/8 | Major=1; Limitation=3; evidence-driven checks only. |
+| `personalized-teachers-classroom-rules-rug-b0d7bd292a-b0d7bd292a` | 73.0 | QA_REVISE | 9/9 | Major=1; Limitation=3; evidence-driven checks only. |
+| `personalized-classroom-rules-welcome-mat-07b188eb0d` | 73.0 | QA_REVISE | 8/8 | Major=1; Limitation=3; evidence-driven checks only. |
+| `personalized-teachers-classroom-rug-with-custom-name-87d858996b` | 65.5 | QA_FAIL | 8/8 | Major=3; Limitation=3; evidence-driven checks only. |
+| `personalized-classroom-rules-rug-custom-teacher-name-2b9854c06f` | 73.0 | QA_REVISE | 8/8 | Major=1; Limitation=3; evidence-driven checks only. |
+| `personalized-classroom-rules-rug-with-custom-teacher-name-ad0787fb44` | 73.0 | QA_REVISE | 9/9 | Major=1; Limitation=3; evidence-driven checks only. |
+| `custom-octopus-shaped-area-rug-9041fd8f83` | 65.5 | QA_FAIL | 7/7 | Major=3; Limitation=3; evidence-driven checks only. |
 
 ## Findings
 
-- No CRITICAL or MAJOR content issue found in B027 after live PDP and image review.
-- Auto-check `non-slip` warnings were resolved by live meta/page text and feature/backing images showing non-slip/anti-slip backing.
-- Auto-check `identity_status` warnings were downgraded to LIMITATION: storefront identity is confirmed, but admin/export before-state is still required before approval or deployment.
-- Keyword evidence is suitable for content QA but remains `SERP_ONLY`: no paid volume, direct Chillgen Search Console, internal search, or customer review evidence was provided.
+- Evidence-driven status for B027: `QA_FAIL`.
+- Previous agent reports that assigned `FULL` image criteria and fixed `95.0` scores are invalid as QA evidence; this rerun uses field/image rules instead.
+- Keyword evidence remains `SERP_ONLY`: no paid volume, direct Chillgen Search Console, internal search, or customer review evidence was provided.
+- Direct human visual confirmation and Shopify admin/export before-state are still required before approval or deployment.
 
 ## Next Step
 
-Review the limitations before approval/deploy. If accepted, B027 can move to human content approval; otherwise add admin export and stronger demand evidence, then re-QA the affected fields.
+Review MAJOR and LIMITATION rows for B027; resolve or accept them explicitly before Human Approval.

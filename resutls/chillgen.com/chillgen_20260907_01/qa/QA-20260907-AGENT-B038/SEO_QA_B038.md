@@ -3,36 +3,36 @@
 - QA run: `QA-20260907-AGENT-B038`
 - Source workbook: `SEO_Chillgen\resutls\chillgen.com\chillgen_20260907_01\SEO_Product_Optimization.xlsx`
 - Source SHA-256: `164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7`
-- Batch status: `QA_PASS`
+- Batch status: `QA_FAIL`
 - Products checked: `10`
-- Images checked: `129` / expected `129`
-- Batch average final score: `95.0`
-- Critical/Major: `0/0`; Limitations: `20`
+- Images checked: `129` / in scope `129`
+- Batch average final score: `71.5`
+- Critical/Major: `0/16`; Limitations: `30`
 
-QA_PASS means content QA passed for handoff; it is not APPROVED and does not authorize Shopify deploy.
+This evidence-driven QA rerun does not use fixed scores. QA_PASS is not APPROVED and does not authorize Shopify deploy.
 
 ## Product Scores
 
 | Product | Score | Status | Images | Notes |
 |---|---:|---|---:|---|
-| `personalized-christmas-doormat-with-custom-family-name-315531dc75-315531dc75` | 95.0 | QA_PASS | 8 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `custom-road-map-play-mat-rug-38a585717c-38a585717c` | 95.0 | QA_PASS | 9 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `wheel-of-feelings-and-emotions-round-rug-ec03e55978` | 95.0 | QA_PASS | 14 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `wheel-of-feelings-and-emotions-round-rug-01636a663b` | 95.0 | QA_PASS | 14 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `feelings-wheel-emotions-round-rug-0f979e072d-0f979e072d` | 95.0 | QA_PASS | 14 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `wheel-of-feelings-and-emotions-round-rug-8a745f7f62` | 95.0 | QA_PASS | 14 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `wheel-of-feelings-and-emotions-round-rug-697b1d04c9` | 95.0 | QA_PASS | 14 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `custom-abc-educational-classroom-round-rug-33de96c620-33de96c620` | 95.0 | QA_PASS | 14 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `classroom-round-rug-educational-feelings-carpet-6f4ceb729b` | 95.0 | QA_PASS | 14 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
-| `custom-abc-educational-welcome-mat-bed98ba4ec-bed98ba4ec` | 95.0 | QA_PASS | 14 | K3 partial: SERP/category evidence only; E1 partial: admin/export before-state not provided. |
+| `personalized-christmas-doormat-with-custom-family-name-315531dc75-315531dc75` | 73.0 | QA_REVISE | 8/8 | Major=1; Limitation=3; evidence-driven checks only. |
+| `custom-road-map-play-mat-rug-38a585717c-38a585717c` | 80.5 | QA_REVISE | 9/9 | Major=1; Limitation=3; evidence-driven checks only. |
+| `wheel-of-feelings-and-emotions-round-rug-ec03e55978` | 65.5 | QA_FAIL | 14/14 | Major=3; Limitation=3; evidence-driven checks only. |
+| `wheel-of-feelings-and-emotions-round-rug-01636a663b` | 65.5 | QA_FAIL | 14/14 | Major=3; Limitation=3; evidence-driven checks only. |
+| `feelings-wheel-emotions-round-rug-0f979e072d-0f979e072d` | 73.0 | QA_REVISE | 14/14 | Major=1; Limitation=3; evidence-driven checks only. |
+| `wheel-of-feelings-and-emotions-round-rug-8a745f7f62` | 65.5 | QA_FAIL | 14/14 | Major=3; Limitation=3; evidence-driven checks only. |
+| `wheel-of-feelings-and-emotions-round-rug-697b1d04c9` | 73.0 | QA_REVISE | 14/14 | Major=1; Limitation=3; evidence-driven checks only. |
+| `custom-abc-educational-classroom-round-rug-33de96c620-33de96c620` | 73.0 | QA_REVISE | 14/14 | Major=1; Limitation=3; evidence-driven checks only. |
+| `classroom-round-rug-educational-feelings-carpet-6f4ceb729b` | 73.0 | QA_REVISE | 14/14 | Major=1; Limitation=3; evidence-driven checks only. |
+| `custom-abc-educational-welcome-mat-bed98ba4ec-bed98ba4ec` | 73.0 | QA_REVISE | 14/14 | Major=1; Limitation=3; evidence-driven checks only. |
 
 ## Findings
 
-- No CRITICAL or MAJOR content issue found in B038 after live PDP and image review.
-- Auto-check `non-slip` warnings were resolved by live meta/page text and feature/backing images showing non-slip/anti-slip backing.
-- Auto-check `identity_status` warnings were downgraded to LIMITATION: storefront identity is confirmed, but admin/export before-state is still required before approval or deployment.
-- Keyword evidence is suitable for content QA but remains `SERP_ONLY`: no paid volume, direct Chillgen Search Console, internal search, or customer review evidence was provided.
+- Evidence-driven status for B038: `QA_FAIL`.
+- Previous agent reports that assigned `FULL` image criteria and fixed `95.0` scores are invalid as QA evidence; this rerun uses field/image rules instead.
+- Keyword evidence remains `SERP_ONLY`: no paid volume, direct Chillgen Search Console, internal search, or customer review evidence was provided.
+- Direct human visual confirmation and Shopify admin/export before-state are still required before approval or deployment.
 
 ## Next Step
 
-Review the limitations before approval/deploy. If accepted, B038 can move to human content approval; otherwise add admin export and stronger demand evidence, then re-QA the affected fields.
+Review MAJOR and LIMITATION rows for B038; resolve or accept them explicitly before Human Approval.
