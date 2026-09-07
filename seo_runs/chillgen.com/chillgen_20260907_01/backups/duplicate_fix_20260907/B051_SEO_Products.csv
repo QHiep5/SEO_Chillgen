@@ -1,0 +1,623 @@
+schema_version,prompt_version,run_id,batch_id,shop_domain,product_key,Handle,product_id,product_gid,identity_status,source_export_ref,source_exported_at,locale,market,url,canonical_url,product_type,title_current,h1_current,title_proposed,title_action,h1_mapping_status,meta_title_current,meta_title_source_state,rendered_title_current,theme_title_suffix,meta_title_seo,meta_title_action,meta_title_chars,meta_description_current,meta_description_source_state,rendered_meta_description_current,meta_description_seo,meta_description_action,meta_description_chars,primary_keyword,secondary_keywords,long_tail_candidates,keyword_strategy,season,keyword_demand_evidence,keyword_serp_fit,meta_keyword,search_intent,keyword_validation_status,keyword_selection_reason,buyer_research_refs,buyer_search_summary,baseline_status,change_scope,mapping_status,mapping_version,description_current_html,description_changes_needed,description_proposed,description_proposed_html,description_change_mode,description_target_section,description_action,revision,review_status,review_reason,approved_by,approved_at,approved_fields,approved_revision,processing_status,evidence_status,content_qa_status,field_evidence_map,evidence_id,issues,img_1_link,img_1_alt_current,img_1_alt,img_1_alt_action,img_2_link,img_2_alt_current,img_2_alt,img_2_alt_action,img_3_link,img_3_alt_current,img_3_alt,img_3_alt_action,img_4_link,img_4_alt_current,img_4_alt,img_4_alt_action,img_5_link,img_5_alt_current,img_5_alt,img_5_alt_action,img_6_link,img_6_alt_current,img_6_alt,img_6_alt_action,img_7_link,img_7_alt_current,img_7_alt,img_7_alt_action,img_8_link,img_8_alt_current,img_8_alt,img_8_alt_action,img_9_link,img_9_alt_current,img_9_alt,img_9_alt_action,img_10_link,img_10_alt_current,img_10_alt,img_10_alt_action,img_11_link,img_11_alt_current,img_11_alt,img_11_alt_action,img_12_link,img_12_alt_current,img_12_alt,img_12_alt_action,img_13_link,img_13_alt_current,img_13_alt,img_13_alt_action,img_14_link,img_14_alt_current,img_14_alt,img_14_alt_action,img_15_link,img_15_alt_current,img_15_alt,img_15_alt_action,img_16_link,img_16_alt_current,img_16_alt,img_16_alt_action,img_17_link,img_17_alt_current,img_17_alt,img_17_alt_action,img_18_link,img_18_alt_current,img_18_alt,img_18_alt_action,img_19_link,img_19_alt_current,img_19_alt,img_19_alt_action,img_20_link,img_20_alt_current,img_20_alt,img_20_alt_action,img_21_link,img_21_alt_current,img_21_alt,img_21_alt_action,img_22_link,img_22_alt_current,img_22_alt,img_22_alt_action
+2.4,2.4,chillgen_20260907_01,B051,chillgen.com,personalized-welcome-doormat-class-teacher-f81a80f527,personalized-welcome-doormat-class-teacher-f81a80f527,15912103903601,gid://shopify/Product/15912103903601,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B051_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-welcome-doormat-class-teacher-f81a80f527.html,2026-09-07T10:41:07+07:00,en-US,US,https://chillgen.com/products/personalized-welcome-doormat-class-teacher-f81a80f527,https://chillgen.com/products/personalized-welcome-doormat-class-teacher-f81a80f527,Rug,Personalized Composition Notebook Welcome Mat for Classroom Door Hallway,Personalized Composition Notebook Welcome Mat for Classroom Door Hallway,Personalized Classroom Welcome Doormat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Composition Notebook Mat for Classroom Door,NONE_OR_NOT_OBSERVED,Personalized Classroom Welcome Doormat,SET,38,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Create a friendly classroom entrance with a personalized composition notebook welcome mat featuring a teacher name for school doors hallways and entryways.,"Personalized classroom welcome doormat with teacher name, school doodles, rainbow accents, non slip backing and easy clean use.",SET,127,personalized classroom welcome doormat,"teacher name welcome mat, back to school doormat, classroom door mat","personalized classroom welcome doormat; teacher name welcome mat, back to school doormat, classroom door mat",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL,"Prioritize product-specific long tails: personalized classroom doormat, teacher name classroom mat, back to school welcome mat, pink flamingo area rug, tropical flamingo rug, flamingo couple rug, koi fish shaped rug and koi pond area rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,personalized classroom welcome doormat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports personalized classroom welcome doormat with apple pencil rainbow and backpack doodles and product-level buyer intent.,B051-501-BR01,"B051 buyers are teachers creating a welcoming classroom entry, tropical decor shoppers choosing bright flamingo floor art, and home decorators looking for a whimsical koi pond shaped rug. They care about personalization, readable artwork, size options, softness, anti slip backing and where the mat fits.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Create a warm and inviting entrance to your learning space with this custom classroom welcome mat. Featuring a charming composition notebook design, it serves as a personalized greeting that makes students feel right at home. It is an exceptional way to decorate classroom doors, school entryways, or hallways for the back-to-school season.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Customizable design allowing you to add a personalized teacher name.</li>
+<li>Composition notebook theme perfect for educational environments.</li>
+<li>Durable construction featuring a soft, comfortable fabric surface.</li>
+<li>Non-slip neoprene rubber backing helps keep the mat securely in place.</li>
+<li>Effectively traps dirt, dust, mud, and moisture from shoes.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor &amp; Outdoor</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Composition Notebook, School, Teacher</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Neoprene Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Shake off dirt, vacuum, hose down, or spot clean with mild soap and water. Air dry only.</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This versatile welcome mat is designed for busy school environments. It works beautifully as a classroom welcome mat, a front door mat, a hallway decoration, or a school entry rug in both indoor and outdoor spaces.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalized classroom welcome doormat with teacher name, school doodles, rainbow accents, non slip backing and easy clean use. Design details White classroom mat reads welcome to mrs. sophia's classroom with apple, pencil, flowers, backpack, rainbow and book icons. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalized classroom welcome doormat with teacher name, school doodles, rainbow accents, non slip backing and easy clean use.</p><h3>Design details</h3><ul><li>White classroom mat reads welcome to mrs. sophia's classroom with apple, pencil, flowers, backpack, rainbow and book icons.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B051-501,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/900badf8b2e7a0eb01f959a017c34b5d07f34b4222f28e590f5c7e6b0ac1072b.jpg?v=1784363342,,Main artwork shows Welcome to Mrs. Sophia's Classroom with school doodles.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/34b74fbb5c3b1fea09f0679d4ef7223cacab90e7bffee53fc3faa68da23fe31b.jpg?v=1784363348,,Mat shown on floor near a classroom-style entry.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/32c796b4f50f5349fdb586c3bee7bf613c3eb8570a6b6eee89f89cd88ac1e202.jpg?v=1784363353,,Feature image shows non skid rubber backing and easy clean notes.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f6858cb4d6000663ad1776eda27dfd29799eae66e77cafd5cec6ca9667a0b83a.jpg?v=1784363358,,Size doormat chart with three rectangular options.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1edbdd971ab6b252670da5a200d4e7668f549de33d0af23bea12bab5efbbed90.jpg?v=1784363365,,"Use-case grid for entrance, kitchen, bathroom and balcony.",SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/907c1976b738ac50f2cc9ee40ac4790c6144b3745b959a13faee7ba10583a967.jpg?v=1784363370,,Couple holding the personalized classroom mat for scale.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e43a45189a4a5abf3e3a79eac8bbb0e03df39593c7cb6bd540d0518484042ad6.jpg?v=1784363376,,Front door mockup shows classroom mat at entry with dog nearby.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B051,chillgen.com,custom-flamingo-welcome-mat-for-front-door-2096a15fdb,custom-flamingo-welcome-mat-for-front-door-2096a15fdb,15912104329585,gid://shopify/Product/15912104329585,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B051_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-flamingo-welcome-mat-for-front-door-2096a15fdb.html,2026-09-07T10:41:07+07:00,en-US,US,https://chillgen.com/products/custom-flamingo-welcome-mat-for-front-door-2096a15fdb,https://chillgen.com/products/custom-flamingo-welcome-mat-for-front-door-2096a15fdb,Rug,Watercolor Flamingo Area Rug with Soft Flannel Surface for Bedroom and Dorm,Watercolor Flamingo Area Rug with Soft Flannel Surface for Bedroom and Dorm,Flamingo Couple Area Rug with Sunset Beach Art,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Flamingo Area Rug with Soft Flannel Surface for Bedroom,NONE_OR_NOT_OBSERVED,Flamingo Couple Area Rug with Sunset Beach Art,SET,46,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Bring a watercolor flamingo design to your space with a soft flannel area rug and non slip backing for bedrooms dorm rooms hallways and home offices.,"Flamingo couple area rug with heart-shaped necks, sunset beach florals, memory foam cushion and non slip backing.",SET,113,flamingo couple area rug,"tropical flamingo rug, sunset beach rug, pink bird living room rug","flamingo couple area rug; tropical flamingo rug, sunset beach rug, pink bird living room rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Prioritize product-specific long tails: personalized classroom doormat, teacher name classroom mat, back to school welcome mat, pink flamingo area rug, tropical flamingo rug, flamingo couple rug, koi fish shaped rug and koi pond area rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,flamingo couple area rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports two flamingos forming a heart on a sunset beach floral area rug and product-level buyer intent.,B051-502-BR01,"B051 buyers are teachers creating a welcoming classroom entry, tropical decor shoppers choosing bright flamingo floor art, and home decorators looking for a whimsical koi pond shaped rug. They care about personalization, readable artwork, size options, softness, anti slip backing and where the mat fits.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This exquisite custom area rug features a unique 3D pink flamingo bird design with vibrant colors and clear, interesting patterns. Crafted to elevate your interior aesthetics, it serves as an ideal choice for home decoration, bringing a touch of tropical elegance to your living space. The soft, durable construction ensures both comfort and longevity underfoot.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Vibrant 3D pink flamingo design using advanced printing technology</li>
+<li>Soft flannel fabric with high-density space stretch cotton interlayer</li>
+<li>Non-slip dispensing bottom with durable non-woven fabric backing</li>
+<li>Reinforced serged edges to ensure long-lasting durability</li>
+<li>Low pile design that is easy to clean and maintain</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Pink Flamingo</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Watercolor Tropical Flamingo Couple</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polypropylene, Flannel, Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Non-woven Fabric with Dispensing Bottom</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Easy to clean, low pile ideal for common spills</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>Perfectly fits for the living room, bedroom, kid's room, entrance, mud room, laundry, kitchen, hallway, office, and dormitory. This versatile rug makes a meaningful and practical present for special occasions.</p>",Make product copy motif-specific while retaining verified public claims only.,"Flamingo couple area rug with heart-shaped necks, sunset beach florals, memory foam cushion and non slip backing. Design details Rectangular rug shows two flamingos forming a heart with beach sunset, hibiscus flowers and teal water. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Flamingo couple area rug with heart-shaped necks, sunset beach florals, memory foam cushion and non slip backing.</p><h3>Design details</h3><ul><li>Rectangular rug shows two flamingos forming a heart with beach sunset, hibiscus flowers and teal water.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B051-502,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0f76ebaf0f76939a7fc016e3e96be804c1ed65c423e8a852641faf9ef304d730.jpg?v=1784386434,,Main rug shows two flamingos forming a heart at sunset.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1e6ef03ec6c0562a7e7b3792960532a1a7e5f61d902076c9a4a2be9abcb5b56a.jpg?v=1784386435,,"Size chart lists small, medium and large rectangular options.",SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/37587b93d9d6fb423ae34afb0fe969719f28e0717d0b440bc1ff947c41b90083.jpg?v=1784386439,,Close-up highlights quick dry microfiber and memory foam cushion.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/89f3483635bf21bb17a6abc166e0ca87cc38f590ea5c8088dcfd6ea77675c417.jpg?v=1784386440,,Feature panel notes stain fade resistance and anti slip backing.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/437a5fb8704a4f520407cf487bf3a8f2df5314654e724778e3a9d6648244abf3.jpg?v=1784386444,,Living room mockup beside sofa and fireplace.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/741030a3853d67ea12e43fd0ccf5d8c58b0078373d4cf8e9b6296282730821c7.jpg?v=1784386445,,Bright interior scene with full flamingo couple design.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5565dbc3963b92536471a5305c21e0f6d79d169f976232563080fdcf03e563d7.jpg?v=1784386450,,Sofa-side placement showing rug scale.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/24dd115b3809e7e6faf0501fdfb62b3bba4c641ac33caf51dbc37a0abe19c87c.jpg?v=1784386450,,Cozy fireplace scene with person seated near rug.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B051,chillgen.com,personalized-classroom-doormat-custom-teacher-name-23d2140383,personalized-classroom-doormat-custom-teacher-name-23d2140383,15912104460657,gid://shopify/Product/15912104460657,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B051_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-custom-teacher-name-23d2140383.html,2026-09-07T10:41:07+07:00,en-US,US,https://chillgen.com/products/personalized-classroom-doormat-custom-teacher-name-23d2140383,https://chillgen.com/products/personalized-classroom-doormat-custom-teacher-name-23d2140383,Rug,Custom Back to School Notebook Mat with Teacher Name for Entryway,Custom Back to School Notebook Mat with Teacher Name for Entryway,Everyone Is Welcome Classroom Doormat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Back to School Notebook Mat with Teacher Name,NONE_OR_NOT_OBSERVED,Everyone Is Welcome Classroom Doormat,SET,37,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Welcome a new school year with a custom composition notebook mat featuring a teacher name for classroom doors, school entrances, and entryways.","Everyone Is Welcome classroom doormat with custom teacher name, colorful handprint design, non slip backing and school entry style.",SET,131,everyone is welcome classroom doormat,"custom teacher name mat, inclusive classroom rug, back to school welcome mat","everyone is welcome classroom doormat; custom teacher name mat, inclusive classroom rug, back to school welcome mat",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL,"Prioritize product-specific long tails: personalized classroom doormat, teacher name classroom mat, back to school welcome mat, pink flamingo area rug, tropical flamingo rug, flamingo couple rug, koi fish shaped rug and koi pond area rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,everyone is welcome classroom doormat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports everyone is welcome here classroom doormat with hands and teacher name and product-level buyer intent.,B051-503-BR01,"B051 buyers are teachers creating a welcoming classroom entry, tropical decor shoppers choosing bright flamingo floor art, and home decorators looking for a whimsical koi pond shaped rug. They care about personalization, readable artwork, size options, softness, anti slip backing and where the mat fits.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Welcome students back to school with this personalized classroom welcome mat designed to create a unique and inviting entrance. Featuring a creative composition notebook design, it allows you to customize the teacher's name for a truly personal touch. Built to withstand daily school life, it effectively traps dirt and moisture to keep your entryway clean.</p><h3>Product Highlights</h3><ul>
+<li>Customizable teacher name creates a personalized classroom entrance</li>
+<li>Durable fabric surface traps dirt, dust, mud, and moisture</li>
+<li>Non-slip neoprene rubber backing helps keep the mat securely in place</li>
+<li>Low pile memory foam construction provides soft, comfortable underfoot feel</li>
+<li>Versatile design suitable for both indoor and outdoor school spaces</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor &amp; Outdoor</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Neoprene Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Shake off dirt, vacuum, hose down, or spot clean with mild soap and water</td>
+</tr>
+<tr>
+<td>Drying</td>
+<td>Air dry only</td>
+</tr>
+</table><h3>Where It Works</h3><p>This customized welcome mat works perfectly at classroom entrances, school hallways, and front doors. It also makes a thoughtful and practical gift for teacher appreciation, back-to-school season, and classroom decorations.</p>",Make product copy motif-specific while retaining verified public claims only.,"Everyone Is Welcome classroom doormat with custom teacher name, colorful handprint design, non slip backing and school entry style. Design details Dark navy mat reads everyone is welcome here mrs. sophia with bright hands, books, apples and school icons. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Everyone Is Welcome classroom doormat with custom teacher name, colorful handprint design, non slip backing and school entry style.</p><h3>Design details</h3><ul><li>Dark navy mat reads everyone is welcome here mrs. sophia with bright hands, books, apples and school icons.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B051-503,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/00da7b616c9354e17d8a98bc3b02e8ab143f94bd7fc5372b0e8c6e824f51c0e4.jpg?v=1784363305,,Main design reads Everyone Is Welcome Here with teacher name.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7e4e545494fa973a507f5d337a4b267cae70eb4151458cf2d238da2043f5a012.jpg?v=1784363310,,Floor placement shows rectangular mat by a desk or entry.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b0c539d69c92bd4edff1ff44eeb6e037ca6d51902f91ad40fa2a5b27ed6cf3b1.jpg?v=1784363316,,Feature image shows personalized print and rubber backing detail.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fa23809d40e7b3cf6dd9c96e672dc6a77443230dfa7501102480a7d17210e4da.jpg?v=1784363321,,Size chart for doormat dimensions.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e98e4ee06f6bccca75211de50dca1fc0974cb283b27a142f2e87d58fba52d904.jpg?v=1784363326,,"Use-case grid shows entrance, kitchen, bathroom and balcony placements.",SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/41a59e23e6a80c82193bef02af4bc06ef19197b19af6f0125e485c37809f0af5.jpg?v=1784363332,,Couple holding mat shows printed scale.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0bd42670896f60cb50850342cd7796de9226249db1a180efb198c22dafc82844.jpg?v=1784363337,,Doorway mockup with dog and classroom mat.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B051,chillgen.com,custom-pink-flamingo-welcome-mat-98ad4e675e,custom-pink-flamingo-welcome-mat-98ad4e675e,15912104624497,gid://shopify/Product/15912104624497,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B051_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-welcome-mat-98ad4e675e.html,2026-09-07T10:41:07+07:00,en-US,US,https://chillgen.com/products/custom-pink-flamingo-welcome-mat-98ad4e675e,https://chillgen.com/products/custom-pink-flamingo-welcome-mat-98ad4e675e,Rug,Custom Flamingo Area Rug with Message and Washable Low Pile Surface for Entryway,Custom Flamingo Area Rug with Message and Washable Low Pile Surface for Entryway,Pink Flamingo Moonlight Area Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Flamingo Area Rug with Washable Low Pile Surface,NONE_OR_NOT_OBSERVED,Pink Flamingo Moonlight Area Rug,SET,32,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalize a watercolor flamingo area rug with a custom message. Its washable low pile surface and non slip backing suit entryways bedrooms and offices.,"Pink flamingo area rug with moonlit tropical water scene, memory foam cushion, quick dry surface and non slip backing.",SET,118,pink flamingo area rug,"moonlight flamingo rug, tropical bird rug, non slip memory foam rug","pink flamingo area rug; moonlight flamingo rug, tropical bird rug, non slip memory foam rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Prioritize product-specific long tails: personalized classroom doormat, teacher name classroom mat, back to school welcome mat, pink flamingo area rug, tropical flamingo rug, flamingo couple rug, koi fish shaped rug and koi pond area rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,pink flamingo area rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports pink flamingos under a full moon on a dark tropical water rug and product-level buyer intent.,B051-504-BR01,"B051 buyers are teachers creating a welcoming classroom entry, tropical decor shoppers choosing bright flamingo floor art, and home decorators looking for a whimsical koi pond shaped rug. They care about personalization, readable artwork, size options, softness, anti slip backing and where the mat fits.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This beautiful custom area rug features a unique 3D pink flamingo design that brings a vibrant tropical touch to your home decor. Crafted with high-quality materials, it offers both comfort and long-lasting durability, making it an ideal choice for various indoor spaces. The watercolor tropical flamingo couple design adds an artistic and fun animal pattern to your floors while serving as a functional protective layer.</p><h3>Product Highlights</h3><ul>
+<li>Exquisite 3D pink flamingo bird printing with vibrant colors and clear patterns.</li>
+<li>Supports custom options to match your personal home decoration needs.</li>
+<li>Soft to the touch with a comfortable feel and high-density space stretch cotton interlayer.</li>
+<li>Non-slip and durable bottom made of non-woven fabric and dispensing bottom.</li>
+<li>Easy to clean low pile surface with reinforced serged edges for long-lasting use.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug, Doormat, Bath Mat</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Watercolor Tropical Flamingo Couple, Animal Pattern</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Flamingo, Bird, Tropical</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern, Fun, Cute</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polypropylene, Flannel Fabric, Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Non-Woven Fabric with Dispensing Bottom</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Soft Flannel, High Density Space Stretch Cotton Interlayer</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Easy care, washable, easy to clean low pile surface</td>
+</tr>
+</table><h3>Where It Works</h3><p>Perfectly fits for the living room, bedroom, kid's room, entrance, mud room, laundry, kitchen, hallway, office, and dormitory. It also makes a meaningful and practical gift for housewarmings, holidays, or special occasions.</p>",Make product copy motif-specific while retaining verified public claims only.,"Pink flamingo area rug with moonlit tropical water scene, memory foam cushion, quick dry surface and non slip backing. Design details Bright pink flamingos stand in reflective water under a large moon with dark blue and purple tropical colors. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Pink flamingo area rug with moonlit tropical water scene, memory foam cushion, quick dry surface and non slip backing.</p><h3>Design details</h3><ul><li>Bright pink flamingos stand in reflective water under a large moon with dark blue and purple tropical colors.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B051-504,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/68d237b6c7d964211479259b164124dc7b285a64dd6b5bd0fefcd27a7800e543.jpg?v=1784386412,,Main image shows two pink flamingos in moonlit tropical water.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0eeba233fc1431bf858bab68e06bedcc7870d6cafd786951667aaf2d414660c4.jpg?v=1784386412,,Size chart displays three rectangular rug sizes.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/783d4509e7c59e2466cf2e7e1ed72c689db4fed97815e2c65f400dafd924f287.jpg?v=1784386417,,Material close-up notes microfiber surface and memory foam cushion.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f1dc202da746b068358c2991bd5091e9c35c87751b7f22cd7e0ba8057e3a46fd.jpg?v=1784386418,,Feature graphic shows anti slip backing and soft kid-friendly material.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cd42d43ae84c723d7978d0e968b96ed8e80a4e363d6ed707d2abb75b3aef00f2.jpg?v=1784386423,,Living room fireplace mockup with moonlight flamingo rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/75646713e9d4fdd3deebeaf1d43689732437fc6fbadf7707bacdee31f2881db6.jpg?v=1784386423,,Entry/living room scene shows rug against neutral decor.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/369646e00ac215e75a618b13077c8672bf6e649f3141ad343d81ce6f39a8c65d.jpg?v=1784386428,,Sofa-side mockup with full moon and flamingos visible.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4a71bbd4ca8fbb345bad655cd28178d9b6f3341e64be62d66cc68dfbeda22fbe.jpg?v=1784386428,,Cozy room scene with person seated near rug.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B051,chillgen.com,personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb,personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb,15912104657265,gid://shopify/Product/15912104657265,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B051_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb.html,2026-09-07T10:41:07+07:00,en-US,US,https://chillgen.com/products/personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb,https://chillgen.com/products/personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb,Rug,Personalized Composition Notebook Classroom Mat for School Entrance,Personalized Composition Notebook Classroom Mat for School Entrance,Personalized Classroom Affirmation Doormat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Notebook Classroom Mat for School Entrance,NONE_OR_NOT_OBSERVED,Personalized Classroom Affirmation Doormat,SET,42,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Add a personalized greeting to school spaces with a composition notebook classroom mat featuring a teacher name for classroom doors entrances and hallways.,"Personalized classroom affirmation doormat with teacher name, colorful crayon words, non slip backing and school entrance style.",SET,128,classroom affirmation doormat,"personalized teacher doormat, you are classroom mat, back to school door mat","classroom affirmation doormat; personalized teacher doormat, you are classroom mat, back to school door mat",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL,"Prioritize product-specific long tails: personalized classroom doormat, teacher name classroom mat, back to school welcome mat, pink flamingo area rug, tropical flamingo rug, flamingo couple rug, koi fish shaped rug and koi pond area rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,classroom affirmation doormat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports in this classroom you are affirmation doormat with crayons and teacher name and product-level buyer intent.,B051-505-BR01,"B051 buyers are teachers creating a welcoming classroom entry, tropical decor shoppers choosing bright flamingo floor art, and home decorators looking for a whimsical koi pond shaped rug. They care about personalization, readable artwork, size options, softness, anti slip backing and where the mat fits.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Welcome students back to school with this custom entrance decoration designed specifically for classrooms. Featuring a unique composition notebook design, this mat adds a personalized touch to any learning environment. It is the perfect way to greet visitors while helping to keep your school space clean and tidy.</p><h3>Product Highlights</h3><ul>
+<li>Customizable design allows you to add a teacher name for a personalized classroom welcome.</li>
+<li>Made with soft, comfortable fabric that feels great underfoot.</li>
+<li>Non-slip neoprene rubber backing helps keep the mat securely in place.</li>
+<li>Effective barrier designed to trap dirt, dust, mud, and moisture from shoes.</li>
+<li>Versatile construction makes it suitable for both indoor and outdoor school entrances.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor &amp; Outdoor</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Composition Notebook, Classroom, Back to School</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam / Fabric</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Neoprene Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Shake off dirt, vacuum, hose down, or spot clean with mild soap and water. Air dry only.</td>
+</tr>
+</table><h3>Where It Works</h3><p>This customized welcome mat is ideal for classroom entrances, preschools, kindergartens, elementary schools, and homeschool setups. It also functions beautifully in hallways, school entryways, or at the front door to welcome students and staff daily.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalized classroom affirmation doormat with teacher name, colorful crayon words, non slip backing and school entrance style. Design details White mat reads in this classroom you are mrs. sophia with colorful crayons carrying positive words. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalized classroom affirmation doormat with teacher name, colorful crayon words, non slip backing and school entrance style.</p><h3>Design details</h3><ul><li>White mat reads in this classroom you are mrs. sophia with colorful crayons carrying positive words.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B051-505,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/902ed7fca2556c1a9eab9ef8dec58be56d2ceb52e426100177372acf7523e61a.jpg?v=1784363267,,Main artwork says In This Classroom You Are Mrs. Sophia with crayon words.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/36cccf8e9c9a89fcd67104418502323a18d94962834735579d1ce1fd56c1bba0.jpg?v=1784363273,,Mat shown on wood floor near a classroom-style corner.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f18c1c1ad1bee7621d14ff87e590b55f60319e3f5dd92855889bcecf697ecd8b.jpg?v=1784363278,,Feature image shows backing and personalization details.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/42e8254a156fc435d0e676dc264d65290fdd6099600128a88cad7ced1163ab38.jpg?v=1784363284,,Size chart with three classroom doormat sizes.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a952744b45c5fa7ab22f9a260075e633beff0901e3f4edb9c33aae900015be98.jpg?v=1784363289,,Use-case grid shows entrance and indoor placements.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0b7895f9181f0d8773bc166d00ea9a758778fd1e665b81570ff350cd7779b518.jpg?v=1784363294,,Couple holding the personalized mat for scale.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5f92f077b06dc012f06e7a12f6141ce65e097edaa619623b57d9e3b40852d451.jpg?v=1784363300,,Doorway lifestyle image with the affirmation mat.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B051,chillgen.com,custom-classroom-welcome-mat-for-front-door-ca10b2ead1,custom-classroom-welcome-mat-for-front-door-ca10b2ead1,15912104690033,gid://shopify/Product/15912104690033,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B051_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-classroom-welcome-mat-for-front-door-ca10b2ead1.html,2026-09-07T10:41:07+07:00,en-US,US,https://chillgen.com/products/custom-classroom-welcome-mat-for-front-door-ca10b2ead1,https://chillgen.com/products/custom-classroom-welcome-mat-for-front-door-ca10b2ead1,Rug,Custom Composition Notebook Welcome Mat with Teacher Name for Classroom,Custom Composition Notebook Welcome Mat with Teacher Name for Classroom,Red Personalized Classroom Welcome Mat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Composition Notebook Welcome Mat for Classroom,NONE_OR_NOT_OBSERVED,Red Personalized Classroom Welcome Mat,SET,38,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Create an inviting classroom entry with a custom composition notebook welcome mat featuring a teacher name for school doors entryways and learning spaces.,"Red personalized classroom welcome mat with teacher name, flower and rainbow school doodles, non slip backing and easy clean use.",SET,129,red classroom welcome mat,"personalized teacher name mat, classroom front door mat, back to school doormat","red classroom welcome mat; personalized teacher name mat, classroom front door mat, back to school doormat",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL,"Prioritize product-specific long tails: personalized classroom doormat, teacher name classroom mat, back to school welcome mat, pink flamingo area rug, tropical flamingo rug, flamingo couple rug, koi fish shaped rug and koi pond area rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,red classroom welcome mat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports red personalized classroom welcome mat with flowers books rainbow and teacher name and product-level buyer intent.,B051-506-BR01,"B051 buyers are teachers creating a welcoming classroom entry, tropical decor shoppers choosing bright flamingo floor art, and home decorators looking for a whimsical koi pond shaped rug. They care about personalization, readable artwork, size options, softness, anti slip backing and where the mat fits.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Create a warm and inviting atmosphere for your students with this custom classroom welcome mat. Featuring a charming composition notebook design, this personalized entryway decoration is the perfect way to welcome everyone back to school. Designed for daily use in busy school environments, it combines functional performance with a touch of personalized style.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Customizable design lets you add any teacher name to create a personalized classroom entrance decoration.</li>
+<li>Soft and comfortable memory foam fabric surface provides a welcoming feel underfoot.</li>
+<li>Non-slip neoprene rubber backing helps keep the mat securely in place to maintain a clean and dry floor.</li>
+<li>Designed to effectively trap dirt, dust, mud, and moisture from incoming shoes.</li>
+<li>Durable construction is suitable for both indoor and outdoor school entryway spaces.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor &amp; Outdoor</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Classroom &amp; Teacher Welcome</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Composition Notebook Design</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam Fabric</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Neoprene Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Shake off dirt, vacuum, hose down, or spot clean with mild soap and water</td>
+</tr>
+<tr>
+<td>Drying</td>
+<td>Air dry only</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This versatile mat is ideal for classroom entrances, school hallways, front doors, and school entryways. It also serves as a thoughtful and practical gift for teacher appreciation, back-to-school season, or classroom holidays.</p>",Make product copy motif-specific while retaining verified public claims only.,"Red personalized classroom welcome mat with teacher name, flower and rainbow school doodles, non slip backing and easy clean use. Design details Red and black mat reads welcome to mrs. sophia's classroom with books, flowers, pencil, rainbow and backpack details. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Red personalized classroom welcome mat with teacher name, flower and rainbow school doodles, non slip backing and easy clean use.</p><h3>Design details</h3><ul><li>Red and black mat reads welcome to mrs. sophia's classroom with books, flowers, pencil, rainbow and backpack details.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B051-506,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/85859d88d49ca2dd22d7de390edc11d6654f9d08c081d6e1581fb3301bca2b17.jpg?v=1784363229,,Main red design reads Welcome To Mrs. Sophia's Classroom.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f71016a31835dc96492bb7922d867a6d64fb39dab1a316d3b3f27288fc53eb79.jpg?v=1784363234,,Mat staged on floor by a desk or entryway.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ee2f884db28e02e529b6bf2516091d60f09059e86738cfdf911f268ce94aa9f4.jpg?v=1784363240,,Feature image shows print detail and rubber backing.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/025c553a665b0157057f6f94bad4d59b373a4f77c1c7d598639e397fdeb0c7fb.jpg?v=1784363245,,Doormat size chart with three options.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/637e1dcf2f62037f4680a3976f49127f8ee4312590a4f1d65bf1e3321c84f536.jpg?v=1784363250,,"Use-case grid for entrance, kitchen, bathroom and balcony.",SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3729448d2032328a86f61737657c86faf6a463789e52a2be8bbdf0d14300b465.jpg?v=1784363256,,Couple holding red classroom mat for scale.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/de067855260d3be70ca56cfdd71b06354edc47f9782a3f7ffdb445a6de094c56.jpg?v=1784363262,,Doorway mockup with red classroom welcome mat.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B051,chillgen.com,personalized-classroom-doormat-custom-teacher-name-45bc0142b3,personalized-classroom-doormat-custom-teacher-name-45bc0142b3,15912104788337,gid://shopify/Product/15912104788337,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B051_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-custom-teacher-name-45bc0142b3.html,2026-09-07T10:41:07+07:00,en-US,US,https://chillgen.com/products/personalized-classroom-doormat-custom-teacher-name-45bc0142b3,https://chillgen.com/products/personalized-classroom-doormat-custom-teacher-name-45bc0142b3,Rug,Custom Composition Notebook Doormat with Teacher Name for Classroom,Custom Composition Notebook Doormat with Teacher Name for Classroom,Speech Pathologist Personalized Classroom Mat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Composition Notebook Classroom Doormat with Teacher Name,NONE_OR_NOT_OBSERVED,Speech Pathologist Personalized Classroom Mat,SET,45,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Welcome learners with a custom composition notebook doormat featuring a teacher name for classroom entrances school doors and busy educational spaces.,"Speech pathologist personalized classroom mat with teacher name, therapy icons, colorful school doodles and non slip backing.",SET,125,speech pathologist classroom mat,"personalized teacher name mat, speech therapy doormat, custom classroom rug","speech pathologist classroom mat; personalized teacher name mat, speech therapy doormat, custom classroom rug",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL,"Prioritize product-specific long tails: personalized classroom doormat, teacher name classroom mat, back to school welcome mat, pink flamingo area rug, tropical flamingo rug, flamingo couple rug, koi fish shaped rug and koi pond area rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,speech pathologist classroom mat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports personalized speech pathologist classroom mat with therapy icons and teacher name and product-level buyer intent.,B051-507-BR01,"B051 buyers are teachers creating a welcoming classroom entry, tropical decor shoppers choosing bright flamingo floor art, and home decorators looking for a whimsical koi pond shaped rug. They care about personalization, readable artwork, size options, softness, anti slip backing and where the mat fits.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Welcome students back to school with this personalized classroom doormat designed specifically for educators. Featuring a charming composition notebook theme, this custom welcome mat provides a warm and inviting entrance for any classroom. It serves as both a delightful decorative piece and a highly functional addition to help keep school floors clean and tidy.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Customizable welcome mat allowing teachers to add their name for a unique classroom touch.</li>
+<li>Designed to effectively trap dirt, dust, mud, and moisture from shoes at the door.</li>
+<li>Features a reliable non-slip backing to ensure stability in busy school environments.</li>
+<li>Low pile construction with soft, comfortable fabric suitable for high-traffic entryways.</li>
+<li>Highly versatile and suitable for both indoor and outdoor school entrances.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor Outdoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom, Hallway, School Entry</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Composition Notebook</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam and soft fabric</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Neoprene rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Shake off dirt, vacuum, hose down, or spot clean with mild soap and water. Air dry only.</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This customized welcome mat works beautifully at classroom entrances, school hallways, and front doors. It also makes an exceptional and thoughtful gift for preschool, kindergarten, elementary, or homeschool teachers during Back to School, Teacher Appreciation, or holidays.</p>",Make product copy motif-specific while retaining verified public claims only.,"Speech pathologist personalized classroom mat with teacher name, therapy icons, colorful school doodles and non slip backing. Design details Mat reads speech mrs. sophia pathologist with language, voice, hearing and therapy-related classroom icons. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Speech pathologist personalized classroom mat with teacher name, therapy icons, colorful school doodles and non slip backing.</p><h3>Design details</h3><ul><li>Mat reads speech mrs. sophia pathologist with language, voice, hearing and therapy-related classroom icons.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B051-507,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/43c72fc2a7d76b33a43b69787bd42b5ee374e99b29241695dfa2d63ea8fb8253.jpg?v=1784363191,,Main image reads Speech Mrs. Sophia Pathologist with therapy icons.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fd736b0b8511368f6a5f1f042b85de944f4ea083bc250f0763496912d80274f6.jpg?v=1784363196,,Floor placement shows the mat near an entry or classroom corner.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1091b9b73ae5f011816adac78ebb498d564138026ef847d1fb30eab27876feb9.jpg?v=1784363201,,Couple holding speech pathologist mat for scale.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6dfad08393760296faef72ca0d294ba2b05cb8568a2ee20781fefd70b5116c03.jpg?v=1784363207,,Feature image shows backing and custom print details.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/462e25f581f1a950847720b11c5c761b0337f63b8d837127cd69dc6fff9fcf6f.jpg?v=1784363212,,Size chart for speech pathologist doormat options.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8e1678a73de7af01e5c71a1f254a17193fa12282a5ede297b46b9fefa94ab0ee.jpg?v=1784363218,,"Use-case grid includes entrance, kitchen, bathroom and balcony.",SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/83ef276c06779d6564cb99ec78c75544954618615e23d97ec57d1d66914c0025.jpg?v=1784363223,,Doorway scene shows mat at front entrance with dog.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B051,chillgen.com,custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca,custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca,15912104853873,gid://shopify/Product/15912104853873,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B051_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca.html,2026-09-07T10:41:07+07:00,en-US,US,https://chillgen.com/products/custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca,https://chillgen.com/products/custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca,Rug,Flamingo Couple Area Rug with Memory Foam Comfort for Living Room Decor,Flamingo Couple Area Rug with Memory Foam Comfort for Living Room Decor,Flamingo Heart Sunset Area Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Flamingo Couple Area Rug with Soft Memory Foam Comfort,NONE_OR_NOT_OBSERVED,Flamingo Heart Sunset Area Rug,SET,30,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Decorate your home with a flamingo couple area rug featuring soft flannel memory foam comfort and non slip backing for living rooms bedrooms and hallways.,"Flamingo heart sunset area rug with two pink birds, tropical water colors, memory foam cushion and non slip backing.",SET,116,flamingo heart area rug,"pink flamingo sunset rug, tropical bird rug, living room flamingo rug","flamingo heart area rug; pink flamingo sunset rug, tropical bird rug, living room flamingo rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Prioritize product-specific long tails: personalized classroom doormat, teacher name classroom mat, back to school welcome mat, pink flamingo area rug, tropical flamingo rug, flamingo couple rug, koi fish shaped rug and koi pond area rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,flamingo heart area rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports two pink flamingos forming a heart at bright tropical sunset rug and product-level buyer intent.,B051-508-BR01,"B051 buyers are teachers creating a welcoming classroom entry, tropical decor shoppers choosing bright flamingo floor art, and home decorators looking for a whimsical koi pond shaped rug. They care about personalization, readable artwork, size options, softness, anti slip backing and where the mat fits.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Add a vibrant touch of the tropics to your home with this unique pink flamingo area rug. Featuring high-quality 3D printing technology, this eye-catching piece showcases bright colors and clear patterns that make it an ideal choice for home decoration. Perfect for enhancing the style of any room, it serves as both a beautiful accent and a functional floor covering.</p><h3>Product Highlights</h3><ul>
+<li>Exquisite pink flamingo design created with advanced 3D printing technology</li>
+<li>Soft flannel fabric construction with a comfortable high-density stretch cotton interlayer</li>
+<li>Non-slip and durable bottom made with non-woven fabric and dispensing design</li>
+<li>Low pile surface with reinforced serged edges for long-lasting use</li>
+<li>Washable and easy to clean, making it ideal for high-traffic areas</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Cute Animal Flamingo Pattern</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Watercolor Tropical Flamingo</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Polypropylene, Flannel, Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Non-woven Fabric with Dispensing Bottom</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Easy to clean, low pile design suitable for washing</td>
+</tr>
+</table><h3>Where It Works</h3><p>This versatile rug fits perfectly into a variety of spaces, including the living room, bedroom, kids\' room, and kitchen. It also works beautifully in entrances, hallways, offices, and dormitories, adding a splash of tropical warmth wherever it is placed.</p>",Make product copy motif-specific while retaining verified public claims only.,"Flamingo heart sunset area rug with two pink birds, tropical water colors, memory foam cushion and non slip backing. Design details Two flamingos create a heart shape against a bright orange and turquoise sunset water scene. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Flamingo heart sunset area rug with two pink birds, tropical water colors, memory foam cushion and non slip backing.</p><h3>Design details</h3><ul><li>Two flamingos create a heart shape against a bright orange and turquoise sunset water scene.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B051-508,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d65af1d63ade1d686d2d43ce67a03583c401d704c81b4d177a722d4f373c05b9.jpg?v=1784386390,,Main image shows two flamingos forming a heart at sunset.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/25a7849ee2b57e418ac32c41e6b66fc80adb336b390e5613769c207e8934396a.jpg?v=1784386390,,Size chart shows three area rug sizes.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/38d5026d2b08afb997b1ed9313a4c60c3355f49fa45a81b553db4389ce1f3b92.jpg?v=1784386396,,Close-up callout notes quick dry microfiber and memory foam cushion.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d8ec1ba8ec9fd0dff241bc65a408c3e3dafc81322dd86e94a2409733ac7797dd.jpg?v=1784386396,,Feature panel highlights stain fade resistance and anti slip backing.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0a582c7f102bd55684121ea502cbd0410fbd1863083449bbd8b9069576a0abec.jpg?v=1784386401,,Living room mockup beside sofa and fireplace.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fdcad5c560e69a0bf27a37e9a004730a11aff94863c7b32f2df54007a19774bc.jpg?v=1784386401,,Neutral room scene with bright flamingo rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4629d25bce81a1232c80ac6b37e0a1ff0ab462f1e6bac71b9a901b640d252be4.jpg?v=1784386407,,Sofa-side mockup with sunset flamingo design.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4187a5bdf4e5501b3302085c968a020f712e94e9d1273fc194414682b374f9b8.jpg?v=1784386407,,Cozy fireplace image with person seated near rug.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B051,chillgen.com,custom-pink-flamingo-area-rug-doormat-e7ac68e9c9,custom-pink-flamingo-area-rug-doormat-e7ac68e9c9,15912105083249,gid://shopify/Product/15912105083249,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B051_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-area-rug-doormat-e7ac68e9c9.html,2026-09-07T10:41:07+07:00,en-US,US,https://chillgen.com/products/custom-pink-flamingo-area-rug-doormat-e7ac68e9c9,https://chillgen.com/products/custom-pink-flamingo-area-rug-doormat-e7ac68e9c9,Rug,Tropical Flamingo Floor Rug with Reinforced Edges for Kids Room and Office,Tropical Flamingo Floor Rug with Reinforced Edges for Kids Room and Office,Pastel Pink Flamingo Tropical Area Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Tropical Flamingo Floor Rug with Durable Reinforced Edges,NONE_OR_NOT_OBSERVED,Pastel Pink Flamingo Tropical Area Rug,SET,38,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Add a tropical flamingo floor rug with a soft low pile surface reinforced edges and non slip backing to kids rooms offices kitchens or busy entryways.,"Pastel pink flamingo tropical area rug with palm leaves, sunset water colors, memory foam cushion and non slip backing.",SET,119,pastel pink flamingo rug,"tropical flamingo area rug, palm leaf bird rug, washable non slip rug","pastel pink flamingo rug; tropical flamingo area rug, palm leaf bird rug, washable non slip rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Prioritize product-specific long tails: personalized classroom doormat, teacher name classroom mat, back to school welcome mat, pink flamingo area rug, tropical flamingo rug, flamingo couple rug, koi fish shaped rug and koi pond area rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,pastel pink flamingo rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports single pink flamingo standing in pastel tropical water area rug and product-level buyer intent.,B051-509-BR01,"B051 buyers are teachers creating a welcoming classroom entry, tropical decor shoppers choosing bright flamingo floor art, and home decorators looking for a whimsical koi pond shaped rug. They care about personalization, readable artwork, size options, softness, anti slip backing and where the mat fits.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Brighten your home with this beautiful watercolor-style flamingo rug. Featuring a vibrant 3D pink flamingo design, this versatile mat adds a touch of tropical charm and cheerful color to any space. It is designed to offer a soft, comfortable feel underfoot while remaining durable enough for everyday use. Ideal for busy households, this low-pile rug is easy to clean and maintains its vibrant appearance over time.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Vibrant 3D pink flamingo printing technology creates a unique and exquisite tropical design.</li>
+<li>Soft flannel fabric construction with a high-density space stretch cotton interlayer for a comfortable touch.</li>
+<li>Non-slip and durable bottom made of non-woven fabric and dispensing bottom.</li>
+<li>Easy-to-clean low pile design with reinforced serged edges for long-lasting durability.</li>
+<li>Versatile design that serves as an ideal decorative accent or a practical, thoughtful gift.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Flamingo, Animal Pattern</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Tropical, Flamingo</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Flannel Fabric, Polypropylene, Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Non-woven Fabric with Dispensing Bottom</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Easy to clean, low pile makes it simple to wash and sweep</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This charming rug is a perfect fit for your living room, bedroom, entryway, kitchen, hallway, laundry room, or office. It also makes an excellent choice for high-traffic areas where spills and sticky fingers are common, such as dining areas and kids' rooms.</p>",Make product copy motif-specific while retaining verified public claims only.,"Pastel pink flamingo tropical area rug with palm leaves, sunset water colors, memory foam cushion and non slip backing. Design details Single flamingo stands in pink and orange tropical water with palm leaves and soft pastel background. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Pastel pink flamingo tropical area rug with palm leaves, sunset water colors, memory foam cushion and non slip backing.</p><h3>Design details</h3><ul><li>Single flamingo stands in pink and orange tropical water with palm leaves and soft pastel background.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B051-509,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/04276ba556a641246fde2ae258194ddb3b06d6bbf305b8241764475c65891c9f.jpg?v=1784386369,,Main rug shows one pink flamingo in pastel tropical water.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4f47feab106f772792a5c1400d01eeb70065d3e0736ed71ff6cb7be530d9569b.jpg?v=1784386368,,"Size chart lists small, medium and large rug sizes.",SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5e80b457040ff65d6a4d9ce10e9de7f2f26054111361f2a2b4a3a0d415f4ed73.jpg?v=1784386374,,Close-up highlights quick dry microfiber and memory foam cushion.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/21666ec798b0e657dc4a38e2c4517d6f1875d5cd6df3186ef966e4dccfebd173.jpg?v=1784386374,,Feature panel shows anti slip backing and soft material notes.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/097475a8d448e6d740e35b8a8747467f1edf6ba236244f76f161290efb0fdbb1.jpg?v=1784386379,,Living room fireplace mockup with pastel flamingo rug.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2dfc2e71abcaf52c1dd3f76dd5693d77d55c5a80b48cdbc756d3b92a5e2bd88c.jpg?v=1784386380,,Bright room scene shows full rectangular rug placement.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2420b45c62e5e7b8aa2d85bb8713f3353c950babd961a6f9d8f22ff6a007fcdd.jpg?v=1784386385,,Sofa-side lifestyle image with palm leaf corners.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6f69a93118c5f071b0697d3c3cfc65cf5d2b9052522f8ed45925ea53015c4959.jpg?v=1784386386,,Cozy room image with person sitting beside rug.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B051,chillgen.com,custom-koi-fish-shaped-area-rug-3b4acfcd3b,custom-koi-fish-shaped-area-rug-3b4acfcd3b,15912113373553,gid://shopify/Product/15912113373553,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B051_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-koi-fish-shaped-area-rug-3b4acfcd3b.html,2026-09-07T10:41:07+07:00,en-US,US,https://chillgen.com/products/custom-koi-fish-shaped-area-rug-3b4acfcd3b,https://chillgen.com/products/custom-koi-fish-shaped-area-rug-3b4acfcd3b,Rug,Custom Koi Fish Shaped Area Rug with 3D Pond Design for Living Room,Custom Koi Fish Shaped Area Rug with 3D Pond Design for Living Room,Koi Fish Shaped Area Rug with Pond Design,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Koi Fish Shaped Area Rug with 3D Pond Design,NONE_OR_NOT_OBSERVED,Koi Fish Shaped Area Rug with Pond Design,SET,41,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Bring a peaceful koi pond look indoors with a custom shaped area rug featuring 3D koi fish lotus leaves stones and non slip backing for living rooms.,"Koi fish shaped area rug with pink pond design, lily pad details, soft velvet surface, anti slip backing and living room decor.",SET,127,koi fish shaped area rug,"koi pond rug, Japanese garden floor mat, irregular shaped rug","koi fish shaped area rug; koi pond rug, Japanese garden floor mat, irregular shaped rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Prioritize product-specific long tails: personalized classroom doormat, teacher name classroom mat, back to school welcome mat, pink flamingo area rug, tropical flamingo rug, flamingo couple rug, koi fish shaped rug and koi pond area rug.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,koi fish shaped area rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports irregular koi pond shaped area rug with pink water and green lily pad islands and product-level buyer intent.,B051-510-BR01,"B051 buyers are teachers creating a welcoming classroom entry, tropical decor shoppers choosing bright flamingo floor art, and home decorators looking for a whimsical koi pond shaped rug. They care about personalization, readable artwork, size options, softness, anti slip backing and where the mat fits.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Bring a peaceful koi pond look into your indoor space with this uniquely shaped area rug. Featuring realistic 3D koi fish, lotus leaves, stones, and nature-inspired artwork, this rug adds a calm Zen aesthetic to your home. Designed to lie flat shortly after placement, it provides a distinctive visual focal point while offering a soft, comfortable feel underfoot.</p><h3>Product Highlights</h3><ul>
+<li>Features a realistic 3D koi pond design with lotus leaves, stones, and nature-inspired artwork.</li>
+<li>Offers a personalized touch with custom shape options to suit your interior style.</li>
+<li>Provides a soft, comfortable touch with a suede-like upper layer.</li>
+<li>Equipped with a non-slip backing to ensure stable indoor use on various floor surfaces.</li>
+<li>Highly durable construction with reinforced serged edges and stain-resistant properties.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Custom Shape</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bedroom, Dining Room, Entryway, Guest Room, Living Room</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip, Stain Resistant</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Koi Fish</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Modern</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polypropylene</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Polyester, Non-slip Bottom</td>
+</tr>
+<tr>
+<td>Surface Feel</td>
+<td>Soft suede-like upper layer</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Easy to clean, low pile makes maintenance simple</td>
+</tr>
+</table><h3>Where It Works</h3><p>This nature-themed accent piece works beautifully in bedrooms, living rooms, and cozy reading corners. It is also an excellent fit for entryways, meditation spaces, and Japanese-style home decor arrangements.</p>",Make product copy motif-specific while retaining verified public claims only.,"Koi fish shaped area rug with pink pond design, lily pad details, soft velvet surface, anti slip backing and living room decor. Design details Irregular shaped rug resembles a koi pond with pink water paths, green islands, koi fish and flowers. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Koi fish shaped area rug with pink pond design, lily pad details, soft velvet surface, anti slip backing and living room decor.</p><h3>Design details</h3><ul><li>Irregular shaped rug resembles a koi pond with pink water paths, green islands, koi fish and flowers.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B051-510,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d6eea86d33b9de400e245c1c7f9554ff442b6d0efc4aedbcff634b2f51c6f67c.jpg?v=1784386270,,Main room image shows irregular koi pond rug on dark wood floor.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e55268b9a21cff38a52544c26a6a2b05c246ac17ee8d7b2ad7db1a2cc564483b.jpg?v=1784386275,,Living room mockup with koi fish shaped rug near sofa.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/27cb8d44589c410a267ca1eb72b737663223cc19f0db81ce17e2309f4031d601.jpg?v=1784386275,,"Clean product image shows pink pond, green islands and koi fish.",SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6179d47514820981f5830eb0dd62b61ee895da5e591b0675af00b55b869693ea.jpg?v=1784386280,,Angled room view shows the custom shape and border.,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b4cb340ccfbb1950bb03e38af8b87784b4e2ae30d488b2cfbe17f74164589274.jpg?v=1784386280,,"Feature graphic calls out custom shape, ultra soft velvet and anti slip backing.",SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/98e04b8003dc0f3b86e26f606d4ca4ce3a5059909e9c4f65736516354c342802.jpg?v=1784386286,,"Layer diagram shows upper, middle and bottom material levels.",SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/890e812bb914f8beaa31b986d2c98509ad5b6217ba79334f03f57b9c168b9615.jpg?v=1784386286,,Size chart shows several shape sizes and front/back detail.,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

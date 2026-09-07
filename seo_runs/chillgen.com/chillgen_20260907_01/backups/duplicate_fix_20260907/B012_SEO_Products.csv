@@ -1,0 +1,822 @@
+schema_version,prompt_version,run_id,batch_id,shop_domain,product_key,Handle,product_id,product_gid,identity_status,source_export_ref,source_exported_at,locale,market,url,canonical_url,product_type,title_current,h1_current,title_proposed,title_action,h1_mapping_status,meta_title_current,meta_title_source_state,rendered_title_current,theme_title_suffix,meta_title_seo,meta_title_action,meta_title_chars,meta_description_current,meta_description_source_state,rendered_meta_description_current,meta_description_seo,meta_description_action,meta_description_chars,primary_keyword,secondary_keywords,long_tail_candidates,keyword_strategy,season,keyword_demand_evidence,keyword_serp_fit,meta_keyword,search_intent,keyword_validation_status,keyword_selection_reason,buyer_research_refs,buyer_search_summary,baseline_status,change_scope,mapping_status,mapping_version,description_current_html,description_changes_needed,description_proposed,description_proposed_html,description_change_mode,description_target_section,description_action,revision,review_status,review_reason,approved_by,approved_at,approved_fields,approved_revision,processing_status,evidence_status,content_qa_status,field_evidence_map,evidence_id,issues,img_1_link,img_1_alt_current,img_1_alt,img_1_alt_action,img_2_link,img_2_alt_current,img_2_alt,img_2_alt_action,img_3_link,img_3_alt_current,img_3_alt,img_3_alt_action,img_4_link,img_4_alt_current,img_4_alt,img_4_alt_action,img_5_link,img_5_alt_current,img_5_alt,img_5_alt_action,img_6_link,img_6_alt_current,img_6_alt,img_6_alt_action,img_7_link,img_7_alt_current,img_7_alt,img_7_alt_action,img_8_link,img_8_alt_current,img_8_alt,img_8_alt_action,img_9_link,img_9_alt_current,img_9_alt,img_9_alt_action,img_10_link,img_10_alt_current,img_10_alt,img_10_alt_action,img_11_link,img_11_alt_current,img_11_alt,img_11_alt_action,img_12_link,img_12_alt_current,img_12_alt,img_12_alt_action,img_13_link,img_13_alt_current,img_13_alt,img_13_alt_action,img_14_link,img_14_alt_current,img_14_alt,img_14_alt_action,img_15_link,img_15_alt_current,img_15_alt,img_15_alt_action,img_16_link,img_16_alt_current,img_16_alt,img_16_alt_action,img_17_link,img_17_alt_current,img_17_alt,img_17_alt_action,img_18_link,img_18_alt_current,img_18_alt,img_18_alt_action,img_19_link,img_19_alt_current,img_19_alt,img_19_alt_action
+2.4,2.4,chillgen_20260907_01,B012,chillgen.com,personalized-teacher-classroom-rug-custom-back-to-school-design-109,personalized-teacher-classroom-rug-custom-back-to-school-design-109,15969303363953,gid://shopify/Product/15969303363953,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B012_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B012_pages/personalized-teacher-classroom-rug-custom-back-to-school-design-109.html,2026-09-07T02:37:51+07:00,en-US,US,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-109,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-109,Rug,"Personalized Teacher Classroom Rug, Custom Back to School - Design 109","Personalized Teacher Classroom Rug, Custom Back to School - Design 109",Pastel Teacher Welcome Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized Teacher Classroom Rug, Custom – - Design 109",NONE_OR_NOT_OBSERVED,Pastel Teacher Welcome Rug,SET,26,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"This Back to School style area rug, made of Sponge - Memory Foam, is low-pile, washable, and perfect for classrooms.","Customize a pastel teacher welcome rug with classroom-name text, yellow stripes, bows, rainbow, ABC blocks, pencil art and thickened edge visuals.",SET,146,pastel teacher welcome rug,"personalized classroom welcome rug, custom teacher name rug, back to school classroom mat","pastel teacher welcome rug; personalized classroom welcome rug, custom teacher name rug, back to school classroom mat",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL_EVERGREEN,"SERP_ONLY: public marketplace/category and education-resource pages show demand language around personalized back-to-school classroom rugs, AAC/core vocabulary communication boards, SPED classroom rugs, and feelings/emotion wheel classroom tools. No paid keyword volume, Search Console, or direct customer query data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,pastel teacher welcome rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports pastel teacher classroom welcome rug and product-level buyer intent.,B012-111-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: teachers, SPED staff, therapists, counselors, and parents want classroom rugs that combine decor with visible welcome, communication, regulation, or feelings-identification prompts.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This area rug offers a warm and inviting touch to any classroom space, featuring a personalized design that can include a teacher's name or a custom welcome text. Its vibrant, school-inspired theme creates an engaging and cheerful environment for learning. Designed for comfort and durability, this rug is a practical addition to educational settings.</p><h3>Product Highlights</h3><ul>
+<li>Personalized with teacher's name or custom welcome text</li>
+<li>Bright classroom design with school-inspired details</li>
+<li>Soft and comfortable feel for various activities</li>
+<li>Durable construction for everyday use</li>
+<li>Low-pile for easy maintenance</li>
+<li>Versatile for classrooms, reading corners, and play areas</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form Type</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Water Resistance Level</td>
+<td>Not Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Checkered</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Alphabet</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>Back to School</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Product Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Vacuum regularly or spot clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This personalized classroom rug is ideal for creating a welcoming atmosphere in educational environments such as classrooms, preschools, daycares, and elementary rooms. It also fits well in reading corners, activity areas, and playrooms, adding a cheerful and organized touch.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a pastel teacher welcome rug with classroom-name text, yellow stripes, bows, rainbow, ABC blocks, pencil art and thickened edge visuals. Design details Pastel yellow and pink classroom rug with welcome to teacher-name classroom wording, bows, rainbow, sun, abc blocks, pencil, clouds, smiley faces and flowers, shown in classroom/playroom scenes with teacher and children plus thickened rug and bound edge graphics. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Customize a pastel teacher welcome rug with classroom-name text, yellow stripes, bows, rainbow, ABC blocks, pencil art and thickened edge visuals.</p><h3>Design details</h3><ul><li>Pastel yellow and pink classroom rug with welcome to teacher-name classroom wording, bows, rainbow, sun, abc blocks, pencil, clouds, smiley faces and flowers, shown in classroom/playroom scenes with teacher and children plus thickened rug and bound edge graphics.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B012-111,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/63491d43a1fc4ed8081696e2b5986dfe3939268d02ac4999c50643e058469784.jpg?v=1786646536,,pastel teacher welcome rug in classroom mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fd6d19b144499447f6b665b9e280cf3e77dd20626d3900e364aba6fdbcf9995d.jpg?v=1786646536,,custom teacher-name pastel welcome rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c7c7adcfd1b33e7910259cf3ef245607cc47996aa1deded0c23409df825a4f68.jpg?v=1786646536,,overhead view of pastel classroom welcome rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/33f7ff4863f845f1f350c850b972d13aedd07e04d4f2e5d32265e216373bceed.jpg?v=1786646536,,pastel back-to-school rug in playroom scene,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/106ee8305f5fb7793dce181ca453b47bd2725ec50fbfd312f70ea6be7a2bb441.jpg?v=1786646536,,front product image of pastel teacher welcome rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9e1882c0219a665d4e663402da0b6121421e678de5b824c1f64cea9d77f85ac4.jpg?v=1786646537,,teacher and children on pastel classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1708fc114ee9439666420243f3e51bf9fbc7f5c0cd04e5b89a2e14ba16857cd1.jpg?v=1786646536,,teacher reading with children on pastel welcome rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/dd0e5c8616e02fe8d4c4dc6c0ba252f6599ac1d1445dbc08ea7437029b09ba63.jpg?v=1786646536,,thickened bound edge graphic for pastel teacher rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B012,chillgen.com,personalized-teacher-classroom-rug-custom-back-to-school-design-110,personalized-teacher-classroom-rug-custom-back-to-school-design-110,15969303495025,gid://shopify/Product/15969303495025,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B012_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B012_pages/personalized-teacher-classroom-rug-custom-back-to-school-design-110.html,2026-09-07T02:37:51+07:00,en-US,US,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-110,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-110,Rug,"Personalized Teacher Classroom Rug, Custom Back to School - Design 110","Personalized Teacher Classroom Rug, Custom Back to School - Design 110",School Icons Teacher Welcome Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized Teacher Classroom Rug, Custom – - Design 110",NONE_OR_NOT_OBSERVED,School Icons Teacher Welcome Rug,SET,32,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Back to School style classroom rug with low pile construction for indoor use in classrooms and playrooms.,"Customize a teacher classroom welcome rug with name text, school bus, books, globe, scissors, ABC blocks, size chart, washable and backing visuals.",SET,147,school icons teacher welcome rug,"personalized teacher classroom rug, back to school welcome mat, custom classroom rug","school icons teacher welcome rug; personalized teacher classroom rug, back to school welcome mat, custom classroom rug",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL_EVERGREEN,"SERP_ONLY: public marketplace/category and education-resource pages show demand language around personalized back-to-school classroom rugs, AAC/core vocabulary communication boards, SPED classroom rugs, and feelings/emotion wheel classroom tools. No paid keyword volume, Search Console, or direct customer query data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,school icons teacher welcome rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports school icons teacher welcome rug and product-level buyer intent.,B012-112-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: teachers, SPED staff, therapists, counselors, and parents want classroom rugs that combine decor with visible welcome, communication, regulation, or feelings-identification prompts.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This personalized classroom rug offers a warm and welcoming touch to any learning environment. Featuring a custom back-to-school design with colorful school-inspired details, this rug is ideal for creating an engaging and cheerful space. Its thoughtful design makes it a special addition for teachers looking to enhance their classroom's ambiance and organization.</p><h3>Product Highlights</h3><ul>
+<li>Customizable with a teacher name, classroom name, or welcome text</li>
+<li>Bright design with colorful school-inspired details like crayons, notebooks, and apples</li>
+<li>Soft and durable construction for comfortable everyday use</li>
+<li>Designed to be durable, tear-resistant, and easy to place</li>
+<li>Low-pile construction simplifies cleaning and maintenance</li>
+<li>Reinforced serged edges enhance durability for long-lasting use</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form Type</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Other Special Features of the Product</td>
+<td>Washable</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Checkered</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Alphabet</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>Back to School</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Product Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table><h3>Where It Works</h3><p>This rug is suitable for various learning spaces, including classrooms, reading corners, activity areas, and welcome setups. It can also enhance the decor of bedrooms, living rooms, playrooms, daycares, preschools, and elementary rooms.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a teacher classroom welcome rug with name text, school bus, books, globe, scissors, ABC blocks, size chart, washable and backing visuals. Design details Black classroom rug with large white label reading welcome to teacher-name classroom, surrounded by school bus, books, globe, scissors, abc blocks, smiley faces, stars, hearts and colorful school supplies, shown with classroom mockups, size chart, machine-washable graphic and non-slip backing detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Customize a teacher classroom welcome rug with name text, school bus, books, globe, scissors, ABC blocks, size chart, washable and backing visuals.</p><h3>Design details</h3><ul><li>Black classroom rug with large white label reading welcome to teacher-name classroom, surrounded by school bus, books, globe, scissors, abc blocks, smiley faces, stars, hearts and colorful school supplies, shown with classroom mockups, size chart, machine-washable graphic and non-slip backing detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B012-112,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0f612e9feaafb1b58f2f6106d0691495cc16aea9a0e1b537f947d7c087ae5df3.jpg?v=1786646561,,school icons teacher welcome rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8e5d7c7aa7f09784c676f255bc585f74aeb7acad283bb0d3b6517e681957f1f0.jpg?v=1786646561,,size chart for school icons classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/60d29630044fed38f715fc1c9549b3bf596ae0d873aa4a61851f97f925486153.jpg?v=1786646561,,close angled view of teacher welcome rug with school icons,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/95ebe7d0b9d2d9f8854136f695856c88b6ad95ec89de74f6637295b6f58514d7.jpg?v=1786646562,,custom classroom welcome rug in home classroom scene,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/488433184960665c85e954d61ee484b69308c449d6247465465c3ebf3fc30205.jpg?v=1786646561,,teacher with students on school icons welcome rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c3637508d9451c6e8717c19fef2c88612d5413fa490dfc6fc8133fd20089650c.jpg?v=1786646561,,large classroom mockup of school icons teacher rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/58c71749a3403f50e4c43a438eb2a1e90ee3173f8d22f6edafe326c7c59a8504.jpg?v=1786646561,,teacher-name welcome rug beside desks,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8c533e2f4fd56df27948721f540bc4131eafc94d91a898bd9955f2399d9d3217.jpg?v=1786646561,,machine washable vacuum cleaner graphic for classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f645858320d8feda5f3f588fcb76405433833b011b25c14c3d5f07ab63e2dc82.jpg?v=1786646561,,material and backing detail for school icons welcome rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B012,chillgen.com,personalized-teacher-classroom-rug-custom-back-to-school-design-111,personalized-teacher-classroom-rug-custom-back-to-school-design-111,15969303527793,gid://shopify/Product/15969303527793,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B012_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B012_pages/personalized-teacher-classroom-rug-custom-back-to-school-design-111.html,2026-09-07T02:37:51+07:00,en-US,US,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-111,https://chillgen.com/products/personalized-teacher-classroom-rug-custom-back-to-school-design-111,Rug,"Personalized Teacher Classroom Rug, Custom Back to School - Design 111","Personalized Teacher Classroom Rug, Custom Back to School - Design 111",Affirmation Rainbow Classroom Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized Teacher Classroom Rug, Custom – - Design 111",NONE_OR_NOT_OBSERVED,Affirmation Rainbow Classroom Rug,SET,33,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized teacher classroom rug with a bright school-inspired design, ideal for indoor classroom floors and reading corners.","Customize a rainbow teacher classroom rug with name text, apple and books, student affirmation rainbow, size chart, washable and backing visuals.",SET,145,affirmation rainbow classroom rug,"personalized teacher welcome rug, back to school affirmation rug, custom classroom mat","affirmation rainbow classroom rug; personalized teacher welcome rug, back to school affirmation rug, custom classroom mat",LONG_TAIL_CANDIDATE,BACK_TO_SCHOOL_EVERGREEN,"SERP_ONLY: public marketplace/category and education-resource pages show demand language around personalized back-to-school classroom rugs, AAC/core vocabulary communication boards, SPED classroom rugs, and feelings/emotion wheel classroom tools. No paid keyword volume, Search Console, or direct customer query data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,affirmation rainbow classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports affirmation rainbow teacher classroom rug and product-level buyer intent.,B012-113-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: teachers, SPED staff, therapists, counselors, and parents want classroom rugs that combine decor with visible welcome, communication, regulation, or feelings-identification prompts.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This personalized teacher classroom rug is designed to create a warm and inviting educational space. Featuring a vibrant design with school-inspired motifs, it offers a thoughtful way to customize a classroom. The rug is suitable for various areas within a learning environment, enhancing comfort and decor.</p><h3>Product Highlights</h3><ul>
+<li>Customizable with a teacher name, classroom name, or welcome text</li>
+<li>Bright classroom welcome design with colorful school-themed details</li>
+<li>Soft and durable material for comfortable feel and everyday use</li>
+<li>Low-pile construction for simple cleaning and easy maintenance</li>
+<li>Reinforced serged edges for added durability and lasting use</li>
+<li>Versatile for classroom floors, reading corners, and activity areas</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form Type</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Checkered</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Alphabet</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Product Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Vacuum regularly or spot clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This rug is ideal for enhancing classrooms, bedrooms, living rooms, playrooms, daycares, preschools, and elementary learning spaces. It creates an inviting atmosphere for reading corners, activity areas, and welcome setups.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a rainbow teacher classroom rug with name text, apple and books, student affirmation rainbow, size chart, washable and backing visuals. Design details Black chalkboard-style teacher classroom rug with welcome to teacher-name classroom wording, apple, books, globe, pencil cup, bunting, stars, clouds and a rainbow with student affirmation lines such as you belong here, you matter and you can learn, shown in classroom scenes with size chart, washable graphic and material details. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Customize a rainbow teacher classroom rug with name text, apple and books, student affirmation rainbow, size chart, washable and backing visuals.</p><h3>Design details</h3><ul><li>Black chalkboard-style teacher classroom rug with welcome to teacher-name classroom wording, apple, books, globe, pencil cup, bunting, stars, clouds and a rainbow with student affirmation lines such as you belong here, you matter and you can learn, shown in classroom scenes with size chart, washable graphic and material details.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B012-113,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5f37fa1f140ef1d25d56e1dd1a14baae1e40fe697282e36a6b07161ff3f3d8ad.jpg?v=1786646575,,affirmation rainbow teacher rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d9029801827e9a8c6c6d24395c0fa7307775ee1593c740917eacaffe1367a654.jpg?v=1786646575,,size chart for affirmation rainbow classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/93d888841d57ce767b4a6d2734303f967789b41e7a6da47f0196bb3ec00156d5.jpg?v=1786646575,,close angled view of rainbow teacher welcome rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/29b8cee7d5d2b9d546d487ac1c455d32566b84cf3a0dc700c92f47f4cca26c84.jpg?v=1786646576,,teacher-name rainbow rug beside desks,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/acc4103865a00a77a2643283651abd00680b7dc633d5fe1657fbf85a1deb376b.jpg?v=1786646575,,custom rainbow classroom rug in home classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6c0c4168d35606f7283c26f3d41ec23ffaa3e1f24b1891418b279e81fe64b86e.jpg?v=1786646575,,teacher with students on affirmation rainbow rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3181eee606f7929313b3af97d8bde1c2775de40b6260516579fe875bd657504f.jpg?v=1786646575,,large classroom mockup of affirmation rainbow rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f5867ac6a04c59ab039ed7de73ae8dcb32438af192edd7b30b40d78d451d7e16.jpg?v=1786646575,,machine washable vacuum cleaner graphic for rainbow rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/45129483f9e11a8a2609eb32411fa601870e2bfca36ba9a8036fe1083dce3c3c.jpg?v=1786646575,,material and backing detail for affirmation teacher rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B012,chillgen.com,core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug,core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug,15969319125361,gid://shopify/Product/15969319125361,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B012_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B012_pages/core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug.html,2026-09-07T02:37:51+07:00,en-US,US,https://chillgen.com/products/core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug,https://chillgen.com/products/core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug,Rug,"Core Vocabulary Rug, Communication Rugs for Kids Sped Classroom Rug","Core Vocabulary Rug, Communication Rugs for Kids Sped Classroom Rug",Core Vocabulary Communication Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Core Vocabulary Rug, Communication Rugs – Sped Classroom Rug",NONE_OR_NOT_OBSERVED,Core Vocabulary Communication Rug,SET,33,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"This communication rug with a non-slip backing is made from memory foam, perfect for kids&#39; playrooms and classrooms.","Use a core vocabulary communication rug with symbol-word grid, classroom playroom scenes, child interaction visuals and thickened edge details.",SET,143,core vocabulary communication rug,"AAC core board rug, SPED classroom rug, communication board rug for kids","core vocabulary communication rug; AAC core board rug, SPED classroom rug, communication board rug for kids",LONG_TAIL_CANDIDATE,EVERGREEN_EDUCATION,"SERP_ONLY: public marketplace/category and education-resource pages show demand language around personalized back-to-school classroom rugs, AAC/core vocabulary communication boards, SPED classroom rugs, and feelings/emotion wheel classroom tools. No paid keyword volume, Search Console, or direct customer query data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,core vocabulary communication rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports core vocabulary communication rug and product-level buyer intent.,B012-114-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: teachers, SPED staff, therapists, counselors, and parents want classroom rugs that combine decor with visible welcome, communication, regulation, or feelings-identification prompts.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This educational area rug serves as an interactive learning tool, featuring a core vocabulary design with various daily life images. It is specially designed to aid children in developing communication skills and exploring concepts in a fun, engaging way. Ideal for fostering learning and interaction in various settings, this rug combines educational content with comfortable functionality.</p><h3>Product Highlights</h3><ul>
+<li>Features a colorful core vocabulary design with everyday themes.</li>
+<li>Provides an educational tool for communication and learning.</li>
+<li>Constructed with a non-woven fabric top layer and sponge interlayer for comfort.</li>
+<li>Includes tear-resistant polyester for enhanced durability.</li>
+<li>Designed to help improve communication skills and confidence.</li>
+<li>Versatile for use in classrooms, playrooms, and various home spaces.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Other Special Features</td>
+<td>Non Slip</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Fruit</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Alphabet</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Communication Rug</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Product Care Instructions</td>
+<td>Spot Clean Only</td>
+</tr>
+</table><h3>Where It Works</h3><p>This versatile area rug is well-suited for various indoor environments such as classrooms, kids' playrooms, bedrooms, and living rooms, where it can provide both comfort and an engaging learning experience for children.</p>",Make product copy motif-specific while retaining verified public claims only.,"Use a core vocabulary communication rug with symbol-word grid, classroom playroom scenes, child interaction visuals and thickened edge details. Design details Rectangular communication rug with a colorful grid of picture-symbol and word cells including greetings, bathroom, yes/no, i want, help, more, eat, drink, go, stop, feelings and people or action vocabulary, shown in classroom/playroom scenes with children plus thickened rug and bound edge graphic. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Use a core vocabulary communication rug with symbol-word grid, classroom playroom scenes, child interaction visuals and thickened edge details.</p><h3>Design details</h3><ul><li>Rectangular communication rug with a colorful grid of picture-symbol and word cells including greetings, bathroom, yes/no, i want, help, more, eat, drink, go, stop, feelings and people or action vocabulary, shown in classroom/playroom scenes with children plus thickened rug and bound edge graphic.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B012-114,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e890baba702ff09f7ce69b74fe69e93a670346f5d721cfa209a622a7ee050bc4.jpg?v=1786647296,,core vocabulary communication rug with symbol-word grid,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/df78a443e20bc31c8ac6259f39c6289baf275d980feba4115456b2ab2361a604.jpg?v=1786647296,,communication board rug in colorful playroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2de588f3ddd8f8c7e29e159551d9c03a4878c114f71ccd37b30b979290100073.jpg?v=1786647296,,overhead view of core vocabulary rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/295ba9c9497db3880b11ea968966748c5c756cbb03390ed6b650484efda4f70f.jpg?v=1786647296,,core vocabulary rug in playroom scene,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/77f645879d205125e4cd7dbdba99318508cf44c4eed59b520ec1401be36edf6b.jpg?v=1786647296,,teacher reading with children on communication rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/966146f216a5e8080427a50f80b44ea63cbae730818b123a35c450ec374cc22d.jpg?v=1786647296,,children sitting on core vocabulary classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/53a0b09671f5e4c1e3c75ed42aab43352c2f1f8726c8cf6d76e8b0e747a324b2.jpg?v=1786647296,,thickened bound edge graphic for core vocabulary rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9b9ba497aa41900842f47b8fd8205882455ad8a545a6d4d6921f5757c1cc3ba9.jpg?v=1786647296,,angled classroom view of communication board rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B012,chillgen.com,core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100,core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100,15969319420273,gid://shopify/Product/15969319420273,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B012_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B012_pages/core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100.html,2026-09-07T02:37:51+07:00,en-US,US,https://chillgen.com/products/core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100,https://chillgen.com/products/core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100,Rug,"Core Vocabulary Rug, Communication Rugs for Kids Sped Cla - Design 100","Core Vocabulary Rug, Communication Rugs for Kids Sped Cla - Design 100",AAC Core Board Classroom Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Core Vocabulary Rug, Communication Rugs – - Design 100",NONE_OR_NOT_OBSERVED,AAC Core Board Classroom Rug,SET,28,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,This low-pile communication rug with memory foam material is ideal for indoor educational playrooms and classrooms.,"Support classroom communication with an AAC core board rug featuring colored symbol cells, number row, playroom scenes and thickened edge visuals.",SET,146,AAC core board classroom rug,"core vocabulary rug, SPED communication rug, classroom AAC rug","AAC core board classroom rug; core vocabulary rug, SPED communication rug, classroom AAC rug",LONG_TAIL_CANDIDATE,EVERGREEN_EDUCATION,"SERP_ONLY: public marketplace/category and education-resource pages show demand language around personalized back-to-school classroom rugs, AAC/core vocabulary communication boards, SPED classroom rugs, and feelings/emotion wheel classroom tools. No paid keyword volume, Search Console, or direct customer query data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,AAC core board classroom rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports AAC core board classroom rug and product-level buyer intent.,B012-115-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: teachers, SPED staff, therapists, counselors, and parents want classroom rugs that combine decor with visible welcome, communication, regulation, or feelings-identification prompts.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This educational area rug is designed to be more than just a play mat, serving as a tool for learning and communication. Featuring a variety of designs including everyday vocabulary, it encourages interaction and helps children express themselves. Its soft, durable construction makes it suitable for various indoor settings.</p><h3>Product Highlights</h3><ul>
+<li>Features a core vocabulary design with various daily life concepts.</li>
+<li>Designed to assist with communication skills, especially for children with communication barriers.</li>
+<li>Constructed with a comfortable non-woven fabric and sponge interlayer.</li>
+<li>Offers a non-slip backing for stability during use.</li>
+<li>Suitable for a range of indoor environments including classrooms and playrooms.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form Type</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom, Kid's Playroom, Bedroom, Living Room, Kitchen</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Fruit</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Alphabet</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Communication Rug</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Soft to the touch</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Spot Clean Only</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Use a damp cloth with mild soapy water to clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This versatile area rug is ideal for enhancing learning and communication in various indoor spaces such as classrooms, playrooms, bedrooms, and living rooms. Its design promotes engagement and can be a beneficial addition to environments focused on educational development.</p>",Make product copy motif-specific while retaining verified public claims only.,"Support classroom communication with an AAC core board rug featuring colored symbol cells, number row, playroom scenes and thickened edge visuals. Design details Large colored aac-style communication board rug with many symbol cells, category-colored sections, bottom number row 1 through 9, action and classroom icons, shown in playroom and classroom scenes with children plus thickened rug and bound edge graphic. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Support classroom communication with an AAC core board rug featuring colored symbol cells, number row, playroom scenes and thickened edge visuals.</p><h3>Design details</h3><ul><li>Large colored aac-style communication board rug with many symbol cells, category-colored sections, bottom number row 1 through 9, action and classroom icons, shown in playroom and classroom scenes with children plus thickened rug and bound edge graphic.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B012-115,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/78c55fe1224bb5767ebaa08e16670b8bd855e602d8d8d79d36a4012012b368b2.jpg?v=1786647308,,AAC core board classroom rug with colored symbol grid,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/932c0112448400f33505b992a1f8aaf50f79fdd2d2e3e25424383007e8dbe3e5.jpg?v=1786647308,,AAC communication rug in playroom scene,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/af23a061149c8837ecc0af99b562417a3b2555bda8ccc9b156339da4be909f56.jpg?v=1786647308,,overhead view of core board classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6f1d51896f0a858ad3f1fd5f18fb842a9e69b9705fae9dc9d39f28631acfffb9.jpg?v=1786647308,,teacher reading with children on AAC core rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/272b6d1dc935dac0622450ca1e9089afd07e119f243657de309f71bc7a0f8063.jpg?v=1786647308,,children sitting on colored communication board rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/926eb5534efca850ec4328af73fa227711170df59db1d5bfa310c8f90e89c5a2.jpg?v=1786647308,,thickened bound edge graphic for AAC core board rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0af9547a78eefa4fc17981731738e8d4b643d9f6a571a2ffbe75f9e252896290.jpg?v=1786647308,,core board rug in playroom with wall decor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3e9e32f06df0c68a3c8b73d2a8ea3fd9373ddf3ea071ae65d3889c5e6de6b0ca.jpg?v=1786647308,,angled classroom view of AAC communication rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B012,chillgen.com,core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101,core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101,15969319682417,gid://shopify/Product/15969319682417,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B012_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B012_pages/core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101.html,2026-09-07T02:37:51+07:00,en-US,US,https://chillgen.com/products/core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101,https://chillgen.com/products/core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101,Rug,"Core Vocabulary Rug, Communication Rugs for Kids Sped Cla - Design 101","Core Vocabulary Rug, Communication Rugs for Kids Sped Cla - Design 101",SPED Communication Board Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Core Vocabulary Rug, Communication Rugs – - Design 101",NONE_OR_NOT_OBSERVED,SPED Communication Board Rug,SET,28,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"This rectangular communication rug with memory foam material features a non-slip design, perfect for children&#39;s classrooms or playrooms.","Use a SPED communication board rug with picture-word cells for feelings, needs, play, bathroom and classroom routines, plus edge visuals.",SET,137,SPED communication board rug,"core vocabulary rug for kids, AAC communication rug, classroom visual support rug","SPED communication board rug; core vocabulary rug for kids, AAC communication rug, classroom visual support rug",LONG_TAIL_CANDIDATE,EVERGREEN_EDUCATION,"SERP_ONLY: public marketplace/category and education-resource pages show demand language around personalized back-to-school classroom rugs, AAC/core vocabulary communication boards, SPED classroom rugs, and feelings/emotion wheel classroom tools. No paid keyword volume, Search Console, or direct customer query data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,SPED communication board rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports SPED communication board rug and product-level buyer intent.,B012-116-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: teachers, SPED staff, therapists, counselors, and parents want classroom rugs that combine decor with visible welcome, communication, regulation, or feelings-identification prompts.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This educational area rug serves as a vibrant learning tool for children, combining play with fundamental vocabulary. Designed with colorful illustrations covering daily life topics such as food, activities, and objects, it encourages effective communication and cognitive development. It's an ideal addition to any learning environment, fostering engagement and enhancing interactive play.</p><h3>Product Highlights</h3><ul>
+<li>Features engaging vocabulary designs for educational play.</li>
+<li>Constructed with a non-woven fabric top layer and sponge interlayer for comfort.</li>
+<li>Made with tear-resistant polyester for durability.</li>
+<li>Designed to support communication skills in children.</li>
+<li>Offers a soft touch and is easy to clean.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom, Bathroom, Kid's Play Room, Bedroom, Living Room, Kitchen</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Fruit</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Alphabet</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Communication Rug</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Spot Clean Only</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Use a damp cloth with mild soapy water; avoid bleach</td>
+</tr>
+</table><h3>Where It Works</h3><p>This versatile area rug is suitable for various indoor settings, including classrooms, playrooms, bedrooms, and living rooms. Its engaging design makes it perfect for fostering a learning environment or adding a decorative and functional element to a child's space.</p>",Make product copy motif-specific while retaining verified public claims only.,"Use a SPED communication board rug with picture-word cells for feelings, needs, play, bathroom and classroom routines, plus edge visuals. Design details Black-bordered communication board rug with pastel picture-word cells including feelings and needs such as sick, thirsty, scared, go to bathroom, play time, change diaper, wash up, eat, toilet, toy, family and medicine, shown in classroom/playroom scenes with children and thickened edge detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Use a SPED communication board rug with picture-word cells for feelings, needs, play, bathroom and classroom routines, plus edge visuals.</p><h3>Design details</h3><ul><li>Black-bordered communication board rug with pastel picture-word cells including feelings and needs such as sick, thirsty, scared, go to bathroom, play time, change diaper, wash up, eat, toilet, toy, family and medicine, shown in classroom/playroom scenes with children and thickened edge detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B012-116,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6185c794e64738747b4bee5327350cff09a218f6a565f854896f362662819f39.jpg?v=1786647319,,SPED communication board rug with picture-word cells,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d7e786374f295407d01ca7e7df31455a566bb4c4b5f7b467759ab508157ad027.jpg?v=1786647319,,overhead view of black-bordered communication rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/93c677a1062aba9e8142e5e357237e026eb2b3ba07ccabaeeaef8681dea322c1.jpg?v=1786647319,,angled classroom view of SPED communication rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ec4311b94c452cca10f4c081e77fabbf50f6645ea8e61376c628ecbc1e7836db.jpg?v=1786647319,,communication board rug in playroom scene,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9941e5453c3155c43cf1318ed579a2dafcbc0669167a439ee58abae1394c9913.jpg?v=1786647319,,teacher reading with children on communication rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/82ac6d344176a5681ff4b179540169c9973b12c17d3014f54835ba280cbee4ff.jpg?v=1786647319,,children sitting on SPED communication board rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d1c37383b91f9f5a58cbcde38508682749b42d4b5455f24dc644299ea4fe0623.jpg?v=1786647319,,thickened bound edge graphic for SPED communication rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ab648fe1b6f497006589c71e6be2e9e226e648103371ac5c55c7326816c21d48.jpg?v=1786647319,,communication rug in colorful playroom,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B012,chillgen.com,core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102,core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102,15969320042865,gid://shopify/Product/15969320042865,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B012_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B012_pages/core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102.html,2026-09-07T02:37:51+07:00,en-US,US,https://chillgen.com/products/core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102,https://chillgen.com/products/core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102,Rug,"Core Vocabulary Rug, Communication Rugs for Kids Sped Cla - Design 102","Core Vocabulary Rug, Communication Rugs for Kids Sped Cla - Design 102",Core Vocabulary AAC Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Core Vocabulary Rug, Communication Rugs – - Design 102",NONE_OR_NOT_OBSERVED,Core Vocabulary AAC Rug,SET,23,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"An educational communication rug for kids, made with memory foam, featuring a non-slip backing for classroom or playroom use.","Use a core vocabulary AAC rug with simple icon-word cells for yes/no, emotions, help, stop/go, questions and classroom communication support.",SET,141,core vocabulary AAC rug,"communication board rug, SPED classroom visual rug, AAC rug for kids","core vocabulary AAC rug; communication board rug, SPED classroom visual rug, AAC rug for kids",LONG_TAIL_CANDIDATE,EVERGREEN_EDUCATION,"SERP_ONLY: public marketplace/category and education-resource pages show demand language around personalized back-to-school classroom rugs, AAC/core vocabulary communication boards, SPED classroom rugs, and feelings/emotion wheel classroom tools. No paid keyword volume, Search Console, or direct customer query data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,core vocabulary AAC rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports minimal core vocabulary AAC rug and product-level buyer intent.,B012-117-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: teachers, SPED staff, therapists, counselors, and parents want classroom rugs that combine decor with visible welcome, communication, regulation, or feelings-identification prompts.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This educational rug is designed to be more than just a play mat; it serves as a valuable learning tool. Featuring a variety of colorful designs, it covers essential daily life concepts such as TV, breakfast, fruits, and cleaning supplies. This rug is suitable for various educational settings, including homes, kindergartens, preschools, and elementary schools.</p><h3>Product Highlights</h3><ul>
+<li>Features colorful designs covering a wide range of daily life vocabulary.</li>
+<li>Helps children express their needs and ideas through visual communication.</li>
+<li>Made with a non-woven fabric top layer and a sponge interlayer for comfort.</li>
+<li>Constructed from tear-resistant polyester for enhanced durability.</li>
+<li>Can aid in improving communication skills for children with communication barriers.</li>
+<li>Suitable for a variety of indoor settings, including classrooms and playrooms.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form Type</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Water Resistance Level</td>
+<td>Not Water Resistant</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Fruit</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Alphabet</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Communication Rug</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Spot Clean Only</td>
+</tr>
+</table><h3>Where It Works</h3><p>This communication rug is ideal for various indoor environments where learning and interaction are encouraged, such as classrooms, children's playrooms, bedrooms, and living rooms. It provides a comfortable and engaging surface for educational activities and everyday use.</p>",Make product copy motif-specific while retaining verified public claims only.,"Use a core vocabulary AAC rug with simple icon-word cells for yes/no, emotions, help, stop/go, questions and classroom communication support. Design details Light minimal communication rug with icon-word grid for i/me, you, yes, no, big, little, toilet, again, happy, sad, frustrated, angry, worried, tired, excited, terrified, help, quiet, hear/listen, stop, go, want, who, what, where, play, walk, more and wait, shown in classroom/playroom and home scenes with thickened edge graphic. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Use a core vocabulary AAC rug with simple icon-word cells for yes/no, emotions, help, stop/go, questions and classroom communication support.</p><h3>Design details</h3><ul><li>Light minimal communication rug with icon-word grid for i/me, you, yes, no, big, little, toilet, again, happy, sad, frustrated, angry, worried, tired, excited, terrified, help, quiet, hear/listen, stop, go, want, who, what, where, play, walk, more and wait, shown in classroom/playroom and home scenes with thickened edge graphic.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B012-117,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b2fbc0dc5fb640a913c771bed9cea538a229e62d8ed764605e29ab48459eb502.jpg?v=1786647334,,minimal core vocabulary AAC rug with icon-word grid,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f8082fa361f7fefb2ddd3301e832d6baca28a9c720092a24f487c00574261957.jpg?v=1786647334,,overhead view of core vocabulary AAC rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/eb8f6574f8f2518e7d4c27213cf8a0024897a6ddfe65981da3518b9d4d6c14bb.jpg?v=1786647334,,angled classroom view of minimal AAC rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c6cb2501d4a73b51102c623e64fe131d2d0ba33a89e98660c6e9fa9791b1ee15.jpg?v=1786647334,,core vocabulary rug in playroom scene,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/88d6a714206b3ebeafe647954b1e75e89d35504b900a4b09d3d10683e2ab5827.jpg?v=1786647335,,teacher reading with children on AAC rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8543c60db8c2a790cfae469b0956d362131918e9407f98fa9dd4214d88d2ce07.jpg?v=1786647334,,children sitting on minimal communication rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ba1b97215fa6387f66af7f1da65d5880e10209809c3d60b34d3050d298043884.jpg?v=1786647334,,thickened bound edge graphic for core vocabulary rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e29ecf8ccd6593e82ce3052565595e6f7001391c7a9213a2cf50da4745acc534.jpg?v=1786647334,,core vocabulary AAC rug in living room scene,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B012,chillgen.com,core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103,core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103,15969320337777,gid://shopify/Product/15969320337777,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B012_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B012_pages/core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103.html,2026-09-07T02:37:51+07:00,en-US,US,https://chillgen.com/products/core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103,https://chillgen.com/products/core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103,Rug,"Core Vocabulary Rug, Communication Rugs for Kids Sped Cla - Design 103","Core Vocabulary Rug, Communication Rugs for Kids Sped Cla - Design 103",Sign Language Communication Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Core Vocabulary Rug, Communication Rugs – - Design 103",NONE_OR_NOT_OBSERVED,Sign Language Communication Rug,SET,31,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Educational rectangular memory foam rug with non-slip backing, ideal for classrooms, playrooms, and kid&#39;s bedrooms.","Use a sign language communication rug with hand-sign panels for yes, no, please, help, more, eat, drink, restroom, stop and go.",SET,127,sign language communication rug,"AAC sign language rug, SPED communication mat, classroom visual support rug","sign language communication rug; AAC sign language rug, SPED communication mat, classroom visual support rug",LONG_TAIL_CANDIDATE,EVERGREEN_EDUCATION,"SERP_ONLY: public marketplace/category and education-resource pages show demand language around personalized back-to-school classroom rugs, AAC/core vocabulary communication boards, SPED classroom rugs, and feelings/emotion wheel classroom tools. No paid keyword volume, Search Console, or direct customer query data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,sign language communication rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports sign language communication rug and product-level buyer intent.,B012-118-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: teachers, SPED staff, therapists, counselors, and parents want classroom rugs that combine decor with visible welcome, communication, regulation, or feelings-identification prompts.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This engaging area rug serves as both a decorative accent and an educational tool, designed to enhance communication and learning. Featuring a vibrant array of designs covering daily vocabulary and concepts, it creates an interactive environment for children to explore and express themselves. Its soft, durable construction makes it a comfortable and resilient addition to various indoor settings.</p><h3>Product Highlights</h3><ul>
+<li>Features core vocabulary designs for an educational experience.</li>
+<li>Made with a non-woven fabric top layer and sponge interlayer for comfort.</li>
+<li>Constructed with tear-resistant polyester for durability.</li>
+<li>Designed to aid communication skills for children.</li>
+<li>Offers abundant content for daily life communication.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form Type</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>family, kindergarten, preschool, elementary school, junior high school, classroom, bathroom, kid's play room, bedroom, living room, kitchen</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Fruit</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Alphabet</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>soft to the touch</td>
+</tr>
+<tr>
+<td>Product Care Instructions</td>
+<td>Spot Clean Only</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Use a damp cloth with mild soapy water to clean (avoid bleach) and let air dry.</td>
+</tr>
+</table><h3>Where It Works</h3><p>This versatile area rug is suitable for a variety of indoor spaces, including classrooms, playrooms, bedrooms, and living rooms. Its educational design makes it particularly ideal for environments focused on learning and communication, such as kindergartens, preschools, and elementary schools.</p>",Make product copy motif-specific while retaining verified public claims only.,"Use a sign language communication rug with hand-sign panels for yes, no, please, help, more, eat, drink, restroom, stop and go. Design details White communication rug with hand-sign illustrations and word panels including yes, no, please, thank you, sorry, help, more, all done, find, want, open, sit, sleep, play, eat, drink, hurt, restroom, stop and go, shown in classroom/playroom scenes with children and thickened edge graphic. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Use a sign language communication rug with hand-sign panels for yes, no, please, help, more, eat, drink, restroom, stop and go.</p><h3>Design details</h3><ul><li>White communication rug with hand-sign illustrations and word panels including yes, no, please, thank you, sorry, help, more, all done, find, want, open, sit, sleep, play, eat, drink, hurt, restroom, stop and go, shown in classroom/playroom scenes with children and thickened edge graphic.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B012-118,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9422d38d3292f614093dcacad74027bd86fc016ceccaea9a18fa87d3e210986b.jpg?v=1786647347,,sign language communication rug with hand-sign panels,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9502a67bd35597cf24f4f837a98d2dcd2e3875d2c4db560e097e14fd64b68702.jpg?v=1786647347,,angled classroom view of sign language communication rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f79aa343a75eaf491442f8cc56f7182901ebb89b8dfde147e726830e462ce3da.jpg?v=1786647347,,sign language rug in playroom scene,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ed62185914a7857fdef9725297a968dd681aad671f947a6652454dbfdb3e9469.jpg?v=1786647348,,teacher reading with children on sign language rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8d3b70776f132f437c268c52276e059f6a9df216dfdf967b87fd508c2efbc0ed.jpg?v=1786647347,,children sitting on communication sign rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/56a528a6bd30b72d06b9b159cb2e01c05c2337893abda7517e85b8aa1f0655b0.jpg?v=1786647347,,thickened bound edge graphic for sign language rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B012,chillgen.com,core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104,core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104,15969320763761,gid://shopify/Product/15969320763761,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B012_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B012_pages/core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104.html,2026-09-07T02:37:51+07:00,en-US,US,https://chillgen.com/products/core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104,https://chillgen.com/products/core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104,Rug,"Core Vocabulary Rug, Communication Rugs for Kids Sped Cla - Design 104","Core Vocabulary Rug, Communication Rugs for Kids Sped Cla - Design 104",Something Hurts Communication Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Core Vocabulary Rug, Communication Rugs – - Design 104",NONE_OR_NOT_OBSERVED,Something Hurts Communication Rug,SET,33,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Thảm từ vựng cốt lõi hình chữ nhật này có khả năng chống trượt, phù hợp cho lớp học và phòng trẻ em, làm từ bọt hoạt tính bền.","Use a Something Hurts communication rug with body silhouette, pain and needs icons, classroom scenes and thickened edge visuals.",SET,128,something hurts communication rug,"body pain communication rug, SPED visual support rug, AAC feelings needs mat","something hurts communication rug; body pain communication rug, SPED visual support rug, AAC feelings needs mat",LONG_TAIL_CANDIDATE,EVERGREEN_EDUCATION,"SERP_ONLY: public marketplace/category and education-resource pages show demand language around personalized back-to-school classroom rugs, AAC/core vocabulary communication boards, SPED classroom rugs, and feelings/emotion wheel classroom tools. No paid keyword volume, Search Console, or direct customer query data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,something hurts communication rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports something hurts communication rug and product-level buyer intent.,B012-119-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: teachers, SPED staff, therapists, counselors, and parents want classroom rugs that combine decor with visible welcome, communication, regulation, or feelings-identification prompts.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Thảm này là một công cụ giáo dục có thể giúp trẻ em học và giao tiếp một cách hiệu quả. Với các thiết kế đầy màu sắc thể hiện từ vựng cốt lõi liên quan đến các hoạt động hàng ngày, thảm này khuyến khích sự tò mò và khám phá. Nó đặc biệt hữu ích cho việc xây dựng sự tự tin và cải thiện kỹ năng giao tiếp, khiến nó trở thành một sự bổ sung thiết thực cho bất kỳ không gian học tập nào.</p><h3>Điểm nổi bật của sản phẩm</h3><ul>
+<li>Thảm từ vựng cốt lõi với nhiều thiết kế đa dạng bao gồm các vật dụng hàng ngày.</li>
+<li>Thảm giáo dục giúp trẻ thể hiện nhu cầu và ý tưởng của mình.</li>
+<li>Lớp trên cùng bằng vải không dệt với lớp xen kẽ bằng bọt biển mang lại sự thoải mái.</li>
+<li>Chống rách và rất bền với chất liệu polyester.</li>
+<li>Thích hợp cho gia đình, nhà trẻ, trường mầm non, tiểu học và trung học cơ sở.</li>
+<li>Giúp trẻ tự kỷ cải thiện kỹ năng giao tiếp và tương tác với người khác.</li>
+</ul><h3>Thông số kỹ thuật</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Thuộc tính</th>
+<th align=""left"">Giá trị</th>
+</tr>
+<tr>
+<td>Dạng thảm</td>
+<td>Thảm trải sàn</td>
+</tr>
+<tr>
+<td>Hình dạng vật phẩm</td>
+<td>Chữ nhật</td>
+</tr>
+<tr>
+<td>Kiểu dệt</td>
+<td>Dệt máy</td>
+</tr>
+<tr>
+<td>Chiều cao sợi thảm</td>
+<td>Sợi thấp</td>
+</tr>
+<tr>
+<td>Kiểu cấu tạo</td>
+<td>Dệt máy</td>
+</tr>
+<tr>
+<td>Sử dụng trong nhà/ngoài trời</td>
+<td>Trong nhà</td>
+</tr>
+<tr>
+<td>Loại phòng</td>
+<td>Phòng trẻ em, Phòng khách, Phòng ngủ, Lớp học</td>
+</tr>
+<tr>
+<td>Khả năng chống nước</td>
+<td>Không chống nước</td>
+</tr>
+<tr>
+<td>Tính năng đặc biệt</td>
+<td>Không trượt</td>
+</tr>
+<tr>
+<td>Họa tiết</td>
+<td>Trái cây</td>
+</tr>
+<tr>
+<td>Chủ đề</td>
+<td>Bảng chữ cái</td>
+</tr>
+<tr>
+<td>Phong cách</td>
+<td>Thảm giao tiếp</td>
+</tr>
+<tr>
+<td>Số lượng mảnh</td>
+<td>1</td>
+</tr>
+</table><h3>Chất liệu &amp; Chăm sóc</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Mục</th>
+<th align=""left"">Chi tiết</th>
+</tr>
+<tr>
+<td>Loại vật liệu</td>
+<td>Bọt biển - Bọt hoạt tính</td>
+</tr>
+<tr>
+<td>Chất liệu mặt sau</td>
+<td>Cao su</td>
+</tr>
+<tr>
+<td>Bề mặt/Cảm giác</td>
+<td>Mềm mại khi chạm vào</td>
+</tr>
+<tr>
+<td>Hướng dẫn chăm sóc</td>
+<td>Chỉ lau vết bẩn</td>
+</tr>
+<tr>
+<td>Phương pháp vệ sinh</td>
+<td>Sử dụng khăn ẩm với nước xà phòng nhẹ (tránh thuốc tẩy) và để khô tự nhiên.</td>
+</tr>
+</table><h3>Nơi có thể sử dụng</h3><p>Thảm trải sàn đa năng này phù hợp để nâng cao môi trường học tập và chơi đùa trong nhiều không gian khác nhau, bao gồm lớp học, phòng trẻ em và phòng khách. Nó đặc biệt lý tưởng cho các trường học và gia đình tìm kiếm một công cụ để hỗ trợ giao tiếp và phát triển kỹ năng.</p>",Make product copy motif-specific while retaining verified public claims only.,"Use a Something Hurts communication rug with body silhouette, pain and needs icons, classroom scenes and thickened edge visuals. Design details White communication rug with something hurts headline, central body silhouette and surrounding icons for pain areas, body parts and needs such as dry mouth, hand, finger, knee, toe and private area, shown in classroom/playroom scenes with children and thickened edge detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Use a Something Hurts communication rug with body silhouette, pain and needs icons, classroom scenes and thickened edge visuals.</p><h3>Design details</h3><ul><li>White communication rug with something hurts headline, central body silhouette and surrounding icons for pain areas, body parts and needs such as dry mouth, hand, finger, knee, toe and private area, shown in classroom/playroom scenes with children and thickened edge detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B012-119,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/107a7826d3b7ecaf3dbb2653e7f38e9a27f225315d5f9ed6ac4ba9d034e730a1.jpg?v=1786647364,,something hurts communication rug with body silhouette,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/752bf4965844332c523e330e48bc2ccecae7975798155c1b69a052a1f3d7293b.jpg?v=1786647364,,angled classroom view of something hurts rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/369362053f729f7883de210d073bbc7cc3719228619bf8362c42085b0c04ed1d.jpg?v=1786647364,,overhead view of body pain communication rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1f3f53f455322f9dc1cae1e56e18a851725c85322c15c10a76daaed22bc187e9.jpg?v=1786647364,,something hurts rug in playroom scene,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8d6495313bd798cdcc91f47da74c9481710f9ec6bcfe5ed580ff533dac9a64fa.jpg?v=1786647364,,teacher reading with children on body communication rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/62d1828e8aaf204e84533d0b505ea6e0123b3977954c8d61749e5e82870c0685.jpg?v=1786647364,,children sitting on something hurts communication rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f29d154b64824bf78cdf3aee82b1ef6bc4e10973a0f91fa67d442aac17d5ad8c.jpg?v=1786647364,,thickened bound edge graphic for something hurts rug,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B012,chillgen.com,wheel-of-feelings-and-emotions-round-rug-educational-mental-health,wheel-of-feelings-and-emotions-round-rug-educational-mental-health,15969348387185,gid://shopify/Product/15969348387185,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B012_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B012_pages/wheel-of-feelings-and-emotions-round-rug-educational-mental-health.html,2026-09-07T02:37:51+07:00,en-US,US,https://chillgen.com/products/wheel-of-feelings-and-emotions-round-rug-educational-mental-health,https://chillgen.com/products/wheel-of-feelings-and-emotions-round-rug-educational-mental-health,Rug,"Wheel of Feelings and Emotions Round Rug, Educational Mental Health","Wheel of Feelings and Emotions Round Rug, Educational Mental Health",Round Feelings Wheel Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Wheel of Feelings and Emotions – Educational Mental Health,NONE_OR_NOT_OBSERVED,Round Feelings Wheel Rug,SET,24,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,This educational round rug with a low pile and memory foam material supports emotional learning in classrooms and playrooms.,"Use a round feelings wheel rug with How Are You Feeling text, emotion faces, flower center, size graphic, non-slip backing and classroom visuals.",SET,145,round feelings wheel rug,"emotions wheel classroom rug, feelings rug for kids, SEL emotion rug","round feelings wheel rug; emotions wheel classroom rug, feelings rug for kids, SEL emotion rug",LONG_TAIL_CANDIDATE,EVERGREEN_SEL,"SERP_ONLY: public marketplace/category and education-resource pages show demand language around personalized back-to-school classroom rugs, AAC/core vocabulary communication boards, SPED classroom rugs, and feelings/emotion wheel classroom tools. No paid keyword volume, Search Console, or direct customer query data used.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,round feelings wheel rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports round feelings wheel classroom rug and product-level buyer intent.,B012-120-BR01,"Buyer intent is a hypothesis from product evidence plus category SERP language: teachers, SPED staff, therapists, counselors, and parents want classroom rugs that combine decor with visible welcome, communication, regulation, or feelings-identification prompts.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This round rug features a vibrant ""Wheel of Feelings and Emotions"" design, making it an engaging tool for emotional learning. It combines educational elements with a playful animal theme, ideal for fostering communication skills and creating a welcoming environment. The rug provides a comfortable and durable surface for various indoor activities.</p><h3>Product Highlights</h3><ul>
+<li>Colorful feelings wheel design for emotional identification and expression.</li>
+<li>Engaging animal and shape elements suitable for educational settings.</li>
+<li>Soft, durable, and odor-resistant polyester material.</li>
+<li>Maintains vibrant colors for everyday indoor use.</li>
+<li>Plush surface creates a comfortable space for various activities.</li>
+<li>Easy to clean and maintain for lasting freshness.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Round</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Classroom</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Odor-resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Animal, flower, crayon</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Back to School, Classroom</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Educational</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Polyester</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Comfortable, plush</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Vacuum regularly, hand wash in cold water or machine wash separately, air dry or tumble dry on low heat, avoid bleach and prolonged high-temperature exposure</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Machine Wash</td>
+</tr>
+</table><h3>Where It Works</h3><p>This rug is well-suited for classrooms, counseling spaces, and homeschool settings, providing a dedicated area for emotional learning and group activities. It can also enhance reading corners, playrooms, and bedrooms, offering a comfortable and educational space for children and adults alike.</p>",Make product copy motif-specific while retaining verified public claims only.,"Use a round feelings wheel rug with How Are You Feeling text, emotion faces, flower center, size graphic, non-slip backing and classroom visuals. Design details Round classroom decor rug with how are you feeling wording, smiling flower center, colorful emotion faces around the ring and labels such as silly, excited, love, calm, sad, tired, bored, proud, jealous, surprised, scared, angry and happy, shown with children, classroom group scene, size graphic, non-slip backing, reinforced edging and safe durable material visuals. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Use a round feelings wheel rug with How Are You Feeling text, emotion faces, flower center, size graphic, non-slip backing and classroom visuals.</p><h3>Design details</h3><ul><li>Round classroom decor rug with how are you feeling wording, smiling flower center, colorful emotion faces around the ring and labels such as silly, excited, love, calm, sad, tired, bored, proud, jealous, surprised, scared, angry and happy, shown with children, classroom group scene, size graphic, non-slip backing, reinforced edging and safe durable material visuals.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B012-120,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/338bd0ed0bce09d1b6fc8c8e08109b07645dec260481409e350b071bccc06526.jpg?v=1786648287,,round feelings wheel rug in classroom decor scene,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/35f1e7fc18931e6dc5fb50a4ace02edb22c7137f6aec734a9c84f3c46f121dbf.jpg?v=1786648287,,size graphic for round feelings wheel rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/94ee7a847a423caecf227e9cdaa2921b84b01e459ffd732dca8a15cea8d0d12e.jpg?v=1786648287,,child reading on emotions wheel rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d1b46f2b02724ffb8022d881cbe5ef55be28e0d50713e6bfd4cb22b92901b89f.jpg?v=1786648287,,children and teacher using feelings wheel classroom rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/60261bffd87e957f572b9cf43122f215eec1bf60305290de39f062a1430227b5.jpg?v=1786648287,,baby on round feelings rug with non-slip backing callout,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1a940ae378edc5d54224874ece3cc8f88df6d61b9a17a67f4db5f913bc495dd2.jpg?v=1786648287,,attractive design and reinforced edging graphic for emotions rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2a1dbc103975041a47fc4abc2a58b4611d1b9a40032490a42f3b223fe1422c5a.jpg?v=1786648287,,superior quality backing and foldable rug graphic,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

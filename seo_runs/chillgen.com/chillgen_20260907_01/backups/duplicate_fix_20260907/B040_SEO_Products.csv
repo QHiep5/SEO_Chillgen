@@ -1,0 +1,862 @@
+schema_version,prompt_version,run_id,batch_id,shop_domain,product_key,Handle,product_id,product_gid,identity_status,source_export_ref,source_exported_at,locale,market,url,canonical_url,product_type,title_current,h1_current,title_proposed,title_action,h1_mapping_status,meta_title_current,meta_title_source_state,rendered_title_current,theme_title_suffix,meta_title_seo,meta_title_action,meta_title_chars,meta_description_current,meta_description_source_state,rendered_meta_description_current,meta_description_seo,meta_description_action,meta_description_chars,primary_keyword,secondary_keywords,long_tail_candidates,keyword_strategy,season,keyword_demand_evidence,keyword_serp_fit,meta_keyword,search_intent,keyword_validation_status,keyword_selection_reason,buyer_research_refs,buyer_search_summary,baseline_status,change_scope,mapping_status,mapping_version,description_current_html,description_changes_needed,description_proposed,description_proposed_html,description_change_mode,description_target_section,description_action,revision,review_status,review_reason,approved_by,approved_at,approved_fields,approved_revision,processing_status,evidence_status,content_qa_status,field_evidence_map,evidence_id,issues,img_1_link,img_1_alt_current,img_1_alt,img_1_alt_action,img_2_link,img_2_alt_current,img_2_alt,img_2_alt_action,img_3_link,img_3_alt_current,img_3_alt,img_3_alt_action,img_4_link,img_4_alt_current,img_4_alt,img_4_alt_action,img_5_link,img_5_alt_current,img_5_alt,img_5_alt_action,img_6_link,img_6_alt_current,img_6_alt,img_6_alt_action,img_7_link,img_7_alt_current,img_7_alt,img_7_alt_action,img_8_link,img_8_alt_current,img_8_alt,img_8_alt_action,img_9_link,img_9_alt_current,img_9_alt,img_9_alt_action,img_10_link,img_10_alt_current,img_10_alt,img_10_alt_action,img_11_link,img_11_alt_current,img_11_alt,img_11_alt_action,img_12_link,img_12_alt_current,img_12_alt,img_12_alt_action,img_13_link,img_13_alt_current,img_13_alt,img_13_alt_action,img_14_link,img_14_alt_current,img_14_alt,img_14_alt_action,img_15_link,img_15_alt_current,img_15_alt,img_15_alt_action,img_16_link,img_16_alt_current,img_16_alt,img_16_alt_action,img_17_link,img_17_alt_current,img_17_alt,img_17_alt_action,img_18_link,img_18_alt_current,img_18_alt,img_18_alt_action,img_19_link,img_19_alt_current,img_19_alt,img_19_alt_action
+2.4,2.4,chillgen_20260907_01,B040,chillgen.com,celtic-tree-of-life-welcome-mat-5798e850b0,celtic-tree-of-life-welcome-mat-5798e850b0,15913349316977,gid://shopify/Product/15913349316977,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B040_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/celtic-tree-of-life-welcome-mat-5798e850b0.html,2026-09-07T04:43:50+07:00,en-US,US,https://chillgen.com/products/celtic-tree-of-life-welcome-mat-5798e850b0,https://chillgen.com/products/celtic-tree-of-life-welcome-mat-5798e850b0,Rug,Custom Celtic Tree of Life Rug with Text and Memory Foam for Living Room,Custom Celtic Tree of Life Rug with Text and Memory Foam for Living Room,Sunset Celtic Tree Of Life Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Celtic Tree of Life Rug with Memory Foam Comfort,NONE_OR_NOT_OBSERVED,Sunset Celtic Tree Of Life Rug,SET,30,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Add Celtic Tree of Life artwork to your living room with a custom text rug featuring memory foam cushioning, a low pile surface, and non slip backing.","Decorate with a sunset Celtic Tree of Life rug featuring warm orange glow, green border, knot details, size chart and backing.",SET,126,sunset Celtic Tree of Life rug,"Celtic tree rug, Tree of Life welcome mat, Yggdrasil area rug","sunset Celtic Tree of Life rug; Celtic tree rug, Tree of Life welcome mat, Yggdrasil area rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support Celtic Tree of Life rugs, Tree of Life welcome mats, Yggdrasil rugs, Celtic knot rugs and Tree of Life doormats. B040 separates highly similar products by visible style: sunset Celtic border, abstract rainbow tree, stained-glass landscape, ancient knotwork roots, emerald glow, monochrome line art, teal-gold knotwork, sepia Celtic knot, jeweled Celtic frame and rainbow mosaic.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,sunset Celtic Tree of Life rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports sunset Celtic Tree of Life rug and product-level buyer intent.,B040-391-BR01,"B040 buyers include Celtic decor shoppers, spiritual home decor buyers, nature lovers, Yggdrasil/Norse symbol fans, housewarming gift buyers and people looking for bold tree-themed rugs for living rooms, bedrooms or entryways.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This premium indoor floor mat features a beautifully crafted Celtic Tree of Life design, bringing a touch of Viking style to your living space. Designed to offer both warmth and comfort, it helps soothe tired feet and shields your toes from cold floors. The low-profile pile allows it to fit easily under furniture, making it a functional and stylish addition to your home decor.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Features a striking Yggdrasil Celtic Tree of Life pattern for a unique, modern look.</li>
+<li>Constructed with a soft surface layer and a high-density memory foam cushion to relieve foot pressure.</li>
+<li>Equipped with a non-slip backing for extra durability and secure placement.</li>
+<li>Stain-resistant and easy to clean, making it perfect for high-traffic indoor areas.</li>
+<li>Highly durable construction with reinforced serged edges to prevent wear and tear.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<li>Indoor/Outdoor Usage<td>Indoor</td>
+<tr>
+<td>Water Resistance Level</td>
+<td>Water Repellent</td>
+</tr>
+<tr>
+<td>Is Stain Resistant</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Yggdrasil</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Viking, Celtic, Yggdrasil</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>CELTIC TREE RUG</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</li>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Use a damp cloth with mild soapy water to clean, avoid bleach, and let air dry; light vacuuming is recommended.</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This versatile indoor mat is perfect for placement in your living room, bedroom, kitchen, dining room, or children's playroom. It also makes a practical and thoughtful gift for housewarmings, holidays, or special occasions.</p>",Make product copy motif-specific while retaining verified public claims only.,"Decorate with a sunset Celtic Tree of Life rug featuring warm orange glow, green border, knot details, size chart and backing. Design details Rectangular rug with green celtic border, circular orange sunset center, spreading tree roots and branches, celtic knot and symbol panels, living room and patio mockups, size chart, microfiber memory foam surface and anti-slip backing panels. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Decorate with a sunset Celtic Tree of Life rug featuring warm orange glow, green border, knot details, size chart and backing.</p><h3>Design details</h3><ul><li>Rectangular rug with green celtic border, circular orange sunset center, spreading tree roots and branches, celtic knot and symbol panels, living room and patio mockups, size chart, microfiber memory foam surface and anti-slip backing panels.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B040-391,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9e11d11f275a66f4cfe6a4c8451e1160d836d7affe4676fa12c4e958a47cfd7c.jpg?v=1784385135,,sunset Celtic Tree of Life rug patio view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f7e3d66f2023d29fb5121dd39c10ef446bbb49d476aaa196a75c230b2ce7b05d.jpg?v=1784385135,,Celtic Tree rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/434620f30ef15eae87dffd020d7345747c828bf2b042555dd63aa3ddabd890f6.jpg?v=1784385140,,microfiber surface Celtic rug detail,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3ed8d2338380fde022c709acc898c1a72d05fc9f75584b9b8e6d93c8d7ca638d.jpg?v=1784385141,,anti-slip backing and stain resistance panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8a1b0f71a5d547e8b1d9ed0c6913bc9b245a766d78d484c53692352c6d64b76c.jpg?v=1784385146,,sunset Tree of Life rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e80540660216a22ce6b028dc7bcdb915c6b8a8f671f2c1770c3bf2b27d0f9189.jpg?v=1784385146,,Celtic tree rug room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/390ba07ffcac7a856185f5190cf2f5aada68224e0db0507c8c8604a6829832f8.jpg?v=1784385151,,Tree of Life rug beside sofa,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c37542f609334c2d5bc6328ccc9e699cad191bb4f94599ad3d794c2d86e15ad3.jpg?v=1784385152,,sunset Celtic rug by fireplace,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B040,chillgen.com,tree-of-life-celtic-indoor-rug-89f894eb42,tree-of-life-celtic-indoor-rug-89f894eb42,15913349742961,gid://shopify/Product/15913349742961,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B040_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-indoor-rug-89f894eb42.html,2026-09-07T04:43:50+07:00,en-US,US,https://chillgen.com/products/tree-of-life-celtic-indoor-rug-89f894eb42,https://chillgen.com/products/tree-of-life-celtic-indoor-rug-89f894eb42,Rug,Personalized Tree of Life Floor Mat with Text and Non Slip Backing for Home,Personalized Tree of Life Floor Mat with Text and Non Slip Backing for Home,Abstract Rainbow Tree Of Life Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Tree of Life Floor Mat with Custom Text,NONE_OR_NOT_OBSERVED,Abstract Rainbow Tree Of Life Rug,SET,33,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalize this Tree of Life floor mat with custom text and bring a Celtic Yggdrasil design, memory foam cushioning, and non slip support into your home.","Style a room with an abstract rainbow Tree of Life rug, blue background, colorful leaves, size options and backing.",SET,115,abstract rainbow Tree of Life rug,"Tree of Life indoor rug, colorful tree rug, nature art area rug","abstract rainbow Tree of Life rug; Tree of Life indoor rug, colorful tree rug, nature art area rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support Celtic Tree of Life rugs, Tree of Life welcome mats, Yggdrasil rugs, Celtic knot rugs and Tree of Life doormats. B040 separates highly similar products by visible style: sunset Celtic border, abstract rainbow tree, stained-glass landscape, ancient knotwork roots, emerald glow, monochrome line art, teal-gold knotwork, sepia Celtic knot, jeweled Celtic frame and rainbow mosaic.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,abstract rainbow Tree of Life rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports abstract rainbow Tree of Life rug and product-level buyer intent.,B040-392-BR01,"B040 buyers include Celtic decor shoppers, spiritual home decor buyers, nature lovers, Yggdrasil/Norse symbol fans, housewarming gift buyers and people looking for bold tree-themed rugs for living rooms, bedrooms or entryways.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Bring timeless symbolic art into your home with this beautiful Celtic tree of life area rug. Featuring a striking Yggdrasil pattern, this indoor mat adds a touch of classic mythology while providing a warm and inviting layer to your floors. It is designed to offer a comfortable, cushioned feel underfoot, making it a perfect functional accent piece for various rooms in your household.</p><h3>Product Highlights</h3><ul>
+<li>Features a premium heat dye sublimation print of the Celtic Tree of Life for long-lasting color vibrancy.</li>
+<li>Offers a customizable design available in multiple sizes to perfectly fit your unique living space.</li>
+<li>Constructed with a soft top layer and a high-density memory foam cushion to help soothe tired feet.</li>
+<li>Equipped with a non-slip backing material for enhanced grip and extra durability on indoor floors.</li>
+<li>Stain-resistant and easy to clean, making it highly practical for busy households.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Is Stain Resistant</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Yggdrasil</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Viking, Celtic, Yggdrasil</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>CELTIC TREE RUG</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Washable</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Use a damp cloth with mild soapy water to clean (avoid bleach) and let air dry</td>
+</tr>
+</table><h3>Where It Works</h3><p>This decorative floor mat is highly versatile and fits beautifully in a variety of indoor settings. It is well-suited for placement in your living room, bedroom, dining room, or children\'s playroom. It also makes an exceptional and thoughtful gift for housewarming events, holidays, or special occasions.</p>",Make product copy motif-specific while retaining verified public claims only.,"Style a room with an abstract rainbow Tree of Life rug, blue background, colorful leaves, size options and backing. Design details Vivid abstract rug with flowing tree of life trunk, red orange yellow and blue leaves, deep navy and turquoise background, room mockups, size chart, microfiber memory foam detail, stain/fade resistance and anti-slip backing panel. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Style a room with an abstract rainbow Tree of Life rug, blue background, colorful leaves, size options and backing.</p><h3>Design details</h3><ul><li>Vivid abstract rug with flowing tree of life trunk, red orange yellow and blue leaves, deep navy and turquoise background, room mockups, size chart, microfiber memory foam detail, stain/fade resistance and anti-slip backing panel.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B040-392,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f8528e02187af1b2dc26d0508ebd86700cd1ceccf019efbc2fb113c22ddb48e7.jpg?v=1784385112,,abstract rainbow Tree of Life rug patio view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/44998cf43e8cf894557a7c313115e4451a969eb024b1b3eb56e32bc23b60eb28.jpg?v=1784385112,,colorful Tree of Life rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9a5c38e2c2dd0724437de8067db92d06eacc72fb12e044d92710bf2c111ae675.jpg?v=1784385118,,microfiber rainbow tree rug detail,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ad43bf1ba3c2239a03b0ab8009f4ec557e2697a6fdb578ea41c44eb9ad380489.jpg?v=1784385118,,anti-slip backing detail for colorful rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ffef710efab4479107abeca01558c0f868cdf5bd71cf7f6d9c6531e5e7259b95.jpg?v=1784385123,,abstract tree rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/20c734be8e68dec1e063c9c0b18398624a1cf7267f426977c831f67a6c9a782b.jpg?v=1784385123,,rainbow Tree of Life rug room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ddee25602406756b14b95bcb636de37a4b8af1a7818aa27fedaa0dfe54adda4b.jpg?v=1784385129,,colorful tree rug beside sofa,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6153f925dbdc86a97c91c162c4560b8ac14563810f801156d8a33495b84dd4de.jpg?v=1784385129,,abstract tree rug by fireplace,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B040,chillgen.com,custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37,custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37,15913349972337,gid://shopify/Product/15913349972337,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B040_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37.html,2026-09-07T04:43:50+07:00,en-US,US,https://chillgen.com/products/custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37,https://chillgen.com/products/custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37,Rug,Custom Yggdrasil Welcome Mat with Optional Text for Entryway and Living Room,Custom Yggdrasil Welcome Mat with Optional Text for Entryway and Living Room,Stained Glass Yggdrasil Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Yggdrasil Welcome Mat with Text for Entryway,NONE_OR_NOT_OBSERVED,Stained Glass Yggdrasil Rug,SET,27,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Create an inviting entryway with a custom Yggdrasil welcome mat featuring optional text, a low pile surface, memory foam comfort, and non slip backing.","Customize a stained glass Yggdrasil rug with mountain landscape, Tree of Life roots, jewel border, size chart and backing.",SET,122,stained glass Yggdrasil rug,"custom Tree of Life welcome mat, Celtic stained glass rug, Yggdrasil area rug","stained glass Yggdrasil rug; custom Tree of Life welcome mat, Celtic stained glass rug, Yggdrasil area rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support Celtic Tree of Life rugs, Tree of Life welcome mats, Yggdrasil rugs, Celtic knot rugs and Tree of Life doormats. B040 separates highly similar products by visible style: sunset Celtic border, abstract rainbow tree, stained-glass landscape, ancient knotwork roots, emerald glow, monochrome line art, teal-gold knotwork, sepia Celtic knot, jeweled Celtic frame and rainbow mosaic.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,stained glass Yggdrasil rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports stained glass Yggdrasil rug and product-level buyer intent.,B040-393-BR01,"B040 buyers include Celtic decor shoppers, spiritual home decor buyers, nature lovers, Yggdrasil/Norse symbol fans, housewarming gift buyers and people looking for bold tree-themed rugs for living rooms, bedrooms or entryways.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This soft area rug features a beautifully detailed Tree of Life design, inspired by Celtic and Viking Yggdrasil heritage. It offers a warm, plush surface that brings a comfortable feeling to the touch, shielding toes from cold floors while enhancing your indoor space. Ideal for daily home use, it blends artistic tradition with functional comfort to elevate any interior setting.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Features a detailed Celtic Yggdrasil Tree of Life design for a modern indoor look</li>
+<li>Supports custom options to select preferred sizes easily</li>
+<li>Thick, soft microfiber surface offers a comfortable, cloud-like feeling</li>
+<li>Constructed with a non-slip epoxy backing and high-density memory foam cushion</li>
+<li>Easy care design made of low-pile, stain-resistant material</li>
+<li>Equipped with reinforced serged edges for enhanced tear resistance and durability</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile (4 Millimeters)</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Repellent</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable, Stain Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Yggdrasil</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Viking, Celtic, Yggdrasil</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>CELTIC TREE RUG</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam with Polyester Layer</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber / Epoxy Non-Slip Grip</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Wipe with damp cloth and mild soapy water (avoid bleach) and air dry; light vacuuming recommended</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This decorative floor mat is perfect for enhancing indoor spaces including the living room, bedroom, dining room, kitchen, office, or children's playroom. It also serves as a thoughtful and practical gift for housewarmings, holidays, or special family occasions.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a stained glass Yggdrasil rug with mountain landscape, Tree of Life roots, jewel border, size chart and backing. Design details Stained-glass style tree of life rug with mountain and sunset landscape, exposed roots, colorful green blue yellow and purple panels, circular border, room mockups, size chart, microfiber memory foam detail and anti-slip backing. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Customize a stained glass Yggdrasil rug with mountain landscape, Tree of Life roots, jewel border, size chart and backing.</p><h3>Design details</h3><ul><li>Stained-glass style tree of life rug with mountain and sunset landscape, exposed roots, colorful green blue yellow and purple panels, circular border, room mockups, size chart, microfiber memory foam detail and anti-slip backing.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B040-393,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6f4ea7c7ee7a4b0477b67540c5f827a09b3c91464a7b719385e158d91e327c4d.jpg?v=1784385090,,stained glass Yggdrasil rug patio view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/dd2b965f72df3b9972c4755bc6d53f16b6781301e45d62bf55eb273ac8887c89.jpg?v=1784385090,,Yggdrasil stained glass rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/902471e7778d0e0574bce0e402c20e29a9474001f25457090fd46c7ecaa376d6.jpg?v=1784385096,,microfiber stained glass tree detail,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/137a44cda77c1aebb94a073b7f99583bf88d7d8f770f610ec59256a8d8c68425.jpg?v=1784385096,,anti-slip backing and stain panel,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/187632b81b2c091afabf887ed067a3b4858e2fca3e6c73513bcfe827571a0944.jpg?v=1784385101,,stained glass Tree of Life rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b2cd76a6f9c0526aee0465383139b0d59c4129a50017aae6ed9b5e1a981aa12e.jpg?v=1784385102,,Yggdrasil rug room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fc3036f265921d10e5055735c2c172fb459200a0121937f68700af32b1800bd5.jpg?v=1784385107,,stained glass tree rug beside sofa,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/30ad76bd61b028d0577bbcb8adb1d849b1905332d950c8f09aed76a6b3f5652c.jpg?v=1784385107,,Tree of Life rug by fireplace,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B040,chillgen.com,tree-of-life-celtic-area-rug-d16ac94729,tree-of-life-celtic-area-rug-d16ac94729,15913350136177,gid://shopify/Product/15913350136177,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B040_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-area-rug-d16ac94729.html,2026-09-07T04:43:50+07:00,en-US,US,https://chillgen.com/products/tree-of-life-celtic-area-rug-d16ac94729,https://chillgen.com/products/tree-of-life-celtic-area-rug-d16ac94729,Rug,Personalized Family Name Tree of Life Doormat with Monogram for Front Door,Personalized Family Name Tree of Life Doormat with Monogram for Front Door,Celtic Knot Roots Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Family Name Tree of Life Doormat Design,NONE_OR_NOT_OBSERVED,Celtic Knot Roots Rug,SET,21,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Welcome guests with a personalized Tree of Life doormat featuring a family name, monogram, and address for a meaningful accent at the front door.","Decorate with a Celtic knot roots rug featuring Tree of Life branches, woven root circle, rocky landscape and backing.",SET,118,Celtic knot roots rug,"Tree of Life Celtic area rug, Celtic knot rug, Yggdrasil living room rug","Celtic knot roots rug; Tree of Life Celtic area rug, Celtic knot rug, Yggdrasil living room rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support Celtic Tree of Life rugs, Tree of Life welcome mats, Yggdrasil rugs, Celtic knot rugs and Tree of Life doormats. B040 separates highly similar products by visible style: sunset Celtic border, abstract rainbow tree, stained-glass landscape, ancient knotwork roots, emerald glow, monochrome line art, teal-gold knotwork, sepia Celtic knot, jeweled Celtic frame and rainbow mosaic.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,Celtic knot roots rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports Celtic knot roots rug and product-level buyer intent.,B040-394-BR01,"B040 buyers include Celtic decor shoppers, spiritual home decor buyers, nature lovers, Yggdrasil/Norse symbol fans, housewarming gift buyers and people looking for bold tree-themed rugs for living rooms, bedrooms or entryways.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This soft area rug features a beautifully detailed Tree of Life and Celtic design, bringing a touch of nature and heritage to your home. Crafted with a premium thick and absorbent material, it provides a plush, comfortable feel underfoot. Perfect for adding warmth and style to modern indoor environments, this floor mat serves as both a functional accent and an artistic statement piece.</p><h3>Product Highlights</h3><ul>
+<li>Stunning Tree of Life and Celtic-inspired design with vibrant, long-lasting colors</li>
+<li>Constructed from a premium soft and thick microfiber material for a cloud-like touch</li>
+<li>Features a comfortable high-density memory foam interlayer to relieve foot pressure</li>
+<li>Equipped with a non-slip backing for extra durability and secure placement</li>
+<li>Easy-to-clean low pile height that easily fits under furniture and resists stains</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Repellent</td>
+</tr>
+<tr>
+<td>Is Stain Resistant</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Yggdrasil</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Viking, Celtic, Yggdrasil</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>CELTIC TREE RUG</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polypropylene, Polyester</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber / Epoxy</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Easy care, clean with a damp cloth and mild soapy water, let air dry. Avoid bleach.</td>
+</tr>
+</table><h3>Where It Works</h3><p>This versatile area rug works beautifully in indoor spaces such as your living room, bedroom, dining room, kitchen, home office, or children's playroom. It is also a thoughtful and practical gift option for housewarmings, birthdays, or special seasonal occasions.</p>",Make product copy motif-specific while retaining verified public claims only.,"Decorate with a Celtic knot roots rug featuring Tree of Life branches, woven root circle, rocky landscape and backing. Design details Earthy tree of life area rug with golden celtic knot roots forming a circle, large tree canopy, rocky landscape, dark green and brown palette, room mockups, size chart, microfiber surface and anti-slip backing panels. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Decorate with a Celtic knot roots rug featuring Tree of Life branches, woven root circle, rocky landscape and backing.</p><h3>Design details</h3><ul><li>Earthy tree of life area rug with golden celtic knot roots forming a circle, large tree canopy, rocky landscape, dark green and brown palette, room mockups, size chart, microfiber surface and anti-slip backing panels.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B040-394,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/08dc4378f4e8e5e898e3a4ea5687024370333574e7a23912e97f63e468fe05d9.jpg?v=1784385068,,Celtic knot roots rug patio view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ae95d3bde21d1bb5d07e8283c02a717f1de9e42bbb4ae6e4b105ca6798725c08.jpg?v=1784385068,,Tree of Life Celtic area rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e3c9e8a0e8c0120f0e4f3479f2838c9a489e46d3b8e119ed86911ff077c2e2ef.jpg?v=1784385073,,microfiber Celtic roots detail,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3e21bb64c45c44a76a67daca9a40cead6fff249c40d2af0044f2ddfea06c4e19.jpg?v=1784385074,,anti-slip backing panel for Celtic rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ef5bf2ea29e02cb2209a0ac20f4bf41a35428ebc35e45b95e0fa979a3bca6208.jpg?v=1784385079,,Celtic knot Tree rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/18b3acabef67824a3fb68c88a25ced71bf83210377f788e0d5f2f7a90e97f5b3.jpg?v=1784385080,,Tree of Life area rug room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ce6bc99ee73ae363dd3efd49306607ea954ec96d4f54ce8ca35530142d4be36c.jpg?v=1784385085,,Celtic roots rug beside sofa,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/981a6874a5aeb5067ebe35cf862478986c744b9ce61f091f8b1d077dbd07b9cb.jpg?v=1784385085,,Tree of Life rug by fireplace,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B040,chillgen.com,custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99,custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99,15913350267249,gid://shopify/Product/15913350267249,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B040_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99.html,2026-09-07T04:43:50+07:00,en-US,US,https://chillgen.com/products/custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99,https://chillgen.com/products/custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99,Rug,Custom Celtic Tree Rug with Optional Text and Memory Foam for Bedroom Decor,Custom Celtic Tree Rug with Optional Text and Memory Foam for Bedroom Decor,Emerald Celtic Tree Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Celtic Tree Rug with Optional Text for Bedroom,NONE_OR_NOT_OBSERVED,Emerald Celtic Tree Rug,SET,23,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Customize this Celtic Tree rug with optional text and bring Yggdrasil artwork, memory foam cushioning, and a low pile surface to bedrooms or living rooms.","Add an emerald Celtic Tree rug with glowing green knot border, mountain scene, Tree of Life roots, size chart and backing.",SET,122,emerald Celtic Tree rug,"custom Celtic Tree rug, green Tree of Life rug, Celtic bedroom rug","emerald Celtic Tree rug; custom Celtic Tree rug, green Tree of Life rug, Celtic bedroom rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support Celtic Tree of Life rugs, Tree of Life welcome mats, Yggdrasil rugs, Celtic knot rugs and Tree of Life doormats. B040 separates highly similar products by visible style: sunset Celtic border, abstract rainbow tree, stained-glass landscape, ancient knotwork roots, emerald glow, monochrome line art, teal-gold knotwork, sepia Celtic knot, jeweled Celtic frame and rainbow mosaic.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,emerald Celtic Tree rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports emerald Celtic Tree rug and product-level buyer intent.,B040-395-BR01,"B040 buyers include Celtic decor shoppers, spiritual home decor buyers, nature lovers, Yggdrasil/Norse symbol fans, housewarming gift buyers and people looking for bold tree-themed rugs for living rooms, bedrooms or entryways.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This premium indoor floor mat features a beautifully printed Celtic Tree of Life design, also known as Yggdrasil, adding a classic yet modern touch to your home decor. Crafted with a soft top layer and a supportive cushioned core, it provides a comfortable, plush surface that helps soothe tired feet and ease pressure. Designed for daily indoor use, this durable carpet blends spiritual symbolism with practical home comfort.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Vibrant Celtic Tree of Life and Yggdrasil theme designed to complement modern indoor spaces.</li>
+<li>Supports custom personalized sizing options to fit your specific room requirements.</li>
+<li>Constructed with a soft high-density memory foam cushion interlayer to relieve foot pressure.</li>
+<li>Features a non-slip backing for extra grip, durability, and safety on indoor floors.</li>
+<li>Low-profile pile height makes it easy to clean and perfect for placing under furniture.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Water Resistance Level</td>
+<td>Water Repellent</td>
+</tr>
+<tr>
+<td>Is Stain Resistant</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Yggdrasil</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Viking, Celtic, Yggdrasil</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>CELTIC TREE RUG</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Use a damp cloth with mild soapy water to clean; avoid bleach</td>
+</tr>
+<tr>
+<td>Drying</td>
+<td>Air dry</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Washable; easy to clean, low-pile design; light vacuuming recommended after unpacking</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This versatile indoor rug is perfect for adding warmth and style to a living room, bedroom, dining room, or children's playroom. It also makes a highly practical and thoughtful gift for housewarmings, birthdays, and holiday celebrations.</p>",Make product copy motif-specific while retaining verified public claims only.,"Add an emerald Celtic Tree rug with glowing green knot border, mountain scene, Tree of Life roots, size chart and backing. Design details Green glowing celtic tree rug with bright emerald knot border, central tree of life, mountain landscape, yellow sun glow, room mockups, size chart, microfiber memory foam detail, stain/fade resistance and anti-slip backing. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Add an emerald Celtic Tree rug with glowing green knot border, mountain scene, Tree of Life roots, size chart and backing.</p><h3>Design details</h3><ul><li>Green glowing celtic tree rug with bright emerald knot border, central tree of life, mountain landscape, yellow sun glow, room mockups, size chart, microfiber memory foam detail, stain/fade resistance and anti-slip backing.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B040-395,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c64a2bf9269b2e47885c21cd722314358f0444b5bdfef0fb88e9727034bcd753.jpg?v=1784385046,,emerald Celtic Tree rug patio view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9e162dbc9d1514110e950443cab0d0d6694ebfc1683d7db63bbd117094934470.jpg?v=1784385046,,green Celtic tree rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a9c2ef51e82cc776032c10f09b88907dde82e9f51905b0970f1bef6a67057171.jpg?v=1784385051,,microfiber emerald Celtic rug detail,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/06b176808e40609771d727d5f74001b8aeead98fbdb5662fa4487317b3a1a5b7.jpg?v=1784385052,,anti-slip backing detail for green rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/82045bc358911d83b56b4e0b11a7efb62f3c792c9373ab3d7a5716d14517e51d.jpg?v=1784385057,,emerald Tree of Life rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/195c0097b318439b9609f8db103ec53feb9fee6a6e9513131ccaf7ca9a98a63d.jpg?v=1784385057,,green Celtic tree rug room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4ecbf8fd9a007d976ba6c730ec89f394adfb04e74f45ea4be42d43ad9e79650f.jpg?v=1784385062,,emerald tree rug beside sofa,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/25f735d48b94ecaefc8d24e1850743cf7abc7f154c02cc3b97d154a2074152a2.jpg?v=1784385063,,green Celtic rug by fireplace,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B040,chillgen.com,custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3,custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3,15913350463857,gid://shopify/Product/15913350463857,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B040_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3.html,2026-09-07T04:43:50+07:00,en-US,US,https://chillgen.com/products/custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3,https://chillgen.com/products/custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3,Rug,Personalized Tree of Life Area Rug with Text and Non Slip Backing for Home,Personalized Tree of Life Area Rug with Text and Non Slip Backing for Home,Monochrome Tree Of Life Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Tree of Life Area Rug with Custom Text,NONE_OR_NOT_OBSERVED,Monochrome Tree Of Life Rug,SET,27,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalize this Tree of Life area rug with custom text and add Celtic inspired artwork, memory foam comfort, and non slip backing to indoor home spaces.","Style a room with a monochrome Tree of Life rug featuring black-and-white line art, roots, hills and backing detail.",SET,116,monochrome Tree of Life rug,"personalized Tree of Life area rug, black white Celtic rug, line art tree rug","monochrome Tree of Life rug; personalized Tree of Life area rug, black white Celtic rug, line art tree rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support Celtic Tree of Life rugs, Tree of Life welcome mats, Yggdrasil rugs, Celtic knot rugs and Tree of Life doormats. B040 separates highly similar products by visible style: sunset Celtic border, abstract rainbow tree, stained-glass landscape, ancient knotwork roots, emerald glow, monochrome line art, teal-gold knotwork, sepia Celtic knot, jeweled Celtic frame and rainbow mosaic.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,monochrome Tree of Life rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports monochrome Tree of Life rug and product-level buyer intent.,B040-396-BR01,"B040 buyers include Celtic decor shoppers, spiritual home decor buyers, nature lovers, Yggdrasil/Norse symbol fans, housewarming gift buyers and people looking for bold tree-themed rugs for living rooms, bedrooms or entryways.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This soft indoor area rug features a beautifully detailed Tree of Life design, bringing a touch of nature and symbolic meaning to your home. Designed to soothe tired feet, it provides a warm and comfortable barrier against cold floors. The low-profile structure ensures it fits neatly under household furniture while enhancing your interior space.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Viking and Celtic inspired Yggdrasil Tree of Life pattern.</li>
+<li>Supports custom sizing options for a personalized fit.</li>
+<li>Constructed with a soft, cushioning memory foam interlayer to relieve foot pressure.</li>
+<li>Equipped with a non-slip backing for extra durability and floor grip.</li>
+<li>Designed for easy cleaning with low-pile fibers that resist everyday spills.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Repellent</td>
+</tr>
+<tr>
+<td>Is Stain Resistant</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Yggdrasil</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Viking, Celtic, Yggdrasil</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>CELTIC TREE RUG</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polyester, Polypropylene</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Rubber / Epoxy</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Easy to clean; use a damp cloth with mild soapy water (avoid bleach) and let air dry. Light vacuuming is recommended.</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This versatile indoor mat is ideal for placement in the living room, bedroom, kitchen, doorway, office, or dining room. It also serves as a practical floor covering for children's playrooms or classrooms.</p>",Make product copy motif-specific while retaining verified public claims only.,"Style a room with a monochrome Tree of Life rug featuring black-and-white line art, roots, hills and backing detail. Design details Black and white tree of life rug with intricate line-art tree canopy, exposed roots, mountain hills and decorative swirl border, room mockups, size chart, microfiber memory foam detail and anti-slip backing panel. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Style a room with a monochrome Tree of Life rug featuring black-and-white line art, roots, hills and backing detail.</p><h3>Design details</h3><ul><li>Black and white tree of life rug with intricate line-art tree canopy, exposed roots, mountain hills and decorative swirl border, room mockups, size chart, microfiber memory foam detail and anti-slip backing panel.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B040-396,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/55fec39e3274f308fdcab4e23fe282fa00ba6ce7bfc6b7f4b35f932226490c27.jpg?v=1784385024,,monochrome Tree of Life rug patio view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/462555d59b8d5935d41b05e0a2d1a4e076dc023a51386fdf80cac50eb8f79165.jpg?v=1784385024,,black white tree rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b9dc67f19355fc2c429686ee3b8bfefe446051d9ee3bf0feb3ee3fa65b5e8592.jpg?v=1784385029,,microfiber line art tree rug detail,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f184f99ce2b82368742ac5dce024b0450a3f9d86b161074dcde87fdb3f9db6f1.jpg?v=1784385029,,anti-slip backing panel for monochrome rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/50d99a5f53e5e9e3e3db76f569b2632ecab10f77dc944887a7c3ed4c2f8a099e.jpg?v=1784385035,,monochrome Tree rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/16d6caf6529a954606b31c59c2996b3eacd544a944b96301183f92ef4c616369.jpg?v=1784385035,,line art Tree of Life rug room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/eb4c9258695cf1c29c8a2553469e8bb396b89b5b351efd845565a00ad045ff59.jpg?v=1784385040,,black white tree rug beside sofa,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/63e18bd7abe8a7cee82cfe73ffbfe8d81320981b4f61724919d26b467015b974.jpg?v=1784385040,,monochrome tree rug by fireplace,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B040,chillgen.com,tree-of-life-celtic-indoor-rug-e74720f30a,tree-of-life-celtic-indoor-rug-e74720f30a,15913350627697,gid://shopify/Product/15913350627697,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B040_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-indoor-rug-e74720f30a.html,2026-09-07T04:43:50+07:00,en-US,US,https://chillgen.com/products/tree-of-life-celtic-indoor-rug-e74720f30a,https://chillgen.com/products/tree-of-life-celtic-indoor-rug-e74720f30a,Rug,Custom Yggdrasil Tree of Life Mat with Text and Low Pile for Living Room,Custom Yggdrasil Tree of Life Mat with Text and Low Pile for Living Room,Teal Gold Tree Of Life Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Yggdrasil Tree of Life Mat with Text Design,NONE_OR_NOT_OBSERVED,Teal Gold Tree Of Life Rug,SET,26,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Add a custom Yggdrasil Tree of Life mat to your living room with text, a low pile surface, memory foam cushioning, and non slip backing for indoor use.","Decorate with a teal gold Tree of Life rug featuring Celtic knot border, mountain landscape, roots and backing detail.",SET,118,teal gold Tree of Life rug,"Yggdrasil Tree of Life mat, Celtic indoor rug, tree roots area rug","teal gold Tree of Life rug; Yggdrasil Tree of Life mat, Celtic indoor rug, tree roots area rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support Celtic Tree of Life rugs, Tree of Life welcome mats, Yggdrasil rugs, Celtic knot rugs and Tree of Life doormats. B040 separates highly similar products by visible style: sunset Celtic border, abstract rainbow tree, stained-glass landscape, ancient knotwork roots, emerald glow, monochrome line art, teal-gold knotwork, sepia Celtic knot, jeweled Celtic frame and rainbow mosaic.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,teal gold Tree of Life rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports teal gold Tree of Life rug and product-level buyer intent.,B040-397-BR01,"B040 buyers include Celtic decor shoppers, spiritual home decor buyers, nature lovers, Yggdrasil/Norse symbol fans, housewarming gift buyers and people looking for bold tree-themed rugs for living rooms, bedrooms or entryways.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This soft indoor area rug features a beautifully detailed Tree of Life and Celtic Yggdrasil design, bringing a touch of modern style and mythic heritage to your living spaces. Crafted with a premium memory foam cushion, it helps soothe tired feet and shields toes from cold floors. The low-profile construction allows it to fit easily under furniture, making it both a practical and decorative addition to your home.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Features a striking Celtic Tree of Life and Yggdrasil pattern for home decor.</li>
+<li>Provides customized size options to fit various rooms and spaces.</li>
+<li>Constructed with a soft sponge interlayer that cushions and relieves foot pressure.</li>
+<li>Equipped with a non-slip backing for extra durability and grip.</li>
+<li>Designed with stain-resistant, low-pile fibers that make cleanups easy.</li>
+<li>Versatile design suitable for living rooms, bedrooms, and playrooms.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form Type</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Yggdrasil</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Viking, Celtic, Yggdrasil</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>CELTIC TREE RUG</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Is Stain Resistant</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Water Resistance Level</td>
+<td>Water Repellent</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<li>Back Material Type<td>Rubber</td>
+<tr>
+<td>Surface/Feel</td>
+<td>Non-woven fabric with sponge interlayer</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Washable; use a damp cloth with mild soapy water (avoid bleach) and air dry</td>
+</tr>
+</li>
+</table>
+
+<h3>Where It Works</h3>
+<p>This versatile indoor mat is ideal for high-traffic and cozy areas alike, including the living room, bedroom, dining room, and children's playroom. It also serves as a meaningful, practical gift for housewarmings, holidays, and special occasions.</p>",Make product copy motif-specific while retaining verified public claims only.,"Decorate with a teal gold Tree of Life rug featuring Celtic knot border, mountain landscape, roots and backing detail. Design details Teal and gold tree of life rug with rolling green mountains, golden trunk and roots, celtic knot border and decorative corner pattern, room mockups, size chart, microfiber memory foam detail and anti-slip backing panel. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Decorate with a teal gold Tree of Life rug featuring Celtic knot border, mountain landscape, roots and backing detail.</p><h3>Design details</h3><ul><li>Teal and gold tree of life rug with rolling green mountains, golden trunk and roots, celtic knot border and decorative corner pattern, room mockups, size chart, microfiber memory foam detail and anti-slip backing panel.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B040-397,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d0d1516a716b53a98d2da6c2ff81a8b969e00273a1c7918101de87f6fd6f671d.jpg?v=1784385002,,teal gold Tree of Life rug patio view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9e59f68e7368555e0a0bbedf48322c59c70a974e7e9355bb181de3b56253abea.jpg?v=1784385002,,Tree of Life indoor rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4a36b50d4c0c7da393e509a3a68824298c7ae78f37a838568f0e575d91e63189.jpg?v=1784385007,,microfiber teal tree rug detail,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c87ed9c397f5c47ee5e98d3edeae644519c9aa1e70a52d82209bec451265bac0.jpg?v=1784385008,,anti-slip backing panel for tree rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1f5f4710d68dd14f6ebef39c4244f88a49c3c861cc315ad490141061975313b7.jpg?v=1784385013,,teal gold tree rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d60c78aad0eb30a98eb0e549aa33961d34d61a9d473d7e153b35a77215cc671a.jpg?v=1784385013,,Celtic indoor rug room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5b5dd4929af9af958411a022be88e903c62e6c2eea9c0a9485237e50ed147aac.jpg?v=1784385018,,Tree of Life rug beside sofa,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/646f4ee46f04a2b4f36aa747329b37292276b7675946c5459e6c243eda135d86.jpg?v=1784385019,,teal tree rug by fireplace,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B040,chillgen.com,custom-celtic-tree-of-life-welcome-mat-1e4bffd67c,custom-celtic-tree-of-life-welcome-mat-1e4bffd67c,15913350824305,gid://shopify/Product/15913350824305,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B040_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-celtic-tree-of-life-welcome-mat-1e4bffd67c.html,2026-09-07T04:43:50+07:00,en-US,US,https://chillgen.com/products/custom-celtic-tree-of-life-welcome-mat-1e4bffd67c,https://chillgen.com/products/custom-celtic-tree-of-life-welcome-mat-1e4bffd67c,Rug,Personalized Celtic Tree of Life Welcome Mat with Text for Home Entryway,Personalized Celtic Tree of Life Welcome Mat with Text for Home Entryway,Sepia Celtic Knot Tree Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Celtic Tree of Life Welcome Mat Design,NONE_OR_NOT_OBSERVED,Sepia Celtic Knot Tree Rug,SET,26,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalize this Celtic Tree of Life welcome mat with optional text for an entryway accent featuring a low pile surface, memory foam, and non slip backing.","Customize a sepia Celtic knot tree rug with raised-look border, Tree of Life roots, neutral tones and backing detail.",SET,117,sepia Celtic knot tree rug,"Celtic Tree of Life welcome mat, neutral Celtic rug, Yggdrasil knot rug","sepia Celtic knot tree rug; Celtic Tree of Life welcome mat, neutral Celtic rug, Yggdrasil knot rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support Celtic Tree of Life rugs, Tree of Life welcome mats, Yggdrasil rugs, Celtic knot rugs and Tree of Life doormats. B040 separates highly similar products by visible style: sunset Celtic border, abstract rainbow tree, stained-glass landscape, ancient knotwork roots, emerald glow, monochrome line art, teal-gold knotwork, sepia Celtic knot, jeweled Celtic frame and rainbow mosaic.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,sepia Celtic knot tree rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports sepia Celtic knot tree rug and product-level buyer intent.,B040-398-BR01,"B040 buyers include Celtic decor shoppers, spiritual home decor buyers, nature lovers, Yggdrasil/Norse symbol fans, housewarming gift buyers and people looking for bold tree-themed rugs for living rooms, bedrooms or entryways.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This premium indoor accent carpet features a beautifully printed Yggdrasil Celtic Tree of Life pattern, blending modern style with timeless mythology. Crafted with a soft top layer and an integrated sponge interlayer, it provides a plush, comfortable surface that helps soothe tired feet and shields toes from cold floors. It is designed to enhance your interior decor while offering reliable daily functionality.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Vibrant Yggdrasil Celtic Tree of Life printed pattern with heat dye sublimation for long-lasting color.</li>
+<li>Supports custom sizing to easily match your specific home decor requirements.</li>
+<li>Thick, soft microfiber surface with a high-density memory foam cushion to relieve foot pressure.</li>
+<li>Equipped with a non-slip backing for extra durability and secure placement.</li>
+<li>Low pile height of 4mm makes it easy to clean and perfect for placing under furniture.</li>
+<li>Highly versatile design suitable for a variety of indoor living spaces and family areas.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Water Resistance Level</td>
+<td>Water Repellent</td>
+</tr>
+<tr>
+<td>Is Stain Resistant</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Yggdrasil</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Viking, Celtic, Yggdrasil</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>CELTIC TREE RUG</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polyester, Polypropylene</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber, Epoxy</td>
+</tr>
+<tr>
+<td>Other Special Features</td>
+<td>Washable, Stain Resistant, Water Repellent</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Use a damp cloth with mild soapy water (avoid bleach) and let air dry; light vacuuming is recommended</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This decorative floor mat is perfectly suited for high-traffic indoor environments including the living room, bedroom, dining room, kitchen, or hallway. Its durable, easy-to-clean design also makes it an excellent choice for a classroom, office, or children's playroom.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a sepia Celtic knot tree rug with raised-look border, Tree of Life roots, neutral tones and backing detail. Design details Sepia beige tree of life rug with large circular celtic knot border, exposed roots, neutral background scroll patterns, room mockups, size chart, microfiber memory foam detail, stain/fade resistance and anti-slip backing panel. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Customize a sepia Celtic knot tree rug with raised-look border, Tree of Life roots, neutral tones and backing detail.</p><h3>Design details</h3><ul><li>Sepia beige tree of life rug with large circular celtic knot border, exposed roots, neutral background scroll patterns, room mockups, size chart, microfiber memory foam detail, stain/fade resistance and anti-slip backing panel.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B040-398,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d43b69ddc78ceb995af7e3b47d6239f7a858060e11858de5f0662674c85467e7.jpg?v=1784384980,,sepia Celtic knot tree rug patio view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/21f1a815b4a2ff099cad4fab03b465338fdd45a19b7a32c9c16ff6997cddfcc4.jpg?v=1784384980,,neutral Celtic Tree rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/08df8a2718ee2fec24ab4b116e1f356ff9fe5b81fa9b51d04fe02eb8a8e1830c.jpg?v=1784384985,,microfiber sepia tree rug detail,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3afa3af7bf4ed5b3cc1fbf7ee26692d3fe3cd9e29a64405e0fb786498e107945.jpg?v=1784384985,,anti-slip backing for sepia Celtic rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/bc57e28a324a52ba56d034dcbdeeffa16799b94c939cf000e7557b97537d1da7.jpg?v=1784384991,,sepia Tree of Life rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/806bffa11d1b37c5c1831fb0588916791b487e5cfaebc9432f90b981d48cdb32.jpg?v=1784384991,,neutral Celtic tree rug room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/13ca5629e29f4ea551fc34fbd2b1111d8b4fddae748edb33067e9aabd8666309.jpg?v=1784384996,,sepia knot tree rug beside sofa,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7e6d33693d173106472cf8eb2ab6cd648d5ae8abcd56d0c7cfbd1da9025bf17f.jpg?v=1784384997,,Celtic Tree rug by fireplace,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B040,chillgen.com,custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d,custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d,15913351020913,gid://shopify/Product/15913351020913,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B040_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d.html,2026-09-07T04:43:50+07:00,en-US,US,https://chillgen.com/products/custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d,https://chillgen.com/products/custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d,Rug,Custom Yggdrasil Celtic Area Rug with Text and Non Slip Backing for Bedroom,Custom Yggdrasil Celtic Area Rug with Text and Non Slip Backing for Bedroom,Jeweled Celtic Tree Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Yggdrasil Celtic Area Rug with Text for Bedroom,NONE_OR_NOT_OBSERVED,Jeweled Celtic Tree Rug,SET,23,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Customize this Yggdrasil Celtic area rug with text and bring symbolic Tree of Life artwork, memory foam comfort, and non slip backing to a bedroom.","Decorate with a jeweled Celtic Tree rug featuring green stones, ornate knot frame, mountain scene, size chart and backing.",SET,122,jeweled Celtic Tree rug,"custom Yggdrasil Celtic rug, Tree of Life Celtic design mat, ornate tree rug","jeweled Celtic Tree rug; custom Yggdrasil Celtic rug, Tree of Life Celtic design mat, ornate tree rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support Celtic Tree of Life rugs, Tree of Life welcome mats, Yggdrasil rugs, Celtic knot rugs and Tree of Life doormats. B040 separates highly similar products by visible style: sunset Celtic border, abstract rainbow tree, stained-glass landscape, ancient knotwork roots, emerald glow, monochrome line art, teal-gold knotwork, sepia Celtic knot, jeweled Celtic frame and rainbow mosaic.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,jeweled Celtic Tree rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports jeweled Celtic Tree rug and product-level buyer intent.,B040-399-BR01,"B040 buyers include Celtic decor shoppers, spiritual home decor buyers, nature lovers, Yggdrasil/Norse symbol fans, housewarming gift buyers and people looking for bold tree-themed rugs for living rooms, bedrooms or entryways.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Enhance your living space with this beautiful floor accent featuring a symbolic Celtic Tree of Life design. Designed to bring warmth and comfort to your home, this soft indoor rug showcases vibrant, long-lasting colors through advanced print technology. It serves as both a practical floor protector and a striking decorative piece for any modern interior.</p><h3>Product Highlights</h3><ul>
+<li>Features an elegant Yggdrasil Celtic Tree of Life pattern for a unique, symbolic look.</li>
+<li>Supports personalized size customization to perfectly fit your specific indoor space.</li>
+<li>Constructed with a soft, high-density memory foam cushion that helps soothe feet and relieve pressure.</li>
+<li>Equipped with a high-quality non-slip backing to ensure the mat stays securely in place.</li>
+<li>Low-profile 4mm pile height allows for easy placement under furniture and doors.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Repellent</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable, Stain Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Yggdrasil</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Viking, Celtic, Yggdrasil</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>CELTIC TREE RUG</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam, Polypropylene, Polyester</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber, Epoxy</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Use a damp cloth with mild soapy water to clean (avoid bleach) and let air dry. Vacuum lightly to settle.</td>
+</tr>
+</table><h3>Where It Works</h3><p>This versatile indoor mat is ideal for placement in your living room, bedroom, dining room, kitchen, or children's playroom. It also makes a thoughtful, practical gift for housewarmings, holidays, or special family occasions.</p>",Make product copy motif-specific while retaining verified public claims only.,"Decorate with a jeweled Celtic Tree rug featuring green stones, ornate knot frame, mountain scene, size chart and backing. Design details Ornate celtic tree of life rug with green gemstone-like accents, circular knot frame, corner celtic symbols, mountain and forest scene, room mockups, size chart, microfiber detail and anti-slip backing panel. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Decorate with a jeweled Celtic Tree rug featuring green stones, ornate knot frame, mountain scene, size chart and backing.</p><h3>Design details</h3><ul><li>Ornate celtic tree of life rug with green gemstone-like accents, circular knot frame, corner celtic symbols, mountain and forest scene, room mockups, size chart, microfiber detail and anti-slip backing panel.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B040-399,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71840b0df4ad372bca7fac0ff501bc2a07d2b8e980991cea05214c5df474d0bb.jpg?v=1784384958,,jeweled Celtic Tree rug patio view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/702adfef6757a8c844f4d11d3ae027116953950b9005eb08d91e28aba531d4be.jpg?v=1784384958,,ornate Yggdrasil rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5014b2324d500b3e833a5ab9619cc10f755b1e489c0e38efde11c71645fd55ca.jpg?v=1784384964,,microfiber jeweled Celtic detail,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fa7651e52b07785575cfc84d15ae6dd4149c805121cb67f13a15a55345bcb1b4.jpg?v=1784384963,,anti-slip backing panel for ornate rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/29c7ad8f3bac537b5c567c5aee416fe4377c88c649601b8273deea839f86764b.jpg?v=1784384969,,jeweled Tree rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e1f6017d04f0066295e183be7781d9a94262c037328910f0c6e3c3958160df05.jpg?v=1784384969,,Celtic design tree rug room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6a7a53e778fd2f47766a3a78daf81883cb60a54f63319209404171cc748d1b00.jpg?v=1784384974,,jeweled Celtic rug beside sofa,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ed1b2192dfa2381f5a8e4652f1b347816fef0fa915166dad81b4695de6cfc11a.jpg?v=1784384974,,ornate Tree of Life rug by fireplace,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B040,chillgen.com,custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c,custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c,15913351184753,gid://shopify/Product/15913351184753,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B040_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c.html,2026-09-07T04:43:50+07:00,en-US,US,https://chillgen.com/products/custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c,https://chillgen.com/products/custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c,Rug,Personalized Tree of Life Area Rug with Text and Memory Foam for Living Room,Personalized Tree of Life Area Rug with Text and Memory Foam for Living Room,Rainbow Mosaic Tree Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Tree of Life Area Rug with Memory Foam,NONE_OR_NOT_OBSERVED,Rainbow Mosaic Tree Rug,SET,23,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalize this Tree of Life area rug with custom text and add Celtic Yggdrasil artwork, memory foam cushioning, and a low pile surface to a living room.","Style a room with a rainbow mosaic Tree rug featuring stained-glass color blocks, sweeping hills, size chart and backing.",SET,121,rainbow mosaic Tree rug,"personalized Tree of Life area rug, colorful Celtic doormat, stained glass tree rug","rainbow mosaic Tree rug; personalized Tree of Life area rug, colorful Celtic doormat, stained glass tree rug",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace and retail SERPs support Celtic Tree of Life rugs, Tree of Life welcome mats, Yggdrasil rugs, Celtic knot rugs and Tree of Life doormats. B040 separates highly similar products by visible style: sunset Celtic border, abstract rainbow tree, stained-glass landscape, ancient knotwork roots, emerald glow, monochrome line art, teal-gold knotwork, sepia Celtic knot, jeweled Celtic frame and rainbow mosaic.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,rainbow mosaic Tree rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports rainbow mosaic Tree rug and product-level buyer intent.,B040-400-BR01,"B040 buyers include Celtic decor shoppers, spiritual home decor buyers, nature lovers, Yggdrasil/Norse symbol fans, housewarming gift buyers and people looking for bold tree-themed rugs for living rooms, bedrooms or entryways.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This premium indoor area rug features a beautifully detailed Tree of Life design, inspired by Celtic and Viking Yggdrasil traditions. Crafted to bring both style and comfort into your home, this soft floor mat provides a plush, welcoming surface underfoot. It is designed to seamlessly blend with modern decor while offering a warm and inviting feel to any indoor living space.</p><h3>Product Highlights</h3><ul>
+<li>Features a highly detailed Yggdrasil Celtic Tree of Life pattern with vibrant colors.</li>
+<li>Constructed with a soft, cushioning memory foam sponge interlayer to relieve foot pressure.</li>
+<li>Designed with a low-profile pile height of 4 millimeters, making it perfect for placement under furniture.</li>
+<li>Equipped with a non-slip backing material to ensure the rug stays securely in place.</li>
+<li>Stain-resistant and easy to clean, making it highly durable for high-traffic indoor environments.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Repellent</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Washable, Stain Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Yggdrasil</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Viking, Celtic, Yggdrasil</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Celtic Tree Rug</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Rubber</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Use a damp cloth with mild soapy water (avoid bleach)</td>
+</tr>
+<tr>
+<td>Drying</td>
+<td>Air dry</td>
+</tr>
+</table><h3>Where It Works</h3><p>This versatile indoor mat is ideal for placement in your living room, bedroom, entryway, or children's playroom. It also serves as a beautiful decorative addition to kitchens, dining rooms, and home offices.</p>",Make product copy motif-specific while retaining verified public claims only.,"Style a room with a rainbow mosaic Tree rug featuring stained-glass color blocks, sweeping hills, size chart and backing. Design details Bright mosaic tree of life rug with curved trunk, red orange pink leaves, yellow sky and blue rainbow hill bands, stained-glass tile look, room mockups, size chart, microfiber memory foam detail and anti-slip backing panel. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Style a room with a rainbow mosaic Tree rug featuring stained-glass color blocks, sweeping hills, size chart and backing.</p><h3>Design details</h3><ul><li>Bright mosaic tree of life rug with curved trunk, red orange pink leaves, yellow sky and blue rainbow hill bands, stained-glass tile look, room mockups, size chart, microfiber memory foam detail and anti-slip backing panel.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B040-400,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4bb0f3f4b24931f8d90bb17ef6e7f1ab76cafe9adeda6f314cf1e0ff2332b46d.jpg?v=1784384935,,rainbow mosaic Tree rug patio view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4c38a101527853b8b58377765f1c018a5717a7f6c7ea839dbbbdd69ace517112.jpg?v=1784384935,,mosaic Tree of Life rug size chart,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2b2481f5b2e4bea62a0659951cd4df4cd0f53b33e22aefa36fff42a49d905709.jpg?v=1784384941,,microfiber rainbow mosaic detail,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0f0e25de6e4ce46165065fb7677f46fbd4b925f96f25cd9a5ce7d64f7d2cf043.jpg?v=1784384941,,anti-slip backing for mosaic rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1e24d5fc4bef3f70ca2f3f47b5d8a510b2d84005c166576ce2fda54cccfb89f6.jpg?v=1784384946,,rainbow Tree rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2e638acfe987e8b2ef202d500846cb1938f4e0215edc2af374f645a2eaf33d57.jpg?v=1784384947,,colorful mosaic tree rug room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7118927deced99948c2400cdc083ba6b3cd6f5fd6888eec8f88887a7588207df.jpg?v=1784384952,,rainbow mosaic rug beside sofa,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/41a36a205474aa5ab112f68640066ca0d44657bfbec4eb6db4ad9f0fed48fe79.jpg?v=1784384952,,Tree of Life mosaic rug by fireplace,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,761 @@
+schema_version,prompt_version,run_id,batch_id,shop_domain,product_key,Handle,product_id,product_gid,identity_status,source_export_ref,source_exported_at,locale,market,url,canonical_url,product_type,title_current,h1_current,title_proposed,title_action,h1_mapping_status,meta_title_current,meta_title_source_state,rendered_title_current,theme_title_suffix,meta_title_seo,meta_title_action,meta_title_chars,meta_description_current,meta_description_source_state,rendered_meta_description_current,meta_description_seo,meta_description_action,meta_description_chars,primary_keyword,secondary_keywords,long_tail_candidates,keyword_strategy,season,keyword_demand_evidence,keyword_serp_fit,meta_keyword,search_intent,keyword_validation_status,keyword_selection_reason,buyer_research_refs,buyer_search_summary,baseline_status,change_scope,mapping_status,mapping_version,description_current_html,description_changes_needed,description_proposed,description_proposed_html,description_change_mode,description_target_section,description_action,revision,review_status,review_reason,approved_by,approved_at,approved_fields,approved_revision,processing_status,evidence_status,content_qa_status,field_evidence_map,evidence_id,issues,img_1_link,img_1_alt_current,img_1_alt,img_1_alt_action,img_2_link,img_2_alt_current,img_2_alt,img_2_alt_action,img_3_link,img_3_alt_current,img_3_alt,img_3_alt_action,img_4_link,img_4_alt_current,img_4_alt,img_4_alt_action,img_5_link,img_5_alt_current,img_5_alt,img_5_alt_action,img_6_link,img_6_alt_current,img_6_alt,img_6_alt_action,img_7_link,img_7_alt_current,img_7_alt,img_7_alt_action,img_8_link,img_8_alt_current,img_8_alt,img_8_alt_action,img_9_link,img_9_alt_current,img_9_alt,img_9_alt_action,img_10_link,img_10_alt_current,img_10_alt,img_10_alt_action,img_11_link,img_11_alt_current,img_11_alt,img_11_alt_action,img_12_link,img_12_alt_current,img_12_alt,img_12_alt_action,img_13_link,img_13_alt_current,img_13_alt,img_13_alt_action,img_14_link,img_14_alt_current,img_14_alt,img_14_alt_action,img_15_link,img_15_alt_current,img_15_alt,img_15_alt_action,img_16_link,img_16_alt_current,img_16_alt,img_16_alt_action,img_17_link,img_17_alt_current,img_17_alt,img_17_alt_action,img_18_link,img_18_alt_current,img_18_alt,img_18_alt_action,img_19_link,img_19_alt_current,img_19_alt,img_19_alt_action
+2.4,2.4,chillgen_20260907_01,B023,chillgen.com,custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9,custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9,15912097710449,gid://shopify/Product/15912097710449,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B023_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B023_pages/custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9.html,2026-09-07T03:24:17+07:00,en-US,US,https://chillgen.com/products/custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9,https://chillgen.com/products/custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9,Rug,Custom Road Map Play Rug with Name City Streets for Nursery Playroom,Custom Road Map Play Rug with Name City Streets for Nursery Playroom,Adventure Town Road Map Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Road Map Play Rug with Name for Nursery Playroom,NONE_OR_NOT_OBSERVED,Adventure Town Road Map Rug,SET,27,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Create a transportation scene with a custom road map rug featuring a name, streets, cars, buildings, schools, and parks for nurseries and playrooms.","Personalize an adventure town road map rug with custom name, roads, pond, pirate ship, homes, campsite, size guide and washable visuals.",SET,136,adventure town road map rug,"personalized road map rug, kids city play rug, toy car play mat","adventure town road map rug; personalized road map rug, kids city play rug, toy car play mat",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace results show demand for personalized road map play rugs, city street car mats, custom Christmas doormats, family name holiday door mats, pet Christmas doormats and stocking-themed holiday entry mats. B023 uses motif-specific Christmas wording while keeping customization and entryway intent clear.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,adventure town road map rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports adventure town road map rug and product-level buyer intent.,B023-221-BR01,"B023 buyers include parents creating interactive road-map playroom floors and holiday shoppers personalizing festive doormats for family names, pets, stockings, Santa themes and Christmas entryway decor.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This personalized road map area rug is designed to create a fun, interactive space for children. Featuring a detailed town theme with colorful streets, vehicles, buildings, and parks, it serves as both a decorative floor covering and an engaging play mat. Ideal for kids who love transportation, it brings creative town-themed artwork directly into your home decor.</p><h3>Product Highlights</h3><ul>
+<li>Custom city map design featuring personalized options like custom names and colorful town artwork.</li>
+<li>Interactive road and town theme including roads, cars, construction zones, schools, and parks.</li>
+<li>Soft and lightweight construction that folds easily and lays flat quickly.</li>
+<li>Designed with reinforced serged edges for enhanced, long-lasting durability.</li>
+<li>Easy-care low pile surface that simplifies cleaning and vacuuming.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Town, Tree, Road</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Back To School, City</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam, Polypropylene</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Polyester</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>High Pile / Low Pile</td>
+</tr>
+<tr>
+<td>Product Care Instructions</td>
+<td>Machine Wash</td>
+</tr>
+</table><h3>Where It Works</h3><p>This play rug is a wonderful addition to a child's bedroom, playroom, nursery, or classroom. It provides a soft, themed surface that enhances play spaces, learning environments, and active kids' rooms.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalize an adventure town road map rug with custom name, roads, pond, pirate ship, homes, campsite, size guide and washable visuals. Design details Green road map play rug personalized with liam's town, pirate ship pond, winding roads, houses, hospital, campsite, forest, cars, space scene panel, classroom and playroom mockups, size options, machine washable graphic and material detail panel. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalize an adventure town road map rug with custom name, roads, pond, pirate ship, homes, campsite, size guide and washable visuals.</p><h3>Design details</h3><ul><li>Green road map play rug personalized with liam's town, pirate ship pond, winding roads, houses, hospital, campsite, forest, cars, space scene panel, classroom and playroom mockups, size options, machine washable graphic and material detail panel.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B023-221,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0553e05f91c327679dade962a6d3a8ba3d322ecb296506a457fb55dbc44dc1fe.jpg?v=1784371557,,adventure town road map rug overhead view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1a3ef2a60ecb8d9b9ff05fbc9bc36ff2ade2970aca531102d09ae07f219e0585.jpg?v=1784371557,,size options for adventure road map rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/67cd6edfa5ab3cb70d36cf0569a5da382966d3ea86a4e1a297d4d1bf4c606969.jpg?v=1784371563,,green road map play rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/313f2704d266bc5ff15eea9eec0da1c6b8e4c5c1f43d564a226964bb63a244e3.jpg?v=1784371563,,angled adventure town rug in playroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4279d9b092634761b54896700af9fbb042f4dda027287b2e079cb2a965117931.jpg?v=1784371568,,children using adventure road map rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/de7abdf923ea1619e000bc1263715b3750c82204f39aea24da2edc55bbe5e677.jpg?v=1784371569,,road map rug in classroom aisle,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7607f46be0d074a69d19e0b5c84bb994f4ed0291c9ccb4d5324f653b54d91833.jpg?v=1784371574,,material details for green road map rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/80f64367c3d5139c5dc166ca0f34f46210df4711c52384a77ac88de36cc17e13.jpg?v=1784371575,,machine washable visual for road map rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5158ea09259ab14d3af27072aa56f401ee118bd4a54f6731ee0c8472c5deabc1.jpg?v=1784371580,,adventure town rug in playroom corner,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1e2dbb4ebb91d8b7b6ff3a60ab5d87a1579059e84546abf144cad958164b997f.jpg?v=1784370989,,personalized adventure road map product view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a6fd917ccd48480b6399a10a2c315524edbfd57af04286e48d56a0b34b965202.jpg?v=1784370989,,size chart for town road map rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0abedbecba493c27749ec70abebb5842507d00b2261debfd4fd09bc86bcaf3ff.jpg?v=1784370994,,large green city play rug room view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/446108dc388d1a237f7cdc4a5231fe15c7470720327fe84ec386e47f1474256f.jpg?v=1784370995,,angled road map rug with pirate pond,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0cf97869514123882c0e13ba0c81527300924e86aac61757e977ba870a7ce97b.jpg?v=1784371000,,group play on road map rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5a544245bab1a67500e50a75bfb83295533e6da09759d60c57a4e60ac62c1ada.jpg?v=1784371001,,classroom aisle view of road map rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/af21a2495722ac861d2d1e2fdca9deff5a3eda9132632b8619534700e748a3f6.jpg?v=1784371005,,non-slip backing detail for road rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7d2d843fbcbc680f71d0d3ca25e42a45762dc645d8e00ee3e8c1b157d13c0f1b.jpg?v=1784371006,,washable care visual for kids road rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2bdfc26b42b98d34b70544b32dc9297e41189a9196dc2cf3a7ce005d6dc0a781.jpg?v=1784371012,,road map rug in bright playroom,SET,,,,
+2.4,2.4,chillgen_20260907_01,B023,chillgen.com,custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7,custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7,15912097972593,gid://shopify/Product/15912097972593,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B023_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B023_pages/custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7.html,2026-09-07T03:24:17+07:00,en-US,US,https://chillgen.com/products/custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7,https://chillgen.com/products/custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7,Rug,Personalized City Street Road Map Rug with Name for Classroom Bedroom,Personalized City Street Road Map Rug with Name for Classroom Bedroom,Construction City Road Map Rug,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized City Street Road Map Rug with Name for Bedroom,NONE_OR_NOT_OBSERVED,Construction City Road Map Rug,SET,30,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Add an interactive city scene with a personalized road map rug featuring a name, streets, vehicles, buildings, and parks for classrooms and bedrooms.","Build a toy-truck play zone with a construction city road map rug featuring custom name, trucks, roads, signs, size guide and washable visuals.",SET,143,construction city road map rug,"personalized truck play rug, kids road map rug, custom city street mat","construction city road map rug; personalized truck play rug, kids road map rug, custom city street mat",LONG_TAIL_CANDIDATE,EVERGREEN,"Marketplace results show demand for personalized road map play rugs, city street car mats, custom Christmas doormats, family name holiday door mats, pet Christmas doormats and stocking-themed holiday entry mats. B023 uses motif-specific Christmas wording while keeping customization and entryway intent clear.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,construction city road map rug,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports construction city road map rug and product-level buyer intent.,B023-222-BR01,"B023 buyers include parents creating interactive road-map playroom floors and holiday shoppers personalizing festive doormats for family names, pets, stockings, Santa themes and Christmas entryway decor.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>This personalized road map area rug features a colorful custom city street design complete with roads, vehicles, and buildings. Perfect for creating an interactive and fun decorative play space, it brings transportation-inspired charm to any room. It is designed to lay flat quickly and offers a comfortable spot for kids to play and learn.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Custom city map design featuring personalized details, roads, cars, and town artwork.</li>
+<li>Features a town theme complete with construction zones, schools, parks, and trains.</li>
+<li>Designed with durable reinforced serged edges to ensure long-lasting use.</li>
+<li>Easy-care, low-pile construction that simplifies cleaning and vacuuming.</li>
+<li>Perfect decorative play mat option for bedrooms, playrooms, and classrooms.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Town, Tree, Road</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Back To School, City</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>Modern</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Memory Foam, Polypropylene</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Polyester</td>
+</tr>
+<li>Product Care Instructions</li>
+<td>Machine Wash</td>
+</table>
+
+<h3>Where It Works</h3>
+<p>This playful city street carpet works beautifully in kids' bedrooms, nurseries, and school classrooms. Its interactive theme provides a warm and comfortable layout for dedicated playrooms and active play areas.</p>",Make product copy motif-specific while retaining verified public claims only.,"Build a toy-truck play zone with a construction city road map rug featuring custom name, trucks, roads, signs, size guide and washable visuals. Design details Gray and cream road map rug personalized with robert name and construction zone text, excavators, dump trucks, road signs, roundabout, stop signs, houses, roads, classroom and playroom mockups, size chart, washable graphic and non-slip material panel. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Build a toy-truck play zone with a construction city road map rug featuring custom name, trucks, roads, signs, size guide and washable visuals.</p><h3>Design details</h3><ul><li>Gray and cream road map rug personalized with robert name and construction zone text, excavators, dump trucks, road signs, roundabout, stop signs, houses, roads, classroom and playroom mockups, size chart, washable graphic and non-slip material panel.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B023-222,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/326039e7645c1357196151b2161f1a65d1baeac85cf9ef6ede8ca2ab44b327c3.jpg?v=1784370301,,construction city road map rug overhead view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1d3dbd2113d12aba38b1882c3a69a90fb05b5e01f7b57aa61a2d4cfef81f5f5a.jpg?v=1784370301,,size options for construction road rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/77f4648763f1deee11e3958cf1b05643c8436abb997af8b59b8de20695c6c4c0.jpg?v=1784370307,,construction city rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/261630ed863ad5395172e3771c3df89b28e6b151f7f12074524641aedc7ad315.jpg?v=1784370307,,construction road rug in classroom aisle,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/aac2dfc640418b7417b386ba463c50068485ccfa78ffa2baf08b00286378052a.jpg?v=1784370312,,playroom view of truck road rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/610ced9b8488ce68526c59834ce1b5d8f76c595011883533eec104a1da1b0142.jpg?v=1784370312,,construction road map rug in bright room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f42ea0eb5785805c0aedd4270374445a4d78632c036ef90adc0f53540159af3c.jpg?v=1784370318,,machine washable visual for construction rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/20a7ecab815fe1a6c7fc2b274aed5cdc8ad5a318dc942198a6fdd77a44d2ecee.jpg?v=1784370317,,material detail panel for truck road rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e187acdd12675e53a16c80c4d5b1b640e666e46eec824764d0366bda9860e870.jpg?v=1784370323,,children using construction city rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/eb41fa1b2ecba5560ecc303d975225884b63ae5d82083f38d5d1f1061c4d2412.jpg?v=1784370323,,personalized construction road rug product view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b8812b65c628462a3e26743d47215eb4bcae7a5440b494436962d98198c7dbd1.jpg?v=1784370328,,size chart for truck play rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6922134fba6ea4f7ed9d777b07a07de06730fdf34da91efcf4a3099f77db21f4.jpg?v=1784370329,,angled construction road rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ec16588a3989d86f4d056f4f85f63dce0088de2556cb084a04fdf82d0194b949.jpg?v=1784370334,,large truck road rug in classroom,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d5d1d164a7bfff71fac5e81cbaad11cde5e47a9b15f7ee453856ed1f8ef386cb.jpg?v=1784370335,,construction road map rug in play area,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c2035ec1197b718006a40a462b4b57440e25d14a5ab7575da0621fb6be1d8e02.jpg?v=1784370340,,kids room view of construction rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f2cc9c9339d3392fd2e7639d86b137f3c0a69e64db28c1e593b7668411eb52bd.jpg?v=1784370340,,washable care visual for truck road rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/930d70c3f23ca8dc53c27553a98902e8940c4c26341ea24f5341cc656ba12de4.jpg?v=1784370345,,non-slip backing detail for construction rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/4e13c97d88c69de484812f1c99b1099b17b080beb1d20072ab056468bbc73743.jpg?v=1784370346,,group play on construction city rug,SET,,,,
+2.4,2.4,chillgen_20260907_01,B023,chillgen.com,personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962,personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962,15912098169201,gid://shopify/Product/15912098169201,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B023_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B023_pages/personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962.html,2026-09-07T03:24:17+07:00,en-US,US,https://chillgen.com/products/personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962,https://chillgen.com/products/personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962,Rug,Personalized Santa Christmas Doormat with Family Name for Front Door,Personalized Santa Christmas Doormat with Family Name for Front Door,Santa Stop Here Family Doormat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Santa Christmas Doormat with Family Name,NONE_OR_NOT_OBSERVED,Santa Stop Here Family Doormat,SET,30,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Welcome holiday guests with a personalized Santa Christmas doormat featuring your family name, a soft surface, and non slip backing for home entryways.","Welcome Santa with a personalized Santa stop here family doormat featuring boots, green polka dots, custom family name and non-slip backing.",SET,140,Santa stop here family doormat,"personalized Christmas doormat, family name holiday mat, Santa entryway rug","Santa stop here family doormat; personalized Christmas doormat, family name holiday mat, Santa entryway rug",LONG_TAIL_CANDIDATE,CHRISTMAS,"Marketplace results show demand for personalized road map play rugs, city street car mats, custom Christmas doormats, family name holiday door mats, pet Christmas doormats and stocking-themed holiday entry mats. B023 uses motif-specific Christmas wording while keeping customization and entryway intent clear.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,Santa stop here family doormat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports Santa stop here family doormat and product-level buyer intent.,B023-223-BR01,"B023 buyers include parents creating interactive road-map playroom floors and holiday shoppers personalizing festive doormats for family names, pets, stockings, Santa themes and Christmas entryway decor.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Greet your guests with warmth and holiday cheer this festive season. This customizable doormat features bright, seasonal patterns designed to bring personality and festive style to your doorstep. Perfect for creating a welcoming winter wonderland, it is crafted to handle daily foot traffic while keeping your home inviting.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Supports custom text inputs for a truly personalized holiday greeting.</li>
+<li>Soft touch is gentle on bare feet while maintaining durability.</li>
+<li>Equipped with a non-slip backing to keep the mat securely in place.</li>
+<li>Resilient construction stands up to daily foot traffic and seasonal weather.</li>
+<li>Designed for versatile use across indoor and outdoor entryways.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Repellent</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip, Stain Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Gingerbread, Stocking, Dog, Cat, Letter</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Christmas, Personalized</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Christmas</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>High-quality Epoxy</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Polyester, neoprene rubber non-slip backing, heat-resistant non-woven fabric top</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash, or clean with a wet sponge/towel and mild detergent</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This festive mat is perfect for placement at front and back doors, terraces, porches, balconies, garages, and entryways. It also fits beautifully inside your kitchen, bedroom, bathroom, living room, or office to spread holiday joy throughout your space.</p>",Make product copy motif-specific while retaining verified public claims only.,"Welcome Santa with a personalized Santa stop here family doormat featuring boots, green polka dots, custom family name and non-slip backing. Design details Green christmas doormat with white polka dots, santa boots and red pants, red name banner, santa stop here text, custom family name, entryway mockups, person holding mat and non-skid rubber backing detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Welcome Santa with a personalized Santa stop here family doormat featuring boots, green polka dots, custom family name and non-slip backing.</p><h3>Design details</h3><ul><li>Green christmas doormat with white polka dots, santa boots and red pants, red name banner, santa stop here text, custom family name, entryway mockups, person holding mat and non-skid rubber backing detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B023-223,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/11ddeeb4925bf661b09ec8d7d93c6b9da38235873f24a47d9dca5890ccbd640e.jpg?v=1784383076,,Santa stop here family doormat at door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e9c288df4e785a7b8a536f5163fb357f17206f05f69ab1404a67d8923fe88ee4.jpg?v=1784383078,,person holding personalized Santa doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cfe68114ced15e7f06bd02c90c3a5e1bc6d9dcc9c3a0a3d6a3e9d164422c0519.jpg?v=1784383082,,Santa boots Christmas doormat product image,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/90e59f1d6a0b2bbd840d8594410449ab84224f8a3b36ac08b49a884c1fc008f6.jpg?v=1784383083,,non-skid backing detail for Santa mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3d31797ccb2ec49d2f6ec84ec8e100e0f404e8407901549df79c5974d76c8e7e.jpg?v=1784383087,,Santa stop here mat beside bed,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/886e4b8f48cb0cd25a70bcd0abe09a775e27b2874eec2932ab7767d9417e702b.jpg?v=1784383089,,Christmas Santa doormat at white door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/66003f7bdbe9a06ce8c8f7a95554e4be88f7b52e6d2a7c0a8e2622d23dc71dc7.jpg?v=1784383093,,family name Santa mat at front door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cf26de2f5ae771fc92a6e67a3169d640204374dcf739125894bbf318a5de6e08.jpg?v=1784383094,,Santa stop here mat on white floor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71c485ff5f623c6d08eaeed091ddaed30d656c22b1d911cf6bb51d5029c4a70b.jpg?v=1784383099,,Santa boots doormat at entry,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/61rIHaNFJ3L._SL1500.jpg?v=1784378178,,flat product image of Santa family mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71NRRgk-apL._SL1500.jpg?v=1784378182,,backing and thickness detail for Santa doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71-ShuEKA2L._SL1500.jpg?v=1784378184,,Santa mat beside bed entry,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71Z2BXzsI7L._SL1500.jpg?v=1784378188,,Santa mat by Christmas tree,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71zCS1Q3-yL._SL1500.jpg?v=1784378189,,Santa family doormat at front door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/61qfcx2vY4L._SL1500.jpg?v=1784378193,,Santa stop here mat by white door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/715Tuj5rEvL._SL1500.jpg?v=1784378195,,Santa boots family name doormat overhead,SET,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B023,chillgen.com,personalized-christmas-doormat-80a01c19f6-80a01c19f6,personalized-christmas-doormat-80a01c19f6-80a01c19f6,15912098201969,gid://shopify/Product/15912098201969,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B023_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B023_pages/personalized-christmas-doormat-80a01c19f6-80a01c19f6.html,2026-09-07T03:24:17+07:00,en-US,US,https://chillgen.com/products/personalized-christmas-doormat-80a01c19f6-80a01c19f6,https://chillgen.com/products/personalized-christmas-doormat-80a01c19f6-80a01c19f6,Rug,Custom Pet Stocking Christmas Doormat with Family Name for Holiday Entryway,Custom Pet Stocking Christmas Doormat with Family Name for Holiday Entryway,Pet Stocking Christmas Doormat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Pet Stocking Christmas Doormat with Family Name,NONE_OR_NOT_OBSERVED,Pet Stocking Christmas Doormat,SET,30,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Create a festive entrance with a custom pet stocking Christmas doormat featuring your family name, pet names, a soft surface, and non slip backing.","Personalize a pet stocking Christmas doormat with dog portraits, stockings, family name, holiday lights and non-slip backing visuals.",SET,133,pet stocking Christmas doormat,"personalized pet Christmas mat, dog Christmas doormat, family name holiday doormat","pet stocking Christmas doormat; personalized pet Christmas mat, dog Christmas doormat, family name holiday doormat",LONG_TAIL_CANDIDATE,CHRISTMAS,"Marketplace results show demand for personalized road map play rugs, city street car mats, custom Christmas doormats, family name holiday door mats, pet Christmas doormats and stocking-themed holiday entry mats. B023 uses motif-specific Christmas wording while keeping customization and entryway intent clear.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,pet stocking Christmas doormat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports pet stocking Christmas doormat and product-level buyer intent.,B023-224-BR01,"B023 buyers include parents creating interactive road-map playroom floors and holiday shoppers personalizing festive doormats for family names, pets, stockings, Santa themes and Christmas entryway decor.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Transform your entryway into a warm and festive welcome with this custom holiday doormat. Designed to spread seasonal cheer, this functional accent piece allows you to add a personal touch to your doorstep while greeting family and guests. It features a bright, eye-catching holiday theme that sets a joyful tone for the winter season.</p><h3>Product Highlights</h3><ul>
+<li>Supports personalized text inputs to create a custom seasonal greeting</li>
+<li>Durable construction designed to handle daily foot traffic and elements</li>
+<li>Features a soft feel that is comfortable and gentle on bare feet</li>
+<li>Equipped with a non-slip backing to help keep the mat securely in place</li>
+<li>Versatile design suitable for both indoor and outdoor entryways</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip, Is Stain Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Gingerbread, Stocking, Dog, Cat, Letter</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Christmas, Personalized</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Christmas</td>
+</tr>
+<tr>
+<td>Water Resistance Level</td>
+<td>Water Repellent</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>High-quality Epoxy</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Polyester, Neoprene rubber non-slip backing</td>
+</tr>
+<tr>
+<td>Product Care Instructions</td>
+<td>Machine Washable, or clean with a wet sponge/towel and mild detergent</td>
+</tr>
+</table><h3>Where It Works</h3><p>Perfect for front and back doors, porches, terraces, and entryways. It also works beautifully in indoor spaces such as kitchens, mudrooms, hallways, and offices to add a festive touch.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalize a pet stocking Christmas doormat with dog portraits, stockings, family name, holiday lights and non-slip backing visuals. Design details Black merry christmas doormat with string lights, four dogs sitting in red stockings, pet names, custom family name, snowflakes, entryway mockups, person holding mat and non-skid rubber backing detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalize a pet stocking Christmas doormat with dog portraits, stockings, family name, holiday lights and non-slip backing visuals.</p><h3>Design details</h3><ul><li>Black merry christmas doormat with string lights, four dogs sitting in red stockings, pet names, custom family name, snowflakes, entryway mockups, person holding mat and non-skid rubber backing detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B023-224,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/20595e8514849eed778724742be2505bfd8dbb51fb2e8cad4e7a8d1c356dc7f9.jpg?v=1784383050,,pet stocking Christmas doormat at door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3f2ec1ab04935eba588f9a011177f78c61a8e756ad543a28bc35ae7ee954855d.jpg?v=1784383055,,dog stocking Christmas mat beside white door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5440ee624800f943242b37e1dd05767dd941f33c26393b05f42f837442d57d2d.jpg?v=1784383056,,pet names Merry Christmas doormat product image,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f8eed95b06ca3b383d0025e9c1e6cb119bae6e11a2247294fa05f612805d3e1e.jpg?v=1784383060,,person holding personalized pet Christmas mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cc38fed26f97de9c7c7a9169f3b115df8a695a584b1958b135587d3ec8a6cdb8.jpg?v=1784383061,,non-skid backing detail for pet holiday mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/897891c302681d70df7c2107d46eb09633f8852e8fdd38bda48c6d244f8587f4.jpg?v=1784383066,,dog Christmas doormat at front door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9333beb9005e8cfba8bed01e74fff3ea932df41edc872dd5ef5cf757515c82e3.jpg?v=1784383067,,pet stocking mat overhead at entry,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/24f0ec7495882262e29b9ef2cd52ac88cab56aab1716b09d9c159d9ea8d6e4b1.jpg?v=1784383071,,black pet Christmas mat at white doorway,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5486b4ea3d4c9fde5a1da0ccf4cec9772a6c8aa1cdff37d03215407d65f5f88d.jpg?v=1784383072,,pet stocking mat beside bed,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71_a5ijTiAL._SL1500.jpg?v=1784378168,,pet Christmas mat at dark front door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/61FFKECa-UL._SL1500.jpg?v=1784378171,,overhead view of dog stocking doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/61IYbyu_2OL._SL1500.jpg?v=1784378173,,pet family Christmas mat at doorway,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71h9hPmnzVL._SL1500.jpg?v=1784378177,,pet stocking mat beside bed view,SET,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B023,chillgen.com,personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891,personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891,15912098267505,gid://shopify/Product/15912098267505,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B023_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B023_pages/personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891.html,2026-09-07T03:24:17+07:00,en-US,US,https://chillgen.com/products/personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891,https://chillgen.com/products/personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891,Rug,Personalized Black Bear Christmas Doormat with Family Name for Front Door,Personalized Black Bear Christmas Doormat with Family Name for Front Door,Black Bear Family Christmas Doormat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Black Bear Christmas Doormat with Family Name,NONE_OR_NOT_OBSERVED,Black Bear Family Christmas Doormat,SET,35,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Add winter character to your entrance with a personalized black bear Christmas doormat featuring your family name, low pile surface, and non slip backing.","Personalize a black bear family Christmas doormat with bear characters, names, plaid border, pine trees and non-slip backing visuals.",SET,133,black bear family Christmas doormat,"personalized Christmas doormat, family name holiday mat, bear family welcome mat","black bear family Christmas doormat; personalized Christmas doormat, family name holiday mat, bear family welcome mat",LONG_TAIL_CANDIDATE,CHRISTMAS,"Marketplace results show demand for personalized road map play rugs, city street car mats, custom Christmas doormats, family name holiday door mats, pet Christmas doormats and stocking-themed holiday entry mats. B023 uses motif-specific Christmas wording while keeping customization and entryway intent clear.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,black bear family Christmas doormat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports black bear family Christmas doormat and product-level buyer intent.,B023-225-BR01,"B023 buyers include parents creating interactive road-map playroom floors and holiday shoppers personalizing festive doormats for family names, pets, stockings, Santa themes and Christmas entryway decor.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Greet your guests with warmth and holiday cheer using this custom holiday welcome mat. Featuring a festive winter design, this personalized home accessory is designed to bring a touch of seasonal spirit to your doorstep. Built to handle daily foot traffic, it serves as a durable and inviting addition to your home decor during the winter season.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Customizable greeting allows you to add personalized text for a unique touch.</li>
+<li>Festive holiday design featuring bright colors and seasonal patterns.</li>
+<li>Backed with neoprene rubber non-slip backing for secure placement.</li>
+<li>Low pile flat woven construction that is soft on bare feet.</li>
+<li>Easy to clean using a wet sponge, towel, or mild detergent.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip, Stain Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Gingerbread, Stocking, Dog, Cat, Letter</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Christmas, Personalized</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>Christmas</td>
+</tr>
+<tr>
+<td>Water Resistance Level</td>
+<td>Water Repellent</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>High-quality Epoxy</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Polyester, Neoprene Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Wash, Wipe with wet sponge or towel and mild detergent</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This festive doormat is suitable for placing on front and back doors, terraces, porches, balconies, garages, and entryways. It can also be utilized indoors in the entryway, kitchen, hallway, bathroom, bedroom, living room, or office.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalize a black bear family Christmas doormat with bear characters, names, plaid border, pine trees and non-slip backing visuals. Design details Christmas doormat with black bear family characters wearing red hats and scarves, individual name labels, custom family name, green trees, red buffalo plaid border, snowy accents, person holding mat, entryway mockups and backing detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalize a black bear family Christmas doormat with bear characters, names, plaid border, pine trees and non-slip backing visuals.</p><h3>Design details</h3><ul><li>Christmas doormat with black bear family characters wearing red hats and scarves, individual name labels, custom family name, green trees, red buffalo plaid border, snowy accents, person holding mat, entryway mockups and backing detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B023-225,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/18011ca7a74a9f31116fa94f8b5959db7f768aff86faf8653219ecdc5fef4c99.jpg?v=1784383028,,black bear family Christmas doormat at door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9e1bbfcfd84980a43637e17d625335cb0bfb976112d7514419708afce423f047.jpg?v=1784383027,,bear family holiday mat beside white door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d26d2cb3ac4e03c599e3ba07bb5c7047c12698adb2321254998433cf7f0cf80e.jpg?v=1784383032,,black bear family doormat product image,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a5350e93bca0ddc4dd81d21a6203658c6f61c5d543c52bee26504c9bfc93b651.jpg?v=1784383033,,person holding bear family Christmas mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/32f4b8826457979c61e230e9e7a2b29bde4e2f0a5734f36370f0b8a37216a6e3.jpg?v=1784383038,,non-skid backing detail for bear mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3b51481adde3245776d8b104857eb196295da2a06b919afd58ca117d37fafadd.jpg?v=1784383040,,bear family mat at front door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f41e413784a4d96d715f3815c5d970230654ccb628b5083862c1db3dddf3696a.jpg?v=1784383044,,overhead view of bear Christmas doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3325cc590a038b3b95e12b2b143be0082bd097c5dde7b04f31d16ca04294700d.jpg?v=1784383045,,bear family mat at white doorway,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/68cfece97ccc73bcf587668d0d5c4e0124ff325743f2b175d55ea73aefb3cad9.jpg?v=1784383049,,bear holiday doormat beside bed,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71UlDNVXaLL._SL1500.jpg?v=1784378148,,person holding custom bear mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71awlBkX9wL._SL1500.jpg?v=1784378153,,backing and thickness detail for bear doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71H0dUuOffL._SL1500.jpg?v=1784378154,,bear family Christmas doormat at dark door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71R_P_olyZL._SL1500.jpg?v=1784378161,,overhead bear family mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/715vqEXqe9L._SL1500.jpg?v=1784378162,,bear mat beside white door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71elfBMPA8L._SL1500.jpg?v=1784378166,,bear family doormat beside bed,SET,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B023,chillgen.com,personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372,personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372,15912099185009,gid://shopify/Product/15912099185009,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B023_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B023_pages/personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372.html,2026-09-07T03:24:17+07:00,en-US,US,https://chillgen.com/products/personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372,https://chillgen.com/products/personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372,Rug,Custom Christmas Doormat with Family Name and Address for Holiday Entryway,Custom Christmas Doormat with Family Name and Address for Holiday Entryway,Red Monogram Christmas Doormat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Christmas Doormat with Family Name and Address,NONE_OR_NOT_OBSERVED,Red Monogram Christmas Doormat,SET,30,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Create a festive welcome with a custom Christmas doormat featuring your family name, address, warm seasonal patterns, a soft surface, and non slip backing.","Personalize a red monogram Christmas doormat with family name, Happy Holidays script, snowflakes, ribbon styling and non-slip backing.",SET,134,red monogram Christmas doormat,"family name holiday doormat, personalized Christmas mat, custom monogram entry mat","red monogram Christmas doormat; family name holiday doormat, personalized Christmas mat, custom monogram entry mat",LONG_TAIL_CANDIDATE,CHRISTMAS,"Marketplace results show demand for personalized road map play rugs, city street car mats, custom Christmas doormats, family name holiday door mats, pet Christmas doormats and stocking-themed holiday entry mats. B023 uses motif-specific Christmas wording while keeping customization and entryway intent clear.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,red monogram Christmas doormat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports red monogram Christmas doormat and product-level buyer intent.,B023-226-BR01,"B023 buyers include parents creating interactive road-map playroom floors and holiday shoppers personalizing festive doormats for family names, pets, stockings, Santa themes and Christmas entryway decor.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Greet your guests with warmth and festive cheer during the holiday season. This customizable Christmas doormat is designed to add a personal touch to your entryway, making your home feel inviting and unique. Featuring bright, warm seasonal colors, it is the perfect decorative accent to celebrate the winter holidays in style.</p><h3>Product Highlights</h3><ul>
+<li>Personalized design allowing for custom text inputs to create a unique welcome.</li>
+<li>Festive Christmas patterns with warm colors like red and buffalo plaid tree designs.</li>
+<li>Soft on bare feet with a non-slip backing for stability.</li>
+<li>Durable construction designed to handle daily foot traffic and elements.</li>
+<li>Easy to clean using a wet sponge, towel, or mild detergent.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Repellent</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip, Stain Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Gingerbread, Stocking, Dog, Cat, Letter</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Christmas, Personalized</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Christmas</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>High-quality Epoxy</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Polyester with neoprene rubber non-slip backing</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Washable, also easy to spot clean with wet sponge or towel</td>
+</tr>
+</table><h3>Where It Works</h3><p>Perfect for placement at front and back doors, porches, terraces, and entryways. It also works beautifully inside the kitchen, entryway, hallway, living room, or office to enhance your holiday decor.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalize a red monogram Christmas doormat with family name, Happy Holidays script, snowflakes, ribbon styling and non-slip backing. Design details Bright red christmas doormat with white ribbon stripe, circular monogram initial, happy holidays script, custom family name, snowflakes, entryway and person holding mockups, non-skid rubber backing and easy-clean graphics. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalize a red monogram Christmas doormat with family name, Happy Holidays script, snowflakes, ribbon styling and non-slip backing.</p><h3>Design details</h3><ul><li>Bright red christmas doormat with white ribbon stripe, circular monogram initial, happy holidays script, custom family name, snowflakes, entryway and person holding mockups, non-skid rubber backing and easy-clean graphics.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B023-226,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/88f1164841d39e4e156b0335642fc352350486cac8645421a9b43eb9a3003403.jpg?v=1784383000,,red monogram Christmas doormat at door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e8e43d8ddeed3b3d672cbfa6aa0579ae8862f759c7bd8c4f8b9e0decc234df3b.jpg?v=1784383004,,red family name holiday mat product image,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2fd25e6a91313d3dccb5a6e43857105af0ec1a3b502547912ad2b47396815661.jpg?v=1784383007,,non-skid backing detail for red Christmas mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/580bf8bdc20bdb5301fcc6d09d51f4afe9e172292de9099679cab7fec14c9d19.jpg?v=1784383010,,red monogram doormat near Christmas tree,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/54bb1d48b3c25ea62f3873673cb8c29ec5c6bebdcbde264521446b9c53e1f3fc.jpg?v=1784383012,,person holding red family name mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f176127cd67ea1c1414a8cdd3a9c75dfc740be2860211bf0435f2552a73a7273.jpg?v=1784383015,,red Christmas mat at wooden door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d7d073604affd6334b9482279e761247dc60df9f882399581f7ca223b85d910d.jpg?v=1784383017,,red holiday mat beside white door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/de11431ed3a210a633277a1f34e545d644c8f411ae989ede360802d828328f48.jpg?v=1784383021,,red monogram mat at dark front door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/94c997c51b9e2685e3c523c613a7bdc287a1b1df7c22cfaef7f8d726609e76b7.jpg?v=1784383022,,overhead red Christmas mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/614FD8fy-rL._SL1500.jpg?v=1784378133,,backing detail for family name mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/61AaHPLaSyL._SL1500.jpg?v=1784378133,,red holiday doormat at doorway,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/61eC4nbV48L._SL1500.jpg?v=1784378138,,person holding red monogram mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/61hXXD9-nzL._SL1500.jpg?v=1784378138,,red Christmas mat at wood entry,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/616RyK2hy2L._SL1500.jpg?v=1784378143,,red holiday mat at white door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/715YzxMJsPL._SL1500.jpg?v=1784378143,,red monogram doormat at front door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/610IQy53yDL._SL1500.jpg?v=1784378148,,overhead family-name holiday mat,SET,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B023,chillgen.com,personalized-christmas-doormat-with-custom-family-name-83c3ea451f,personalized-christmas-doormat-with-custom-family-name-83c3ea451f,15912099250545,gid://shopify/Product/15912099250545,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B023_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B023_pages/personalized-christmas-doormat-with-custom-family-name-83c3ea451f.html,2026-09-07T03:24:17+07:00,en-US,US,https://chillgen.com/products/personalized-christmas-doormat-with-custom-family-name-83c3ea451f,https://chillgen.com/products/personalized-christmas-doormat-with-custom-family-name-83c3ea451f,Rug,Personalized Family Stocking Christmas Doormat for Front Door Entryway,Personalized Family Stocking Christmas Doormat for Front Door Entryway,Family Stocking Christmas Doormat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Family Stocking Christmas Doormat for Entryway,NONE_OR_NOT_OBSERVED,Family Stocking Christmas Doormat,SET,33,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Welcome guests with a personalized family stocking Christmas doormat featuring your family name, a soft surface, and slip resistant backing for entryways.","Personalize a family stocking Christmas doormat with elf characters, pet options, custom family name, lights and festive entryway style.",SET,136,family stocking Christmas doormat,"personalized family Christmas mat, custom holiday doormat, pet family Christmas rug","family stocking Christmas doormat; personalized family Christmas mat, custom holiday doormat, pet family Christmas rug",LONG_TAIL_CANDIDATE,CHRISTMAS,"Marketplace results show demand for personalized road map play rugs, city street car mats, custom Christmas doormats, family name holiday door mats, pet Christmas doormats and stocking-themed holiday entry mats. B023 uses motif-specific Christmas wording while keeping customization and entryway intent clear.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,family stocking Christmas doormat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports family stocking Christmas doormat and product-level buyer intent.,B023-227-BR01,"B023 buyers include parents creating interactive road-map playroom floors and holiday shoppers personalizing festive doormats for family names, pets, stockings, Santa themes and Christmas entryway decor.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Greet your guests with a warm and festive welcome throughout the holiday season. This customizable doormat features a charming design with bright colors that add personality and seasonal style to your home. Designed to withstand daily foot traffic, it makes your entrance feel extra special and inviting.</p>
+
+<h3>Product Highlights</h3>
+<ul>
+<li>Customizable greeting options allow you to personalize with your family name or a holiday message.</li>
+<li>Printed with bright, festive holiday patterns to add seasonal style to your entryway.</li>
+<li>Backed with durable heat-resistant non-woven fabric and slip-resistant backing.</li>
+<li>Soft and comfortable when stepping with bare feet.</li>
+<li>Sturdy construction built to handle daily foot traffic and elements.</li>
+</ul>
+
+<h3>Specifications</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Repellent</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip, Stain Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Gingerbread, Stocking, Dog, Cat, Letter</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Christmas, Personalized</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Christmas</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table>
+
+<h3>Material &amp; Care</h3>
+<table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>High-quality Epoxy</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Polyester and Neoprene Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Washable, Easy to clean with wet sponge and mild detergent</td>
+</tr>
+</table>
+
+<h3>Where It Works</h3>
+<p>This holiday entryway mat is highly versatile, making it suitable for front and back doors, porches, terraces, and balconies. It also fits nicely inside your kitchen, entryway, hallway, bedroom, or home office to spread festive cheer throughout.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalize a family stocking Christmas doormat with elf characters, pet options, custom family name, lights and festive entryway style. Design details Tan and green merry christmas doormat with multiple elf stocking characters hanging from a mantle, individual names, family name banner, string lights, choose cat and choose dog option charts, entryway mockups and door placement views. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalize a family stocking Christmas doormat with elf characters, pet options, custom family name, lights and festive entryway style.</p><h3>Design details</h3><ul><li>Tan and green merry christmas doormat with multiple elf stocking characters hanging from a mantle, individual names, family name banner, string lights, choose cat and choose dog option charts, entryway mockups and door placement views.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B023-227,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/889daf86c9c8e079a85413c50003a2dd14cac7d99cfa26c1df43cf3e551d8004.jpg?v=1784383199,,family stocking Christmas doormat at door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71fbnc44vcL._SL1500.jpg?v=1784378107,,stocking family mat near Santa decor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71qx9w_GQtL._SL1500.jpg?v=1784378111,,custom family name stocking doormat product image,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71Eb0PcsNNL._SL1500.jpg?v=1784378112,,family stocking mat at white door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71NtkypJ1ML._SL1500.jpg?v=1784378117,,Christmas elf character options,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71hAyKiRoAL._SL1500.jpg?v=1784378117,,cat options chart for Christmas doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71grTM5kjcL._SL1500.jpg?v=1784378122,,dog options chart for personalized mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71OxYQBJg5L._SL1500.jpg?v=1784378122,,family stocking mat beside bed,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/714-I8wKjTL._SL1500.jpg?v=1784378127,,family Christmas mat at front door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71cK2YV8zoL._SL1500.jpg?v=1784378128,,stocking family doormat overhead,SET,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B023,chillgen.com,personalized-christmas-doormat-with-custom-family-name-d66e920e14,personalized-christmas-doormat-with-custom-family-name-d66e920e14,15912099545457,gid://shopify/Product/15912099545457,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B023_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B023_pages/personalized-christmas-doormat-with-custom-family-name-d66e920e14.html,2026-09-07T03:24:17+07:00,en-US,US,https://chillgen.com/products/personalized-christmas-doormat-with-custom-family-name-d66e920e14,https://chillgen.com/products/personalized-christmas-doormat-with-custom-family-name-d66e920e14,Rug,Custom 3D Snowman Christmas Doormat with Family Name for Holiday Entryway,Custom 3D Snowman Christmas Doormat with Family Name for Holiday Entryway,3D Snowman Christmas Doormat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom 3D Snowman Christmas Doormat with Family Name,NONE_OR_NOT_OBSERVED,3D Snowman Christmas Doormat,SET,28,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Bring seasonal cheer to your entrance with a custom 3D snowman Christmas doormat featuring your family name, a soft surface, and non slip rubber backing.","Customize a 3D snowman Christmas doormat with red green quilted styling, personal text, snowflake accents and non-slip backing.",SET,127,3D snowman Christmas doormat,"custom Christmas doormat, personalized snowman mat, holiday entryway rug","3D snowman Christmas doormat; custom Christmas doormat, personalized snowman mat, holiday entryway rug",LONG_TAIL_CANDIDATE,CHRISTMAS,"Marketplace results show demand for personalized road map play rugs, city street car mats, custom Christmas doormats, family name holiday door mats, pet Christmas doormats and stocking-themed holiday entry mats. B023 uses motif-specific Christmas wording while keeping customization and entryway intent clear.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,3D snowman Christmas doormat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports 3D snowman Christmas doormat and product-level buyer intent.,B023-228-BR01,"B023 buyers include parents creating interactive road-map playroom floors and holiday shoppers personalizing festive doormats for family names, pets, stockings, Santa themes and Christmas entryway decor.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Greet your guests with warmth and holiday cheer using this beautiful holiday welcome mat. Featuring a festive design, it adds a touch of seasonal personality to your entrance. Built to handle daily foot traffic, this mat is designed to make your home feel inviting and special all season long.</p><h3>Product Highlights</h3><ul>
+<li>Festive Christmas design featuring colorful patterns and warm holiday themes.</li>
+<li>Supports customization so you can add a personal family touch or greeting.</li>
+<li>Soft and comfortable feel underfoot.</li>
+<li>Non-slip backing made of neoprene rubber to keep the mat securely in place.</li>
+<li>Easy to clean using a wet sponge, towel, or mild detergent.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor &amp; Outdoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Bathroom, Bedroom, Dining Room, Entryway, Hallway, Kitchen, Living Room, Office, Porch</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Repellent</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip, Stain Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Gingerbread, Stocking, Dog, Cat, Letter</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Christmas, Personalized</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Christmas</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>High-quality Epoxy</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Polyester, Neoprene Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Washable, Wipe with Wet Sponge or Towel and Mild Detergent</td>
+</tr>
+</table><h3>Where It Works</h3><p>Perfect for front and back doors, terraces, porches, and entryways. It also works beautifully in indoor spaces such as kitchens, bathrooms, living rooms, and offices to enhance your winter holiday decor.</p>",Make product copy motif-specific while retaining verified public claims only.,"Customize a 3D snowman Christmas doormat with red green quilted styling, personal text, snowflake accents and non-slip backing. Design details Red green and white quilted-look christmas doormat with smiling snowman in santa hat and scarf, snowflake squares, custom text area, multiple color variants, person holding mat, doorway mockups and non-skid rubber backing detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Customize a 3D snowman Christmas doormat with red green quilted styling, personal text, snowflake accents and non-slip backing.</p><h3>Design details</h3><ul><li>Red green and white quilted-look christmas doormat with smiling snowman in santa hat and scarf, snowflake squares, custom text area, multiple color variants, person holding mat, doorway mockups and non-skid rubber backing detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B023-228,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cbdfcc9d1a3f59f7c2116310e25a10c9bd93bc7cfab94c4bd8bf9e116d242702.jpg?v=1784382978,,3D snowman Christmas doormat product image,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/adbe0b737bde7f094c2387b8ed93a9c578082b4c1400fe7ab391d195adcede88.jpg?v=1784382982,,snowman holiday mat at white door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/292f45ee8a3f28f4611b7e21fde5f6603935da0e6ce652402e5403084d98a973.jpg?v=1784382987,,custom snowman mat product view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9b47a8d68c6851f6bcacf1c68b4949605345b5d4440877b48bad9e4caaa04ba7.jpg?v=1784382984,,person holding snowman Christmas mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e3090746b21697993559064648bff8a4b4ccc5ab58c27b65bbf807736532500f.jpg?v=1784382991,,non-skid backing detail for snowman mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/676811459e183114145da71a77777788e2791a03cf3f064b7f08ee845f689871.jpg?v=1784382993,,snowman mat at dark front door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/bd15cd08dd27d19cd277a7eb043bfbdc56ccdba1f42193b93e49351e9f82fc3d.jpg?v=1784382995,,snowman Christmas mat overhead,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1ef687d32b96828989350a423e6826872e6c9916e54714108ef835179d2240fd.jpg?v=1784382999,,snowman doormat by Christmas tree,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71umpLk-3iL._SL1500.jpg?v=1784378204,,snowman mat color variants,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71vhn4fT1FL._SL1500.jpg?v=1784378090,,snowman mat at entryway,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71O2JevNQ_L._SL1500.jpg?v=1784378090,,flat snowman doormat product image,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71jwgQAV6RL._SL1500.jpg?v=1784378096,,person holding custom snowman mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71gRtc6tOrL._SL1500.jpg?v=1784378096,,backing and thickness detail for snowman doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71oeh5kA0GL._SL1500.jpg?v=1784378101,,snowman mat at front door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71geOxQRqwL._SL1500.jpg?v=1784378101,,overhead snowman mat at doorway,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/71MgG9xQ7uL._SL1500.jpg?v=1784378106,,snowman mat near Christmas decor,SET,,,,,,,,,,,,
+2.4,2.4,chillgen_20260907_01,B023,chillgen.com,personalized-christmas-welcome-doormat-28640346cc,personalized-christmas-welcome-doormat-28640346cc,15912099807601,gid://shopify/Product/15912099807601,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B023_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B023_pages/personalized-christmas-welcome-doormat-28640346cc.html,2026-09-07T03:24:17+07:00,en-US,US,https://chillgen.com/products/personalized-christmas-welcome-doormat-28640346cc,https://chillgen.com/products/personalized-christmas-welcome-doormat-28640346cc,Rug,Personalized Pet Christmas Doormat with Family Name for Front Door Decor,Personalized Pet Christmas Doormat with Family Name for Front Door Decor,Pet Family Christmas Welcome Mat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Pet Christmas Doormat with Family Name,NONE_OR_NOT_OBSERVED,Pet Family Christmas Welcome Mat,SET,32,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Create a warm holiday welcome with a personalized pet Christmas doormat featuring your family name, festive patterns, a soft surface, and non slip backing.","Personalize a pet family Christmas welcome mat with dog and cat options, family name, plaid border, pet names and festive entryway style.",SET,137,pet family Christmas welcome mat,"personalized pet Christmas doormat, dog family holiday mat, custom family welcome rug","pet family Christmas welcome mat; personalized pet Christmas doormat, dog family holiday mat, custom family welcome rug",LONG_TAIL_CANDIDATE,CHRISTMAS,"Marketplace results show demand for personalized road map play rugs, city street car mats, custom Christmas doormats, family name holiday door mats, pet Christmas doormats and stocking-themed holiday entry mats. B023 uses motif-specific Christmas wording while keeping customization and entryway intent clear.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,pet family Christmas welcome mat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports pet family Christmas welcome mat and product-level buyer intent.,B023-229-BR01,"B023 buyers include parents creating interactive road-map playroom floors and holiday shoppers personalizing festive doormats for family names, pets, stockings, Santa themes and Christmas entryway decor.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Greet your guests with warmth and holiday cheer using this beautiful holiday welcome mat. Featuring festive patterns and bright, warm seasonal colors, this doormat adds personality and holiday style to your entrance. It is designed to withstand daily foot traffic while providing a soft touch on bare feet. Perfect for creating a welcoming festive atmosphere, it makes a thoughtful holiday gift for family and friends.</p><h3>Product Highlights</h3><ul>
+<li>Festive Christmas design featuring warm colors and seasonal patterns</li>
+<li>Personalized customization options to add your own family text</li>
+<li>Soft to the touch while maintaining sturdy durability</li>
+<li>Durable non-slip backing for secure placement</li>
+<li>Easy-to-clean material that resists everyday stains</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor, Outdoor</td>
+</tr>
+<tr>
+<td>Water Resistance</td>
+<td>Water Repellent</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Non Slip, Stain Resistant</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Gingerbread, Stocking, Dog, Cat, Letter</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Christmas, Personalized</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Christmas</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>High-quality Epoxy</td>
+</tr>
+<tr>
+<td>Backing Material</td>
+<td>Polyester and Neoprene Rubber</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Washable, clean with wet sponge or towel and mild detergent</td>
+</tr>
+</table><h3>Where It Works</h3><p>This festive doormat is suitable for placing on front and back doors, terraces, porches, balconies, garages, and entryways. It can also be applied indoors in the kitchen, bedroom, bathroom, living room, and office to spread holiday spirit.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalize a pet family Christmas welcome mat with dog and cat options, family name, plaid border, pet names and festive entryway style. Design details Red plaid pet christmas welcome mat with four dogs wearing santa hats, custom family name, individual pet names, choose cat and choose dog charts, entryway and door mockups, snowy red background and white name strip. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalize a pet family Christmas welcome mat with dog and cat options, family name, plaid border, pet names and festive entryway style.</p><h3>Design details</h3><ul><li>Red plaid pet christmas welcome mat with four dogs wearing santa hats, custom family name, individual pet names, choose cat and choose dog charts, entryway and door mockups, snowy red background and white name strip.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B023-229,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/18bcf7d687ba35820047d64299caed8a4cb0a15ccbabb682ceb5bc4c6c8a8dc7.jpg?v=1784382955,,pet family Christmas welcome mat at door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/66e6d599770bb9b08cf201a1933d67c07063ea0921e15e7767fbfdfe1120f3f7.jpg?v=1784382956,,pet Christmas mat beside white door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a7bbb0f52f016ecfe28cc76f0d16dd296bf76831d8426a63980680821a661739.jpg?v=1784382960,,custom pet family mat product image,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/59f0cb81d5cf1998f1d0d54d27c32b6af1380bcd039ef70d5390a394d94907e6.jpg?v=1784382961,,cat choices for pet Christmas mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fa0d939857eb61194020621fc071425f29f045e7ad9a0ed6fb2f71673cb06358.jpg?v=1784382967,,dog choices for pet Christmas mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1ea66a65a7a15d02a12ee748acfa59d72bbce14c1249832ede1cfb795282174d.jpg?v=1784382965,,pet family mat at dark front door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3aedcad0c1c29b75ce6685d44a14000133a184e22d6b66fc6da1101cc58fab34.jpg?v=1784382971,,overhead pet Christmas welcome mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b299e42863d455fadc28b9688908d326191d5a11f878e1e41fea5a7f870f8245.jpg?v=1784382973,,pet holiday mat near doorway,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/03b31ae57a07afed0c194657942fdda33aec2111914b8714a53b3065a9f34aed.jpg?v=1784382976,,pet family mat beside bed,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6d0b57bd85061ecad8627abad40d0143a36a761ecc91352663c27d3a97af6333.jpg?v=1784378201,,pet Christmas welcome mat at entry,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cd2e52b90d716b3f3c13457c04d9e9e57ed6a7d2bffdc871c60dda69852297d7.jpg?v=1784378069,,angled pet family doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f6e9deb9be86167188bc493f83213f8a6850f77b6e69f769a8697bebe19af5cc.jpg?v=1784378069,,flat pet family mat product image,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/03da6fad6aef134c78334dc1f05d1f007d32d5f0626e1fbf536a2729759d9375.jpg?v=1784378075,,cat options chart for holiday mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d1f82795c52ef777b190daebe935c393f2ea11cf152a909abb65de77aa9623d7.jpg?v=1784378075,,dog options chart for holiday mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/df85c579e60f4babb0cde4c7c8f1d5ed55f79c96654c6f0a04078547a4610bd4.jpg?v=1784378080,,pet family mat at front door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/63ff1d0aacb95cc2081a5c6a091a04abce916f4a4f86f1ad19b8f88ce9371f45.jpg?v=1784378080,,overhead pet family welcome mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7ca2993069bdb9702193101beab90d0d2dbbd15fcaa5cac4d1ff74e96db99855.jpg?v=1784378085,,pet Christmas mat at white doorway,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/eb7d5a7001a8e0fdb9761a6fa647a16cc335f9cb71ee2cbde397a1b6a3a14797.jpg?v=1784378085,,pet family doormat beside bed,SET,,,,
+2.4,2.4,chillgen_20260907_01,B023,chillgen.com,personalized-christmas-doormat-1a037c0533,personalized-christmas-doormat-1a037c0533,15912100299121,gid://shopify/Product/15912100299121,PUBLIC_JSON_MATCHED_TO_HANDLE,evidence/products/B023_products.json; seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B023_pages/personalized-christmas-doormat-1a037c0533.html,2026-09-07T03:24:17+07:00,en-US,US,https://chillgen.com/products/personalized-christmas-doormat-1a037c0533,https://chillgen.com/products/personalized-christmas-doormat-1a037c0533,Rug,Custom Christmas Letter Doormat with Family Name for Holiday Entryway,Custom Christmas Letter Doormat with Family Name for Holiday Entryway,Santa Letter Christmas Doormat,SET,RENDERED_H1_CAPTURED_THEME_CONFIRMATION_STILL_NEEDED_FOR_DEPLOY,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Custom Christmas Letter Doormat with Family Name Decor,NONE_OR_NOT_OBSERVED,Santa Letter Christmas Doormat,SET,30,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Add a personal holiday greeting with a custom Christmas letter doormat featuring your family name, festive patterns, a soft surface, and non slip backing.","Personalize a Santa letter Christmas doormat with family name, address-style text, cabin artwork, postage graphics and non-slip backing.",SET,136,Santa letter Christmas doormat,"personalized Christmas doormat, family address holiday mat, North Pole entry rug","Santa letter Christmas doormat; personalized Christmas doormat, family address holiday mat, North Pole entry rug",LONG_TAIL_CANDIDATE,CHRISTMAS,"Marketplace results show demand for personalized road map play rugs, city street car mats, custom Christmas doormats, family name holiday door mats, pet Christmas doormats and stocking-themed holiday entry mats. B023 uses motif-specific Christmas wording while keeping customization and entryway intent clear.",SERP_ONLY_PRODUCT_AND_MARKETPLACE_RESULTS,Santa letter Christmas doormat,COMMERCIAL_INVESTIGATION,SERP_ONLY_NO_VOLUME,Selected because page/image evidence supports Santa letter Christmas doormat and product-level buyer intent.,B023-230-BR01,"B023 buyers include parents creating interactive road-map playroom floors and holiday shoppers personalizing festive doormats for family names, pets, stockings, Santa themes and Christmas entryway decor.",PUBLIC_RENDERED_PAGE_AND_JSON_CAPTURED,CLARIFICATION,NEEDS_REVIEW,2.4,"<p>Welcome guests to your home with a beautiful, festive entryway accent that spreads holiday cheer. This personalized doormat features warm Christmas patterns and customizable text inputs, making it a unique and thoughtful addition to your seasonal decor. Crafted to handle daily foot traffic, it provides a warm and inviting transition into your winter wonderland.</p><h3>Product Highlights</h3><ul>
+<li>Customizable design allowing personalized text inputs to create a unique holiday greeting</li>
+<li>Festive Christmas patterns with vibrant, warm seasonal colors</li>
+<li>Soft and comfortable texture that feels pleasant on bare feet</li>
+<li>Equipped with a secure, non-slip backing to keep the mat in place</li>
+<li>Versatile placement suitable for both indoor and outdoor entry points</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Doormat</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Flat Woven</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Gingerbread, Stocking, Dog, Cat, Letter</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Christmas, Personalized</td>
+</tr>
+<tr>
+<td>Style Name</td>
+<td>Christmas</td>
+</tr>
+<tr>
+<td>Water Resistance Level</td>
+<td>Water Repellent</td>
+</tr>
+<tr>
+<td>Number of Pieces</td>
+<td>1</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>High-quality Epoxy</td>
+</tr>
+<tr>
+<td>Back Material Type</td>
+<td>Polyester, Neoprene Rubber</td>
+</tr>
+<tr>
+<td>Surface/Feel</td>
+<td>Soft touch on bare feet</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Machine Washable, easy to clean with a wet sponge or towel and mild detergent</td>
+</tr>
+</table><h3>Where It Works</h3><p>Perfect for front and back doors, porches, terraces, and entryways. This festive mat also works wonderfully in indoor spaces such as kitchens, bathrooms, bedrooms, and living rooms to spread holiday joy throughout your home.</p>",Make product copy motif-specific while retaining verified public claims only.,"Personalize a Santa letter Christmas doormat with family name, address-style text, cabin artwork, postage graphics and non-slip backing. Design details Red postcard-style christmas doormat with family name and address text, white cabin illustration, santa claus signature, north pole address, stamp and postmark graphics, candy-cane border, color variants, doorway mockups and rubber backing detail. Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword. Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.","<p>Personalize a Santa letter Christmas doormat with family name, address-style text, cabin artwork, postage graphics and non-slip backing.</p><h3>Design details</h3><ul><li>Red postcard-style christmas doormat with family name and address text, white cabin illustration, santa claus signature, north pole address, stamp and postmark graphics, candy-cane border, color variants, doorway mockups and rubber backing detail.</li><li>Keep the SEO copy tied to the visible motif and page evidence, not a broad generic rug keyword.</li><li>Use material, backing, washing, indoor/outdoor, pet, or kid claims only where supported by page text or product infographics.</li></ul>",REPLACE_ALL,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; rendered page captured but admin/export SEO values and media export URLs remain unknown.,,,,,DRAFTED,COMPLETE_PUBLIC_RENDERED_PAGE_AND_IMAGES,NOT_RUN,"title/meta/description/alt derived from rendered page meta, public JSON, viewed images, and SERP-only validation.",B023-230,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ab6744b2c39ec1d87a234b350265799afd505412353d47e389104c683ecdfbf9.jpg?v=1784382932,,Santa letter Christmas doormat product image,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/00170cd2c40fa7c75d86661d862cb96ed10cfaa624e56550fc29b47caf500146.jpg?v=1784382927,,Santa letter mat at holiday doorway,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/54c30fb6357e7c569dc947d4bbfb9f5cc43f86d3cf3ad0c122ee75c62fd2e781.jpg?v=1784382934,,red Santa letter mat product view,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9dd5b2926a4220148db54a272204f574fad82125a35def402f497937017c2cec.jpg?v=1784382938,,person holding Santa letter Christmas mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0fea871079f3814fe2e4613d5320ec9cf123880a49edc296a8353aa2063b3bad.jpg?v=1784382944,,non-skid backing detail for Santa letter mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0ce8b9080b4e3462ecdfedac47e6acc6896fedf818f3cb412fe2fb5ad31f14dc.jpg?v=1784382940,,Santa letter mat at dark front door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9051126fb6d5f26384e70c2c6fbeb31aabf7e5e7bade8102f0f982b55e8220ca.jpg?v=1784382945,,overhead Santa letter mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5bd632c88e713653da65627b676089429867374d77d067e77f6f1106e156bcc8.jpg?v=1784382949,,Santa letter doormat near Christmas tree,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/89db2512ce86158ac51dc9726bb7fcd1bb14a0e455f4a546bbd3f2efeb27f522.jpg?v=1784382950,,Santa letter mat at white door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c6e4db2a9d2535616bf31bc0f8e961f82330d31bc35e0f0036a00439cc9b77ee.jpg?v=1784378043,,Santa letter color variants,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/bc7996221184418c9cad58ef038a259792e326fc5dd088d8dc8f956bd30c6ea1.jpg?v=1784378048,,Santa letter mat at entryway,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7a7efc136b71cb60502ad42925a01027174fbda6d108183c835edf9d71d9927f.jpg?v=1784378048,,flat Santa letter mat product image,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0050acd424ffe25309bcfb41fb9789b246ededfa029d256d70b1acb94bb3c626.jpg?v=1784378053,,person holding custom Santa letter mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9f9e10caa15cd39a8c7252485b05dc1e69b6702ff86d0d97c26fff90114488bf.jpg?v=1784378053,,backing and thickness detail for Santa letter mat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7002038e3b1281f37b7d42047ae837afab3827bf82e343ba656ba74c6e471d53.jpg?v=1784378059,,Santa letter mat at front door,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8c69356980174a7a4c1a9d790a5ca190283d3b896527b35eb8ad773055f698fc.jpg?v=1784378059,,overhead red Santa letter doormat,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e77ac6193af7586007bb873508f124f8f83c9b681c26fbe1c0432e81fe1fc53e.jpg?v=1784378065,,Santa letter mat by holiday decor,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/618412d264af6c1dcc807898bb8290782fafc1b0310b887c2d7e6edc52a264b0.jpg?v=1784378064,,Santa letter mat at white doorway,SET,,,,

@@ -1,0 +1,670 @@
+schema_version,prompt_version,run_id,batch_id,shop_domain,product_key,Handle,product_id,product_gid,identity_status,source_export_ref,source_exported_at,locale,market,url,canonical_url,product_type,title_current,h1_current,title_proposed,title_action,h1_mapping_status,meta_title_current,meta_title_source_state,rendered_title_current,theme_title_suffix,meta_title_seo,meta_title_action,meta_title_chars,meta_description_current,meta_description_source_state,rendered_meta_description_current,meta_description_seo,meta_description_action,meta_description_chars,primary_keyword,secondary_keywords,long_tail_candidates,keyword_strategy,season,keyword_demand_evidence,keyword_serp_fit,meta_keyword,search_intent,keyword_validation_status,keyword_selection_reason,buyer_research_refs,buyer_search_summary,baseline_status,change_scope,mapping_status,mapping_version,description_current_html,description_changes_needed,description_proposed,description_proposed_html,description_change_mode,description_target_section,description_action,revision,review_status,review_reason,approved_by,approved_at,approved_fields,approved_revision,processing_status,evidence_status,content_qa_status,field_evidence_map,evidence_id,issues,img_1_link,img_1_alt_current,img_1_alt,img_1_alt_action,img_2_link,img_2_alt_current,img_2_alt,img_2_alt_action,img_3_link,img_3_alt_current,img_3_alt,img_3_alt_action,img_4_link,img_4_alt_current,img_4_alt,img_4_alt_action,img_5_link,img_5_alt_current,img_5_alt,img_5_alt_action,img_6_link,img_6_alt_current,img_6_alt,img_6_alt_action,img_7_link,img_7_alt_current,img_7_alt,img_7_alt_action,img_8_link,img_8_alt_current,img_8_alt,img_8_alt_action,img_9_link,img_9_alt_current,img_9_alt,img_9_alt_action
+2.4,2.4,chillgen_20260907_01,B003,chillgen.com,personalized-halloween-3d-optical-illusion-ghost-round-rug-design-05,personalized-halloween-3d-optical-illusion-ghost-round-rug-design-05,15976579236209,gid://shopify/Product/15976579236209,PUBLIC_JSON_MATCHED_TO_HANDLE,seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/products_page_1.json,UNKNOWN_PUBLIC_JSON_CAPTURE,en-US,US,https://chillgen.com/products/personalized-halloween-3d-optical-illusion-ghost-round-rug-design-05,https://chillgen.com/products/personalized-halloween-3d-optical-illusion-ghost-round-rug-design-05,Rug,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 05,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 05,Tentacle Vortex Halloween Round Rug,SET,NEEDS_THEME_CONFIRMATION,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 05,UNKNOWN,Tentacle Vortex Halloween Round Rug,SET,35,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,UNKNOWN_WITHOUT_RENDERED_PAGE_META_CAPTURE,"Create a spooky floor focal point with a tentacle vortex Halloween round rug, checkerboard depth, orange border, and non-slip backing.",SET,134,tentacle vortex Halloween rug,"tentacle round rug, Halloween optical illusion rug, spooky vortex rug",tentacle vortex Halloween rug for entryway; tentacle checker vortex rug; Halloween floor mat,Use motif-specific product terms; reserve broad Halloween round rug or Halloween area rug for collections.,HALLOWEEN,"SERP observed for vortex, haunted staircase, ghost, Halloween optical illusion, and personalized Halloween rug terms; no paid volume used.",SUPPORTED_BY_PRODUCT_AND_CATEGORY_SERP_OBSERVATION,tentacle vortex Halloween rug,Commercial investigation / product purchase,SERP_OBSERVED_NO_VOLUME,"round rug with purple tentacles rising from a checkerboard pit, orange and green patterned border, lifestyle views and backing details",B003-021-BR01,"Halloween shoppers can use this motif-specific rug as a spooky seasonal floor centerpiece for rooms, entryways, parties, or personal decor.",PUBLIC_DATA_ONLY,SEO title; meta description; product title/H1 proposal; description proposal; image alt proposal,NEEDS_REVIEW,2.4,"<p>This round rug features a captivating 3D optical illusion design, perfect for adding a bold and unique accent to any room. Its personalized touch allows for custom text, making it an ideal piece of Halloween floor decor. The rug offers a comfortable feel underfoot while creating a striking visual statement with its dimensional look.</p><h3>Product Highlights</h3><ul>
+<li>Features ghost, pumpkin, and skeleton artwork with deep-pit visual effects.</li>
+<li>Personalize with a name or custom text for a unique touch.</li>
+<li>Designed for indoor use, providing comfort and visual appeal.</li>
+<li>Printed illusion creates a dimensional look with a flat, easy-to-use surface.</li>
+<li>Suitable for various Halloween decorating themes and seasonal home decor.</li>
+<li>Easy to care for with regular vacuuming or spot cleaning.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Round</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Living Room, Entryway, Bedroom, Game Room, Party Area</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Personalized, 3D Effect, Optical Illusion</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>3D Effect</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Halloween, Ghost, Pumpkin, Skeleton</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Halloween, Spooky Season, Seasonal</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Vacuum regularly or spot clean when needed. Avoid bleach and high heat.</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Vacuuming, Spot Clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This rug is an excellent choice for enhancing living rooms, entryways, bedrooms, and game rooms. It is particularly well-suited for party areas and haunted house setups, making it a versatile option for Halloween decorating and seasonal home decor.</p>","Replace generic duplicate wording with motif-specific, evidence-backed copy.","Create a spooky floor focal point with a tentacle vortex Halloween round rug, checkerboard depth, orange border, and non-slip backing. Why it works Round rug with purple tentacles rising from a checkerboard pit, orange and green patterned border, lifestyle views and backing details. Public imagery shows a printed rug surface and backing or care details. Useful as seasonal indoor Halloween decor for living rooms, entryways, bedrooms, dining areas, or party spaces.","<p>Create a spooky floor focal point with a tentacle vortex Halloween round rug, checkerboard depth, orange border, and non-slip backing.</p><h3>Why it works</h3><ul><li>Round rug with purple tentacles rising from a checkerboard pit, orange and green patterned border, lifestyle views and backing details.</li><li>Public imagery shows a printed rug surface and backing or care details.</li><li>Useful as seasonal indoor Halloween decor for living rooms, entryways, bedrooms, dining areas, or party spaces.</li></ul>",REWRITE_FROM_PUBLIC_FACTS,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; Shopify admin/export values are unknown and require review before approval.,,,,,DRAFTED,COMPLETE_PUBLIC_ONLY,NOT_RUN,"title/meta/description/alt derived from public JSON, viewed images, and SERP observation.",B003-021,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fae5fcc5eee92dc29917f56c9f6cc2099ca8bf3b27d8663178803c0b94c73b23.jpg?v=1787258827,,top view of tentacle checker vortex Halloween round rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c47b8c66969a8b8704a064863df0db9deb21f58b74ab31325677af704183aebd.jpg?v=1787258827,,size chart for tentacle checker vortex Halloween round rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/74ad98c67d1b345fe848a5504fc9a18d9a4464cd05b9f5b7030125cd14a55de1.jpg?v=1787258827,,tentacle checker vortex Halloween round rug shown underfoot,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/29ad9c9fa1f42bc66f238a98f54c3c363336369eeb5882abfc1864df62a5c3fe.jpg?v=1787258827,,tentacle checker vortex Halloween rug staged by fireplace,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/bb31f4178c7317d435d2aa87fb946c0343caa7d171e1a96782ffeb126e224f79.jpg?v=1787258827,,non-slip backing detail for tentacle checker vortex rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d678c24773e93d06c8a43b506f1e3e505f1e7707d25f7753a25e9463eaddcea9.jpg?v=1787258827,,tentacle checker vortex Halloween rug in seasonal room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/09e403f7b6f99793603aad18adbf1017fde85e74ce0ee820376e72efe15a10ce.jpg?v=1787258827,,tentacle checker vortex Halloween round rug under dining table,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/159c91f42785ebe03ceaeaabd0f95be79ba99584140a8684e9b507e08f2e191a.jpg?v=1787258827,,design and backing detail for tentacle checker vortex rug,SET,,,,
+2.4,2.4,chillgen_20260907_01,B003,chillgen.com,personalized-halloween-3d-optical-illusion-ghost-round-rug-design-04,personalized-halloween-3d-optical-illusion-ghost-round-rug-design-04,15976578449777,gid://shopify/Product/15976578449777,PUBLIC_JSON_MATCHED_TO_HANDLE,seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/products_page_1.json,UNKNOWN_PUBLIC_JSON_CAPTURE,en-US,US,https://chillgen.com/products/personalized-halloween-3d-optical-illusion-ghost-round-rug-design-04,https://chillgen.com/products/personalized-halloween-3d-optical-illusion-ghost-round-rug-design-04,Rug,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 04,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 04,Ghost Vortex Halloween Round Rug,SET,NEEDS_THEME_CONFIRMATION,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 04,UNKNOWN,Ghost Vortex Halloween Round Rug,SET,32,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,UNKNOWN_WITHOUT_RENDERED_PAGE_META_CAPTURE,"Add a ghost vortex Halloween round rug with black-and-white checker depth, floating ghost artwork, and non-slip backing.",SET,120,ghost vortex Halloween rug,"ghost optical illusion rug, black white Halloween rug, spooky round rug",ghost vortex Halloween rug for entryway; black and white ghost vortex rug; Halloween floor mat,Use motif-specific product terms; reserve broad Halloween round rug or Halloween area rug for collections.,HALLOWEEN,"SERP observed for vortex, haunted staircase, ghost, Halloween optical illusion, and personalized Halloween rug terms; no paid volume used.",SUPPORTED_BY_PRODUCT_AND_CATEGORY_SERP_OBSERVATION,ghost vortex Halloween rug,Commercial investigation / product purchase,SERP_OBSERVED_NO_VOLUME,"round rug with white ghosts floating from a black-and-white checkerboard vortex, lifestyle mockups and backing graphics",B003-022-BR01,"Halloween shoppers can use this motif-specific rug as a spooky seasonal floor centerpiece for rooms, entryways, parties, or personal decor.",PUBLIC_DATA_ONLY,SEO title; meta description; product title/H1 proposal; description proposal; image alt proposal,NEEDS_REVIEW,2.4,"<p>This round rug features a personalized 3D optical illusion design, creating a bold accent for the spooky season. With its unique ghost, pumpkin, and skeleton artwork, it adds a festive and memorable touch to any space. Designed for indoor use, this rug provides comfort underfoot while making a strong visual statement.</p><h3>Product Highlights</h3><ul>
+<li>Features a personalized 3D optical illusion design</li>
+<li>Eye-catching ghost, pumpkin, and skeleton artwork with deep-pit visual effects</li>
+<li>Designed for Halloween decorating and seasonal home decor</li>
+<li>Offers comfort underfoot with a flat and easy-to-use surface</li>
+<li>Versatile for various indoor spaces like living rooms, bedrooms, and game rooms</li>
+<li>Easy to care for with regular vacuuming or spot cleaning</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Round</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Living Room, Entryway, Bedroom, Game Room, Party Area</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Personalized, 3D Effect</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Optical Illusion, Ghost, Pumpkin, Skeleton</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Halloween, Spooky Season</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Halloween, Gothic</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Vacuum regularly or spot clean when needed. Avoid bleach and high heat.</td>
+</tr>
+</table><h3>Where It Works</h3><p>This rug is ideal for bringing a festive and unique touch to various indoor settings. It can be placed in living rooms, entryways, bedrooms, game rooms, or party areas, making it perfect for Halloween decorating, haunted house setups, or trick-or-treat displays.</p>","Replace generic duplicate wording with motif-specific, evidence-backed copy.","Add a ghost vortex Halloween round rug with black-and-white checker depth, floating ghost artwork, and non-slip backing. Why it works Round rug with white ghosts floating from a black-and-white checkerboard vortex, lifestyle mockups and backing graphics. Public imagery shows a printed rug surface and backing or care details. Useful as seasonal indoor Halloween decor for living rooms, entryways, bedrooms, dining areas, or party spaces.","<p>Add a ghost vortex Halloween round rug with black-and-white checker depth, floating ghost artwork, and non-slip backing.</p><h3>Why it works</h3><ul><li>Round rug with white ghosts floating from a black-and-white checkerboard vortex, lifestyle mockups and backing graphics.</li><li>Public imagery shows a printed rug surface and backing or care details.</li><li>Useful as seasonal indoor Halloween decor for living rooms, entryways, bedrooms, dining areas, or party spaces.</li></ul>",REWRITE_FROM_PUBLIC_FACTS,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; Shopify admin/export values are unknown and require review before approval.,,,,,DRAFTED,COMPLETE_PUBLIC_ONLY,NOT_RUN,"title/meta/description/alt derived from public JSON, viewed images, and SERP observation.",B003-022,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9b46a7a3f090dad967f48936720bd832472bbfe64b833ab389c0ae7e07f4392f.jpg?v=1787258810,,top view of black and white ghost vortex Halloween round rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c3881b04119e464b6f3ba3e4d887603c9b1fcb8c139d1edbb889fe965e1fe7ff.jpg?v=1787258810,,size chart for black and white ghost vortex Halloween round rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3f65ca48c7b0ab9c6431149124c33f6a8f02105b17c57545de25868a5ffbe119.jpg?v=1787258810,,black and white ghost vortex Halloween round rug shown underfoot,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5f6f67f3b5e3c31e122bbc85f71b70a628d9d31f173c9dd6f1191469622b0ae4.jpg?v=1787258810,,black and white ghost vortex Halloween rug staged by fireplace,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8826565db347d7a3236826498416551421cdfbdb7a52273bd62866a848964fb7.jpg?v=1787258810,,non-slip backing detail for black and white ghost vortex rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7b06ff2832c63ffbbeacbeedbb46d35e76b88297bf9c3ebcd755220378a94573.jpg?v=1787258810,,black and white ghost vortex Halloween rug in seasonal room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6274e2c14ac23adb0cecac8a1e4e683e9efd7882332ecbf2ff47ff9f41da0a22.jpg?v=1787258810,,black and white ghost vortex Halloween round rug under dining table,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fbff6c02ecfc55767a97fde70c0d3d39fd0888dd640cc88c40d8d2df86b57cb8.jpg?v=1787258810,,design and backing detail for black and white ghost vortex rug,SET,,,,
+2.4,2.4,chillgen_20260907_01,B003,chillgen.com,personalized-halloween-3d-optical-illusion-ghost-round-rug-design-03,personalized-halloween-3d-optical-illusion-ghost-round-rug-design-03,15976574910833,gid://shopify/Product/15976574910833,PUBLIC_JSON_MATCHED_TO_HANDLE,seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/products_page_1.json,UNKNOWN_PUBLIC_JSON_CAPTURE,en-US,US,https://chillgen.com/products/personalized-halloween-3d-optical-illusion-ghost-round-rug-design-03,https://chillgen.com/products/personalized-halloween-3d-optical-illusion-ghost-round-rug-design-03,Rug,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 03,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 03,Pumpkin Scarecrow Halloween Round Rug,SET,NEEDS_THEME_CONFIRMATION,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 03,UNKNOWN,Pumpkin Scarecrow Halloween Round Rug,SET,37,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,UNKNOWN_WITHOUT_RENDERED_PAGE_META_CAPTURE,"Make Halloween decor bolder with a pumpkin scarecrow round rug, purple checker illusion, ghost border, claws, and non-slip backing.",SET,131,pumpkin scarecrow Halloween rug,"pumpkin head rug, Halloween scarecrow rug, optical illusion round rug",pumpkin scarecrow Halloween rug for entryway; pumpkin scarecrow vortex rug; Halloween floor mat,Use motif-specific product terms; reserve broad Halloween round rug or Halloween area rug for collections.,HALLOWEEN,"SERP observed for vortex, haunted staircase, ghost, Halloween optical illusion, and personalized Halloween rug terms; no paid volume used.",SUPPORTED_BY_PRODUCT_AND_CATEGORY_SERP_OBSERVATION,pumpkin scarecrow Halloween rug,Commercial investigation / product purchase,SERP_OBSERVED_NO_VOLUME,"round rug with glowing pumpkin scarecrow, claw hands, purple checker vortex, white ghost border and feature graphics",B003-023-BR01,"Halloween shoppers can use this motif-specific rug as a spooky seasonal floor centerpiece for rooms, entryways, parties, or personal decor.",PUBLIC_DATA_ONLY,SEO title; meta description; product title/H1 proposal; description proposal; image alt proposal,NEEDS_REVIEW,2.4,"<p>This round rug features a captivating 3D optical illusion design, perfect for adding a unique accent to your home. It showcases a spooky Halloween theme with ghosts, pumpkins, and skeletons, creating a bold visual statement. Designed for indoor use, this rug offers both a distinctive aesthetic and comfort underfoot.</p><h3>Product Highlights</h3><ul>
+<li>Features a 3D optical illusion design with a Halloween theme.</li>
+<li>Customizable with a name or text for a unique touch.</li>
+<li>Showcases eye-catching artwork with pumpkins, ghosts, and skeletons.</li>
+<li>Provides comfort underfoot for indoor spaces.</li>
+<li>Suitable for a variety of rooms and Halloween decorating.</li>
+<li>Designed for easy care and daily use.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Round</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Living Room, Entryway, Bedroom, Game Room, Party Area</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Personalized, 3D Optical Illusion, Customizable</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Optical Illusion, Theme</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Halloween, Ghost, Pumpkin, Skeleton</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Halloween Decor, Spooky, Themed</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Vacuum regularly or spot clean as needed. Avoid bleach and high heat.</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Vacuum, Spot Clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This rug is ideal for enhancing living rooms, entryways, bedrooms, game rooms, and party areas, particularly during the Halloween season. Its unique design also makes it suitable for haunted house setups or trick-or-treat displays, bringing a festive and memorable touch to any indoor space.</p>","Replace generic duplicate wording with motif-specific, evidence-backed copy.","Make Halloween decor bolder with a pumpkin scarecrow round rug, purple checker illusion, ghost border, claws, and non-slip backing. Why it works Round rug with glowing pumpkin scarecrow, claw hands, purple checker vortex, white ghost border and feature graphics. Public imagery shows a printed rug surface and backing or care details. Useful as seasonal indoor Halloween decor for living rooms, entryways, bedrooms, dining areas, or party spaces.","<p>Make Halloween decor bolder with a pumpkin scarecrow round rug, purple checker illusion, ghost border, claws, and non-slip backing.</p><h3>Why it works</h3><ul><li>Round rug with glowing pumpkin scarecrow, claw hands, purple checker vortex, white ghost border and feature graphics.</li><li>Public imagery shows a printed rug surface and backing or care details.</li><li>Useful as seasonal indoor Halloween decor for living rooms, entryways, bedrooms, dining areas, or party spaces.</li></ul>",REWRITE_FROM_PUBLIC_FACTS,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; Shopify admin/export values are unknown and require review before approval.,,,,,DRAFTED,COMPLETE_PUBLIC_ONLY,NOT_RUN,"title/meta/description/alt derived from public JSON, viewed images, and SERP observation.",B003-023,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/40fd7f35a8d08ba86ac1ffedbeb3563944ef95621f63f6edd47b6207a8cfc8b8.jpg?v=1787258782,,top view of pumpkin scarecrow vortex Halloween round rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9e9e4c891835af3a26aa33b8beee503985961e0e941d294e24a19c0a6e638df2.jpg?v=1787258782,,size chart for pumpkin scarecrow vortex Halloween round rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2117cd38e582c46866982e372b42f69b6d9dcf705af041b4a0db550f438fd9de.jpg?v=1787258783,,pumpkin scarecrow vortex Halloween round rug shown underfoot,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/066f894b42246123289f1b3a0b257f5d84bed7314f8c4d0d04ab125974ef5217.jpg?v=1787258782,,pumpkin scarecrow vortex Halloween rug staged by fireplace,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0a3573df9165e5f47738a830f8e251e55b39fad447a6b65219a5b8361cb08b17.jpg?v=1787258783,,non-slip backing detail for pumpkin scarecrow vortex rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d684ee4b426c68c5cf00997fffd2bd6d71ae032f09316f5d53bd523b31738ded.jpg?v=1787258783,,pumpkin scarecrow vortex Halloween rug in seasonal room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/24c54f1822af9c8e74955b8d5503e55089523f52ae20119c10895b1044bdb0e7.jpg?v=1787258783,,pumpkin scarecrow vortex Halloween round rug under dining table,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6c32806595e6403746eae12b10c2d83ddf5ba380fdf033ff8307e36cc395377c.jpg?v=1787258782,,design and backing detail for pumpkin scarecrow vortex rug,SET,,,,
+2.4,2.4,chillgen_20260907_01,B003,chillgen.com,personalized-halloween-3d-optical-illusion-ghost-round-rug-design-11,personalized-halloween-3d-optical-illusion-ghost-round-rug-design-11,15976574124401,gid://shopify/Product/15976574124401,PUBLIC_JSON_MATCHED_TO_HANDLE,seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/products_page_1.json,UNKNOWN_PUBLIC_JSON_CAPTURE,en-US,US,https://chillgen.com/products/personalized-halloween-3d-optical-illusion-ghost-round-rug-design-11,https://chillgen.com/products/personalized-halloween-3d-optical-illusion-ghost-round-rug-design-11,Rug,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 11,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 11,Spider Web Halloween Optical Illusion Rug,SET,NEEDS_THEME_CONFIRMATION,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 11,UNKNOWN,Spider Web Halloween Optical Illusion Rug,SET,41,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,UNKNOWN_WITHOUT_RENDERED_PAGE_META_CAPTURE,"Decorate with a spider web Halloween round rug featuring rainbow web panels, black spider artwork, optical depth, and non-slip backing.",SET,135,spider web Halloween rug,"spider optical illusion rug, colorful spider rug, Halloween round rug",spider web Halloween rug for entryway; rainbow spider web rug; Halloween floor mat,Use motif-specific product terms; reserve broad Halloween round rug or Halloween area rug for collections.,HALLOWEEN,"SERP observed for vortex, haunted staircase, ghost, Halloween optical illusion, and personalized Halloween rug terms; no paid volume used.",SUPPORTED_BY_PRODUCT_AND_CATEGORY_SERP_OBSERVATION,spider web Halloween rug,Commercial investigation / product purchase,SERP_OBSERVED_NO_VOLUME,"round rug with black spider at center, orange purple and green web panels, tunnel depth and backing detail images",B003-024-BR01,"Halloween shoppers can use this motif-specific rug as a spooky seasonal floor centerpiece for rooms, entryways, parties, or personal decor.",PUBLIC_DATA_ONLY,SEO title; meta description; product title/H1 proposal; description proposal; image alt proposal,NEEDS_REVIEW,2.4,"<p>This round rug features a unique 3D optical illusion design, perfect for adding a spooky-season accent to any room. It can be personalized with a name or custom text, making it a distinctive Halloween floor decor piece. The rug is designed to offer underfoot comfort while creating a strong visual statement with its dimensional appearance.</p><h3>Product Highlights</h3><ul>
+<li>Features eye-catching artwork with pumpkins, ghosts, skeleton details, and deep-pit visual effects.</li>
+<li>Personalize with a name or custom text for a unique Halloween decor item.</li>
+<li>Designed to add comfort underfoot while bringing a strong visual statement.</li>
+<li>The printed illusion creates a dimensional look while keeping the rug surface flat.</li>
+<li>Suitable for various indoor spaces and Halloween decorating.</li>
+<li>Easy to care for with regular vacuuming or spot cleaning.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Round</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Living Room, Entryway, Bedroom, Game Room, Party Area</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Personalized, 3D Optical Illusion, Ghost Design</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>3D Optical Illusion, Ghost, Pumpkin, Skeleton</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Halloween, Spooky Season</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Gothic, Festive, Seasonal</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Avoid bleach and high heat</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Vacuum regularly or spot clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This rug is ideal for transforming living rooms, entryways, bedrooms, and game rooms into festive Halloween spaces. It also works well in party areas, haunted house setups, and trick-or-treat displays, making it a versatile choice for seasonal home decor.</p>","Replace generic duplicate wording with motif-specific, evidence-backed copy.","Decorate with a spider web Halloween round rug featuring rainbow web panels, black spider artwork, optical depth, and non-slip backing. Why it works Round rug with black spider at center, orange purple and green web panels, tunnel depth and backing detail images. Public imagery shows a printed rug surface and backing or care details. Useful as seasonal indoor Halloween decor for living rooms, entryways, bedrooms, dining areas, or party spaces.","<p>Decorate with a spider web Halloween round rug featuring rainbow web panels, black spider artwork, optical depth, and non-slip backing.</p><h3>Why it works</h3><ul><li>Round rug with black spider at center, orange purple and green web panels, tunnel depth and backing detail images.</li><li>Public imagery shows a printed rug surface and backing or care details.</li><li>Useful as seasonal indoor Halloween decor for living rooms, entryways, bedrooms, dining areas, or party spaces.</li></ul>",REWRITE_FROM_PUBLIC_FACTS,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; Shopify admin/export values are unknown and require review before approval.,,,,,DRAFTED,COMPLETE_PUBLIC_ONLY,NOT_RUN,"title/meta/description/alt derived from public JSON, viewed images, and SERP observation.",B003-024,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/43b484c241e5e490f1dac86e43f2d6af8449a497ca6b55eb46a471b425dd02f2.jpg?v=1787258773,,top view of rainbow spider web Halloween round rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f992abac7d0f40beaf1a5c01375924ee3fe414941f8ff92e210d044a789ae0a9.jpg?v=1787258773,,size chart for rainbow spider web Halloween round rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8f699a7bea29ae9fd2a7f1a30ea0e6b588c4dd363c3d4eace7a164cd57e04898.jpg?v=1787258773,,rainbow spider web Halloween round rug shown underfoot,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/758d6c410cb3b59d3318d4816264f50b961e9b8c550ea1c56ea15a4655ba99ae.jpg?v=1787258774,,rainbow spider web Halloween rug staged by fireplace,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fc73af0e60ea6694a9279fa38e94c45f1fb2aafe076c2f78fd096c7cf79e364f.jpg?v=1787258773,,non-slip backing detail for rainbow spider web rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/55c9233acfb53d71ee521c41308b6c81b5e48671906573964b310451c4a6c1d1.jpg?v=1787258773,,rainbow spider web Halloween rug in seasonal room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/dc8b517ef049a1d1452c8540a24ea5aa8963fba70ea3c12c32d61066567a71d0.jpg?v=1787258773,,rainbow spider web Halloween round rug under dining table,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8e93b80acfbad3395ef3f95827f708cb4c8c3b79928d76e334d6e7eaf84e2cc9.jpg?v=1787258773,,design and backing detail for rainbow spider web rug,SET,,,,
+2.4,2.4,chillgen_20260907_01,B003,chillgen.com,personalized-halloween-3d-optical-illusion-ghost-round-rug-design-01,personalized-halloween-3d-optical-illusion-ghost-round-rug-design-01,15976572944753,gid://shopify/Product/15976572944753,PUBLIC_JSON_MATCHED_TO_HANDLE,seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/products_page_1.json,UNKNOWN_PUBLIC_JSON_CAPTURE,en-US,US,https://chillgen.com/products/personalized-halloween-3d-optical-illusion-ghost-round-rug-design-01,https://chillgen.com/products/personalized-halloween-3d-optical-illusion-ghost-round-rug-design-01,Rug,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 01,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 01,Green Ghost Vortex Halloween Round Rug,SET,NEEDS_THEME_CONFIRMATION,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 01,UNKNOWN,Green Ghost Vortex Halloween Round Rug,SET,38,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,UNKNOWN_WITHOUT_RENDERED_PAGE_META_CAPTURE,"Set a playful spooky scene with a green ghost vortex Halloween round rug, purple checker border, floating ghosts, and non-slip backing.",SET,135,green ghost Halloween rug,"ghost vortex rug, Halloween optical illusion rug, spooky round rug",green ghost Halloween rug for entryway; green ghost vortex rug; Halloween floor mat,Use motif-specific product terms; reserve broad Halloween round rug or Halloween area rug for collections.,HALLOWEEN,"SERP observed for vortex, haunted staircase, ghost, Halloween optical illusion, and personalized Halloween rug terms; no paid volume used.",SUPPORTED_BY_PRODUCT_AND_CATEGORY_SERP_OBSERVATION,green ghost Halloween rug,Commercial investigation / product purchase,SERP_OBSERVED_NO_VOLUME,"round rug with green and black checker vortex, white ghosts floating above the pit, purple border and feature graphics",B003-025-BR01,"Halloween shoppers can use this motif-specific rug as a spooky seasonal floor centerpiece for rooms, entryways, parties, or personal decor.",PUBLIC_DATA_ONLY,SEO title; meta description; product title/H1 proposal; description proposal; image alt proposal,NEEDS_REVIEW,2.4,"<p>This round rug features a personalized 3D optical illusion design, making it a distinctive accent for the spooky season. Its unique artwork includes pumpkins, ghosts, and skeleton details, creating a dramatic Halloween-inspired visual. Designed for indoor use, this rug brings a strong visual statement and comfort underfoot to any room.</p><h3>Product Highlights</h3><ul>
+<li>Features ghost, pumpkin, and skeleton details with a deep-pit visual effect.</li>
+<li>Personalizable with a name or custom text for a unique touch.</li>
+<li>Designed for comfort underfoot while maintaining a flat, easy-to-use surface.</li>
+<li>Suitable for various indoor spaces, including living rooms and game rooms.</li>
+<li>Easy to care for with regular vacuuming or spot cleaning.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Round</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>3D Optical Illusion</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Halloween</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Personalized</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Vacuum regularly or spot clean. Avoid bleach and high heat.</td>
+</tr>
+</table><h3>Where It Works</h3><p>This rug is well-suited for living rooms, entryways, bedrooms, and game rooms. It can also enhance party areas, haunted house setups, and trick-or-treat displays, making it ideal for seasonal home decor during Halloween.</p>","Replace generic duplicate wording with motif-specific, evidence-backed copy.","Set a playful spooky scene with a green ghost vortex Halloween round rug, purple checker border, floating ghosts, and non-slip backing. Why it works Round rug with green and black checker vortex, white ghosts floating above the pit, purple border and feature graphics. Public imagery shows a printed rug surface and backing or care details. Useful as seasonal indoor Halloween decor for living rooms, entryways, bedrooms, dining areas, or party spaces.","<p>Set a playful spooky scene with a green ghost vortex Halloween round rug, purple checker border, floating ghosts, and non-slip backing.</p><h3>Why it works</h3><ul><li>Round rug with green and black checker vortex, white ghosts floating above the pit, purple border and feature graphics.</li><li>Public imagery shows a printed rug surface and backing or care details.</li><li>Useful as seasonal indoor Halloween decor for living rooms, entryways, bedrooms, dining areas, or party spaces.</li></ul>",REWRITE_FROM_PUBLIC_FACTS,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; Shopify admin/export values are unknown and require review before approval.,,,,,DRAFTED,COMPLETE_PUBLIC_ONLY,NOT_RUN,"title/meta/description/alt derived from public JSON, viewed images, and SERP observation.",B003-025,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/185450f2ea5617a7f257528481c622e601de802b3dd7e6e3013e8b5239b7b661.jpg?v=1787258762,,top view of green ghost vortex Halloween round rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5fbfeb3453de11f4956a72954efc166f9079a9acbfdbf98e879c8c1ebd7f8d99.jpg?v=1787258762,,size chart for green ghost vortex Halloween round rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d413cee5061682b6201572b4058556e318c9908fe8939f81a7513db077aa0aa7.jpg?v=1787258762,,green ghost vortex Halloween round rug shown underfoot,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/292b2fc0736dfdd6b997b78045eb21b3e141d9d46a5c9f2e6759c1d356e7316d.jpg?v=1787258762,,green ghost vortex Halloween rug staged by fireplace,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/dcc6febc4671233fdf94ae8c4769290f4ec4cc41f9f6c98d44e7dc74488f7542.jpg?v=1787258762,,non-slip backing detail for green ghost vortex rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a108d406645e95d031e3e4556d1a6f0fbb2367ab7d2013d4690034e8eb83eaf8.jpg?v=1787258763,,green ghost vortex Halloween rug in seasonal room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ebc4069f7c7871cb5ed454c07d77b744bba56bf26c5cc9e0856e6729742311e5.jpg?v=1787258762,,green ghost vortex Halloween round rug under dining table,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6a155eb3c7d84df452daf280caca591459fdf5da5c3264be440f792289e97ce1.jpg?v=1787258762,,design and backing detail for green ghost vortex rug,SET,,,,
+2.4,2.4,chillgen_20260907_01,B003,chillgen.com,personalized-halloween-3d-optical-illusion-ghost-round-rug-design-08,personalized-halloween-3d-optical-illusion-ghost-round-rug-design-08,15976571896177,gid://shopify/Product/15976571896177,PUBLIC_JSON_MATCHED_TO_HANDLE,seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/products_page_1.json,UNKNOWN_PUBLIC_JSON_CAPTURE,en-US,US,https://chillgen.com/products/personalized-halloween-3d-optical-illusion-ghost-round-rug-design-08,https://chillgen.com/products/personalized-halloween-3d-optical-illusion-ghost-round-rug-design-08,Rug,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 08,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 08,Ghost Staircase Halloween Round Rug,SET,NEEDS_THEME_CONFIRMATION,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 08,UNKNOWN,Ghost Staircase Halloween Round Rug,SET,35,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,UNKNOWN_WITHOUT_RENDERED_PAGE_META_CAPTURE,"Choose a ghost staircase Halloween round rug with spiral steps, warm pumpkin lights, cozy haunted artwork, and non-slip backing.",SET,128,ghost staircase Halloween rug,"haunted staircase rug, ghost round rug, Halloween optical illusion rug",ghost staircase Halloween rug for entryway; ghost staircase rug; Halloween floor mat,Use motif-specific product terms; reserve broad Halloween round rug or Halloween area rug for collections.,HALLOWEEN,"SERP observed for vortex, haunted staircase, ghost, Halloween optical illusion, and personalized Halloween rug terms; no paid volume used.",SUPPORTED_BY_PRODUCT_AND_CATEGORY_SERP_OBSERVATION,ghost staircase Halloween rug,Commercial investigation / product purchase,SERP_OBSERVED_NO_VOLUME,"round rug with several small ghosts on winding stone stairs, pumpkins, candles, warm lights and backing detail images",B003-026-BR01,"Halloween shoppers can use this motif-specific rug as a spooky seasonal floor centerpiece for rooms, entryways, parties, or personal decor.",PUBLIC_DATA_ONLY,SEO title; meta description; product title/H1 proposal; description proposal; image alt proposal,NEEDS_REVIEW,2.4,"<p>This round rug features a unique 3D optical illusion design, making it a distinctive accent piece for any room. The personalized aspect allows for custom text, enhancing its appeal as a unique decorative item. It is designed to add a bold visual statement and comfort underfoot, perfect for seasonal or themed decor.</p><h3>Product Highlights</h3><ul>
+<li>Features a 3D optical illusion design for a dramatic visual effect.</li>
+<li>Personalizable with a name or custom text to create a unique item.</li>
+<li>Showcases ghost, pumpkin, and skeleton details with Halloween-inspired colors.</li>
+<li>Designed for indoor use, providing a soft and comfortable surface.</li>
+<li>Versatile for various spaces including living rooms, bedrooms, and party areas.</li>
+<li>Easy to care for with regular vacuuming or spot cleaning.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Round</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Printed</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Living Room, Entryway, Bedroom, Game Room, Party Area, Haunted House, Trick-or-Treat Display</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Personalized, 3D Optical Illusion</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Ghost, Pumpkin, Skeleton, Deep-Pit Visual Effects</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Halloween, Spooky Season</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Gothic, Festive, Themed</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Avoid bleach and high heat</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Vacuum regularly, spot clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This rug is ideal for indoor settings where a unique visual accent is desired. It works well in living rooms, bedrooms, game rooms, and entryways. Its festive design also makes it a suitable addition for Halloween decorating, party areas, or themed displays.</p>","Replace generic duplicate wording with motif-specific, evidence-backed copy.","Choose a ghost staircase Halloween round rug with spiral steps, warm pumpkin lights, cozy haunted artwork, and non-slip backing. Why it works Round rug with several small ghosts on winding stone stairs, pumpkins, candles, warm lights and backing detail images. Public imagery shows a printed rug surface and backing or care details. Useful as seasonal indoor Halloween decor for living rooms, entryways, bedrooms, dining areas, or party spaces.","<p>Choose a ghost staircase Halloween round rug with spiral steps, warm pumpkin lights, cozy haunted artwork, and non-slip backing.</p><h3>Why it works</h3><ul><li>Round rug with several small ghosts on winding stone stairs, pumpkins, candles, warm lights and backing detail images.</li><li>Public imagery shows a printed rug surface and backing or care details.</li><li>Useful as seasonal indoor Halloween decor for living rooms, entryways, bedrooms, dining areas, or party spaces.</li></ul>",REWRITE_FROM_PUBLIC_FACTS,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; Shopify admin/export values are unknown and require review before approval.,,,,,DRAFTED,COMPLETE_PUBLIC_ONLY,NOT_RUN,"title/meta/description/alt derived from public JSON, viewed images, and SERP observation.",B003-026,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/afa815fe2ed2e6ad8019efddc6ef67b78cf9c969059be073063d82d80ec35b12.jpg?v=1787258744,,top view of ghost staircase Halloween round rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/97b7491149dc4da1d3e6320f1180e19b99e4ac1cef63b2502a330c304c21cc8b.jpg?v=1787258744,,size chart for ghost staircase Halloween round rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7e1ded857ef35fbef290bb87da3ff8a8dade213cbc18a10ae81e607b7b1f0e41.jpg?v=1787258745,,ghost staircase Halloween round rug shown underfoot,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b661edc0b54c025d3082f8d20f6ef67685239ff0128e32e96c8ae9876a86400f.jpg?v=1787258744,,ghost staircase Halloween rug staged by fireplace,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fafe35521cb70060877d4dd6ddf35167692d096c66fe5491e60fab4b2bd2f671.jpg?v=1787258744,,non-slip backing detail for ghost staircase rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/65cbb5bc33daeaba86ddbabdeea1be48e18f10e51281c3bcf97dad0a93755848.jpg?v=1787258744,,ghost staircase Halloween rug in seasonal room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f0b516bb631474226ab016f13c1afe8257f01d5c448113b2a42c339b5883647e.jpg?v=1787258744,,ghost staircase Halloween round rug under dining table,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/530a53d60c3157d76212cde16885f3fb29ee825dbf9f402689f7a1b875a9bff5.jpg?v=1787258744,,design and backing detail for ghost staircase rug,SET,,,,
+2.4,2.4,chillgen_20260907_01,B003,chillgen.com,personalized-halloween-3d-optical-illusion-ghost-round-rug-design-09,personalized-halloween-3d-optical-illusion-ghost-round-rug-design-09,15976571634033,gid://shopify/Product/15976571634033,PUBLIC_JSON_MATCHED_TO_HANDLE,seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/products_page_1.json,UNKNOWN_PUBLIC_JSON_CAPTURE,en-US,US,https://chillgen.com/products/personalized-halloween-3d-optical-illusion-ghost-round-rug-design-09,https://chillgen.com/products/personalized-halloween-3d-optical-illusion-ghost-round-rug-design-09,Rug,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 09,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 09,Skeleton Tunnel Halloween Round Rug,SET,NEEDS_THEME_CONFIRMATION,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 09,UNKNOWN,Skeleton Tunnel Halloween Round Rug,SET,35,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,UNKNOWN_WITHOUT_RENDERED_PAGE_META_CAPTURE,"Add a skeleton tunnel Halloween round rug with dark cave depth, pumpkins, skull details, warm lights, and non-slip backing.",SET,123,skeleton tunnel Halloween rug,"skeleton optical illusion rug, spooky tunnel rug, Halloween round rug",skeleton tunnel Halloween rug for entryway; skeleton tunnel rug; Halloween floor mat,Use motif-specific product terms; reserve broad Halloween round rug or Halloween area rug for collections.,HALLOWEEN,"SERP observed for vortex, haunted staircase, ghost, Halloween optical illusion, and personalized Halloween rug terms; no paid volume used.",SUPPORTED_BY_PRODUCT_AND_CATEGORY_SERP_OBSERVATION,skeleton tunnel Halloween rug,Commercial investigation / product purchase,SERP_OBSERVED_NO_VOLUME,"round rug with skeleton crawling near a dark tunnel, pumpkins, skulls, warm cave lighting and backing closeups",B003-027-BR01,"Halloween shoppers can use this motif-specific rug as a spooky seasonal floor centerpiece for rooms, entryways, parties, or personal decor.",PUBLIC_DATA_ONLY,SEO title; meta description; product title/H1 proposal; description proposal; image alt proposal,NEEDS_REVIEW,2.4,"<p>This round rug features a unique 3D optical illusion design, perfect for adding a bold accent to any space. It showcases a personalized Halloween theme, making it a distinctive piece of floor decor. The rug offers a comfortable surface underfoot while creating a dramatic visual statement.</p><h3>Product Highlights</h3><ul>
+<li>Personalized 3D optical illusion design with a Halloween theme.</li>
+<li>Features eye-catching artwork with pumpkins, ghosts, and skeleton details.</li>
+<li>Soft and comfortable for indoor use, designed to add comfort underfoot.</li>
+<li>Printed illusion creates a dimensional look with a flat, easy-to-use surface.</li>
+<li>Ideal for creating a festive and memorable atmosphere during the spooky season.</li>
+<li>Easy to care for with regular vacuuming or spot cleaning.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Round</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Living Room, Entryway, Bedroom, Game Room, Party Area</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Personalized, 3D Effect, Optical Illusion</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Novelty</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Halloween, Ghost, Pumpkin, Skeleton</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Gothic, Spooky, Seasonal</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Avoid bleach and high heat</td>
+</tr>
+<tr>
+<td>Cleaning Method</td>
+<td>Vacuum regularly or spot clean</td>
+</tr>
+</table><h3>Where It Works</h3><p>This rug is well-suited for various indoor settings, including living rooms, entryways, bedrooms, game rooms, and party areas. It's an excellent choice for haunted house setups, trick-or-treat displays, and general seasonal home decor, bringing a festive and unique touch to any space during the Halloween season.</p>","Replace generic duplicate wording with motif-specific, evidence-backed copy.","Add a skeleton tunnel Halloween round rug with dark cave depth, pumpkins, skull details, warm lights, and non-slip backing. Why it works Round rug with skeleton crawling near a dark tunnel, pumpkins, skulls, warm cave lighting and backing closeups. Public imagery shows a printed rug surface and backing or care details. Useful as seasonal indoor Halloween decor for living rooms, entryways, bedrooms, dining areas, or party spaces.","<p>Add a skeleton tunnel Halloween round rug with dark cave depth, pumpkins, skull details, warm lights, and non-slip backing.</p><h3>Why it works</h3><ul><li>Round rug with skeleton crawling near a dark tunnel, pumpkins, skulls, warm cave lighting and backing closeups.</li><li>Public imagery shows a printed rug surface and backing or care details.</li><li>Useful as seasonal indoor Halloween decor for living rooms, entryways, bedrooms, dining areas, or party spaces.</li></ul>",REWRITE_FROM_PUBLIC_FACTS,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; Shopify admin/export values are unknown and require review before approval.,,,,,DRAFTED,COMPLETE_PUBLIC_ONLY,NOT_RUN,"title/meta/description/alt derived from public JSON, viewed images, and SERP observation.",B003-027,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0841376fabc4a776bf5ae547434425f372aa44a242780d71e95249a3a7767018.jpg?v=1787258730,,top view of skeleton tunnel Halloween round rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/93aeeb966b4b655f8a4f5ab8b0bf4f8bafc0a0e03fd555d3d61a4336a4d79484.jpg?v=1787258730,,size chart for skeleton tunnel Halloween round rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/052ff2a6da4b6816cbbc3d1cd98a2f6a2367f5154b29f6d0221e7c5bd7fed4bf.jpg?v=1787258730,,skeleton tunnel Halloween round rug shown underfoot,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8a2ed7a0c2a8d1fee5fc10fdd875d51ec83f6b5b40c65dba49b80c9dcb8cfd59.jpg?v=1787258730,,skeleton tunnel Halloween rug staged by fireplace,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/ff2c9e6558396aca7acca3d0adaf98a16353cdca1353d4353add8bbd91af9026.jpg?v=1787258731,,non-slip backing detail for skeleton tunnel rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9d0dfa605be8a3c64c658552c840f94c05b646de18ad83984c4f5e97f2be3ec6.jpg?v=1787258730,,skeleton tunnel Halloween rug in seasonal room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/eefa0f5d47b57cedfb4e10784de1b7cd6aee5ab256346ca49166b5120c61c5c9.jpg?v=1787258730,,skeleton tunnel Halloween round rug under dining table,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2b727bd5c552a832d5fb70d23204691947f782fdabc462520b8346bae2d1f07d.jpg?v=1787258730,,design and backing detail for skeleton tunnel rug,SET,,,,
+2.4,2.4,chillgen_20260907_01,B003,chillgen.com,personalized-halloween-3d-optical-illusion-ghost-round-rug-design-06,personalized-halloween-3d-optical-illusion-ghost-round-rug-design-06,15976571404657,gid://shopify/Product/15976571404657,PUBLIC_JSON_MATCHED_TO_HANDLE,seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/products_page_1.json,UNKNOWN_PUBLIC_JSON_CAPTURE,en-US,US,https://chillgen.com/products/personalized-halloween-3d-optical-illusion-ghost-round-rug-design-06,https://chillgen.com/products/personalized-halloween-3d-optical-illusion-ghost-round-rug-design-06,Rug,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 06,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 06,Ghost Stone Well Halloween Round Rug,SET,NEEDS_THEME_CONFIRMATION,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 06,UNKNOWN,Ghost Stone Well Halloween Round Rug,SET,36,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,UNKNOWN_WITHOUT_RENDERED_PAGE_META_CAPTURE,"Bring haunted depth to a room with a ghost stone well Halloween round rug, spiral pit illusion, skull border, and non-slip backing.",SET,131,ghost well Halloween rug,"ghost stone well rug, Halloween pit rug, optical illusion round rug",ghost well Halloween rug for entryway; ghost stone well rug; Halloween floor mat,Use motif-specific product terms; reserve broad Halloween round rug or Halloween area rug for collections.,HALLOWEEN,"SERP observed for vortex, haunted staircase, ghost, Halloween optical illusion, and personalized Halloween rug terms; no paid volume used.",SUPPORTED_BY_PRODUCT_AND_CATEGORY_SERP_OBSERVATION,ghost well Halloween rug,Commercial investigation / product purchase,SERP_OBSERVED_NO_VOLUME,"round rug with ghosts around a gray stone spiral well, orange glowing center, skull border, pumpkins and backing graphics",B003-028-BR01,"Halloween shoppers can use this motif-specific rug as a spooky seasonal floor centerpiece for rooms, entryways, parties, or personal decor.",PUBLIC_DATA_ONLY,SEO title; meta description; product title/H1 proposal; description proposal; image alt proposal,NEEDS_REVIEW,2.4,"<p>This round rug features a unique 3D optical illusion design, making it a distinctive accent piece for any room. The design incorporates ghost, pumpkin, and skeleton details with a deep-pit visual effect, creating a striking Halloween-themed decor item. It offers a soft surface underfoot while presenting a strong visual statement, perfect for enhancing your home's festive appeal.</p><h3>Product Highlights</h3><ul>
+<li>Personalized 3D optical illusion design for a bold accent.</li>
+<li>Features ghost, pumpkin, and skeleton artwork with dramatic Halloween colors.</li>
+<li>Soft and comfortable for indoor use, creating a flat yet dimensional look.</li>
+<li>Easy care for daily use, requiring regular vacuuming or spot cleaning.</li>
+<li>Versatile for various indoor spaces including living rooms and game rooms.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Round</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Novelty</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Halloween</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Personalized</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Vacuum regularly or spot clean when needed. Avoid bleach and high heat.</td>
+</tr>
+</table><h3>Where It Works</h3><p>This rug is ideal for enhancing the festive atmosphere in living rooms, entryways, bedrooms, and game rooms. It is also suitable for party areas, haunted house setups, and trick-or-treat displays, making it a versatile choice for seasonal home decor.</p>","Replace generic duplicate wording with motif-specific, evidence-backed copy.","Bring haunted depth to a room with a ghost stone well Halloween round rug, spiral pit illusion, skull border, and non-slip backing. Why it works Round rug with ghosts around a gray stone spiral well, orange glowing center, skull border, pumpkins and backing graphics. Public imagery shows a printed rug surface and backing or care details. Useful as seasonal indoor Halloween decor for living rooms, entryways, bedrooms, dining areas, or party spaces.","<p>Bring haunted depth to a room with a ghost stone well Halloween round rug, spiral pit illusion, skull border, and non-slip backing.</p><h3>Why it works</h3><ul><li>Round rug with ghosts around a gray stone spiral well, orange glowing center, skull border, pumpkins and backing graphics.</li><li>Public imagery shows a printed rug surface and backing or care details.</li><li>Useful as seasonal indoor Halloween decor for living rooms, entryways, bedrooms, dining areas, or party spaces.</li></ul>",REWRITE_FROM_PUBLIC_FACTS,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; Shopify admin/export values are unknown and require review before approval.,,,,,DRAFTED,COMPLETE_PUBLIC_ONLY,NOT_RUN,"title/meta/description/alt derived from public JSON, viewed images, and SERP observation.",B003-028,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a847abe2f561ab3a9029d0659b65225a4ae065146fcd808d202ef84b55dac2b5.jpg?v=1787258721,,top view of ghost stone well Halloween round rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d2b3cf9aaaabb847dc158bbb3de725c83c47d08bf6257629d159fa914b76bd6b.jpg?v=1787258721,,size chart for ghost stone well Halloween round rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/834b931cf090ad9656a9c6d150d887f95218cc0e8688d0a7c3e949b6a3e8ae37.jpg?v=1787258721,,ghost stone well Halloween round rug shown underfoot,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/56cd0d9991c128c4cbabe14c00a3c08e17d49971bff66c2d17b5693187abf096.jpg?v=1787258721,,ghost stone well Halloween rug staged by fireplace,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7da9908ef446ef73706c86a624f0e9f12879a270a0bab282839bb785636b8958.jpg?v=1787258721,,non-slip backing detail for ghost stone well rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e3459bf5f199b269ddc78ada4fa40c23e999738d7f882c461117cdbaad1ba753.jpg?v=1787258721,,ghost stone well Halloween rug in seasonal room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0f6ad6e847c32f44b4b39739f254cd47d88662a47ceec0bbf34f9c4ff506bfe9.jpg?v=1787258721,,ghost stone well Halloween round rug under dining table,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/b484f105a5236d08e0ee9072a8e6d369687398df3b89b5af947b221e9f2df6d9.jpg?v=1787258721,,design and backing detail for ghost stone well rug,SET,,,,
+2.4,2.4,chillgen_20260907_01,B003,chillgen.com,personalized-halloween-3d-optical-illusion-ghost-round-rug-design-02,personalized-halloween-3d-optical-illusion-ghost-round-rug-design-02,15976571208049,gid://shopify/Product/15976571208049,PUBLIC_JSON_MATCHED_TO_HANDLE,seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/products_page_1.json,UNKNOWN_PUBLIC_JSON_CAPTURE,en-US,US,https://chillgen.com/products/personalized-halloween-3d-optical-illusion-ghost-round-rug-design-02,https://chillgen.com/products/personalized-halloween-3d-optical-illusion-ghost-round-rug-design-02,Rug,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 02,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 02,Jack-O-Lantern Vine Halloween Round Rug,SET,NEEDS_THEME_CONFIRMATION,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,Personalized Halloween 3D Optical Illusion Ghost Round Rug - Design 02,UNKNOWN,Jack-O-Lantern Vine Halloween Round Rug,SET,39,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,UNKNOWN_WITHOUT_RENDERED_PAGE_META_CAPTURE,"Use a jack-o-lantern vine Halloween round rug for warm pumpkin decor with dark curling vines, checker border, and non-slip backing.",SET,131,jack-o-lantern vine rug,"pumpkin Halloween round rug, spooky pumpkin rug, Halloween optical illusion rug",jack-o-lantern vine rug for entryway; jack-o-lantern vine rug; Halloween floor mat,Use motif-specific product terms; reserve broad Halloween round rug or Halloween area rug for collections.,HALLOWEEN,"SERP observed for vortex, haunted staircase, ghost, Halloween optical illusion, and personalized Halloween rug terms; no paid volume used.",SUPPORTED_BY_PRODUCT_AND_CATEGORY_SERP_OBSERVATION,jack-o-lantern vine rug,Commercial investigation / product purchase,SERP_OBSERVED_NO_VOLUME,"round rug with glowing jack-o-lantern, dark curling vines, orange-black checker border, lifestyle scenes and backing detail",B003-029-BR01,"Halloween shoppers can use this motif-specific rug as a spooky seasonal floor centerpiece for rooms, entryways, parties, or personal decor.",PUBLIC_DATA_ONLY,SEO title; meta description; product title/H1 proposal; description proposal; image alt proposal,NEEDS_REVIEW,2.4,"<p>This round rug features a captivating 3D optical illusion design, perfect for adding a bold and unique accent to any room. Its striking visual effects and personalized touch make it a distinctive piece of home decor. Designed for indoor use, this rug offers comfort underfoot while creating an engaging focal point for your space.</p><h3>Product Highlights</h3><ul>
+<li>Personalized with custom text for a unique touch.</li>
+<li>Features ghost, pumpkin, and skeleton details with a deep-pit visual effect.</li>
+<li>Soft and comfortable for indoor use.</li>
+<li>Printed illusion creates a dimensional look with a flat surface.</li>
+<li>Easy to care for with regular vacuuming or spot cleaning.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Round</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Construction Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Indoor/Outdoor Usage</td>
+<td>Indoor</td>
+</tr>
+<tr>
+<td>Room Type</td>
+<td>Living Room, Entryway, Bedroom, Game Room, Party Area</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Personalized, 3D Optical Illusion</td>
+</tr>
+<tr>
+<td>Pattern</td>
+<td>Ghost, Pumpkin, Skeleton, 3D Effect</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Halloween, Spooky Season</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Optical Illusion, Festive</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+<tr>
+<td>Care Instructions</td>
+<td>Vacuum regularly or spot clean when needed. Avoid bleach and high heat.</td>
+</tr>
+</table><h3>Where It Works</h3><p>This rug is ideal for adding a festive and personalized touch to living rooms, entryways, bedrooms, or game rooms. It's also well-suited for party areas, haunted house setups, or trick-or-treat displays, making it perfect for Halloween decorating and seasonal home decor.</p>","Replace generic duplicate wording with motif-specific, evidence-backed copy.","Use a jack-o-lantern vine Halloween round rug for warm pumpkin decor with dark curling vines, checker border, and non-slip backing. Why it works Round rug with glowing jack-o-lantern, dark curling vines, orange-black checker border, lifestyle scenes and backing detail. Public imagery shows a printed rug surface and backing or care details. Useful as seasonal indoor Halloween decor for living rooms, entryways, bedrooms, dining areas, or party spaces.","<p>Use a jack-o-lantern vine Halloween round rug for warm pumpkin decor with dark curling vines, checker border, and non-slip backing.</p><h3>Why it works</h3><ul><li>Round rug with glowing jack-o-lantern, dark curling vines, orange-black checker border, lifestyle scenes and backing detail.</li><li>Public imagery shows a printed rug surface and backing or care details.</li><li>Useful as seasonal indoor Halloween decor for living rooms, entryways, bedrooms, dining areas, or party spaces.</li></ul>",REWRITE_FROM_PUBLIC_FACTS,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; Shopify admin/export values are unknown and require review before approval.,,,,,DRAFTED,COMPLETE_PUBLIC_ONLY,NOT_RUN,"title/meta/description/alt derived from public JSON, viewed images, and SERP observation.",B003-029,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d7abebca515f54e2d5fcfb1488555bbc01b2b20693788619106aab863a39bb94.jpg?v=1787258711,,top view of jack-o-lantern vine Halloween round rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/732b1e769fb00f4113b97bf26f764d7bfb2ac6ea376c61196af49103de9115db.jpg?v=1787258711,,size chart for jack-o-lantern vine Halloween round rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1588aa6cfcae4bbf3934b7562f6b84569915d36711569855753151f3c2fbb62a.jpg?v=1787258711,,jack-o-lantern vine Halloween round rug shown underfoot,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/03cf7a4a48cacb8a4081aec07cd853adb047c3cd3bb9834cd3bf2198d9cf7a4a.jpg?v=1787258711,,jack-o-lantern vine Halloween rug staged by fireplace,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/de4e4fd942b27a5198e2c769ffb8fc3e3b997b577b47de21dfe3c47a666e2cf7.jpg?v=1787258711,,non-slip backing detail for jack-o-lantern vine rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/92b61ed1f9be5bf609972dcd69f150603ad910b8e6f88c5f317b62d4bbddcf2f.jpg?v=1787258711,,jack-o-lantern vine Halloween rug in seasonal room mockup,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/816d4183b6c6900ffe91576b3b096835cfea0603dc25989e0baaf82a7fc90af8.jpg?v=1787258711,,jack-o-lantern vine Halloween round rug under dining table,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3ebd2fb5d9a3ff71950884f6070762f6722fb045b2d7e9c25c63f7b5d1257105.jpg?v=1787258711,,design and backing detail for jack-o-lantern vine rug,SET,,,,
+2.4,2.4,chillgen_20260907_01,B003,chillgen.com,personalized-witch-area-rug-with-name-custom-halloween-rug-black,personalized-witch-area-rug-with-name-custom-halloween-rug-black,15976543355249,gid://shopify/Product/15976543355249,PUBLIC_JSON_MATCHED_TO_HANDLE,seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/products_page_1.json,UNKNOWN_PUBLIC_JSON_CAPTURE,en-US,US,https://chillgen.com/products/personalized-witch-area-rug-with-name-custom-halloween-rug-black,https://chillgen.com/products/personalized-witch-area-rug-with-name-custom-halloween-rug-black,Rug,"Personalized Witch Area Rug with Name - Custom Halloween Rug, Black","Personalized Witch Area Rug with Name - Custom Halloween Rug, Black",Personalized Witch Cat Halloween Rug,SET,NEEDS_THEME_CONFIRMATION,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,"Personalized Witch Area Rug with Name - Custom Halloween Rug, Black",UNKNOWN,Personalized Witch Cat Halloween Rug,SET,36,,UNKNOWN_WITHOUT_SHOPIFY_EXPORT,UNKNOWN_WITHOUT_RENDERED_PAGE_META_CAPTURE,"Personalize a black witch cat Halloween rug with a name, moon and floral artwork, kid-and-pet friendly notes, and easy-clean visuals.",SET,133,personalized witch cat rug,"custom Halloween witch rug, black cat Halloween rug, personalized Halloween area rug",personalized witch cat rug for entryway; black witch cat name rug rug; Halloween floor mat,Use motif-specific product terms; reserve broad Halloween round rug or Halloween area rug for collections.,HALLOWEEN,"SERP observed for vortex, haunted staircase, ghost, Halloween optical illusion, and personalized Halloween rug terms; no paid volume used.",SUPPORTED_BY_PRODUCT_AND_CATEGORY_SERP_OBSERVATION,personalized witch cat rug,Commercial investigation / product purchase,SERP_OBSERVED_NO_VOLUME,"rectangular black rug with black cat, witch hat, moon, floral border and personalized name Sophia; size, pet-friendly and cleaning graphics viewed",B003-030-BR01,"Halloween shoppers can use this motif-specific rug as a spooky seasonal floor centerpiece for rooms, entryways, parties, or personal decor.",PUBLIC_DATA_ONLY,SEO title; meta description; product title/H1 proposal; description proposal; image alt proposal,NEEDS_REVIEW,2.4,"<p>This personalized area rug features a witch-themed design, perfect for adding a unique decorative accent to your home. It showcases charming Halloween-inspired artwork with classic seasonal elements, making it an ideal choice for gothic, autumn, and festive home decor. The rug offers warmth and personality while complementing various interior styles.</p><h3>Product Highlights</h3><ul>
+<li>Customize this witch-themed rug with your name for a unique design.</li>
+<li>Features Halloween-inspired artwork with classic seasonal elements.</li>
+<li>Adds warmth and personality to your home decor.</li>
+<li>Complements fall decorations, Halloween displays, and gothic interiors.</li>
+<li>Suitable for various rooms, including living rooms, bedrooms, and entryways.</li>
+<li>Thoughtful gift for Halloween enthusiasts or housewarmings.</li>
+</ul><h3>Specifications</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Attribute</th>
+<th align=""left"">Value</th>
+</tr>
+<tr>
+<td>Rug Form</td>
+<td>Area Rug</td>
+</tr>
+<tr>
+<td>Item Shape</td>
+<td>Rectangular</td>
+</tr>
+<tr>
+<td>Weave Type</td>
+<td>Machine Made</td>
+</tr>
+<tr>
+<td>Pile Height</td>
+<td>Low Pile</td>
+</tr>
+<tr>
+<td>Theme</td>
+<td>Witch, Halloween, Black Cat, Raven</td>
+</tr>
+<tr>
+<td>Style</td>
+<td>Gothic, Spooky</td>
+</tr>
+<tr>
+<td>Special Features</td>
+<td>Personalized, Non Slip</td>
+</tr>
+</table><h3>Material &amp; Care</h3><table border=""1"" cellpadding=""6"" style=""border-collapse:collapse;width:100%"">
+<tr>
+<th align=""left"" width=""35%"">Item</th>
+<th align=""left"">Detail</th>
+</tr>
+<tr>
+<td>Material Type</td>
+<td>Sponge - Memory Foam</td>
+</tr>
+</table><h3>Where It Works</h3><p>This decorative rug is suitable for various living spaces, including living rooms, bedrooms, entryways, reading nooks, dorms, and apartments. It is also ideal for creating cozy seasonal displays during Halloween and the autumn season, adding a festive touch to any room.</p>","Replace generic duplicate wording with motif-specific, evidence-backed copy.","Personalize a black witch cat Halloween rug with a name, moon and floral artwork, kid-and-pet friendly notes, and easy-clean visuals. Why it works Rectangular black rug with black cat, witch hat, moon, floral border and personalized name sophia; size, pet-friendly and cleaning graphics viewed. Public imagery shows a printed rug surface and backing or care details. Useful as seasonal indoor Halloween decor for living rooms, entryways, bedrooms, dining areas, or party spaces.","<p>Personalize a black witch cat Halloween rug with a name, moon and floral artwork, kid-and-pet friendly notes, and easy-clean visuals.</p><h3>Why it works</h3><ul><li>Rectangular black rug with black cat, witch hat, moon, floral border and personalized name sophia; size, pet-friendly and cleaning graphics viewed.</li><li>Public imagery shows a printed rug surface and backing or care details.</li><li>Useful as seasonal indoor Halloween decor for living rooms, entryways, bedrooms, dining areas, or party spaces.</li></ul>",REWRITE_FROM_PUBLIC_FACTS,Full product body,SET,1,NEEDS_REVIEW,Research proposal only; Shopify admin/export values are unknown and require review before approval.,,,,,DRAFTED,COMPLETE_PUBLIC_ONLY,NOT_RUN,"title/meta/description/alt derived from public JSON, viewed images, and SERP observation.",B003-030,Admin SEO fields unknown without Shopify export; QA not run; not approved for deployment.,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/03a44837128422f740be9a89c96e1494f8e772439709740fd0a8789e7563d9f3.jpg?v=1787257410,,lifestyle view of black witch cat name rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/56e79ee88f8b2f3603ec204f862645200e4f14fb0e160d203bcafb3b7f53968e.jpg?v=1787257410,,size information for black witch cat name rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/7663d6aaf9263617239c18aa3c47f415f1d68bb05dbf2134665e7ca0a6b6c2e9.jpg?v=1787257410,,black witch cat name rug staged near sofa,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1bfb792f20f1a85a8974b818d279a61d23ffb48927cef0dbd16c4b5756e2f9ad.jpg?v=1787257410,,black witch cat name rug in living room,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/db935b71ce44d3de67d707557a82e18e6210e75b8e62c8f0e39fe1ab749ee214.jpg?v=1787257410,,kid and pet friendly graphic for black witch cat name rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/68ea040cd037b65db4b4fdd16141618ab2cb94fc967d869900529e4487945bd7.jpg?v=1787257410,,cleaning options graphic for black witch cat name rug,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2dd56b6be3b90d73de39e1e8cbe1e0bad118aed9802f286539d40ab00e06cba4.jpg?v=1787257410,,black witch cat name rug shown with family near fireplace,SET,https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3ec65bf18577a05cb9393277a958f94508ac32aa4f219f1ce972f0d096f547ea.jpg?v=1787257410,,black witch cat name rug under dining table,SET,,,,
