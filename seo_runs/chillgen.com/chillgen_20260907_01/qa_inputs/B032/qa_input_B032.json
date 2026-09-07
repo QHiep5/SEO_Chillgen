@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B032",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "personalized-classroom-doormat-with-custom-teacher-name-956ffe5ee5",
+    "personalized-classroom-welcome-doormat-b404579ec3-b404579ec3",
+    "personalized-classroom-welcome-doormat-77047e9c34-77047e9c34",
+    "personalized-classroom-welcome-doormat-2f0308422b-2f0308422b",
+    "personalized-classroom-welcome-doormat-b5fe59f765-b5fe59f765",
+    "personalized-soccer-2026-area-rug-73a22990b0-73a22990b0",
+    "personalized-soccer-trophy-world-flags-doormat-00f2f9bbfa",
+    "personalized-soccer-trophy-area-rug-05582886df",
+    "personalized-soccer-2026-area-rug-c2d07261b5",
+    "personalized-soccer-2026-area-rug-a60ad6dcf9-a60ad6dcf9"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::personalized-classroom-doormat-with-custom-teacher-name-956ffe5ee5",
+    "chillgen.com::personalized-classroom-welcome-doormat-b404579ec3-b404579ec3",
+    "chillgen.com::personalized-classroom-welcome-doormat-77047e9c34-77047e9c34",
+    "chillgen.com::personalized-classroom-welcome-doormat-2f0308422b-2f0308422b",
+    "chillgen.com::personalized-classroom-welcome-doormat-b5fe59f765-b5fe59f765",
+    "chillgen.com::personalized-soccer-2026-area-rug-73a22990b0-73a22990b0",
+    "chillgen.com::personalized-soccer-trophy-world-flags-doormat-00f2f9bbfa",
+    "chillgen.com::personalized-soccer-trophy-area-rug-05582886df",
+    "chillgen.com::personalized-soccer-2026-area-rug-c2d07261b5",
+    "chillgen.com::personalized-soccer-2026-area-rug-a60ad6dcf9-a60ad6dcf9"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B032\\progress_B032_for_QA.json",
+  "created_at": "2026-09-07T17:33:23+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "personalized-classroom-doormat-with-custom-teacher-name-956ffe5ee5",
+      "canonical_product_key": "chillgen.com::personalized-classroom-doormat-with-custom-teacher-name-956ffe5ee5",
+      "Handle": "personalized-classroom-doormat-with-custom-teacher-name-956ffe5ee5",
+      "url": "https://chillgen.com/products/personalized-classroom-doormat-with-custom-teacher-name-956ffe5ee5",
+      "revision": "1",
+      "title_proposed": "Yay You're Here Teacher Mat",
+      "primary_keyword": "Yay You're Here teacher mat",
+      "evidence_id": "B032-311"
+    },
+    {
+      "product_key": "personalized-classroom-welcome-doormat-b404579ec3-b404579ec3",
+      "canonical_product_key": "chillgen.com::personalized-classroom-welcome-doormat-b404579ec3-b404579ec3",
+      "Handle": "personalized-classroom-welcome-doormat-b404579ec3-b404579ec3",
+      "url": "https://chillgen.com/products/personalized-classroom-welcome-doormat-b404579ec3-b404579ec3",
+      "revision": "1",
+      "title_proposed": "School Supplies Classroom Mat",
+      "primary_keyword": "school supplies classroom mat",
+      "evidence_id": "B032-312"
+    },
+    {
+      "product_key": "personalized-classroom-welcome-doormat-77047e9c34-77047e9c34",
+      "canonical_product_key": "chillgen.com::personalized-classroom-welcome-doormat-77047e9c34-77047e9c34",
+      "Handle": "personalized-classroom-welcome-doormat-77047e9c34-77047e9c34",
+      "url": "https://chillgen.com/products/personalized-classroom-welcome-doormat-77047e9c34-77047e9c34",
+      "revision": "1",
+      "title_proposed": "Math Teacher Classroom Mat",
+      "primary_keyword": "math teacher classroom mat",
+      "evidence_id": "B032-313"
+    },
+    {
+      "product_key": "personalized-classroom-welcome-doormat-2f0308422b-2f0308422b",
+      "canonical_product_key": "chillgen.com::personalized-classroom-welcome-doormat-2f0308422b-2f0308422b",
+      "Handle": "personalized-classroom-welcome-doormat-2f0308422b-2f0308422b",
+      "url": "https://chillgen.com/products/personalized-classroom-welcome-doormat-2f0308422b-2f0308422b",
+      "revision": "1",
+      "title_proposed": "Dinosaur Classroom Welcome Mat",
+      "primary_keyword": "dinosaur classroom welcome mat",
+      "evidence_id": "B032-314"
+    },
+    {
+      "product_key": "personalized-classroom-welcome-doormat-b5fe59f765-b5fe59f765",
+      "canonical_product_key": "chillgen.com::personalized-classroom-welcome-doormat-b5fe59f765-b5fe59f765",
+      "Handle": "personalized-classroom-welcome-doormat-b5fe59f765-b5fe59f765",
+      "url": "https://chillgen.com/products/personalized-classroom-welcome-doormat-b5fe59f765-b5fe59f765",
+      "revision": "1",
+      "title_proposed": "Affirmation Pencil Classroom Mat",
+      "primary_keyword": "affirmation pencil classroom mat",
+      "evidence_id": "B032-315"
+    },
+    {
+      "product_key": "personalized-soccer-2026-area-rug-73a22990b0-73a22990b0",
+      "canonical_product_key": "chillgen.com::personalized-soccer-2026-area-rug-73a22990b0-73a22990b0",
+      "Handle": "personalized-soccer-2026-area-rug-73a22990b0-73a22990b0",
+      "url": "https://chillgen.com/products/personalized-soccer-2026-area-rug-73a22990b0-73a22990b0",
+      "revision": "1",
+      "title_proposed": "USA Road To Glory Soccer Rug",
+      "primary_keyword": "USA road to glory soccer rug",
+      "evidence_id": "B032-316"
+    },
+    {
+      "product_key": "personalized-soccer-trophy-world-flags-doormat-00f2f9bbfa",
+      "canonical_product_key": "chillgen.com::personalized-soccer-trophy-world-flags-doormat-00f2f9bbfa",
+      "Handle": "personalized-soccer-trophy-world-flags-doormat-00f2f9bbfa",
+      "url": "https://chillgen.com/products/personalized-soccer-trophy-world-flags-doormat-00f2f9bbfa",
+      "revision": "1",
+      "title_proposed": "World Flags Soccer Stadium Rug",
+      "primary_keyword": "world flags soccer stadium rug",
+      "evidence_id": "B032-317"
+    },
+    {
+      "product_key": "personalized-soccer-trophy-area-rug-05582886df",
+      "canonical_product_key": "chillgen.com::personalized-soccer-trophy-area-rug-05582886df",
+      "Handle": "personalized-soccer-trophy-area-rug-05582886df",
+      "url": "https://chillgen.com/products/personalized-soccer-trophy-area-rug-05582886df",
+      "revision": "1",
+      "title_proposed": "World Game 2026 Trophy Rug",
+      "primary_keyword": "World Game 2026 trophy rug",
+      "evidence_id": "B032-318"
+    },
+    {
+      "product_key": "personalized-soccer-2026-area-rug-c2d07261b5",
+      "canonical_product_key": "chillgen.com::personalized-soccer-2026-area-rug-c2d07261b5",
+      "Handle": "personalized-soccer-2026-area-rug-c2d07261b5",
+      "url": "https://chillgen.com/products/personalized-soccer-2026-area-rug-c2d07261b5",
+      "revision": "1",
+      "title_proposed": "USA Canada Mexico Soccer Rug",
+      "primary_keyword": "USA Canada Mexico soccer rug",
+      "evidence_id": "B032-319"
+    },
+    {
+      "product_key": "personalized-soccer-2026-area-rug-a60ad6dcf9-a60ad6dcf9",
+      "canonical_product_key": "chillgen.com::personalized-soccer-2026-area-rug-a60ad6dcf9-a60ad6dcf9",
+      "Handle": "personalized-soccer-2026-area-rug-a60ad6dcf9-a60ad6dcf9",
+      "url": "https://chillgen.com/products/personalized-soccer-2026-area-rug-a60ad6dcf9-a60ad6dcf9",
+      "revision": "1",
+      "title_proposed": "North America Soccer Crest Rug",
+      "primary_keyword": "North America soccer crest rug",
+      "evidence_id": "B032-320"
+    }
+  ]
+}

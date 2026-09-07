@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B002",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-04",
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-14",
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-05",
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-01",
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-08",
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-03",
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-10",
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-07",
+    "personalized-halloween-3d-optical-illusion-ghost-round-rug-a07",
+    "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-12"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-04",
+    "chillgen.com::custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-14",
+    "chillgen.com::custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-05",
+    "chillgen.com::custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-01",
+    "chillgen.com::custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-08",
+    "chillgen.com::custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-03",
+    "chillgen.com::custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-10",
+    "chillgen.com::custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-07",
+    "chillgen.com::personalized-halloween-3d-optical-illusion-ghost-round-rug-a07",
+    "chillgen.com::personalized-halloween-3d-optical-illusion-ghost-round-rug-design-12"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B002\\progress_B002_for_QA.json",
+  "created_at": "2026-09-07T15:54:23+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-04",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-04",
+      "Handle": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-04",
+      "url": "https://chillgen.com/products/custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-04",
+      "revision": "1",
+      "title_proposed": "Tentacle Pit Halloween Optical Illusion Round Rug",
+      "primary_keyword": "tentacle pit Halloween rug",
+      "evidence_id": "B002-011"
+    },
+    {
+      "product_key": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-14",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-14",
+      "Handle": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-14",
+      "url": "https://chillgen.com/products/custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-14",
+      "revision": "1",
+      "title_proposed": "Haunted Village Halloween Round Rug",
+      "primary_keyword": "haunted village Halloween rug",
+      "evidence_id": "B002-012"
+    },
+    {
+      "product_key": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-05",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-05",
+      "Handle": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-05",
+      "url": "https://chillgen.com/products/custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-05",
+      "revision": "1",
+      "title_proposed": "Blue Haunted Forest Halloween Round Rug",
+      "primary_keyword": "blue haunted forest Halloween rug",
+      "evidence_id": "B002-013"
+    },
+    {
+      "product_key": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-01",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-01",
+      "Handle": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-01",
+      "url": "https://chillgen.com/products/custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-01",
+      "revision": "1",
+      "title_proposed": "Jack-O-Lantern Monster Halloween Round Rug",
+      "primary_keyword": "jack-o-lantern monster rug",
+      "evidence_id": "B002-014"
+    },
+    {
+      "product_key": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-08",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-08",
+      "Handle": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-08",
+      "url": "https://chillgen.com/products/custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-08",
+      "revision": "1",
+      "title_proposed": "Lava Vortex Halloween Round Rug",
+      "primary_keyword": "lava vortex Halloween rug",
+      "evidence_id": "B002-015"
+    },
+    {
+      "product_key": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-03",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-03",
+      "Handle": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-03",
+      "url": "https://chillgen.com/products/custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-03",
+      "revision": "1",
+      "title_proposed": "Ghost Well Halloween Optical Illusion Rug",
+      "primary_keyword": "pumpkin ghost well Halloween rug",
+      "evidence_id": "B002-016"
+    },
+    {
+      "product_key": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-10",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-10",
+      "Handle": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-10",
+      "url": "https://chillgen.com/products/custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-10",
+      "revision": "1",
+      "title_proposed": "Pumpkin Head Monster Halloween Round Rug",
+      "primary_keyword": "pumpkin head monster rug",
+      "evidence_id": "B002-017"
+    },
+    {
+      "product_key": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-07",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-07",
+      "Handle": "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-07",
+      "url": "https://chillgen.com/products/custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-07",
+      "revision": "1",
+      "title_proposed": "Spider Cave Halloween Optical Illusion Rug",
+      "primary_keyword": "spider cave Halloween rug",
+      "evidence_id": "B002-018"
+    },
+    {
+      "product_key": "personalized-halloween-3d-optical-illusion-ghost-round-rug-a07",
+      "canonical_product_key": "chillgen.com::personalized-halloween-3d-optical-illusion-ghost-round-rug-a07",
+      "Handle": "personalized-halloween-3d-optical-illusion-ghost-round-rug-a07",
+      "url": "https://chillgen.com/products/personalized-halloween-3d-optical-illusion-ghost-round-rug-a07",
+      "revision": "1",
+      "title_proposed": "Ghost Stairwell Halloween Round Rug",
+      "primary_keyword": "ghost stairwell Halloween rug",
+      "evidence_id": "B002-019"
+    },
+    {
+      "product_key": "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-12",
+      "canonical_product_key": "chillgen.com::personalized-halloween-3d-optical-illusion-ghost-round-rug-design-12",
+      "Handle": "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-12",
+      "url": "https://chillgen.com/products/personalized-halloween-3d-optical-illusion-ghost-round-rug-design-12",
+      "revision": "1",
+      "title_proposed": "Lava Skeleton Halloween Round Rug",
+      "primary_keyword": "lava skeleton Halloween rug",
+      "evidence_id": "B002-020"
+    }
+  ]
+}

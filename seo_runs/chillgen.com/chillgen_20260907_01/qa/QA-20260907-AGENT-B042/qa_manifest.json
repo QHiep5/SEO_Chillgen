@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B042",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "custom-composition-notebook-classroom-rug-e78523a9ef-e78523a9ef",
+    "custom-composition-notebook-classroom-rug-kids-3e5de6246c",
+    "custom-mathematics-education-rug-6494449be8-6494449be8",
+    "custom-mathematics-educational-welcome-mat-627c4013d4",
+    "custom-mathematics-education-classroom-rug-0639e24f25",
+    "custom-a-good-day-to-read-book-rug-d1d331ba7d-d1d331ba7d",
+    "custom-vintage-book-classroom-reading-rug-3c50e8b414",
+    "custom-tree-of-knowledge-classroom-library-rug-077de4a60b",
+    "custom-reading-tree-classroom-rug-b66c4b4a97",
+    "custom-reading-adventure-classroom-library-rug-7956abd8c9"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::custom-composition-notebook-classroom-rug-e78523a9ef-e78523a9ef",
+    "chillgen.com::custom-composition-notebook-classroom-rug-kids-3e5de6246c",
+    "chillgen.com::custom-mathematics-education-rug-6494449be8-6494449be8",
+    "chillgen.com::custom-mathematics-educational-welcome-mat-627c4013d4",
+    "chillgen.com::custom-mathematics-education-classroom-rug-0639e24f25",
+    "chillgen.com::custom-a-good-day-to-read-book-rug-d1d331ba7d-d1d331ba7d",
+    "chillgen.com::custom-vintage-book-classroom-reading-rug-3c50e8b414",
+    "chillgen.com::custom-tree-of-knowledge-classroom-library-rug-077de4a60b",
+    "chillgen.com::custom-reading-tree-classroom-rug-b66c4b4a97",
+    "chillgen.com::custom-reading-adventure-classroom-library-rug-7956abd8c9"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B042\\progress_B042_for_QA.json",
+  "created_at": "2026-09-07T18:35:03+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "custom-composition-notebook-classroom-rug-e78523a9ef-e78523a9ef",
+      "canonical_product_key": "chillgen.com::custom-composition-notebook-classroom-rug-e78523a9ef-e78523a9ef",
+      "Handle": "custom-composition-notebook-classroom-rug-e78523a9ef-e78523a9ef",
+      "url": "https://chillgen.com/products/custom-composition-notebook-classroom-rug-e78523a9ef-e78523a9ef",
+      "revision": "1",
+      "title_proposed": "Custom Floral Composition Notebook Rug with Teacher Name",
+      "primary_keyword": "custom floral composition notebook rug",
+      "evidence_id": "B042-411"
+    },
+    {
+      "product_key": "custom-composition-notebook-classroom-rug-kids-3e5de6246c",
+      "canonical_product_key": "chillgen.com::custom-composition-notebook-classroom-rug-kids-3e5de6246c",
+      "Handle": "custom-composition-notebook-classroom-rug-kids-3e5de6246c",
+      "url": "https://chillgen.com/products/custom-composition-notebook-classroom-rug-kids-3e5de6246c",
+      "revision": "1",
+      "title_proposed": "Composition Notebook Emotion Faces Rug for Classroom",
+      "primary_keyword": "composition notebook emotion rug",
+      "evidence_id": "B042-412"
+    },
+    {
+      "product_key": "custom-mathematics-education-rug-6494449be8-6494449be8",
+      "canonical_product_key": "chillgen.com::custom-mathematics-education-rug-6494449be8-6494449be8",
+      "Handle": "custom-mathematics-education-rug-6494449be8-6494449be8",
+      "url": "https://chillgen.com/products/custom-mathematics-education-rug-6494449be8-6494449be8",
+      "revision": "1",
+      "title_proposed": "Custom Welcome to Math Class Rug with Teacher Name",
+      "primary_keyword": "custom welcome to math class rug",
+      "evidence_id": "B042-413"
+    },
+    {
+      "product_key": "custom-mathematics-educational-welcome-mat-627c4013d4",
+      "canonical_product_key": "chillgen.com::custom-mathematics-educational-welcome-mat-627c4013d4",
+      "Handle": "custom-mathematics-educational-welcome-mat-627c4013d4",
+      "url": "https://chillgen.com/products/custom-mathematics-educational-welcome-mat-627c4013d4",
+      "revision": "1",
+      "title_proposed": "Custom Math Is All About Classroom Rug with Name",
+      "primary_keyword": "custom math classroom rug",
+      "evidence_id": "B042-414"
+    },
+    {
+      "product_key": "custom-mathematics-education-classroom-rug-0639e24f25",
+      "canonical_product_key": "chillgen.com::custom-mathematics-education-classroom-rug-0639e24f25",
+      "Handle": "custom-mathematics-education-classroom-rug-0639e24f25",
+      "url": "https://chillgen.com/products/custom-mathematics-education-classroom-rug-0639e24f25",
+      "revision": "1",
+      "title_proposed": "Personalized Multiplication Chart Classroom Rug",
+      "primary_keyword": "personalized multiplication chart rug",
+      "evidence_id": "B042-415"
+    },
+    {
+      "product_key": "custom-a-good-day-to-read-book-rug-d1d331ba7d-d1d331ba7d",
+      "canonical_product_key": "chillgen.com::custom-a-good-day-to-read-book-rug-d1d331ba7d-d1d331ba7d",
+      "Handle": "custom-a-good-day-to-read-book-rug-d1d331ba7d-d1d331ba7d",
+      "url": "https://chillgen.com/products/custom-a-good-day-to-read-book-rug-d1d331ba7d-d1d331ba7d",
+      "revision": "1",
+      "title_proposed": "Reading Bloom Classroom Rug for Library Book Corner",
+      "primary_keyword": "lets read floral book rug",
+      "evidence_id": "B042-416"
+    },
+    {
+      "product_key": "custom-vintage-book-classroom-reading-rug-3c50e8b414",
+      "canonical_product_key": "chillgen.com::custom-vintage-book-classroom-reading-rug-3c50e8b414",
+      "Handle": "custom-vintage-book-classroom-reading-rug-3c50e8b414",
+      "url": "https://chillgen.com/products/custom-vintage-book-classroom-reading-rug-3c50e8b414",
+      "revision": "1",
+      "title_proposed": "Custom Vintage Book Classroom Rug for Reading Nook",
+      "primary_keyword": "custom vintage book classroom rug",
+      "evidence_id": "B042-417"
+    },
+    {
+      "product_key": "custom-tree-of-knowledge-classroom-library-rug-077de4a60b",
+      "canonical_product_key": "chillgen.com::custom-tree-of-knowledge-classroom-library-rug-077de4a60b",
+      "Handle": "custom-tree-of-knowledge-classroom-library-rug-077de4a60b",
+      "url": "https://chillgen.com/products/custom-tree-of-knowledge-classroom-library-rug-077de4a60b",
+      "revision": "1",
+      "title_proposed": "Personalized Tree of Knowledge Rug for Classroom Library",
+      "primary_keyword": "personalized Tree of Knowledge rug",
+      "evidence_id": "B042-418"
+    },
+    {
+      "product_key": "custom-reading-tree-classroom-rug-b66c4b4a97",
+      "canonical_product_key": "chillgen.com::custom-reading-tree-classroom-rug-b66c4b4a97",
+      "Handle": "custom-reading-tree-classroom-rug-b66c4b4a97",
+      "url": "https://chillgen.com/products/custom-reading-tree-classroom-rug-b66c4b4a97",
+      "revision": "1",
+      "title_proposed": "Custom Reading Tree Classroom Rug for Book Corner",
+      "primary_keyword": "custom reading tree classroom rug",
+      "evidence_id": "B042-419"
+    },
+    {
+      "product_key": "custom-reading-adventure-classroom-library-rug-7956abd8c9",
+      "canonical_product_key": "chillgen.com::custom-reading-adventure-classroom-library-rug-7956abd8c9",
+      "Handle": "custom-reading-adventure-classroom-library-rug-7956abd8c9",
+      "url": "https://chillgen.com/products/custom-reading-adventure-classroom-library-rug-7956abd8c9",
+      "revision": "1",
+      "title_proposed": "Personalized Reading Adventure Rug for Classroom Library",
+      "primary_keyword": "personalized reading adventure rug",
+      "evidence_id": "B042-420"
+    }
+  ]
+}

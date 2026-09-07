@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B041",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "celtic-tree-of-life-doormat-f3b9ef9591-f3b9ef9591",
+    "celtic-tree-of-life-indoor-area-rug-aa71e362a6-aa71e362a6",
+    "custom-tree-of-life-welcome-mat-e20613a50e-e20613a50e",
+    "tree-of-life-celtic-rug-40c2af5cd2",
+    "tree-of-life-celtic-indoor-floor-mat-57eef60356",
+    "tree-of-life-rug-yggdrasil-celtic-tree-of-lifes-large-area-rug-modern-indoor-floor-mat-soft-carpet-with-non-slip-backing-home-decor-for-living-room-bedroom-gifts-for-tree-of-life-d-346d281f76",
+    "tree-of-life-yggdrasil-celtic-area-rug-e8cc0189f2-e8cc0189f2",
+    "custom-composition-notebook-classroom-kids-rug-a5df2f88fd-a5df2f88fd",
+    "custom-composition-notebook-classroom-rug-for-kids-975402570a-975402570a",
+    "custom-composition-notebook-classroom-rug-for-kids-6480284917-6480284917"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::celtic-tree-of-life-doormat-f3b9ef9591-f3b9ef9591",
+    "chillgen.com::celtic-tree-of-life-indoor-area-rug-aa71e362a6-aa71e362a6",
+    "chillgen.com::custom-tree-of-life-welcome-mat-e20613a50e-e20613a50e",
+    "chillgen.com::tree-of-life-celtic-rug-40c2af5cd2",
+    "chillgen.com::tree-of-life-celtic-indoor-floor-mat-57eef60356",
+    "chillgen.com::tree-of-life-rug-yggdrasil-celtic-tree-of-lifes-large-area-rug-modern-indoor-floor-mat-soft-carpet-with-non-slip-backing-home-decor-for-living-room-bedroom-gifts-for-tree-of-life-d-346d281f76",
+    "chillgen.com::tree-of-life-yggdrasil-celtic-area-rug-e8cc0189f2-e8cc0189f2",
+    "chillgen.com::custom-composition-notebook-classroom-kids-rug-a5df2f88fd-a5df2f88fd",
+    "chillgen.com::custom-composition-notebook-classroom-rug-for-kids-975402570a-975402570a",
+    "chillgen.com::custom-composition-notebook-classroom-rug-for-kids-6480284917-6480284917"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B041\\progress_B041_for_QA.json",
+  "created_at": "2026-09-07T18:35:03+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "celtic-tree-of-life-doormat-f3b9ef9591-f3b9ef9591",
+      "canonical_product_key": "chillgen.com::celtic-tree-of-life-doormat-f3b9ef9591-f3b9ef9591",
+      "Handle": "celtic-tree-of-life-doormat-f3b9ef9591-f3b9ef9591",
+      "url": "https://chillgen.com/products/celtic-tree-of-life-doormat-f3b9ef9591-f3b9ef9591",
+      "revision": "1",
+      "title_proposed": "Custom Celtic Yggdrasil Rug with Blue Tree of Life Art",
+      "primary_keyword": "custom Celtic Yggdrasil rug",
+      "evidence_id": "B041-401"
+    },
+    {
+      "product_key": "celtic-tree-of-life-indoor-area-rug-aa71e362a6-aa71e362a6",
+      "canonical_product_key": "chillgen.com::celtic-tree-of-life-indoor-area-rug-aa71e362a6-aa71e362a6",
+      "Handle": "celtic-tree-of-life-indoor-area-rug-aa71e362a6-aa71e362a6",
+      "url": "https://chillgen.com/products/celtic-tree-of-life-indoor-area-rug-aa71e362a6-aa71e362a6",
+      "revision": "1",
+      "title_proposed": "Personalized Celtic Tree of Life Rug in Cream and Green",
+      "primary_keyword": "personalized Celtic Tree of Life rug",
+      "evidence_id": "B041-402"
+    },
+    {
+      "product_key": "custom-tree-of-life-welcome-mat-e20613a50e-e20613a50e",
+      "canonical_product_key": "chillgen.com::custom-tree-of-life-welcome-mat-e20613a50e-e20613a50e",
+      "Handle": "custom-tree-of-life-welcome-mat-e20613a50e-e20613a50e",
+      "url": "https://chillgen.com/products/custom-tree-of-life-welcome-mat-e20613a50e-e20613a50e",
+      "revision": "1",
+      "title_proposed": "Custom Tree of Life Welcome Mat with Celtic Green Gold Art",
+      "primary_keyword": "custom Tree of Life welcome mat",
+      "evidence_id": "B041-403"
+    },
+    {
+      "product_key": "tree-of-life-celtic-rug-40c2af5cd2",
+      "canonical_product_key": "chillgen.com::tree-of-life-celtic-rug-40c2af5cd2",
+      "Handle": "tree-of-life-celtic-rug-40c2af5cd2",
+      "url": "https://chillgen.com/products/tree-of-life-celtic-rug-40c2af5cd2",
+      "revision": "1",
+      "title_proposed": "Personalized Tree of Life Celtic Rug with Floral Border",
+      "primary_keyword": "personalized Tree of Life Celtic rug",
+      "evidence_id": "B041-404"
+    },
+    {
+      "product_key": "tree-of-life-celtic-indoor-floor-mat-57eef60356",
+      "canonical_product_key": "chillgen.com::tree-of-life-celtic-indoor-floor-mat-57eef60356",
+      "Handle": "tree-of-life-celtic-indoor-floor-mat-57eef60356",
+      "url": "https://chillgen.com/products/tree-of-life-celtic-indoor-floor-mat-57eef60356",
+      "revision": "1",
+      "title_proposed": "Custom Purple Tree of Life Floor Mat with Moon and Stars",
+      "primary_keyword": "custom purple Tree of Life floor mat",
+      "evidence_id": "B041-405"
+    },
+    {
+      "product_key": "tree-of-life-rug-yggdrasil-celtic-tree-of-lifes-large-area-rug-modern-indoor-floor-mat-soft-carpet-with-non-slip-backing-home-decor-for-living-room-bedroom-gifts-for-tree-of-life-d-346d281f76",
+      "canonical_product_key": "chillgen.com::tree-of-life-rug-yggdrasil-celtic-tree-of-lifes-large-area-rug-modern-indoor-floor-mat-soft-carpet-with-non-slip-backing-home-decor-for-living-room-bedroom-gifts-for-tree-of-life-d-346d281f76",
+      "Handle": "tree-of-life-rug-yggdrasil-celtic-tree-of-lifes-large-area-rug-modern-indoor-floor-mat-soft-carpet-with-non-slip-backing-home-decor-for-living-room-bedroom-gifts-for-tree-of-life-d-346d281f76",
+      "url": "https://chillgen.com/products/tree-of-life-rug-yggdrasil-celtic-tree-of-lifes-large-area-rug-modern-indoor-floor-mat-soft-carpet-with-non-slip-backing-home-decor-for-living-room-bedroom-gifts-for-tree-of-life-d-346d281f76",
+      "revision": "1",
+      "title_proposed": "Personalized Yggdrasil Tree of Life Rug in Teal Gold",
+      "primary_keyword": "personalized Yggdrasil Tree of Life rug",
+      "evidence_id": "B041-406"
+    },
+    {
+      "product_key": "tree-of-life-yggdrasil-celtic-area-rug-e8cc0189f2-e8cc0189f2",
+      "canonical_product_key": "chillgen.com::tree-of-life-yggdrasil-celtic-area-rug-e8cc0189f2-e8cc0189f2",
+      "Handle": "tree-of-life-yggdrasil-celtic-area-rug-e8cc0189f2-e8cc0189f2",
+      "url": "https://chillgen.com/products/tree-of-life-yggdrasil-celtic-area-rug-e8cc0189f2-e8cc0189f2",
+      "revision": "1",
+      "title_proposed": "Custom Family Name Tree of Life Rug with Celtic Border",
+      "primary_keyword": "custom family name Tree of Life rug",
+      "evidence_id": "B041-407"
+    },
+    {
+      "product_key": "custom-composition-notebook-classroom-kids-rug-a5df2f88fd-a5df2f88fd",
+      "canonical_product_key": "chillgen.com::custom-composition-notebook-classroom-kids-rug-a5df2f88fd-a5df2f88fd",
+      "Handle": "custom-composition-notebook-classroom-kids-rug-a5df2f88fd-a5df2f88fd",
+      "url": "https://chillgen.com/products/custom-composition-notebook-classroom-kids-rug-a5df2f88fd-a5df2f88fd",
+      "revision": "1",
+      "title_proposed": "Personalized Composition Notebook Classroom Rug with Frog",
+      "primary_keyword": "personalized composition notebook classroom rug",
+      "evidence_id": "B041-408"
+    },
+    {
+      "product_key": "custom-composition-notebook-classroom-rug-for-kids-975402570a-975402570a",
+      "canonical_product_key": "chillgen.com::custom-composition-notebook-classroom-rug-for-kids-975402570a-975402570a",
+      "Handle": "custom-composition-notebook-classroom-rug-for-kids-975402570a-975402570a",
+      "url": "https://chillgen.com/products/custom-composition-notebook-classroom-rug-for-kids-975402570a-975402570a",
+      "revision": "1",
+      "title_proposed": "Personalized Teacher Classroom Rug with Pastel Notebook Dots",
+      "primary_keyword": "personalized teacher classroom rug",
+      "evidence_id": "B041-409"
+    },
+    {
+      "product_key": "custom-composition-notebook-classroom-rug-for-kids-6480284917-6480284917",
+      "canonical_product_key": "chillgen.com::custom-composition-notebook-classroom-rug-for-kids-6480284917-6480284917",
+      "Handle": "custom-composition-notebook-classroom-rug-for-kids-6480284917-6480284917",
+      "url": "https://chillgen.com/products/custom-composition-notebook-classroom-rug-for-kids-6480284917-6480284917",
+      "revision": "1",
+      "title_proposed": "Welcome to Classroom Rug with Personalized Teacher Name",
+      "primary_keyword": "composition notebook classroom rug",
+      "evidence_id": "B041-410"
+    }
+  ]
+}

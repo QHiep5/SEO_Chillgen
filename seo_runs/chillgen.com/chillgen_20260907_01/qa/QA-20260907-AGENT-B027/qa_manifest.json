@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B027",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "personalized-orthodox-doormat-with-christian-cross-and-eagle-6be5c719a3-6be5c719a3",
+    "personalized-orthodox-christian-area-rug-00beb8fce2",
+    "custom-orthodox-rug-three-bar-cross-byzantine-eagle-d81169235b-d81169235b",
+    "personalized-orthodox-christian-area-rug-fb5a56fef9-fb5a56fef9",
+    "personalized-teachers-classroom-rules-rug-b0d7bd292a-b0d7bd292a",
+    "personalized-classroom-rules-welcome-mat-07b188eb0d",
+    "personalized-teachers-classroom-rug-with-custom-name-87d858996b",
+    "personalized-classroom-rules-rug-custom-teacher-name-2b9854c06f",
+    "personalized-classroom-rules-rug-with-custom-teacher-name-ad0787fb44",
+    "custom-octopus-shaped-area-rug-9041fd8f83"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::personalized-orthodox-doormat-with-christian-cross-and-eagle-6be5c719a3-6be5c719a3",
+    "chillgen.com::personalized-orthodox-christian-area-rug-00beb8fce2",
+    "chillgen.com::custom-orthodox-rug-three-bar-cross-byzantine-eagle-d81169235b-d81169235b",
+    "chillgen.com::personalized-orthodox-christian-area-rug-fb5a56fef9-fb5a56fef9",
+    "chillgen.com::personalized-teachers-classroom-rules-rug-b0d7bd292a-b0d7bd292a",
+    "chillgen.com::personalized-classroom-rules-welcome-mat-07b188eb0d",
+    "chillgen.com::personalized-teachers-classroom-rug-with-custom-name-87d858996b",
+    "chillgen.com::personalized-classroom-rules-rug-custom-teacher-name-2b9854c06f",
+    "chillgen.com::personalized-classroom-rules-rug-with-custom-teacher-name-ad0787fb44",
+    "chillgen.com::custom-octopus-shaped-area-rug-9041fd8f83"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B027\\progress_B027_for_QA.json",
+  "created_at": "2026-09-07T17:11:48+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "personalized-orthodox-doormat-with-christian-cross-and-eagle-6be5c719a3-6be5c719a3",
+      "canonical_product_key": "chillgen.com::personalized-orthodox-doormat-with-christian-cross-and-eagle-6be5c719a3-6be5c719a3",
+      "Handle": "personalized-orthodox-doormat-with-christian-cross-and-eagle-6be5c719a3-6be5c719a3",
+      "url": "https://chillgen.com/products/personalized-orthodox-doormat-with-christian-cross-and-eagle-6be5c719a3-6be5c719a3",
+      "revision": "1",
+      "title_proposed": "Red Orthodox Eagle Cross Rug",
+      "primary_keyword": "red Orthodox eagle cross rug",
+      "evidence_id": "B027-261"
+    },
+    {
+      "product_key": "personalized-orthodox-christian-area-rug-00beb8fce2",
+      "canonical_product_key": "chillgen.com::personalized-orthodox-christian-area-rug-00beb8fce2",
+      "Handle": "personalized-orthodox-christian-area-rug-00beb8fce2",
+      "url": "https://chillgen.com/products/personalized-orthodox-christian-area-rug-00beb8fce2",
+      "revision": "1",
+      "title_proposed": "Floral Orthodox Cross Rug",
+      "primary_keyword": "floral Orthodox cross rug",
+      "evidence_id": "B027-262"
+    },
+    {
+      "product_key": "custom-orthodox-rug-three-bar-cross-byzantine-eagle-d81169235b-d81169235b",
+      "canonical_product_key": "chillgen.com::custom-orthodox-rug-three-bar-cross-byzantine-eagle-d81169235b-d81169235b",
+      "Handle": "custom-orthodox-rug-three-bar-cross-byzantine-eagle-d81169235b-d81169235b",
+      "url": "https://chillgen.com/products/custom-orthodox-rug-three-bar-cross-byzantine-eagle-d81169235b-d81169235b",
+      "revision": "1",
+      "title_proposed": "Red Byzantine Eagle Rug",
+      "primary_keyword": "red Byzantine eagle rug",
+      "evidence_id": "B027-263"
+    },
+    {
+      "product_key": "personalized-orthodox-christian-area-rug-fb5a56fef9-fb5a56fef9",
+      "canonical_product_key": "chillgen.com::personalized-orthodox-christian-area-rug-fb5a56fef9-fb5a56fef9",
+      "Handle": "personalized-orthodox-christian-area-rug-fb5a56fef9-fb5a56fef9",
+      "url": "https://chillgen.com/products/personalized-orthodox-christian-area-rug-fb5a56fef9-fb5a56fef9",
+      "revision": "1",
+      "title_proposed": "Black Silver Orthodox Cross Rug",
+      "primary_keyword": "black silver Orthodox cross rug",
+      "evidence_id": "B027-264"
+    },
+    {
+      "product_key": "personalized-teachers-classroom-rules-rug-b0d7bd292a-b0d7bd292a",
+      "canonical_product_key": "chillgen.com::personalized-teachers-classroom-rules-rug-b0d7bd292a-b0d7bd292a",
+      "Handle": "personalized-teachers-classroom-rules-rug-b0d7bd292a-b0d7bd292a",
+      "url": "https://chillgen.com/products/personalized-teachers-classroom-rules-rug-b0d7bd292a-b0d7bd292a",
+      "revision": "1",
+      "title_proposed": "Behavior Champs Classroom Rug",
+      "primary_keyword": "Behavior Champs classroom rug",
+      "evidence_id": "B027-265"
+    },
+    {
+      "product_key": "personalized-classroom-rules-welcome-mat-07b188eb0d",
+      "canonical_product_key": "chillgen.com::personalized-classroom-rules-welcome-mat-07b188eb0d",
+      "Handle": "personalized-classroom-rules-welcome-mat-07b188eb0d",
+      "url": "https://chillgen.com/products/personalized-classroom-rules-welcome-mat-07b188eb0d",
+      "revision": "1",
+      "title_proposed": "Zone Of Tolerance Classroom Rug",
+      "primary_keyword": "Zone of Tolerance classroom rug",
+      "evidence_id": "B027-266"
+    },
+    {
+      "product_key": "personalized-teachers-classroom-rug-with-custom-name-87d858996b",
+      "canonical_product_key": "chillgen.com::personalized-teachers-classroom-rug-with-custom-name-87d858996b",
+      "Handle": "personalized-teachers-classroom-rug-with-custom-name-87d858996b",
+      "url": "https://chillgen.com/products/personalized-teachers-classroom-rug-with-custom-name-87d858996b",
+      "revision": "1",
+      "title_proposed": "Calm Down Classroom Rug",
+      "primary_keyword": "calm down classroom rug",
+      "evidence_id": "B027-267"
+    },
+    {
+      "product_key": "personalized-classroom-rules-rug-custom-teacher-name-2b9854c06f",
+      "canonical_product_key": "chillgen.com::personalized-classroom-rules-rug-custom-teacher-name-2b9854c06f",
+      "Handle": "personalized-classroom-rules-rug-custom-teacher-name-2b9854c06f",
+      "url": "https://chillgen.com/products/personalized-classroom-rules-rug-custom-teacher-name-2b9854c06f",
+      "revision": "1",
+      "title_proposed": "Calming Techniques Classroom Rug",
+      "primary_keyword": "calming techniques classroom rug",
+      "evidence_id": "B027-268"
+    },
+    {
+      "product_key": "personalized-classroom-rules-rug-with-custom-teacher-name-ad0787fb44",
+      "canonical_product_key": "chillgen.com::personalized-classroom-rules-rug-with-custom-teacher-name-ad0787fb44",
+      "Handle": "personalized-classroom-rules-rug-with-custom-teacher-name-ad0787fb44",
+      "url": "https://chillgen.com/products/personalized-classroom-rules-rug-with-custom-teacher-name-ad0787fb44",
+      "revision": "1",
+      "title_proposed": "Little Dinos Classroom Rug",
+      "primary_keyword": "Little Dinos classroom rug",
+      "evidence_id": "B027-269"
+    },
+    {
+      "product_key": "custom-octopus-shaped-area-rug-9041fd8f83",
+      "canonical_product_key": "chillgen.com::custom-octopus-shaped-area-rug-9041fd8f83",
+      "Handle": "custom-octopus-shaped-area-rug-9041fd8f83",
+      "url": "https://chillgen.com/products/custom-octopus-shaped-area-rug-9041fd8f83",
+      "revision": "1",
+      "title_proposed": "Octopus Shaped Area Rug",
+      "primary_keyword": "octopus shaped area rug",
+      "evidence_id": "B027-270"
+    }
+  ]
+}

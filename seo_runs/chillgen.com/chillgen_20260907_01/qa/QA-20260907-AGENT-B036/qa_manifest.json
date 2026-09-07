@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B036",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "custom-road-map-area-rug-81bfb9cda4-81bfb9cda4",
+    "custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4",
+    "galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7",
+    "custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217",
+    "galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17",
+    "custom-galaxy-wolf-welcome-mat-0e4d706227",
+    "custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9",
+    "galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e",
+    "custom-galaxy-wolves-rug-boy-room-e0ded989b1",
+    "wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::custom-road-map-area-rug-81bfb9cda4-81bfb9cda4",
+    "chillgen.com::custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4",
+    "chillgen.com::galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7",
+    "chillgen.com::custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217",
+    "chillgen.com::galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17",
+    "chillgen.com::custom-galaxy-wolf-welcome-mat-0e4d706227",
+    "chillgen.com::custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9",
+    "chillgen.com::galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e",
+    "chillgen.com::custom-galaxy-wolves-rug-boy-room-e0ded989b1",
+    "chillgen.com::wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B036\\progress_B036_for_QA.json",
+  "created_at": "2026-09-07T17:51:17+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "custom-road-map-area-rug-81bfb9cda4-81bfb9cda4",
+      "canonical_product_key": "chillgen.com::custom-road-map-area-rug-81bfb9cda4-81bfb9cda4",
+      "Handle": "custom-road-map-area-rug-81bfb9cda4-81bfb9cda4",
+      "url": "https://chillgen.com/products/custom-road-map-area-rug-81bfb9cda4-81bfb9cda4",
+      "revision": "1",
+      "title_proposed": "Custom Kids Road Map Rug",
+      "primary_keyword": "custom kids road map rug",
+      "evidence_id": "B036-351"
+    },
+    {
+      "product_key": "custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4",
+      "canonical_product_key": "chillgen.com::custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4",
+      "Handle": "custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4",
+      "url": "https://chillgen.com/products/custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4",
+      "revision": "1",
+      "title_proposed": "Foggy Forest Wolf Rug",
+      "primary_keyword": "foggy forest wolf rug",
+      "evidence_id": "B036-352"
+    },
+    {
+      "product_key": "galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7",
+      "canonical_product_key": "chillgen.com::galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7",
+      "Handle": "galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7",
+      "url": "https://chillgen.com/products/galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7",
+      "revision": "1",
+      "title_proposed": "Blue Moon Wolf Lake Rug",
+      "primary_keyword": "blue moon wolf lake rug",
+      "evidence_id": "B036-353"
+    },
+    {
+      "product_key": "custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217",
+      "canonical_product_key": "chillgen.com::custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217",
+      "Handle": "custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217",
+      "url": "https://chillgen.com/products/custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217",
+      "revision": "1",
+      "title_proposed": "Tribal Medallion Wolf Rug",
+      "primary_keyword": "tribal medallion wolf rug",
+      "evidence_id": "B036-354"
+    },
+    {
+      "product_key": "galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17",
+      "canonical_product_key": "chillgen.com::galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17",
+      "Handle": "galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17",
+      "url": "https://chillgen.com/products/galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17",
+      "revision": "1",
+      "title_proposed": "Floral Line Art Wolf Rug",
+      "primary_keyword": "floral line art wolf rug",
+      "evidence_id": "B036-355"
+    },
+    {
+      "product_key": "custom-galaxy-wolf-welcome-mat-0e4d706227",
+      "canonical_product_key": "chillgen.com::custom-galaxy-wolf-welcome-mat-0e4d706227",
+      "Handle": "custom-galaxy-wolf-welcome-mat-0e4d706227",
+      "url": "https://chillgen.com/products/custom-galaxy-wolf-welcome-mat-0e4d706227",
+      "revision": "1",
+      "title_proposed": "Sepia Wolf Pack Rug",
+      "primary_keyword": "sepia wolf pack rug",
+      "evidence_id": "B036-356"
+    },
+    {
+      "product_key": "custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9",
+      "canonical_product_key": "chillgen.com::custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9",
+      "Handle": "custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9",
+      "url": "https://chillgen.com/products/custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9",
+      "revision": "1",
+      "title_proposed": "Snow Close Up Wolf Rug",
+      "primary_keyword": "snow close up wolf rug",
+      "evidence_id": "B036-357"
+    },
+    {
+      "product_key": "galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e",
+      "canonical_product_key": "chillgen.com::galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e",
+      "Handle": "galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e",
+      "url": "https://chillgen.com/products/galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e",
+      "revision": "1",
+      "title_proposed": "Dreamcatcher Wolf Rug",
+      "primary_keyword": "dreamcatcher wolf rug",
+      "evidence_id": "B036-358"
+    },
+    {
+      "product_key": "custom-galaxy-wolves-rug-boy-room-e0ded989b1",
+      "canonical_product_key": "chillgen.com::custom-galaxy-wolves-rug-boy-room-e0ded989b1",
+      "Handle": "custom-galaxy-wolves-rug-boy-room-e0ded989b1",
+      "url": "https://chillgen.com/products/custom-galaxy-wolves-rug-boy-room-e0ded989b1",
+      "revision": "1",
+      "title_proposed": "Blue Moon Mountain Wolf Rug",
+      "primary_keyword": "blue moon mountain wolf rug",
+      "evidence_id": "B036-359"
+    },
+    {
+      "product_key": "wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e",
+      "canonical_product_key": "chillgen.com::wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e",
+      "Handle": "wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e",
+      "url": "https://chillgen.com/products/wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e",
+      "revision": "1",
+      "title_proposed": "Two Tone Galaxy Wolf Rug",
+      "primary_keyword": "two tone galaxy wolf rug",
+      "evidence_id": "B036-360"
+    }
+  ]
+}

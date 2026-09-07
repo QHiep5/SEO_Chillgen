@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B024",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "personalized-christmas-doormat-d7f77b93a8-d7f77b93a8",
+    "custom-kids-read-book-rug-classroom-library-eaedf8485b",
+    "custom-reading-corner-classroom-library-mat-40b8909d74-40b8909d74",
+    "custom-reading-classroom-library-rug-bdef6840ec-bdef6840ec",
+    "custom-classroom-library-reading-rug-9121bf7e9f-9121bf7e9f",
+    "custom-family-name-welcome-doormat-front-door-6831756395-6831756395",
+    "custom-bookshelf-classroom-library-reading-rug-75ece72c91",
+    "custom-reading-corner-classroom-library-rug-4a41f4c798-4a41f4c798",
+    "custom-baseball-vintage-pattern-area-rug-non-slip-a74f120767",
+    "custom-vintage-baseball-area-rug-b5f20ad4f5"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::personalized-christmas-doormat-d7f77b93a8-d7f77b93a8",
+    "chillgen.com::custom-kids-read-book-rug-classroom-library-eaedf8485b",
+    "chillgen.com::custom-reading-corner-classroom-library-mat-40b8909d74-40b8909d74",
+    "chillgen.com::custom-reading-classroom-library-rug-bdef6840ec-bdef6840ec",
+    "chillgen.com::custom-classroom-library-reading-rug-9121bf7e9f-9121bf7e9f",
+    "chillgen.com::custom-family-name-welcome-doormat-front-door-6831756395-6831756395",
+    "chillgen.com::custom-bookshelf-classroom-library-reading-rug-75ece72c91",
+    "chillgen.com::custom-reading-corner-classroom-library-rug-4a41f4c798-4a41f4c798",
+    "chillgen.com::custom-baseball-vintage-pattern-area-rug-non-slip-a74f120767",
+    "chillgen.com::custom-vintage-baseball-area-rug-b5f20ad4f5"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B024\\progress_B024_for_QA.json",
+  "created_at": "2026-09-07T17:05:26+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "personalized-christmas-doormat-d7f77b93a8-d7f77b93a8",
+      "canonical_product_key": "chillgen.com::personalized-christmas-doormat-d7f77b93a8-d7f77b93a8",
+      "Handle": "personalized-christmas-doormat-d7f77b93a8-d7f77b93a8",
+      "url": "https://chillgen.com/products/personalized-christmas-doormat-d7f77b93a8-d7f77b93a8",
+      "revision": "1",
+      "title_proposed": "Personalized Santa Delivery Christmas Doormat",
+      "primary_keyword": "personalized Santa delivery doormat",
+      "evidence_id": "B024-231"
+    },
+    {
+      "product_key": "custom-kids-read-book-rug-classroom-library-eaedf8485b",
+      "canonical_product_key": "chillgen.com::custom-kids-read-book-rug-classroom-library-eaedf8485b",
+      "Handle": "custom-kids-read-book-rug-classroom-library-eaedf8485b",
+      "url": "https://chillgen.com/products/custom-kids-read-book-rug-classroom-library-eaedf8485b",
+      "revision": "1",
+      "title_proposed": "Kids Read Books Classroom Rug",
+      "primary_keyword": "kids read books classroom rug",
+      "evidence_id": "B024-232"
+    },
+    {
+      "product_key": "custom-reading-corner-classroom-library-mat-40b8909d74-40b8909d74",
+      "canonical_product_key": "chillgen.com::custom-reading-corner-classroom-library-mat-40b8909d74-40b8909d74",
+      "Handle": "custom-reading-corner-classroom-library-mat-40b8909d74-40b8909d74",
+      "url": "https://chillgen.com/products/custom-reading-corner-classroom-library-mat-40b8909d74-40b8909d74",
+      "revision": "1",
+      "title_proposed": "Colorful Reading Corner Rug",
+      "primary_keyword": "colorful reading corner rug",
+      "evidence_id": "B024-233"
+    },
+    {
+      "product_key": "custom-reading-classroom-library-rug-bdef6840ec-bdef6840ec",
+      "canonical_product_key": "chillgen.com::custom-reading-classroom-library-rug-bdef6840ec-bdef6840ec",
+      "Handle": "custom-reading-classroom-library-rug-bdef6840ec-bdef6840ec",
+      "url": "https://chillgen.com/products/custom-reading-classroom-library-rug-bdef6840ec-bdef6840ec",
+      "revision": "1",
+      "title_proposed": "Reading Gives You Wings Rug",
+      "primary_keyword": "Reading Gives You Wings rug",
+      "evidence_id": "B024-234"
+    },
+    {
+      "product_key": "custom-classroom-library-reading-rug-9121bf7e9f-9121bf7e9f",
+      "canonical_product_key": "chillgen.com::custom-classroom-library-reading-rug-9121bf7e9f-9121bf7e9f",
+      "Handle": "custom-classroom-library-reading-rug-9121bf7e9f-9121bf7e9f",
+      "url": "https://chillgen.com/products/custom-classroom-library-reading-rug-9121bf7e9f-9121bf7e9f",
+      "revision": "1",
+      "title_proposed": "Reader Leader Classroom Rug",
+      "primary_keyword": "reader leader classroom rug",
+      "evidence_id": "B024-235"
+    },
+    {
+      "product_key": "custom-family-name-welcome-doormat-front-door-6831756395-6831756395",
+      "canonical_product_key": "chillgen.com::custom-family-name-welcome-doormat-front-door-6831756395-6831756395",
+      "Handle": "custom-family-name-welcome-doormat-front-door-6831756395-6831756395",
+      "url": "https://chillgen.com/products/custom-family-name-welcome-doormat-front-door-6831756395-6831756395",
+      "revision": "1",
+      "title_proposed": "Good Day To Read Rug",
+      "primary_keyword": "Good Day To Read rug",
+      "evidence_id": "B024-236"
+    },
+    {
+      "product_key": "custom-bookshelf-classroom-library-reading-rug-75ece72c91",
+      "canonical_product_key": "chillgen.com::custom-bookshelf-classroom-library-reading-rug-75ece72c91",
+      "Handle": "custom-bookshelf-classroom-library-reading-rug-75ece72c91",
+      "url": "https://chillgen.com/products/custom-bookshelf-classroom-library-reading-rug-75ece72c91",
+      "revision": "1",
+      "title_proposed": "Bookshelf Classroom Reading Rug",
+      "primary_keyword": "bookshelf classroom reading rug",
+      "evidence_id": "B024-237"
+    },
+    {
+      "product_key": "custom-reading-corner-classroom-library-rug-4a41f4c798-4a41f4c798",
+      "canonical_product_key": "chillgen.com::custom-reading-corner-classroom-library-rug-4a41f4c798-4a41f4c798",
+      "Handle": "custom-reading-corner-classroom-library-rug-4a41f4c798-4a41f4c798",
+      "url": "https://chillgen.com/products/custom-reading-corner-classroom-library-rug-4a41f4c798-4a41f4c798",
+      "revision": "1",
+      "title_proposed": "Butterfly Reading Corner Rug",
+      "primary_keyword": "butterfly reading corner rug",
+      "evidence_id": "B024-238"
+    },
+    {
+      "product_key": "custom-baseball-vintage-pattern-area-rug-non-slip-a74f120767",
+      "canonical_product_key": "chillgen.com::custom-baseball-vintage-pattern-area-rug-non-slip-a74f120767",
+      "Handle": "custom-baseball-vintage-pattern-area-rug-non-slip-a74f120767",
+      "url": "https://chillgen.com/products/custom-baseball-vintage-pattern-area-rug-non-slip-a74f120767",
+      "revision": "1",
+      "title_proposed": "Vintage Baseball Area Rug",
+      "primary_keyword": "vintage baseball area rug",
+      "evidence_id": "B024-239"
+    },
+    {
+      "product_key": "custom-vintage-baseball-area-rug-b5f20ad4f5",
+      "canonical_product_key": "chillgen.com::custom-vintage-baseball-area-rug-b5f20ad4f5",
+      "Handle": "custom-vintage-baseball-area-rug-b5f20ad4f5",
+      "url": "https://chillgen.com/products/custom-vintage-baseball-area-rug-b5f20ad4f5",
+      "revision": "1",
+      "title_proposed": "Space Baseball Area Rug",
+      "primary_keyword": "space baseball area rug",
+      "evidence_id": "B024-240"
+    }
+  ]
+}

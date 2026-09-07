@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B022",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "personalized-album-cover-rug-abb1eeca32",
+    "custom-road-map-door-mat-town-design-e3598e955a-e3598e955a",
+    "custom-road-map-area-rug-8262be4ef1-8262be4ef1",
+    "custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8",
+    "custom-road-map-area-rug-e4dbf01f05",
+    "custom-road-map-welcome-mat-708eca28bb",
+    "custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0",
+    "custom-road-map-area-rug-town-play-mat-a27d8ff428",
+    "custom-road-map-area-rug-d39d38a4a8",
+    "custom-road-map-area-rug-60aa327740"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::personalized-album-cover-rug-abb1eeca32",
+    "chillgen.com::custom-road-map-door-mat-town-design-e3598e955a-e3598e955a",
+    "chillgen.com::custom-road-map-area-rug-8262be4ef1-8262be4ef1",
+    "chillgen.com::custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8",
+    "chillgen.com::custom-road-map-area-rug-e4dbf01f05",
+    "chillgen.com::custom-road-map-welcome-mat-708eca28bb",
+    "chillgen.com::custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0",
+    "chillgen.com::custom-road-map-area-rug-town-play-mat-a27d8ff428",
+    "chillgen.com::custom-road-map-area-rug-d39d38a4a8",
+    "chillgen.com::custom-road-map-area-rug-60aa327740"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B022\\progress_B022_for_QA.json",
+  "created_at": "2026-09-07T17:02:48+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "personalized-album-cover-rug-abb1eeca32",
+      "canonical_product_key": "chillgen.com::personalized-album-cover-rug-abb1eeca32",
+      "Handle": "personalized-album-cover-rug-abb1eeca32",
+      "url": "https://chillgen.com/products/personalized-album-cover-rug-abb1eeca32",
+      "revision": "1",
+      "title_proposed": "Pink Album Cover Music Rug",
+      "primary_keyword": "pink album cover music rug",
+      "evidence_id": "B022-211"
+    },
+    {
+      "product_key": "custom-road-map-door-mat-town-design-e3598e955a-e3598e955a",
+      "canonical_product_key": "chillgen.com::custom-road-map-door-mat-town-design-e3598e955a-e3598e955a",
+      "Handle": "custom-road-map-door-mat-town-design-e3598e955a-e3598e955a",
+      "url": "https://chillgen.com/products/custom-road-map-door-mat-town-design-e3598e955a-e3598e955a",
+      "revision": "1",
+      "title_proposed": "Personalized City Road Map Play Rug",
+      "primary_keyword": "personalized city road map play rug",
+      "evidence_id": "B022-212"
+    },
+    {
+      "product_key": "custom-road-map-area-rug-8262be4ef1-8262be4ef1",
+      "canonical_product_key": "chillgen.com::custom-road-map-area-rug-8262be4ef1-8262be4ef1",
+      "Handle": "custom-road-map-area-rug-8262be4ef1-8262be4ef1",
+      "url": "https://chillgen.com/products/custom-road-map-area-rug-8262be4ef1-8262be4ef1",
+      "revision": "1",
+      "title_proposed": "Alphabet Road Map Play Rug",
+      "primary_keyword": "alphabet road map play rug",
+      "evidence_id": "B022-213"
+    },
+    {
+      "product_key": "custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8",
+      "canonical_product_key": "chillgen.com::custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8",
+      "Handle": "custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8",
+      "url": "https://chillgen.com/products/custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8",
+      "revision": "1",
+      "title_proposed": "Blue Town Road Map Rug",
+      "primary_keyword": "blue town road map rug",
+      "evidence_id": "B022-214"
+    },
+    {
+      "product_key": "custom-road-map-area-rug-e4dbf01f05",
+      "canonical_product_key": "chillgen.com::custom-road-map-area-rug-e4dbf01f05",
+      "Handle": "custom-road-map-area-rug-e4dbf01f05",
+      "url": "https://chillgen.com/products/custom-road-map-area-rug-e4dbf01f05",
+      "revision": "1",
+      "title_proposed": "Pastel City Road Map Rug",
+      "primary_keyword": "pastel city road map rug",
+      "evidence_id": "B022-215"
+    },
+    {
+      "product_key": "custom-road-map-welcome-mat-708eca28bb",
+      "canonical_product_key": "chillgen.com::custom-road-map-welcome-mat-708eca28bb",
+      "Handle": "custom-road-map-welcome-mat-708eca28bb",
+      "url": "https://chillgen.com/products/custom-road-map-welcome-mat-708eca28bb",
+      "revision": "1",
+      "title_proposed": "Personalized City Street Rug",
+      "primary_keyword": "personalized city street rug",
+      "evidence_id": "B022-216"
+    },
+    {
+      "product_key": "custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0",
+      "canonical_product_key": "chillgen.com::custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0",
+      "Handle": "custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0",
+      "url": "https://chillgen.com/products/custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0",
+      "revision": "1",
+      "title_proposed": "Work Zone Road Map Rug",
+      "primary_keyword": "work zone road map rug",
+      "evidence_id": "B022-217"
+    },
+    {
+      "product_key": "custom-road-map-area-rug-town-play-mat-a27d8ff428",
+      "canonical_product_key": "chillgen.com::custom-road-map-area-rug-town-play-mat-a27d8ff428",
+      "Handle": "custom-road-map-area-rug-town-play-mat-a27d8ff428",
+      "url": "https://chillgen.com/products/custom-road-map-area-rug-town-play-mat-a27d8ff428",
+      "revision": "1",
+      "title_proposed": "Gray Construction Road Map Rug",
+      "primary_keyword": "gray construction road map rug",
+      "evidence_id": "B022-218"
+    },
+    {
+      "product_key": "custom-road-map-area-rug-d39d38a4a8",
+      "canonical_product_key": "chillgen.com::custom-road-map-area-rug-d39d38a4a8",
+      "Handle": "custom-road-map-area-rug-d39d38a4a8",
+      "url": "https://chillgen.com/products/custom-road-map-area-rug-d39d38a4a8",
+      "revision": "1",
+      "title_proposed": "Soft City Road Play Rug",
+      "primary_keyword": "soft city road play rug",
+      "evidence_id": "B022-219"
+    },
+    {
+      "product_key": "custom-road-map-area-rug-60aa327740",
+      "canonical_product_key": "chillgen.com::custom-road-map-area-rug-60aa327740",
+      "Handle": "custom-road-map-area-rug-60aa327740",
+      "url": "https://chillgen.com/products/custom-road-map-area-rug-60aa327740",
+      "revision": "1",
+      "title_proposed": "ABC Town Road Map Rug",
+      "primary_keyword": "ABC town road map rug",
+      "evidence_id": "B022-220"
+    }
+  ]
+}

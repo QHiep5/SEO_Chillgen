@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B033",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4",
+    "custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520",
+    "personalized-soccer-2026-area-rug-95231047da-95231047da",
+    "custom-soccer-round-rug-trophy-championship-043ff71141",
+    "custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9",
+    "personalized-dog-welcome-mat-front-door-36fdce22f9",
+    "personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d",
+    "personalized-dog-welcome-mat-entryway-front-door-5385d11bb7",
+    "personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c",
+    "personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4",
+    "chillgen.com::custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520",
+    "chillgen.com::personalized-soccer-2026-area-rug-95231047da-95231047da",
+    "chillgen.com::custom-soccer-round-rug-trophy-championship-043ff71141",
+    "chillgen.com::custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9",
+    "chillgen.com::personalized-dog-welcome-mat-front-door-36fdce22f9",
+    "chillgen.com::personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d",
+    "chillgen.com::personalized-dog-welcome-mat-entryway-front-door-5385d11bb7",
+    "chillgen.com::personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c",
+    "chillgen.com::personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B033\\progress_B033_for_QA.json",
+  "created_at": "2026-09-07T17:38:04+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4",
+      "canonical_product_key": "chillgen.com::personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4",
+      "Handle": "personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4",
+      "url": "https://chillgen.com/products/personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4",
+      "revision": "1",
+      "title_proposed": "Game Of Champions Soccer Rug",
+      "primary_keyword": "Game Of Champions soccer rug",
+      "evidence_id": "B033-321"
+    },
+    {
+      "product_key": "custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520",
+      "canonical_product_key": "chillgen.com::custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520",
+      "Handle": "custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520",
+      "url": "https://chillgen.com/products/custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520",
+      "revision": "1",
+      "title_proposed": "USA World Game 2026 Rug",
+      "primary_keyword": "USA World Game 2026 rug",
+      "evidence_id": "B033-322"
+    },
+    {
+      "product_key": "personalized-soccer-2026-area-rug-95231047da-95231047da",
+      "canonical_product_key": "chillgen.com::personalized-soccer-2026-area-rug-95231047da-95231047da",
+      "Handle": "personalized-soccer-2026-area-rug-95231047da-95231047da",
+      "url": "https://chillgen.com/products/personalized-soccer-2026-area-rug-95231047da-95231047da",
+      "revision": "1",
+      "title_proposed": "Host Flags Swirl Soccer Rug",
+      "primary_keyword": "host flags swirl soccer rug",
+      "evidence_id": "B033-323"
+    },
+    {
+      "product_key": "custom-soccer-round-rug-trophy-championship-043ff71141",
+      "canonical_product_key": "chillgen.com::custom-soccer-round-rug-trophy-championship-043ff71141",
+      "Handle": "custom-soccer-round-rug-trophy-championship-043ff71141",
+      "url": "https://chillgen.com/products/custom-soccer-round-rug-trophy-championship-043ff71141",
+      "revision": "1",
+      "title_proposed": "World Game 2026 Round Rug",
+      "primary_keyword": "World Game 2026 round rug",
+      "evidence_id": "B033-324"
+    },
+    {
+      "product_key": "custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9",
+      "canonical_product_key": "chillgen.com::custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9",
+      "Handle": "custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9",
+      "url": "https://chillgen.com/products/custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9",
+      "revision": "1",
+      "title_proposed": "World Flags Trophy Round Rug",
+      "primary_keyword": "world flags trophy round rug",
+      "evidence_id": "B033-325"
+    },
+    {
+      "product_key": "personalized-dog-welcome-mat-front-door-36fdce22f9",
+      "canonical_product_key": "chillgen.com::personalized-dog-welcome-mat-front-door-36fdce22f9",
+      "Handle": "personalized-dog-welcome-mat-front-door-36fdce22f9",
+      "url": "https://chillgen.com/products/personalized-dog-welcome-mat-front-door-36fdce22f9",
+      "revision": "1",
+      "title_proposed": "Humans Live Here Pet Mat",
+      "primary_keyword": "Humans Live Here pet mat",
+      "evidence_id": "B033-326"
+    },
+    {
+      "product_key": "personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d",
+      "canonical_product_key": "chillgen.com::personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d",
+      "Handle": "personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d",
+      "url": "https://chillgen.com/products/personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d",
+      "revision": "1",
+      "title_proposed": "Approved By Dog Photo Mat",
+      "primary_keyword": "Approved By Dog photo mat",
+      "evidence_id": "B033-327"
+    },
+    {
+      "product_key": "personalized-dog-welcome-mat-entryway-front-door-5385d11bb7",
+      "canonical_product_key": "chillgen.com::personalized-dog-welcome-mat-entryway-front-door-5385d11bb7",
+      "Handle": "personalized-dog-welcome-mat-entryway-front-door-5385d11bb7",
+      "url": "https://chillgen.com/products/personalized-dog-welcome-mat-entryway-front-door-5385d11bb7",
+      "revision": "1",
+      "title_proposed": "Three Pet Welcome Mat",
+      "primary_keyword": "three pet welcome mat",
+      "evidence_id": "B033-328"
+    },
+    {
+      "product_key": "personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c",
+      "canonical_product_key": "chillgen.com::personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c",
+      "Handle": "personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c",
+      "url": "https://chillgen.com/products/personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c",
+      "revision": "1",
+      "title_proposed": "Loki's House Dog Mat",
+      "primary_keyword": "Loki's House dog mat",
+      "evidence_id": "B033-329"
+    },
+    {
+      "product_key": "personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662",
+      "canonical_product_key": "chillgen.com::personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662",
+      "Handle": "personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662",
+      "url": "https://chillgen.com/products/personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662",
+      "revision": "1",
+      "title_proposed": "Four Pet Welcome Home Mat",
+      "primary_keyword": "four pet welcome home mat",
+      "evidence_id": "B033-330"
+    }
+  ]
+}

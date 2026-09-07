@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B056",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "custom-classroom-notebook-rug-5152bc0672",
+    "customized-composition-notebook-classroom-rug-for-kids-94f3ffcafa",
+    "custom-octopus-welcome-mat-for-front-door-and-entryway-f282a58169",
+    "custom-octopus-coastal-welcome-mat-entryway-0942996125",
+    "custom-octopus-welcome-mat-entryway-living-room-3387fa82d0",
+    "custom-octopus-welcome-mat-for-front-door-and-entryway-13d8d7f994",
+    "custom-golf-welcome-mat-for-front-door-dfb4d14fc9",
+    "custom-golf-welcome-mat-bf5c20e2dd",
+    "custom-octopus-welcome-mat-coastal-beach-design-9b577a6e0a",
+    "custom-coastal-octopus-welcome-mat-for-entryway-and-bathroom-e11dfb0c2f"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::custom-classroom-notebook-rug-5152bc0672",
+    "chillgen.com::customized-composition-notebook-classroom-rug-for-kids-94f3ffcafa",
+    "chillgen.com::custom-octopus-welcome-mat-for-front-door-and-entryway-f282a58169",
+    "chillgen.com::custom-octopus-coastal-welcome-mat-entryway-0942996125",
+    "chillgen.com::custom-octopus-welcome-mat-entryway-living-room-3387fa82d0",
+    "chillgen.com::custom-octopus-welcome-mat-for-front-door-and-entryway-13d8d7f994",
+    "chillgen.com::custom-golf-welcome-mat-for-front-door-dfb4d14fc9",
+    "chillgen.com::custom-golf-welcome-mat-bf5c20e2dd",
+    "chillgen.com::custom-octopus-welcome-mat-coastal-beach-design-9b577a6e0a",
+    "chillgen.com::custom-coastal-octopus-welcome-mat-for-entryway-and-bathroom-e11dfb0c2f"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B056\\progress_B056_for_QA.json",
+  "created_at": "2026-09-07T19:37:57+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "custom-classroom-notebook-rug-5152bc0672",
+      "canonical_product_key": "chillgen.com::custom-classroom-notebook-rug-5152bc0672",
+      "Handle": "custom-classroom-notebook-rug-5152bc0672",
+      "url": "https://chillgen.com/products/custom-classroom-notebook-rug-5152bc0672",
+      "revision": "1",
+      "title_proposed": "Adventure Learning Classroom Rug with Name",
+      "primary_keyword": "adventure classroom rug",
+      "evidence_id": "B056-551"
+    },
+    {
+      "product_key": "customized-composition-notebook-classroom-rug-for-kids-94f3ffcafa",
+      "canonical_product_key": "chillgen.com::customized-composition-notebook-classroom-rug-for-kids-94f3ffcafa",
+      "Handle": "customized-composition-notebook-classroom-rug-for-kids-94f3ffcafa",
+      "url": "https://chillgen.com/products/customized-composition-notebook-classroom-rug-for-kids-94f3ffcafa",
+      "revision": "1",
+      "title_proposed": "Composition Book Classroom Welcome Rug",
+      "primary_keyword": "composition book classroom rug",
+      "evidence_id": "B056-552"
+    },
+    {
+      "product_key": "custom-octopus-welcome-mat-for-front-door-and-entryway-f282a58169",
+      "canonical_product_key": "chillgen.com::custom-octopus-welcome-mat-for-front-door-and-entryway-f282a58169",
+      "Handle": "custom-octopus-welcome-mat-for-front-door-and-entryway-f282a58169",
+      "url": "https://chillgen.com/products/custom-octopus-welcome-mat-for-front-door-and-entryway-f282a58169",
+      "revision": "1",
+      "title_proposed": "Blue Octopus Coastal Area Rug",
+      "primary_keyword": "blue octopus coastal rug",
+      "evidence_id": "B056-553"
+    },
+    {
+      "product_key": "custom-octopus-coastal-welcome-mat-entryway-0942996125",
+      "canonical_product_key": "chillgen.com::custom-octopus-coastal-welcome-mat-entryway-0942996125",
+      "Handle": "custom-octopus-coastal-welcome-mat-entryway-0942996125",
+      "url": "https://chillgen.com/products/custom-octopus-coastal-welcome-mat-entryway-0942996125",
+      "revision": "1",
+      "title_proposed": "Vintage Octopus Coastal Area Rug",
+      "primary_keyword": "vintage octopus area rug",
+      "evidence_id": "B056-554"
+    },
+    {
+      "product_key": "custom-octopus-welcome-mat-entryway-living-room-3387fa82d0",
+      "canonical_product_key": "chillgen.com::custom-octopus-welcome-mat-entryway-living-room-3387fa82d0",
+      "Handle": "custom-octopus-welcome-mat-entryway-living-room-3387fa82d0",
+      "url": "https://chillgen.com/products/custom-octopus-welcome-mat-entryway-living-room-3387fa82d0",
+      "revision": "1",
+      "title_proposed": "Black Octopus Tentacle Area Rug",
+      "primary_keyword": "black octopus area rug",
+      "evidence_id": "B056-555"
+    },
+    {
+      "product_key": "custom-octopus-welcome-mat-for-front-door-and-entryway-13d8d7f994",
+      "canonical_product_key": "chillgen.com::custom-octopus-welcome-mat-for-front-door-and-entryway-13d8d7f994",
+      "Handle": "custom-octopus-welcome-mat-for-front-door-and-entryway-13d8d7f994",
+      "url": "https://chillgen.com/products/custom-octopus-welcome-mat-for-front-door-and-entryway-13d8d7f994",
+      "revision": "1",
+      "title_proposed": "Underwater Octopus Area Rug",
+      "primary_keyword": "underwater octopus rug",
+      "evidence_id": "B056-556"
+    },
+    {
+      "product_key": "custom-golf-welcome-mat-for-front-door-dfb4d14fc9",
+      "canonical_product_key": "chillgen.com::custom-golf-welcome-mat-for-front-door-dfb4d14fc9",
+      "Handle": "custom-golf-welcome-mat-for-front-door-dfb4d14fc9",
+      "url": "https://chillgen.com/products/custom-golf-welcome-mat-for-front-door-dfb4d14fc9",
+      "revision": "1",
+      "title_proposed": "American Flag Golf Area Rug",
+      "primary_keyword": "American flag golf rug",
+      "evidence_id": "B056-557"
+    },
+    {
+      "product_key": "custom-golf-welcome-mat-bf5c20e2dd",
+      "canonical_product_key": "chillgen.com::custom-golf-welcome-mat-bf5c20e2dd",
+      "Handle": "custom-golf-welcome-mat-bf5c20e2dd",
+      "url": "https://chillgen.com/products/custom-golf-welcome-mat-bf5c20e2dd",
+      "revision": "1",
+      "title_proposed": "Vintage Golf Pattern Area Rug",
+      "primary_keyword": "vintage golf area rug",
+      "evidence_id": "B056-558"
+    },
+    {
+      "product_key": "custom-octopus-welcome-mat-coastal-beach-design-9b577a6e0a",
+      "canonical_product_key": "chillgen.com::custom-octopus-welcome-mat-coastal-beach-design-9b577a6e0a",
+      "Handle": "custom-octopus-welcome-mat-coastal-beach-design-9b577a6e0a",
+      "url": "https://chillgen.com/products/custom-octopus-welcome-mat-coastal-beach-design-9b577a6e0a",
+      "revision": "1",
+      "title_proposed": "Orange Octopus Coastal Area Rug",
+      "primary_keyword": "orange octopus coastal rug",
+      "evidence_id": "B056-559"
+    },
+    {
+      "product_key": "custom-coastal-octopus-welcome-mat-for-entryway-and-bathroom-e11dfb0c2f",
+      "canonical_product_key": "chillgen.com::custom-coastal-octopus-welcome-mat-for-entryway-and-bathroom-e11dfb0c2f",
+      "Handle": "custom-coastal-octopus-welcome-mat-for-entryway-and-bathroom-e11dfb0c2f",
+      "url": "https://chillgen.com/products/custom-coastal-octopus-welcome-mat-for-entryway-and-bathroom-e11dfb0c2f",
+      "revision": "1",
+      "title_proposed": "Gold Octopus Floral Coastal Rug",
+      "primary_keyword": "gold octopus coastal rug",
+      "evidence_id": "B056-560"
+    }
+  ]
+}

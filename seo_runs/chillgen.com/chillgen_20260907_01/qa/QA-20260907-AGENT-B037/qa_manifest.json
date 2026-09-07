@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B037",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f",
+    "custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7",
+    "custom-dog-paw-print-shaped-rug-39afbc78d5",
+    "custom-bear-paw-print-area-rug-a5abc100ab",
+    "custom-bear-paw-print-area-rug-7ff5dd63e9",
+    "custom-bear-paw-print-area-rug-a43b3e3594",
+    "custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc",
+    "custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd",
+    "custom-road-map-area-rug-play-mat-baa948f510-baa948f510",
+    "custom-road-map-area-rug-play-mat-9cf6abf61b"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f",
+    "chillgen.com::custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7",
+    "chillgen.com::custom-dog-paw-print-shaped-rug-39afbc78d5",
+    "chillgen.com::custom-bear-paw-print-area-rug-a5abc100ab",
+    "chillgen.com::custom-bear-paw-print-area-rug-7ff5dd63e9",
+    "chillgen.com::custom-bear-paw-print-area-rug-a43b3e3594",
+    "chillgen.com::custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc",
+    "chillgen.com::custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd",
+    "chillgen.com::custom-road-map-area-rug-play-mat-baa948f510-baa948f510",
+    "chillgen.com::custom-road-map-area-rug-play-mat-9cf6abf61b"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B037\\progress_B037_for_QA.json",
+  "created_at": "2026-09-07T18:00:12+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f",
+      "canonical_product_key": "chillgen.com::wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f",
+      "Handle": "wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f",
+      "url": "https://chillgen.com/products/wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f",
+      "revision": "1",
+      "title_proposed": "Purple Dreamcatcher Wolf Rug",
+      "primary_keyword": "purple dreamcatcher wolf rug",
+      "evidence_id": "B037-361"
+    },
+    {
+      "product_key": "custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7",
+      "canonical_product_key": "chillgen.com::custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7",
+      "Handle": "custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7",
+      "url": "https://chillgen.com/products/custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7",
+      "revision": "1",
+      "title_proposed": "Black Floral Bear Shaped Rug",
+      "primary_keyword": "black floral bear shaped rug",
+      "evidence_id": "B037-362"
+    },
+    {
+      "product_key": "custom-dog-paw-print-shaped-rug-39afbc78d5",
+      "canonical_product_key": "chillgen.com::custom-dog-paw-print-shaped-rug-39afbc78d5",
+      "Handle": "custom-dog-paw-print-shaped-rug-39afbc78d5",
+      "url": "https://chillgen.com/products/custom-dog-paw-print-shaped-rug-39afbc78d5",
+      "revision": "1",
+      "title_proposed": "Patchwork Paw Shaped Rug",
+      "primary_keyword": "patchwork paw shaped rug",
+      "evidence_id": "B037-363"
+    },
+    {
+      "product_key": "custom-bear-paw-print-area-rug-a5abc100ab",
+      "canonical_product_key": "chillgen.com::custom-bear-paw-print-area-rug-a5abc100ab",
+      "Handle": "custom-bear-paw-print-area-rug-a5abc100ab",
+      "url": "https://chillgen.com/products/custom-bear-paw-print-area-rug-a5abc100ab",
+      "revision": "1",
+      "title_proposed": "Blue Daisy Bear Shaped Rug",
+      "primary_keyword": "blue daisy bear shaped rug",
+      "evidence_id": "B037-364"
+    },
+    {
+      "product_key": "custom-bear-paw-print-area-rug-7ff5dd63e9",
+      "canonical_product_key": "chillgen.com::custom-bear-paw-print-area-rug-7ff5dd63e9",
+      "Handle": "custom-bear-paw-print-area-rug-7ff5dd63e9",
+      "url": "https://chillgen.com/products/custom-bear-paw-print-area-rug-7ff5dd63e9",
+      "revision": "1",
+      "title_proposed": "Teal Southwestern Paw Rug",
+      "primary_keyword": "teal southwestern paw rug",
+      "evidence_id": "B037-365"
+    },
+    {
+      "product_key": "custom-bear-paw-print-area-rug-a43b3e3594",
+      "canonical_product_key": "chillgen.com::custom-bear-paw-print-area-rug-a43b3e3594",
+      "Handle": "custom-bear-paw-print-area-rug-a43b3e3594",
+      "url": "https://chillgen.com/products/custom-bear-paw-print-area-rug-a43b3e3594",
+      "revision": "1",
+      "title_proposed": "Wood Slice Bear Paw Rug",
+      "primary_keyword": "wood slice bear paw rug",
+      "evidence_id": "B037-366"
+    },
+    {
+      "product_key": "custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc",
+      "canonical_product_key": "chillgen.com::custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc",
+      "Handle": "custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc",
+      "url": "https://chillgen.com/products/custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc",
+      "revision": "1",
+      "title_proposed": "Brown Southwestern Paw Rug",
+      "primary_keyword": "brown southwestern paw rug",
+      "evidence_id": "B037-367"
+    },
+    {
+      "product_key": "custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd",
+      "canonical_product_key": "chillgen.com::custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd",
+      "Handle": "custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd",
+      "url": "https://chillgen.com/products/custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd",
+      "revision": "1",
+      "title_proposed": "Turquoise Wildlife Paw Rug",
+      "primary_keyword": "turquoise wildlife paw rug",
+      "evidence_id": "B037-368"
+    },
+    {
+      "product_key": "custom-road-map-area-rug-play-mat-baa948f510-baa948f510",
+      "canonical_product_key": "chillgen.com::custom-road-map-area-rug-play-mat-baa948f510-baa948f510",
+      "Handle": "custom-road-map-area-rug-play-mat-baa948f510-baa948f510",
+      "url": "https://chillgen.com/products/custom-road-map-area-rug-play-mat-baa948f510-baa948f510",
+      "revision": "1",
+      "title_proposed": "Alphabet Town Road Play Rug",
+      "primary_keyword": "alphabet town road play rug",
+      "evidence_id": "B037-369"
+    },
+    {
+      "product_key": "custom-road-map-area-rug-play-mat-9cf6abf61b",
+      "canonical_product_key": "chillgen.com::custom-road-map-area-rug-play-mat-9cf6abf61b",
+      "Handle": "custom-road-map-area-rug-play-mat-9cf6abf61b",
+      "url": "https://chillgen.com/products/custom-road-map-area-rug-play-mat-9cf6abf61b",
+      "revision": "1",
+      "title_proposed": "City Loop Car Play Rug",
+      "primary_keyword": "city loop car play rug",
+      "evidence_id": "B037-370"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B005",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "personalized-football-shaped-rug-non-slip-washable-sport-design-03",
+    "personalized-football-shaped-rug-non-slip-washable-sport-design-02",
+    "personalized-football-shaped-rug-non-slip-washable-sport-design-01",
+    "personalized-football-shaped-rug-non-slip-washable-sport-design-05",
+    "personalized-football-shaped-rug-non-slip-washable-sport-carpet-a04",
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-02",
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-08",
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-05",
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-07",
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-03"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::personalized-football-shaped-rug-non-slip-washable-sport-design-03",
+    "chillgen.com::personalized-football-shaped-rug-non-slip-washable-sport-design-02",
+    "chillgen.com::personalized-football-shaped-rug-non-slip-washable-sport-design-01",
+    "chillgen.com::personalized-football-shaped-rug-non-slip-washable-sport-design-05",
+    "chillgen.com::personalized-football-shaped-rug-non-slip-washable-sport-carpet-a04",
+    "chillgen.com::custom-dragon-shaped-area-rug-personalized-library-wester-design-02",
+    "chillgen.com::custom-dragon-shaped-area-rug-personalized-library-wester-design-08",
+    "chillgen.com::custom-dragon-shaped-area-rug-personalized-library-wester-design-05",
+    "chillgen.com::custom-dragon-shaped-area-rug-personalized-library-wester-design-07",
+    "chillgen.com::custom-dragon-shaped-area-rug-personalized-library-wester-design-03"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B005\\progress_B005_for_QA.json",
+  "created_at": "2026-09-07T16:11:53+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "personalized-football-shaped-rug-non-slip-washable-sport-design-03",
+      "canonical_product_key": "chillgen.com::personalized-football-shaped-rug-non-slip-washable-sport-design-03",
+      "Handle": "personalized-football-shaped-rug-non-slip-washable-sport-design-03",
+      "url": "https://chillgen.com/products/personalized-football-shaped-rug-non-slip-washable-sport-design-03",
+      "revision": "1",
+      "title_proposed": "Personalized Football Player Rug",
+      "primary_keyword": "personalized football player rug",
+      "evidence_id": "B005-041"
+    },
+    {
+      "product_key": "personalized-football-shaped-rug-non-slip-washable-sport-design-02",
+      "canonical_product_key": "chillgen.com::personalized-football-shaped-rug-non-slip-washable-sport-design-02",
+      "Handle": "personalized-football-shaped-rug-non-slip-washable-sport-design-02",
+      "url": "https://chillgen.com/products/personalized-football-shaped-rug-non-slip-washable-sport-design-02",
+      "revision": "1",
+      "title_proposed": "Personalized Graffiti Football Rug",
+      "primary_keyword": "personalized football rug with name",
+      "evidence_id": "B005-042"
+    },
+    {
+      "product_key": "personalized-football-shaped-rug-non-slip-washable-sport-design-01",
+      "canonical_product_key": "chillgen.com::personalized-football-shaped-rug-non-slip-washable-sport-design-01",
+      "Handle": "personalized-football-shaped-rug-non-slip-washable-sport-design-01",
+      "url": "https://chillgen.com/products/personalized-football-shaped-rug-non-slip-washable-sport-design-01",
+      "revision": "1",
+      "title_proposed": "Personalized Football Badge Rug",
+      "primary_keyword": "personalized football badge rug",
+      "evidence_id": "B005-043"
+    },
+    {
+      "product_key": "personalized-football-shaped-rug-non-slip-washable-sport-design-05",
+      "canonical_product_key": "chillgen.com::personalized-football-shaped-rug-non-slip-washable-sport-design-05",
+      "Handle": "personalized-football-shaped-rug-non-slip-washable-sport-design-05",
+      "url": "https://chillgen.com/products/personalized-football-shaped-rug-non-slip-washable-sport-design-05",
+      "revision": "1",
+      "title_proposed": "Personalized Football Number Rug",
+      "primary_keyword": "personalized football number rug",
+      "evidence_id": "B005-044"
+    },
+    {
+      "product_key": "personalized-football-shaped-rug-non-slip-washable-sport-carpet-a04",
+      "canonical_product_key": "chillgen.com::personalized-football-shaped-rug-non-slip-washable-sport-carpet-a04",
+      "Handle": "personalized-football-shaped-rug-non-slip-washable-sport-carpet-a04",
+      "url": "https://chillgen.com/products/personalized-football-shaped-rug-non-slip-washable-sport-carpet-a04",
+      "revision": "1",
+      "title_proposed": "Personalized Football Ball Rug",
+      "primary_keyword": "personalized football ball rug",
+      "evidence_id": "B005-045"
+    },
+    {
+      "product_key": "custom-dragon-shaped-area-rug-personalized-library-wester-design-02",
+      "canonical_product_key": "chillgen.com::custom-dragon-shaped-area-rug-personalized-library-wester-design-02",
+      "Handle": "custom-dragon-shaped-area-rug-personalized-library-wester-design-02",
+      "url": "https://chillgen.com/products/custom-dragon-shaped-area-rug-personalized-library-wester-design-02",
+      "revision": "1",
+      "title_proposed": "Personalized Blue Dragon Book Rug",
+      "primary_keyword": "personalized dragon book rug",
+      "evidence_id": "B005-046"
+    },
+    {
+      "product_key": "custom-dragon-shaped-area-rug-personalized-library-wester-design-08",
+      "canonical_product_key": "chillgen.com::custom-dragon-shaped-area-rug-personalized-library-wester-design-08",
+      "Handle": "custom-dragon-shaped-area-rug-personalized-library-wester-design-08",
+      "url": "https://chillgen.com/products/custom-dragon-shaped-area-rug-personalized-library-wester-design-08",
+      "revision": "1",
+      "title_proposed": "Personalized Purple Dragon Rug",
+      "primary_keyword": "personalized purple dragon rug",
+      "evidence_id": "B005-047"
+    },
+    {
+      "product_key": "custom-dragon-shaped-area-rug-personalized-library-wester-design-05",
+      "canonical_product_key": "chillgen.com::custom-dragon-shaped-area-rug-personalized-library-wester-design-05",
+      "Handle": "custom-dragon-shaped-area-rug-personalized-library-wester-design-05",
+      "url": "https://chillgen.com/products/custom-dragon-shaped-area-rug-personalized-library-wester-design-05",
+      "revision": "1",
+      "title_proposed": "Personalized Dragon Open Book Rug",
+      "primary_keyword": "personalized dragon open book rug",
+      "evidence_id": "B005-048"
+    },
+    {
+      "product_key": "custom-dragon-shaped-area-rug-personalized-library-wester-design-07",
+      "canonical_product_key": "chillgen.com::custom-dragon-shaped-area-rug-personalized-library-wester-design-07",
+      "Handle": "custom-dragon-shaped-area-rug-personalized-library-wester-design-07",
+      "url": "https://chillgen.com/products/custom-dragon-shaped-area-rug-personalized-library-wester-design-07",
+      "revision": "1",
+      "title_proposed": "Personalized Moon Dragon Rug",
+      "primary_keyword": "personalized moon dragon rug",
+      "evidence_id": "B005-049"
+    },
+    {
+      "product_key": "custom-dragon-shaped-area-rug-personalized-library-wester-design-03",
+      "canonical_product_key": "chillgen.com::custom-dragon-shaped-area-rug-personalized-library-wester-design-03",
+      "Handle": "custom-dragon-shaped-area-rug-personalized-library-wester-design-03",
+      "url": "https://chillgen.com/products/custom-dragon-shaped-area-rug-personalized-library-wester-design-03",
+      "revision": "1",
+      "title_proposed": "Personalized Dragon Library Rug",
+      "primary_keyword": "personalized dragon library rug",
+      "evidence_id": "B005-050"
+    }
+  ]
+}

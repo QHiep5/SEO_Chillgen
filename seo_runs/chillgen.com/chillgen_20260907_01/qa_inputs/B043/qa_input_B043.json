@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B043",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546",
+    "custom-reading-corner-classroom-library-rug-f3d87bd3da",
+    "custom-bookshelf-classroom-library-reading-rug-110e79f122",
+    "custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c",
+    "personalized-teachers-classroom-rules-area-rug-df4fbe7b91",
+    "personalized-classroom-rules-teacher-area-rug-c01b2868b7",
+    "personalized-teachers-classroom-rules-area-rug-3c846a8f41",
+    "personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2",
+    "custom-octopus-sea-monster-welcome-mat-273aa005c8",
+    "custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546",
+    "chillgen.com::custom-reading-corner-classroom-library-rug-f3d87bd3da",
+    "chillgen.com::custom-bookshelf-classroom-library-reading-rug-110e79f122",
+    "chillgen.com::custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c",
+    "chillgen.com::personalized-teachers-classroom-rules-area-rug-df4fbe7b91",
+    "chillgen.com::personalized-classroom-rules-teacher-area-rug-c01b2868b7",
+    "chillgen.com::personalized-teachers-classroom-rules-area-rug-3c846a8f41",
+    "chillgen.com::personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2",
+    "chillgen.com::custom-octopus-sea-monster-welcome-mat-273aa005c8",
+    "chillgen.com::custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B043\\progress_B043_for_QA.json",
+  "created_at": "2026-09-07T19:37:57+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546",
+      "canonical_product_key": "chillgen.com::custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546",
+      "Handle": "custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546",
+      "url": "https://chillgen.com/products/custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546",
+      "revision": "1",
+      "title_proposed": "Custom Reading Corner Rug with Rainbow Book Design",
+      "primary_keyword": "custom reading corner rug",
+      "evidence_id": "B043-421"
+    },
+    {
+      "product_key": "custom-reading-corner-classroom-library-rug-f3d87bd3da",
+      "canonical_product_key": "chillgen.com::custom-reading-corner-classroom-library-rug-f3d87bd3da",
+      "Handle": "custom-reading-corner-classroom-library-rug-f3d87bd3da",
+      "url": "https://chillgen.com/products/custom-reading-corner-classroom-library-rug-f3d87bd3da",
+      "revision": "1",
+      "title_proposed": "Personalized Reading Gives You Wings Library Rug",
+      "primary_keyword": "personalized reading nook butterfly rug",
+      "evidence_id": "B043-422"
+    },
+    {
+      "product_key": "custom-bookshelf-classroom-library-reading-rug-110e79f122",
+      "canonical_product_key": "chillgen.com::custom-bookshelf-classroom-library-reading-rug-110e79f122",
+      "Handle": "custom-bookshelf-classroom-library-reading-rug-110e79f122",
+      "url": "https://chillgen.com/products/custom-bookshelf-classroom-library-reading-rug-110e79f122",
+      "revision": "1",
+      "title_proposed": "Custom Bookshelf Classroom Rug with Reader Leader Quote",
+      "primary_keyword": "custom bookshelf classroom rug",
+      "evidence_id": "B043-423"
+    },
+    {
+      "product_key": "custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c",
+      "canonical_product_key": "chillgen.com::custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c",
+      "Handle": "custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c",
+      "url": "https://chillgen.com/products/custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c",
+      "revision": "1",
+      "title_proposed": "Personalized Good Day to Read a Book Rug",
+      "primary_keyword": "personalized good day to read a book rug",
+      "evidence_id": "B043-424"
+    },
+    {
+      "product_key": "personalized-teachers-classroom-rules-area-rug-df4fbe7b91",
+      "canonical_product_key": "chillgen.com::personalized-teachers-classroom-rules-area-rug-df4fbe7b91",
+      "Handle": "personalized-teachers-classroom-rules-area-rug-df4fbe7b91",
+      "url": "https://chillgen.com/products/personalized-teachers-classroom-rules-area-rug-df4fbe7b91",
+      "revision": "1",
+      "title_proposed": "Custom Voice Level Classroom Rules Rug with Teacher Name",
+      "primary_keyword": "custom voice level classroom rules rug",
+      "evidence_id": "B043-425"
+    },
+    {
+      "product_key": "personalized-classroom-rules-teacher-area-rug-c01b2868b7",
+      "canonical_product_key": "chillgen.com::personalized-classroom-rules-teacher-area-rug-c01b2868b7",
+      "Handle": "personalized-classroom-rules-teacher-area-rug-c01b2868b7",
+      "url": "https://chillgen.com/products/personalized-classroom-rules-teacher-area-rug-c01b2868b7",
+      "revision": "1",
+      "title_proposed": "Custom Rainbow Classroom Rules Rug with Teacher Name",
+      "primary_keyword": "custom rainbow classroom rules rug",
+      "evidence_id": "B043-426"
+    },
+    {
+      "product_key": "personalized-teachers-classroom-rules-area-rug-3c846a8f41",
+      "canonical_product_key": "chillgen.com::personalized-teachers-classroom-rules-area-rug-3c846a8f41",
+      "Handle": "personalized-teachers-classroom-rules-area-rug-3c846a8f41",
+      "url": "https://chillgen.com/products/personalized-teachers-classroom-rules-area-rug-3c846a8f41",
+      "revision": "1",
+      "title_proposed": "Custom Classroom Jobs Rug with Teacher Name",
+      "primary_keyword": "custom classroom jobs rug",
+      "evidence_id": "B043-427"
+    },
+    {
+      "product_key": "personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2",
+      "canonical_product_key": "chillgen.com::personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2",
+      "Handle": "personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2",
+      "url": "https://chillgen.com/products/personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2",
+      "revision": "1",
+      "title_proposed": "Personalized Coping Tools Classroom Rug with Monsters",
+      "primary_keyword": "personalized coping tools classroom rug",
+      "evidence_id": "B043-428"
+    },
+    {
+      "product_key": "custom-octopus-sea-monster-welcome-mat-273aa005c8",
+      "canonical_product_key": "chillgen.com::custom-octopus-sea-monster-welcome-mat-273aa005c8",
+      "Handle": "custom-octopus-sea-monster-welcome-mat-273aa005c8",
+      "url": "https://chillgen.com/products/custom-octopus-sea-monster-welcome-mat-273aa005c8",
+      "revision": "1",
+      "title_proposed": "Personalized Sea Monster Octopus Shaped Rug",
+      "primary_keyword": "personalized sea monster octopus rug",
+      "evidence_id": "B043-429"
+    },
+    {
+      "product_key": "custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b",
+      "canonical_product_key": "chillgen.com::custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b",
+      "Handle": "custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b",
+      "url": "https://chillgen.com/products/custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b",
+      "revision": "1",
+      "title_proposed": "Personalized Skull Octopus Tentacle Shaped Rug",
+      "primary_keyword": "personalized skull octopus rug",
+      "evidence_id": "B043-430"
+    }
+  ]
+}

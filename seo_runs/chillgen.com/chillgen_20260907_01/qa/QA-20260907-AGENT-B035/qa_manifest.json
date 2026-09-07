@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B035",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b",
+    "custom-running-horse-welcome-mat-7069b0c873-7069b0c873",
+    "custom-running-horse-area-rug-non-slip-384f7e6e8e",
+    "custom-running-horse-welcome-mat-60ae7781a9",
+    "custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f",
+    "custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42",
+    "wolf-galaxy-runner-rug-a1fc801242",
+    "custom-wolf-print-welcome-mat-89ae1c27ae",
+    "custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1",
+    "custom-galaxy-wolves-welcome-mat-f320a33157"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b",
+    "chillgen.com::custom-running-horse-welcome-mat-7069b0c873-7069b0c873",
+    "chillgen.com::custom-running-horse-area-rug-non-slip-384f7e6e8e",
+    "chillgen.com::custom-running-horse-welcome-mat-60ae7781a9",
+    "chillgen.com::custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f",
+    "chillgen.com::custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42",
+    "chillgen.com::wolf-galaxy-runner-rug-a1fc801242",
+    "chillgen.com::custom-wolf-print-welcome-mat-89ae1c27ae",
+    "chillgen.com::custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1",
+    "chillgen.com::custom-galaxy-wolves-welcome-mat-f320a33157"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B035\\progress_B035_for_QA.json",
+  "created_at": "2026-09-07T17:51:17+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b",
+      "canonical_product_key": "chillgen.com::custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b",
+      "Handle": "custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b",
+      "url": "https://chillgen.com/products/custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b",
+      "revision": "1",
+      "title_proposed": "Sunset Horse Silhouette Rug",
+      "primary_keyword": "sunset horse silhouette rug",
+      "evidence_id": "B035-341"
+    },
+    {
+      "product_key": "custom-running-horse-welcome-mat-7069b0c873-7069b0c873",
+      "canonical_product_key": "chillgen.com::custom-running-horse-welcome-mat-7069b0c873-7069b0c873",
+      "Handle": "custom-running-horse-welcome-mat-7069b0c873-7069b0c873",
+      "url": "https://chillgen.com/products/custom-running-horse-welcome-mat-7069b0c873-7069b0c873",
+      "revision": "1",
+      "title_proposed": "Black Horse Bridle Rug",
+      "primary_keyword": "black horse bridle rug",
+      "evidence_id": "B035-342"
+    },
+    {
+      "product_key": "custom-running-horse-area-rug-non-slip-384f7e6e8e",
+      "canonical_product_key": "chillgen.com::custom-running-horse-area-rug-non-slip-384f7e6e8e",
+      "Handle": "custom-running-horse-area-rug-non-slip-384f7e6e8e",
+      "url": "https://chillgen.com/products/custom-running-horse-area-rug-non-slip-384f7e6e8e",
+      "revision": "1",
+      "title_proposed": "Chestnut Running Horse Rug",
+      "primary_keyword": "chestnut running horse rug",
+      "evidence_id": "B035-343"
+    },
+    {
+      "product_key": "custom-running-horse-welcome-mat-60ae7781a9",
+      "canonical_product_key": "chillgen.com::custom-running-horse-welcome-mat-60ae7781a9",
+      "Handle": "custom-running-horse-welcome-mat-60ae7781a9",
+      "url": "https://chillgen.com/products/custom-running-horse-welcome-mat-60ae7781a9",
+      "revision": "1",
+      "title_proposed": "Monochrome Running Horse Rug",
+      "primary_keyword": "monochrome running horse rug",
+      "evidence_id": "B035-344"
+    },
+    {
+      "product_key": "custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f",
+      "canonical_product_key": "chillgen.com::custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f",
+      "Handle": "custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f",
+      "url": "https://chillgen.com/products/custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f",
+      "revision": "1",
+      "title_proposed": "White Horse Golden Halo Rug",
+      "primary_keyword": "white horse golden halo rug",
+      "evidence_id": "B035-345"
+    },
+    {
+      "product_key": "custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42",
+      "canonical_product_key": "chillgen.com::custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42",
+      "Handle": "custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42",
+      "url": "https://chillgen.com/products/custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42",
+      "revision": "1",
+      "title_proposed": "Moonlit Wolf Pack Rug",
+      "primary_keyword": "moonlit wolf pack rug",
+      "evidence_id": "B035-346"
+    },
+    {
+      "product_key": "wolf-galaxy-runner-rug-a1fc801242",
+      "canonical_product_key": "chillgen.com::wolf-galaxy-runner-rug-a1fc801242",
+      "Handle": "wolf-galaxy-runner-rug-a1fc801242",
+      "url": "https://chillgen.com/products/wolf-galaxy-runner-rug-a1fc801242",
+      "revision": "1",
+      "title_proposed": "Fire And Ice Wolves Rug",
+      "primary_keyword": "fire and ice wolves rug",
+      "evidence_id": "B035-347"
+    },
+    {
+      "product_key": "custom-wolf-print-welcome-mat-89ae1c27ae",
+      "canonical_product_key": "chillgen.com::custom-wolf-print-welcome-mat-89ae1c27ae",
+      "Handle": "custom-wolf-print-welcome-mat-89ae1c27ae",
+      "url": "https://chillgen.com/products/custom-wolf-print-welcome-mat-89ae1c27ae",
+      "revision": "1",
+      "title_proposed": "Neon Galaxy Wolf Rug",
+      "primary_keyword": "neon galaxy wolf rug",
+      "evidence_id": "B035-348"
+    },
+    {
+      "product_key": "custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1",
+      "canonical_product_key": "chillgen.com::custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1",
+      "Handle": "custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1",
+      "url": "https://chillgen.com/products/custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1",
+      "revision": "1",
+      "title_proposed": "Monochrome Forest Wolf Rug",
+      "primary_keyword": "monochrome forest wolf rug",
+      "evidence_id": "B035-349"
+    },
+    {
+      "product_key": "custom-galaxy-wolves-welcome-mat-f320a33157",
+      "canonical_product_key": "chillgen.com::custom-galaxy-wolves-welcome-mat-f320a33157",
+      "Handle": "custom-galaxy-wolves-welcome-mat-f320a33157",
+      "url": "https://chillgen.com/products/custom-galaxy-wolves-welcome-mat-f320a33157",
+      "revision": "1",
+      "title_proposed": "Lightning Snow Wolf Rug",
+      "primary_keyword": "lightning snow wolf rug",
+      "evidence_id": "B035-350"
+    }
+  ]
+}

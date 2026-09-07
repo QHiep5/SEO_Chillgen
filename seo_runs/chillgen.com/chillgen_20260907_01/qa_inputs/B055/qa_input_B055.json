@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B055",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "custom-abc-spanish-educational-rug-6cefdc1a95",
+    "custom-composition-notebook-classroom-rug-03facf229f",
+    "customized-composition-notebook-classroom-rug-bf478c5c0a",
+    "personalized-composition-notebook-welcome-doormat-379c157fc5",
+    "customized-composition-notebook-classroom-rug-33c4fbd370",
+    "custom-composition-notebook-classroom-rug-with-plush-memory-foam-75c4b7b9bc",
+    "custom-classroom-notebook-rug-32dd233cb2",
+    "custom-composition-notebook-classroom-rug-non-slip-a1d50055bf",
+    "customized-composition-notebook-classroom-rug-7b0ed5679d",
+    "customized-composition-notebook-classroom-rug-3fad5212e6"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::custom-abc-spanish-educational-rug-6cefdc1a95",
+    "chillgen.com::custom-composition-notebook-classroom-rug-03facf229f",
+    "chillgen.com::customized-composition-notebook-classroom-rug-bf478c5c0a",
+    "chillgen.com::personalized-composition-notebook-welcome-doormat-379c157fc5",
+    "chillgen.com::customized-composition-notebook-classroom-rug-33c4fbd370",
+    "chillgen.com::custom-composition-notebook-classroom-rug-with-plush-memory-foam-75c4b7b9bc",
+    "chillgen.com::custom-classroom-notebook-rug-32dd233cb2",
+    "chillgen.com::custom-composition-notebook-classroom-rug-non-slip-a1d50055bf",
+    "chillgen.com::customized-composition-notebook-classroom-rug-7b0ed5679d",
+    "chillgen.com::customized-composition-notebook-classroom-rug-3fad5212e6"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B055\\progress_B055_for_QA.json",
+  "created_at": "2026-09-07T19:37:56+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "custom-abc-spanish-educational-rug-6cefdc1a95",
+      "canonical_product_key": "chillgen.com::custom-abc-spanish-educational-rug-6cefdc1a95",
+      "Handle": "custom-abc-spanish-educational-rug-6cefdc1a95",
+      "url": "https://chillgen.com/products/custom-abc-spanish-educational-rug-6cefdc1a95",
+      "revision": "1",
+      "title_proposed": "Spanish Educational Classroom Rug",
+      "primary_keyword": "Spanish educational classroom rug",
+      "evidence_id": "B055-541"
+    },
+    {
+      "product_key": "custom-composition-notebook-classroom-rug-03facf229f",
+      "canonical_product_key": "chillgen.com::custom-composition-notebook-classroom-rug-03facf229f",
+      "Handle": "custom-composition-notebook-classroom-rug-03facf229f",
+      "url": "https://chillgen.com/products/custom-composition-notebook-classroom-rug-03facf229f",
+      "revision": "1",
+      "title_proposed": "Bee Classroom Rug with Positive Words",
+      "primary_keyword": "bee classroom rug",
+      "evidence_id": "B055-542"
+    },
+    {
+      "product_key": "customized-composition-notebook-classroom-rug-bf478c5c0a",
+      "canonical_product_key": "chillgen.com::customized-composition-notebook-classroom-rug-bf478c5c0a",
+      "Handle": "customized-composition-notebook-classroom-rug-bf478c5c0a",
+      "url": "https://chillgen.com/products/customized-composition-notebook-classroom-rug-bf478c5c0a",
+      "revision": "1",
+      "title_proposed": "Reading Motivation Classroom Rug",
+      "primary_keyword": "reading motivation classroom rug",
+      "evidence_id": "B055-543"
+    },
+    {
+      "product_key": "personalized-composition-notebook-welcome-doormat-379c157fc5",
+      "canonical_product_key": "chillgen.com::personalized-composition-notebook-welcome-doormat-379c157fc5",
+      "Handle": "personalized-composition-notebook-welcome-doormat-379c157fc5",
+      "url": "https://chillgen.com/products/personalized-composition-notebook-welcome-doormat-379c157fc5",
+      "revision": "1",
+      "title_proposed": "Space School Bus Classroom Rug with Custom Name",
+      "primary_keyword": "space school bus classroom rug",
+      "evidence_id": "B055-544"
+    },
+    {
+      "product_key": "customized-composition-notebook-classroom-rug-33c4fbd370",
+      "canonical_product_key": "chillgen.com::customized-composition-notebook-classroom-rug-33c4fbd370",
+      "Handle": "customized-composition-notebook-classroom-rug-33c4fbd370",
+      "url": "https://chillgen.com/products/customized-composition-notebook-classroom-rug-33c4fbd370",
+      "revision": "1",
+      "title_proposed": "Classroom Affirmation Rug with Teacher Name",
+      "primary_keyword": "classroom affirmation rug",
+      "evidence_id": "B055-545"
+    },
+    {
+      "product_key": "custom-composition-notebook-classroom-rug-with-plush-memory-foam-75c4b7b9bc",
+      "canonical_product_key": "chillgen.com::custom-composition-notebook-classroom-rug-with-plush-memory-foam-75c4b7b9bc",
+      "Handle": "custom-composition-notebook-classroom-rug-with-plush-memory-foam-75c4b7b9bc",
+      "url": "https://chillgen.com/products/custom-composition-notebook-classroom-rug-with-plush-memory-foam-75c4b7b9bc",
+      "revision": "1",
+      "title_proposed": "Kindness Classroom Rug with Custom Name",
+      "primary_keyword": "kindness classroom rug",
+      "evidence_id": "B055-546"
+    },
+    {
+      "product_key": "custom-classroom-notebook-rug-32dd233cb2",
+      "canonical_product_key": "chillgen.com::custom-classroom-notebook-rug-32dd233cb2",
+      "Handle": "custom-classroom-notebook-rug-32dd233cb2",
+      "url": "https://chillgen.com/products/custom-classroom-notebook-rug-32dd233cb2",
+      "revision": "1",
+      "title_proposed": "Big Heart Teacher Appreciation Classroom Rug",
+      "primary_keyword": "teacher appreciation classroom rug",
+      "evidence_id": "B055-547"
+    },
+    {
+      "product_key": "custom-composition-notebook-classroom-rug-non-slip-a1d50055bf",
+      "canonical_product_key": "chillgen.com::custom-composition-notebook-classroom-rug-non-slip-a1d50055bf",
+      "Handle": "custom-composition-notebook-classroom-rug-non-slip-a1d50055bf",
+      "url": "https://chillgen.com/products/custom-composition-notebook-classroom-rug-non-slip-a1d50055bf",
+      "revision": "1",
+      "title_proposed": "Math Teacher Classroom Rug with Custom Name",
+      "primary_keyword": "math teacher classroom rug",
+      "evidence_id": "B055-548"
+    },
+    {
+      "product_key": "customized-composition-notebook-classroom-rug-7b0ed5679d",
+      "canonical_product_key": "chillgen.com::customized-composition-notebook-classroom-rug-7b0ed5679d",
+      "Handle": "customized-composition-notebook-classroom-rug-7b0ed5679d",
+      "url": "https://chillgen.com/products/customized-composition-notebook-classroom-rug-7b0ed5679d",
+      "revision": "1",
+      "title_proposed": "Lined Paper Classroom Welcome Rug",
+      "primary_keyword": "lined paper classroom rug",
+      "evidence_id": "B055-549"
+    },
+    {
+      "product_key": "customized-composition-notebook-classroom-rug-3fad5212e6",
+      "canonical_product_key": "chillgen.com::customized-composition-notebook-classroom-rug-3fad5212e6",
+      "Handle": "customized-composition-notebook-classroom-rug-3fad5212e6",
+      "url": "https://chillgen.com/products/customized-composition-notebook-classroom-rug-3fad5212e6",
+      "revision": "1",
+      "title_proposed": "Science Classroom Rug with Custom Teacher Name",
+      "primary_keyword": "science classroom rug",
+      "evidence_id": "B055-550"
+    }
+  ]
+}

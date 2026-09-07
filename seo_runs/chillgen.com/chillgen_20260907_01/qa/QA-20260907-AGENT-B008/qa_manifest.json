@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B008",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-02",
+    "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-09",
+    "boat-rug-05-boat-rug-05-design-22",
+    "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-06",
+    "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-08",
+    "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-07",
+    "boat-rug-10-boat-rug-10-design-10",
+    "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-name",
+    "boat-rug-04-boat-rug-04",
+    "personalized-tropical-beach-rug-custom-family-name-tropic-design-02"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-02",
+    "chillgen.com::custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-09",
+    "chillgen.com::boat-rug-05-boat-rug-05-design-22",
+    "chillgen.com::custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-06",
+    "chillgen.com::custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-08",
+    "chillgen.com::custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-07",
+    "chillgen.com::boat-rug-10-boat-rug-10-design-10",
+    "chillgen.com::custom-boat-rug-personalized-welcome-aboard-mat-with-boat-name",
+    "chillgen.com::boat-rug-04-boat-rug-04",
+    "chillgen.com::personalized-tropical-beach-rug-custom-family-name-tropic-design-02"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B008\\progress_B008_for_QA.json",
+  "created_at": "2026-09-07T16:27:39+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-02",
+      "canonical_product_key": "chillgen.com::custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-02",
+      "Handle": "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-02",
+      "url": "https://chillgen.com/products/custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-02",
+      "revision": "1",
+      "title_proposed": "Personalized Anchor Boat Rug",
+      "primary_keyword": "personalized anchor boat rug",
+      "evidence_id": "B008-071"
+    },
+    {
+      "product_key": "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-09",
+      "canonical_product_key": "chillgen.com::custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-09",
+      "Handle": "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-09",
+      "url": "https://chillgen.com/products/custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-09",
+      "revision": "1",
+      "title_proposed": "Personalized Nautical Boat Mat",
+      "primary_keyword": "personalized nautical boat mat",
+      "evidence_id": "B008-072"
+    },
+    {
+      "product_key": "boat-rug-05-boat-rug-05-design-22",
+      "canonical_product_key": "chillgen.com::boat-rug-05-boat-rug-05-design-22",
+      "Handle": "boat-rug-05-boat-rug-05-design-22",
+      "url": "https://chillgen.com/products/boat-rug-05-boat-rug-05-design-22",
+      "revision": "1",
+      "title_proposed": "Personalized Captain Boat Rug",
+      "primary_keyword": "personalized captain boat rug",
+      "evidence_id": "B008-073"
+    },
+    {
+      "product_key": "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-06",
+      "canonical_product_key": "chillgen.com::custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-06",
+      "Handle": "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-06",
+      "url": "https://chillgen.com/products/custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-06",
+      "revision": "1",
+      "title_proposed": "Captain Always Right Boat Rug",
+      "primary_keyword": "captain always right boat rug",
+      "evidence_id": "B008-074"
+    },
+    {
+      "product_key": "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-08",
+      "canonical_product_key": "chillgen.com::custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-08",
+      "Handle": "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-08",
+      "url": "https://chillgen.com/products/custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-08",
+      "revision": "1",
+      "title_proposed": "Personalized Captain Nautical Rug",
+      "primary_keyword": "personalized captain nautical rug",
+      "evidence_id": "B008-075"
+    },
+    {
+      "product_key": "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-07",
+      "canonical_product_key": "chillgen.com::custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-07",
+      "Handle": "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-07",
+      "url": "https://chillgen.com/products/custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-07",
+      "revision": "1",
+      "title_proposed": "Welcome Aboard Anchor Boat Rug",
+      "primary_keyword": "welcome aboard anchor boat rug",
+      "evidence_id": "B008-076"
+    },
+    {
+      "product_key": "boat-rug-10-boat-rug-10-design-10",
+      "canonical_product_key": "chillgen.com::boat-rug-10-boat-rug-10-design-10",
+      "Handle": "boat-rug-10-boat-rug-10-design-10",
+      "url": "https://chillgen.com/products/boat-rug-10-boat-rug-10-design-10",
+      "revision": "1",
+      "title_proposed": "Black Gold Welcome Aboard Mat",
+      "primary_keyword": "black gold welcome aboard mat",
+      "evidence_id": "B008-077"
+    },
+    {
+      "product_key": "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-name",
+      "canonical_product_key": "chillgen.com::custom-boat-rug-personalized-welcome-aboard-mat-with-boat-name",
+      "Handle": "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-name",
+      "url": "https://chillgen.com/products/custom-boat-rug-personalized-welcome-aboard-mat-with-boat-name",
+      "revision": "1",
+      "title_proposed": "Personalized Boat Name Rug",
+      "primary_keyword": "personalized boat name rug",
+      "evidence_id": "B008-078"
+    },
+    {
+      "product_key": "boat-rug-04-boat-rug-04",
+      "canonical_product_key": "chillgen.com::boat-rug-04-boat-rug-04",
+      "Handle": "boat-rug-04-boat-rug-04",
+      "url": "https://chillgen.com/products/boat-rug-04-boat-rug-04",
+      "revision": "1",
+      "title_proposed": "Navy Compass Boat Rug",
+      "primary_keyword": "navy compass boat rug",
+      "evidence_id": "B008-079"
+    },
+    {
+      "product_key": "personalized-tropical-beach-rug-custom-family-name-tropic-design-02",
+      "canonical_product_key": "chillgen.com::personalized-tropical-beach-rug-custom-family-name-tropic-design-02",
+      "Handle": "personalized-tropical-beach-rug-custom-family-name-tropic-design-02",
+      "url": "https://chillgen.com/products/personalized-tropical-beach-rug-custom-family-name-tropic-design-02",
+      "revision": "1",
+      "title_proposed": "Personalized Tropical Beach Rug",
+      "primary_keyword": "personalized tropical beach rug",
+      "evidence_id": "B008-080"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B016",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114",
+    "personalized-orthodox-christian-area-rug-custom-eastern-orthodox",
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-100",
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-101",
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-102",
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-103",
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-104",
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-105"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112",
+    "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113",
+    "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114",
+    "chillgen.com::personalized-orthodox-christian-area-rug-custom-eastern-orthodox",
+    "chillgen.com::personalized-orthodox-christian-area-rug-custom-eastern-design-100",
+    "chillgen.com::personalized-orthodox-christian-area-rug-custom-eastern-design-101",
+    "chillgen.com::personalized-orthodox-christian-area-rug-custom-eastern-design-102",
+    "chillgen.com::personalized-orthodox-christian-area-rug-custom-eastern-design-103",
+    "chillgen.com::personalized-orthodox-christian-area-rug-custom-eastern-design-104",
+    "chillgen.com::personalized-orthodox-christian-area-rug-custom-eastern-design-105"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B016\\progress_B016_for_QA.json",
+  "created_at": "2026-09-07T16:45:20+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112",
+      "Handle": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112",
+      "url": "https://chillgen.com/products/custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112",
+      "revision": "1",
+      "title_proposed": "Witch Hat Pumpkin Halloween Rug",
+      "primary_keyword": "witch hat pumpkin Halloween rug",
+      "evidence_id": "B016-151"
+    },
+    {
+      "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113",
+      "Handle": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113",
+      "url": "https://chillgen.com/products/custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113",
+      "revision": "1",
+      "title_proposed": "Grim Reaper Halloween Rug",
+      "primary_keyword": "grim reaper Halloween rug",
+      "evidence_id": "B016-152"
+    },
+    {
+      "product_key": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114",
+      "canonical_product_key": "chillgen.com::custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114",
+      "Handle": "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114",
+      "url": "https://chillgen.com/products/custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114",
+      "revision": "1",
+      "title_proposed": "Haunted House Halloween Rug",
+      "primary_keyword": "haunted house Halloween rug",
+      "evidence_id": "B016-153"
+    },
+    {
+      "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-orthodox",
+      "canonical_product_key": "chillgen.com::personalized-orthodox-christian-area-rug-custom-eastern-orthodox",
+      "Handle": "personalized-orthodox-christian-area-rug-custom-eastern-orthodox",
+      "url": "https://chillgen.com/products/personalized-orthodox-christian-area-rug-custom-eastern-orthodox",
+      "revision": "1",
+      "title_proposed": "Blue Orthodox Cross Area Rug",
+      "primary_keyword": "Orthodox cross area rug",
+      "evidence_id": "B016-154"
+    },
+    {
+      "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-100",
+      "canonical_product_key": "chillgen.com::personalized-orthodox-christian-area-rug-custom-eastern-design-100",
+      "Handle": "personalized-orthodox-christian-area-rug-custom-eastern-design-100",
+      "url": "https://chillgen.com/products/personalized-orthodox-christian-area-rug-custom-eastern-design-100",
+      "revision": "1",
+      "title_proposed": "Red Gold Orthodox Cross Rug",
+      "primary_keyword": "red gold Orthodox cross rug",
+      "evidence_id": "B016-155"
+    },
+    {
+      "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-101",
+      "canonical_product_key": "chillgen.com::personalized-orthodox-christian-area-rug-custom-eastern-design-101",
+      "Handle": "personalized-orthodox-christian-area-rug-custom-eastern-design-101",
+      "url": "https://chillgen.com/products/personalized-orthodox-christian-area-rug-custom-eastern-design-101",
+      "revision": "1",
+      "title_proposed": "Orthodox Cross Book Style Rug",
+      "primary_keyword": "Orthodox cross book rug",
+      "evidence_id": "B016-156"
+    },
+    {
+      "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-102",
+      "canonical_product_key": "chillgen.com::personalized-orthodox-christian-area-rug-custom-eastern-design-102",
+      "Handle": "personalized-orthodox-christian-area-rug-custom-eastern-design-102",
+      "url": "https://chillgen.com/products/personalized-orthodox-christian-area-rug-custom-eastern-design-102",
+      "revision": "1",
+      "title_proposed": "Black Gold Orthodox Cross Rug",
+      "primary_keyword": "black gold Orthodox prayer rug",
+      "evidence_id": "B016-157"
+    },
+    {
+      "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-103",
+      "canonical_product_key": "chillgen.com::personalized-orthodox-christian-area-rug-custom-eastern-design-103",
+      "Handle": "personalized-orthodox-christian-area-rug-custom-eastern-design-103",
+      "url": "https://chillgen.com/products/personalized-orthodox-christian-area-rug-custom-eastern-design-103",
+      "revision": "1",
+      "title_proposed": "Burgundy Orthodox Cross Rug",
+      "primary_keyword": "burgundy Orthodox cross rug",
+      "evidence_id": "B016-158"
+    },
+    {
+      "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-104",
+      "canonical_product_key": "chillgen.com::personalized-orthodox-christian-area-rug-custom-eastern-design-104",
+      "Handle": "personalized-orthodox-christian-area-rug-custom-eastern-design-104",
+      "url": "https://chillgen.com/products/personalized-orthodox-christian-area-rug-custom-eastern-design-104",
+      "revision": "1",
+      "title_proposed": "Black Sacred Border Orthodox Cross Rug",
+      "primary_keyword": "black sacred border Orthodox cross rug",
+      "evidence_id": "B016-159"
+    },
+    {
+      "product_key": "personalized-orthodox-christian-area-rug-custom-eastern-design-105",
+      "canonical_product_key": "chillgen.com::personalized-orthodox-christian-area-rug-custom-eastern-design-105",
+      "Handle": "personalized-orthodox-christian-area-rug-custom-eastern-design-105",
+      "url": "https://chillgen.com/products/personalized-orthodox-christian-area-rug-custom-eastern-design-105",
+      "revision": "1",
+      "title_proposed": "Navy Gold Orthodox Cross Rug",
+      "primary_keyword": "navy Orthodox cross rug",
+      "evidence_id": "B016-160"
+    }
+  ]
+}

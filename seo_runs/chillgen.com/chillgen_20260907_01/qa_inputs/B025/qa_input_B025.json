@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B025",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e",
+    "custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966",
+    "personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5",
+    "custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6",
+    "colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac",
+    "colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2",
+    "colorful-classroom-rug-for-kids-877e4e6020-877e4e6020",
+    "colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82",
+    "colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902",
+    "colorful-handprints-kids-classroom-rug-51f01db413-51f01db413"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e",
+    "chillgen.com::custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966",
+    "chillgen.com::personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5",
+    "chillgen.com::custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6",
+    "chillgen.com::colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac",
+    "chillgen.com::colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2",
+    "chillgen.com::colorful-classroom-rug-for-kids-877e4e6020-877e4e6020",
+    "chillgen.com::colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82",
+    "chillgen.com::colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902",
+    "chillgen.com::colorful-handprints-kids-classroom-rug-51f01db413-51f01db413"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B025\\progress_B025_for_QA.json",
+  "created_at": "2026-09-07T17:08:24+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e",
+      "canonical_product_key": "chillgen.com::custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e",
+      "Handle": "custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e",
+      "url": "https://chillgen.com/products/custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e",
+      "revision": "1",
+      "title_proposed": "Reading Tree Classroom Rug",
+      "primary_keyword": "reading tree classroom rug",
+      "evidence_id": "B025-241"
+    },
+    {
+      "product_key": "custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966",
+      "canonical_product_key": "chillgen.com::custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966",
+      "Handle": "custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966",
+      "url": "https://chillgen.com/products/custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966",
+      "revision": "1",
+      "title_proposed": "Tree Of Knowledge Classroom Rug",
+      "primary_keyword": "tree of knowledge classroom rug",
+      "evidence_id": "B025-242"
+    },
+    {
+      "product_key": "personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5",
+      "canonical_product_key": "chillgen.com::personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5",
+      "Handle": "personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5",
+      "url": "https://chillgen.com/products/personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5",
+      "revision": "1",
+      "title_proposed": "Cool Kids Read Books Rug",
+      "primary_keyword": "Cool Kids Read Books rug",
+      "evidence_id": "B025-243"
+    },
+    {
+      "product_key": "custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6",
+      "canonical_product_key": "chillgen.com::custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6",
+      "Handle": "custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6",
+      "url": "https://chillgen.com/products/custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6",
+      "revision": "1",
+      "title_proposed": "New Chapter Classroom Rug",
+      "primary_keyword": "new chapter classroom rug",
+      "evidence_id": "B025-244"
+    },
+    {
+      "product_key": "colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac",
+      "canonical_product_key": "chillgen.com::colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac",
+      "Handle": "colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac",
+      "url": "https://chillgen.com/products/colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac",
+      "revision": "1",
+      "title_proposed": "Reading Helps Your Mind Bloom Rug",
+      "primary_keyword": "reading helps your mind bloom rug",
+      "evidence_id": "B025-245"
+    },
+    {
+      "product_key": "colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2",
+      "canonical_product_key": "chillgen.com::colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2",
+      "Handle": "colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2",
+      "url": "https://chillgen.com/products/colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2",
+      "revision": "1",
+      "title_proposed": "BE Values Classroom Rug",
+      "primary_keyword": "BE values classroom rug",
+      "evidence_id": "B025-246"
+    },
+    {
+      "product_key": "colorful-classroom-rug-for-kids-877e4e6020-877e4e6020",
+      "canonical_product_key": "chillgen.com::colorful-classroom-rug-for-kids-877e4e6020-877e4e6020",
+      "Handle": "colorful-classroom-rug-for-kids-877e4e6020-877e4e6020",
+      "url": "https://chillgen.com/products/colorful-classroom-rug-for-kids-877e4e6020-877e4e6020",
+      "revision": "1",
+      "title_proposed": "You Matter Classroom Rug",
+      "primary_keyword": "You Matter classroom rug",
+      "evidence_id": "B025-247"
+    },
+    {
+      "product_key": "colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82",
+      "canonical_product_key": "chillgen.com::colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82",
+      "Handle": "colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82",
+      "url": "https://chillgen.com/products/colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82",
+      "revision": "1",
+      "title_proposed": "Every Child Is An Artist Rug",
+      "primary_keyword": "Every Child Is An Artist rug",
+      "evidence_id": "B025-248"
+    },
+    {
+      "product_key": "colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902",
+      "canonical_product_key": "chillgen.com::colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902",
+      "Handle": "colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902",
+      "url": "https://chillgen.com/products/colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902",
+      "revision": "1",
+      "title_proposed": "Welcome To Classroom Rug",
+      "primary_keyword": "welcome to classroom handprint rug",
+      "evidence_id": "B025-249"
+    },
+    {
+      "product_key": "colorful-handprints-kids-classroom-rug-51f01db413-51f01db413",
+      "canonical_product_key": "chillgen.com::colorful-handprints-kids-classroom-rug-51f01db413-51f01db413",
+      "Handle": "colorful-handprints-kids-classroom-rug-51f01db413-51f01db413",
+      "url": "https://chillgen.com/products/colorful-handprints-kids-classroom-rug-51f01db413-51f01db413",
+      "revision": "1",
+      "title_proposed": "Reading Everywhere Classroom Rug",
+      "primary_keyword": "Reading Everywhere classroom rug",
+      "evidence_id": "B025-250"
+    }
+  ]
+}

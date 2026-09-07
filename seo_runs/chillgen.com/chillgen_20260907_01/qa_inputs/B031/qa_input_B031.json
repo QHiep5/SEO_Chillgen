@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B031",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "personalized-classroom-doormat-welcome-class-door-mat-f34045b91d",
+    "personalized-classroom-welcome-doormat-notebook-rug-508fa38fe3",
+    "personalized-classroom-doormat-with-custom-teacher-name-675f2e0900",
+    "personalized-classroom-welcome-doormat-2820e17d05-2820e17d05",
+    "personalized-classroom-doormat-welcome-to-class-door-mat-1086025b51",
+    "personalized-classroom-doormat-custom-teacher-name-753f4f3532-753f4f3532",
+    "personalized-classroom-welcome-doormat-3d9f3ec373",
+    "personalized-classroom-doormat-teacher-notebook-a1ca00cc38-a1ca00cc38",
+    "personalized-classroom-doormat-welcome-to-class-door-mat-a74c09137b",
+    "personalized-classroom-doormat-with-custom-teacher-name-ae6fef4505-ae6fef4505"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::personalized-classroom-doormat-welcome-class-door-mat-f34045b91d",
+    "chillgen.com::personalized-classroom-welcome-doormat-notebook-rug-508fa38fe3",
+    "chillgen.com::personalized-classroom-doormat-with-custom-teacher-name-675f2e0900",
+    "chillgen.com::personalized-classroom-welcome-doormat-2820e17d05-2820e17d05",
+    "chillgen.com::personalized-classroom-doormat-welcome-to-class-door-mat-1086025b51",
+    "chillgen.com::personalized-classroom-doormat-custom-teacher-name-753f4f3532-753f4f3532",
+    "chillgen.com::personalized-classroom-welcome-doormat-3d9f3ec373",
+    "chillgen.com::personalized-classroom-doormat-teacher-notebook-a1ca00cc38-a1ca00cc38",
+    "chillgen.com::personalized-classroom-doormat-welcome-to-class-door-mat-a74c09137b",
+    "chillgen.com::personalized-classroom-doormat-with-custom-teacher-name-ae6fef4505-ae6fef4505"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B031\\progress_B031_for_QA.json",
+  "created_at": "2026-09-07T17:33:23+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "personalized-classroom-doormat-welcome-class-door-mat-f34045b91d",
+      "canonical_product_key": "chillgen.com::personalized-classroom-doormat-welcome-class-door-mat-f34045b91d",
+      "Handle": "personalized-classroom-doormat-welcome-class-door-mat-f34045b91d",
+      "url": "https://chillgen.com/products/personalized-classroom-doormat-welcome-class-door-mat-f34045b91d",
+      "revision": "1",
+      "title_proposed": "Tribal Classroom Welcome Mat",
+      "primary_keyword": "tribal classroom welcome mat",
+      "evidence_id": "B031-301"
+    },
+    {
+      "product_key": "personalized-classroom-welcome-doormat-notebook-rug-508fa38fe3",
+      "canonical_product_key": "chillgen.com::personalized-classroom-welcome-doormat-notebook-rug-508fa38fe3",
+      "Handle": "personalized-classroom-welcome-doormat-notebook-rug-508fa38fe3",
+      "url": "https://chillgen.com/products/personalized-classroom-welcome-doormat-notebook-rug-508fa38fe3",
+      "revision": "1",
+      "title_proposed": "Better With You Classroom Mat",
+      "primary_keyword": "Better With You classroom mat",
+      "evidence_id": "B031-302"
+    },
+    {
+      "product_key": "personalized-classroom-doormat-with-custom-teacher-name-675f2e0900",
+      "canonical_product_key": "chillgen.com::personalized-classroom-doormat-with-custom-teacher-name-675f2e0900",
+      "Handle": "personalized-classroom-doormat-with-custom-teacher-name-675f2e0900",
+      "url": "https://chillgen.com/products/personalized-classroom-doormat-with-custom-teacher-name-675f2e0900",
+      "revision": "1",
+      "title_proposed": "Happy To See Your Face Mat",
+      "primary_keyword": "Happy To See Your Face mat",
+      "evidence_id": "B031-303"
+    },
+    {
+      "product_key": "personalized-classroom-welcome-doormat-2820e17d05-2820e17d05",
+      "canonical_product_key": "chillgen.com::personalized-classroom-welcome-doormat-2820e17d05-2820e17d05",
+      "Handle": "personalized-classroom-welcome-doormat-2820e17d05-2820e17d05",
+      "url": "https://chillgen.com/products/personalized-classroom-welcome-doormat-2820e17d05-2820e17d05",
+      "revision": "1",
+      "title_proposed": "Red Doodle Classroom Mat",
+      "primary_keyword": "red doodle classroom mat",
+      "evidence_id": "B031-304"
+    },
+    {
+      "product_key": "personalized-classroom-doormat-welcome-to-class-door-mat-1086025b51",
+      "canonical_product_key": "chillgen.com::personalized-classroom-doormat-welcome-to-class-door-mat-1086025b51",
+      "Handle": "personalized-classroom-doormat-welcome-to-class-door-mat-1086025b51",
+      "url": "https://chillgen.com/products/personalized-classroom-doormat-welcome-to-class-door-mat-1086025b51",
+      "revision": "1",
+      "title_proposed": "Green Classroom Doormat",
+      "primary_keyword": "green classroom doormat",
+      "evidence_id": "B031-305"
+    },
+    {
+      "product_key": "personalized-classroom-doormat-custom-teacher-name-753f4f3532-753f4f3532",
+      "canonical_product_key": "chillgen.com::personalized-classroom-doormat-custom-teacher-name-753f4f3532-753f4f3532",
+      "Handle": "personalized-classroom-doormat-custom-teacher-name-753f4f3532-753f4f3532",
+      "url": "https://chillgen.com/products/personalized-classroom-doormat-custom-teacher-name-753f4f3532-753f4f3532",
+      "revision": "1",
+      "title_proposed": "You Are Classroom Mat",
+      "primary_keyword": "You Are classroom mat",
+      "evidence_id": "B031-306"
+    },
+    {
+      "product_key": "personalized-classroom-welcome-doormat-3d9f3ec373",
+      "canonical_product_key": "chillgen.com::personalized-classroom-welcome-doormat-3d9f3ec373",
+      "Handle": "personalized-classroom-welcome-doormat-3d9f3ec373",
+      "url": "https://chillgen.com/products/personalized-classroom-welcome-doormat-3d9f3ec373",
+      "revision": "1",
+      "title_proposed": "Everyone Welcome Here Mat",
+      "primary_keyword": "Everyone Welcome Here mat",
+      "evidence_id": "B031-307"
+    },
+    {
+      "product_key": "personalized-classroom-doormat-teacher-notebook-a1ca00cc38-a1ca00cc38",
+      "canonical_product_key": "chillgen.com::personalized-classroom-doormat-teacher-notebook-a1ca00cc38-a1ca00cc38",
+      "Handle": "personalized-classroom-doormat-teacher-notebook-a1ca00cc38-a1ca00cc38",
+      "url": "https://chillgen.com/products/personalized-classroom-doormat-teacher-notebook-a1ca00cc38-a1ca00cc38",
+      "revision": "1",
+      "title_proposed": "Pastel Teacher Notebook Mat",
+      "primary_keyword": "pastel teacher notebook mat",
+      "evidence_id": "B031-308"
+    },
+    {
+      "product_key": "personalized-classroom-doormat-welcome-to-class-door-mat-a74c09137b",
+      "canonical_product_key": "chillgen.com::personalized-classroom-doormat-welcome-to-class-door-mat-a74c09137b",
+      "Handle": "personalized-classroom-doormat-welcome-to-class-door-mat-a74c09137b",
+      "url": "https://chillgen.com/products/personalized-classroom-doormat-welcome-to-class-door-mat-a74c09137b",
+      "revision": "1",
+      "title_proposed": "School Doodle Welcome Mat",
+      "primary_keyword": "school doodle welcome mat",
+      "evidence_id": "B031-309"
+    },
+    {
+      "product_key": "personalized-classroom-doormat-with-custom-teacher-name-ae6fef4505-ae6fef4505",
+      "canonical_product_key": "chillgen.com::personalized-classroom-doormat-with-custom-teacher-name-ae6fef4505-ae6fef4505",
+      "Handle": "personalized-classroom-doormat-with-custom-teacher-name-ae6fef4505-ae6fef4505",
+      "url": "https://chillgen.com/products/personalized-classroom-doormat-with-custom-teacher-name-ae6fef4505-ae6fef4505",
+      "revision": "1",
+      "title_proposed": "Sunflower Classroom Welcome Mat",
+      "primary_keyword": "sunflower classroom welcome mat",
+      "evidence_id": "B031-310"
+    }
+  ]
+}

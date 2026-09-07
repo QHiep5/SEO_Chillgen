@@ -1,0 +1,136 @@
+{
+  "qa_batch_id": "B047",
+  "expected_revision": "1",
+  "product_count": 10,
+  "product_keys": [
+    "custom-golf-area-rug-living-room-mat-51b65f4454",
+    "custom-golf-area-rug-living-room-mat-f6f3c16862",
+    "custom-golf-area-rug-fd79165e9f-fd79165e9f",
+    "custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8",
+    "custom-mathematics-education-rug-80ab855e16-80ab855e16",
+    "custom-mathematics-education-classroom-playroom-rug-0f607da0b3",
+    "custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960",
+    "custom-mathematics-classroom-rug-ec81d3501a",
+    "custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95",
+    "custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::custom-golf-area-rug-living-room-mat-51b65f4454",
+    "chillgen.com::custom-golf-area-rug-living-room-mat-f6f3c16862",
+    "chillgen.com::custom-golf-area-rug-fd79165e9f-fd79165e9f",
+    "chillgen.com::custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8",
+    "chillgen.com::custom-mathematics-education-rug-80ab855e16-80ab855e16",
+    "chillgen.com::custom-mathematics-education-classroom-playroom-rug-0f607da0b3",
+    "chillgen.com::custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960",
+    "chillgen.com::custom-mathematics-classroom-rug-ec81d3501a",
+    "chillgen.com::custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95",
+    "chillgen.com::custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B047\\progress_B047_for_QA.json",
+  "created_at": "2026-09-07T19:37:58+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "custom-golf-area-rug-living-room-mat-51b65f4454",
+      "canonical_product_key": "chillgen.com::custom-golf-area-rug-living-room-mat-51b65f4454",
+      "Handle": "custom-golf-area-rug-living-room-mat-51b65f4454",
+      "url": "https://chillgen.com/products/custom-golf-area-rug-living-room-mat-51b65f4454",
+      "revision": "1",
+      "title_proposed": "Patriotic Golf Area Rug with Flag and Club Design",
+      "primary_keyword": "patriotic golf area rug",
+      "evidence_id": "B047-461"
+    },
+    {
+      "product_key": "custom-golf-area-rug-living-room-mat-f6f3c16862",
+      "canonical_product_key": "chillgen.com::custom-golf-area-rug-living-room-mat-f6f3c16862",
+      "Handle": "custom-golf-area-rug-living-room-mat-f6f3c16862",
+      "url": "https://chillgen.com/products/custom-golf-area-rug-living-room-mat-f6f3c16862",
+      "revision": "1",
+      "title_proposed": "Personalized Golf Course Rug with Name",
+      "primary_keyword": "personalized golf course rug",
+      "evidence_id": "B047-462"
+    },
+    {
+      "product_key": "custom-golf-area-rug-fd79165e9f-fd79165e9f",
+      "canonical_product_key": "chillgen.com::custom-golf-area-rug-fd79165e9f-fd79165e9f",
+      "Handle": "custom-golf-area-rug-fd79165e9f-fd79165e9f",
+      "url": "https://chillgen.com/products/custom-golf-area-rug-fd79165e9f-fd79165e9f",
+      "revision": "1",
+      "title_proposed": "Custom Golf Club Rug with Family Name",
+      "primary_keyword": "custom golf club rug",
+      "evidence_id": "B047-463"
+    },
+    {
+      "product_key": "custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8",
+      "canonical_product_key": "chillgen.com::custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8",
+      "Handle": "custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8",
+      "url": "https://chillgen.com/products/custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8",
+      "revision": "1",
+      "title_proposed": "Golf Lover 19th Hole Rug with Custom Name",
+      "primary_keyword": "Golf Lover 19th Hole rug",
+      "evidence_id": "B047-464"
+    },
+    {
+      "product_key": "custom-mathematics-education-rug-80ab855e16-80ab855e16",
+      "canonical_product_key": "chillgen.com::custom-mathematics-education-rug-80ab855e16-80ab855e16",
+      "Handle": "custom-mathematics-education-rug-80ab855e16-80ab855e16",
+      "url": "https://chillgen.com/products/custom-mathematics-education-rug-80ab855e16-80ab855e16",
+      "revision": "1",
+      "title_proposed": "Custom MATH Acronym Classroom Rug with Name",
+      "primary_keyword": "custom MATH acronym classroom rug",
+      "evidence_id": "B047-465"
+    },
+    {
+      "product_key": "custom-mathematics-education-classroom-playroom-rug-0f607da0b3",
+      "canonical_product_key": "chillgen.com::custom-mathematics-education-classroom-playroom-rug-0f607da0b3",
+      "Handle": "custom-mathematics-education-classroom-playroom-rug-0f607da0b3",
+      "url": "https://chillgen.com/products/custom-mathematics-education-classroom-playroom-rug-0f607da0b3",
+      "revision": "1",
+      "title_proposed": "Personalized Math Symbols Rug for Classroom",
+      "primary_keyword": "personalized Math Symbols rug",
+      "evidence_id": "B047-466"
+    },
+    {
+      "product_key": "custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960",
+      "canonical_product_key": "chillgen.com::custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960",
+      "Handle": "custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960",
+      "url": "https://chillgen.com/products/custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960",
+      "revision": "1",
+      "title_proposed": "Custom Mathlife Classroom Rug with Hashtag Rules",
+      "primary_keyword": "custom Mathlife classroom rug",
+      "evidence_id": "B047-467"
+    },
+    {
+      "product_key": "custom-mathematics-classroom-rug-ec81d3501a",
+      "canonical_product_key": "chillgen.com::custom-mathematics-classroom-rug-ec81d3501a",
+      "Handle": "custom-mathematics-classroom-rug-ec81d3501a",
+      "url": "https://chillgen.com/products/custom-mathematics-classroom-rug-ec81d3501a",
+      "revision": "1",
+      "title_proposed": "Personalized Good Day to Do Math Rug",
+      "primary_keyword": "personalized Good Day to Do Math rug",
+      "evidence_id": "B047-468"
+    },
+    {
+      "product_key": "custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95",
+      "canonical_product_key": "chillgen.com::custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95",
+      "Handle": "custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95",
+      "url": "https://chillgen.com/products/custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95",
+      "revision": "1",
+      "title_proposed": "Custom Why Math Classroom Rug with Teacher Name",
+      "primary_keyword": "custom Why Math classroom rug",
+      "evidence_id": "B047-469"
+    },
+    {
+      "product_key": "custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02",
+      "canonical_product_key": "chillgen.com::custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02",
+      "Handle": "custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02",
+      "url": "https://chillgen.com/products/custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02",
+      "revision": "1",
+      "title_proposed": "Personalized Math Key Words Classroom Rug",
+      "primary_keyword": "personalized Math Key Words rug",
+      "evidence_id": "B047-470"
+    }
+  ]
+}

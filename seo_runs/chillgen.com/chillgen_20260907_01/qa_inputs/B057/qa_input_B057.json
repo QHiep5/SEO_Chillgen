@@ -1,0 +1,124 @@
+{
+  "qa_batch_id": "B057",
+  "expected_revision": "1",
+  "product_count": 9,
+  "product_keys": [
+    "custom-golf-area-rug-d8623da216",
+    "custom-octopus-welcome-mat-87bf0d33b5",
+    "custom-octopus-welcome-mat-entryway-464c692e0a",
+    "custom-octopus-welcome-mat-for-front-door-cf228fd538",
+    "custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da",
+    "custom-octopus-coastal-welcome-mat-330b515744",
+    "custom-octopus-coastal-welcome-mat-2e91144f8b",
+    "custom-octopus-welcome-mat-coastal-front-door-5012959a0b",
+    "personalized-teacher-round-rug-with-name-0e0fa122bd"
+  ],
+  "canonical_product_keys": [
+    "chillgen.com::custom-golf-area-rug-d8623da216",
+    "chillgen.com::custom-octopus-welcome-mat-87bf0d33b5",
+    "chillgen.com::custom-octopus-welcome-mat-entryway-464c692e0a",
+    "chillgen.com::custom-octopus-welcome-mat-for-front-door-cf228fd538",
+    "chillgen.com::custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da",
+    "chillgen.com::custom-octopus-coastal-welcome-mat-330b515744",
+    "chillgen.com::custom-octopus-coastal-welcome-mat-2e91144f8b",
+    "chillgen.com::custom-octopus-welcome-mat-coastal-front-door-5012959a0b",
+    "chillgen.com::personalized-teacher-round-rug-with-name-0e0fa122bd"
+  ],
+  "source_workbook": "SEO_Chillgen\\resutls\\chillgen.com\\chillgen_20260907_01\\SEO_Product_Optimization.xlsx",
+  "source_workbook_sha256": "164f695cf6e9e171d70070ab3bbe86719f7d3081226c67e3017082829b93e5b7",
+  "progress_for_qa": "SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\qa_inputs\\B057\\progress_B057_for_QA.json",
+  "created_at": "2026-09-07T19:37:55+07:00",
+  "status": "READY_FOR_QA_INPUT_GATE",
+  "products": [
+    {
+      "product_key": "custom-golf-area-rug-d8623da216",
+      "canonical_product_key": "chillgen.com::custom-golf-area-rug-d8623da216",
+      "Handle": "custom-golf-area-rug-d8623da216",
+      "url": "https://chillgen.com/products/custom-golf-area-rug-d8623da216",
+      "revision": "1",
+      "title_proposed": "Personalized Golf Area Rug for Home Office",
+      "primary_keyword": "personalized golf area rug",
+      "evidence_id": "B057-561"
+    },
+    {
+      "product_key": "custom-octopus-welcome-mat-87bf0d33b5",
+      "canonical_product_key": "chillgen.com::custom-octopus-welcome-mat-87bf0d33b5",
+      "Handle": "custom-octopus-welcome-mat-87bf0d33b5",
+      "url": "https://chillgen.com/products/custom-octopus-welcome-mat-87bf0d33b5",
+      "revision": "1",
+      "title_proposed": "Octopus Skull Coastal Area Rug",
+      "primary_keyword": "octopus skull rug",
+      "evidence_id": "B057-562"
+    },
+    {
+      "product_key": "custom-octopus-welcome-mat-entryway-464c692e0a",
+      "canonical_product_key": "chillgen.com::custom-octopus-welcome-mat-entryway-464c692e0a",
+      "Handle": "custom-octopus-welcome-mat-entryway-464c692e0a",
+      "url": "https://chillgen.com/products/custom-octopus-welcome-mat-entryway-464c692e0a",
+      "revision": "1",
+      "title_proposed": "Blue Octopus Tentacle Area Rug",
+      "primary_keyword": "blue octopus tentacle rug",
+      "evidence_id": "B057-563"
+    },
+    {
+      "product_key": "custom-octopus-welcome-mat-for-front-door-cf228fd538",
+      "canonical_product_key": "chillgen.com::custom-octopus-welcome-mat-for-front-door-cf228fd538",
+      "Handle": "custom-octopus-welcome-mat-for-front-door-cf228fd538",
+      "url": "https://chillgen.com/products/custom-octopus-welcome-mat-for-front-door-cf228fd538",
+      "revision": "1",
+      "title_proposed": "Octopus Mandala Coastal Area Rug",
+      "primary_keyword": "octopus mandala rug",
+      "evidence_id": "B057-564"
+    },
+    {
+      "product_key": "custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da",
+      "canonical_product_key": "chillgen.com::custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da",
+      "Handle": "custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da",
+      "url": "https://chillgen.com/products/custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da",
+      "revision": "1",
+      "title_proposed": "Red Octopus Mosaic Area Rug",
+      "primary_keyword": "red octopus mosaic rug",
+      "evidence_id": "B057-565"
+    },
+    {
+      "product_key": "custom-octopus-coastal-welcome-mat-330b515744",
+      "canonical_product_key": "chillgen.com::custom-octopus-coastal-welcome-mat-330b515744",
+      "Handle": "custom-octopus-coastal-welcome-mat-330b515744",
+      "url": "https://chillgen.com/products/custom-octopus-coastal-welcome-mat-330b515744",
+      "revision": "1",
+      "title_proposed": "Vintage Cream Octopus Coastal Rug",
+      "primary_keyword": "vintage octopus coastal rug",
+      "evidence_id": "B057-566"
+    },
+    {
+      "product_key": "custom-octopus-coastal-welcome-mat-2e91144f8b",
+      "canonical_product_key": "chillgen.com::custom-octopus-coastal-welcome-mat-2e91144f8b",
+      "Handle": "custom-octopus-coastal-welcome-mat-2e91144f8b",
+      "url": "https://chillgen.com/products/custom-octopus-coastal-welcome-mat-2e91144f8b",
+      "revision": "1",
+      "title_proposed": "Watercolor Octopus Coastal Area Rug",
+      "primary_keyword": "watercolor octopus rug",
+      "evidence_id": "B057-567"
+    },
+    {
+      "product_key": "custom-octopus-welcome-mat-coastal-front-door-5012959a0b",
+      "canonical_product_key": "chillgen.com::custom-octopus-welcome-mat-coastal-front-door-5012959a0b",
+      "Handle": "custom-octopus-welcome-mat-coastal-front-door-5012959a0b",
+      "url": "https://chillgen.com/products/custom-octopus-welcome-mat-coastal-front-door-5012959a0b",
+      "revision": "1",
+      "title_proposed": "Teal Octopus Coastal Area Rug",
+      "primary_keyword": "teal octopus coastal rug",
+      "evidence_id": "B057-568"
+    },
+    {
+      "product_key": "personalized-teacher-round-rug-with-name-0e0fa122bd",
+      "canonical_product_key": "chillgen.com::personalized-teacher-round-rug-with-name-0e0fa122bd",
+      "Handle": "personalized-teacher-round-rug-with-name-0e0fa122bd",
+      "url": "https://chillgen.com/products/personalized-teacher-round-rug-with-name-0e0fa122bd",
+      "revision": "1",
+      "title_proposed": "Personalized Teacher Round Classroom Rug",
+      "primary_keyword": "personalized teacher round rug",
+      "evidence_id": "B057-569"
+    }
+  ]
+}
