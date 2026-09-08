@@ -254,6 +254,15 @@ def main():
         unsupported = [term for term in ["outdoor", "waterproof", "machine washable", "non-slip", "anti-slip"] if term in blob and term not in (val(ev, "verified_product_facts") + " " + val(ev, "short_source_excerpt")).lower()]
         if unsupported:
             issue("MAJOR", "proposed_fields", ", ".join(unsupported), "Potential product claim is not supported by the linked evidence record.", "Remove or verify each claim against the source/export before approval.")
+        # Record known evidence limitations explicitly.  They do not lower a
+        # product to REVISE by themselves, but must remain visible for audit.
+        demand_note = val(p, "keyword_demand_evidence").lower()
+        if demand_note and ("serp" in demand_note or "no paid volume" in demand_note or "no volume" in demand_note) and "volume verified" not in demand_note:
+            issues.append([f"{revision}-QA-LK3-{handle[:20]}", handle, "", "LIMITATION", "K3", "SERP_ONLY/no_volume", "Only public SERP or semantic evidence is available; demand volume is not verified.", "", "Obtain Search Console or a cited keyword source if demand verification is required.", refs, "Re-run if stronger demand evidence is added."])
+        export_state = val(p, "source_exported_at").strip().lower()
+        export_ref = val(p, "source_export_ref").lower()
+        if not val(p, "source_export_ref") or not val(p, "source_exported_at") or export_state in {"unknown", "unknown_public_json_capture"} or "admin" not in export_ref and "export" not in export_ref:
+            issues.append([f"{revision}-QA-LADMIN-{handle[:20]}", handle, "", "LIMITATION", "admin/export", "before_state_required", "Admin/export before-state is not supplied in this research workbook.", "", "Capture and reconcile Shopify admin/export values before deployment.", refs, "Recheck during implementation QA."])
 
         criteria = []
         criterion_review = manual_criteria.get(handle, {}) if isinstance(manual_criteria, dict) and handle not in invalid_criteria_handles else {}

@@ -1,0 +1,63 @@
+{
+  "audit_version": "clean-batch-final-audit-v1",
+  "audited_at": "2026-09-09",
+  "batches": [
+    {
+      "batch": "B001",
+      "scope_products_expected": 10,
+      "scope_products_reported": 10,
+      "scope_images": 80,
+      "qa_status": "QA_PASS",
+      "qa_pass": 10,
+      "score": 97.5,
+      "reviewer_id": "independent-reviewer-b001",
+      "reviewer_id_ok": true,
+      "reasons_unique": true,
+      "image_evidence_complete": true,
+      "limitation_rows": 20,
+      "timestamp_date": "2026-09-09",
+      "effective_revisions": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "batch": "B002",
+      "scope_products_expected": 10,
+      "scope_products_reported": 10,
+      "scope_images": 79,
+      "qa_status": "QA_PASS",
+      "qa_pass": 10,
+      "score": 97.5,
+      "reviewer_id": "independent-reviewer-b002",
+      "reviewer_id_ok": true,
+      "reasons_unique": true,
+      "image_evidence_complete": true,
+      "limitation_rows": 20,
+      "timestamp_date": "2026-09-09",
+      "effective_revisions": [
+        "1",
+        "2"
+      ]
+    },
+    {
+      "batch": "B003",
+      "scope_products_expected": 10,
+      "scope_products_reported": 10,
+      "scope_images": 80,
+      "qa_status": "QA_PASS",
+      "qa_pass": 10,
+      "score": 97.5,
+      "reviewer_id": "independent-reviewer-b003",
+      "reviewer_id_ok": true,
+      "reasons_unique": true,
+      "image_evidence_complete": true,
+      "limitation_rows": 20,
+      "timestamp_date": "2026-09-09",
+      "effective_revisions": [
+        "1"
+      ]
+    }
+  ],
+  "overall_ready_for_human_review": true
+}

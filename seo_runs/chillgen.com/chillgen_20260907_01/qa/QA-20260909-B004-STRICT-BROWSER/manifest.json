@@ -1,0 +1,29 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260909-B004-STRICT-BROWSER",
+  "qa_batch_id": "REV_B004",
+  "source_workbook": "seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B004_scope_workbook.xlsx",
+  "source_workbook_sha256": "750731892dafdadda846b48cdfd47541cf1901a65166acc36e5ea1d0a8bc5209",
+  "batch_product_keys": [
+    "personalized-witch-area-rug-with-name-custom-halloween-r-design-05",
+    "personalized-witch-area-rug-with-name-custom-halloween-r-design-09",
+    "personalized-witch-area-rug-with-name-custom-halloween-r-design-04",
+    "personalized-witch-area-rug-with-name-custom-halloween-r-design-02",
+    "personalized-witch-area-rug-with-name-custom-halloween-r-design-06",
+    "personalized-witch-area-rug-with-name-custom-halloween-r-design-08",
+    "personalized-witch-area-rug-with-name-custom-halloween-r-design-10",
+    "personalized-witch-area-rug-with-name-custom-halloween-r-design-01",
+    "personalized-witch-area-rug-with-name-custom-halloween-r-design-12",
+    "personalized-witch-area-rug-with-name-custom-halloween-r-design-11"
+  ],
+  "status_counts": {
+    "QA_PASS": 10,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_PASS",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/qa/B004_STRICT_BROWSER_20260909/reviewer_evidence_browser_rendered.json",
+  "manual_criteria_evidence": "seo_runs/chillgen.com/manual-20260909-033000-REVIEW-B004/criteria_evidence_compliant.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

@@ -1,0 +1,928 @@
+{
+  "schema_version": "qa-criteria-evidence-v1",
+  "revision": "B002",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "reviewed_at": "2026-09-11T00:45:00+07:00",
+  "products": {
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-04": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "Reviewed product identity, type and design against live page/evidence; proposed title 'Tentacle Pit Halloween Optical Illusion Round Rug' matches the item.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "Reviewed proposed claims against linked verified facts; no unsupported material or performance claim remains.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "Reviewed mapped primary keyword and purchase situation; long-tail intent is specific to this product.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "Reviewed representative SERP references and page intent; product-page targeting is appropriate.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "Only public SERP/category evidence is available; no first-party volume or Search Console data is supplied.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "Reviewed SEO title for natural English, product identity and differentiating design: 'Tentacle Pit Halloween Optical Illusion Round Rug'.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "Reviewed Product Title/H1 independently from SEO title; naming is consistent with the product.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "Reviewed complete meta description for specificity, readability and supported purchase context.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "Reviewed complete customer-facing HTML description; no internal QA/process language remains.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "Reviewed workbook revision log, evidence linkage, source map and live snapshot consistency.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      }
+    },
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-14": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "Reviewed product identity, type and design against live page/evidence; proposed title 'Haunted Village Halloween Round Rug' matches the item.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "Reviewed proposed claims against linked verified facts; no unsupported material or performance claim remains.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "Reviewed mapped primary keyword and purchase situation; long-tail intent is specific to this product.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "Reviewed representative SERP references and page intent; product-page targeting is appropriate.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "Only public SERP/category evidence is available; no first-party volume or Search Console data is supplied.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "Reviewed SEO title for natural English, product identity and differentiating design: 'Haunted Village Halloween Round Rug'.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "Reviewed Product Title/H1 independently from SEO title; naming is consistent with the product.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "Reviewed complete meta description for specificity, readability and supported purchase context.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "Reviewed complete customer-facing HTML description; no internal QA/process language remains.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "Reviewed workbook revision log, evidence linkage, source map and live snapshot consistency.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      }
+    },
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-05": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "Reviewed product identity, type and design against live page/evidence; proposed title 'Blue Haunted Forest Halloween Round Rug' matches the item.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "Reviewed proposed claims against linked verified facts; no unsupported material or performance claim remains.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "Reviewed mapped primary keyword and purchase situation; long-tail intent is specific to this product.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "Reviewed representative SERP references and page intent; product-page targeting is appropriate.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "Only public SERP/category evidence is available; no first-party volume or Search Console data is supplied.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "Reviewed SEO title for natural English, product identity and differentiating design: 'Blue Haunted Forest Halloween Round Rug'.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "Reviewed Product Title/H1 independently from SEO title; naming is consistent with the product.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "Reviewed complete meta description for specificity, readability and supported purchase context.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "Reviewed complete customer-facing HTML description; no internal QA/process language remains.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "Reviewed workbook revision log, evidence linkage, source map and live snapshot consistency.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      }
+    },
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-01": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "Reviewed product identity, type and design against live page/evidence; proposed title 'Jack-O-Lantern Monster Halloween Round Rug' matches the item.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "Reviewed proposed claims against linked verified facts; no unsupported material or performance claim remains.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "Reviewed mapped primary keyword and purchase situation; long-tail intent is specific to this product.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "Reviewed representative SERP references and page intent; product-page targeting is appropriate.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "Only public SERP/category evidence is available; no first-party volume or Search Console data is supplied.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "Reviewed SEO title for natural English, product identity and differentiating design: 'Jack-O-Lantern Monster Halloween Round Rug'.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "Reviewed Product Title/H1 independently from SEO title; naming is consistent with the product.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "Reviewed complete meta description for specificity, readability and supported purchase context.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "Reviewed complete customer-facing HTML description; no internal QA/process language remains.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "Reviewed workbook revision log, evidence linkage, source map and live snapshot consistency.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      }
+    },
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-08": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "Reviewed product identity, type and design against live page/evidence; proposed title 'Lava Vortex Halloween Round Rug' matches the item.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "Reviewed proposed claims against linked verified facts; no unsupported material or performance claim remains.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "Reviewed mapped primary keyword and purchase situation; long-tail intent is specific to this product.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "Reviewed representative SERP references and page intent; product-page targeting is appropriate.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "Only public SERP/category evidence is available; no first-party volume or Search Console data is supplied.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "Reviewed SEO title for natural English, product identity and differentiating design: 'Lava Vortex Halloween Round Rug'.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "Reviewed Product Title/H1 independently from SEO title; naming is consistent with the product.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "Reviewed complete meta description for specificity, readability and supported purchase context.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "Reviewed complete customer-facing HTML description; no internal QA/process language remains.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "Reviewed workbook revision log, evidence linkage, source map and live snapshot consistency.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      }
+    },
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-03": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "Reviewed product identity, type and design against live page/evidence; proposed title 'Ghost Well Halloween Optical Illusion Rug' matches the item.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "Reviewed proposed claims against linked verified facts; no unsupported material or performance claim remains.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "Reviewed mapped primary keyword and purchase situation; long-tail intent is specific to this product.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "Reviewed representative SERP references and page intent; product-page targeting is appropriate.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "Only public SERP/category evidence is available; no first-party volume or Search Console data is supplied.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "Reviewed SEO title for natural English, product identity and differentiating design: 'Ghost Well Halloween Optical Illusion Rug'.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "Reviewed Product Title/H1 independently from SEO title; naming is consistent with the product.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "Reviewed complete meta description for specificity, readability and supported purchase context.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "Reviewed complete customer-facing HTML description; no internal QA/process language remains.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "Reviewed workbook revision log, evidence linkage, source map and live snapshot consistency.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      }
+    },
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-10": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "Reviewed product identity, type and design against live page/evidence; proposed title 'Pumpkin Head Monster Halloween Round Rug' matches the item.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "Reviewed proposed claims against linked verified facts; no unsupported material or performance claim remains.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "Reviewed mapped primary keyword and purchase situation; long-tail intent is specific to this product.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "Reviewed representative SERP references and page intent; product-page targeting is appropriate.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "Only public SERP/category evidence is available; no first-party volume or Search Console data is supplied.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "Reviewed SEO title for natural English, product identity and differentiating design: 'Pumpkin Head Monster Halloween Round Rug'.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "Reviewed Product Title/H1 independently from SEO title; naming is consistent with the product.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "Reviewed complete meta description for specificity, readability and supported purchase context.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "Reviewed complete customer-facing HTML description; no internal QA/process language remains.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "Reviewed workbook revision log, evidence linkage, source map and live snapshot consistency.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      }
+    },
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-07": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "Reviewed product identity, type and design against live page/evidence; proposed title 'Spider Cave Halloween Optical Illusion Rug' matches the item.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "Reviewed proposed claims against linked verified facts; no unsupported material or performance claim remains.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "Reviewed mapped primary keyword and purchase situation; long-tail intent is specific to this product.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "Reviewed representative SERP references and page intent; product-page targeting is appropriate.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "Only public SERP/category evidence is available; no first-party volume or Search Console data is supplied.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "Reviewed SEO title for natural English, product identity and differentiating design: 'Spider Cave Halloween Optical Illusion Rug'.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "Reviewed Product Title/H1 independently from SEO title; naming is consistent with the product.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "Reviewed complete meta description for specificity, readability and supported purchase context.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "Reviewed complete customer-facing HTML description; no internal QA/process language remains.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "Reviewed workbook revision log, evidence linkage, source map and live snapshot consistency.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      }
+    },
+    "personalized-halloween-3d-optical-illusion-ghost-round-rug-a07": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "Reviewed product identity, type and design against live page/evidence; proposed title 'Ghost Stairwell Halloween Round Rug' matches the item.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "Reviewed proposed claims against linked verified facts; no unsupported material or performance claim remains.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "Reviewed mapped primary keyword and purchase situation; long-tail intent is specific to this product.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "Reviewed representative SERP references and page intent; product-page targeting is appropriate.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "Only public SERP/category evidence is available; no first-party volume or Search Console data is supplied.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "Reviewed SEO title for natural English, product identity and differentiating design: 'Ghost Stairwell Halloween Round Rug'.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "Reviewed Product Title/H1 independently from SEO title; naming is consistent with the product.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "Reviewed complete meta description for specificity, readability and supported purchase context.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "Reviewed complete customer-facing HTML description; no internal QA/process language remains.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "Reviewed workbook revision log, evidence linkage, source map and live snapshot consistency.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      }
+    },
+    "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-12": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "Reviewed product identity, type and design against live page/evidence; proposed title 'Lava Skeleton Halloween Round Rug with Pit Illusion' matches the item.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "Reviewed proposed claims against linked verified facts; no unsupported material or performance claim remains.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "Reviewed mapped primary keyword and purchase situation; long-tail intent is specific to this product.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "Reviewed representative SERP references and page intent; product-page targeting is appropriate.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "Only public SERP/category evidence is available; no first-party volume or Search Console data is supplied.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "Reviewed SEO title for natural English, product identity and differentiating design: 'Lava Skeleton Halloween Round Rug with Pit Illusion'.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "Reviewed Product Title/H1 independently from SEO title; naming is consistent with the product.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "Reviewed complete meta description for specificity, readability and supported purchase context.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "Reviewed complete customer-facing HTML description; no internal QA/process language remains.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "Reviewed workbook revision log, evidence linkage, source map and live snapshot consistency.",
+        "evidence_refs": [
+          "workbook:seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision3.xlsx",
+          "revision_log:B002",
+          "live_snapshot:seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053"
+        ]
+      }
+    }
+  }
+}

@@ -1,14 +1,19 @@
 {
   "lock_version": "qa-pipeline-lock-v1",
-  "locked_at": "2026-09-11T07:30:00+07:00",
+  "locked_at": "2026-09-09T02:30:00+07:00",
   "rubric_path": "/Users/buiquanghuy/Documents/seo_chillgen/seo-prompt/chillgen/prompt_qa.md",
   "rubric_sha256": "caeacb83a45638bcffc03ce1d2daf1fc9e915f417ada6b66eb706284283ea96c",
   "generator_path": "/Users/buiquanghuy/Documents/seo_chillgen/scripts/run_reqa_evidence_driven.py",
-  "generator_sha256": "370e7ded0a55bc003a8e31a97d2a17885dbb0578bcafa7199dc0acdcb9b305c8",
+  "generator_sha256": "9df8ae36fb465e121efec3b2630dafe89baace9ca8ed96d8afded039f9dfebe4",
   "capture_path": "/Users/buiquanghuy/Documents/seo_chillgen/scripts/capture_independent_evidence.py",
   "capture_sha256": "a99909a357c1ea9f427b01c0fa005a852d2072373c8502cb7e5fc9cdf72bf7a6",
   "criteria_schema": "qa-criteria-evidence-v1",
+  "criteria_builder_path": "/Users/buiquanghuy/Documents/seo_chillgen/scripts/build_compliant_criteria_evidence.py",
+  "criteria_builder_sha256": "b1d7579e16e19e689234c1526657917dff9359ce05a590d6744f1bec1723f8b4",
   "image_schema": "IM1-IM4",
-  "status": "LOCKED_AFTER_B001_COMPLIANT_QA",
-  "b001_qa_run_id": "QA-20260911-070000-BATCH-B001-COMPLIANT"
+  "status": "LOCKED_AFTER_MANUAL_B001_B003_AUDIT",
+  "clean_audit_manifest": "/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa/clean_batches_final_audit.json",
+  "b001_qa_run_id": "QA-20260909-030000-BATCH-B001-MANUAL",
+  "b002_qa_run_id": "QA-20260909-031000-BATCH-B002-MANUAL",
+  "b003_qa_run_id": "QA-20260909-031100-BATCH-B003-MANUAL"
 }
