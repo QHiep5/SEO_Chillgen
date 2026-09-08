@@ -1,0 +1,14 @@
+{
+  "lock_version": "qa-pipeline-lock-v1",
+  "locked_at": "2026-09-11T07:30:00+07:00",
+  "rubric_path": "/Users/buiquanghuy/Documents/seo_chillgen/seo-prompt/chillgen/prompt_qa.md",
+  "rubric_sha256": "caeacb83a45638bcffc03ce1d2daf1fc9e915f417ada6b66eb706284283ea96c",
+  "generator_path": "/Users/buiquanghuy/Documents/seo_chillgen/scripts/run_reqa_evidence_driven.py",
+  "generator_sha256": "370e7ded0a55bc003a8e31a97d2a17885dbb0578bcafa7199dc0acdcb9b305c8",
+  "capture_path": "/Users/buiquanghuy/Documents/seo_chillgen/scripts/capture_independent_evidence.py",
+  "capture_sha256": "a99909a357c1ea9f427b01c0fa005a852d2072373c8502cb7e5fc9cdf72bf7a6",
+  "criteria_schema": "qa-criteria-evidence-v1",
+  "image_schema": "IM1-IM4",
+  "status": "LOCKED_AFTER_B001_COMPLIANT_QA",
+  "b001_qa_run_id": "QA-20260911-070000-BATCH-B001-COMPLIANT"
+}

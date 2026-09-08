@@ -1,0 +1,28 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260909-133000-REV-R012",
+  "qa_batch_id": "REV_R012",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R012/SEO_Product_Optimization_revision_R012.xlsx",
+  "source_workbook_sha256": "f25f9dbf881a67ea47b83b2b96f42ddb014e71407af7f341cb52c84971cfed0d",
+  "batch_product_keys": [
+    "custom-running-horse-welcome-mat-60ae7781a9",
+    "custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1",
+    "custom-galaxy-wolves-rug-boy-room-e0ded989b1",
+    "custom-bear-paw-print-area-rug-a5abc100ab",
+    "custom-bear-paw-print-area-rug-7ff5dd63e9",
+    "custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd",
+    "custom-composition-notebook-classroom-rug-for-kids-8106743a5b",
+    "custom-composition-notebook-classroom-rug-7445b86039-7445b86039",
+    "custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3",
+    "custom-celtic-tree-of-life-welcome-mat-1e4bffd67c"
+  ],
+  "status_counts": {
+    "QA_PASS": 2,
+    "QA_REVISE": 8,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_REVISE",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260909_130000-REV-R012/reviewer_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

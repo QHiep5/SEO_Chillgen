@@ -1,0 +1,28 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260910-183000-REV-R074",
+  "qa_batch_id": "REV_R074",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R074/SEO_Product_Optimization_revision_R074.xlsx",
+  "source_workbook_sha256": "cd4686c194011e76756958c166878adc7e7e45ded995a357cd0ef0ce8ecb9af2",
+  "batch_product_keys": [
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-102",
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-104",
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-109",
+    "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100",
+    "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102",
+    "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102"
+  ],
+  "status_counts": {
+    "QA_PASS": 10,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_PASS",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260910_180000-REV-R074/reviewer_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

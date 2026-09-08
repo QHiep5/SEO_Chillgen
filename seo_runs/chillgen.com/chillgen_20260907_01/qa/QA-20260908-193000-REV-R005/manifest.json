@@ -1,0 +1,28 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260908-193000-REV-R005",
+  "qa_batch_id": "REV_R005",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R005/SEO_Product_Optimization_revision_R005.xlsx",
+  "source_workbook_sha256": "4f41ed24b78d2065fa4671279977a50b9b5c61bad6740e482b5c618447979e0c",
+  "batch_product_keys": [
+    "personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5",
+    "colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902",
+    "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a",
+    "personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991",
+    "custom-orthodox-rug-three-bar-cross-byzantine-eagle-d81169235b-d81169235b",
+    "personalized-teachers-classroom-rug-with-custom-name-87d858996b",
+    "custom-octopus-shaped-area-rug-9041fd8f83",
+    "custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a",
+    "custom-octopus-shaped-area-rug-sea-monster-1975158434",
+    "custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12"
+  ],
+  "status_counts": {
+    "QA_PASS": 0,
+    "QA_REVISE": 10,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_REVISE",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/qa/QA-20260908-190000-REV-R005/reviewer_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

@@ -1,0 +1,28 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260909-002000-REV-R007",
+  "qa_batch_id": "REV_R007",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R007/SEO_Product_Optimization_revision_R007.xlsx",
+  "source_workbook_sha256": "7b6052eebe179ed50b41ea432e24bd27d79f448a5fca77cbe0d8dc798e27e65c",
+  "batch_product_keys": [
+    "custom-running-horse-welcome-mat-fade3d1429",
+    "horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd",
+    "custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4",
+    "custom-running-horse-welcome-mat-34b7c38f01",
+    "custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f",
+    "custom-running-horse-welcome-mat-f114a916e7-f114a916e7",
+    "custom-running-horse-welcome-mat-a4c32dbbfa-a4c32dbbfa",
+    "custom-running-horse-area-rug-2f0ce836fd-2f0ce836fd",
+    "western-running-horse-area-rug-02dee68d0b",
+    "custom-running-horse-area-rug-31f0e158c5"
+  ],
+  "status_counts": {
+    "QA_PASS": 0,
+    "QA_REVISE": 10,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_REVISE",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/qa/QA-20260909-000000-REV-R007/reviewer_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

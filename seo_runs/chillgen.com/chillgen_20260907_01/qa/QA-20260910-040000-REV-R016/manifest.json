@@ -1,0 +1,28 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260910-040000-REV-R016",
+  "qa_batch_id": "REV_R016",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R016/SEO_Product_Optimization_revision_R016.xlsx",
+  "source_workbook_sha256": "30d6c7790d8eebcffe2edee6ca435c2acc55eb4a99d380bd006c85d8a77fcf29",
+  "batch_product_keys": [
+    "custom-dragon-shaped-area-rug-personalized-library-western-dragon",
+    "personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04",
+    "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02",
+    "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01",
+    "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03",
+    "personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05",
+    "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01",
+    "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04",
+    "boat-rug-05-boat-rug-05-design-22",
+    "boat-rug-10-boat-rug-10-design-10"
+  ],
+  "status_counts": {
+    "QA_PASS": 4,
+    "QA_REVISE": 6,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_REVISE",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260910_030000-REV-R016/reviewer_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

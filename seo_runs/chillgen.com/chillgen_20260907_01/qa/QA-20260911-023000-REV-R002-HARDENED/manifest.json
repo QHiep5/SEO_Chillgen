@@ -1,0 +1,29 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260911-023000-REV-R002-HARDENED",
+  "qa_batch_id": "REV_R002",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R002/SEO_Product_Optimization_revision_R002.xlsx",
+  "source_workbook_sha256": "bbd4a3b9cb3b3a3abfccfc7977dc85ea9b3fc61bc6929198d3f201a0aeafd655",
+  "batch_product_keys": [
+    "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08",
+    "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical",
+    "boat-rug-04-boat-rug-04",
+    "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102",
+    "wheel-of-feelings-and-emotions-round-rug-educational-mental-health",
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-100",
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-101",
+    "custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848",
+    "custom-composition-notebook-classroom-rug-kids-f215fce7cb",
+    "tree-of-life-celtic-area-rug-d16ac94729"
+  ],
+  "status_counts": {
+    "QA_PASS": 5,
+    "QA_REVISE": 5,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_REVISE",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/qa/QA-20260908-121500-REV-R002/reviewer_evidence_hardened.json",
+  "manual_criteria_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/qa_templates/criteria_evidence_R002.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

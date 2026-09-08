@@ -1,0 +1,28 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260910-100000-REV-R018",
+  "qa_batch_id": "REV_R018",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R018/SEO_Product_Optimization_revision_R018.xlsx",
+  "source_workbook_sha256": "2a9b285fb92bfc4f0d64c917d71a7a61ccddc7fbee275281f6f35a52f0d7cd16",
+  "batch_product_keys": [
+    "personalized-teachers-classroom-rug-custom-teacher-name-c-design-09",
+    "personalized-teachers-classroom-rug-custom-teacher-name-c-design-07",
+    "personalized-teachers-classroom-rug-custom-teacher-name-c-design-05",
+    "personalized-teachers-classroom-rug-custom-teacher-name-c-design-06",
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-101",
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-102",
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-103",
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-104",
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-106",
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-107"
+  ],
+  "status_counts": {
+    "QA_PASS": 0,
+    "QA_REVISE": 10,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_REVISE",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260910_100000-REV-R018/reviewer_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

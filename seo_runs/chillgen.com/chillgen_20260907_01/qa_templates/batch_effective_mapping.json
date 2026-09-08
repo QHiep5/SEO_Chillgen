@@ -1,0 +1,2855 @@
+{
+  "mapping_version": "batch-effective-mapping-v1",
+  "created_at": "2026-09-11T07:30:00+07:00",
+  "source_inventory": "/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/inventory.csv",
+  "batches": {
+    "B001": {
+      "product_count": 10,
+      "product_keys": [
+        "custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-03",
+        "custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-02",
+        "custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-01",
+        "custom-dog-photo-rug-personalized-pet-portrait-area-mat-non-slip",
+        "personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-102",
+        "personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-101",
+        "personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-100",
+        "personalized-halloween-3d-optical-illusion-shaped-rug-a04-a04",
+        "custom-halloween-3d-effect-optical-illusion-spooky-round-rug-d9-d9",
+        "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-06"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-03": [],
+        "custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-02": [],
+        "custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-01": [],
+        "custom-dog-photo-rug-personalized-pet-portrait-area-mat-non-slip": [],
+        "personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-102": [],
+        "personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-101": [],
+        "personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-100": [],
+        "personalized-halloween-3d-optical-illusion-shaped-rug-a04-a04": [],
+        "custom-halloween-3d-effect-optical-illusion-spooky-round-rug-d9-d9": [],
+        "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-06": []
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B002": {
+      "product_count": 10,
+      "product_keys": [
+        "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-04",
+        "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-14",
+        "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-05",
+        "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-01",
+        "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-08",
+        "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-03",
+        "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-10",
+        "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-07",
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-a07",
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-12"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-04": [],
+        "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-14": [],
+        "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-05": [],
+        "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-01": [],
+        "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-08": [],
+        "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-03": [],
+        "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-10": [],
+        "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-07": [],
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-a07": [
+          "R039"
+        ],
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-12": [
+          "R015",
+          "R069"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B003": {
+      "product_count": 10,
+      "product_keys": [
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-05",
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-04",
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-03",
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-11",
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-01",
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-08",
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-09",
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-06",
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-02",
+        "personalized-witch-area-rug-with-name-custom-halloween-rug-black"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-05": [],
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-04": [],
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-03": [],
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-11": [],
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-01": [],
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-08": [],
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-09": [],
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-06": [],
+        "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-02": [],
+        "personalized-witch-area-rug-with-name-custom-halloween-rug-black": []
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B004": {
+      "product_count": 10,
+      "product_keys": [
+        "personalized-witch-area-rug-with-name-custom-halloween-r-design-05",
+        "personalized-witch-area-rug-with-name-custom-halloween-r-design-09",
+        "personalized-witch-area-rug-with-name-custom-halloween-r-design-04",
+        "personalized-witch-area-rug-with-name-custom-halloween-r-design-02",
+        "personalized-witch-area-rug-with-name-custom-halloween-r-design-06",
+        "personalized-witch-area-rug-with-name-custom-halloween-r-design-08",
+        "personalized-witch-area-rug-with-name-custom-halloween-r-design-10",
+        "personalized-witch-area-rug-with-name-custom-halloween-r-design-01",
+        "personalized-witch-area-rug-with-name-custom-halloween-r-design-12",
+        "personalized-witch-area-rug-with-name-custom-halloween-r-design-11"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "personalized-witch-area-rug-with-name-custom-halloween-r-design-05": [],
+        "personalized-witch-area-rug-with-name-custom-halloween-r-design-09": [],
+        "personalized-witch-area-rug-with-name-custom-halloween-r-design-04": [],
+        "personalized-witch-area-rug-with-name-custom-halloween-r-design-02": [],
+        "personalized-witch-area-rug-with-name-custom-halloween-r-design-06": [],
+        "personalized-witch-area-rug-with-name-custom-halloween-r-design-08": [],
+        "personalized-witch-area-rug-with-name-custom-halloween-r-design-10": [],
+        "personalized-witch-area-rug-with-name-custom-halloween-r-design-01": [],
+        "personalized-witch-area-rug-with-name-custom-halloween-r-design-12": [],
+        "personalized-witch-area-rug-with-name-custom-halloween-r-design-11": []
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B005": {
+      "product_count": 10,
+      "product_keys": [
+        "personalized-football-shaped-rug-non-slip-washable-sport-design-03",
+        "personalized-football-shaped-rug-non-slip-washable-sport-design-02",
+        "personalized-football-shaped-rug-non-slip-washable-sport-design-01",
+        "personalized-football-shaped-rug-non-slip-washable-sport-design-05",
+        "personalized-football-shaped-rug-non-slip-washable-sport-carpet-a04",
+        "custom-dragon-shaped-area-rug-personalized-library-wester-design-02",
+        "custom-dragon-shaped-area-rug-personalized-library-wester-design-08",
+        "custom-dragon-shaped-area-rug-personalized-library-wester-design-05",
+        "custom-dragon-shaped-area-rug-personalized-library-wester-design-07",
+        "custom-dragon-shaped-area-rug-personalized-library-wester-design-03"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "personalized-football-shaped-rug-non-slip-washable-sport-design-03": [],
+        "personalized-football-shaped-rug-non-slip-washable-sport-design-02": [],
+        "personalized-football-shaped-rug-non-slip-washable-sport-design-01": [],
+        "personalized-football-shaped-rug-non-slip-washable-sport-design-05": [],
+        "personalized-football-shaped-rug-non-slip-washable-sport-carpet-a04": [],
+        "custom-dragon-shaped-area-rug-personalized-library-wester-design-02": [
+          "R015",
+          "R069"
+        ],
+        "custom-dragon-shaped-area-rug-personalized-library-wester-design-08": [
+          "R015",
+          "R069"
+        ],
+        "custom-dragon-shaped-area-rug-personalized-library-wester-design-05": [
+          "R015",
+          "R069"
+        ],
+        "custom-dragon-shaped-area-rug-personalized-library-wester-design-07": [
+          "R015",
+          "R069"
+        ],
+        "custom-dragon-shaped-area-rug-personalized-library-wester-design-03": [
+          "R015",
+          "R069"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B006": {
+      "product_count": 10,
+      "product_keys": [
+        "custom-dragon-shaped-area-rug-personalized-library-wester-design-04",
+        "custom-dragon-shaped-area-rug-personalized-library-wester-design-10",
+        "custom-dragon-shaped-area-rug-personalized-library-wester-design-01",
+        "custom-dragon-shaped-area-rug-personalized-library-wester-design-06",
+        "custom-dragon-shaped-area-rug-personalized-library-western-dragon",
+        "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01",
+        "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05",
+        "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03",
+        "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02",
+        "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-dragon-shaped-area-rug-personalized-library-wester-design-04": [
+          "R039"
+        ],
+        "custom-dragon-shaped-area-rug-personalized-library-wester-design-10": [
+          "R015",
+          "R069"
+        ],
+        "custom-dragon-shaped-area-rug-personalized-library-wester-design-01": [
+          "R015",
+          "R069"
+        ],
+        "custom-dragon-shaped-area-rug-personalized-library-wester-design-06": [
+          "R039"
+        ],
+        "custom-dragon-shaped-area-rug-personalized-library-western-dragon": [
+          "R016",
+          "R070"
+        ],
+        "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01": [],
+        "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05": [],
+        "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03": [
+          "R011",
+          "R065"
+        ],
+        "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02": [
+          "R011",
+          "R065"
+        ],
+        "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4": []
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B007": {
+      "product_count": 10,
+      "product_keys": [
+        "personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04",
+        "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02",
+        "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01",
+        "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03",
+        "personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05",
+        "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01",
+        "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04",
+        "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08",
+        "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical",
+        "boat-rug-03-boat-rug-03-design-22"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04": [
+          "R016",
+          "R070"
+        ],
+        "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02": [
+          "R016",
+          "R070"
+        ],
+        "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01": [
+          "R016",
+          "R070"
+        ],
+        "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03": [
+          "R016",
+          "R070"
+        ],
+        "personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05": [
+          "R016",
+          "R070"
+        ],
+        "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01": [
+          "R016"
+        ],
+        "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04": [
+          "R016"
+        ],
+        "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08": [
+          "R002",
+          "R053"
+        ],
+        "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical": [
+          "R002",
+          "R053"
+        ],
+        "boat-rug-03-boat-rug-03-design-22": [
+          "R039"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B008": {
+      "product_count": 10,
+      "product_keys": [
+        "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-02",
+        "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-09",
+        "boat-rug-05-boat-rug-05-design-22",
+        "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-06",
+        "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-08",
+        "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-07",
+        "boat-rug-10-boat-rug-10-design-10",
+        "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-name",
+        "boat-rug-04-boat-rug-04",
+        "personalized-tropical-beach-rug-custom-family-name-tropic-design-02"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-02": [],
+        "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-09": [],
+        "boat-rug-05-boat-rug-05-design-22": [
+          "R016"
+        ],
+        "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-06": [],
+        "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-08": [],
+        "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-design-07": [],
+        "boat-rug-10-boat-rug-10-design-10": [
+          "R016"
+        ],
+        "custom-boat-rug-personalized-welcome-aboard-mat-with-boat-name": [],
+        "boat-rug-04-boat-rug-04": [
+          "R002",
+          "R053"
+        ],
+        "personalized-tropical-beach-rug-custom-family-name-tropic-design-02": [
+          "R017",
+          "R071"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B009": {
+      "product_count": 10,
+      "product_keys": [
+        "personalized-tropical-beach-rug-custom-family-name-tropic-design-04",
+        "personalized-tropical-beach-rug-custom-family-name-tropic-design-05",
+        "personalized-tropical-beach-rug-custom-family-name-tropic-design-01",
+        "personalized-tropical-beach-rug-custom-family-name-tropic-design-08",
+        "personalized-tropical-beach-rug-custom-family-name-tropic-design-06",
+        "personalized-tropical-beach-rug-custom-family-name-tropical-outdoor",
+        "personalized-calming-corner-rug-for-classroom-custom-teacher-name",
+        "personalized-calming-corner-rug-for-classroom-custom-tea-design-100",
+        "personalized-calming-corner-rug-for-classroom-custom-tea-design-101",
+        "personalized-calming-corner-rug-for-classroom-custom-tea-design-102"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "personalized-tropical-beach-rug-custom-family-name-tropic-design-04": [
+          "R039"
+        ],
+        "personalized-tropical-beach-rug-custom-family-name-tropic-design-05": [
+          "R017",
+          "R071"
+        ],
+        "personalized-tropical-beach-rug-custom-family-name-tropic-design-01": [
+          "R017",
+          "R071"
+        ],
+        "personalized-tropical-beach-rug-custom-family-name-tropic-design-08": [
+          "R017",
+          "R071"
+        ],
+        "personalized-tropical-beach-rug-custom-family-name-tropic-design-06": [
+          "R039"
+        ],
+        "personalized-tropical-beach-rug-custom-family-name-tropical-outdoor": [],
+        "personalized-calming-corner-rug-for-classroom-custom-teacher-name": [
+          "R039"
+        ],
+        "personalized-calming-corner-rug-for-classroom-custom-tea-design-100": [
+          "R039"
+        ],
+        "personalized-calming-corner-rug-for-classroom-custom-tea-design-101": [
+          "R017",
+          "R071"
+        ],
+        "personalized-calming-corner-rug-for-classroom-custom-tea-design-102": [
+          "R017",
+          "R071"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B010": {
+      "product_count": 10,
+      "product_keys": [
+        "personalized-calming-corner-rug-for-classroom-custom-tea-design-103",
+        "personalized-teachers-classroom-rug-custom-teacher-name-c-design-03",
+        "personalized-teachers-classroom-rug-custom-teacher-name-c-design-02",
+        "personalized-teachers-classroom-rug-custom-teacher-name-classroom",
+        "personalized-teachers-classroom-rug-custom-teacher-name-c-design-09",
+        "personalized-teachers-classroom-rug-custom-teacher-name-c-design-07",
+        "personalized-teachers-classroom-rug-custom-teacher-name-c-design-04",
+        "personalized-teachers-classroom-rug-custom-teacher-name-c-design-01",
+        "personalized-teachers-classroom-rug-custom-teacher-name-c-design-05",
+        "personalized-teachers-classroom-rug-custom-teacher-name-c-design-06"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "personalized-calming-corner-rug-for-classroom-custom-tea-design-103": [
+          "R017",
+          "R071"
+        ],
+        "personalized-teachers-classroom-rug-custom-teacher-name-c-design-03": [
+          "R017",
+          "R071"
+        ],
+        "personalized-teachers-classroom-rug-custom-teacher-name-c-design-02": [
+          "R039"
+        ],
+        "personalized-teachers-classroom-rug-custom-teacher-name-classroom": [
+          "R040"
+        ],
+        "personalized-teachers-classroom-rug-custom-teacher-name-c-design-09": [
+          "R018",
+          "R072"
+        ],
+        "personalized-teachers-classroom-rug-custom-teacher-name-c-design-07": [
+          "R018",
+          "R072"
+        ],
+        "personalized-teachers-classroom-rug-custom-teacher-name-c-design-04": [
+          "R017",
+          "R071"
+        ],
+        "personalized-teachers-classroom-rug-custom-teacher-name-c-design-01": [
+          "R017",
+          "R071"
+        ],
+        "personalized-teachers-classroom-rug-custom-teacher-name-c-design-05": [
+          "R018",
+          "R072"
+        ],
+        "personalized-teachers-classroom-rug-custom-teacher-name-c-design-06": [
+          "R018",
+          "R072"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B011": {
+      "product_count": 10,
+      "product_keys": [
+        "personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat",
+        "personalized-teacher-classroom-rug-custom-back-to-school-design-100",
+        "personalized-teacher-classroom-rug-custom-back-to-school-design-101",
+        "personalized-teacher-classroom-rug-custom-back-to-school-design-102",
+        "personalized-teacher-classroom-rug-custom-back-to-school-design-103",
+        "personalized-teacher-classroom-rug-custom-back-to-school-design-104",
+        "personalized-teacher-classroom-rug-custom-back-to-school-design-105",
+        "personalized-teacher-classroom-rug-custom-back-to-school-design-106",
+        "personalized-teacher-classroom-rug-custom-back-to-school-design-107",
+        "personalized-teacher-classroom-rug-custom-back-to-school-design-108"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat": [
+          "R019",
+          "R073"
+        ],
+        "personalized-teacher-classroom-rug-custom-back-to-school-design-100": [
+          "R040"
+        ],
+        "personalized-teacher-classroom-rug-custom-back-to-school-design-101": [
+          "R018",
+          "R072"
+        ],
+        "personalized-teacher-classroom-rug-custom-back-to-school-design-102": [
+          "R018",
+          "R072"
+        ],
+        "personalized-teacher-classroom-rug-custom-back-to-school-design-103": [
+          "R018",
+          "R072"
+        ],
+        "personalized-teacher-classroom-rug-custom-back-to-school-design-104": [
+          "R018",
+          "R072"
+        ],
+        "personalized-teacher-classroom-rug-custom-back-to-school-design-105": [
+          "R040"
+        ],
+        "personalized-teacher-classroom-rug-custom-back-to-school-design-106": [
+          "R018",
+          "R072"
+        ],
+        "personalized-teacher-classroom-rug-custom-back-to-school-design-107": [
+          "R018",
+          "R072"
+        ],
+        "personalized-teacher-classroom-rug-custom-back-to-school-design-108": [
+          "R019",
+          "R073"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B012": {
+      "product_count": 10,
+      "product_keys": [
+        "personalized-teacher-classroom-rug-custom-back-to-school-design-109",
+        "personalized-teacher-classroom-rug-custom-back-to-school-design-110",
+        "personalized-teacher-classroom-rug-custom-back-to-school-design-111",
+        "core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug",
+        "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100",
+        "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101",
+        "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102",
+        "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103",
+        "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104",
+        "wheel-of-feelings-and-emotions-round-rug-educational-mental-health"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "personalized-teacher-classroom-rug-custom-back-to-school-design-109": [
+          "R019",
+          "R073"
+        ],
+        "personalized-teacher-classroom-rug-custom-back-to-school-design-110": [
+          "R019",
+          "R073"
+        ],
+        "personalized-teacher-classroom-rug-custom-back-to-school-design-111": [
+          "R019",
+          "R073"
+        ],
+        "core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug": [
+          "R019"
+        ],
+        "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100": [
+          "R019"
+        ],
+        "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101": [
+          "R019"
+        ],
+        "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102": [
+          "R002"
+        ],
+        "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103": [
+          "R019"
+        ],
+        "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104": [
+          "R019"
+        ],
+        "wheel-of-feelings-and-emotions-round-rug-educational-mental-health": [
+          "R002"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B013": {
+      "product_count": 10,
+      "product_keys": [
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-100",
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-101",
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-102",
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-103",
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-104",
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-105",
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-106",
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-107",
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-108",
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-109"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-100": [
+          "R002"
+        ],
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-101": [
+          "R002"
+        ],
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-102": [
+          "R020",
+          "R074"
+        ],
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-103": [
+          "R003",
+          "R054"
+        ],
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-104": [
+          "R020",
+          "R074"
+        ],
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-105": [
+          "R003",
+          "R054"
+        ],
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-106": [
+          "R003",
+          "R054"
+        ],
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-107": [
+          "R003",
+          "R054",
+          "R055"
+        ],
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-108": [
+          "R003",
+          "R054"
+        ],
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-109": [
+          "R020",
+          "R074"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B014": {
+      "product_count": 10,
+      "product_keys": [
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-110",
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-111",
+        "halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat",
+        "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100",
+        "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101",
+        "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102",
+        "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103",
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area",
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100",
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-110": [
+          "R040"
+        ],
+        "wheel-of-feelings-and-emotions-round-rug-educational-men-design-111": [
+          "R003",
+          "R054"
+        ],
+        "halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat": [
+          "R040"
+        ],
+        "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100": [
+          "R020",
+          "R074"
+        ],
+        "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101": [],
+        "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102": [
+          "R020",
+          "R074"
+        ],
+        "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103": [
+          "R020",
+          "R074"
+        ],
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area": [
+          "R020",
+          "R074"
+        ],
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100": [
+          "R020",
+          "R074"
+        ],
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101": [
+          "R020",
+          "R074"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B015": {
+      "product_count": 10,
+      "product_keys": [
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102",
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103",
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104",
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105",
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106",
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107",
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108",
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109",
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110",
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102": [
+          "R020",
+          "R074"
+        ],
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103": [
+          "R021",
+          "R075"
+        ],
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104": [
+          "R021",
+          "R075"
+        ],
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105": [
+          "R021",
+          "R075"
+        ],
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106": [
+          "R021",
+          "R075"
+        ],
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107": [
+          "R040"
+        ],
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108": [
+          "R021",
+          "R075"
+        ],
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109": [
+          "R021",
+          "R075"
+        ],
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110": [
+          "R003",
+          "R054"
+        ],
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111": [
+          "R021",
+          "R075"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B016": {
+      "product_count": 10,
+      "product_keys": [
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112",
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113",
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114",
+        "personalized-orthodox-christian-area-rug-custom-eastern-orthodox",
+        "personalized-orthodox-christian-area-rug-custom-eastern-design-100",
+        "personalized-orthodox-christian-area-rug-custom-eastern-design-101",
+        "personalized-orthodox-christian-area-rug-custom-eastern-design-102",
+        "personalized-orthodox-christian-area-rug-custom-eastern-design-103",
+        "personalized-orthodox-christian-area-rug-custom-eastern-design-104",
+        "personalized-orthodox-christian-area-rug-custom-eastern-design-105"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112": [
+          "R021",
+          "R075"
+        ],
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113": [
+          "R021",
+          "R075"
+        ],
+        "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114": [
+          "R021",
+          "R075"
+        ],
+        "personalized-orthodox-christian-area-rug-custom-eastern-orthodox": [
+          "R022"
+        ],
+        "personalized-orthodox-christian-area-rug-custom-eastern-design-100": [
+          "R022"
+        ],
+        "personalized-orthodox-christian-area-rug-custom-eastern-design-101": [
+          "R022"
+        ],
+        "personalized-orthodox-christian-area-rug-custom-eastern-design-102": [
+          "R022"
+        ],
+        "personalized-orthodox-christian-area-rug-custom-eastern-design-103": [
+          "R022"
+        ],
+        "personalized-orthodox-christian-area-rug-custom-eastern-design-104": [
+          "R040"
+        ],
+        "personalized-orthodox-christian-area-rug-custom-eastern-design-105": [
+          "R022"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B017": {
+      "product_count": 10,
+      "product_keys": [
+        "personalized-orthodox-christian-area-rug-custom-eastern-design-106",
+        "personalized-orthodox-christian-area-rug-custom-eastern-design-107",
+        "personalized-orthodox-christian-area-rug-custom-eastern-design-108",
+        "personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01",
+        "personalized-composition-notebook-classroom-shaped-rugs-design-2222",
+        "personalized-composition-notebook-classroom-shaped-rugs-design-2223",
+        "personalized-composition-notebook-classroom-shaped-rugs-design-2224",
+        "personalized-composition-notebook-classroom-shaped-rugs-design-2225",
+        "personalized-family-couple-doormat-custom-couple-husband-design-05",
+        "personalized-family-couple-doormat-custom-couple-husband-design-03"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "personalized-orthodox-christian-area-rug-custom-eastern-design-106": [
+          "R023"
+        ],
+        "personalized-orthodox-christian-area-rug-custom-eastern-design-107": [
+          "R023"
+        ],
+        "personalized-orthodox-christian-area-rug-custom-eastern-design-108": [
+          "R040"
+        ],
+        "personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01": [
+          "R040"
+        ],
+        "personalized-composition-notebook-classroom-shaped-rugs-design-2222": [
+          "R022"
+        ],
+        "personalized-composition-notebook-classroom-shaped-rugs-design-2223": [
+          "R022"
+        ],
+        "personalized-composition-notebook-classroom-shaped-rugs-design-2224": [
+          "R040"
+        ],
+        "personalized-composition-notebook-classroom-shaped-rugs-design-2225": [
+          "R022"
+        ],
+        "personalized-family-couple-doormat-custom-couple-husband-design-05": [
+          "R023"
+        ],
+        "personalized-family-couple-doormat-custom-couple-husband-design-03": [
+          "R022"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B018": {
+      "product_count": 10,
+      "product_keys": [
+        "personalized-family-couple-doormat-custom-couple-husband-design-04",
+        "personalized-family-couple-doormat-custom-couple-husband-design-02",
+        "personalized-family-couple-doormat-custom-couple-husband-wife-doormat",
+        "abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46",
+        "custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4",
+        "custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9",
+        "educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c",
+        "colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9",
+        "custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4",
+        "custom-soccer-championship-round-rug-6b6ea4fbf7"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "personalized-family-couple-doormat-custom-couple-husband-design-04": [
+          "R024"
+        ],
+        "personalized-family-couple-doormat-custom-couple-husband-design-02": [
+          "R024"
+        ],
+        "personalized-family-couple-doormat-custom-couple-husband-wife-doormat": [
+          "R024"
+        ],
+        "abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46": [
+          "R023"
+        ],
+        "custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4": [
+          "R023"
+        ],
+        "custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9": [
+          "R023"
+        ],
+        "educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c": [
+          "R023"
+        ],
+        "colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9": [
+          "R023"
+        ],
+        "custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4": [
+          "R023"
+        ],
+        "custom-soccer-championship-round-rug-6b6ea4fbf7": [
+          "R023"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B019": {
+      "product_count": 10,
+      "product_keys": [
+        "custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80",
+        "custom-soccer-championship-round-rug-106971c407",
+        "custom-soccer-2026-round-rug-trophy-flag-design-8257f0bdff",
+        "custom-soccer-2026-round-rug-trophy-championship-sports-decor-df4d4eec2f",
+        "custom-soccer-championship-round-rug-world-flags-d1d1d396af",
+        "custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c",
+        "personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3",
+        "personalized-soccer-tournament-trophy-rug-0bdc87e8ab-0bdc87e8ab",
+        "custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10",
+        "wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80": [
+          "R024"
+        ],
+        "custom-soccer-championship-round-rug-106971c407": [
+          "R024"
+        ],
+        "custom-soccer-2026-round-rug-trophy-flag-design-8257f0bdff": [
+          "R024"
+        ],
+        "custom-soccer-2026-round-rug-trophy-championship-sports-decor-df4d4eec2f": [
+          "R024"
+        ],
+        "custom-soccer-championship-round-rug-world-flags-d1d1d396af": [
+          "R024"
+        ],
+        "custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c": [
+          "R024"
+        ],
+        "personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3": [
+          "R025"
+        ],
+        "personalized-soccer-tournament-trophy-rug-0bdc87e8ab-0bdc87e8ab": [
+          "R025"
+        ],
+        "custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10": [
+          "R024"
+        ],
+        "wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644": [
+          "R003",
+          "R054",
+          "R055"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B020": {
+      "product_count": 10,
+      "product_keys": [
+        "feelings-wheel-emotions-round-rug-f48bff995a",
+        "wheel-of-feelings-and-emotions-round-rug-a7bf6ef454",
+        "wheel-of-feelings-and-emotions-round-rug-2ec976598b",
+        "custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca",
+        "custom-mathematics-education-rug-classroom-playroom-eee0004975",
+        "custom-mathematics-education-rug-3015a3c96c",
+        "feelings-wheel-emotions-round-rug-fca05b7c0f",
+        "feelings-wheel-round-classroom-rug-4be50a20fb",
+        "feelings-wheel-classroom-welcome-mat-3d070ff949",
+        "custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "feelings-wheel-emotions-round-rug-f48bff995a": [
+          "R025"
+        ],
+        "wheel-of-feelings-and-emotions-round-rug-a7bf6ef454": [
+          "R025"
+        ],
+        "wheel-of-feelings-and-emotions-round-rug-2ec976598b": [
+          "R004",
+          "R056"
+        ],
+        "custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca": [
+          "R003",
+          "R054"
+        ],
+        "custom-mathematics-education-rug-classroom-playroom-eee0004975": [
+          "R025"
+        ],
+        "custom-mathematics-education-rug-3015a3c96c": [
+          "R025"
+        ],
+        "feelings-wheel-emotions-round-rug-fca05b7c0f": [
+          "R025"
+        ],
+        "feelings-wheel-round-classroom-rug-4be50a20fb": [
+          "R003",
+          "R054"
+        ],
+        "feelings-wheel-classroom-welcome-mat-3d070ff949": [
+          "R041"
+        ],
+        "custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9": [
+          "R025"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B021": {
+      "product_count": 10,
+      "product_keys": [
+        "personalized-album-cover-rug-4af618eed5",
+        "personalized-album-cover-welcome-mat-26099b1534",
+        "personalized-album-cover-area-rug-648fd8e2ff",
+        "personalized-album-cover-area-rug-0587b91810-0587b91810",
+        "personalized-album-cover-rug-3bfef01c49-3bfef01c49",
+        "personalized-album-cover-area-rug-52d1b2412d-52d1b2412d",
+        "personalized-album-cover-rug-75f5a15f3e-75f5a15f3e",
+        "custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b",
+        "personalized-music-album-cover-welcome-mat-6b66b8a24c",
+        "personalized-music-album-cover-rug-5088343293-5088343293"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "personalized-album-cover-rug-4af618eed5": [
+          "R026"
+        ],
+        "personalized-album-cover-welcome-mat-26099b1534": [
+          "R026"
+        ],
+        "personalized-album-cover-area-rug-648fd8e2ff": [
+          "R026"
+        ],
+        "personalized-album-cover-area-rug-0587b91810-0587b91810": [
+          "R025"
+        ],
+        "personalized-album-cover-rug-3bfef01c49-3bfef01c49": [
+          "R026"
+        ],
+        "personalized-album-cover-area-rug-52d1b2412d-52d1b2412d": [
+          "R026"
+        ],
+        "personalized-album-cover-rug-75f5a15f3e-75f5a15f3e": [
+          "R026"
+        ],
+        "custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b": [
+          "R025"
+        ],
+        "personalized-music-album-cover-welcome-mat-6b66b8a24c": [
+          "R026"
+        ],
+        "personalized-music-album-cover-rug-5088343293-5088343293": [
+          "R026"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B022": {
+      "product_count": 10,
+      "product_keys": [
+        "personalized-album-cover-rug-abb1eeca32",
+        "custom-road-map-door-mat-town-design-e3598e955a-e3598e955a",
+        "custom-road-map-area-rug-8262be4ef1-8262be4ef1",
+        "custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8",
+        "custom-road-map-area-rug-e4dbf01f05",
+        "custom-road-map-welcome-mat-708eca28bb",
+        "custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0",
+        "custom-road-map-area-rug-town-play-mat-a27d8ff428",
+        "custom-road-map-area-rug-d39d38a4a8",
+        "custom-road-map-area-rug-60aa327740"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "personalized-album-cover-rug-abb1eeca32": [
+          "R027"
+        ],
+        "custom-road-map-door-mat-town-design-e3598e955a-e3598e955a": [
+          "R041"
+        ],
+        "custom-road-map-area-rug-8262be4ef1-8262be4ef1": [
+          "R026"
+        ],
+        "custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8": [
+          "R004",
+          "R056"
+        ],
+        "custom-road-map-area-rug-e4dbf01f05": [
+          "R004",
+          "R056"
+        ],
+        "custom-road-map-welcome-mat-708eca28bb": [
+          "R027"
+        ],
+        "custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0": [
+          "R004",
+          "R056"
+        ],
+        "custom-road-map-area-rug-town-play-mat-a27d8ff428": [
+          "R026"
+        ],
+        "custom-road-map-area-rug-d39d38a4a8": [
+          "R004",
+          "R056"
+        ],
+        "custom-road-map-area-rug-60aa327740": [
+          "R004",
+          "R056"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B023": {
+      "product_count": 10,
+      "product_keys": [
+        "custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9",
+        "custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7",
+        "personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962",
+        "personalized-christmas-doormat-80a01c19f6-80a01c19f6",
+        "personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891",
+        "personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372",
+        "personalized-christmas-doormat-with-custom-family-name-83c3ea451f",
+        "personalized-christmas-doormat-with-custom-family-name-d66e920e14",
+        "personalized-christmas-welcome-doormat-28640346cc",
+        "personalized-christmas-doormat-1a037c0533"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9": [
+          "R027"
+        ],
+        "custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7": [
+          "R027"
+        ],
+        "personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962": [
+          "R027"
+        ],
+        "personalized-christmas-doormat-80a01c19f6-80a01c19f6": [
+          "R027"
+        ],
+        "personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891": [
+          "R041"
+        ],
+        "personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372": [
+          "R027"
+        ],
+        "personalized-christmas-doormat-with-custom-family-name-83c3ea451f": [
+          "R027"
+        ],
+        "personalized-christmas-doormat-with-custom-family-name-d66e920e14": [
+          "R027"
+        ],
+        "personalized-christmas-welcome-doormat-28640346cc": [
+          "R027"
+        ],
+        "personalized-christmas-doormat-1a037c0533": [
+          "R041"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B024": {
+      "product_count": 10,
+      "product_keys": [
+        "personalized-christmas-doormat-d7f77b93a8-d7f77b93a8",
+        "custom-kids-read-book-rug-classroom-library-eaedf8485b",
+        "custom-reading-corner-classroom-library-mat-40b8909d74-40b8909d74",
+        "custom-reading-classroom-library-rug-bdef6840ec-bdef6840ec",
+        "custom-classroom-library-reading-rug-9121bf7e9f-9121bf7e9f",
+        "custom-family-name-welcome-doormat-front-door-6831756395-6831756395",
+        "custom-bookshelf-classroom-library-reading-rug-75ece72c91",
+        "custom-reading-corner-classroom-library-rug-4a41f4c798-4a41f4c798",
+        "custom-baseball-vintage-pattern-area-rug-non-slip-a74f120767",
+        "custom-vintage-baseball-area-rug-b5f20ad4f5"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "personalized-christmas-doormat-d7f77b93a8-d7f77b93a8": [
+          "R041"
+        ],
+        "custom-kids-read-book-rug-classroom-library-eaedf8485b": [
+          "R028"
+        ],
+        "custom-reading-corner-classroom-library-mat-40b8909d74-40b8909d74": [
+          "R028"
+        ],
+        "custom-reading-classroom-library-rug-bdef6840ec-bdef6840ec": [
+          "R028"
+        ],
+        "custom-classroom-library-reading-rug-9121bf7e9f-9121bf7e9f": [
+          "R028"
+        ],
+        "custom-family-name-welcome-doormat-front-door-6831756395-6831756395": [
+          "R004",
+          "R056"
+        ],
+        "custom-bookshelf-classroom-library-reading-rug-75ece72c91": [
+          "R028"
+        ],
+        "custom-reading-corner-classroom-library-rug-4a41f4c798-4a41f4c798": [
+          "R028"
+        ],
+        "custom-baseball-vintage-pattern-area-rug-non-slip-a74f120767": [
+          "R028"
+        ],
+        "custom-vintage-baseball-area-rug-b5f20ad4f5": [
+          "R004",
+          "R056"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B025": {
+      "product_count": 10,
+      "product_keys": [
+        "custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e",
+        "custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966",
+        "personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5",
+        "custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6",
+        "colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac",
+        "colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2",
+        "colorful-classroom-rug-for-kids-877e4e6020-877e4e6020",
+        "colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82",
+        "colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902",
+        "colorful-handprints-kids-classroom-rug-51f01db413-51f01db413"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e": [
+          "R029"
+        ],
+        "custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966": [
+          "R029"
+        ],
+        "personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5": [
+          "R005",
+          "R057"
+        ],
+        "custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6": [
+          "R029"
+        ],
+        "colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac": [
+          "R028"
+        ],
+        "colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2": [
+          "R004",
+          "R056"
+        ],
+        "colorful-classroom-rug-for-kids-877e4e6020-877e4e6020": [
+          "R004",
+          "R056"
+        ],
+        "colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82": [
+          "R028"
+        ],
+        "colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902": [
+          "R005",
+          "R057"
+        ],
+        "colorful-handprints-kids-classroom-rug-51f01db413-51f01db413": [
+          "R028"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B026": {
+      "product_count": 10,
+      "product_keys": [
+        "colorful-classroom-rug-for-kids-e5ed693d3f",
+        "colorful-classroom-rug-for-kids-a44b91f2e4",
+        "colorful-handprints-kids-classroom-area-rug-9f8e77de21",
+        "colorful-classroom-rug-handprints-quotes-6a4adbacc3",
+        "colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808",
+        "colorful-handprints-classroom-kids-rug-358d2f0393",
+        "personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf",
+        "personalized-orthodox-christian-three-bar-cross-rug-c6332608db",
+        "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a",
+        "personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "colorful-classroom-rug-for-kids-e5ed693d3f": [
+          "R029"
+        ],
+        "colorful-classroom-rug-for-kids-a44b91f2e4": [
+          "R029"
+        ],
+        "colorful-handprints-kids-classroom-area-rug-9f8e77de21": [
+          "R029"
+        ],
+        "colorful-classroom-rug-handprints-quotes-6a4adbacc3": [
+          "R029"
+        ],
+        "colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808": [
+          "R041"
+        ],
+        "colorful-handprints-classroom-kids-rug-358d2f0393": [
+          "R029"
+        ],
+        "personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf": [
+          "R029"
+        ],
+        "personalized-orthodox-christian-three-bar-cross-rug-c6332608db": [
+          "R029"
+        ],
+        "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a": [
+          "R005",
+          "R057",
+          "R058",
+          "R059"
+        ],
+        "personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991": [
+          "R005",
+          "R057"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B027": {
+      "product_count": 10,
+      "product_keys": [
+        "personalized-orthodox-doormat-with-christian-cross-and-eagle-6be5c719a3-6be5c719a3",
+        "personalized-orthodox-christian-area-rug-00beb8fce2",
+        "custom-orthodox-rug-three-bar-cross-byzantine-eagle-d81169235b-d81169235b",
+        "personalized-orthodox-christian-area-rug-fb5a56fef9-fb5a56fef9",
+        "personalized-teachers-classroom-rules-rug-b0d7bd292a-b0d7bd292a",
+        "personalized-classroom-rules-welcome-mat-07b188eb0d",
+        "personalized-teachers-classroom-rug-with-custom-name-87d858996b",
+        "personalized-classroom-rules-rug-custom-teacher-name-2b9854c06f",
+        "personalized-classroom-rules-rug-with-custom-teacher-name-ad0787fb44",
+        "custom-octopus-shaped-area-rug-9041fd8f83"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "personalized-orthodox-doormat-with-christian-cross-and-eagle-6be5c719a3-6be5c719a3": [
+          "R030"
+        ],
+        "personalized-orthodox-christian-area-rug-00beb8fce2": [
+          "R030"
+        ],
+        "custom-orthodox-rug-three-bar-cross-byzantine-eagle-d81169235b-d81169235b": [
+          "R005",
+          "R057"
+        ],
+        "personalized-orthodox-christian-area-rug-fb5a56fef9-fb5a56fef9": [
+          "R030"
+        ],
+        "personalized-teachers-classroom-rules-rug-b0d7bd292a-b0d7bd292a": [
+          "R030"
+        ],
+        "personalized-classroom-rules-welcome-mat-07b188eb0d": [
+          "R030"
+        ],
+        "personalized-teachers-classroom-rug-with-custom-name-87d858996b": [
+          "R005",
+          "R057"
+        ],
+        "personalized-classroom-rules-rug-custom-teacher-name-2b9854c06f": [
+          "R030"
+        ],
+        "personalized-classroom-rules-rug-with-custom-teacher-name-ad0787fb44": [
+          "R030"
+        ],
+        "custom-octopus-shaped-area-rug-9041fd8f83": [
+          "R005",
+          "R057"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B028": {
+      "product_count": 10,
+      "product_keys": [
+        "custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a",
+        "custom-octopus-sea-monster-welcome-mat-c69579f5ed",
+        "custom-octopus-shaped-area-rug-a96e544960-a96e544960",
+        "custom-octopus-shaped-area-rug-sea-monster-1975158434",
+        "custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12",
+        "tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9",
+        "western-running-horse-area-rug-122e8b85fb-122e8b85fb",
+        "custom-running-horse-area-rug-5eadea7a69",
+        "custom-running-horse-welcome-mat-5c3fa81b88",
+        "custom-running-horse-welcome-mat-a0cd749d2b"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a": [
+          "R005",
+          "R057"
+        ],
+        "custom-octopus-sea-monster-welcome-mat-c69579f5ed": [
+          "R030"
+        ],
+        "custom-octopus-shaped-area-rug-a96e544960-a96e544960": [
+          "R030"
+        ],
+        "custom-octopus-shaped-area-rug-sea-monster-1975158434": [
+          "R005",
+          "R057"
+        ],
+        "custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12": [
+          "R005",
+          "R057"
+        ],
+        "tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9": [
+          "R006",
+          "R060"
+        ],
+        "western-running-horse-area-rug-122e8b85fb-122e8b85fb": [
+          "R006",
+          "R060"
+        ],
+        "custom-running-horse-area-rug-5eadea7a69": [
+          "R006",
+          "R060"
+        ],
+        "custom-running-horse-welcome-mat-5c3fa81b88": [
+          "R006",
+          "R060"
+        ],
+        "custom-running-horse-welcome-mat-a0cd749d2b": [
+          "R006",
+          "R060"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B029": {
+      "product_count": 10,
+      "product_keys": [
+        "custom-running-horse-welcome-mat-fade3d1429",
+        "custom-running-horse-doormat-2a0ef19423-2a0ef19423",
+        "horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd",
+        "custom-running-horse-doormat-b25dd5e514",
+        "custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4",
+        "custom-running-horse-welcome-mat-34b7c38f01",
+        "custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f",
+        "custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6",
+        "custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b",
+        "custom-running-horse-welcome-mat-01f80a49ee"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-running-horse-welcome-mat-fade3d1429": [
+          "R007",
+          "R061"
+        ],
+        "custom-running-horse-doormat-2a0ef19423-2a0ef19423": [
+          "R006",
+          "R060"
+        ],
+        "horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd": [
+          "R007",
+          "R061"
+        ],
+        "custom-running-horse-doormat-b25dd5e514": [
+          "R006",
+          "R060"
+        ],
+        "custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4": [
+          "R007",
+          "R061"
+        ],
+        "custom-running-horse-welcome-mat-34b7c38f01": [
+          "R007",
+          "R061"
+        ],
+        "custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f": [
+          "R007",
+          "R061"
+        ],
+        "custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6": [
+          "R006",
+          "R060"
+        ],
+        "custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b": [
+          "R006",
+          "R060"
+        ],
+        "custom-running-horse-welcome-mat-01f80a49ee": [
+          "R006",
+          "R060"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B030": {
+      "product_count": 10,
+      "product_keys": [
+        "custom-running-horse-welcome-mat-2e0754fd8e-2e0754fd8e",
+        "custom-running-horse-welcome-mat-f114a916e7-f114a916e7",
+        "custom-running-horse-welcome-mat-a4c32dbbfa-a4c32dbbfa",
+        "custom-running-horse-area-rug-2f0ce836fd-2f0ce836fd",
+        "western-running-horse-area-rug-02dee68d0b",
+        "custom-running-horse-area-rug-31f0e158c5",
+        "personalized-classroom-doormat-teacher-name-notebook-pattern-42da091fe1-42da091fe1",
+        "personalized-classroom-welcome-doormat-notebook-rug-8e1bdf83d4",
+        "personalized-classroom-welcome-doormat-teacher-students-7f5a91b5a9",
+        "personalized-classroom-welcome-mat-teacher-name-ff4e426bbe"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-running-horse-welcome-mat-2e0754fd8e-2e0754fd8e": [
+          "R030"
+        ],
+        "custom-running-horse-welcome-mat-f114a916e7-f114a916e7": [
+          "R007",
+          "R061"
+        ],
+        "custom-running-horse-welcome-mat-a4c32dbbfa-a4c32dbbfa": [
+          "R007",
+          "R061"
+        ],
+        "custom-running-horse-area-rug-2f0ce836fd-2f0ce836fd": [
+          "R007",
+          "R061"
+        ],
+        "western-running-horse-area-rug-02dee68d0b": [
+          "R007",
+          "R061"
+        ],
+        "custom-running-horse-area-rug-31f0e158c5": [
+          "R007",
+          "R061"
+        ],
+        "personalized-classroom-doormat-teacher-name-notebook-pattern-42da091fe1-42da091fe1": [
+          "R031"
+        ],
+        "personalized-classroom-welcome-doormat-notebook-rug-8e1bdf83d4": [
+          "R031"
+        ],
+        "personalized-classroom-welcome-doormat-teacher-students-7f5a91b5a9": [
+          "R031"
+        ],
+        "personalized-classroom-welcome-mat-teacher-name-ff4e426bbe": [
+          "R031"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B031": {
+      "product_count": 10,
+      "product_keys": [
+        "personalized-classroom-doormat-welcome-class-door-mat-f34045b91d",
+        "personalized-classroom-welcome-doormat-notebook-rug-508fa38fe3",
+        "personalized-classroom-doormat-with-custom-teacher-name-675f2e0900",
+        "personalized-classroom-welcome-doormat-2820e17d05-2820e17d05",
+        "personalized-classroom-doormat-welcome-to-class-door-mat-1086025b51",
+        "personalized-classroom-doormat-custom-teacher-name-753f4f3532-753f4f3532",
+        "personalized-classroom-welcome-doormat-3d9f3ec373",
+        "personalized-classroom-doormat-teacher-notebook-a1ca00cc38-a1ca00cc38",
+        "personalized-classroom-doormat-welcome-to-class-door-mat-a74c09137b",
+        "personalized-classroom-doormat-with-custom-teacher-name-ae6fef4505-ae6fef4505"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "personalized-classroom-doormat-welcome-class-door-mat-f34045b91d": [
+          "R031"
+        ],
+        "personalized-classroom-welcome-doormat-notebook-rug-508fa38fe3": [
+          "R032"
+        ],
+        "personalized-classroom-doormat-with-custom-teacher-name-675f2e0900": [
+          "R031"
+        ],
+        "personalized-classroom-welcome-doormat-2820e17d05-2820e17d05": [
+          "R008",
+          "R062"
+        ],
+        "personalized-classroom-doormat-welcome-to-class-door-mat-1086025b51": [
+          "R008",
+          "R062"
+        ],
+        "personalized-classroom-doormat-custom-teacher-name-753f4f3532-753f4f3532": [
+          "R008",
+          "R062"
+        ],
+        "personalized-classroom-welcome-doormat-3d9f3ec373": [
+          "R031"
+        ],
+        "personalized-classroom-doormat-teacher-notebook-a1ca00cc38-a1ca00cc38": [
+          "R031"
+        ],
+        "personalized-classroom-doormat-welcome-to-class-door-mat-a74c09137b": [
+          "R031"
+        ],
+        "personalized-classroom-doormat-with-custom-teacher-name-ae6fef4505-ae6fef4505": [
+          "R031"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B032": {
+      "product_count": 10,
+      "product_keys": [
+        "personalized-classroom-doormat-with-custom-teacher-name-956ffe5ee5",
+        "personalized-classroom-welcome-doormat-b404579ec3-b404579ec3",
+        "personalized-classroom-welcome-doormat-77047e9c34-77047e9c34",
+        "personalized-classroom-welcome-doormat-2f0308422b-2f0308422b",
+        "personalized-classroom-welcome-doormat-b5fe59f765-b5fe59f765",
+        "personalized-soccer-2026-area-rug-73a22990b0-73a22990b0",
+        "personalized-soccer-trophy-world-flags-doormat-00f2f9bbfa",
+        "personalized-soccer-trophy-area-rug-05582886df",
+        "personalized-soccer-2026-area-rug-c2d07261b5",
+        "personalized-soccer-2026-area-rug-a60ad6dcf9-a60ad6dcf9"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "personalized-classroom-doormat-with-custom-teacher-name-956ffe5ee5": [
+          "R032"
+        ],
+        "personalized-classroom-welcome-doormat-b404579ec3-b404579ec3": [
+          "R032"
+        ],
+        "personalized-classroom-welcome-doormat-77047e9c34-77047e9c34": [
+          "R032"
+        ],
+        "personalized-classroom-welcome-doormat-2f0308422b-2f0308422b": [
+          "R032"
+        ],
+        "personalized-classroom-welcome-doormat-b5fe59f765-b5fe59f765": [
+          "R032"
+        ],
+        "personalized-soccer-2026-area-rug-73a22990b0-73a22990b0": [
+          "R032"
+        ],
+        "personalized-soccer-trophy-world-flags-doormat-00f2f9bbfa": [
+          "R032"
+        ],
+        "personalized-soccer-trophy-area-rug-05582886df": [
+          "R011",
+          "R065"
+        ],
+        "personalized-soccer-2026-area-rug-c2d07261b5": [
+          "R032"
+        ],
+        "personalized-soccer-2026-area-rug-a60ad6dcf9-a60ad6dcf9": [
+          "R032"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B033": {
+      "product_count": 10,
+      "product_keys": [
+        "personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4",
+        "custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520",
+        "personalized-soccer-2026-area-rug-95231047da-95231047da",
+        "custom-soccer-round-rug-trophy-championship-043ff71141",
+        "custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9",
+        "personalized-dog-welcome-mat-front-door-36fdce22f9",
+        "personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d",
+        "personalized-dog-welcome-mat-entryway-front-door-5385d11bb7",
+        "personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c",
+        "personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4": [
+          "R033"
+        ],
+        "custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520": [
+          "R001"
+        ],
+        "personalized-soccer-2026-area-rug-95231047da-95231047da": [
+          "R033"
+        ],
+        "custom-soccer-round-rug-trophy-championship-043ff71141": [
+          "R011",
+          "R065"
+        ],
+        "custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9": [
+          "R033"
+        ],
+        "personalized-dog-welcome-mat-front-door-36fdce22f9": [
+          "R008",
+          "R062"
+        ],
+        "personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d": [
+          "R011",
+          "R065"
+        ],
+        "personalized-dog-welcome-mat-entryway-front-door-5385d11bb7": [
+          "R008",
+          "R062"
+        ],
+        "personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c": [
+          "R008",
+          "R062"
+        ],
+        "personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662": [
+          "R033"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B034": {
+      "product_count": 10,
+      "product_keys": [
+        "personalized-dog-welcome-mat-custom-pet-name-a66d52e9f8",
+        "personalized-dog-welcome-mat-custom-name-fd965cdd3f",
+        "custom-halloween-dog-doormat-107f4d9fa1-107f4d9fa1",
+        "custom-halloween-dog-doormat-f86bd3c362-f86bd3c362",
+        "custom-halloween-dog-doormat-405e5466d4-405e5466d4",
+        "custom-halloween-dog-doormat-a6bfd1d512-a6bfd1d512",
+        "personalized-dog-welcome-mat-custom-text-non-slip-backing-17fda5bd64-17fda5bd64",
+        "personalized-dog-doormat-custom-text-non-slip-c76f704530",
+        "custom-running-horse-welcome-mat-09686138f0",
+        "custom-running-horse-welcome-mat-4bd82949b1-4bd82949b1"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "personalized-dog-welcome-mat-custom-pet-name-a66d52e9f8": [
+          "R008",
+          "R062"
+        ],
+        "personalized-dog-welcome-mat-custom-name-fd965cdd3f": [
+          "R033"
+        ],
+        "custom-halloween-dog-doormat-107f4d9fa1-107f4d9fa1": [
+          "R011",
+          "R065"
+        ],
+        "custom-halloween-dog-doormat-f86bd3c362-f86bd3c362": [
+          "R011",
+          "R065"
+        ],
+        "custom-halloween-dog-doormat-405e5466d4-405e5466d4": [
+          "R033"
+        ],
+        "custom-halloween-dog-doormat-a6bfd1d512-a6bfd1d512": [
+          "R033"
+        ],
+        "personalized-dog-welcome-mat-custom-text-non-slip-backing-17fda5bd64-17fda5bd64": [
+          "R033"
+        ],
+        "personalized-dog-doormat-custom-text-non-slip-c76f704530": [
+          "R001"
+        ],
+        "custom-running-horse-welcome-mat-09686138f0": [
+          "R033"
+        ],
+        "custom-running-horse-welcome-mat-4bd82949b1-4bd82949b1": [
+          "R008",
+          "R062"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B035": {
+      "product_count": 10,
+      "product_keys": [
+        "custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b",
+        "custom-running-horse-welcome-mat-7069b0c873-7069b0c873",
+        "custom-running-horse-area-rug-non-slip-384f7e6e8e",
+        "custom-running-horse-welcome-mat-60ae7781a9",
+        "custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f",
+        "custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42",
+        "wolf-galaxy-runner-rug-a1fc801242",
+        "custom-wolf-print-welcome-mat-89ae1c27ae",
+        "custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1",
+        "custom-galaxy-wolves-welcome-mat-f320a33157"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b": [
+          "R034"
+        ],
+        "custom-running-horse-welcome-mat-7069b0c873-7069b0c873": [
+          "R008",
+          "R062"
+        ],
+        "custom-running-horse-area-rug-non-slip-384f7e6e8e": [
+          "R033"
+        ],
+        "custom-running-horse-welcome-mat-60ae7781a9": [
+          "R012",
+          "R066"
+        ],
+        "custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f": [
+          "R034"
+        ],
+        "custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42": [
+          "R001"
+        ],
+        "wolf-galaxy-runner-rug-a1fc801242": [
+          "R009",
+          "R063"
+        ],
+        "custom-wolf-print-welcome-mat-89ae1c27ae": [
+          "R008",
+          "R062"
+        ],
+        "custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1": [
+          "R012",
+          "R066"
+        ],
+        "custom-galaxy-wolves-welcome-mat-f320a33157": [
+          "R001"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B036": {
+      "product_count": 10,
+      "product_keys": [
+        "custom-road-map-area-rug-81bfb9cda4-81bfb9cda4",
+        "custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4",
+        "galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7",
+        "custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217",
+        "galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17",
+        "custom-galaxy-wolf-welcome-mat-0e4d706227",
+        "custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9",
+        "galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e",
+        "custom-galaxy-wolves-rug-boy-room-e0ded989b1",
+        "wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-road-map-area-rug-81bfb9cda4-81bfb9cda4": [
+          "R009"
+        ],
+        "custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4": [
+          "R001"
+        ],
+        "galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7": [
+          "R009",
+          "R063"
+        ],
+        "custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217": [
+          "R034"
+        ],
+        "galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17": [
+          "R001"
+        ],
+        "custom-galaxy-wolf-welcome-mat-0e4d706227": [
+          "R001"
+        ],
+        "custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9": [
+          "R009",
+          "R063"
+        ],
+        "galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e": [
+          "R001"
+        ],
+        "custom-galaxy-wolves-rug-boy-room-e0ded989b1": [
+          "R012",
+          "R066"
+        ],
+        "wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e": [
+          "R001"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B037": {
+      "product_count": 10,
+      "product_keys": [
+        "wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f",
+        "custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7",
+        "custom-dog-paw-print-shaped-rug-39afbc78d5",
+        "custom-bear-paw-print-area-rug-a5abc100ab",
+        "custom-bear-paw-print-area-rug-7ff5dd63e9",
+        "custom-bear-paw-print-area-rug-a43b3e3594",
+        "custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc",
+        "custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd",
+        "custom-road-map-area-rug-play-mat-baa948f510-baa948f510",
+        "custom-road-map-area-rug-play-mat-9cf6abf61b"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f": [
+          "R034"
+        ],
+        "custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7": [
+          "R034"
+        ],
+        "custom-dog-paw-print-shaped-rug-39afbc78d5": [
+          "R001"
+        ],
+        "custom-bear-paw-print-area-rug-a5abc100ab": [
+          "R012",
+          "R066"
+        ],
+        "custom-bear-paw-print-area-rug-7ff5dd63e9": [
+          "R012",
+          "R066"
+        ],
+        "custom-bear-paw-print-area-rug-a43b3e3594": [
+          "R009",
+          "R063"
+        ],
+        "custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc": [
+          "R034"
+        ],
+        "custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd": [
+          "R012",
+          "R066"
+        ],
+        "custom-road-map-area-rug-play-mat-baa948f510-baa948f510": [
+          "R034"
+        ],
+        "custom-road-map-area-rug-play-mat-9cf6abf61b": [
+          "R009"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B038": {
+      "product_count": 10,
+      "product_keys": [
+        "personalized-christmas-doormat-with-custom-family-name-315531dc75-315531dc75",
+        "custom-road-map-play-mat-rug-38a585717c-38a585717c",
+        "wheel-of-feelings-and-emotions-round-rug-ec03e55978",
+        "wheel-of-feelings-and-emotions-round-rug-01636a663b",
+        "feelings-wheel-emotions-round-rug-0f979e072d-0f979e072d",
+        "wheel-of-feelings-and-emotions-round-rug-8a745f7f62",
+        "wheel-of-feelings-and-emotions-round-rug-697b1d04c9",
+        "custom-abc-educational-classroom-round-rug-33de96c620-33de96c620",
+        "classroom-round-rug-educational-feelings-carpet-6f4ceb729b",
+        "custom-abc-educational-welcome-mat-bed98ba4ec-bed98ba4ec"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "personalized-christmas-doormat-with-custom-family-name-315531dc75-315531dc75": [
+          "R035"
+        ],
+        "custom-road-map-play-mat-rug-38a585717c-38a585717c": [
+          "R041"
+        ],
+        "wheel-of-feelings-and-emotions-round-rug-ec03e55978": [
+          "R009"
+        ],
+        "wheel-of-feelings-and-emotions-round-rug-01636a663b": [
+          "R009",
+          "R063"
+        ],
+        "feelings-wheel-emotions-round-rug-0f979e072d-0f979e072d": [
+          "R035"
+        ],
+        "wheel-of-feelings-and-emotions-round-rug-8a745f7f62": [
+          "R009"
+        ],
+        "wheel-of-feelings-and-emotions-round-rug-697b1d04c9": [
+          "R035"
+        ],
+        "custom-abc-educational-classroom-round-rug-33de96c620-33de96c620": [
+          "R034"
+        ],
+        "classroom-round-rug-educational-feelings-carpet-6f4ceb729b": [
+          "R034"
+        ],
+        "custom-abc-educational-welcome-mat-bed98ba4ec-bed98ba4ec": [
+          "R034"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B039": {
+      "product_count": 10,
+      "product_keys": [
+        "custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf",
+        "custom-composition-notebook-classroom-rug-for-kids-64af3c74f1",
+        "custom-composition-notebook-classroom-rugs-for-kids-88021773b3",
+        "custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848",
+        "custom-composition-notebook-classroom-rug-for-kids-95c57fb741",
+        "custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7",
+        "custom-composition-notebook-classroom-rug-kids-f215fce7cb",
+        "custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3",
+        "custom-composition-notebook-classroom-rug-for-kids-8106743a5b",
+        "custom-composition-notebook-classroom-rug-7445b86039-7445b86039"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf": [
+          "R035"
+        ],
+        "custom-composition-notebook-classroom-rug-for-kids-64af3c74f1": [
+          "R035"
+        ],
+        "custom-composition-notebook-classroom-rugs-for-kids-88021773b3": [
+          "R035"
+        ],
+        "custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848": [
+          "R002"
+        ],
+        "custom-composition-notebook-classroom-rug-for-kids-95c57fb741": [
+          "R035"
+        ],
+        "custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7": [
+          "R035"
+        ],
+        "custom-composition-notebook-classroom-rug-kids-f215fce7cb": [
+          "R002",
+          "R053"
+        ],
+        "custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3": [
+          "R009",
+          "R063"
+        ],
+        "custom-composition-notebook-classroom-rug-for-kids-8106743a5b": [
+          "R012"
+        ],
+        "custom-composition-notebook-classroom-rug-7445b86039-7445b86039": [
+          "R012"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B040": {
+      "product_count": 10,
+      "product_keys": [
+        "celtic-tree-of-life-welcome-mat-5798e850b0",
+        "tree-of-life-celtic-indoor-rug-89f894eb42",
+        "custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37",
+        "tree-of-life-celtic-area-rug-d16ac94729",
+        "custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99",
+        "custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3",
+        "tree-of-life-celtic-indoor-rug-e74720f30a",
+        "custom-celtic-tree-of-life-welcome-mat-1e4bffd67c",
+        "custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d",
+        "custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "celtic-tree-of-life-welcome-mat-5798e850b0": [
+          "R035"
+        ],
+        "tree-of-life-celtic-indoor-rug-89f894eb42": [
+          "R013",
+          "R067"
+        ],
+        "custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37": [
+          "R035"
+        ],
+        "tree-of-life-celtic-area-rug-d16ac94729": [
+          "R002",
+          "R053"
+        ],
+        "custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99": [
+          "R010",
+          "R064"
+        ],
+        "custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3": [
+          "R012",
+          "R066"
+        ],
+        "tree-of-life-celtic-indoor-rug-e74720f30a": [
+          "R013",
+          "R067"
+        ],
+        "custom-celtic-tree-of-life-welcome-mat-1e4bffd67c": [
+          "R012",
+          "R066"
+        ],
+        "custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d": [
+          "R010",
+          "R064"
+        ],
+        "custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c": [
+          "R010",
+          "R064"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B041": {
+      "product_count": 10,
+      "product_keys": [
+        "celtic-tree-of-life-doormat-f3b9ef9591-f3b9ef9591",
+        "celtic-tree-of-life-indoor-area-rug-aa71e362a6-aa71e362a6",
+        "custom-tree-of-life-welcome-mat-e20613a50e-e20613a50e",
+        "tree-of-life-celtic-rug-40c2af5cd2",
+        "tree-of-life-celtic-indoor-floor-mat-57eef60356",
+        "tree-of-life-rug-yggdrasil-celtic-tree-of-lifes-large-area-rug-modern-indoor-floor-mat-soft-carpet-with-non-slip-backing-home-decor-for-living-room-bedroom-gifts-for-tree-of-life-d-346d281f76",
+        "tree-of-life-yggdrasil-celtic-area-rug-e8cc0189f2-e8cc0189f2",
+        "custom-composition-notebook-classroom-kids-rug-a5df2f88fd-a5df2f88fd",
+        "custom-composition-notebook-classroom-rug-for-kids-975402570a-975402570a",
+        "custom-composition-notebook-classroom-rug-for-kids-6480284917-6480284917"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "celtic-tree-of-life-doormat-f3b9ef9591-f3b9ef9591": [],
+        "celtic-tree-of-life-indoor-area-rug-aa71e362a6-aa71e362a6": [
+          "R041"
+        ],
+        "custom-tree-of-life-welcome-mat-e20613a50e-e20613a50e": [
+          "R042"
+        ],
+        "tree-of-life-celtic-rug-40c2af5cd2": [
+          "R042"
+        ],
+        "tree-of-life-celtic-indoor-floor-mat-57eef60356": [
+          "R042"
+        ],
+        "tree-of-life-rug-yggdrasil-celtic-tree-of-lifes-large-area-rug-modern-indoor-floor-mat-soft-carpet-with-non-slip-backing-home-decor-for-living-room-bedroom-gifts-for-tree-of-life-d-346d281f76": [
+          "R042"
+        ],
+        "tree-of-life-yggdrasil-celtic-area-rug-e8cc0189f2-e8cc0189f2": [
+          "R042"
+        ],
+        "custom-composition-notebook-classroom-kids-rug-a5df2f88fd-a5df2f88fd": [
+          "R041"
+        ],
+        "custom-composition-notebook-classroom-rug-for-kids-975402570a-975402570a": [
+          "R042"
+        ],
+        "custom-composition-notebook-classroom-rug-for-kids-6480284917-6480284917": [
+          "R041"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B042": {
+      "product_count": 10,
+      "product_keys": [
+        "custom-composition-notebook-classroom-rug-e78523a9ef-e78523a9ef",
+        "custom-composition-notebook-classroom-rug-kids-3e5de6246c",
+        "custom-mathematics-education-rug-6494449be8-6494449be8",
+        "custom-mathematics-educational-welcome-mat-627c4013d4",
+        "custom-mathematics-education-classroom-rug-0639e24f25",
+        "custom-a-good-day-to-read-book-rug-d1d331ba7d-d1d331ba7d",
+        "custom-vintage-book-classroom-reading-rug-3c50e8b414",
+        "custom-tree-of-knowledge-classroom-library-rug-077de4a60b",
+        "custom-reading-tree-classroom-rug-b66c4b4a97",
+        "custom-reading-adventure-classroom-library-rug-7956abd8c9"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-composition-notebook-classroom-rug-e78523a9ef-e78523a9ef": [
+          "R042"
+        ],
+        "custom-composition-notebook-classroom-rug-kids-3e5de6246c": [
+          "R042"
+        ],
+        "custom-mathematics-education-rug-6494449be8-6494449be8": [
+          "R043"
+        ],
+        "custom-mathematics-educational-welcome-mat-627c4013d4": [
+          "R043"
+        ],
+        "custom-mathematics-education-classroom-rug-0639e24f25": [
+          "R042"
+        ],
+        "custom-a-good-day-to-read-book-rug-d1d331ba7d-d1d331ba7d": [
+          "R042"
+        ],
+        "custom-vintage-book-classroom-reading-rug-3c50e8b414": [
+          "R043"
+        ],
+        "custom-tree-of-knowledge-classroom-library-rug-077de4a60b": [
+          "R043"
+        ],
+        "custom-reading-tree-classroom-rug-b66c4b4a97": [
+          "R043"
+        ],
+        "custom-reading-adventure-classroom-library-rug-7956abd8c9": [
+          "R043"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B043": {
+      "product_count": 10,
+      "product_keys": [
+        "custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546",
+        "custom-reading-corner-classroom-library-rug-f3d87bd3da",
+        "custom-bookshelf-classroom-library-reading-rug-110e79f122",
+        "custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c",
+        "personalized-teachers-classroom-rules-area-rug-df4fbe7b91",
+        "personalized-classroom-rules-teacher-area-rug-c01b2868b7",
+        "personalized-teachers-classroom-rules-area-rug-3c846a8f41",
+        "personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2",
+        "custom-octopus-sea-monster-welcome-mat-273aa005c8",
+        "custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546": [
+          "R010",
+          "R064"
+        ],
+        "custom-reading-corner-classroom-library-rug-f3d87bd3da": [
+          "R010"
+        ],
+        "custom-bookshelf-classroom-library-reading-rug-110e79f122": [
+          "R010"
+        ],
+        "custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c": [
+          "R010"
+        ],
+        "personalized-teachers-classroom-rules-area-rug-df4fbe7b91": [
+          "R011"
+        ],
+        "personalized-classroom-rules-teacher-area-rug-c01b2868b7": [
+          "R010"
+        ],
+        "personalized-teachers-classroom-rules-area-rug-3c846a8f41": [
+          "R011"
+        ],
+        "personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2": [
+          "R011"
+        ],
+        "custom-octopus-sea-monster-welcome-mat-273aa005c8": [
+          "R010",
+          "R064"
+        ],
+        "custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b": [
+          "R010",
+          "R064"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B044": {
+      "product_count": 10,
+      "product_keys": [
+        "custom-octopus-shaped-area-rug-0acb5a8130-0acb5a8130",
+        "custom-classroom-library-reading-rug-dfdbf660e0",
+        "custom-reading-classroom-library-rug-29b9f9b43d-29b9f9b43d",
+        "custom-reading-corner-welcome-mat-941ccd58e8-941ccd58e8",
+        "personalized-motivational-classroom-rug-kids-c08ac9a601",
+        "personalized-motivational-classroom-rug-for-kids-ff1188740c",
+        "personalized-motivational-classroom-rug-for-kids-ec5fda4b1c",
+        "personalized-motivational-classroom-rug-for-kids-dbde19466a",
+        "personalized-motivational-classroom-rug-for-kids-50daea8577",
+        "personalized-motivational-classroom-rug-for-kids-2f14feb0aa"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-octopus-shaped-area-rug-0acb5a8130-0acb5a8130": [
+          "R043"
+        ],
+        "custom-classroom-library-reading-rug-dfdbf660e0": [
+          "R043"
+        ],
+        "custom-reading-classroom-library-rug-29b9f9b43d-29b9f9b43d": [
+          "R043"
+        ],
+        "custom-reading-corner-welcome-mat-941ccd58e8-941ccd58e8": [
+          "R043"
+        ],
+        "personalized-motivational-classroom-rug-kids-c08ac9a601": [
+          "R044"
+        ],
+        "personalized-motivational-classroom-rug-for-kids-ff1188740c": [
+          "R044"
+        ],
+        "personalized-motivational-classroom-rug-for-kids-ec5fda4b1c": [
+          "R044"
+        ],
+        "personalized-motivational-classroom-rug-for-kids-dbde19466a": [
+          "R044"
+        ],
+        "personalized-motivational-classroom-rug-for-kids-50daea8577": [
+          "R044"
+        ],
+        "personalized-motivational-classroom-rug-for-kids-2f14feb0aa": [
+          "R044"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B045": {
+      "product_count": 10,
+      "product_keys": [
+        "personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9",
+        "personalized-motivational-classroom-rug-for-kids-34838f57f6-34838f57f6",
+        "personalized-motivational-classroom-rug-for-kids-bb1a76e628",
+        "personalized-motivational-classroom-rug-kids-ab8fce16b6-ab8fce16b6",
+        "personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0",
+        "personalized-motivational-classroom-rug-for-kids-fe3841c6fe",
+        "personalized-motivational-classroom-rug-for-kids-7d4f70bdd2-7d4f70bdd2",
+        "personalized-music-album-cover-area-rug-d939ed2f4e",
+        "personalized-hunting-welcome-doormat-custom-family-name-e9839e2783",
+        "personalized-family-name-patriotic-hunting-doormat-5997abfebc-5997abfebc"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9": [
+          "R045"
+        ],
+        "personalized-motivational-classroom-rug-for-kids-34838f57f6-34838f57f6": [
+          "R044"
+        ],
+        "personalized-motivational-classroom-rug-for-kids-bb1a76e628": [
+          "R045"
+        ],
+        "personalized-motivational-classroom-rug-kids-ab8fce16b6-ab8fce16b6": [
+          "R045"
+        ],
+        "personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0": [
+          "R045"
+        ],
+        "personalized-motivational-classroom-rug-for-kids-fe3841c6fe": [
+          "R045"
+        ],
+        "personalized-motivational-classroom-rug-for-kids-7d4f70bdd2-7d4f70bdd2": [
+          "R044"
+        ],
+        "personalized-music-album-cover-area-rug-d939ed2f4e": [],
+        "personalized-hunting-welcome-doormat-custom-family-name-e9839e2783": [
+          "R044"
+        ],
+        "personalized-family-name-patriotic-hunting-doormat-5997abfebc-5997abfebc": [
+          "R044"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B046": {
+      "product_count": 10,
+      "product_keys": [
+        "personalized-patriotic-hunting-doormat-ee02618b87",
+        "personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3",
+        "personalized-hunting-doormat-custom-family-name-6e74ed97c6",
+        "personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2",
+        "personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b",
+        "custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491",
+        "custom-golf-welcome-mat-7fa10153d4-7fa10153d4",
+        "custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c",
+        "custom-golf-area-rug-living-room-mat-39dea6cb42",
+        "custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "personalized-patriotic-hunting-doormat-ee02618b87": [
+          "R046"
+        ],
+        "personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3": [
+          "R045"
+        ],
+        "personalized-hunting-doormat-custom-family-name-6e74ed97c6": [
+          "R045"
+        ],
+        "personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2": [],
+        "personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b": [
+          "R037"
+        ],
+        "custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491": [
+          "R045"
+        ],
+        "custom-golf-welcome-mat-7fa10153d4-7fa10153d4": [],
+        "custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c": [
+          "R045"
+        ],
+        "custom-golf-area-rug-living-room-mat-39dea6cb42": [
+          "R037"
+        ],
+        "custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1": [
+          "R045"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B047": {
+      "product_count": 10,
+      "product_keys": [
+        "custom-golf-area-rug-living-room-mat-51b65f4454",
+        "custom-golf-area-rug-living-room-mat-f6f3c16862",
+        "custom-golf-area-rug-fd79165e9f-fd79165e9f",
+        "custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8",
+        "custom-mathematics-education-rug-80ab855e16-80ab855e16",
+        "custom-mathematics-education-classroom-playroom-rug-0f607da0b3",
+        "custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960",
+        "custom-mathematics-classroom-rug-ec81d3501a",
+        "custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95",
+        "custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-golf-area-rug-living-room-mat-51b65f4454": [
+          "R046"
+        ],
+        "custom-golf-area-rug-living-room-mat-f6f3c16862": [
+          "R046"
+        ],
+        "custom-golf-area-rug-fd79165e9f-fd79165e9f": [
+          "R046"
+        ],
+        "custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8": [
+          "R037"
+        ],
+        "custom-mathematics-education-rug-80ab855e16-80ab855e16": [
+          "R046"
+        ],
+        "custom-mathematics-education-classroom-playroom-rug-0f607da0b3": [
+          "R046"
+        ],
+        "custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960": [
+          "R046"
+        ],
+        "custom-mathematics-classroom-rug-ec81d3501a": [
+          "R046"
+        ],
+        "custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95": [
+          "R046"
+        ],
+        "custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02": [
+          "R046"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B048": {
+      "product_count": 10,
+      "product_keys": [
+        "custom-mathematics-education-rug-677ea4d8b5-677ea4d8b5",
+        "personalized-motivational-classroom-rug-for-kids-185af7709b",
+        "custom-math-classroom-welcome-mat-93506f16cb-93506f16cb",
+        "personalized-motivational-classroom-rug-kids-c5c4db7870",
+        "personalized-motivational-classroom-rug-for-kids-12e7574dd3-12e7574dd3",
+        "personalized-motivational-classroom-rug-for-kids-6b9a9da243",
+        "personalized-motivational-classroom-rug-kids-dcd5b3d508",
+        "personalized-motivational-classroom-rug-for-kids-75356d9313-75356d9313",
+        "personalized-motivational-classroom-rug-for-kids-71bb812a4f",
+        "personalized-motivational-classroom-rug-for-kids-fcc5a59bce-fcc5a59bce"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-mathematics-education-rug-677ea4d8b5-677ea4d8b5": [
+          "R047"
+        ],
+        "personalized-motivational-classroom-rug-for-kids-185af7709b": [
+          "R047"
+        ],
+        "custom-math-classroom-welcome-mat-93506f16cb-93506f16cb": [
+          "R047"
+        ],
+        "personalized-motivational-classroom-rug-kids-c5c4db7870": [
+          "R047"
+        ],
+        "personalized-motivational-classroom-rug-for-kids-12e7574dd3-12e7574dd3": [
+          "R036"
+        ],
+        "personalized-motivational-classroom-rug-for-kids-6b9a9da243": [
+          "R047"
+        ],
+        "personalized-motivational-classroom-rug-kids-dcd5b3d508": [
+          "R047"
+        ],
+        "personalized-motivational-classroom-rug-for-kids-75356d9313-75356d9313": [
+          "R047"
+        ],
+        "personalized-motivational-classroom-rug-for-kids-71bb812a4f": [
+          "R037"
+        ],
+        "personalized-motivational-classroom-rug-for-kids-fcc5a59bce-fcc5a59bce": [
+          "R047"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B049": {
+      "product_count": 10,
+      "product_keys": [
+        "personalized-motivational-classroom-rug-for-kids-1499e819f7-1499e819f7",
+        "personalized-motivational-classroom-rug-for-kids-d58c24b35d",
+        "personalized-motivational-classroom-rug-kids-803fa89d09",
+        "personalized-motivational-classroom-rug-for-kids-43aa6a180c",
+        "personalized-motivational-classroom-rug-for-kids-c304c62374-c304c62374",
+        "custom-music-album-doormat-front-door-b42677b9b9",
+        "personalized-music-album-cover-welcome-mat-4a66513e5d-4a66513e5d",
+        "personalized-music-album-cover-area-rug-9547d6169f-9547d6169f",
+        "custom-3d-dragon-round-rug-5315fbccc7",
+        "custom-dragon-round-rug-3d-illusion-4ca1b4fcd0"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "personalized-motivational-classroom-rug-for-kids-1499e819f7-1499e819f7": [
+          "R048"
+        ],
+        "personalized-motivational-classroom-rug-for-kids-d58c24b35d": [
+          "R048"
+        ],
+        "personalized-motivational-classroom-rug-kids-803fa89d09": [
+          "R048"
+        ],
+        "personalized-motivational-classroom-rug-for-kids-43aa6a180c": [
+          "R036"
+        ],
+        "personalized-motivational-classroom-rug-for-kids-c304c62374-c304c62374": [
+          "R048"
+        ],
+        "custom-music-album-doormat-front-door-b42677b9b9": [
+          "R048"
+        ],
+        "personalized-music-album-cover-welcome-mat-4a66513e5d-4a66513e5d": [
+          "R048"
+        ],
+        "personalized-music-album-cover-area-rug-9547d6169f-9547d6169f": [
+          "R048"
+        ],
+        "custom-3d-dragon-round-rug-5315fbccc7": [
+          "R047"
+        ],
+        "custom-dragon-round-rug-3d-illusion-4ca1b4fcd0": [
+          "R047"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B050": {
+      "product_count": 10,
+      "product_keys": [
+        "custom-3d-dragon-round-rug-77aa65f879",
+        "custom-dragon-optical-illusion-round-rug-3de0273603",
+        "custom-3d-dragon-round-rug-7df46cf462",
+        "personalized-dragon-round-rug-db93e1ad22",
+        "personalized-3d-dragon-round-rug-library-illusion-0ba25b8c93",
+        "custom-3d-dragon-round-rug-c5c3c2de5b",
+        "custom-dragon-round-rug-3d-illusion-library-pattern-66ba99d7f5",
+        "custom-3d-effect-dragon-round-rug-47b32027ce",
+        "personalized-classroom-doormat-605767e184",
+        "custom-flamingo-doormat-pink-bird-floral-b8f6e38c9d"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-3d-dragon-round-rug-77aa65f879": [
+          "R048"
+        ],
+        "custom-dragon-optical-illusion-round-rug-3de0273603": [
+          "R049"
+        ],
+        "custom-3d-dragon-round-rug-7df46cf462": [
+          "R037"
+        ],
+        "personalized-dragon-round-rug-db93e1ad22": [
+          "R049"
+        ],
+        "personalized-3d-dragon-round-rug-library-illusion-0ba25b8c93": [
+          "R049"
+        ],
+        "custom-3d-dragon-round-rug-c5c3c2de5b": [
+          "R048"
+        ],
+        "custom-dragon-round-rug-3d-illusion-library-pattern-66ba99d7f5": [
+          "R036"
+        ],
+        "custom-3d-effect-dragon-round-rug-47b32027ce": [
+          "R048"
+        ],
+        "personalized-classroom-doormat-605767e184": [
+          "R049"
+        ],
+        "custom-flamingo-doormat-pink-bird-floral-b8f6e38c9d": [
+          "R049"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B051": {
+      "product_count": 10,
+      "product_keys": [
+        "personalized-welcome-doormat-class-teacher-f81a80f527",
+        "custom-flamingo-welcome-mat-for-front-door-2096a15fdb",
+        "personalized-classroom-doormat-custom-teacher-name-23d2140383",
+        "custom-pink-flamingo-welcome-mat-98ad4e675e",
+        "personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb",
+        "custom-classroom-welcome-mat-for-front-door-ca10b2ead1",
+        "personalized-classroom-doormat-custom-teacher-name-45bc0142b3",
+        "custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca",
+        "custom-pink-flamingo-area-rug-doormat-e7ac68e9c9",
+        "custom-koi-fish-shaped-area-rug-3b4acfcd3b"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "personalized-welcome-doormat-class-teacher-f81a80f527": [
+          "R050"
+        ],
+        "custom-flamingo-welcome-mat-for-front-door-2096a15fdb": [
+          "R037"
+        ],
+        "personalized-classroom-doormat-custom-teacher-name-23d2140383": [
+          "R049"
+        ],
+        "custom-pink-flamingo-welcome-mat-98ad4e675e": [
+          "R013",
+          "R067"
+        ],
+        "personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb": [
+          "R049"
+        ],
+        "custom-classroom-welcome-mat-for-front-door-ca10b2ead1": [
+          "R049"
+        ],
+        "personalized-classroom-doormat-custom-teacher-name-45bc0142b3": [
+          "R049"
+        ],
+        "custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca": [
+          "R013",
+          "R067"
+        ],
+        "custom-pink-flamingo-area-rug-doormat-e7ac68e9c9": [
+          "R037"
+        ],
+        "custom-koi-fish-shaped-area-rug-3b4acfcd3b": [
+          "R049"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B052": {
+      "product_count": 10,
+      "product_keys": [
+        "custom-japanese-koi-fish-shaped-area-rug-940fcac253",
+        "custom-japanese-koi-fish-shaped-area-rug-925e5d0767",
+        "custom-koi-fish-shaped-area-rug-027c867fc1",
+        "custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a",
+        "custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66",
+        "custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a",
+        "personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be",
+        "personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63",
+        "personalized-teacher-classroom-doormat-20d4a8ff55",
+        "personalized-teacher-classroom-doormat-98fd058bd0"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-japanese-koi-fish-shaped-area-rug-940fcac253": [
+          "R013",
+          "R067"
+        ],
+        "custom-japanese-koi-fish-shaped-area-rug-925e5d0767": [
+          "R013",
+          "R067"
+        ],
+        "custom-koi-fish-shaped-area-rug-027c867fc1": [
+          "R013",
+          "R067"
+        ],
+        "custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a": [
+          "R038"
+        ],
+        "custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66": [
+          "R013",
+          "R067"
+        ],
+        "custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a": [
+          "R050"
+        ],
+        "personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be": [
+          "R050"
+        ],
+        "personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63": [
+          "R050"
+        ],
+        "personalized-teacher-classroom-doormat-20d4a8ff55": [
+          "R050"
+        ],
+        "personalized-teacher-classroom-doormat-98fd058bd0": [
+          "R050"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B053": {
+      "product_count": 10,
+      "product_keys": [
+        "custom-teacher-welcome-doormat-classroom-school-gym-f138369d41",
+        "custom-teacher-classroom-welcome-doormat-513babf582",
+        "personalized-name-teacher-doormat-classroom-school-e7cafd4fd8",
+        "personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49",
+        "personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c",
+        "personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0",
+        "custom-3d-effect-dragon-round-rug-9cee675fdf",
+        "custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8",
+        "custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b",
+        "personalized-dragon-round-rug-3d-effect-dcdcc98f68"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-teacher-welcome-doormat-classroom-school-gym-f138369d41": [
+          "R050"
+        ],
+        "custom-teacher-classroom-welcome-doormat-513babf582": [
+          "R050"
+        ],
+        "personalized-name-teacher-doormat-classroom-school-e7cafd4fd8": [
+          "R050"
+        ],
+        "personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49": [
+          "R038"
+        ],
+        "personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c": [
+          "R014",
+          "R068"
+        ],
+        "personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0": [
+          "R013",
+          "R067"
+        ],
+        "custom-3d-effect-dragon-round-rug-9cee675fdf": [
+          "R036"
+        ],
+        "custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8": [
+          "R038"
+        ],
+        "custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b": [
+          "R036"
+        ],
+        "personalized-dragon-round-rug-3d-effect-dcdcc98f68": [
+          "R013",
+          "R067"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B054": {
+      "product_count": 10,
+      "product_keys": [
+        "feeling-rugs-kids-mental-health-brain-area-rug-fae7deacd8",
+        "custom-classroom-notebook-educational-round-rug-a132085cd6",
+        "custom-notebook-classroom-welcome-mat-debe0fd4d9",
+        "custom-notebook-welcome-mat-for-classroom-and-school-864ed94fd6",
+        "classroom-notebook-educational-circle-rug-3b91056f15",
+        "wheel-of-feelings-and-emotions-round-rug-de39e76902",
+        "spanish-abc-classroom-rug-learning-alphabet-mat-f6acb4ba58",
+        "spanish-abc-classroom-rug-d3f56c3b42",
+        "custom-spanish-abc-classroom-rug-playroom-school-bee973bfe4",
+        "spanish-abc-classroom-rug-0f9ffdff41"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "feeling-rugs-kids-mental-health-brain-area-rug-fae7deacd8": [
+          "R038"
+        ],
+        "custom-classroom-notebook-educational-round-rug-a132085cd6": [
+          "R051"
+        ],
+        "custom-notebook-classroom-welcome-mat-debe0fd4d9": [
+          "R051"
+        ],
+        "custom-notebook-welcome-mat-for-classroom-and-school-864ed94fd6": [
+          "R038"
+        ],
+        "classroom-notebook-educational-circle-rug-3b91056f15": [
+          "R050"
+        ],
+        "wheel-of-feelings-and-emotions-round-rug-de39e76902": [
+          "R036"
+        ],
+        "spanish-abc-classroom-rug-learning-alphabet-mat-f6acb4ba58": [
+          "R038"
+        ],
+        "spanish-abc-classroom-rug-d3f56c3b42": [
+          "R014"
+        ],
+        "custom-spanish-abc-classroom-rug-playroom-school-bee973bfe4": [
+          "R038"
+        ],
+        "spanish-abc-classroom-rug-0f9ffdff41": [
+          "R038"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B055": {
+      "product_count": 10,
+      "product_keys": [
+        "custom-abc-spanish-educational-rug-6cefdc1a95",
+        "custom-composition-notebook-classroom-rug-03facf229f",
+        "customized-composition-notebook-classroom-rug-bf478c5c0a",
+        "personalized-composition-notebook-welcome-doormat-379c157fc5",
+        "customized-composition-notebook-classroom-rug-33c4fbd370",
+        "custom-composition-notebook-classroom-rug-with-plush-memory-foam-75c4b7b9bc",
+        "custom-classroom-notebook-rug-32dd233cb2",
+        "custom-composition-notebook-classroom-rug-non-slip-a1d50055bf",
+        "customized-composition-notebook-classroom-rug-7b0ed5679d",
+        "customized-composition-notebook-classroom-rug-3fad5212e6"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-abc-spanish-educational-rug-6cefdc1a95": [
+          "R014"
+        ],
+        "custom-composition-notebook-classroom-rug-03facf229f": [
+          "R038"
+        ],
+        "customized-composition-notebook-classroom-rug-bf478c5c0a": [
+          "R036"
+        ],
+        "personalized-composition-notebook-welcome-doormat-379c157fc5": [
+          "R039"
+        ],
+        "customized-composition-notebook-classroom-rug-33c4fbd370": [
+          "R038"
+        ],
+        "custom-composition-notebook-classroom-rug-with-plush-memory-foam-75c4b7b9bc": [
+          "R051"
+        ],
+        "custom-classroom-notebook-rug-32dd233cb2": [
+          "R051"
+        ],
+        "custom-composition-notebook-classroom-rug-non-slip-a1d50055bf": [
+          "R051"
+        ],
+        "customized-composition-notebook-classroom-rug-7b0ed5679d": [
+          "R036"
+        ],
+        "customized-composition-notebook-classroom-rug-3fad5212e6": [
+          "R051"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B056": {
+      "product_count": 10,
+      "product_keys": [
+        "custom-classroom-notebook-rug-5152bc0672",
+        "customized-composition-notebook-classroom-rug-for-kids-94f3ffcafa",
+        "custom-octopus-welcome-mat-for-front-door-and-entryway-f282a58169",
+        "custom-octopus-coastal-welcome-mat-entryway-0942996125",
+        "custom-octopus-welcome-mat-entryway-living-room-3387fa82d0",
+        "custom-octopus-welcome-mat-for-front-door-and-entryway-13d8d7f994",
+        "custom-golf-welcome-mat-for-front-door-dfb4d14fc9",
+        "custom-golf-welcome-mat-bf5c20e2dd",
+        "custom-octopus-welcome-mat-coastal-beach-design-9b577a6e0a",
+        "custom-coastal-octopus-welcome-mat-for-entryway-and-bathroom-e11dfb0c2f"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-classroom-notebook-rug-5152bc0672": [
+          "R051"
+        ],
+        "customized-composition-notebook-classroom-rug-for-kids-94f3ffcafa": [
+          "R051"
+        ],
+        "custom-octopus-welcome-mat-for-front-door-and-entryway-f282a58169": [
+          "R014",
+          "R068"
+        ],
+        "custom-octopus-coastal-welcome-mat-entryway-0942996125": [
+          "R036"
+        ],
+        "custom-octopus-welcome-mat-entryway-living-room-3387fa82d0": [
+          "R037"
+        ],
+        "custom-octopus-welcome-mat-for-front-door-and-entryway-13d8d7f994": [
+          "R014",
+          "R068"
+        ],
+        "custom-golf-welcome-mat-for-front-door-dfb4d14fc9": [
+          "R036"
+        ],
+        "custom-golf-welcome-mat-bf5c20e2dd": [
+          "R014",
+          "R068"
+        ],
+        "custom-octopus-welcome-mat-coastal-beach-design-9b577a6e0a": [
+          "R014",
+          "R068"
+        ],
+        "custom-coastal-octopus-welcome-mat-for-entryway-and-bathroom-e11dfb0c2f": [
+          "R014",
+          "R068"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    },
+    "B057": {
+      "product_count": 9,
+      "product_keys": [
+        "custom-golf-area-rug-d8623da216",
+        "custom-octopus-welcome-mat-87bf0d33b5",
+        "custom-octopus-welcome-mat-entryway-464c692e0a",
+        "custom-octopus-welcome-mat-for-front-door-cf228fd538",
+        "custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da",
+        "custom-octopus-coastal-welcome-mat-330b515744",
+        "custom-octopus-coastal-welcome-mat-2e91144f8b",
+        "custom-octopus-welcome-mat-coastal-front-door-5012959a0b",
+        "personalized-teacher-round-rug-with-name-0e0fa122bd"
+      ],
+      "baseline_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/SEO_Product_Optimization.xlsx",
+      "revision_events": {
+        "custom-golf-area-rug-d8623da216": [
+          "R051"
+        ],
+        "custom-octopus-welcome-mat-87bf0d33b5": [
+          "R014",
+          "R068"
+        ],
+        "custom-octopus-welcome-mat-entryway-464c692e0a": [
+          "R037"
+        ],
+        "custom-octopus-welcome-mat-for-front-door-cf228fd538": [
+          "R015",
+          "R069"
+        ],
+        "custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da": [
+          "R015",
+          "R069"
+        ],
+        "custom-octopus-coastal-welcome-mat-330b515744": [
+          "R014",
+          "R068"
+        ],
+        "custom-octopus-coastal-welcome-mat-2e91144f8b": [
+          "R051"
+        ],
+        "custom-octopus-welcome-mat-coastal-front-door-5012959a0b": [
+          "R037"
+        ],
+        "personalized-teacher-round-rug-with-name-0e0fa122bd": [
+          "R052"
+        ]
+      },
+      "effective_workbook_status": "PENDING_EXPLICIT_EFFECTIVE_REVISION_RESOLUTION"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ledger_version": "catalog-qa-ledger-v1-INVALID_MAPPING",
+  "output": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/qa/CATALOG_QA_MASTER_LEDGER.xlsx",
+  "catalog_products": 569,
+  "closed_batches": [],
+  "closed_products": 0,
+  "pending_products": 569,
+  "invalid_reason": "Revision IDs R001/R002/R053 were incorrectly conflated with inventory assigned_batch B001/B002. Rebuild after explicit batch-to-effective-workbook mapping.",
+  "not_approved_not_deployed": true
+}

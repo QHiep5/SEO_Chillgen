@@ -1,0 +1,251 @@
+{
+  "evidence_version": "independent-v2",
+  "revision": "R059",
+  "qa_run_id": "QA-20260908-REV-R059",
+  "checked_at": "2026-09-08T16:00:28+07:00",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R059/SEO_Product_Optimization_revision_R059.xlsx",
+  "source_workbook_sha256": "61c2dbf01884d89155131e52587370f10e8113931577cdd65e15f46de9dc49bd",
+  "rubric_path": "/Users/buiquanghuy/Documents/seo_chillgen/seo-prompt/chillgen/prompt_qa.md",
+  "rubric_sha256": "caeacb83a45638bcffc03ce1d2daf1fc9e915f417ada6b66eb706284283ea96c",
+  "products": [
+    {
+      "handle": "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a",
+      "url": "https://chillgen.com/products/personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a",
+      "checked_at": "2026-09-08T16:00:28+07:00",
+      "http_status": 200,
+      "json_status": 200,
+      "html_snapshot": "seo_runs/chillgen.com/chillgen_20260907_01/qa/QA-20260908-220000-REV-R059/snapshots/01_personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a.html",
+      "html_sha256": "b61fc245f2c8fa66d80571628db7a602dc0af453b99090e3a79936a2bcf8f550",
+      "json_sha256": "47152d10c1ae353d1b5724843019c283cba92c1b91929aedbef79ab209ee177c",
+      "canonical": "https://chillgen.com/products/personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a",
+      "h1": "Personalized Byzantine Eagle Area Rug with Orthodox Cross for Meditation Space",
+      "live_title": "Personalized Byzantine Eagle Area Rug with Orthodox Cross for Meditation Space",
+      "live_body_text": "<p>This personalized Orthodox Christian area rug features a traditional Russian Orthodox three-bar cross design inspired by Eastern Orthodox Christianity and Byzantine faith art. Ideal for home prayer corners, icon corners, monasteries, or quiet meditation spaces, this rug serves as a sacred addition to your home. Designed as a practical and custom prayer mat, it blends traditional religious heritage with modern functionality.</p><h3>Product Highlights</h3><ul>\n<li>Features the traditional Russian Orthodox three-bar cross symbol and Byzantine eagle.</li>\n<li>Supports customization for a personalized religious home decor experience.</li>\n<li>Constructed with a soft memory foam surface for comfortable underfoot support.</li>\n<li>Equipped with a practical non-slip backing to keep the rug securely in place.</li>\n<li>Versatile design suitable for living rooms, bedrooms, and dedicated prayer spaces.</li>\n</ul><h3>Specifications</h3><table border=\"1\" cellpadding=\"6\" style=\"border-collapse:collapse;width:100%\">\n<tr>\n<th align=\"left\" width=\"35%\">Attribute</th>\n<th align=\"left\">Value</th>\n</tr>\n<tr>\n<td>Rug Form</td>\n<td>Area Rug</td>\n</tr>\n<tr>\n<td>Item Shape</td>\n<td>Rectangular</td>\n</tr>\n<tr>\n<td>Weave Type</td>\n<td>Flat Woven</td>\n</tr>\n<tr>\n<td>Pile Height</td>\n<td>Low Pile</td>\n</tr>\n<tr>\n<td>Construction Type</td>\n<td>Machine Made</td>\n</tr>\n<tr>\n<td>Indoor/Outdoor Usage</td>\n<td>Indoor</td>\n</tr>\n<tr>\n<td>Water Resistance</td>\n<td>Not Water Resistant</td>\n</tr>\n<tr>\n<td>Special Features</td>\n<td>Non Slip</td>\n</tr>\n<tr>\n<td>Pattern</td>\n<td>cross</td>\n</tr>\n<tr>\n<td>Theme</td>\n<td>Faith</td>\n</tr>\n<tr>\n<td>Style</td>\n<td>Classic</td>\n</tr>\n<tr>\n<td>Number of Pieces</td>\n<td>1</td>\n</tr>\n</table><h3>Material &amp; Care</h3><table border=\"1\" cellpadding=\"6\" style=\"border-collapse:collapse;width:100%\">\n<tr>\n<th align=\"left\" width=\"35%\">Item</th>\n<th align=\"left\">Detail</th>\n</tr>\n<tr>\n<td>Material Type</td>\n<td>Memory Foam</td>\n</tr>\n<tr>\n<td>Back Material Type</td>\n<td>Polyester</td>\n</tr>\n<tr>\n<td>Care Instructions</td>\n<td>Machine Wash</td>\n</tr>\n</table><h3>Where It Works</h3><p>Perfect for integration into your living room, bedroom, or a dedicated faith and prayer corner. It also fits beautifully in church spaces, monasteries, or hallway entrances for a welcoming, sacred touch.</p>",
+      "live_meta_description": "Bring Byzantine faith art into a quiet space with a personalized area rug featuring an Orthodox three bar cross memory foam surface and non slip backing.",
+      "live_options": [
+        {
+          "name": "CHOOSE YOUR SIZE",
+          "position": 1,
+          "values": [
+            "36\"x60\"",
+            "48\"x72\"",
+            "60\"x96\""
+          ]
+        }
+      ],
+      "live_variant_count": 3,
+      "live_image_urls": [
+        "//cdn.shopify.com/s/files/1/1023/0068/0561/files/3e848da1fd725771d4c4ae65ac6bcb9eb148eda81486aa1efb3d486e8f17038f.jpg?v=1784383726",
+        "//cdn.shopify.com/s/files/1/1023/0068/0561/files/c2345d46b35476ac924fbe6b09d6747d98b414e50740d76d852f554a19954802.jpg?v=1784383727",
+        "//cdn.shopify.com/s/files/1/1023/0068/0561/files/1e1211a95ea0702f96531f03b165a9a3da9ef728ae48bb13516fab1e8d596551.jpg?v=1784383732",
+        "//cdn.shopify.com/s/files/1/1023/0068/0561/files/8967b8dd437cd38ce5fb87bc8217a1bfbb8063cdb6eb3970717d8eb01f19e998.jpg?v=1784383734",
+        "//cdn.shopify.com/s/files/1/1023/0068/0561/files/d43960485cb6cd763f84fc4fd50a4bba9b0dccac254bb518da608f28a23bc344.jpg?v=1784383738",
+        "//cdn.shopify.com/s/files/1/1023/0068/0561/files/0138b6aec332636db9872141aee8b617228a53e981b0c8fd2d30fbbf62786fd1.jpg?v=1784383738",
+        "//cdn.shopify.com/s/files/1/1023/0068/0561/files/cc8d785c83603519e2e9220262f37e8b194c602b592bedd0bd6ea070c1451033.jpg?v=1784383743",
+        "//cdn.shopify.com/s/files/1/1023/0068/0561/files/2d38d901e8cb65e798d1397b33813cd1240ac9b58e35b54276242e2deded5323.jpg?v=1784383743"
+      ],
+      "workbook_image_urls": [
+        "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3e848da1fd725771d4c4ae65ac6bcb9eb148eda81486aa1efb3d486e8f17038f.jpg?v=1784383726",
+        "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c2345d46b35476ac924fbe6b09d6747d98b414e50740d76d852f554a19954802.jpg?v=1784383727",
+        "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1e1211a95ea0702f96531f03b165a9a3da9ef728ae48bb13516fab1e8d596551.jpg?v=1784383732",
+        "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8967b8dd437cd38ce5fb87bc8217a1bfbb8063cdb6eb3970717d8eb01f19e998.jpg?v=1784383734",
+        "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d43960485cb6cd763f84fc4fd50a4bba9b0dccac254bb518da608f28a23bc344.jpg?v=1784383738",
+        "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0138b6aec332636db9872141aee8b617228a53e981b0c8fd2d30fbbf62786fd1.jpg?v=1784383738",
+        "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cc8d785c83603519e2e9220262f37e8b194c602b592bedd0bd6ea070c1451033.jpg?v=1784383743",
+        "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2d38d901e8cb65e798d1397b33813cd1240ac9b58e35b54276242e2deded5323.jpg?v=1784383743"
+      ],
+      "live_image_count": 8,
+      "workbook_image_count": 8,
+      "image_url_set_match": true
+    }
+  ],
+  "images": {
+    "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a__img_01": {
+      "handle": "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a",
+      "image_number": 1,
+      "live_url": "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/3e848da1fd725771d4c4ae65ac6bcb9eb148eda81486aa1efb3d486e8f17038f.jpg?v=1784383726",
+      "workbook_url": "UNKNOWN_WITHOUT_SHOPIFY_EXPORT",
+      "local_evidence_file": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/images/B026/personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a__img_01.jpg",
+      "local_file_exists": true,
+      "local_sha256": "50de505b984c40bd8b7a299e6e3f19305e8891e7692fdd1cd76c90e76e062869",
+      "local_dimensions": [
+        1000,
+        1000
+      ],
+      "qa_observation": "",
+      "submitted_observation": "Byzantine eagle area rug by sofa",
+      "alt_effective": "Byzantine eagle area rug by sofa",
+      "url_match": true,
+      "check_method": "LOCAL_IMAGE_VIEW_PLUS_LIVE_JSON",
+      "checked_at": "2026-09-08T16:00:28+07:00",
+      "IM1": "FULL",
+      "IM2": "NOT_CHECKED",
+      "IM3": "NOT_CHECKED",
+      "IM4": "NOT_CHECKED"
+    },
+    "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a__img_02": {
+      "handle": "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a",
+      "image_number": 2,
+      "live_url": "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/c2345d46b35476ac924fbe6b09d6747d98b414e50740d76d852f554a19954802.jpg?v=1784383727",
+      "workbook_url": "UNKNOWN_WITHOUT_SHOPIFY_EXPORT",
+      "local_evidence_file": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/images/B026/personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a__img_02.jpg",
+      "local_file_exists": true,
+      "local_sha256": "68d134111f642b6f47ca5073656bce3a0a270d53c852a01dba42b44133356483",
+      "local_dimensions": [
+        1000,
+        1000
+      ],
+      "qa_observation": "",
+      "submitted_observation": "Byzantine eagle rug size chart",
+      "alt_effective": "Byzantine eagle rug size chart",
+      "url_match": true,
+      "check_method": "LOCAL_IMAGE_VIEW_PLUS_LIVE_JSON",
+      "checked_at": "2026-09-08T16:00:28+07:00",
+      "IM1": "FULL",
+      "IM2": "NOT_CHECKED",
+      "IM3": "NOT_CHECKED",
+      "IM4": "NOT_CHECKED"
+    },
+    "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a__img_03": {
+      "handle": "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a",
+      "image_number": 3,
+      "live_url": "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/1e1211a95ea0702f96531f03b165a9a3da9ef728ae48bb13516fab1e8d596551.jpg?v=1784383732",
+      "workbook_url": "UNKNOWN_WITHOUT_SHOPIFY_EXPORT",
+      "local_evidence_file": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/images/B026/personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a__img_03.jpg",
+      "local_file_exists": true,
+      "local_sha256": "6c5a944da535067ef03306c898301f327ebdaf68cc564884b47e86626c32aefe",
+      "local_dimensions": [
+        1000,
+        1000
+      ],
+      "qa_observation": "",
+      "submitted_observation": "burgundy eagle rug in living room",
+      "alt_effective": "burgundy eagle rug in living room",
+      "url_match": true,
+      "check_method": "LOCAL_IMAGE_VIEW_PLUS_LIVE_JSON",
+      "checked_at": "2026-09-08T16:00:28+07:00",
+      "IM1": "FULL",
+      "IM2": "NOT_CHECKED",
+      "IM3": "NOT_CHECKED",
+      "IM4": "NOT_CHECKED"
+    },
+    "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a__img_04": {
+      "handle": "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a",
+      "image_number": 4,
+      "live_url": "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8967b8dd437cd38ce5fb87bc8217a1bfbb8063cdb6eb3970717d8eb01f19e998.jpg?v=1784383734",
+      "workbook_url": "UNKNOWN_WITHOUT_SHOPIFY_EXPORT",
+      "local_evidence_file": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/images/B026/personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a__img_04.jpg",
+      "local_file_exists": true,
+      "local_sha256": "4ec3e6ed9f506525322c52fb55e77bc220193e5c0a73e6e7db3200f89f9ce7e2",
+      "local_dimensions": [
+        1000,
+        1000
+      ],
+      "qa_observation": "",
+      "submitted_observation": "double headed eagle rug on patio",
+      "alt_effective": "double headed eagle rug on patio",
+      "url_match": true,
+      "check_method": "LOCAL_IMAGE_VIEW_PLUS_LIVE_JSON",
+      "checked_at": "2026-09-08T16:00:28+07:00",
+      "IM1": "FULL",
+      "IM2": "NOT_CHECKED",
+      "IM3": "NOT_CHECKED",
+      "IM4": "NOT_CHECKED"
+    },
+    "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a__img_05": {
+      "handle": "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a",
+      "image_number": 5,
+      "live_url": "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/d43960485cb6cd763f84fc4fd50a4bba9b0dccac254bb518da608f28a23bc344.jpg?v=1784383738",
+      "workbook_url": "UNKNOWN_WITHOUT_SHOPIFY_EXPORT",
+      "local_evidence_file": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/images/B026/personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a__img_05.jpg",
+      "local_file_exists": true,
+      "local_sha256": "a442744698b8f8e74f452e2ecd8291b810f822ebecec8400e0e6be823e2b4b59",
+      "local_dimensions": [
+        1000,
+        1000
+      ],
+      "qa_observation": "",
+      "submitted_observation": "Byzantine eagle rug by fireplace",
+      "alt_effective": "Byzantine eagle rug by fireplace",
+      "url_match": true,
+      "check_method": "LOCAL_IMAGE_VIEW_PLUS_LIVE_JSON",
+      "checked_at": "2026-09-08T16:00:28+07:00",
+      "IM1": "FULL",
+      "IM2": "NOT_CHECKED",
+      "IM3": "NOT_CHECKED",
+      "IM4": "NOT_CHECKED"
+    },
+    "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a__img_06": {
+      "handle": "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a",
+      "image_number": 6,
+      "live_url": "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/0138b6aec332636db9872141aee8b617228a53e981b0c8fd2d30fbbf62786fd1.jpg?v=1784383738",
+      "workbook_url": "UNKNOWN_WITHOUT_SHOPIFY_EXPORT",
+      "local_evidence_file": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/images/B026/personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a__img_06.jpg",
+      "local_file_exists": true,
+      "local_sha256": "5e7d31da9a6f9f09d10b0737afad3ba2419149159f77426cdb14461ca5c5e21b",
+      "local_dimensions": [
+        1000,
+        1000
+      ],
+      "qa_observation": "",
+      "submitted_observation": "anti-slip backing detail for eagle rug",
+      "alt_effective": "anti-slip backing detail for eagle rug",
+      "url_match": true,
+      "check_method": "LOCAL_IMAGE_VIEW_PLUS_LIVE_JSON",
+      "checked_at": "2026-09-08T16:00:28+07:00",
+      "IM1": "FULL",
+      "IM2": "NOT_CHECKED",
+      "IM3": "NOT_CHECKED",
+      "IM4": "NOT_CHECKED"
+    },
+    "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a__img_07": {
+      "handle": "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a",
+      "image_number": 7,
+      "live_url": "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/cc8d785c83603519e2e9220262f37e8b194c602b592bedd0bd6ea070c1451033.jpg?v=1784383743",
+      "workbook_url": "UNKNOWN_WITHOUT_SHOPIFY_EXPORT",
+      "local_evidence_file": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/images/B026/personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a__img_07.jpg",
+      "local_file_exists": true,
+      "local_sha256": "65be78cef9593ad0d5ed7ff6700479678f9db24a26253905614304cae205bc77",
+      "local_dimensions": [
+        1000,
+        1000
+      ],
+      "qa_observation": "",
+      "submitted_observation": "microfiber cushion closeup for Byzantine rug",
+      "alt_effective": "microfiber cushion closeup for Byzantine rug",
+      "url_match": true,
+      "check_method": "LOCAL_IMAGE_VIEW_PLUS_LIVE_JSON",
+      "checked_at": "2026-09-08T16:00:28+07:00",
+      "IM1": "FULL",
+      "IM2": "NOT_CHECKED",
+      "IM3": "NOT_CHECKED",
+      "IM4": "NOT_CHECKED"
+    },
+    "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a__img_08": {
+      "handle": "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a",
+      "image_number": 8,
+      "live_url": "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/2d38d901e8cb65e798d1397b33813cd1240ac9b58e35b54276242e2deded5323.jpg?v=1784383743",
+      "workbook_url": "UNKNOWN_WITHOUT_SHOPIFY_EXPORT",
+      "local_evidence_file": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/images/B026/personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a__img_08.jpg",
+      "local_file_exists": true,
+      "local_sha256": "67ef8d04c426c41149d279deb8e64621dc60aaf38fcfbe75bebb8c66f4d1d2bd",
+      "local_dimensions": [
+        1000,
+        1000
+      ],
+      "qa_observation": "",
+      "submitted_observation": "Byzantine eagle rug quiet room scene",
+      "alt_effective": "Byzantine eagle rug quiet room scene",
+      "url_match": true,
+      "check_method": "LOCAL_IMAGE_VIEW_PLUS_LIVE_JSON",
+      "checked_at": "2026-09-08T16:00:28+07:00",
+      "IM1": "FULL",
+      "IM2": "NOT_CHECKED",
+      "IM3": "NOT_CHECKED",
+      "IM4": "NOT_CHECKED"
+    }
+  },
+  "product_count": 1,
+  "image_count": 8,
+  "completed_at": "2026-09-08T16:00:32+07:00"
+}

@@ -1,0 +1,28 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260908-143000-REV-R003",
+  "qa_batch_id": "REV_R003",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R003/SEO_Product_Optimization_revision_R003.xlsx",
+  "source_workbook_sha256": "a7d7ac76a5fa12c92ab37dfef46ff4b39e21595f20d8f11419d4d52f6590734e",
+  "batch_product_keys": [
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-103",
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-105",
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-106",
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-107",
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-108",
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-111",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110",
+    "wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644",
+    "custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca",
+    "feelings-wheel-round-classroom-rug-4be50a20fb"
+  ],
+  "status_counts": {
+    "QA_PASS": 0,
+    "QA_REVISE": 10,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_REVISE",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/qa/QA-20260908-140000-REV-R003/reviewer_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

@@ -1,0 +1,24 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260909-063000-REV-R063",
+  "qa_batch_id": "REV_R063",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R063/SEO_Product_Optimization_revision_R063.xlsx",
+  "source_workbook_sha256": "9261685837840d4e1cfc85ae3f9fd6c9ae44b851974be1e92f2f27dd4c94d17f",
+  "batch_product_keys": [
+    "wolf-galaxy-runner-rug-a1fc801242",
+    "galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7",
+    "custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9",
+    "custom-bear-paw-print-area-rug-a43b3e3594",
+    "wheel-of-feelings-and-emotions-round-rug-01636a663b",
+    "custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3"
+  ],
+  "status_counts": {
+    "QA_PASS": 6,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_PASS",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260909_060000-REV-R063/reviewer_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

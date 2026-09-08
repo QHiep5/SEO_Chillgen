@@ -1,0 +1,28 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260908-120000-REV-R001",
+  "qa_batch_id": "REV_R001",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R001/SEO_Product_Optimization_revision_R001.xlsx",
+  "source_workbook_sha256": "97db06b7c1459c44875c1da98c7c41043b338045d9140dd19d3bc84fd8a18edf",
+  "batch_product_keys": [
+    "custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520",
+    "personalized-dog-doormat-custom-text-non-slip-c76f704530",
+    "custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42",
+    "custom-galaxy-wolves-welcome-mat-f320a33157",
+    "custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4",
+    "galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17",
+    "custom-galaxy-wolf-welcome-mat-0e4d706227",
+    "galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e",
+    "wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e",
+    "custom-dog-paw-print-shaped-rug-39afbc78d5"
+  ],
+  "status_counts": {
+    "QA_PASS": 10,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_PASS",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/qa/QA-20260908-120000-REV-R001/independent_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

@@ -1,0 +1,28 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260909-103000-REV-R011",
+  "qa_batch_id": "REV_R011",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R011/SEO_Product_Optimization_revision_R011.xlsx",
+  "source_workbook_sha256": "7850485c1d02073accbfe18a9a879839cfc6291513b7dbe24fe038d209d9aaed",
+  "batch_product_keys": [
+    "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03",
+    "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02",
+    "personalized-soccer-trophy-area-rug-05582886df",
+    "custom-soccer-round-rug-trophy-championship-043ff71141",
+    "personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d",
+    "custom-halloween-dog-doormat-107f4d9fa1-107f4d9fa1",
+    "custom-halloween-dog-doormat-f86bd3c362-f86bd3c362",
+    "personalized-teachers-classroom-rules-area-rug-df4fbe7b91",
+    "personalized-teachers-classroom-rules-area-rug-3c846a8f41",
+    "personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2"
+  ],
+  "status_counts": {
+    "QA_PASS": 3,
+    "QA_REVISE": 7,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_REVISE",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260909_100000-REV-R011/reviewer_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

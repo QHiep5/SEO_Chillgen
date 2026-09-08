@@ -1,0 +1,440 @@
+{
+  "evidence_version": "independent-v2",
+  "revision": "R055",
+  "qa_run_id": "QA-20260908-REV-R055",
+  "checked_at": "2026-09-08T15:35:41+07:00",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R055/SEO_Product_Optimization_revision_R055.xlsx",
+  "source_workbook_sha256": "6799f068ffd74de6589ecb37c32c347fa298038fe03e44ff159fcedbf531abad",
+  "rubric_path": "/Users/buiquanghuy/Documents/seo_chillgen/seo-prompt/chillgen/prompt_qa.md",
+  "rubric_sha256": "caeacb83a45638bcffc03ce1d2daf1fc9e915f417ada6b66eb706284283ea96c",
+  "products": [
+    {
+      "handle": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-107",
+      "url": "https://chillgen.com/products/wheel-of-feelings-and-emotions-round-rug-educational-men-design-107",
+      "checked_at": "2026-09-08T15:35:41+07:00",
+      "http_status": 200,
+      "json_status": 200,
+      "html_snapshot": "seo_runs/chillgen.com/chillgen_20260907_01/qa/QA-20260908-160000-REV-R055/snapshots/01_wheel-of-feelings-and-emotions-round-rug-educational-men-design-107.html",
+      "html_sha256": "50aa12a07fa838212275ecb1029576c6452be740a97d8945beda0489d6340b54",
+      "json_sha256": "fb087ed718874818f85c6c0c337bb2c3f48f0ea7d250c8a1d261812c95a609b4",
+      "canonical": "https://chillgen.com/products/wheel-of-feelings-and-emotions-round-rug-educational-men-design-107",
+      "h1": "Wheel of Feelings and Emotions Round Rug, Educational Men - Design 107",
+      "live_title": "Wheel of Feelings and Emotions Round Rug, Educational Men - Design 107",
+      "live_body_text": "<p>This round rug features a vibrant \"Wheel of Feelings and Emotions\" design, making it an engaging and educational tool. It is specially crafted to help users identify, understand, and express emotions, fostering better communication skills. Ideal for various learning environments, this rug brings a comforting and interactive element to any space.</p><h3>Product Highlights</h3><ul>\n<li>Colorful feelings wheel design for emotional learning.</li>\n<li>Educational animal and shape elements enhance engagement.</li>\n<li>Offers a soft and comfortable surface.</li>\n<li>Made from durable, odor-resistant, and wear-resistant polyester.</li>\n<li>Suitable for a wide range of indoor settings and activities.</li>\n<li>Easy to clean and maintain with regular vacuuming or washing.</li>\n</ul><h3>Specifications</h3><table border=\"1\" cellpadding=\"6\" style=\"border-collapse:collapse;width:100%\">\n<tr>\n<th align=\"left\" width=\"35%\">Attribute</th>\n<th align=\"left\">Value</th>\n</tr>\n<tr>\n<td>Rug Form</td>\n<td>Area Rug</td>\n</tr>\n<tr>\n<td>Item Shape</td>\n<td>Round</td>\n</tr>\n<tr>\n<td>Weave Type</td>\n<td>Flat Woven</td>\n</tr>\n<tr>\n<td>Pile Height</td>\n<td>Low Pile</td>\n</tr>\n<tr>\n<td>Construction Type</td>\n<td>Machine Made</td>\n</tr>\n<tr>\n<td>Indoor/Outdoor Usage</td>\n<td>Indoor</td>\n</tr>\n<tr>\n<td>Room Type</td>\n<td>Classroom, Bedroom, Playroom, Homeschool, Office, Library, Learning Center</td>\n</tr>\n<tr>\n<td>Special Features</td>\n<td>Odor Resistant, Wear Resistant</td>\n</tr>\n<tr>\n<td>Pattern</td>\n<td>Animal, Flower, Crayon</td>\n</tr>\n<tr>\n<td>Theme</td>\n<td>Back to School, Classroom</td>\n</tr>\n<tr>\n<td>Style</td>\n<td>Educational</td>\n</tr>\n<tr>\n<td>Number of Pieces</td>\n<td>1</td>\n</tr>\n</table><h3>Material &amp; Care</h3><table border=\"1\" cellpadding=\"6\" style=\"border-collapse:collapse;width:100%\">\n<tr>\n<th align=\"left\" width=\"35%\">Item</th>\n<th align=\"left\">Detail</th>\n</tr>\n<tr>\n<td>Material Type</td>\n<td>Memory Foam, Polyester</td>\n</tr>\n<tr>\n<td>Backing Material</td>\n<td>Polyester</td>\n</tr>\n<tr>\n<td>Care Instructions</td>\n<td>Vacuum regularly. Hand wash in cold water or machine wash separately. Air dry or tumble dry on low heat. Avoid bleach.</td>\n</tr>\n</table><h3>Where It Works</h3><p>This educational rug is perfect for creating a calm and welcoming atmosphere in classrooms, counseling spaces, homeschool areas, and playrooms. It also works well in bedrooms, offices, and libraries, offering a comfortable spot for learning, group activities, or quiet time.</p>",
+      "live_meta_description": "This round educational rug with a Wheel of Feelings and Emotions design is made from memory foam, perfect for classrooms and learning areas.",
+      "live_options": [
+        {
+          "name": "CHOOSE YOUR SIZE",
+          "position": 1,
+          "values": [
+            "2x2 ft - XS (1 Kid)",
+            "3x3 ft - S (2 Kids)",
+            "4x4 ft - M (3-4 Kids)",
+            "5x5 ft - L (5-7 Kids)",
+            "6x6 ft - XL (8-12 Kids)",
+            "8x8 ft - 2XL (16-24 Kids)"
+          ]
+        }
+      ],
+      "live_variant_count": 6,
+      "live_image_urls": [
+        "//cdn.shopify.com/s/files/1/1023/0068/0561/files/49c64b89755c31cd507ca7e316f697e2f5a545a5d44f47dbd4e69f9261f8f77d.jpg?v=1786648399",
+        "//cdn.shopify.com/s/files/1/1023/0068/0561/files/03cd80cba677ae5fdb7dec14e6781921b5911a2f1008adfa7d32d2818a4ee54b.jpg?v=1786648399",
+        "//cdn.shopify.com/s/files/1/1023/0068/0561/files/e36421b1a5a9d7d68e08a30b5a757c1a2b1258c276925322215d4a3a7d0c9b36.jpg?v=1786648399",
+        "//cdn.shopify.com/s/files/1/1023/0068/0561/files/e2b261a9abcd663d5dea31b2d7a05a6968002fc764ea74d531b9a73cfae84bee.jpg?v=1786648399",
+        "//cdn.shopify.com/s/files/1/1023/0068/0561/files/6ada66f62736df3eb9a985902c549765057e80e923407d6c7b9207a33261cdbd.jpg?v=1786648399",
+        "//cdn.shopify.com/s/files/1/1023/0068/0561/files/8fe4a6ce7dc24320b43de81513d5161904ac99c45b9e0cb7756abd3044bd3a23.jpg?v=1786648399",
+        "//cdn.shopify.com/s/files/1/1023/0068/0561/files/a3c38d1cf0625814fe5079d0db9995e3069f536429bebf852322a5eed993cbc4.jpg?v=1786648399"
+      ],
+      "workbook_image_urls": [
+        "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/49c64b89755c31cd507ca7e316f697e2f5a545a5d44f47dbd4e69f9261f8f77d.jpg?v=1786648399",
+        "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/03cd80cba677ae5fdb7dec14e6781921b5911a2f1008adfa7d32d2818a4ee54b.jpg?v=1786648399",
+        "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e36421b1a5a9d7d68e08a30b5a757c1a2b1258c276925322215d4a3a7d0c9b36.jpg?v=1786648399",
+        "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e2b261a9abcd663d5dea31b2d7a05a6968002fc764ea74d531b9a73cfae84bee.jpg?v=1786648399",
+        "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6ada66f62736df3eb9a985902c549765057e80e923407d6c7b9207a33261cdbd.jpg?v=1786648399",
+        "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8fe4a6ce7dc24320b43de81513d5161904ac99c45b9e0cb7756abd3044bd3a23.jpg?v=1786648399",
+        "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a3c38d1cf0625814fe5079d0db9995e3069f536429bebf852322a5eed993cbc4.jpg?v=1786648399"
+      ],
+      "live_image_count": 7,
+      "workbook_image_count": 7,
+      "image_url_set_match": true
+    },
+    {
+      "handle": "wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644",
+      "url": "https://chillgen.com/products/wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644",
+      "checked_at": "2026-09-08T15:35:41+07:00",
+      "http_status": 200,
+      "json_status": 200,
+      "html_snapshot": "seo_runs/chillgen.com/chillgen_20260907_01/qa/QA-20260908-160000-REV-R055/snapshots/02_wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644.html",
+      "html_sha256": "7d525eec445c948552202d8b0151d58de42397f88f9cb78f977aede214c3409f",
+      "json_sha256": "955033ae018890cebedb800511b718db4809df0f873a003098a415934dd8667f",
+      "canonical": "https://chillgen.com/products/wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644",
+      "h1": "Wheel of Feelings Round Rug for Counseling Office Classroom and Home",
+      "live_title": "Wheel of Feelings Round Rug for Counseling Office Classroom and Home",
+      "live_body_text": "<p>The Wheel of Feelings and Emotions Round Rug is a thoughtfully designed educational and calming tool, ideal for helping children and adults alike explore and communicate their feelings. This visual mood chart serves as an interactive resource for mental health awareness, making it an excellent addition to educational environments, counseling offices, or cozy home spaces. Constructed to support emotional literacy, its colorful layout brings both personality and meaningful utility to any setting.</p>\n\n<h3>Product Highlights</h3>\n<ul>\n<li>Features an engaging feelings wheel and emotional awareness design to support mental health and self-expression.</li>\n<li>Crafted with high-quality polyester and soft memory foam for a comfortable and plush surface.</li>\n<li>Includes a practical non-slip backing to keep the rug securely in place.</li>\n<li>Odorless, wear-resistant, durable, and designed with fade-resistant colors safe for families and pets.</li>\n<li>Versatile and easy to clean, making it suitable for active kids, classrooms, and daily use.</li>\n</ul>\n\n<h3>Specifications</h3>\n<table border=\"1\" cellpadding=\"6\" style=\"border-collapse:collapse;width:100%\">\n<tr>\n<th align=\"left\" width=\"35%\">Attribute</th>\n<th align=\"left\">Value</th>\n</tr>\n<tr>\n<td>Rug Form Type</td>\n<td>Area Rug</td>\n</tr>\n<tr>\n<td>Item Shape</td>\n<td>Round</td>\n</tr>\n<tr>\n<td>Weave Type</td>\n<td>Machine Made</td>\n</tr>\n<tr>\n<td>Pile Height</td>\n<td>Low Pile</td>\n</tr>\n<tr>\n<td>Construction Type</td>\n<td>Machine Made</td>\n</tr>\n<tr>\n<td>Indoor/Outdoor Usage</td>\n<td>Indoor</td>\n</tr>\n<tr>\n<td>Room Type</td>\n<td>Classroom, living room, bedroom, kid's room, entrance, laundry, kitchen, hallway, office, dormitory</td>\n</tr>\n<tr>\n<td>Water Resistance Level</td>\n<td>Not Water Resistant</td>\n</tr>\n<tr>\n<td>Special Features</td>\n<td>Non Slip, Stain Resistant</td>\n</tr>\n<tr>\n<td>Pattern</td>\n<td>ABC Alphabet, Cute Rainbow, Grayson, Pencil, My Feelings</td>\n</tr>\n<tr>\n<td>Theme</td>\n<td>Back to school gifts, teacher rug</td>\n</tr>\n<tr>\n<td>Style Name</td>\n<td>Boho, ABC, Rainbow</td>\n</tr>\n<tr>\n<td>Number of Pieces</td>\n<td>1</td>\n</tr>\n</table>\n\n<h3>Material &amp; Care</h3>\n<table border=\"1\" cellpadding=\"6\" style=\"border-collapse:collapse;width:100%\">\n<tr>\n<th align=\"left\" width=\"35%\">Item</th>\n<th align=\"left\">Detail</th>\n</tr>\n<tr>\n<td>Material Type</td>\n<td>Memory Foam</td>\n</tr>\n<tr>\n<td>Back Material Type</td>\n<td>Polyester</td>\n</tr>\n<tr>\n<td>Care Instructions</td>\n<td>Recommended to hand wash in cold water or machine wash separately; do not use bleach. Tumble dry or air dry at low temperature. Avoid prolonged soaking and high temperature exposure. Regular vacuuming is recommended.</td>\n</tr>\n</table>\n\n<h3>Where It Works</h3>\n<p>This educational emotions carpet is perfectly suited for school classrooms, counseling offices, and homeschool environments. It also functions beautifully as an interactive play rug in children's bedrooms, nurseries, and family living rooms.</p>",
+      "live_meta_description": "Explore and communicate emotions with a Wheel of Feelings round rug featuring a mood chart and non slip backing for counseling offices and classrooms.",
+      "live_options": [
+        {
+          "name": "CHOOSE PRODUCT SIZE",
+          "position": 1,
+          "values": [
+            "24\"x24\"",
+            "36\"x36\"",
+            "48\"x48\"",
+            "60\"x60\"",
+            "72\"x72\""
+          ]
+        }
+      ],
+      "live_variant_count": 5,
+      "live_image_urls": [
+        "//cdn.shopify.com/s/files/1/1023/0068/0561/files/87f29d7156eead8af9e5eeec9e1789d3acf500cc539512f6858bed62a5940b10.jpg?v=1784369334",
+        "//cdn.shopify.com/s/files/1/1023/0068/0561/files/9d43238bd6a490fceef0ed8bf03953306c06881b3b756a212f8c1af5a2b56c5f.jpg?v=1784369336",
+        "//cdn.shopify.com/s/files/1/1023/0068/0561/files/f215bff2f15d51ef5f8a7164b6b0af77af21d2ad69bf5c7fc532016e77b9d694.jpg?v=1784369339",
+        "//cdn.shopify.com/s/files/1/1023/0068/0561/files/01534224b4b5765e072221f089a0b278e5d4d53012f0a9dbffcd3e4bce8adb84.jpg?v=1784369341",
+        "//cdn.shopify.com/s/files/1/1023/0068/0561/files/8883ae6a3ab7a6a90b499edb674eb92af94bb62a087abf9dfbd46c1bf92af53b.jpg?v=1784369345",
+        "//cdn.shopify.com/s/files/1/1023/0068/0561/files/5045ae9e04fc071459a78226f865c3b72716ff9e4947472a3c5b2d5a8781888d.jpg?v=1784369346",
+        "//cdn.shopify.com/s/files/1/1023/0068/0561/files/fea810e29ee9165e857e3f142b6316de724f242a05d818a31a79aba6d010962a.jpg?v=1784369350"
+      ],
+      "workbook_image_urls": [
+        "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/87f29d7156eead8af9e5eeec9e1789d3acf500cc539512f6858bed62a5940b10.jpg?v=1784369334",
+        "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9d43238bd6a490fceef0ed8bf03953306c06881b3b756a212f8c1af5a2b56c5f.jpg?v=1784369336",
+        "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f215bff2f15d51ef5f8a7164b6b0af77af21d2ad69bf5c7fc532016e77b9d694.jpg?v=1784369339",
+        "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/01534224b4b5765e072221f089a0b278e5d4d53012f0a9dbffcd3e4bce8adb84.jpg?v=1784369341",
+        "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8883ae6a3ab7a6a90b499edb674eb92af94bb62a087abf9dfbd46c1bf92af53b.jpg?v=1784369345",
+        "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5045ae9e04fc071459a78226f865c3b72716ff9e4947472a3c5b2d5a8781888d.jpg?v=1784369346",
+        "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fea810e29ee9165e857e3f142b6316de724f242a05d818a31a79aba6d010962a.jpg?v=1784369350"
+      ],
+      "live_image_count": 7,
+      "workbook_image_count": 7,
+      "image_url_set_match": true
+    }
+  ],
+  "images": {
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-107__img_01": {
+      "handle": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-107",
+      "image_number": 1,
+      "live_url": "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/49c64b89755c31cd507ca7e316f697e2f5a545a5d44f47dbd4e69f9261f8f77d.jpg?v=1786648399",
+      "workbook_url": "UNKNOWN_WITHOUT_SHOPIFY_EXPORT",
+      "local_evidence_file": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/images/B013/wheel-of-feelings-and-emotions-round-rug-educational-men-design-107__img_01.jpg",
+      "local_file_exists": true,
+      "local_sha256": "f4dd4a07b0705e0d90908414ef8919f81e723359358d4751ea4c8f35a32689b7",
+      "local_dimensions": [
+        1000,
+        1000
+      ],
+      "qa_observation": "",
+      "submitted_observation": "animal feelings rug in classroom play area",
+      "alt_effective": "animal feelings rug in classroom play area",
+      "url_match": true,
+      "check_method": "LOCAL_IMAGE_VIEW_PLUS_LIVE_JSON",
+      "checked_at": "2026-09-08T15:35:41+07:00",
+      "IM1": "FULL",
+      "IM2": "NOT_CHECKED",
+      "IM3": "NOT_CHECKED",
+      "IM4": "NOT_CHECKED"
+    },
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-107__img_02": {
+      "handle": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-107",
+      "image_number": 2,
+      "live_url": "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/03cd80cba677ae5fdb7dec14e6781921b5911a2f1008adfa7d32d2818a4ee54b.jpg?v=1786648399",
+      "workbook_url": "UNKNOWN_WITHOUT_SHOPIFY_EXPORT",
+      "local_evidence_file": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/images/B013/wheel-of-feelings-and-emotions-round-rug-educational-men-design-107__img_02.jpg",
+      "local_file_exists": true,
+      "local_sha256": "5d992f6c13741ccb1da75c1db06f3064923c5be929976d1c2c844df1af0cba83",
+      "local_dimensions": [
+        1000,
+        1000
+      ],
+      "qa_observation": "",
+      "submitted_observation": "size guide for animal emotions rug",
+      "alt_effective": "size guide for animal emotions rug",
+      "url_match": true,
+      "check_method": "LOCAL_IMAGE_VIEW_PLUS_LIVE_JSON",
+      "checked_at": "2026-09-08T15:35:41+07:00",
+      "IM1": "FULL",
+      "IM2": "NOT_CHECKED",
+      "IM3": "NOT_CHECKED",
+      "IM4": "NOT_CHECKED"
+    },
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-107__img_03": {
+      "handle": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-107",
+      "image_number": 3,
+      "live_url": "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e36421b1a5a9d7d68e08a30b5a757c1a2b1258c276925322215d4a3a7d0c9b36.jpg?v=1786648399",
+      "workbook_url": "UNKNOWN_WITHOUT_SHOPIFY_EXPORT",
+      "local_evidence_file": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/images/B013/wheel-of-feelings-and-emotions-round-rug-educational-men-design-107__img_03.jpg",
+      "local_file_exists": true,
+      "local_sha256": "1b3beacc9ba23c4080c4053931829d2c606328e271086bf632750a18b14b0b59",
+      "local_dimensions": [
+        1000,
+        1000
+      ],
+      "qa_observation": "",
+      "submitted_observation": "child reading on animal feelings classroom rug",
+      "alt_effective": "child reading on animal feelings classroom rug",
+      "url_match": true,
+      "check_method": "LOCAL_IMAGE_VIEW_PLUS_LIVE_JSON",
+      "checked_at": "2026-09-08T15:35:41+07:00",
+      "IM1": "FULL",
+      "IM2": "NOT_CHECKED",
+      "IM3": "NOT_CHECKED",
+      "IM4": "NOT_CHECKED"
+    },
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-107__img_04": {
+      "handle": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-107",
+      "image_number": 4,
+      "live_url": "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/e2b261a9abcd663d5dea31b2d7a05a6968002fc764ea74d531b9a73cfae84bee.jpg?v=1786648399",
+      "workbook_url": "UNKNOWN_WITHOUT_SHOPIFY_EXPORT",
+      "local_evidence_file": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/images/B013/wheel-of-feelings-and-emotions-round-rug-educational-men-design-107__img_04.jpg",
+      "local_file_exists": true,
+      "local_sha256": "1590473beabc3865172d4b1908d0848015e3681c835fe08da7f12f4b9bea893a",
+      "local_dimensions": [
+        1000,
+        1000
+      ],
+      "qa_observation": "",
+      "submitted_observation": "teacher group activity on animal emotion rug",
+      "alt_effective": "teacher group activity on animal emotion rug",
+      "url_match": true,
+      "check_method": "LOCAL_IMAGE_VIEW_PLUS_LIVE_JSON",
+      "checked_at": "2026-09-08T15:35:41+07:00",
+      "IM1": "FULL",
+      "IM2": "NOT_CHECKED",
+      "IM3": "NOT_CHECKED",
+      "IM4": "NOT_CHECKED"
+    },
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-107__img_05": {
+      "handle": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-107",
+      "image_number": 5,
+      "live_url": "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/6ada66f62736df3eb9a985902c549765057e80e923407d6c7b9207a33261cdbd.jpg?v=1786648399",
+      "workbook_url": "UNKNOWN_WITHOUT_SHOPIFY_EXPORT",
+      "local_evidence_file": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/images/B013/wheel-of-feelings-and-emotions-round-rug-educational-men-design-107__img_05.jpg",
+      "local_file_exists": true,
+      "local_sha256": "93480c66503241a7f18bc19e0f4ecbb8cd40e69cedfcba0ae9a62e9938f7c422",
+      "local_dimensions": [
+        1000,
+        1000
+      ],
+      "qa_observation": "",
+      "submitted_observation": "baby on animal feelings rug with backing callout",
+      "alt_effective": "baby on animal feelings rug with backing callout",
+      "url_match": true,
+      "check_method": "LOCAL_IMAGE_VIEW_PLUS_LIVE_JSON",
+      "checked_at": "2026-09-08T15:35:41+07:00",
+      "IM1": "FULL",
+      "IM2": "NOT_CHECKED",
+      "IM3": "NOT_CHECKED",
+      "IM4": "NOT_CHECKED"
+    },
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-107__img_06": {
+      "handle": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-107",
+      "image_number": 6,
+      "live_url": "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8fe4a6ce7dc24320b43de81513d5161904ac99c45b9e0cb7756abd3044bd3a23.jpg?v=1786648399",
+      "workbook_url": "UNKNOWN_WITHOUT_SHOPIFY_EXPORT",
+      "local_evidence_file": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/images/B013/wheel-of-feelings-and-emotions-round-rug-educational-men-design-107__img_06.jpg",
+      "local_file_exists": true,
+      "local_sha256": "82a86768567abb3f9a50611cd2e30f140d5ef334baffb6129b853c2b7c8c6f2a",
+      "local_dimensions": [
+        1000,
+        1000
+      ],
+      "qa_observation": "",
+      "submitted_observation": "attractive design and reinforced edging graphic for animal feelings rug",
+      "alt_effective": "attractive design and reinforced edging graphic for animal feelings rug",
+      "url_match": true,
+      "check_method": "LOCAL_IMAGE_VIEW_PLUS_LIVE_JSON",
+      "checked_at": "2026-09-08T15:35:41+07:00",
+      "IM1": "FULL",
+      "IM2": "NOT_CHECKED",
+      "IM3": "NOT_CHECKED",
+      "IM4": "NOT_CHECKED"
+    },
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-107__img_07": {
+      "handle": "wheel-of-feelings-and-emotions-round-rug-educational-men-design-107",
+      "image_number": 7,
+      "live_url": "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/a3c38d1cf0625814fe5079d0db9995e3069f536429bebf852322a5eed993cbc4.jpg?v=1786648399",
+      "workbook_url": "UNKNOWN_WITHOUT_SHOPIFY_EXPORT",
+      "local_evidence_file": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/images/B013/wheel-of-feelings-and-emotions-round-rug-educational-men-design-107__img_07.jpg",
+      "local_file_exists": true,
+      "local_sha256": "e82d403ff5fc27ea0af731c04f1613a4641cded0760e1f84c2746af794f6069b",
+      "local_dimensions": [
+        1000,
+        1000
+      ],
+      "qa_observation": "",
+      "submitted_observation": "superior quality backing graphic for animal emotions rug",
+      "alt_effective": "superior quality backing graphic for animal emotions rug",
+      "url_match": true,
+      "check_method": "LOCAL_IMAGE_VIEW_PLUS_LIVE_JSON",
+      "checked_at": "2026-09-08T15:35:41+07:00",
+      "IM1": "FULL",
+      "IM2": "NOT_CHECKED",
+      "IM3": "NOT_CHECKED",
+      "IM4": "NOT_CHECKED"
+    },
+    "wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644__img_01": {
+      "handle": "wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644",
+      "image_number": 1,
+      "live_url": "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/87f29d7156eead8af9e5eeec9e1789d3acf500cc539512f6858bed62a5940b10.jpg?v=1784369334",
+      "workbook_url": "UNKNOWN_WITHOUT_SHOPIFY_EXPORT",
+      "local_evidence_file": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/images/B019/wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644__img_01.jpg",
+      "local_file_exists": true,
+      "local_sha256": "c56a39331448e03d253e0c56bcffa7c63ed556cc4fc5f0be4521d77a4d643478",
+      "local_dimensions": [
+        1000,
+        1000
+      ],
+      "qa_observation": "",
+      "submitted_observation": "I Am feelings wheel rug in classroom",
+      "alt_effective": "I Am feelings wheel rug in classroom",
+      "url_match": true,
+      "check_method": "LOCAL_IMAGE_VIEW_PLUS_LIVE_JSON",
+      "checked_at": "2026-09-08T15:35:41+07:00",
+      "IM1": "FULL",
+      "IM2": "NOT_CHECKED",
+      "IM3": "NOT_CHECKED",
+      "IM4": "NOT_CHECKED"
+    },
+    "wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644__img_02": {
+      "handle": "wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644",
+      "image_number": 2,
+      "live_url": "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/9d43238bd6a490fceef0ed8bf03953306c06881b3b756a212f8c1af5a2b56c5f.jpg?v=1784369336",
+      "workbook_url": "UNKNOWN_WITHOUT_SHOPIFY_EXPORT",
+      "local_evidence_file": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/images/B019/wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644__img_02.jpg",
+      "local_file_exists": true,
+      "local_sha256": "107cc4ffeebda064c883d02b3380a225e5edcedbb6283d20ccaeba11ae1158e1",
+      "local_dimensions": [
+        1000,
+        1000
+      ],
+      "qa_observation": "",
+      "submitted_observation": "size guide for feelings wheel rug",
+      "alt_effective": "size guide for feelings wheel rug",
+      "url_match": true,
+      "check_method": "LOCAL_IMAGE_VIEW_PLUS_LIVE_JSON",
+      "checked_at": "2026-09-08T15:35:41+07:00",
+      "IM1": "FULL",
+      "IM2": "NOT_CHECKED",
+      "IM3": "NOT_CHECKED",
+      "IM4": "NOT_CHECKED"
+    },
+    "wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644__img_03": {
+      "handle": "wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644",
+      "image_number": 3,
+      "live_url": "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/f215bff2f15d51ef5f8a7164b6b0af77af21d2ad69bf5c7fc532016e77b9d694.jpg?v=1784369339",
+      "workbook_url": "UNKNOWN_WITHOUT_SHOPIFY_EXPORT",
+      "local_evidence_file": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/images/B019/wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644__img_03.jpg",
+      "local_file_exists": true,
+      "local_sha256": "6dc5a2a089a13803e18110eccab3011089d1f7c31cfde7649c8e48e395947a37",
+      "local_dimensions": [
+        1000,
+        1000
+      ],
+      "qa_observation": "",
+      "submitted_observation": "baby on non-slip feelings wheel rug",
+      "alt_effective": "baby on non-slip feelings wheel rug",
+      "url_match": true,
+      "check_method": "LOCAL_IMAGE_VIEW_PLUS_LIVE_JSON",
+      "checked_at": "2026-09-08T15:35:41+07:00",
+      "IM1": "FULL",
+      "IM2": "NOT_CHECKED",
+      "IM3": "NOT_CHECKED",
+      "IM4": "NOT_CHECKED"
+    },
+    "wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644__img_04": {
+      "handle": "wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644",
+      "image_number": 4,
+      "live_url": "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/01534224b4b5765e072221f089a0b278e5d4d53012f0a9dbffcd3e4bce8adb84.jpg?v=1784369341",
+      "workbook_url": "UNKNOWN_WITHOUT_SHOPIFY_EXPORT",
+      "local_evidence_file": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/images/B019/wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644__img_04.jpg",
+      "local_file_exists": true,
+      "local_sha256": "2ec47db9fe8893a2fb1d4cc41b4dec9f5eeac3472e026ca917d08eecdeeed451",
+      "local_dimensions": [
+        1000,
+        1000
+      ],
+      "qa_observation": "",
+      "submitted_observation": "classroom group using emotions rug",
+      "alt_effective": "classroom group using emotions rug",
+      "url_match": true,
+      "check_method": "LOCAL_IMAGE_VIEW_PLUS_LIVE_JSON",
+      "checked_at": "2026-09-08T15:35:41+07:00",
+      "IM1": "FULL",
+      "IM2": "NOT_CHECKED",
+      "IM3": "NOT_CHECKED",
+      "IM4": "NOT_CHECKED"
+    },
+    "wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644__img_05": {
+      "handle": "wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644",
+      "image_number": 5,
+      "live_url": "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/8883ae6a3ab7a6a90b499edb674eb92af94bb62a087abf9dfbd46c1bf92af53b.jpg?v=1784369345",
+      "workbook_url": "UNKNOWN_WITHOUT_SHOPIFY_EXPORT",
+      "local_evidence_file": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/images/B019/wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644__img_05.jpg",
+      "local_file_exists": true,
+      "local_sha256": "1ec78170ac0fbd562863e0d850fef4916d1660c83b5727e5fb593abfbe29b38e",
+      "local_dimensions": [
+        1000,
+        1000
+      ],
+      "qa_observation": "",
+      "submitted_observation": "superior quality backing panel for feelings rug",
+      "alt_effective": "superior quality backing panel for feelings rug",
+      "url_match": true,
+      "check_method": "LOCAL_IMAGE_VIEW_PLUS_LIVE_JSON",
+      "checked_at": "2026-09-08T15:35:41+07:00",
+      "IM1": "FULL",
+      "IM2": "NOT_CHECKED",
+      "IM3": "NOT_CHECKED",
+      "IM4": "NOT_CHECKED"
+    },
+    "wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644__img_06": {
+      "handle": "wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644",
+      "image_number": 6,
+      "live_url": "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/5045ae9e04fc071459a78226f865c3b72716ff9e4947472a3c5b2d5a8781888d.jpg?v=1784369346",
+      "workbook_url": "UNKNOWN_WITHOUT_SHOPIFY_EXPORT",
+      "local_evidence_file": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/images/B019/wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644__img_06.jpg",
+      "local_file_exists": true,
+      "local_sha256": "b26983c9da382c3bbc4697ba924590677b3e7f3942f24361886d656eebeea128",
+      "local_dimensions": [
+        1000,
+        1000
+      ],
+      "qa_observation": "",
+      "submitted_observation": "child reading on affirmation wheel rug",
+      "alt_effective": "child reading on affirmation wheel rug",
+      "url_match": true,
+      "check_method": "LOCAL_IMAGE_VIEW_PLUS_LIVE_JSON",
+      "checked_at": "2026-09-08T15:35:41+07:00",
+      "IM1": "FULL",
+      "IM2": "NOT_CHECKED",
+      "IM3": "NOT_CHECKED",
+      "IM4": "NOT_CHECKED"
+    },
+    "wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644__img_07": {
+      "handle": "wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644",
+      "image_number": 7,
+      "live_url": "https://cdn.shopify.com/s/files/1/1023/0068/0561/files/fea810e29ee9165e857e3f142b6316de724f242a05d818a31a79aba6d010962a.jpg?v=1784369350",
+      "workbook_url": "UNKNOWN_WITHOUT_SHOPIFY_EXPORT",
+      "local_evidence_file": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/images/B019/wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644__img_07.jpg",
+      "local_file_exists": true,
+      "local_sha256": "3d2a35d486fe9f9e35bf07b15c1140a1946c23621e8cdbe81df1f4e884d24498",
+      "local_dimensions": [
+        1000,
+        1000
+      ],
+      "qa_observation": "",
+      "submitted_observation": "reinforced edging graphic for feelings wheel rug",
+      "alt_effective": "reinforced edging graphic for feelings wheel rug",
+      "url_match": true,
+      "check_method": "LOCAL_IMAGE_VIEW_PLUS_LIVE_JSON",
+      "checked_at": "2026-09-08T15:35:41+07:00",
+      "IM1": "FULL",
+      "IM2": "NOT_CHECKED",
+      "IM3": "NOT_CHECKED",
+      "IM4": "NOT_CHECKED"
+    }
+  },
+  "product_count": 2,
+  "image_count": 14,
+  "completed_at": "2026-09-08T15:35:44+07:00"
+}

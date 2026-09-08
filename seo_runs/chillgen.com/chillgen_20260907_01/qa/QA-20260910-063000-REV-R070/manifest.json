@@ -1,0 +1,24 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260910-063000-REV-R070",
+  "qa_batch_id": "REV_R070",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R070/SEO_Product_Optimization_revision_R070.xlsx",
+  "source_workbook_sha256": "21761b77fa4c94f4b17386720bff1f5b6075608ce15cad00ec27cbb5bab4c8b9",
+  "batch_product_keys": [
+    "custom-dragon-shaped-area-rug-personalized-library-western-dragon",
+    "personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04",
+    "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02",
+    "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01",
+    "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03",
+    "personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05"
+  ],
+  "status_counts": {
+    "QA_PASS": 6,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_PASS",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260910_060000-REV-R070/reviewer_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

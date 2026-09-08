@@ -1,0 +1,28 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260910-023000-REV-R069",
+  "qa_batch_id": "REV_R069",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R069/SEO_Product_Optimization_revision_R069.xlsx",
+  "source_workbook_sha256": "71a71306adc81252c413f52db1d4ca7d5692c3889a80d52490b90eff77262216",
+  "batch_product_keys": [
+    "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-12",
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-02",
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-08",
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-05",
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-07",
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-03",
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-10",
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-01",
+    "custom-octopus-welcome-mat-for-front-door-cf228fd538",
+    "custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da"
+  ],
+  "status_counts": {
+    "QA_PASS": 10,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_PASS",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260910_020000-REV-R069/reviewer_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

@@ -1,0 +1,28 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260910-093000-REV-R071",
+  "qa_batch_id": "REV_R071",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R071/SEO_Product_Optimization_revision_R071.xlsx",
+  "source_workbook_sha256": "666634b07eed1ed9333c5a0565cd6c5f0e60fcf0daba464eb9f940d78ef734e4",
+  "batch_product_keys": [
+    "personalized-tropical-beach-rug-custom-family-name-tropic-design-02",
+    "personalized-tropical-beach-rug-custom-family-name-tropic-design-05",
+    "personalized-tropical-beach-rug-custom-family-name-tropic-design-01",
+    "personalized-tropical-beach-rug-custom-family-name-tropic-design-08",
+    "personalized-calming-corner-rug-for-classroom-custom-tea-design-101",
+    "personalized-calming-corner-rug-for-classroom-custom-tea-design-102",
+    "personalized-calming-corner-rug-for-classroom-custom-tea-design-103",
+    "personalized-teachers-classroom-rug-custom-teacher-name-c-design-03",
+    "personalized-teachers-classroom-rug-custom-teacher-name-c-design-04",
+    "personalized-teachers-classroom-rug-custom-teacher-name-c-design-01"
+  ],
+  "status_counts": {
+    "QA_PASS": 10,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_PASS",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260910_090000-REV-R071/reviewer_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

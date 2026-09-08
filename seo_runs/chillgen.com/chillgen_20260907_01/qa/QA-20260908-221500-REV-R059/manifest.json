@@ -1,0 +1,19 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260908-221500-REV-R059",
+  "qa_batch_id": "REV_R059",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R059/SEO_Product_Optimization_revision_R059.xlsx",
+  "source_workbook_sha256": "61c2dbf01884d89155131e52587370f10e8113931577cdd65e15f46de9dc49bd",
+  "batch_product_keys": [
+    "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a"
+  ],
+  "status_counts": {
+    "QA_PASS": 1,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_PASS",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/qa/QA-20260908-220000-REV-R059/reviewer_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

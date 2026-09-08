@@ -1,0 +1,20 @@
+from pathlib import Path
+import csv, json, re, openpyxl
+
+B=Path('/Users/buiquanghuy/Documents/seo_chillgen')
+S=B/'seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B003_scope_workbook.xlsx'
+O=B/'seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B003_scope_workbook_revision1.xlsx'
+scope={x['Handle'] for x in csv.DictReader((B/'seo_runs/chillgen.com/chillgen_20260907_01/batches/B003_SEO_Products.csv').open())}
+w=openpyxl.load_workbook(S); ws=w['SEO_Products']; h=[c.value for c in ws[1]]; ix={x:i+1 for i,x in enumerate(h)}; changed=[]
+for row in ws.iter_rows(min_row=2):
+    handle=row[ix['Handle']-1].value
+    if handle not in scope: continue
+    touched=False
+    for name in ('description_proposed','description_proposed_html','meta_description_seo','title_proposed'):
+        cell=ws.cell(row[0].row,ix[name])
+        if isinstance(cell.value,str):
+            new=re.sub(r'\b(?:non[- ]?slip|anti[- ]?slip|non[- ]?skid|nonslip)\b','',cell.value,flags=re.I)
+            new=re.sub(r'\s{2,}',' ',new).strip()
+            if new!=cell.value: cell.value=new; touched=True
+    if touched: changed.append(handle)
+w.save(O); print(json.dumps({'output':str(O),'products_revised':len(changed),'scope_products':len(scope),'handles':changed}))

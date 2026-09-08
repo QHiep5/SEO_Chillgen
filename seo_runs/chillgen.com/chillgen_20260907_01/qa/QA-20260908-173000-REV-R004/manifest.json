@@ -1,0 +1,28 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260908-173000-REV-R004",
+  "qa_batch_id": "REV_R004",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R004/SEO_Product_Optimization_revision_R004.xlsx",
+  "source_workbook_sha256": "5a65e43f07b2295e30bb63fec0119fdadb9594837f252c8cd8e9a12c28150ef3",
+  "batch_product_keys": [
+    "wheel-of-feelings-and-emotions-round-rug-2ec976598b",
+    "custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8",
+    "custom-road-map-area-rug-e4dbf01f05",
+    "custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0",
+    "custom-road-map-area-rug-d39d38a4a8",
+    "custom-road-map-area-rug-60aa327740",
+    "custom-family-name-welcome-doormat-front-door-6831756395-6831756395",
+    "custom-vintage-baseball-area-rug-b5f20ad4f5",
+    "colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2",
+    "colorful-classroom-rug-for-kids-877e4e6020-877e4e6020"
+  ],
+  "status_counts": {
+    "QA_PASS": 0,
+    "QA_REVISE": 10,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_REVISE",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/qa/QA-20260908-170000-REV-R004/reviewer_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

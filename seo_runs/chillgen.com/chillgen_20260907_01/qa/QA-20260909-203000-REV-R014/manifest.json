@@ -1,0 +1,28 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260909-203000-REV-R014",
+  "qa_batch_id": "REV_R014",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R014/SEO_Product_Optimization_revision_R014.xlsx",
+  "source_workbook_sha256": "18e78349d86dd74e02099bb6d937c2b68119d330a4c0b6321868e5c41e2b2803",
+  "batch_product_keys": [
+    "personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c",
+    "spanish-abc-classroom-rug-d3f56c3b42",
+    "custom-abc-spanish-educational-rug-6cefdc1a95",
+    "custom-octopus-welcome-mat-for-front-door-and-entryway-f282a58169",
+    "custom-octopus-welcome-mat-for-front-door-and-entryway-13d8d7f994",
+    "custom-golf-welcome-mat-bf5c20e2dd",
+    "custom-octopus-welcome-mat-coastal-beach-design-9b577a6e0a",
+    "custom-coastal-octopus-welcome-mat-for-entryway-and-bathroom-e11dfb0c2f",
+    "custom-octopus-welcome-mat-87bf0d33b5",
+    "custom-octopus-coastal-welcome-mat-330b515744"
+  ],
+  "status_counts": {
+    "QA_PASS": 2,
+    "QA_REVISE": 8,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_REVISE",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260909_200000-REV-R014/reviewer_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

@@ -1,0 +1,24 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260909-093000-REV-R064",
+  "qa_batch_id": "REV_R064",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R064/SEO_Product_Optimization_revision_R064.xlsx",
+  "source_workbook_sha256": "3b7db09eec9443243c6897a5d9ef29cfe173589b5622634c0d86d6e2dab7719d",
+  "batch_product_keys": [
+    "custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99",
+    "custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d",
+    "custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c",
+    "custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546",
+    "custom-octopus-sea-monster-welcome-mat-273aa005c8",
+    "custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b"
+  ],
+  "status_counts": {
+    "QA_PASS": 6,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_PASS",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260909_090000-REV-R064/reviewer_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

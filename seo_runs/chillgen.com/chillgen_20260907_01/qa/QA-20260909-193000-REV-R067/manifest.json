@@ -1,0 +1,28 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260909-193000-REV-R067",
+  "qa_batch_id": "REV_R067",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R067/SEO_Product_Optimization_revision_R067.xlsx",
+  "source_workbook_sha256": "4a8aaa7e089562fd399c838dd55ef28bb03d6dfebb5f3deba2d4e210a7f39c7b",
+  "batch_product_keys": [
+    "tree-of-life-celtic-indoor-rug-89f894eb42",
+    "tree-of-life-celtic-indoor-rug-e74720f30a",
+    "custom-pink-flamingo-welcome-mat-98ad4e675e",
+    "custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca",
+    "custom-japanese-koi-fish-shaped-area-rug-940fcac253",
+    "custom-japanese-koi-fish-shaped-area-rug-925e5d0767",
+    "custom-koi-fish-shaped-area-rug-027c867fc1",
+    "custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66",
+    "personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0",
+    "personalized-dragon-round-rug-3d-effect-dcdcc98f68"
+  ],
+  "status_counts": {
+    "QA_PASS": 10,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_PASS",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260909_190000-REV-R067/reviewer_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

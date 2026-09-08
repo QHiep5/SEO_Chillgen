@@ -1,0 +1,28 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260910-193000-REV-R021",
+  "qa_batch_id": "REV_R021",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R021/SEO_Product_Optimization_revision_R021.xlsx",
+  "source_workbook_sha256": "a3090783c0173a6ac0224256bedc8b1c6e56cda23258d01d8993ab106a740425",
+  "batch_product_keys": [
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114"
+  ],
+  "status_counts": {
+    "QA_PASS": 0,
+    "QA_REVISE": 10,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_REVISE",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260910_190000-REV-R021/reviewer_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

@@ -1,0 +1,28 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260909-023000-REV-R008",
+  "qa_batch_id": "REV_R008",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R008/SEO_Product_Optimization_revision_R008.xlsx",
+  "source_workbook_sha256": "f9835931f9d8a8d83c2c12574e757fe90816b6df3beedc86485170664dd185b6",
+  "batch_product_keys": [
+    "personalized-classroom-welcome-doormat-2820e17d05-2820e17d05",
+    "personalized-classroom-doormat-welcome-to-class-door-mat-1086025b51",
+    "personalized-classroom-doormat-custom-teacher-name-753f4f3532-753f4f3532",
+    "personalized-dog-welcome-mat-front-door-36fdce22f9",
+    "personalized-dog-welcome-mat-entryway-front-door-5385d11bb7",
+    "personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c",
+    "personalized-dog-welcome-mat-custom-pet-name-a66d52e9f8",
+    "custom-running-horse-welcome-mat-4bd82949b1-4bd82949b1",
+    "custom-running-horse-welcome-mat-7069b0c873-7069b0c873",
+    "custom-wolf-print-welcome-mat-89ae1c27ae"
+  ],
+  "status_counts": {
+    "QA_PASS": 0,
+    "QA_REVISE": 10,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_REVISE",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260909_020000-REV-R008/reviewer_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

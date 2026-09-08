@@ -1,0 +1,29 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260911-140000-BATCH-B002-REV2-HARDENED",
+  "qa_batch_id": "REV_B002",
+  "source_workbook": "seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B002_scope_workbook_revision2.xlsx",
+  "source_workbook_sha256": "97ceea856289d910267505c3fedb811a43fd4c88cb4846ab56822dc596aff4cf",
+  "batch_product_keys": [
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-04",
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-14",
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-05",
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-01",
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-08",
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-03",
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-10",
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-07",
+    "personalized-halloween-3d-optical-illusion-ghost-round-rug-a07",
+    "personalized-halloween-3d-optical-illusion-ghost-round-rug-design-12"
+  ],
+  "status_counts": {
+    "QA_PASS": 9,
+    "QA_REVISE": 1,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_REVISE",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260911-130000-REVIEW-B002-R2/reviewer_evidence.json",
+  "manual_criteria_evidence": "seo_runs/chillgen.com/chillgen_20260911-130000-REVIEW-B002-R2/criteria_evidence_compliant.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

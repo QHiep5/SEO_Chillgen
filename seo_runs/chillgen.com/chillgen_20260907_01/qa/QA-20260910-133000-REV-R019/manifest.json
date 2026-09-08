@@ -1,0 +1,28 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260910-133000-REV-R019",
+  "qa_batch_id": "REV_R019",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R019/SEO_Product_Optimization_revision_R019.xlsx",
+  "source_workbook_sha256": "92bba2d52fd61852de9ac7ca8f9910802cbb0b2fee750dadc7cd3ad9a9947465",
+  "batch_product_keys": [
+    "personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat",
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-108",
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-109",
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-110",
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-111",
+    "core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug",
+    "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100",
+    "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101",
+    "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103",
+    "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104"
+  ],
+  "status_counts": {
+    "QA_PASS": 5,
+    "QA_REVISE": 5,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_REVISE",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260910_130000-REV-R019/reviewer_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

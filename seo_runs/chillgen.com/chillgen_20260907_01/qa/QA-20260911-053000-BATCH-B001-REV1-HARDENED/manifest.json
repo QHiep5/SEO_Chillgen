@@ -1,0 +1,29 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260911-053000-BATCH-B001-REV1-HARDENED",
+  "qa_batch_id": "REV_B001",
+  "source_workbook": "seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B001_scope_workbook_revision1.xlsx",
+  "source_workbook_sha256": "8afc67eaff02621e6a5d017f3fcb9e115b01d31959f0234cb85fcc6406595716",
+  "batch_product_keys": [
+    "custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-03",
+    "custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-02",
+    "custom-dog-photo-rug-personalized-pet-portrait-area-mat-n-design-01",
+    "custom-dog-photo-rug-personalized-pet-portrait-area-mat-non-slip",
+    "personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-102",
+    "personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-101",
+    "personalized-halloween-3d-optical-illusion-shaped-rug-a0-design-100",
+    "personalized-halloween-3d-optical-illusion-shaped-rug-a04-a04",
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-rug-d9-d9",
+    "custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-06"
+  ],
+  "status_counts": {
+    "QA_PASS": 10,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_PASS",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260911-050000-REVIEW-B001-R1/reviewer_evidence.json",
+  "manual_criteria_evidence": "seo_runs/chillgen.com/chillgen_20260911-050000-REVIEW-B001-R1/criteria_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

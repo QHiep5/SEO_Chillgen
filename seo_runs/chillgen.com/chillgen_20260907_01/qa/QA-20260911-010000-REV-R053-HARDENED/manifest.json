@@ -1,0 +1,24 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260911-010000-REV-R053-HARDENED",
+  "qa_batch_id": "REV_R053",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R053/SEO_Product_Optimization_revision_R053.xlsx",
+  "source_workbook_sha256": "fb8067affbd732dd8ca39db484cbf904bb60873544c4db0df5d9d2f350f350bf",
+  "batch_product_keys": [
+    "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08",
+    "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical",
+    "boat-rug-04-boat-rug-04",
+    "custom-composition-notebook-classroom-rug-kids-f215fce7cb",
+    "tree-of-life-celtic-area-rug-d16ac94729"
+  ],
+  "status_counts": {
+    "QA_PASS": 0,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 5
+  },
+  "batch_status": "QA_INCOMPLETE",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053/reviewer_evidence.json",
+  "manual_criteria_evidence": "seo_runs/chillgen.com/chillgen_20260911-000000-REV-R053/criteria_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

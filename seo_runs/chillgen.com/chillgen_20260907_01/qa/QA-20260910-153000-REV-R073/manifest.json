@@ -1,0 +1,23 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260910-153000-REV-R073",
+  "qa_batch_id": "REV_R073",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R073/SEO_Product_Optimization_revision_R073.xlsx",
+  "source_workbook_sha256": "c3f5125246ed13f83aa1f07544a8b73ef59e7229490925b30165c79a2f8b0407",
+  "batch_product_keys": [
+    "personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat",
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-108",
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-109",
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-110",
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-111"
+  ],
+  "status_counts": {
+    "QA_PASS": 5,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_PASS",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260910_150000-REV-R073/reviewer_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}
