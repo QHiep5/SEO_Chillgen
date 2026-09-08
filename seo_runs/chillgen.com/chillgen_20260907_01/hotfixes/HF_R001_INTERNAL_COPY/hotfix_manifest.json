@@ -1,0 +1,47 @@
+{
+  "hotfix_id": "HF_R001_INTERNAL_COPY",
+  "generated_at": "2026-09-08",
+  "handle": "custom-dog-paw-print-shaped-rug-39afbc78d5",
+  "files_updated": [
+    "resutls/chillgen.com/chillgen_20260907_01/revisions/R001/SEO_Product_Optimization_revision_R001.xlsx",
+    "resutls/chillgen.com/chillgen_20260907_01/revisions/R052/SEO_Product_Optimization_revision_R052.xlsx"
+  ],
+  "old_internal_sentence": "SEO copy avoids backing and surface-performance claims unless confirmed during admin/export review.",
+  "new_customer_sentence": "Pet-themed paw shape and plaid blocks make the artwork easy to match with dog, cat and animal-lover decor.",
+  "status": "COMPLETE_VERIFIED",
+  "updates": [
+    {
+      "path": "resutls/chillgen.com/chillgen_20260907_01/revisions/R001/SEO_Product_Optimization_revision_R001.xlsx",
+      "row": 364,
+      "description_fixed": true,
+      "html_fixed": true
+    },
+    {
+      "path": "resutls/chillgen.com/chillgen_20260907_01/revisions/R052/SEO_Product_Optimization_revision_R052.xlsx",
+      "row": 364,
+      "description_fixed": false,
+      "html_fixed": false
+    }
+  ],
+  "verification": [
+    {
+      "path": "resutls/chillgen.com/chillgen_20260907_01/revisions/R001/SEO_Product_Optimization_revision_R001.xlsx",
+      "row": 364,
+      "revision": "2",
+      "review_status": "NEEDS_REVIEW",
+      "content_qa_status": "NOT_RUN",
+      "description_chars": 431,
+      "html_chars": 472
+    },
+    {
+      "path": "resutls/chillgen.com/chillgen_20260907_01/revisions/R052/SEO_Product_Optimization_revision_R052.xlsx",
+      "row": 364,
+      "revision": "2",
+      "review_status": "NEEDS_REVIEW",
+      "content_qa_status": "NOT_RUN",
+      "description_chars": 431,
+      "html_chars": 472
+    }
+  ],
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

@@ -1,0 +1,42 @@
+{
+  "hotfix_id": "HF_R001_WELCOME_MAT_TITLE_MAPPING",
+  "workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R001/SEO_Product_Optimization_revision_R001.xlsx",
+  "changed": [
+    {
+      "handle": "custom-galaxy-wolves-welcome-mat-f320a33157",
+      "row": 351,
+      "old_title": "Lightning Snow Wolf Area Rug for Bedroom and Living Room",
+      "old_meta_title": "Lightning Snow Wolf Area Rug for Bedroom and Living Room",
+      "new_title": "Lightning Snow Wolf Welcome Mat for Kids Room Decor",
+      "new_length": 51
+    },
+    {
+      "handle": "custom-galaxy-wolf-welcome-mat-0e4d706227",
+      "row": 357,
+      "old_title": "Sepia Wolf Pack Area Rug for Rustic Living Room Decor",
+      "old_meta_title": "Sepia Wolf Pack Area Rug for Rustic Living Room Decor",
+      "new_title": "Sepia Wolf Pack Welcome Mat for Rustic Entryway Decor",
+      "new_length": 53
+    }
+  ],
+  "verification": [
+    {
+      "handle": "custom-galaxy-wolves-welcome-mat-f320a33157",
+      "title": "Lightning Snow Wolf Welcome Mat for Kids Room Decor",
+      "meta_title": "Lightning Snow Wolf Welcome Mat for Kids Room Decor",
+      "contains_area_rug": false,
+      "contains_welcome_mat": true,
+      "revision": "2"
+    },
+    {
+      "handle": "custom-galaxy-wolf-welcome-mat-0e4d706227",
+      "title": "Sepia Wolf Pack Welcome Mat for Rustic Entryway Decor",
+      "meta_title": "Sepia Wolf Pack Welcome Mat for Rustic Entryway Decor",
+      "contains_area_rug": false,
+      "contains_welcome_mat": true,
+      "revision": "2"
+    }
+  ],
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED",
+  "checked_at": "2026-09-08T10:38:23.304695+07:00"
+}

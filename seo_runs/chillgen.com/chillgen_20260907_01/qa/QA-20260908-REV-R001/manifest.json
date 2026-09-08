@@ -1,12 +1,9 @@
 {
-  "rubric_version": "prompt_qa.md v1.0 / prompt.md v2.4",
+  "rubric_version": "prompt_qa.md v1.0",
   "qa_run_id": "QA-20260908-REV-R001",
   "qa_batch_id": "REV_R001",
   "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R001/SEO_Product_Optimization_revision_R001.xlsx",
-  "source_workbook_sha256": "5caf7f824142c9523e922b08feebfd3fd5e09a475f585177d21a17d1f45fad97",
-  "run_id": "chillgen_20260907_01",
-  "shop_domain": "chillgen.com",
-  "checked_at": "2026-09-08T00:40:18+07:00",
+  "source_workbook_sha256": "97db06b7c1459c44875c1da98c7c41043b338045d9140dd19d3bc84fd8a18edf",
   "batch_product_keys": [
     "custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520",
     "personalized-dog-doormat-custom-text-non-slip-c76f704530",
@@ -19,22 +16,13 @@
     "wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e",
     "custom-dog-paw-print-shaped-rug-39afbc78d5"
   ],
-  "revision_checked": "2",
-  "product_count": 10,
-  "image_count": 66,
   "status_counts": {
     "QA_PASS": 10,
     "QA_REVISE": 0,
     "QA_FAIL": 0,
     "QA_INCOMPLETE": 0
   },
-  "batch_final_score": 97.5,
   "batch_status": "QA_PASS",
-  "artifact_paths": {
-    "qa_xlsx": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/qa/QA-20260908-REV-R001/SEO_QA_REV_R001.xlsx",
-    "qa_md": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/qa/QA-20260908-REV-R001/SEO_QA_REV_R001.md",
-    "manifest": "/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa/QA-20260908-REV-R001/manifest.json",
-    "qa_progress": "/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa/QA-20260908-REV-R001/qa_progress.json"
-  },
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/qa/QA-20260908-REV-R001/manual_image_evidence.json",
   "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
 }

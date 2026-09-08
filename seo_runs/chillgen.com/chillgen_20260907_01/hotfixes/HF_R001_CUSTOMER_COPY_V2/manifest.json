@@ -1,0 +1,143 @@
+{
+  "hotfix_id": "HF_R001_CUSTOMER_COPY_V2",
+  "workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions/R001/SEO_Product_Optimization_revision_R001.xlsx",
+  "changed_rows": [
+    {
+      "handle": "custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520",
+      "row": 323,
+      "removed": [
+        {
+          "field": "description_proposed",
+          "line": "- SEO copy stays tied to the visible sports motif and page evidence."
+        },
+        {
+          "field": "description_proposed_html",
+          "line": "<li>SEO copy stays tied to the visible sports motif and page evidence.</li>"
+        }
+      ]
+    },
+    {
+      "handle": "personalized-dog-doormat-custom-text-non-slip-c76f704530",
+      "row": 339,
+      "removed": [
+        {
+          "field": "description_proposed",
+          "line": "- SEO copy focuses on the personalized dog artwork, names and phrase visible in the product evidence."
+        },
+        {
+          "field": "description_proposed_html",
+          "line": "<li>SEO copy focuses on the personalized dog artwork, names and phrase visible in the product evidence.</li>"
+        }
+      ]
+    },
+    {
+      "handle": "custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42",
+      "row": 347,
+      "removed": [
+        {
+          "field": "description_proposed",
+          "line": "- SEO copy stays focused on the visible moonlit pack motif."
+        },
+        {
+          "field": "description_proposed_html",
+          "line": "<li>SEO copy stays focused on the visible moonlit pack motif.</li>"
+        }
+      ]
+    },
+    {
+      "handle": "custom-galaxy-wolves-welcome-mat-f320a33157",
+      "row": 351,
+      "removed": [
+        {
+          "field": "description_proposed",
+          "line": "- SEO copy keeps the focus on the winter wolf artwork shown in the images."
+        },
+        {
+          "field": "description_proposed_html",
+          "line": "<li>SEO copy keeps the focus on the winter wolf artwork shown in the images.</li>"
+        }
+      ]
+    },
+    {
+      "handle": "custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4",
+      "row": 353,
+      "removed": [
+        {
+          "field": "description_proposed",
+          "line": "- SEO copy stays tied to the moody forest wolf design visible in the product images."
+        },
+        {
+          "field": "description_proposed_html",
+          "line": "<li>SEO copy stays tied to the moody forest wolf design visible in the product images.</li>"
+        }
+      ]
+    },
+    {
+      "handle": "galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17",
+      "row": 356,
+      "removed": [
+        {
+          "field": "description_proposed",
+          "line": "- SEO copy focuses on the visible botanical wolf artwork and neutral room use."
+        },
+        {
+          "field": "description_proposed_html",
+          "line": "<li>SEO copy focuses on the visible botanical wolf artwork and neutral room use.</li>"
+        }
+      ]
+    },
+    {
+      "handle": "custom-galaxy-wolf-welcome-mat-0e4d706227",
+      "row": 357,
+      "removed": [
+        {
+          "field": "description_proposed",
+          "line": "- SEO copy stays focused on the visible pack artwork and rustic wolf theme."
+        },
+        {
+          "field": "description_proposed_html",
+          "line": "<li>SEO copy stays focused on the visible pack artwork and rustic wolf theme.</li>"
+        }
+      ]
+    },
+    {
+      "handle": "galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e",
+      "row": 359,
+      "removed": [
+        {
+          "field": "description_proposed",
+          "line": "- SEO copy stays focused on the visible dreamcatcher-inspired wolf artwork."
+        },
+        {
+          "field": "description_proposed_html",
+          "line": "<li>SEO copy stays focused on the visible dreamcatcher-inspired wolf artwork.</li>"
+        }
+      ]
+    },
+    {
+      "handle": "wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e",
+      "row": 361,
+      "removed": [
+        {
+          "field": "description_proposed",
+          "line": "- SEO copy keeps the focus on the visible colorful galaxy wolf artwork."
+        },
+        {
+          "field": "description_proposed_html",
+          "line": "<li>SEO copy keeps the focus on the visible colorful galaxy wolf artwork.</li>"
+        }
+      ]
+    }
+  ],
+  "changed_row_count": 9,
+  "patterns_removed": [
+    "seo copy",
+    "product evidence",
+    "page evidence",
+    "admin/export",
+    "unless confirmed"
+  ],
+  "verified_remaining_hits": [],
+  "checked_at": "2026-09-08T10:19:51.289766+07:00",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}
