@@ -1,0 +1,47 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "rubric_hash": "c2c1defdb72362291f7da656fa7fea9283a02782fc8ca66d2e4637f2511500dd",
+  "qa_run_id": "QA-20260909-B023-R099-GOVERNANCE",
+  "qa_batch_id": "REV_R099",
+  "batch_id": "B023",
+  "revision_id": "R099",
+  "parent_run_id": "",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+  "source_workbook_sha256": "828463531d4f185e65e0adc655b95fe4c916a2ebd53cc0cfb193f9c76b9365d6",
+  "scope_hash": "990e72252ab84180379698467a824c01eae2b554f83880f941f548a33246b162",
+  "batch_product_keys": [
+    "custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9",
+    "custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7",
+    "personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962",
+    "personalized-christmas-doormat-80a01c19f6-80a01c19f6",
+    "personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891",
+    "personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372",
+    "personalized-christmas-doormat-with-custom-family-name-83c3ea451f",
+    "personalized-christmas-doormat-with-custom-family-name-d66e920e14",
+    "personalized-christmas-welcome-doormat-28640346cc",
+    "personalized-christmas-doormat-1a037c0533"
+  ],
+  "status_counts": {
+    "QA_PASS": 10,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "issue_counts": {
+    "CRITICAL": 0,
+    "MAJOR": 0,
+    "MINOR": 0,
+    "LIMITATION": 20
+  },
+  "batch_status": "QA_PASS",
+  "content_qa_status": "QA_PASS",
+  "evidence_maturity": "SERP_ONLY",
+  "canonical": true,
+  "supersedes": [
+    "QA-20260907-AGENT-B023"
+  ],
+  "manual_image_evidence": "seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\reviewer\\B023_R099_independent_fullres.json",
+  "manual_criteria_evidence": "seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\reviewer\\R099_criteria_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED",
+  "created_at": "2026-09-09T17:45:44+07:00"
+}

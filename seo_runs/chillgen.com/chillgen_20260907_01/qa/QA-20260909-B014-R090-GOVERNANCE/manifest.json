@@ -1,0 +1,47 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "rubric_hash": "c2c1defdb72362291f7da656fa7fea9283a02782fc8ca66d2e4637f2511500dd",
+  "qa_run_id": "QA-20260909-B014-R090-GOVERNANCE",
+  "qa_batch_id": "REV_R090",
+  "batch_id": "B014",
+  "revision_id": "R090",
+  "parent_run_id": "",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+  "source_workbook_sha256": "92c3ddef9e1919ef7b3c53a432c22d70455d2d87da71ca9d5dbce8be617d02ec",
+  "scope_hash": "8ff5da092801f2fad3d6cf14c01ddc0b009b637d8456f867cb672dae26002357",
+  "batch_product_keys": [
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-110",
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-111",
+    "halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat",
+    "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100",
+    "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101",
+    "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102",
+    "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101"
+  ],
+  "status_counts": {
+    "QA_PASS": 10,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "issue_counts": {
+    "CRITICAL": 0,
+    "MAJOR": 0,
+    "MINOR": 0,
+    "LIMITATION": 20
+  },
+  "batch_status": "QA_PASS",
+  "content_qa_status": "QA_PASS",
+  "evidence_maturity": "SERP_ONLY",
+  "canonical": true,
+  "supersedes": [
+    "QA-20260907-AGENT-B014"
+  ],
+  "manual_image_evidence": "seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\reviewer\\B014_R090_independent_fullres.json",
+  "manual_criteria_evidence": "seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\reviewer\\R090_criteria_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED",
+  "created_at": "2026-09-09T16:52:35+07:00"
+}

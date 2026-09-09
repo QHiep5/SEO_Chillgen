@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "R102",
+  "batch_id": "B026",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+  "source_workbook_sha256": "3b35a07f4ed9a2f8640ddcd9f2a213051af52fede84017d70f19beaa4f3331bf",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-R102-CRITERIA-01",
+    "reviewed_at": "2026-09-09T18:04:52+07:00"
+  },
+  "reviewed_at": "2026-09-09T18:04:52+07:00",
+  "products": {
+    "colorful-classroom-rug-for-kids-e5ed693d3f": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for colorful-classroom-rug-for-kids-e5ed693d3f: proposed title 'Mindset Matters Classroom Rug' and description 'Create a Mindset Matters classroom rug with Mindset Matters wording with colorful handp...' keep the same product/theme shown in evidence B026-251.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-251",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-for-kids-e5ed693d3f.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for colorful-classroom-rug-for-kids-e5ed693d3f: customer copy is limited to visible/product facts such as 'black classroom rug with Mindset Matters quote, rainbow brain art, colorful pencil border, g...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-251",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-for-kids-e5ed693d3f.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for colorful-classroom-rug-for-kids-e5ed693d3f: primary keyword 'Mindset Matters classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-251",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-for-kids-e5ed693d3f.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for colorful-classroom-rug-for-kids-e5ed693d3f: proposed copy targets the same search intent as 'Mindset Matters classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-251",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-for-kids-e5ed693d3f.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for colorful-classroom-rug-for-kids-e5ed693d3f: current support is 'Search and marketplace evidence supports personalized teacher rugs, classroom growth mindset...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-251",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-for-kids-e5ed693d3f.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for colorful-classroom-rug-for-kids-e5ed693d3f: title 'Mindset Matters Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-251",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-for-kids-e5ed693d3f.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for colorful-classroom-rug-for-kids-e5ed693d3f: meta title 'Mindset Matters Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-251",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-for-kids-e5ed693d3f.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for colorful-classroom-rug-for-kids-e5ed693d3f: meta 'Create a Mindset Matters classroom rug with Mindset Matters wording with colorful handprints and rainbow brain a...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-251",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-for-kids-e5ed693d3f.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for colorful-classroom-rug-for-kids-e5ed693d3f: description begins 'Create a Mindset Matters classroom rug with Mindset Matters wording with colorful handprints and rainbow brain a...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-251",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-for-kids-e5ed693d3f.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for colorful-classroom-rug-for-kids-e5ed693d3f: workbook row, evidence id B026-251, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-251",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-for-kids-e5ed693d3f.html"
+        ]
+      }
+    },
+    "colorful-classroom-rug-for-kids-a44b91f2e4": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for colorful-classroom-rug-for-kids-a44b91f2e4: proposed title 'Change Your Words Classroom Rug' and description 'Create a Change Your Words classroom rug with Change Your Words wording with colorful h...' keep the same product/theme shown in evidence B026-252.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-252",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-for-kids-a44b91f2e4.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for colorful-classroom-rug-for-kids-a44b91f2e4: customer copy is limited to visible/product facts such as 'black classroom rug with Change Your Words Change Your Mindset text, Mr. James personalizati...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-252",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-for-kids-a44b91f2e4.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for colorful-classroom-rug-for-kids-a44b91f2e4: primary keyword 'Change Your Words classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-252",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-for-kids-a44b91f2e4.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for colorful-classroom-rug-for-kids-a44b91f2e4: proposed copy targets the same search intent as 'Change Your Words classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-252",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-for-kids-a44b91f2e4.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for colorful-classroom-rug-for-kids-a44b91f2e4: current support is 'Search and marketplace evidence supports personalized teacher rugs, classroom growth mindset...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-252",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-for-kids-a44b91f2e4.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for colorful-classroom-rug-for-kids-a44b91f2e4: title 'Change Your Words Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-252",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-for-kids-a44b91f2e4.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for colorful-classroom-rug-for-kids-a44b91f2e4: meta title 'Change Your Words Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-252",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-for-kids-a44b91f2e4.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for colorful-classroom-rug-for-kids-a44b91f2e4: meta 'Create a Change Your Words classroom rug with Change Your Words wording with colorful handprints for a classroom...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-252",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-for-kids-a44b91f2e4.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for colorful-classroom-rug-for-kids-a44b91f2e4: description begins 'Create a Change Your Words classroom rug with Change Your Words wording with colorful handprints for a classroom...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-252",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-for-kids-a44b91f2e4.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for colorful-classroom-rug-for-kids-a44b91f2e4: workbook row, evidence id B026-252, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-252",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-for-kids-a44b91f2e4.html"
+        ]
+      }
+    },
+    "colorful-handprints-kids-classroom-area-rug-9f8e77de21": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for colorful-handprints-kids-classroom-area-rug-9f8e77de21: proposed title 'You Can Change The World Rug' and description 'Create a You Can Change The World rug with You Can Change The World wording with colorf...' keep the same product/theme shown in evidence B026-253.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-253",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-handprints-kids-classroom-area-rug-9f8e77de21.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for colorful-handprints-kids-classroom-area-rug-9f8e77de21: customer copy is limited to visible/product facts such as 'cream classroom rug with Mr. William Class, large pencil graphic, You Are center, colorful w...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-253",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-handprints-kids-classroom-area-rug-9f8e77de21.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for colorful-handprints-kids-classroom-area-rug-9f8e77de21: primary keyword 'You Can Change The World rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-253",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-handprints-kids-classroom-area-rug-9f8e77de21.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for colorful-handprints-kids-classroom-area-rug-9f8e77de21: proposed copy targets the same search intent as 'You Can Change The World rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-253",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-handprints-kids-classroom-area-rug-9f8e77de21.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for colorful-handprints-kids-classroom-area-rug-9f8e77de21: current support is 'Search and marketplace evidence supports personalized teacher rugs, classroom growth mindset...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-253",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-handprints-kids-classroom-area-rug-9f8e77de21.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for colorful-handprints-kids-classroom-area-rug-9f8e77de21: title 'You Can Change The World Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-253",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-handprints-kids-classroom-area-rug-9f8e77de21.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for colorful-handprints-kids-classroom-area-rug-9f8e77de21: meta title 'You Can Change The World Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-253",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-handprints-kids-classroom-area-rug-9f8e77de21.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for colorful-handprints-kids-classroom-area-rug-9f8e77de21: meta 'Create a You Can Change The World rug with You Can Change The World wording with colorful handprints for a class...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-253",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-handprints-kids-classroom-area-rug-9f8e77de21.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for colorful-handprints-kids-classroom-area-rug-9f8e77de21: description begins 'Create a You Can Change The World rug with You Can Change The World wording with colorful handprints for a class...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-253",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-handprints-kids-classroom-area-rug-9f8e77de21.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for colorful-handprints-kids-classroom-area-rug-9f8e77de21: workbook row, evidence id B026-253, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-253",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-handprints-kids-classroom-area-rug-9f8e77de21.html"
+        ]
+      }
+    },
+    "colorful-classroom-rug-handprints-quotes-6a4adbacc3": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for colorful-classroom-rug-handprints-quotes-6a4adbacc3: proposed title 'Believe Unstoppable Classroom Rug' and description 'Create a Believe Unstoppable classroom rug with Believe Unstoppable wording with colorf...' keep the same product/theme shown in evidence B026-254.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-254",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-handprints-quotes-6a4adbacc3.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for colorful-classroom-rug-handprints-quotes-6a4adbacc3: customer copy is limited to visible/product facts such as 'black classroom rug with Believe in yourself and you will be unstoppable quote, rainbow hand...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-254",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-handprints-quotes-6a4adbacc3.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for colorful-classroom-rug-handprints-quotes-6a4adbacc3: primary keyword 'Believe Unstoppable classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-254",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-handprints-quotes-6a4adbacc3.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for colorful-classroom-rug-handprints-quotes-6a4adbacc3: proposed copy targets the same search intent as 'Believe Unstoppable classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-254",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-handprints-quotes-6a4adbacc3.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for colorful-classroom-rug-handprints-quotes-6a4adbacc3: current support is 'Search and marketplace evidence supports personalized teacher rugs, classroom growth mindset...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-254",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-handprints-quotes-6a4adbacc3.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for colorful-classroom-rug-handprints-quotes-6a4adbacc3: title 'Believe Unstoppable Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-254",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-handprints-quotes-6a4adbacc3.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for colorful-classroom-rug-handprints-quotes-6a4adbacc3: meta title 'Believe Unstoppable Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-254",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-handprints-quotes-6a4adbacc3.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for colorful-classroom-rug-handprints-quotes-6a4adbacc3: meta 'Create a Believe Unstoppable classroom rug with Believe Unstoppable wording with colorful handprints for a class...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-254",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-handprints-quotes-6a4adbacc3.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for colorful-classroom-rug-handprints-quotes-6a4adbacc3: description begins 'Create a Believe Unstoppable classroom rug with Believe Unstoppable wording with colorful handprints for a class...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-254",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-handprints-quotes-6a4adbacc3.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for colorful-classroom-rug-handprints-quotes-6a4adbacc3: workbook row, evidence id B026-254, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-254",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-rug-handprints-quotes-6a4adbacc3.html"
+        ]
+      }
+    },
+    "colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808: proposed title 'Future Leaders Handprint Classroom Rug' and description 'Create a Future Leaders handprint classroom rug with Future Leaders wording with colorf...' keep the same product/theme shown in evidence B026-255.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-255",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808: customer copy is limited to visible/product facts such as 'cream classroom rug with The Future Of The World Is In This Room text, I-Room personalizatio...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-255",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808: primary keyword 'Future Leaders handprint classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-255",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808: proposed copy targets the same search intent as 'Future Leaders handprint classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-255",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808: current support is 'Search and marketplace evidence supports personalized teacher rugs, classroom growth mindset...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-255",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808: title 'Future Leaders Handprint Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-255",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808: meta title 'Future Leaders Handprint Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-255",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808: meta 'Create a Future Leaders handprint classroom rug with Future Leaders wording with colorful handprints for a class...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-255",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808: description begins 'Create a Future Leaders handprint classroom rug with Future Leaders wording with colorful handprints for a class...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-255",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808: workbook row, evidence id B026-255, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-255",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-classroom-handprints-kids-rug-fca6e65808-fca6e65808.html"
+        ]
+      }
+    },
+    "colorful-handprints-classroom-kids-rug-358d2f0393": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for colorful-handprints-classroom-kids-rug-358d2f0393: proposed title 'Unique Masterpiece Classroom Rug' and description 'Create a Unique Masterpiece classroom rug with Unique Masterpiece wording with colorful...' keep the same product/theme shown in evidence B026-256.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-256",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-handprints-classroom-kids-rug-358d2f0393.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for colorful-handprints-classroom-kids-rug-358d2f0393: customer copy is limited to visible/product facts such as 'black classroom rug with handprint flower tree, butterflies, green hill and quote We are eac...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-256",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-handprints-classroom-kids-rug-358d2f0393.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for colorful-handprints-classroom-kids-rug-358d2f0393: primary keyword 'Unique Masterpiece classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-256",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-handprints-classroom-kids-rug-358d2f0393.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for colorful-handprints-classroom-kids-rug-358d2f0393: proposed copy targets the same search intent as 'Unique Masterpiece classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-256",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-handprints-classroom-kids-rug-358d2f0393.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for colorful-handprints-classroom-kids-rug-358d2f0393: current support is 'Search and marketplace evidence supports personalized teacher rugs, classroom growth mindset...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-256",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-handprints-classroom-kids-rug-358d2f0393.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for colorful-handprints-classroom-kids-rug-358d2f0393: title 'Unique Masterpiece Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-256",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-handprints-classroom-kids-rug-358d2f0393.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for colorful-handprints-classroom-kids-rug-358d2f0393: meta title 'Unique Masterpiece Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-256",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-handprints-classroom-kids-rug-358d2f0393.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for colorful-handprints-classroom-kids-rug-358d2f0393: meta 'Create a Unique Masterpiece classroom rug with Unique Masterpiece wording with colorful handprints for a classro...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-256",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-handprints-classroom-kids-rug-358d2f0393.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for colorful-handprints-classroom-kids-rug-358d2f0393: description begins 'Create a Unique Masterpiece classroom rug with Unique Masterpiece wording with colorful handprints for a classro...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-256",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-handprints-classroom-kids-rug-358d2f0393.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for colorful-handprints-classroom-kids-rug-358d2f0393: workbook row, evidence id B026-256, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-256",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\colorful-handprints-classroom-kids-rug-358d2f0393.html"
+        ]
+      }
+    },
+    "personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf: proposed title 'Orthodox Three Bar Cross Rug' and description 'Create a Orthodox three bar cross rug with a three-bar cross design with Byzantine-insp...' keep the same product/theme shown in evidence B026-257.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-257",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf: customer copy is limited to visible/product facts such as 'navy blue Orthodox rug with gold three-bar cross, minimal gold border and corner ornaments,...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-257",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf: primary keyword 'Orthodox three bar cross rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-257",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf: proposed copy targets the same search intent as 'Orthodox three bar cross rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-257",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf: current support is 'Search and marketplace evidence supports personalized teacher rugs, classroom growth mindset...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-257",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf: title 'Orthodox Three Bar Cross Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-257",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf: meta title 'Orthodox Three Bar Cross Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-257",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf: meta 'Create a Orthodox three bar cross rug with a three-bar cross design with Byzantine-inspired details for a living...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-257",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf: description begins 'Create a Orthodox three bar cross rug with a three-bar cross design with Byzantine-inspired details for a living...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-257",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf: workbook row, evidence id B026-257, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-257",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-christian-cross-byzantine-eagle-rug-9a8fdd4fcf-9a8fdd4fcf.html"
+        ]
+      }
+    },
+    "personalized-orthodox-christian-three-bar-cross-rug-c6332608db": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-orthodox-christian-three-bar-cross-rug-c6332608db: proposed title 'Ornate Orthodox Cross Rug' and description 'Create a ornate Orthodox cross rug with an ornate Orthodox cross design with decorative...' keep the same product/theme shown in evidence B026-258.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-258",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-christian-three-bar-cross-rug-c6332608db.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-orthodox-christian-three-bar-cross-rug-c6332608db: customer copy is limited to visible/product facts such as 'navy and gold Orthodox rug with three-bar cross inside ornate framed medallion, scrollwork b...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-258",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-christian-three-bar-cross-rug-c6332608db.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-orthodox-christian-three-bar-cross-rug-c6332608db: primary keyword 'ornate Orthodox cross rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-258",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-christian-three-bar-cross-rug-c6332608db.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-orthodox-christian-three-bar-cross-rug-c6332608db: proposed copy targets the same search intent as 'ornate Orthodox cross rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-258",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-christian-three-bar-cross-rug-c6332608db.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-orthodox-christian-three-bar-cross-rug-c6332608db: current support is 'Search and marketplace evidence supports personalized teacher rugs, classroom growth mindset...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-258",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-christian-three-bar-cross-rug-c6332608db.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-orthodox-christian-three-bar-cross-rug-c6332608db: title 'Ornate Orthodox Cross Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-258",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-christian-three-bar-cross-rug-c6332608db.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-orthodox-christian-three-bar-cross-rug-c6332608db: meta title 'Ornate Orthodox Cross Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-258",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-christian-three-bar-cross-rug-c6332608db.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-orthodox-christian-three-bar-cross-rug-c6332608db: meta 'Create a ornate Orthodox cross rug with an ornate Orthodox cross design with decorative details for a living roo...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-258",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-christian-three-bar-cross-rug-c6332608db.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-orthodox-christian-three-bar-cross-rug-c6332608db: description begins 'Create a ornate Orthodox cross rug with an ornate Orthodox cross design with decorative details for a living roo...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-258",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-christian-three-bar-cross-rug-c6332608db.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-orthodox-christian-three-bar-cross-rug-c6332608db: workbook row, evidence id B026-258, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-258",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-christian-three-bar-cross-rug-c6332608db.html"
+        ]
+      }
+    },
+    "personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a: proposed title 'Byzantine Eagle Area Rug' and description 'Create a Byzantine eagle area rug with a Byzantine eagle emblem with an ornate border f...' keep the same product/theme shown in evidence B026-259.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-259",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a: customer copy is limited to visible/product facts such as 'burgundy area rug with gold double-headed Byzantine eagle emblem, ornate red gold blue borde...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-259",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a: primary keyword 'Byzantine eagle area rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-259",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a: proposed copy targets the same search intent as 'Byzantine eagle area rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-259",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a: current support is 'Search and marketplace evidence supports personalized teacher rugs, classroom growth mindset...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-259",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a: title 'Byzantine Eagle Area Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-259",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a: meta title 'Byzantine Eagle Area Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-259",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a: meta 'Create a Byzantine eagle area rug with a Byzantine eagle emblem with an ornate border for a living room, prayer...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-259",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a: description begins 'Create a Byzantine eagle area rug with a Byzantine eagle emblem with an ornate border for a living room, prayer...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-259",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a: workbook row, evidence id B026-259, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-259",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-cross-rug-byzantine-eagle-be38fb9e0a.html"
+        ]
+      }
+    },
+    "personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991: proposed title 'Blue Orthodox Cross Rug' and description 'Create a blue Orthodox cross rug with a blue Orthodox cross design with decorative bord...' keep the same product/theme shown in evidence B026-260.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-260",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991: customer copy is limited to visible/product facts such as 'blue Orthodox rug with ornate gold three-bar cross, IC XC NIKA lettering, gold curved border...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-260",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991: primary keyword 'blue Orthodox cross rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-260",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991: proposed copy targets the same search intent as 'blue Orthodox cross rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-260",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991: current support is 'Search and marketplace evidence supports personalized teacher rugs, classroom growth mindset...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-260",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991: title 'Blue Orthodox Cross Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-260",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991: meta title 'Blue Orthodox Cross Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-260",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991: meta 'Create a blue Orthodox cross rug with a blue Orthodox cross design with decorative border details for a living r...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-260",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991: description begins 'Create a blue Orthodox cross rug with a blue Orthodox cross design with decorative border details for a living r...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-260",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991: workbook row, evidence id B026-260, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R102\\SEO_Product_Optimization_revision_R102.xlsx",
+          "product_evidence:B026-260",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B026_pages\\personalized-orthodox-cross-byzantine-eagle-rug-8e70ebd991.html"
+        ]
+      }
+    }
+  }
+}

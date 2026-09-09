@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "R097",
+  "batch_id": "B021",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+  "source_workbook_sha256": "5705dbab8a27c604fa447b9d5ed237d179e8c298acdccc4c88057534dec0f785",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-R097-CRITERIA-01",
+    "reviewed_at": "2026-09-09T17:34:39+07:00"
+  },
+  "reviewed_at": "2026-09-09T17:34:39+07:00",
+  "products": {
+    "personalized-album-cover-rug-4af618eed5": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-album-cover-rug-4af618eed5: proposed title 'Black Personalized Album Cover Rug' and description 'Create a black personalized album cover rug with a black album-cover design with person...' keep the same product/theme shown in evidence B021-201.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-201",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-4af618eed5.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-album-cover-rug-4af618eed5: customer copy is limited to visible/product facts such as 'black rectangular album-cover rug with green cover image area, song title and artist placeho...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-201",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-4af618eed5.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-album-cover-rug-4af618eed5: primary keyword 'black personalized album cover rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-201",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-4af618eed5.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-album-cover-rug-4af618eed5: proposed copy targets the same search intent as 'black personalized album cover rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-201",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-4af618eed5.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-album-cover-rug-4af618eed5: current support is 'Marketplace results show demand for personalized album cover rugs, custom song rugs, music p...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-201",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-4af618eed5.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-album-cover-rug-4af618eed5: title 'Black Personalized Album Cover Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-201",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-4af618eed5.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-album-cover-rug-4af618eed5: meta title 'Black Personalized Album Cover Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-201",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-4af618eed5.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-album-cover-rug-4af618eed5: meta 'Create a black personalized album cover rug with a black album-cover design with personalized song or artist det...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-201",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-4af618eed5.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-album-cover-rug-4af618eed5: description begins 'Create a black personalized album cover rug with a black album-cover design with personalized song or artist det...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-201",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-4af618eed5.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-album-cover-rug-4af618eed5: workbook row, evidence id B021-201, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-201",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-4af618eed5.html"
+        ]
+      }
+    },
+    "personalized-album-cover-welcome-mat-26099b1534": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-album-cover-welcome-mat-26099b1534: proposed title 'Teal Personalized Album Cover Rug' and description 'Create a teal personalized album cover rug with a teal album-cover design with personal...' keep the same product/theme shown in evidence B021-202.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-202",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-welcome-mat-26099b1534.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-album-cover-welcome-mat-26099b1534: customer copy is limited to visible/product facts such as 'teal rectangular music player rug with album cover photo area, song title and artist name pl...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-202",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-welcome-mat-26099b1534.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-album-cover-welcome-mat-26099b1534: primary keyword 'teal personalized album cover rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-202",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-welcome-mat-26099b1534.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-album-cover-welcome-mat-26099b1534: proposed copy targets the same search intent as 'teal personalized album cover rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-202",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-welcome-mat-26099b1534.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-album-cover-welcome-mat-26099b1534: current support is 'Marketplace results show demand for personalized album cover rugs, custom song rugs, music p...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-202",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-welcome-mat-26099b1534.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-album-cover-welcome-mat-26099b1534: title 'Teal Personalized Album Cover Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-202",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-welcome-mat-26099b1534.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-album-cover-welcome-mat-26099b1534: meta title 'Teal Personalized Album Cover Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-202",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-welcome-mat-26099b1534.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-album-cover-welcome-mat-26099b1534: meta 'Create a teal personalized album cover rug with a teal album-cover design with personalized music details for an...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-202",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-welcome-mat-26099b1534.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-album-cover-welcome-mat-26099b1534: description begins 'Create a teal personalized album cover rug with a teal album-cover design with personalized music details for an...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-202",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-welcome-mat-26099b1534.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-album-cover-welcome-mat-26099b1534: workbook row, evidence id B021-202, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-202",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-welcome-mat-26099b1534.html"
+        ]
+      }
+    },
+    "personalized-album-cover-area-rug-648fd8e2ff": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-album-cover-area-rug-648fd8e2ff: proposed title 'Orange Personalized Music Album Rug' and description 'Create a orange personalized music album rug with an orange album-cover design with per...' keep the same product/theme shown in evidence B021-203.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-203",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-648fd8e2ff.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-album-cover-area-rug-648fd8e2ff: customer copy is limited to visible/product facts such as 'orange rectangular album cover rug with grayscale cover art area, song title and artist text...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-203",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-648fd8e2ff.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-album-cover-area-rug-648fd8e2ff: primary keyword 'orange personalized music album rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-203",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-648fd8e2ff.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-album-cover-area-rug-648fd8e2ff: proposed copy targets the same search intent as 'orange personalized music album rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-203",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-648fd8e2ff.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-album-cover-area-rug-648fd8e2ff: current support is 'Marketplace results show demand for personalized album cover rugs, custom song rugs, music p...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-203",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-648fd8e2ff.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-album-cover-area-rug-648fd8e2ff: title 'Orange Personalized Music Album Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-203",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-648fd8e2ff.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-album-cover-area-rug-648fd8e2ff: meta title 'Orange Personalized Music Album Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-203",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-648fd8e2ff.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-album-cover-area-rug-648fd8e2ff: meta 'Create a orange personalized music album rug with an orange album-cover design with personalized music details f...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-203",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-648fd8e2ff.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-album-cover-area-rug-648fd8e2ff: description begins 'Create a orange personalized music album rug with an orange album-cover design with personalized music details f...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-203",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-648fd8e2ff.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-album-cover-area-rug-648fd8e2ff: workbook row, evidence id B021-203, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-203",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-648fd8e2ff.html"
+        ]
+      }
+    },
+    "personalized-album-cover-area-rug-0587b91810-0587b91810": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-album-cover-area-rug-0587b91810-0587b91810: proposed title 'Beige Personalized Album Cover Rug' and description 'Create a beige personalized album cover rug with a beige album-cover design with person...' keep the same product/theme shown in evidence B021-204.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-204",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-0587b91810-0587b91810.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-album-cover-area-rug-0587b91810-0587b91810: customer copy is limited to visible/product facts such as 'beige rectangular music player rug with album cover image, song and artist placeholders, whi...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-204",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-0587b91810-0587b91810.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-album-cover-area-rug-0587b91810-0587b91810: primary keyword 'beige personalized album cover rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-204",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-0587b91810-0587b91810.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-album-cover-area-rug-0587b91810-0587b91810: proposed copy targets the same search intent as 'beige personalized album cover rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-204",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-0587b91810-0587b91810.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-album-cover-area-rug-0587b91810-0587b91810: current support is 'Marketplace results show demand for personalized album cover rugs, custom song rugs, music p...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-204",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-0587b91810-0587b91810.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-album-cover-area-rug-0587b91810-0587b91810: title 'Beige Personalized Album Cover Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-204",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-0587b91810-0587b91810.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-album-cover-area-rug-0587b91810-0587b91810: meta title 'Beige Personalized Album Cover Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-204",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-0587b91810-0587b91810.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-album-cover-area-rug-0587b91810-0587b91810: meta 'Create a beige personalized album cover rug with a beige album-cover design with personalized song or artist det...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-204",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-0587b91810-0587b91810.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-album-cover-area-rug-0587b91810-0587b91810: description begins 'Create a beige personalized album cover rug with a beige album-cover design with personalized song or artist det...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-204",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-0587b91810-0587b91810.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-album-cover-area-rug-0587b91810-0587b91810: workbook row, evidence id B021-204, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-204",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-0587b91810-0587b91810.html"
+        ]
+      }
+    },
+    "personalized-album-cover-rug-3bfef01c49-3bfef01c49": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-album-cover-rug-3bfef01c49-3bfef01c49: proposed title 'Brown Personalized Album Cover Rug' and description 'Create a brown personalized album cover rug with a brown album-cover design with person...' keep the same product/theme shown in evidence B021-205.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-205",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-3bfef01c49-3bfef01c49.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-album-cover-rug-3bfef01c49-3bfef01c49: customer copy is limited to visible/product facts such as 'brown rectangular album-player rug with cover image area, song and artist placeholders, cont...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-205",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-3bfef01c49-3bfef01c49.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-album-cover-rug-3bfef01c49-3bfef01c49: primary keyword 'brown personalized album cover rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-205",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-3bfef01c49-3bfef01c49.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-album-cover-rug-3bfef01c49-3bfef01c49: proposed copy targets the same search intent as 'brown personalized album cover rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-205",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-3bfef01c49-3bfef01c49.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-album-cover-rug-3bfef01c49-3bfef01c49: current support is 'Marketplace results show demand for personalized album cover rugs, custom song rugs, music p...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-205",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-3bfef01c49-3bfef01c49.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-album-cover-rug-3bfef01c49-3bfef01c49: title 'Brown Personalized Album Cover Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-205",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-3bfef01c49-3bfef01c49.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-album-cover-rug-3bfef01c49-3bfef01c49: meta title 'Brown Personalized Album Cover Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-205",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-3bfef01c49-3bfef01c49.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-album-cover-rug-3bfef01c49-3bfef01c49: meta 'Create a brown personalized album cover rug with a brown album-cover design with personalized music details for...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-205",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-3bfef01c49-3bfef01c49.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-album-cover-rug-3bfef01c49-3bfef01c49: description begins 'Create a brown personalized album cover rug with a brown album-cover design with personalized music details for...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-205",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-3bfef01c49-3bfef01c49.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-album-cover-rug-3bfef01c49-3bfef01c49: workbook row, evidence id B021-205, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-205",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-3bfef01c49-3bfef01c49.html"
+        ]
+      }
+    },
+    "personalized-album-cover-area-rug-52d1b2412d-52d1b2412d": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-album-cover-area-rug-52d1b2412d-52d1b2412d: proposed title 'Burgundy Personalized Music Album Rug' and description 'Create a burgundy personalized music album rug with a burgundy album-cover design with...' keep the same product/theme shown in evidence B021-206.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-206",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-52d1b2412d-52d1b2412d.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-album-cover-area-rug-52d1b2412d-52d1b2412d: customer copy is limited to visible/product facts such as 'burgundy rectangular album cover rug with grayscale image area, song title and artist name p...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-206",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-52d1b2412d-52d1b2412d.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-album-cover-area-rug-52d1b2412d-52d1b2412d: primary keyword 'burgundy personalized music album rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-206",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-52d1b2412d-52d1b2412d.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-album-cover-area-rug-52d1b2412d-52d1b2412d: proposed copy targets the same search intent as 'burgundy personalized music album rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-206",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-52d1b2412d-52d1b2412d.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-album-cover-area-rug-52d1b2412d-52d1b2412d: current support is 'Marketplace results show demand for personalized album cover rugs, custom song rugs, music p...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-206",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-52d1b2412d-52d1b2412d.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-album-cover-area-rug-52d1b2412d-52d1b2412d: title 'Burgundy Personalized Music Album Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-206",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-52d1b2412d-52d1b2412d.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-album-cover-area-rug-52d1b2412d-52d1b2412d: meta title 'Burgundy Personalized Music Album Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-206",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-52d1b2412d-52d1b2412d.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-album-cover-area-rug-52d1b2412d-52d1b2412d: meta 'Create a burgundy personalized music album rug with a burgundy album-cover design with personalized music detail...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-206",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-52d1b2412d-52d1b2412d.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-album-cover-area-rug-52d1b2412d-52d1b2412d: description begins 'Create a burgundy personalized music album rug with a burgundy album-cover design with personalized music detail...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-206",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-52d1b2412d-52d1b2412d.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-album-cover-area-rug-52d1b2412d-52d1b2412d: workbook row, evidence id B021-206, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-206",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-area-rug-52d1b2412d-52d1b2412d.html"
+        ]
+      }
+    },
+    "personalized-album-cover-rug-75f5a15f3e-75f5a15f3e": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-album-cover-rug-75f5a15f3e-75f5a15f3e: proposed title 'Gray Personalized Album Cover Rug' and description 'Create a gray personalized album cover rug with a gray album-cover design with personal...' keep the same product/theme shown in evidence B021-207.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-207",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-75f5a15f3e-75f5a15f3e.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-album-cover-rug-75f5a15f3e-75f5a15f3e: customer copy is limited to visible/product facts such as 'gray rectangular album-player rug with cover image, song title and artist placeholders, play...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-207",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-75f5a15f3e-75f5a15f3e.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-album-cover-rug-75f5a15f3e-75f5a15f3e: primary keyword 'gray personalized album cover rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-207",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-75f5a15f3e-75f5a15f3e.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-album-cover-rug-75f5a15f3e-75f5a15f3e: proposed copy targets the same search intent as 'gray personalized album cover rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-207",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-75f5a15f3e-75f5a15f3e.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-album-cover-rug-75f5a15f3e-75f5a15f3e: current support is 'Marketplace results show demand for personalized album cover rugs, custom song rugs, music p...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-207",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-75f5a15f3e-75f5a15f3e.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-album-cover-rug-75f5a15f3e-75f5a15f3e: title 'Gray Personalized Album Cover Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-207",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-75f5a15f3e-75f5a15f3e.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-album-cover-rug-75f5a15f3e-75f5a15f3e: meta title 'Gray Personalized Album Cover Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-207",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-75f5a15f3e-75f5a15f3e.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-album-cover-rug-75f5a15f3e-75f5a15f3e: meta 'Create a gray personalized album cover rug with a gray album-cover design with personalized song or artist detai...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-207",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-75f5a15f3e-75f5a15f3e.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-album-cover-rug-75f5a15f3e-75f5a15f3e: description begins 'Create a gray personalized album cover rug with a gray album-cover design with personalized song or artist detai...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-207",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-75f5a15f3e-75f5a15f3e.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-album-cover-rug-75f5a15f3e-75f5a15f3e: workbook row, evidence id B021-207, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-207",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-album-cover-rug-75f5a15f3e-75f5a15f3e.html"
+        ]
+      }
+    },
+    "custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b: proposed title 'Music Studio Album Art Rug' and description 'Create a music studio album art rug with a music studio scene with guitars and album-in...' keep the same product/theme shown in evidence B021-208.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-208",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b: customer copy is limited to visible/product facts such as 'black album-player rug shown in a music studio with guitars, speakers and records, plus livi...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-208",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b: primary keyword 'music studio album art rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-208",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b: proposed copy targets the same search intent as 'music studio album art rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-208",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b: current support is 'Marketplace results show demand for personalized album cover rugs, custom song rugs, music p...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-208",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b: title 'Music Studio Album Art Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-208",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b: meta title 'Music Studio Album Art Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-208",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b: meta 'Create a music studio album art rug with a music studio scene with guitars and album-inspired artwork for a dini...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-208",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b: description begins 'Create a music studio album art rug with a music studio scene with guitars and album-inspired artwork for a dini...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-208",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b: workbook row, evidence id B021-208, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-208",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\custom-album-cover-rug-music-decor-f2f905d19b-f2f905d19b.html"
+        ]
+      }
+    },
+    "personalized-music-album-cover-welcome-mat-6b66b8a24c": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-music-album-cover-welcome-mat-6b66b8a24c: proposed title 'Turntable Personalized Music Rug' and description 'Create a turntable personalized music rug with a turntable and album-cover design with...' keep the same product/theme shown in evidence B021-209.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-209",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-music-album-cover-welcome-mat-6b66b8a24c.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-music-album-cover-welcome-mat-6b66b8a24c: customer copy is limited to visible/product facts such as 'rectangular music rug with record turntable graphic, custom photo in vinyl area, song name a...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-209",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-music-album-cover-welcome-mat-6b66b8a24c.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-music-album-cover-welcome-mat-6b66b8a24c: primary keyword 'turntable personalized music rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-209",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-music-album-cover-welcome-mat-6b66b8a24c.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-music-album-cover-welcome-mat-6b66b8a24c: proposed copy targets the same search intent as 'turntable personalized music rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-209",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-music-album-cover-welcome-mat-6b66b8a24c.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-music-album-cover-welcome-mat-6b66b8a24c: current support is 'Marketplace results show demand for personalized album cover rugs, custom song rugs, music p...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-209",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-music-album-cover-welcome-mat-6b66b8a24c.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-music-album-cover-welcome-mat-6b66b8a24c: title 'Turntable Personalized Music Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-209",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-music-album-cover-welcome-mat-6b66b8a24c.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-music-album-cover-welcome-mat-6b66b8a24c: meta title 'Turntable Personalized Music Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-209",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-music-album-cover-welcome-mat-6b66b8a24c.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-music-album-cover-welcome-mat-6b66b8a24c: meta 'Create a turntable personalized music rug with a turntable and album-cover design with personalized music detail...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-209",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-music-album-cover-welcome-mat-6b66b8a24c.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-music-album-cover-welcome-mat-6b66b8a24c: description begins 'Create a turntable personalized music rug with a turntable and album-cover design with personalized music detail...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-209",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-music-album-cover-welcome-mat-6b66b8a24c.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-music-album-cover-welcome-mat-6b66b8a24c: workbook row, evidence id B021-209, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-209",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-music-album-cover-welcome-mat-6b66b8a24c.html"
+        ]
+      }
+    },
+    "personalized-music-album-cover-rug-5088343293-5088343293": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-music-album-cover-rug-5088343293-5088343293: proposed title 'Personalized Song Waveform Rug' and description 'Create a personalized song waveform rug with a personalized song photo and waveform des...' keep the same product/theme shown in evidence B021-210.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-210",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-music-album-cover-rug-5088343293-5088343293.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-music-album-cover-rug-5088343293-5088343293: customer copy is limited to visible/product facts such as 'rectangular music rug with couple photo area, title song and artist name placeholders, play...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-210",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-music-album-cover-rug-5088343293-5088343293.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-music-album-cover-rug-5088343293-5088343293: primary keyword 'personalized song waveform rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-210",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-music-album-cover-rug-5088343293-5088343293.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-music-album-cover-rug-5088343293-5088343293: proposed copy targets the same search intent as 'personalized song waveform rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-210",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-music-album-cover-rug-5088343293-5088343293.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-music-album-cover-rug-5088343293-5088343293: current support is 'Marketplace results show demand for personalized album cover rugs, custom song rugs, music p...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-210",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-music-album-cover-rug-5088343293-5088343293.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-music-album-cover-rug-5088343293-5088343293: title 'Personalized Song Waveform Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-210",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-music-album-cover-rug-5088343293-5088343293.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-music-album-cover-rug-5088343293-5088343293: meta title 'Personalized Song Waveform Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-210",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-music-album-cover-rug-5088343293-5088343293.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-music-album-cover-rug-5088343293-5088343293: meta 'Create a personalized song waveform rug with a personalized song photo and waveform design for a living room, be...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-210",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-music-album-cover-rug-5088343293-5088343293.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-music-album-cover-rug-5088343293-5088343293: description begins 'Create a personalized song waveform rug with a personalized song photo and waveform design for a living room, be...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-210",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-music-album-cover-rug-5088343293-5088343293.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-music-album-cover-rug-5088343293-5088343293: workbook row, evidence id B021-210, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R097\\SEO_Product_Optimization_revision_R097.xlsx",
+          "product_evidence:B021-210",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B021_pages\\personalized-music-album-cover-rug-5088343293-5088343293.html"
+        ]
+      }
+    }
+  }
+}

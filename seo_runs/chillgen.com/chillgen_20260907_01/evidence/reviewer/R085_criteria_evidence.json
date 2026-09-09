@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "R085",
+  "batch_id": "B009",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+  "source_workbook_sha256": "5742a7cc8b0f9b4694b12d8925eebc4960dc1082b9ea2094f122251376ead0e7",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-R085-CRITERIA-01",
+    "reviewed_at": "2026-09-09T13:39:56+07:00"
+  },
+  "reviewed_at": "2026-09-09T13:39:56+07:00",
+  "products": {
+    "personalized-tropical-beach-rug-custom-family-name-tropic-design-04": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-tropical-beach-rug-custom-family-name-tropic-design-04: proposed title 'Personalized Parrot Beach House Rug' and description 'Customize a parrot beach house rug with family-name text, ocean artwork, hibiscus flowe...' keep the same product/theme shown in evidence B009-081.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-081",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-04.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-tropical-beach-rug-custom-family-name-tropic-design-04: customer copy is limited to visible/product facts such as 'bright beach house rug with blue ocean, yellow sun, colorful parrot, hibiscus flowers, palm...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-081",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-04.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-tropical-beach-rug-custom-family-name-tropic-design-04: primary keyword 'personalized parrot beach house rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-081",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-04.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-tropical-beach-rug-custom-family-name-tropic-design-04: proposed copy targets the same search intent as 'personalized parrot beach house rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-081",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-04.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-tropical-beach-rug-custom-family-name-tropic-design-04: current support is 'SERP_ONLY: public marketplace/category results show personalized beach-house/family-name mat...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-081",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-04.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-tropical-beach-rug-custom-family-name-tropic-design-04: title 'Personalized Parrot Beach House Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-081",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-04.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-tropical-beach-rug-custom-family-name-tropic-design-04: meta title 'Personalized Parrot Beach House Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-081",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-04.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-tropical-beach-rug-custom-family-name-tropic-design-04: meta 'Customize a parrot beach house rug with family-name text, ocean artwork, hibiscus flowers, palm details, and a s...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-081",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-04.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-tropical-beach-rug-custom-family-name-tropic-design-04: description begins 'Customize a parrot beach house rug with family-name text, ocean artwork, hibiscus flowers, and palm details. The...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-081",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-04.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-tropical-beach-rug-custom-family-name-tropic-design-04: workbook row, evidence id B009-081, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-081",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-04.html"
+        ]
+      }
+    },
+    "personalized-tropical-beach-rug-custom-family-name-tropic-design-05": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-tropical-beach-rug-custom-family-name-tropic-design-05: proposed title 'Personalized Surfboard Beach Family Rug' and description 'Customize a surfboard beach family rug with family-name text, palm trees, flip-flops, a...' keep the same product/theme shown in evidence B009-082.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-082",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-05.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-tropical-beach-rug-custom-family-name-tropic-design-05: customer copy is limited to visible/product facts such as 'tropical rug with palm trees, surfboards, flip-flops, striped beach colors, wood-sign style...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-082",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-05.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-tropical-beach-rug-custom-family-name-tropic-design-05: primary keyword 'personalized surfboard beach family rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-082",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-05.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-tropical-beach-rug-custom-family-name-tropic-design-05: proposed copy targets the same search intent as 'personalized surfboard beach family rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-082",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-05.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-tropical-beach-rug-custom-family-name-tropic-design-05: current support is 'SERP_ONLY: public marketplace/category results show personalized beach-house/family-name mat...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-082",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-05.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-tropical-beach-rug-custom-family-name-tropic-design-05: title 'Personalized Surfboard Beach Family Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-082",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-05.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-tropical-beach-rug-custom-family-name-tropic-design-05: meta title 'Personalized Surfboard Beach Family Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-082",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-05.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-tropical-beach-rug-custom-family-name-tropic-design-05: meta 'Customize a surfboard beach family rug with family-name text, palm trees, flip-flops, and a relaxed coastal sign...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-082",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-05.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-tropical-beach-rug-custom-family-name-tropic-design-05: description begins 'Customize a surfboard beach family rug with family-name text, palm trees, flip-flops, and a relaxed coastal sign...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-082",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-05.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-tropical-beach-rug-custom-family-name-tropic-design-05: workbook row, evidence id B009-082, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-082",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-05.html"
+        ]
+      }
+    },
+    "personalized-tropical-beach-rug-custom-family-name-tropic-design-01": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-tropical-beach-rug-custom-family-name-tropic-design-01: proposed title 'Personalized Flip Flop Happy Place Rug' and description 'Create a flip-flop happy place rug with custom family-name text, sand-and-ocean artwork...' keep the same product/theme shown in evidence B009-083.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-083",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-01.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-tropical-beach-rug-custom-family-name-tropic-design-01: customer copy is limited to visible/product facts such as 'sand and turquoise ocean rug with colorful flip-flops, palm leaves, starfish, seashells, Wel...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-083",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-01.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-tropical-beach-rug-custom-family-name-tropic-design-01: primary keyword 'personalized flip flop happy place rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-083",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-01.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-tropical-beach-rug-custom-family-name-tropic-design-01: proposed copy targets the same search intent as 'personalized flip flop happy place rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-083",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-01.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-tropical-beach-rug-custom-family-name-tropic-design-01: current support is 'SERP_ONLY: public marketplace/category results show personalized beach-house/family-name mat...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-083",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-01.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-tropical-beach-rug-custom-family-name-tropic-design-01: title 'Personalized Flip Flop Happy Place Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-083",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-01.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-tropical-beach-rug-custom-family-name-tropic-design-01: meta title 'Personalized Flip Flop Happy Place Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-083",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-01.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-tropical-beach-rug-custom-family-name-tropic-design-01: meta 'Create a flip-flop happy place rug with custom family-name text, sand-and-ocean artwork, starfish, shells, and v...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-083",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-01.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-tropical-beach-rug-custom-family-name-tropic-design-01: description begins 'Create a flip-flop happy place rug with custom family-name text, sand-and-ocean artwork, starfish, shells, and v...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-083",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-01.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-tropical-beach-rug-custom-family-name-tropic-design-01: workbook row, evidence id B009-083, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-083",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-01.html"
+        ]
+      }
+    },
+    "personalized-tropical-beach-rug-custom-family-name-tropic-design-08": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-tropical-beach-rug-custom-family-name-tropic-design-08: proposed title 'Personalized Flamingo Paradise Beach Rug' and description 'Customize a flamingo paradise beach rug with family-name text, tropical sign artwork, h...' keep the same product/theme shown in evidence B009-084.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-084",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-08.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-tropical-beach-rug-custom-family-name-tropic-design-08: customer copy is limited to visible/product facts such as 'colorful tropical rug with pink flamingo, red Paradise sign, family-name personalization, hi...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-084",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-08.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-tropical-beach-rug-custom-family-name-tropic-design-08: primary keyword 'personalized flamingo paradise beach rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-084",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-08.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-tropical-beach-rug-custom-family-name-tropic-design-08: proposed copy targets the same search intent as 'personalized flamingo paradise beach rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-084",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-08.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-tropical-beach-rug-custom-family-name-tropic-design-08: current support is 'SERP_ONLY: public marketplace/category results show personalized beach-house/family-name mat...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-084",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-08.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-tropical-beach-rug-custom-family-name-tropic-design-08: title 'Personalized Flamingo Paradise Beach Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-084",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-08.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-tropical-beach-rug-custom-family-name-tropic-design-08: meta title 'Personalized Flamingo Paradise Beach Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-084",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-08.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-tropical-beach-rug-custom-family-name-tropic-design-08: meta 'Customize a flamingo paradise beach rug with family-name text, tropical sign artwork, hibiscus flowers, palm lea...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-084",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-08.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-tropical-beach-rug-custom-family-name-tropic-design-08: description begins 'Customize a flamingo paradise beach rug with family-name text, tropical sign artwork, hibiscus flowers, palm lea...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-084",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-08.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-tropical-beach-rug-custom-family-name-tropic-design-08: workbook row, evidence id B009-084, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-084",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-08.html"
+        ]
+      }
+    },
+    "personalized-tropical-beach-rug-custom-family-name-tropic-design-06": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-tropical-beach-rug-custom-family-name-tropic-design-06: proposed title 'Personalized Sunset Beach House Rug' and description 'Customize a sunset beach house rug with family-name text, palm trees, hammock artwork,...' keep the same product/theme shown in evidence B009-085.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-085",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-06.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-tropical-beach-rug-custom-family-name-tropic-design-06: customer copy is limited to visible/product facts such as 'sunset beach rug with palm trees, hammock, shore scene, shell accents, Welcome text and fami...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-085",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-06.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-tropical-beach-rug-custom-family-name-tropic-design-06: primary keyword 'personalized sunset beach house rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-085",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-06.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-tropical-beach-rug-custom-family-name-tropic-design-06: proposed copy targets the same search intent as 'personalized sunset beach house rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-085",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-06.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-tropical-beach-rug-custom-family-name-tropic-design-06: current support is 'SERP_ONLY: public marketplace/category results show personalized beach-house/family-name mat...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-085",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-06.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-tropical-beach-rug-custom-family-name-tropic-design-06: title 'Personalized Sunset Beach House Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-085",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-06.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-tropical-beach-rug-custom-family-name-tropic-design-06: meta title 'Personalized Sunset Beach House Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-085",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-06.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-tropical-beach-rug-custom-family-name-tropic-design-06: meta 'Customize a sunset beach house rug with family-name text, palm trees, hammock artwork, ocean view, and calm coas...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-085",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-06.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-tropical-beach-rug-custom-family-name-tropic-design-06: description begins 'Customize a sunset beach house rug with family-name text, palm trees, hammock artwork, ocean view, and calm coas...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-085",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-06.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-tropical-beach-rug-custom-family-name-tropic-design-06: workbook row, evidence id B009-085, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-085",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropic-design-06.html"
+        ]
+      }
+    },
+    "personalized-tropical-beach-rug-custom-family-name-tropical-outdoor": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-tropical-beach-rug-custom-family-name-tropical-outdoor: proposed title 'Personalized Hibiscus Tropical Family Rug' and description 'Customize a hibiscus tropical family rug with family-name text, palm-leaf artwork, brig...' keep the same product/theme shown in evidence B009-086.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-086",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropical-outdoor.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-tropical-beach-rug-custom-family-name-tropical-outdoor: customer copy is limited to visible/product facts such as 'personalized rug with pink and orange hibiscus flowers, palm leaves, soft aqua background, W...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-086",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropical-outdoor.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-tropical-beach-rug-custom-family-name-tropical-outdoor: primary keyword 'personalized hibiscus tropical family rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-086",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropical-outdoor.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-tropical-beach-rug-custom-family-name-tropical-outdoor: proposed copy targets the same search intent as 'personalized hibiscus tropical family rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-086",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropical-outdoor.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-tropical-beach-rug-custom-family-name-tropical-outdoor: current support is 'SERP_ONLY: public marketplace/category results show personalized beach-house/family-name mat...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-086",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropical-outdoor.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-tropical-beach-rug-custom-family-name-tropical-outdoor: title 'Personalized Hibiscus Tropical Family Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-086",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropical-outdoor.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-tropical-beach-rug-custom-family-name-tropical-outdoor: meta title 'Personalized Hibiscus Tropical Family Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-086",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropical-outdoor.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-tropical-beach-rug-custom-family-name-tropical-outdoor: meta 'Customize a hibiscus tropical family rug with family-name text, palm-leaf artwork, bright flowers, and soft beac...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-086",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropical-outdoor.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-tropical-beach-rug-custom-family-name-tropical-outdoor: description begins 'Customize a hibiscus tropical family rug with family-name text, palm-leaf artwork, bright flowers, and soft beac...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-086",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropical-outdoor.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-tropical-beach-rug-custom-family-name-tropical-outdoor: workbook row, evidence id B009-086, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-086",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-tropical-beach-rug-custom-family-name-tropical-outdoor.html"
+        ]
+      }
+    },
+    "personalized-calming-corner-rug-for-classroom-custom-teacher-name": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-calming-corner-rug-for-classroom-custom-teacher-name: proposed title 'Personalized Teacher Calm Corner Rug' and description 'Customize a teacher calm corner rug with name text, feelings chart artwork, self-contro...' keep the same product/theme shown in evidence B009-087.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-087",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-teacher-name.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-calming-corner-rug-for-classroom-custom-teacher-name: customer copy is limited to visible/product facts such as 'colorful classroom rug personalized with Mrs. Johnson's name, Calm Corner title, feelings ar...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-087",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-teacher-name.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-calming-corner-rug-for-classroom-custom-teacher-name: primary keyword 'personalized teacher calm corner rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-087",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-teacher-name.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-calming-corner-rug-for-classroom-custom-teacher-name: proposed copy targets the same search intent as 'personalized teacher calm corner rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-087",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-teacher-name.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-calming-corner-rug-for-classroom-custom-teacher-name: current support is 'SERP_ONLY: public marketplace/category results show personalized beach-house/family-name mat...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-087",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-teacher-name.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-calming-corner-rug-for-classroom-custom-teacher-name: title 'Personalized Teacher Calm Corner Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-087",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-teacher-name.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-calming-corner-rug-for-classroom-custom-teacher-name: meta title 'Personalized Teacher Calm Corner Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-087",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-teacher-name.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-calming-corner-rug-for-classroom-custom-teacher-name: meta 'Customize a teacher calm corner rug with name text, feelings chart artwork, self-control prompts, and colorful c...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-087",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-teacher-name.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-calming-corner-rug-for-classroom-custom-teacher-name: description begins 'Customize a teacher calm corner rug with name text, feelings chart artwork, self-control prompts, and colorful c...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-087",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-teacher-name.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-calming-corner-rug-for-classroom-custom-teacher-name: workbook row, evidence id B009-087, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-087",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-teacher-name.html"
+        ]
+      }
+    },
+    "personalized-calming-corner-rug-for-classroom-custom-tea-design-100": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-calming-corner-rug-for-classroom-custom-tea-design-100: proposed title 'Personalized Calm Corner Activity Rug' and description 'Customize a calm corner activity rug with teacher-name text and visual prompts such as...' keep the same product/theme shown in evidence B009-088.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-088",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-100.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-calming-corner-rug-for-classroom-custom-tea-design-100: customer copy is limited to visible/product facts such as 'personalized Mrs. Johnson's Calm Corner rug with colorful activity prompts including dance,...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-088",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-100.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-calming-corner-rug-for-classroom-custom-tea-design-100: primary keyword 'personalized calm corner activity rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-088",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-100.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-calming-corner-rug-for-classroom-custom-tea-design-100: proposed copy targets the same search intent as 'personalized calm corner activity rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-088",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-100.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-calming-corner-rug-for-classroom-custom-tea-design-100: current support is 'SERP_ONLY: public marketplace/category results show personalized beach-house/family-name mat...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-088",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-100.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-calming-corner-rug-for-classroom-custom-tea-design-100: title 'Personalized Calm Corner Activity Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-088",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-100.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-calming-corner-rug-for-classroom-custom-tea-design-100: meta title 'Personalized Calm Corner Activity Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-088",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-100.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-calming-corner-rug-for-classroom-custom-tea-design-100: meta 'Customize a calm corner activity rug with teacher-name text, breathe, draw, listen, dance, and reflection prompt...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-088",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-100.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-calming-corner-rug-for-classroom-custom-tea-design-100: description begins 'Customize a calm corner activity rug with teacher-name text and visual prompts such as breathe, draw, listen, da...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-088",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-100.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-calming-corner-rug-for-classroom-custom-tea-design-100: workbook row, evidence id B009-088, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-088",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-100.html"
+        ]
+      }
+    },
+    "personalized-calming-corner-rug-for-classroom-custom-tea-design-101": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-calming-corner-rug-for-classroom-custom-tea-design-101: proposed title 'Classroom Mindfulness Calm Corner Rug' and description 'Create a classroom mindfulness rug with positive-thinking prompts, breathing ideas, doo...' keep the same product/theme shown in evidence B009-089.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-089",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-101.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-calming-corner-rug-for-classroom-custom-tea-design-101: customer copy is limited to visible/product facts such as 'white classroom mindfulness rug with doodle-style positive thinking, relax, breathe, cloud g...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-089",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-101.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-calming-corner-rug-for-classroom-custom-tea-design-101: primary keyword 'classroom mindfulness calm corner rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-089",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-101.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-calming-corner-rug-for-classroom-custom-tea-design-101: proposed copy targets the same search intent as 'classroom mindfulness calm corner rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-089",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-101.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-calming-corner-rug-for-classroom-custom-tea-design-101: current support is 'SERP_ONLY: public marketplace/category results show personalized beach-house/family-name mat...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-089",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-101.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-calming-corner-rug-for-classroom-custom-tea-design-101: title 'Classroom Mindfulness Calm Corner Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-089",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-101.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-calming-corner-rug-for-classroom-custom-tea-design-101: meta title 'Classroom Mindfulness Calm Corner Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-089",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-101.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-calming-corner-rug-for-classroom-custom-tea-design-101: meta 'Create a classroom mindfulness rug with positive-thinking prompts, breathing ideas, doodle artwork, and gentle c...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-089",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-101.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-calming-corner-rug-for-classroom-custom-tea-design-101: description begins 'Create a classroom mindfulness rug with positive-thinking prompts, breathing ideas, doodle artwork, and gentle c...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-089",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-101.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-calming-corner-rug-for-classroom-custom-tea-design-101: workbook row, evidence id B009-089, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-089",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-101.html"
+        ]
+      }
+    },
+    "personalized-calming-corner-rug-for-classroom-custom-tea-design-102": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-calming-corner-rug-for-classroom-custom-tea-design-102: proposed title 'Classroom Feelings Check-In Rug' and description 'Create a classroom feelings check-in rug with a battery meter, mood faces, coping promp...' keep the same product/theme shown in evidence B009-090.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-090",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-102.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-calming-corner-rug-for-classroom-custom-tea-design-102: customer copy is limited to visible/product facts such as 'classroom rug with Check Your Battery headline, How Are You Currently Feeling wording, batte...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-090",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-102.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-calming-corner-rug-for-classroom-custom-tea-design-102: primary keyword 'classroom feelings check-in rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-090",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-102.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-calming-corner-rug-for-classroom-custom-tea-design-102: proposed copy targets the same search intent as 'classroom feelings check-in rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-090",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-102.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-calming-corner-rug-for-classroom-custom-tea-design-102: current support is 'SERP_ONLY: public marketplace/category results show personalized beach-house/family-name mat...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-090",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-102.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-calming-corner-rug-for-classroom-custom-tea-design-102: title 'Classroom Feelings Check-In Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-090",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-102.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-calming-corner-rug-for-classroom-custom-tea-design-102: meta title 'Classroom Feelings Check-In Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-090",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-102.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-calming-corner-rug-for-classroom-custom-tea-design-102: meta 'Create a classroom feelings check-in rug with a battery meter, mood faces, coping prompts, and colorful emotion-...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-090",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-102.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-calming-corner-rug-for-classroom-custom-tea-design-102: description begins 'Create a classroom feelings check-in rug with a battery meter, mood faces, coping prompts, and colorful emotion-...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-090",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-102.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-calming-corner-rug-for-classroom-custom-tea-design-102: workbook row, evidence id B009-090, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R085\\SEO_Product_Optimization_revision_R085.xlsx",
+          "product_evidence:B009-090",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B009_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-102.html"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "rubric_hash": "c2c1defdb72362291f7da656fa7fea9283a02782fc8ca66d2e4637f2511500dd",
+  "qa_run_id": "QA-20260909-B016-R092-GOVERNANCE-CORRECTED",
+  "qa_batch_id": "REV_R092",
+  "batch_id": "B016",
+  "revision_id": "R092",
+  "parent_run_id": "",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+  "source_workbook_sha256": "d646ab4a8df1dd6ed40fae21057b6ed05b1172372f3ba1d0971226431f72895f",
+  "scope_hash": "4c57135ff8a3f72e71c9f74b76cf70953f085dfb1627128dfa65d3b63bc7cea7",
+  "batch_product_keys": [
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113",
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114",
+    "personalized-orthodox-christian-area-rug-custom-eastern-orthodox",
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-100",
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-101",
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-102",
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-103",
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-104",
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-105"
+  ],
+  "status_counts": {
+    "QA_PASS": 10,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "issue_counts": {
+    "CRITICAL": 0,
+    "MAJOR": 0,
+    "MINOR": 0,
+    "LIMITATION": 10
+  },
+  "batch_status": "QA_PASS",
+  "content_qa_status": "QA_PASS",
+  "evidence_maturity": "SERP_ONLY",
+  "canonical": true,
+  "supersedes": [
+    "QA-20260909-B016-R092-GOVERNANCE"
+  ],
+  "manual_image_evidence": "seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\reviewer\\B016_R092_independent_fullres.json",
+  "manual_criteria_evidence": "seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\reviewer\\R092_criteria_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED",
+  "created_at": "2026-09-09T17:11:34+07:00"
+}

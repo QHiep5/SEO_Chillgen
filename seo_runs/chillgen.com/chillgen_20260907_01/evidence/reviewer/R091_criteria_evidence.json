@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "R091",
+  "batch_id": "B015",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+  "source_workbook_sha256": "48adb503203ec1e425117f287d2e230fd825339d622d5e639a86d1585bb6bc1f",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-R091-CRITERIA-01",
+    "reviewed_at": "2026-09-09T17:05:48+07:00"
+  },
+  "reviewed_at": "2026-09-09T17:05:48+07:00",
+  "products": {
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102: proposed title 'Ghost Vortex Halloween Rug' and description 'Create a ghost vortex Halloween rug with ghost vortex artwork, a deep tunnel effect, pu...' keep the same product/theme shown in evidence B015-141.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-141",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102: customer copy is limited to visible/product facts such as 'round Halloween optical illusion rug with a white ghost rising from a black-and-white tunnel...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-141",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102: primary keyword 'ghost vortex Halloween rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-141",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102: proposed copy targets the same search intent as 'ghost vortex Halloween rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-141",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102: current support is 'SERP_ONLY: public marketplace/category results show demand language around Halloween optical...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-141",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102: title 'Ghost Vortex Halloween Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-141",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102: meta title 'Ghost Vortex Halloween Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-141",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102: meta 'Create a ghost vortex Halloween rug with ghost vortex artwork, a deep tunnel effect, purple trim, pumpkins, and...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-141",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102: description begins 'Create a ghost vortex Halloween rug with ghost vortex artwork, a deep tunnel effect, purple trim, pumpkins, and...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-141",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102: workbook row, evidence id B015-141, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-141",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-102.html"
+        ]
+      }
+    },
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103: proposed title 'Raven Autumn Halloween Rug' and description 'Create a raven autumn Halloween rug with raven artwork, autumn colors, a deep tunnel ef...' keep the same product/theme shown in evidence B015-142.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-142",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103: customer copy is limited to visible/product facts such as 'round gothic fall rug with a large dark raven or crow, red and orange maple leaves, warm moo...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-142",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103: primary keyword 'raven autumn Halloween rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-142",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103: proposed copy targets the same search intent as 'raven autumn Halloween rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-142",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103: current support is 'SERP_ONLY: public marketplace/category results show demand language around Halloween optical...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-142",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103: title 'Raven Autumn Halloween Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-142",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103: meta title 'Raven Autumn Halloween Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-142",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103: meta 'Create a raven autumn Halloween rug with raven artwork, autumn colors, a deep tunnel effect, pumpkins, and a moo...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-142",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103: description begins 'Create a raven autumn Halloween rug with raven artwork, autumn colors, a deep tunnel effect, pumpkins, and a moo...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-142",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103: workbook row, evidence id B015-142, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-142",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-103.html"
+        ]
+      }
+    },
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104: proposed title 'Checkerboard Ghost Illusion Rug' and description 'Create a checkerboard ghost illusion rug with checkerboard artwork, ghost details, pump...' keep the same product/theme shown in evidence B015-143.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-143",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104: customer copy is limited to visible/product facts such as 'round Halloween rug with black-and-white checkerboard vortex illusion, floating white ghosts...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-143",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104: primary keyword 'checkerboard ghost illusion rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-143",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104: proposed copy targets the same search intent as 'checkerboard ghost illusion rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-143",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104: current support is 'SERP_ONLY: public marketplace/category results show demand language around Halloween optical...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-143",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104: title 'Checkerboard Ghost Illusion Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-143",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104: meta title 'Checkerboard Ghost Illusion Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-143",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104: meta 'Create a checkerboard ghost illusion rug with checkerboard artwork, ghost details, pumpkins, and a dramatic Hall...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-143",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104: description begins 'Create a checkerboard ghost illusion rug with checkerboard artwork, ghost details, pumpkins, and a dramatic Hall...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-143",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104: workbook row, evidence id B015-143, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-143",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-104.html"
+        ]
+      }
+    },
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105: proposed title 'Ghost Campfire Halloween Rug' and description 'Create a ghost campfire Halloween rug with ghost and campfire artwork, autumn accents,...' keep the same product/theme shown in evidence B015-144.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-144",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105: customer copy is limited to visible/product facts such as 'round Halloween fall rug with a blanket-wrapped ghost beside a glowing campfire, pumpkins, l...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-144",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105: primary keyword 'ghost campfire Halloween rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-144",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105: proposed copy targets the same search intent as 'ghost campfire Halloween rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-144",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105: current support is 'SERP_ONLY: public marketplace/category results show demand language around Halloween optical...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-144",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105: title 'Ghost Campfire Halloween Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-144",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105: meta title 'Ghost Campfire Halloween Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-144",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105: meta 'Create a ghost campfire Halloween rug with ghost and campfire artwork, autumn accents, pumpkins, and a playful H...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-144",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105: description begins 'Create a ghost campfire Halloween rug with ghost and campfire artwork, autumn accents, pumpkins, and a playful H...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-144",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105: workbook row, evidence id B015-144, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-144",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-105.html"
+        ]
+      }
+    },
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106: proposed title 'Crawling Skeleton Pit Rug' and description 'Create a crawling skeleton pit rug with a crawling skeleton, stone-pit artwork, dark sh...' keep the same product/theme shown in evidence B015-145.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-145",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106: customer copy is limited to visible/product facts such as 'round 3D Halloween rug showing a skeleton crawling out of a dark stone pit with glowing eyes...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-145",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106: primary keyword 'crawling skeleton pit rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-145",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106: proposed copy targets the same search intent as 'crawling skeleton pit rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-145",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106: current support is 'SERP_ONLY: public marketplace/category results show demand language around Halloween optical...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-145",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106: title 'Crawling Skeleton Pit Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-145",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106: meta title 'Crawling Skeleton Pit Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-145",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106: meta 'Create a crawling skeleton pit rug with a crawling skeleton, stone-pit artwork, dark shadows, and a dramatic 3D...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-145",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106: description begins 'Create a crawling skeleton pit rug with a crawling skeleton, stone-pit artwork, dark shadows, and a dramatic 3D...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-145",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106: workbook row, evidence id B015-145, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-145",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-106.html"
+        ]
+      }
+    },
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107: proposed title 'Graveyard Checkerboard Illusion Rug' and description 'Create a graveyard checkerboard rug with graveyard artwork, checkerboard patterning, pu...' keep the same product/theme shown in evidence B015-146.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-146",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107: customer copy is limited to visible/product facts such as 'round Halloween optical illusion rug with black-and-white checkerboard pit, graveyard border...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-146",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107: primary keyword 'graveyard checkerboard rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-146",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107: proposed copy targets the same search intent as 'graveyard checkerboard rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-146",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107: current support is 'SERP_ONLY: public marketplace/category results show demand language around Halloween optical...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-146",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107: title 'Graveyard Checkerboard Illusion Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-146",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107: meta title 'Graveyard Checkerboard Illusion Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-146",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107: meta 'Create a graveyard checkerboard rug with graveyard artwork, checkerboard patterning, pumpkins, and a dramatic Ha...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-146",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107: description begins 'Create a graveyard checkerboard rug with graveyard artwork, checkerboard patterning, pumpkins, and a dramatic Ha...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-146",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107: workbook row, evidence id B015-146, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-146",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-107.html"
+        ]
+      }
+    },
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108: proposed title 'Haunted Path Ghost Pumpkin Rug' and description 'Create a haunted path ghost pumpkin rug with a haunted path, ghost and pumpkin artwork,...' keep the same product/theme shown in evidence B015-147.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-147",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108: customer copy is limited to visible/product facts such as 'round Halloween rug with haunted house, cobblestone path, white ghosts, jack-o-lantern pumpk...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-147",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108: primary keyword 'haunted path ghost pumpkin rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-147",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108: proposed copy targets the same search intent as 'haunted path ghost pumpkin rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-147",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108: current support is 'SERP_ONLY: public marketplace/category results show demand language around Halloween optical...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-147",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108: title 'Haunted Path Ghost Pumpkin Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-147",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108: meta title 'Haunted Path Ghost Pumpkin Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-147",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108: meta 'Create a haunted path ghost pumpkin rug with a haunted path, ghost and pumpkin artwork, autumn colors, and a dee...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-147",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108: description begins 'Create a haunted path ghost pumpkin rug with a haunted path, ghost and pumpkin artwork, autumn colors, and a dee...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-147",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108: workbook row, evidence id B015-147, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-147",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-108.html"
+        ]
+      }
+    },
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109: proposed title 'Corgi Haunted Castle Halloween Rug' and description 'Create a corgi haunted castle Halloween rug with a corgi, haunted castle artwork, pumpk...' keep the same product/theme shown in evidence B015-148.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-148",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109: customer copy is limited to visible/product facts such as 'round Halloween rug with corgi dogs wearing witch hats, haunted castle silhouette, large moo...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-148",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109: primary keyword 'corgi haunted castle Halloween rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-148",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109: proposed copy targets the same search intent as 'corgi haunted castle Halloween rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-148",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109: current support is 'SERP_ONLY: public marketplace/category results show demand language around Halloween optical...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-148",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109: title 'Corgi Haunted Castle Halloween Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-148",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109: meta title 'Corgi Haunted Castle Halloween Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-148",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109: meta 'Create a corgi haunted castle Halloween rug with a corgi, haunted castle artwork, pumpkins, and a playful spooky...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-148",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109: description begins 'Create a corgi haunted castle Halloween rug with a corgi, haunted castle artwork, pumpkins, and a playful spooky...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-148",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109: workbook row, evidence id B015-148, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-148",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-109.html"
+        ]
+      }
+    },
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110: proposed title 'Bat Vortex Halloween Rug' and description 'Create a bat vortex Halloween rug with bat artwork, a swirling vortex effect, pumpkins,...' keep the same product/theme shown in evidence B015-149.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-149",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110: customer copy is limited to visible/product facts such as 'round Halloween rug with swirling orange, purple and blue vortex pattern, silhouettes of fly...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-149",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110: primary keyword 'bat vortex Halloween rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-149",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110: proposed copy targets the same search intent as 'bat vortex Halloween rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-149",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110: current support is 'SERP_ONLY: public marketplace/category results show demand language around Halloween optical...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-149",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110: title 'Bat Vortex Halloween Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-149",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110: meta title 'Bat Vortex Halloween Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-149",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110: meta 'Create a bat vortex Halloween rug with bat artwork, a swirling vortex effect, pumpkins, and dark seasonal colors.' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-149",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110: description begins 'Create a bat vortex Halloween rug with bat artwork, a swirling vortex effect, pumpkins, and dark seasonal colors...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-149",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110: workbook row, evidence id B015-149, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-149",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-110.html"
+        ]
+      }
+    },
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111: proposed title 'Purple Haunted Village Halloween Rug' and description 'Create a purple haunted village rug with a purple haunted village, ghostly details, pum...' keep the same product/theme shown in evidence B015-150.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-150",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111: customer copy is limited to visible/product facts such as 'round purple Halloween rug with haunted village or gothic city vortex artwork, small ghosts,...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-150",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111: primary keyword 'purple haunted village rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-150",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111: proposed copy targets the same search intent as 'purple haunted village rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-150",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111: current support is 'SERP_ONLY: public marketplace/category results show demand language around Halloween optical...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-150",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111: title 'Purple Haunted Village Halloween Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-150",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111: meta title 'Purple Haunted Village Halloween Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-150",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111: meta 'Create a purple haunted village rug with a purple haunted village, ghostly details, pumpkins, and a dramatic nig...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-150",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111: description begins 'Create a purple haunted village rug with a purple haunted village, ghostly details, pumpkins, and a dramatic nig...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-150",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111: workbook row, evidence id B015-150, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R091\\SEO_Product_Optimization_revision_R091.xlsx",
+          "product_evidence:B015-150",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B015_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-111.html"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "R101",
+  "batch_id": "B025",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+  "source_workbook_sha256": "f5fc98f0346d83168aa19312195fe54554ee1264cafa0f8d82b759cea1319822",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-R101-CRITERIA-01",
+    "reviewed_at": "2026-09-09T17:56:04+07:00"
+  },
+  "reviewed_at": "2026-09-09T17:56:04+07:00",
+  "products": {
+    "custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e: proposed title 'Personalized Reading Tree Classroom Rug' and description 'Create a personalized reading tree classroom rug with a tree filled with books and pers...' keep the same product/theme shown in evidence B025-241.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-241",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e: customer copy is limited to visible/product facts such as 'cream and green reading rug with large tree, books on branches, reading quote cards, open yo...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-241",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e: primary keyword 'personalized reading tree classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-241",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e: proposed copy targets the same search intent as 'personalized reading tree classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-241",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e: current support is 'Marketplace and classroom-rug sources show buyer demand around reading rugs, classroom libra...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-241",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e: title 'Personalized Reading Tree Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-241",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e: meta title 'Personalized Reading Tree Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-241",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e: meta 'Create a personalized reading tree classroom rug with a tree filled with books and personalized name space for a...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-241",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e: description begins 'Create a personalized reading tree classroom rug with a tree filled with books and personalized name space for a...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-241",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e: workbook row, evidence id B025-241, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-241",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-reading-tree-classroom-library-rug-983a65fb2e-983a65fb2e.html"
+        ]
+      }
+    },
+    "custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966: proposed title 'Personalized Tree of Knowledge Rug' and description 'Create a personalized Tree of Knowledge rug with a Tree of Knowledge design with floral...' keep the same product/theme shown in evidence B025-242.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-242",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966: customer copy is limited to visible/product facts such as 'green tree of knowledge rug with large brown tree, many books, moon and stars, grassy backgr...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-242",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966: primary keyword 'personalized Tree of Knowledge rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-242",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966: proposed copy targets the same search intent as 'personalized Tree of Knowledge rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-242",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966: current support is 'Marketplace and classroom-rug sources show buyer demand around reading rugs, classroom libra...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-242",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966: title 'Personalized Tree of Knowledge Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-242",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966: meta title 'Personalized Tree of Knowledge Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-242",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966: meta 'Create a personalized Tree of Knowledge rug with a Tree of Knowledge design with floral details and personalized...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-242",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966: description begins 'Create a personalized Tree of Knowledge rug with a Tree of Knowledge design with floral details and personalized...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-242",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966: workbook row, evidence id B025-242, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-242",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-tree-of-knowledge-classroom-library-rug-5ea95ac966-5ea95ac966.html"
+        ]
+      }
+    },
+    "personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5: proposed title 'Personalized Cool Kids Read Rug' and description 'Create a personalized Cool Kids Read rug with Cool Kids Read wording with book-characte...' keep the same product/theme shown in evidence B025-243.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-243",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5: customer copy is limited to visible/product facts such as 'cream rug with Cool kids and READ BOOKS text, colorful smiling book characters, classroom/pl...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-243",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5: primary keyword 'personalized Cool Kids Read rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-243",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5: proposed copy targets the same search intent as 'personalized Cool Kids Read rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-243",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5: current support is 'Marketplace and classroom-rug sources show buyer demand around reading rugs, classroom libra...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-243",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5: title 'Personalized Cool Kids Read Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-243",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5: meta title 'Personalized Cool Kids Read Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-243",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5: meta 'Create a personalized Cool Kids Read rug with Cool Kids Read wording with book-character artwork and personalize...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-243",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5: description begins 'Create a personalized Cool Kids Read rug with Cool Kids Read wording with book-character artwork and personalize...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-243",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5: workbook row, evidence id B025-243, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-243",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\personalized-cool-kids-read-book-rug-classroom-library-b1f15827f5.html"
+        ]
+      }
+    },
+    "custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6: proposed title 'Personalized New Chapter Reading Rug' and description 'Create a personalized New Chapter reading rug with New Chapter wording with a welcoming...' keep the same product/theme shown in evidence B025-244.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-244",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6: customer copy is limited to visible/product facts such as 'black classroom reading rug with Welcome to a New Chapter quote, open book, colorful books,...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-244",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6: primary keyword 'personalized New Chapter reading rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-244",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6: proposed copy targets the same search intent as 'personalized New Chapter reading rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-244",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6: current support is 'Marketplace and classroom-rug sources show buyer demand around reading rugs, classroom libra...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-244",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6: title 'Personalized New Chapter Reading Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-244",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6: meta title 'Personalized New Chapter Reading Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-244",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6: meta 'Create a personalized New Chapter reading rug with New Chapter wording with a welcoming classroom reading design...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-244",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6: description begins 'Create a personalized New Chapter reading rug with New Chapter wording with a welcoming classroom reading design...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-244",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6: workbook row, evidence id B025-244, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-244",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\custom-good-day-read-book-classroom-rug-dc9ddbc5f6-dc9ddbc5f6.html"
+        ]
+      }
+    },
+    "colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac: proposed title 'Reading Helps Your Mind Bloom Rug' and description 'Create a Reading Helps Your Mind Bloom rug with Reading Helps Your Mind Bloom wording w...' keep the same product/theme shown in evidence B025-245.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-245",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac: customer copy is limited to visible/product facts such as 'black floral classroom rug with Reading Helps Your Mind Bloom quote, teacher name Mr. Michae...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-245",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac: primary keyword 'Reading Helps Your Mind Bloom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-245",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac: proposed copy targets the same search intent as 'Reading Helps Your Mind Bloom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-245",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac: current support is 'Marketplace and classroom-rug sources show buyer demand around reading rugs, classroom libra...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-245",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac: title 'Reading Helps Your Mind Bloom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-245",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac: meta title 'Reading Helps Your Mind Bloom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-245",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac: meta 'Create a Reading Helps Your Mind Bloom rug with Reading Helps Your Mind Bloom wording with colorful handprints f...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-245",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac: description begins 'Create a Reading Helps Your Mind Bloom rug with Reading Helps Your Mind Bloom wording with colorful handprints f...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-245",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac: workbook row, evidence id B025-245, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-245",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-e41ab46aac-e41ab46aac.html"
+        ]
+      }
+    },
+    "colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2: proposed title 'Personalized BE Values Classroom Rug' and description 'Create a personalized BE Values classroom rug with BE Values wording with colorful hand...' keep the same product/theme shown in evidence B025-246.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-246",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2: customer copy is limited to visible/product facts such as 'black classroom rug with large yellow BE center, colorful arrows reading kind, honest, thank...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-246",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2: primary keyword 'personalized BE Values classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-246",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2: proposed copy targets the same search intent as 'personalized BE Values classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-246",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2: current support is 'Marketplace and classroom-rug sources show buyer demand around reading rugs, classroom libra...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-246",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2: title 'Personalized BE Values Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-246",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2: meta title 'Personalized BE Values Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-246",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2: meta 'Create a personalized BE Values classroom rug with BE Values wording with colorful handprints and personalized c...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-246",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2: description begins 'Create a personalized BE Values classroom rug with BE Values wording with colorful handprints and personalized c...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-246",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2: workbook row, evidence id B025-246, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-246",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-classroom-rug-for-kids-aaa73255b2-aaa73255b2.html"
+        ]
+      }
+    },
+    "colorful-classroom-rug-for-kids-877e4e6020-877e4e6020": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for colorful-classroom-rug-for-kids-877e4e6020-877e4e6020: proposed title 'You Matter Affirmation Classroom Rug' and description 'Create a You Matter affirmation classroom rug with You Matter wording with colorful han...' keep the same product/theme shown in evidence B025-247.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-247",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-classroom-rug-for-kids-877e4e6020-877e4e6020.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for colorful-classroom-rug-for-kids-877e4e6020-877e4e6020: customer copy is limited to visible/product facts such as 'black affirmation classroom rug with rainbow, handprints, paint splashes and text You are un...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-247",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-classroom-rug-for-kids-877e4e6020-877e4e6020.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for colorful-classroom-rug-for-kids-877e4e6020-877e4e6020: primary keyword 'You Matter affirmation classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-247",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-classroom-rug-for-kids-877e4e6020-877e4e6020.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for colorful-classroom-rug-for-kids-877e4e6020-877e4e6020: proposed copy targets the same search intent as 'You Matter affirmation classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-247",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-classroom-rug-for-kids-877e4e6020-877e4e6020.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for colorful-classroom-rug-for-kids-877e4e6020-877e4e6020: current support is 'Marketplace and classroom-rug sources show buyer demand around reading rugs, classroom libra...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-247",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-classroom-rug-for-kids-877e4e6020-877e4e6020.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for colorful-classroom-rug-for-kids-877e4e6020-877e4e6020: title 'You Matter Affirmation Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-247",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-classroom-rug-for-kids-877e4e6020-877e4e6020.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for colorful-classroom-rug-for-kids-877e4e6020-877e4e6020: meta title 'You Matter Affirmation Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-247",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-classroom-rug-for-kids-877e4e6020-877e4e6020.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for colorful-classroom-rug-for-kids-877e4e6020-877e4e6020: meta 'Create a You Matter affirmation classroom rug with You Matter wording with colorful handprints for a classroom,...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-247",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-classroom-rug-for-kids-877e4e6020-877e4e6020.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for colorful-classroom-rug-for-kids-877e4e6020-877e4e6020: description begins 'Create a You Matter affirmation classroom rug with You Matter wording with colorful handprints for a classroom,...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-247",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-classroom-rug-for-kids-877e4e6020-877e4e6020.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for colorful-classroom-rug-for-kids-877e4e6020-877e4e6020: workbook row, evidence id B025-247, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-247",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-classroom-rug-for-kids-877e4e6020-877e4e6020.html"
+        ]
+      }
+    },
+    "colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82: proposed title 'Every Child Is An Artist Rug' and description 'Create a Every Child Is An Artist classroom rug with Every Child Is An Artist wording w...' keep the same product/theme shown in evidence B025-248.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-248",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82: customer copy is limited to visible/product facts such as 'black personalized classroom rug with Every Child Is An Artist quote, Mrs. Anderson name, co...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-248",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82: primary keyword 'Every Child Is An Artist classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-248",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82: proposed copy targets the same search intent as 'Every Child Is An Artist classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-248",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82: current support is 'Marketplace and classroom-rug sources show buyer demand around reading rugs, classroom libra...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-248",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82: title 'Every Child Is An Artist Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-248",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82: meta title 'Every Child Is An Artist Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-248",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82: meta 'Create a Every Child Is An Artist classroom rug with Every Child Is An Artist wording with colorful handprints f...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-248",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82: description begins 'Create a Every Child Is An Artist classroom rug with Every Child Is An Artist wording with colorful handprints f...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-248",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82: workbook row, evidence id B025-248, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-248",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-345ee4ca82-345ee4ca82.html"
+        ]
+      }
+    },
+    "colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902: proposed title 'Personalized Welcome Classroom Rug' and description 'Create a personalized welcome classroom rug with a welcoming classroom message with per...' keep the same product/theme shown in evidence B025-249.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-249",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902: customer copy is limited to visible/product facts such as 'cream colorful handprint classroom rug with Welcome to Mrs. Smith's Classroom text, bright h...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-249",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902: primary keyword 'personalized welcome classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-249",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902: proposed copy targets the same search intent as 'personalized welcome classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-249",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902: current support is 'Marketplace and classroom-rug sources show buyer demand around reading rugs, classroom libra...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-249",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902: title 'Personalized Welcome Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-249",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902: meta title 'Personalized Welcome Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-249",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902: meta 'Create a personalized welcome classroom rug with a welcoming classroom message with personalized teacher details...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-249",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902: description begins 'Create a personalized welcome classroom rug with a welcoming classroom message with personalized teacher details...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-249",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902: workbook row, evidence id B025-249, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-249",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-classroom-kids-rug-51cf8ab902-51cf8ab902.html"
+        ]
+      }
+    },
+    "colorful-handprints-kids-classroom-rug-51f01db413-51f01db413": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for colorful-handprints-kids-classroom-rug-51f01db413-51f01db413: proposed title 'Reading Everywhere Classroom Rug' and description 'Create a Reading Everywhere classroom rug with Reading Everywhere wording with an open...' keep the same product/theme shown in evidence B025-250.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-250",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-51f01db413-51f01db413.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for colorful-handprints-kids-classroom-rug-51f01db413-51f01db413: customer copy is limited to visible/product facts such as 'black classroom reading rug with open book, butterflies, flowers, Reading will take you ever...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-250",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-51f01db413-51f01db413.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for colorful-handprints-kids-classroom-rug-51f01db413-51f01db413: primary keyword 'Reading Everywhere classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-250",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-51f01db413-51f01db413.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for colorful-handprints-kids-classroom-rug-51f01db413-51f01db413: proposed copy targets the same search intent as 'Reading Everywhere classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-250",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-51f01db413-51f01db413.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for colorful-handprints-kids-classroom-rug-51f01db413-51f01db413: current support is 'Marketplace and classroom-rug sources show buyer demand around reading rugs, classroom libra...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-250",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-51f01db413-51f01db413.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for colorful-handprints-kids-classroom-rug-51f01db413-51f01db413: title 'Reading Everywhere Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-250",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-51f01db413-51f01db413.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for colorful-handprints-kids-classroom-rug-51f01db413-51f01db413: meta title 'Reading Everywhere Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-250",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-51f01db413-51f01db413.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for colorful-handprints-kids-classroom-rug-51f01db413-51f01db413: meta 'Create a Reading Everywhere classroom rug with Reading Everywhere wording with an open book and colorful handpri...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-250",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-51f01db413-51f01db413.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for colorful-handprints-kids-classroom-rug-51f01db413-51f01db413: description begins 'Create a Reading Everywhere classroom rug with Reading Everywhere wording with an open book and colorful handpri...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-250",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-51f01db413-51f01db413.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for colorful-handprints-kids-classroom-rug-51f01db413-51f01db413: workbook row, evidence id B025-250, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R101\\SEO_Product_Optimization_revision_R101.xlsx",
+          "product_evidence:B025-250",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B025_pages\\colorful-handprints-kids-classroom-rug-51f01db413-51f01db413.html"
+        ]
+      }
+    }
+  }
+}

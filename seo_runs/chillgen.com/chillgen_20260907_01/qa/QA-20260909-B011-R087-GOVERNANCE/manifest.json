@@ -1,0 +1,47 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "rubric_hash": "c2c1defdb72362291f7da656fa7fea9283a02782fc8ca66d2e4637f2511500dd",
+  "qa_run_id": "QA-20260909-B011-R087-GOVERNANCE",
+  "qa_batch_id": "REV_R087",
+  "batch_id": "B011",
+  "revision_id": "R087",
+  "parent_run_id": "",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+  "source_workbook_sha256": "5b63468589b240af6edbcd9bb208f798e764591f583eb4e35c89080dbb577a82",
+  "scope_hash": "9b41c737164a3ea9926d39125cd3a727958b79d87cba3ff46a55191257b0bb13",
+  "batch_product_keys": [
+    "personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat",
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-100",
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-101",
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-102",
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-103",
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-104",
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-105",
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-106",
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-107",
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-108"
+  ],
+  "status_counts": {
+    "QA_PASS": 10,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "issue_counts": {
+    "CRITICAL": 0,
+    "MAJOR": 0,
+    "MINOR": 0,
+    "LIMITATION": 20
+  },
+  "batch_status": "QA_PASS",
+  "content_qa_status": "QA_PASS",
+  "evidence_maturity": "SERP_ONLY",
+  "canonical": true,
+  "supersedes": [
+    "QA-20260907-AGENT-B011"
+  ],
+  "manual_image_evidence": "seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\reviewer\\B011_R087_independent_fullres.json",
+  "manual_criteria_evidence": "seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\reviewer\\R087_criteria_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED",
+  "created_at": "2026-09-09T13:57:07+07:00"
+}

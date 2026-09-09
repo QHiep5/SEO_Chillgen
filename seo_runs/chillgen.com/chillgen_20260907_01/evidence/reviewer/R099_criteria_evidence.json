@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "R099",
+  "batch_id": "B023",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+  "source_workbook_sha256": "828463531d4f185e65e0adc655b95fe4c916a2ebd53cc0cfb193f9c76b9365d6",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-R099-CRITERIA-01",
+    "reviewed_at": "2026-09-09T17:45:14+07:00"
+  },
+  "reviewed_at": "2026-09-09T17:45:14+07:00",
+  "products": {
+    "custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9: proposed title 'Adventure Town Road Map Play Rug' and description 'Create a adventure town road map play rug with an adventure town map with streets and c...' keep the same product/theme shown in evidence B023-221.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-221",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9: customer copy is limited to visible/product facts such as 'green road map play rug personalized with Liam's Town, pirate ship pond, winding roads, hous...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-221",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9: primary keyword 'adventure town road map play rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-221",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9: proposed copy targets the same search intent as 'adventure town road map play rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-221",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9: current support is 'Marketplace results show demand for personalized road map play rugs, city street car mats, c...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-221",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9: title 'Adventure Town Road Map Play Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-221",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9: meta title 'Adventure Town Road Map Play Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-221",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9: meta 'Create a adventure town road map play rug with an adventure town map with streets and colorful play details for...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-221",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9: description begins 'Create a adventure town road map play rug with an adventure town map with streets and colorful play details for...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-221",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9: workbook row, evidence id B023-221, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-221",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\custom-road-map-area-rug-play-mat-9aed6a6ee9-9aed6a6ee9.html"
+        ]
+      }
+    },
+    "custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7: proposed title 'Construction City Road Map Rug' and description 'Create a construction city road map rug with a construction city map with trucks, stree...' keep the same product/theme shown in evidence B023-222.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-222",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7: customer copy is limited to visible/product facts such as 'gray and cream road map rug personalized with Robert name and Construction Zone text, excava...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-222",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7: primary keyword 'construction city road map rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-222",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7: proposed copy targets the same search intent as 'construction city road map rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-222",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7: current support is 'Marketplace results show demand for personalized road map play rugs, city street car mats, c...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-222",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7: title 'Construction City Road Map Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-222",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7: meta title 'Construction City Road Map Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-222",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7: meta 'Create a construction city road map rug with a construction city map with trucks, streets, and play details for...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-222",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7: description begins 'Create a construction city road map rug with a construction city map with trucks, streets, and play details for...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-222",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7: workbook row, evidence id B023-222, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-222",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\custom-road-map-area-rug-personalized-city-street-car-rug-6313a0fee7.html"
+        ]
+      }
+    },
+    "personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962: proposed title 'Personalized Santa Stop Here Doormat' and description 'Create a personalized Santa Stop Here doormat with Santa Stop Here wording with persona...' keep the same product/theme shown in evidence B023-223.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-223",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962: customer copy is limited to visible/product facts such as 'green Christmas doormat with white polka dots, Santa boots and red pants, red name banner, S...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-223",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962: primary keyword 'personalized Santa Stop Here doormat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-223",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962: proposed copy targets the same search intent as 'personalized Santa Stop Here doormat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-223",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962: current support is 'Marketplace results show demand for personalized road map play rugs, city street car mats, c...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-223",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962: title 'Personalized Santa Stop Here Doormat' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-223",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962: meta title 'Personalized Santa Stop Here Doormat' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-223",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962: meta 'Create a personalized Santa Stop Here doormat with Santa Stop Here wording with personalized family details for...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-223",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962: description begins 'Create a personalized Santa Stop Here doormat with Santa Stop Here wording with personalized family details for...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-223",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962: workbook row, evidence id B023-223, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-223",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-custom-family-name-7358e56962-7358e56962.html"
+        ]
+      }
+    },
+    "personalized-christmas-doormat-80a01c19f6-80a01c19f6": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-christmas-doormat-80a01c19f6-80a01c19f6: proposed title 'Personalized Pet Stocking Christmas Doormat' and description 'Create a personalized pet stocking Christmas doormat with pet stocking artwork with per...' keep the same product/theme shown in evidence B023-224.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-224",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-80a01c19f6-80a01c19f6.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-christmas-doormat-80a01c19f6-80a01c19f6: customer copy is limited to visible/product facts such as 'black Merry Christmas doormat with string lights, four dogs sitting in red stockings, pet na...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-224",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-80a01c19f6-80a01c19f6.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-christmas-doormat-80a01c19f6-80a01c19f6: primary keyword 'personalized pet stocking Christmas doormat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-224",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-80a01c19f6-80a01c19f6.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-christmas-doormat-80a01c19f6-80a01c19f6: proposed copy targets the same search intent as 'personalized pet stocking Christmas doormat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-224",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-80a01c19f6-80a01c19f6.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-christmas-doormat-80a01c19f6-80a01c19f6: current support is 'Marketplace results show demand for personalized road map play rugs, city street car mats, c...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-224",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-80a01c19f6-80a01c19f6.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-christmas-doormat-80a01c19f6-80a01c19f6: title 'Personalized Pet Stocking Christmas Doormat' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-224",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-80a01c19f6-80a01c19f6.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-christmas-doormat-80a01c19f6-80a01c19f6: meta title 'Personalized Pet Stocking Christmas Doormat' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-224",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-80a01c19f6-80a01c19f6.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-christmas-doormat-80a01c19f6-80a01c19f6: meta 'Create a personalized pet stocking Christmas doormat with pet stocking artwork with personalized pet names and M...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-224",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-80a01c19f6-80a01c19f6.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-christmas-doormat-80a01c19f6-80a01c19f6: description begins 'Create a personalized pet stocking Christmas doormat with pet stocking artwork with personalized pet names and M...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-224",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-80a01c19f6-80a01c19f6.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-christmas-doormat-80a01c19f6-80a01c19f6: workbook row, evidence id B023-224, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-224",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-80a01c19f6-80a01c19f6.html"
+        ]
+      }
+    },
+    "personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891: proposed title 'Personalized Black Bear Family Doormat' and description 'Create a personalized black bear family Christmas doormat with black bear family artwor...' keep the same product/theme shown in evidence B023-225.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-225",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891: customer copy is limited to visible/product facts such as 'Christmas doormat with black bear family characters wearing red hats and scarves, individual...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-225",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891: primary keyword 'personalized black bear family Christmas doormat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-225",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891: proposed copy targets the same search intent as 'personalized black bear family Christmas doormat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-225",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891: current support is 'Marketplace results show demand for personalized road map play rugs, city street car mats, c...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-225",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891: title 'Personalized Black Bear Family Doormat' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-225",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891: meta title 'Personalized Black Bear Family Doormat' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-225",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891: meta 'Create a personalized black bear family Christmas doormat with black bear family artwork with personalized famil...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-225",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891: description begins 'Create a personalized black bear family Christmas doormat with black bear family artwork with personalized famil...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-225",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891: workbook row, evidence id B023-225, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-225",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-black-bear-family-e3c9d6a891-e3c9d6a891.html"
+        ]
+      }
+    },
+    "personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372: proposed title 'Personalized Red Monogram Christmas Doormat' and description 'Create a personalized red monogram Christmas doormat with a red monogram and family-nam...' keep the same product/theme shown in evidence B023-226.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-226",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372: customer copy is limited to visible/product facts such as 'bright red Christmas doormat with white ribbon stripe, circular monogram initial, Happy Holi...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-226",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372: primary keyword 'personalized red monogram Christmas doormat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-226",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372: proposed copy targets the same search intent as 'personalized red monogram Christmas doormat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-226",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372: current support is 'Marketplace results show demand for personalized road map play rugs, city street car mats, c...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-226",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372: title 'Personalized Red Monogram Christmas Doormat' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-226",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372: meta title 'Personalized Red Monogram Christmas Doormat' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-226",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372: meta 'Create a personalized red monogram Christmas doormat with a red monogram and family-name design for a front door...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-226",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372: description begins 'Create a personalized red monogram Christmas doormat with a red monogram and family-name design for a front door...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-226",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372: workbook row, evidence id B023-226, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-226",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-family-name-5fb80e7372-5fb80e7372.html"
+        ]
+      }
+    },
+    "personalized-christmas-doormat-with-custom-family-name-83c3ea451f": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-christmas-doormat-with-custom-family-name-83c3ea451f: proposed title 'Personalized Family Stocking Doormat' and description 'Create a personalized family stocking Christmas doormat with family stocking artwork wi...' keep the same product/theme shown in evidence B023-227.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-227",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-with-custom-family-name-83c3ea451f.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-christmas-doormat-with-custom-family-name-83c3ea451f: customer copy is limited to visible/product facts such as 'tan and green Merry Christmas doormat with multiple elf stocking characters hanging from a m...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-227",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-with-custom-family-name-83c3ea451f.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-christmas-doormat-with-custom-family-name-83c3ea451f: primary keyword 'personalized family stocking Christmas doormat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-227",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-with-custom-family-name-83c3ea451f.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-christmas-doormat-with-custom-family-name-83c3ea451f: proposed copy targets the same search intent as 'personalized family stocking Christmas doormat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-227",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-with-custom-family-name-83c3ea451f.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-christmas-doormat-with-custom-family-name-83c3ea451f: current support is 'Marketplace results show demand for personalized road map play rugs, city street car mats, c...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-227",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-with-custom-family-name-83c3ea451f.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-christmas-doormat-with-custom-family-name-83c3ea451f: title 'Personalized Family Stocking Doormat' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-227",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-with-custom-family-name-83c3ea451f.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-christmas-doormat-with-custom-family-name-83c3ea451f: meta title 'Personalized Family Stocking Doormat' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-227",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-with-custom-family-name-83c3ea451f.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-christmas-doormat-with-custom-family-name-83c3ea451f: meta 'Create a personalized family stocking Christmas doormat with family stocking artwork with custom names for a fro...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-227",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-with-custom-family-name-83c3ea451f.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-christmas-doormat-with-custom-family-name-83c3ea451f: description begins 'Create a personalized family stocking Christmas doormat with family stocking artwork with custom names for a fro...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-227",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-with-custom-family-name-83c3ea451f.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-christmas-doormat-with-custom-family-name-83c3ea451f: workbook row, evidence id B023-227, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-227",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-with-custom-family-name-83c3ea451f.html"
+        ]
+      }
+    },
+    "personalized-christmas-doormat-with-custom-family-name-d66e920e14": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-christmas-doormat-with-custom-family-name-d66e920e14: proposed title 'Custom 3D Snowman Christmas Doormat' and description 'Create a custom 3D snowman Christmas doormat with a 3D snowman design with personalized...' keep the same product/theme shown in evidence B023-228.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-228",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-with-custom-family-name-d66e920e14.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-christmas-doormat-with-custom-family-name-d66e920e14: customer copy is limited to visible/product facts such as 'red green and white quilted-look Christmas doormat with smiling snowman in Santa hat and sca...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-228",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-with-custom-family-name-d66e920e14.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-christmas-doormat-with-custom-family-name-d66e920e14: primary keyword 'custom 3D snowman Christmas doormat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-228",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-with-custom-family-name-d66e920e14.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-christmas-doormat-with-custom-family-name-d66e920e14: proposed copy targets the same search intent as 'custom 3D snowman Christmas doormat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-228",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-with-custom-family-name-d66e920e14.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-christmas-doormat-with-custom-family-name-d66e920e14: current support is 'Marketplace results show demand for personalized road map play rugs, city street car mats, c...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-228",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-with-custom-family-name-d66e920e14.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-christmas-doormat-with-custom-family-name-d66e920e14: title 'Custom 3D Snowman Christmas Doormat' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-228",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-with-custom-family-name-d66e920e14.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-christmas-doormat-with-custom-family-name-d66e920e14: meta title 'Custom 3D Snowman Christmas Doormat' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-228",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-with-custom-family-name-d66e920e14.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-christmas-doormat-with-custom-family-name-d66e920e14: meta 'Create a custom 3D snowman Christmas doormat with a 3D snowman design with personalized family details for a fro...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-228",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-with-custom-family-name-d66e920e14.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-christmas-doormat-with-custom-family-name-d66e920e14: description begins 'Create a custom 3D snowman Christmas doormat with a 3D snowman design with personalized family details for a fro...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-228",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-with-custom-family-name-d66e920e14.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-christmas-doormat-with-custom-family-name-d66e920e14: workbook row, evidence id B023-228, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-228",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-with-custom-family-name-d66e920e14.html"
+        ]
+      }
+    },
+    "personalized-christmas-welcome-doormat-28640346cc": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-christmas-welcome-doormat-28640346cc: proposed title 'Personalized Pet Family Christmas Doormat' and description 'Create a personalized pet family Christmas doormat with pet family artwork with customi...' keep the same product/theme shown in evidence B023-229.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-229",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-welcome-doormat-28640346cc.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-christmas-welcome-doormat-28640346cc: customer copy is limited to visible/product facts such as 'red plaid pet Christmas welcome mat with four dogs wearing Santa hats, custom family name, i...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-229",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-welcome-doormat-28640346cc.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-christmas-welcome-doormat-28640346cc: primary keyword 'personalized pet family Christmas doormat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-229",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-welcome-doormat-28640346cc.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-christmas-welcome-doormat-28640346cc: proposed copy targets the same search intent as 'personalized pet family Christmas doormat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-229",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-welcome-doormat-28640346cc.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-christmas-welcome-doormat-28640346cc: current support is 'Marketplace results show demand for personalized road map play rugs, city street car mats, c...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-229",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-welcome-doormat-28640346cc.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-christmas-welcome-doormat-28640346cc: title 'Personalized Pet Family Christmas Doormat' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-229",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-welcome-doormat-28640346cc.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-christmas-welcome-doormat-28640346cc: meta title 'Personalized Pet Family Christmas Doormat' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-229",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-welcome-doormat-28640346cc.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-christmas-welcome-doormat-28640346cc: meta 'Create a personalized pet family Christmas doormat with pet family artwork with customizable pet details for a f...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-229",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-welcome-doormat-28640346cc.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-christmas-welcome-doormat-28640346cc: description begins 'Create a personalized pet family Christmas doormat with pet family artwork with customizable pet details for a f...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-229",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-welcome-doormat-28640346cc.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-christmas-welcome-doormat-28640346cc: workbook row, evidence id B023-229, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-229",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-welcome-doormat-28640346cc.html"
+        ]
+      }
+    },
+    "personalized-christmas-doormat-1a037c0533": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-christmas-doormat-1a037c0533: proposed title 'Custom Santa Letter Christmas Doormat' and description 'Create a custom Santa letter Christmas doormat with a Santa letter-inspired design with...' keep the same product/theme shown in evidence B023-230.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-230",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-1a037c0533.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-christmas-doormat-1a037c0533: customer copy is limited to visible/product facts such as 'red postcard-style Christmas doormat with family name and address text, white cabin illustra...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-230",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-1a037c0533.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-christmas-doormat-1a037c0533: primary keyword 'custom Santa letter Christmas doormat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-230",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-1a037c0533.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-christmas-doormat-1a037c0533: proposed copy targets the same search intent as 'custom Santa letter Christmas doormat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-230",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-1a037c0533.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-christmas-doormat-1a037c0533: current support is 'Marketplace results show demand for personalized road map play rugs, city street car mats, c...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-230",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-1a037c0533.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-christmas-doormat-1a037c0533: title 'Custom Santa Letter Christmas Doormat' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-230",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-1a037c0533.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-christmas-doormat-1a037c0533: meta title 'Custom Santa Letter Christmas Doormat' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-230",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-1a037c0533.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-christmas-doormat-1a037c0533: meta 'Create a custom Santa letter Christmas doormat with a Santa letter-inspired design with personalized family deta...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-230",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-1a037c0533.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-christmas-doormat-1a037c0533: description begins 'Create a custom Santa letter Christmas doormat with a Santa letter-inspired design with personalized family deta...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-230",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-1a037c0533.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-christmas-doormat-1a037c0533: workbook row, evidence id B023-230, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R099\\SEO_Product_Optimization_revision_R099.xlsx",
+          "product_evidence:B023-230",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B023_pages\\personalized-christmas-doormat-1a037c0533.html"
+        ]
+      }
+    }
+  }
+}

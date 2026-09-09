@@ -1,0 +1,47 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "rubric_hash": "c2c1defdb72362291f7da656fa7fea9283a02782fc8ca66d2e4637f2511500dd",
+  "qa_run_id": "QA-20260909-B030-R106-GOVERNANCE",
+  "qa_batch_id": "REV_R106",
+  "batch_id": "B030",
+  "revision_id": "R106",
+  "parent_run_id": "",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R106\\SEO_Product_Optimization_revision_R106.xlsx",
+  "source_workbook_sha256": "d4c6087355c50a272d3fc291519f9bd1b75953b8a6f1899948ec218153bf025d",
+  "scope_hash": "64d53fb9f78b3e762770ca29253fd9812b7c79d808197f51dc3ed3e2e88ffcef",
+  "batch_product_keys": [
+    "custom-running-horse-welcome-mat-2e0754fd8e-2e0754fd8e",
+    "custom-running-horse-welcome-mat-f114a916e7-f114a916e7",
+    "custom-running-horse-welcome-mat-a4c32dbbfa-a4c32dbbfa",
+    "custom-running-horse-area-rug-2f0ce836fd-2f0ce836fd",
+    "western-running-horse-area-rug-02dee68d0b",
+    "custom-running-horse-area-rug-31f0e158c5",
+    "personalized-classroom-doormat-teacher-name-notebook-pattern-42da091fe1-42da091fe1",
+    "personalized-classroom-welcome-doormat-notebook-rug-8e1bdf83d4",
+    "personalized-classroom-welcome-doormat-teacher-students-7f5a91b5a9",
+    "personalized-classroom-welcome-mat-teacher-name-ff4e426bbe"
+  ],
+  "status_counts": {
+    "QA_PASS": 10,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "issue_counts": {
+    "CRITICAL": 0,
+    "MAJOR": 0,
+    "MINOR": 0,
+    "LIMITATION": 20
+  },
+  "batch_status": "QA_PASS",
+  "content_qa_status": "QA_PASS",
+  "evidence_maturity": "SERP_ONLY",
+  "canonical": true,
+  "supersedes": [
+    "QA-20260907-AGENT-B030"
+  ],
+  "manual_image_evidence": "seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\reviewer\\B030_R106_independent_fullres.json",
+  "manual_criteria_evidence": "seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\reviewer\\R106_criteria_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED",
+  "created_at": "2026-09-09T18:21:45+07:00"
+}

@@ -1,0 +1,47 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "rubric_hash": "c2c1defdb72362291f7da656fa7fea9283a02782fc8ca66d2e4637f2511500dd",
+  "qa_run_id": "QA-20260909-B020-R096-GOVERNANCE",
+  "qa_batch_id": "REV_R096",
+  "batch_id": "B020",
+  "revision_id": "R096",
+  "parent_run_id": "",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+  "source_workbook_sha256": "3f5d9e6f8806a49a9d491e00fccd5289e9433747481d249a24e2eb51db7f1635",
+  "scope_hash": "cd1b295fea63bc38de92f05d5daae953044fed28a8284508a0e025d5b1919761",
+  "batch_product_keys": [
+    "feelings-wheel-emotions-round-rug-f48bff995a",
+    "wheel-of-feelings-and-emotions-round-rug-a7bf6ef454",
+    "wheel-of-feelings-and-emotions-round-rug-2ec976598b",
+    "custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca",
+    "custom-mathematics-education-rug-classroom-playroom-eee0004975",
+    "custom-mathematics-education-rug-3015a3c96c",
+    "feelings-wheel-emotions-round-rug-fca05b7c0f",
+    "feelings-wheel-round-classroom-rug-4be50a20fb",
+    "feelings-wheel-classroom-welcome-mat-3d070ff949",
+    "custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9"
+  ],
+  "status_counts": {
+    "QA_PASS": 10,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "issue_counts": {
+    "CRITICAL": 0,
+    "MAJOR": 0,
+    "MINOR": 0,
+    "LIMITATION": 20
+  },
+  "batch_status": "QA_PASS",
+  "content_qa_status": "QA_PASS",
+  "evidence_maturity": "SERP_ONLY",
+  "canonical": true,
+  "supersedes": [
+    "QA-20260907-AGENT-B020"
+  ],
+  "manual_image_evidence": "seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\reviewer\\B020_R096_independent_fullres.json",
+  "manual_criteria_evidence": "seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\reviewer\\R096_criteria_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED",
+  "created_at": "2026-09-09T17:32:07+07:00"
+}

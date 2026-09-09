@@ -1,0 +1,37 @@
+# Evidence-driven Re-QA R093
+
+## Audit Identity
+
+- QA run id: `QA-20260909-B017-R093-GOVERNANCE`
+- Batch id: `B017`
+- Revision id: `R093`
+- Parent run id: `NONE`
+- Canonical: `True`
+- Supersedes: `QA-20260907-AGENT-B017`
+- Created at: `2026-09-09T17:17:23+07:00`
+
+## Source Lock
+
+- Source workbook: `resutls\chillgen.com\chillgen_20260907_01\revisions\R093\SEO_Product_Optimization_revision_R093.xlsx`
+- Source workbook SHA-256: `702446498038afb0f02dd8103d1b7bc35c196e45db9a5e3169223f1c07845456`
+- Rubric: `prompt_qa.md v1.0`
+- Rubric SHA-256: `c2c1defdb72362291f7da656fa7fea9283a02782fc8ca66d2e4637f2511500dd`
+- Scope hash: `87d61173e80a23ae552b8fcbe76d7de3c4086745aab81b97a63d3af64228699b`
+- Product keys: `["personalized-orthodox-christian-area-rug-custom-eastern-design-106", "personalized-orthodox-christian-area-rug-custom-eastern-design-107", "personalized-orthodox-christian-area-rug-custom-eastern-design-108", "personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01", "personalized-composition-notebook-classroom-shaped-rugs-design-2222", "personalized-composition-notebook-classroom-shaped-rugs-design-2223", "personalized-composition-notebook-classroom-shaped-rugs-design-2224", "personalized-composition-notebook-classroom-shaped-rugs-design-2225", "personalized-family-couple-doormat-custom-couple-husband-design-05", "personalized-family-couple-doormat-custom-couple-husband-design-03"]`
+
+## Evidence
+
+- Criteria evidence: `seo_runs\chillgen.com\chillgen_20260907_01\evidence\reviewer\R093_criteria_evidence.json`
+- Image evidence: `seo_runs\chillgen.com\chillgen_20260907_01\evidence\reviewer\B017_R093_independent_fullres.json`
+- Image rows checked: `83`
+
+## Result
+
+- Content QA status: `QA_PASS`
+- Evidence maturity: `SERP_ONLY`
+- Batch final score: `97.5`
+- Product status counts: `{'QA_PASS': 10, 'QA_REVISE': 0, 'QA_FAIL': 0, 'QA_INCOMPLETE': 0}`
+- Issue counts: `{'CRITICAL': 0, 'MAJOR': 0, 'MINOR': 0, 'LIMITATION': 20}`
+- Approval status: `NOT_APPROVED_NOT_DEPLOYED`
+
+A blank `final_score` means the rubric did not have complete evidence. `QA_PASS` is not `APPROVED` and does not authorize Shopify import or deployment.

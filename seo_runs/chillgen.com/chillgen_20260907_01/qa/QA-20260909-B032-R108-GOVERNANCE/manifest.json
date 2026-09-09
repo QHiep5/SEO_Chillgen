@@ -1,0 +1,47 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "rubric_hash": "c2c1defdb72362291f7da656fa7fea9283a02782fc8ca66d2e4637f2511500dd",
+  "qa_run_id": "QA-20260909-B032-R108-GOVERNANCE",
+  "qa_batch_id": "REV_R108",
+  "batch_id": "B032",
+  "revision_id": "R108",
+  "parent_run_id": "",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R108\\SEO_Product_Optimization_revision_R108.xlsx",
+  "source_workbook_sha256": "d76c525ccaaa057d636d573d3dedcd4fbd6954446ab333d04ef2b8dcc7e537ac",
+  "scope_hash": "3affdc3bc85479bc458609e5ddb814269938e826a01ed46e7135b0d92730fb1a",
+  "batch_product_keys": [
+    "personalized-classroom-doormat-with-custom-teacher-name-956ffe5ee5",
+    "personalized-classroom-welcome-doormat-b404579ec3-b404579ec3",
+    "personalized-classroom-welcome-doormat-77047e9c34-77047e9c34",
+    "personalized-classroom-welcome-doormat-2f0308422b-2f0308422b",
+    "personalized-classroom-welcome-doormat-b5fe59f765-b5fe59f765",
+    "personalized-soccer-2026-area-rug-73a22990b0-73a22990b0",
+    "personalized-soccer-trophy-world-flags-doormat-00f2f9bbfa",
+    "personalized-soccer-trophy-area-rug-05582886df",
+    "personalized-soccer-2026-area-rug-c2d07261b5",
+    "personalized-soccer-2026-area-rug-a60ad6dcf9-a60ad6dcf9"
+  ],
+  "status_counts": {
+    "QA_PASS": 10,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "issue_counts": {
+    "CRITICAL": 0,
+    "MAJOR": 0,
+    "MINOR": 0,
+    "LIMITATION": 20
+  },
+  "batch_status": "QA_PASS",
+  "content_qa_status": "QA_PASS",
+  "evidence_maturity": "SERP_ONLY",
+  "canonical": true,
+  "supersedes": [
+    "QA-20260907-AGENT-B032"
+  ],
+  "manual_image_evidence": "seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\reviewer\\B032_R108_independent_fullres.json",
+  "manual_criteria_evidence": "seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\reviewer\\R108_criteria_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED",
+  "created_at": "2026-09-09T18:32:56+07:00"
+}

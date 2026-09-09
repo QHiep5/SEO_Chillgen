@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "R098",
+  "batch_id": "B022",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+  "source_workbook_sha256": "cc6aa9559fd666e0cc3199f32980c589407ab8c63b27890d294f9295af19eb8a",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-R098-CRITERIA-01",
+    "reviewed_at": "2026-09-09T17:40:29+07:00"
+  },
+  "reviewed_at": "2026-09-09T17:40:29+07:00",
+  "products": {
+    "personalized-album-cover-rug-abb1eeca32": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-album-cover-rug-abb1eeca32: proposed title 'Pink Personalized Album Cover Rug' and description 'Create a pink personalized album cover rug with a pink album-cover design with personal...' keep the same product/theme shown in evidence B022-211.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-211",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\personalized-album-cover-rug-abb1eeca32.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-album-cover-rug-abb1eeca32: customer copy is limited to visible/product facts such as 'pink rectangular album-player rug with custom image placeholder, song title and artist text,...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-211",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\personalized-album-cover-rug-abb1eeca32.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-album-cover-rug-abb1eeca32: primary keyword 'pink personalized album cover rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-211",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\personalized-album-cover-rug-abb1eeca32.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-album-cover-rug-abb1eeca32: proposed copy targets the same search intent as 'pink personalized album cover rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-211",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\personalized-album-cover-rug-abb1eeca32.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-album-cover-rug-abb1eeca32: current support is 'Marketplace results show buyer demand for personalized road map play rugs, custom city stree...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-211",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\personalized-album-cover-rug-abb1eeca32.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-album-cover-rug-abb1eeca32: title 'Pink Personalized Album Cover Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-211",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\personalized-album-cover-rug-abb1eeca32.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-album-cover-rug-abb1eeca32: meta title 'Pink Personalized Album Cover Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-211",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\personalized-album-cover-rug-abb1eeca32.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-album-cover-rug-abb1eeca32: meta 'Create a pink personalized album cover rug with a pink album-cover design with personalized song or artist detai...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-211",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\personalized-album-cover-rug-abb1eeca32.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-album-cover-rug-abb1eeca32: description begins 'Create a pink personalized album cover rug with a pink album-cover design with personalized song or artist detai...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-211",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\personalized-album-cover-rug-abb1eeca32.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-album-cover-rug-abb1eeca32: workbook row, evidence id B022-211, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-211",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\personalized-album-cover-rug-abb1eeca32.html"
+        ]
+      }
+    },
+    "custom-road-map-door-mat-town-design-e3598e955a-e3598e955a": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-road-map-door-mat-town-design-e3598e955a-e3598e955a: proposed title 'Personalized Town Road Map Play Rug' and description 'Create a personalized town road map play rug with a personalized town map with streets,...' keep the same product/theme shown in evidence B022-212.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-212",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-door-mat-town-design-e3598e955a-e3598e955a.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-road-map-door-mat-town-design-e3598e955a-e3598e955a: customer copy is limited to visible/product facts such as 'large white town road map rug personalized with Robert name, illustrated roads, school, libr...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-212",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-door-mat-town-design-e3598e955a-e3598e955a.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-road-map-door-mat-town-design-e3598e955a-e3598e955a: primary keyword 'personalized town road map play rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-212",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-door-mat-town-design-e3598e955a-e3598e955a.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-road-map-door-mat-town-design-e3598e955a-e3598e955a: proposed copy targets the same search intent as 'personalized town road map play rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-212",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-door-mat-town-design-e3598e955a-e3598e955a.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-road-map-door-mat-town-design-e3598e955a-e3598e955a: current support is 'Marketplace results show buyer demand for personalized road map play rugs, custom city stree...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-212",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-door-mat-town-design-e3598e955a-e3598e955a.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-road-map-door-mat-town-design-e3598e955a-e3598e955a: title 'Personalized Town Road Map Play Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-212",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-door-mat-town-design-e3598e955a-e3598e955a.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-road-map-door-mat-town-design-e3598e955a-e3598e955a: meta title 'Personalized Town Road Map Play Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-212",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-door-mat-town-design-e3598e955a-e3598e955a.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-road-map-door-mat-town-design-e3598e955a-e3598e955a: meta 'Create a personalized town road map play rug with a personalized town map with streets, cars, and playroom detai...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-212",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-door-mat-town-design-e3598e955a-e3598e955a.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-road-map-door-mat-town-design-e3598e955a-e3598e955a: description begins 'Create a personalized town road map play rug with a personalized town map with streets, cars, and playroom detai...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-212",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-door-mat-town-design-e3598e955a-e3598e955a.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-road-map-door-mat-town-design-e3598e955a-e3598e955a: workbook row, evidence id B022-212, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-212",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-door-mat-town-design-e3598e955a-e3598e955a.html"
+        ]
+      }
+    },
+    "custom-road-map-area-rug-8262be4ef1-8262be4ef1": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-road-map-area-rug-8262be4ef1-8262be4ef1: proposed title 'Alphabet Road Map Kids Rug' and description 'Create a alphabet road map kids rug with an alphabet road map with letters, streets, an...' keep the same product/theme shown in evidence B022-213.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-213",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-8262be4ef1-8262be4ef1.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-road-map-area-rug-8262be4ef1-8262be4ef1: customer copy is limited to visible/product facts such as 'bright blue rectangular road map rug personalized with Liam's Town, alphabet border, numbers...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-213",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-8262be4ef1-8262be4ef1.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-road-map-area-rug-8262be4ef1-8262be4ef1: primary keyword 'alphabet road map kids rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-213",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-8262be4ef1-8262be4ef1.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-road-map-area-rug-8262be4ef1-8262be4ef1: proposed copy targets the same search intent as 'alphabet road map kids rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-213",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-8262be4ef1-8262be4ef1.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-road-map-area-rug-8262be4ef1-8262be4ef1: current support is 'Marketplace results show buyer demand for personalized road map play rugs, custom city stree...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-213",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-8262be4ef1-8262be4ef1.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-road-map-area-rug-8262be4ef1-8262be4ef1: title 'Alphabet Road Map Kids Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-213",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-8262be4ef1-8262be4ef1.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-road-map-area-rug-8262be4ef1-8262be4ef1: meta title 'Alphabet Road Map Kids Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-213",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-8262be4ef1-8262be4ef1.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-road-map-area-rug-8262be4ef1-8262be4ef1: meta 'Create a alphabet road map kids rug with an alphabet road map with letters, streets, and colorful play elements...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-213",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-8262be4ef1-8262be4ef1.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-road-map-area-rug-8262be4ef1-8262be4ef1: description begins 'Create a alphabet road map kids rug with an alphabet road map with letters, streets, and colorful play elements...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-213",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-8262be4ef1-8262be4ef1.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-road-map-area-rug-8262be4ef1-8262be4ef1: workbook row, evidence id B022-213, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-213",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-8262be4ef1-8262be4ef1.html"
+        ]
+      }
+    },
+    "custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8: proposed title 'Blue Town Road Map Play Rug' and description 'Create a blue town road map play rug with a blue town map with city streets and vehicle...' keep the same product/theme shown in evidence B022-214.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-214",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8: customer copy is limited to visible/product facts such as 'navy blue town road map rug personalized with Lucas name, winding roads, houses, train, cars...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-214",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8: primary keyword 'blue town road map play rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-214",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8: proposed copy targets the same search intent as 'blue town road map play rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-214",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8: current support is 'Marketplace results show buyer demand for personalized road map play rugs, custom city stree...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-214",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8: title 'Blue Town Road Map Play Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-214",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8: meta title 'Blue Town Road Map Play Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-214",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8: meta 'Create a blue town road map play rug with a blue town map with city streets and vehicle-themed play details for...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-214",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8: description begins 'Create a blue town road map play rug with a blue town map with city streets and vehicle-themed play details for...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-214",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8: workbook row, evidence id B022-214, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-214",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-town-play-mat-587b1148b8-587b1148b8.html"
+        ]
+      }
+    },
+    "custom-road-map-area-rug-e4dbf01f05": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-road-map-area-rug-e4dbf01f05: proposed title 'Pastel City Road Map Rug' and description 'Create a pastel city road map rug with a pastel city road map with streets and play det...' keep the same product/theme shown in evidence B022-215.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-215",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-e4dbf01f05.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-road-map-area-rug-e4dbf01f05: customer copy is limited to visible/product facts such as 'soft cream and green city road map rug personalized with Emily's City, pastel roads, houses,...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-215",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-e4dbf01f05.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-road-map-area-rug-e4dbf01f05: primary keyword 'pastel city road map rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-215",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-e4dbf01f05.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-road-map-area-rug-e4dbf01f05: proposed copy targets the same search intent as 'pastel city road map rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-215",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-e4dbf01f05.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-road-map-area-rug-e4dbf01f05: current support is 'Marketplace results show buyer demand for personalized road map play rugs, custom city stree...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-215",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-e4dbf01f05.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-road-map-area-rug-e4dbf01f05: title 'Pastel City Road Map Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-215",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-e4dbf01f05.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-road-map-area-rug-e4dbf01f05: meta title 'Pastel City Road Map Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-215",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-e4dbf01f05.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-road-map-area-rug-e4dbf01f05: meta 'Create a pastel city road map rug with a pastel city road map with streets and play details for a classroom, bed...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-215",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-e4dbf01f05.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-road-map-area-rug-e4dbf01f05: description begins 'Create a pastel city road map rug with a pastel city road map with streets and play details for a classroom, bed...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-215",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-e4dbf01f05.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-road-map-area-rug-e4dbf01f05: workbook row, evidence id B022-215, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-215",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-e4dbf01f05.html"
+        ]
+      }
+    },
+    "custom-road-map-welcome-mat-708eca28bb": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-road-map-welcome-mat-708eca28bb: proposed title 'Personalized City Street Map Rug' and description 'Create a personalized city street map rug with a personalized city street map with name...' keep the same product/theme shown in evidence B022-216.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-216",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-welcome-mat-708eca28bb.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-road-map-welcome-mat-708eca28bb: customer copy is limited to visible/product facts such as 'green city street rug personalized with Daniel's City, roadways, roundabout, gas station, ho...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-216",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-welcome-mat-708eca28bb.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-road-map-welcome-mat-708eca28bb: primary keyword 'personalized city street map rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-216",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-welcome-mat-708eca28bb.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-road-map-welcome-mat-708eca28bb: proposed copy targets the same search intent as 'personalized city street map rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-216",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-welcome-mat-708eca28bb.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-road-map-welcome-mat-708eca28bb: current support is 'Marketplace results show buyer demand for personalized road map play rugs, custom city stree...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-216",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-welcome-mat-708eca28bb.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-road-map-welcome-mat-708eca28bb: title 'Personalized City Street Map Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-216",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-welcome-mat-708eca28bb.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-road-map-welcome-mat-708eca28bb: meta title 'Personalized City Street Map Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-216",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-welcome-mat-708eca28bb.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-road-map-welcome-mat-708eca28bb: meta 'Create a personalized city street map rug with a personalized city street map with named-road details for a clas...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-216",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-welcome-mat-708eca28bb.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-road-map-welcome-mat-708eca28bb: description begins 'Create a personalized city street map rug with a personalized city street map with named-road details for a clas...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-216",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-welcome-mat-708eca28bb.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-road-map-welcome-mat-708eca28bb: workbook row, evidence id B022-216, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-216",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-welcome-mat-708eca28bb.html"
+        ]
+      }
+    },
+    "custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0: proposed title 'Work Zone Construction Road Rug' and description 'Create a work zone construction road rug with a work-zone road map with construction ve...' keep the same product/theme shown in evidence B022-217.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-217",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0: customer copy is limited to visible/product facts such as 'white and gray road map rug personalized with Robert's Work Zone, construction trucks, excav...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-217",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0: primary keyword 'work zone construction road rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-217",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0: proposed copy targets the same search intent as 'work zone construction road rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-217",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0: current support is 'Marketplace results show buyer demand for personalized road map play rugs, custom city stree...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-217",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0: title 'Work Zone Construction Road Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-217",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0: meta title 'Work Zone Construction Road Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-217",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0: meta 'Create a work zone construction road rug with a work-zone road map with construction vehicles and street details...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-217",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0: description begins 'Create a work zone construction road rug with a work-zone road map with construction vehicles and street details...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-217",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0: workbook row, evidence id B022-217, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-217",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-doormat-city-street-play-mat-0e3ba7dda0-0e3ba7dda0.html"
+        ]
+      }
+    },
+    "custom-road-map-area-rug-town-play-mat-a27d8ff428": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-road-map-area-rug-town-play-mat-a27d8ff428: proposed title 'Gray Construction Road Map Rug' and description 'Create a gray construction road map rug with a gray construction road map with truck-th...' keep the same product/theme shown in evidence B022-218.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-218",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-town-play-mat-a27d8ff428.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-road-map-area-rug-town-play-mat-a27d8ff428: customer copy is limited to visible/product facts such as 'gray personalized construction road map rug with Lucas name, yellow trucks, excavators, cran...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-218",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-town-play-mat-a27d8ff428.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-road-map-area-rug-town-play-mat-a27d8ff428: primary keyword 'gray construction road map rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-218",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-town-play-mat-a27d8ff428.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-road-map-area-rug-town-play-mat-a27d8ff428: proposed copy targets the same search intent as 'gray construction road map rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-218",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-town-play-mat-a27d8ff428.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-road-map-area-rug-town-play-mat-a27d8ff428: current support is 'Marketplace results show buyer demand for personalized road map play rugs, custom city stree...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-218",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-town-play-mat-a27d8ff428.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-road-map-area-rug-town-play-mat-a27d8ff428: title 'Gray Construction Road Map Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-218",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-town-play-mat-a27d8ff428.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-road-map-area-rug-town-play-mat-a27d8ff428: meta title 'Gray Construction Road Map Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-218",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-town-play-mat-a27d8ff428.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-road-map-area-rug-town-play-mat-a27d8ff428: meta 'Create a gray construction road map rug with a gray construction road map with truck-themed details for a bedroo...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-218",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-town-play-mat-a27d8ff428.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-road-map-area-rug-town-play-mat-a27d8ff428: description begins 'Create a gray construction road map rug with a gray construction road map with truck-themed details for a bedroo...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-218",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-town-play-mat-a27d8ff428.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-road-map-area-rug-town-play-mat-a27d8ff428: workbook row, evidence id B022-218, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-218",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-town-play-mat-a27d8ff428.html"
+        ]
+      }
+    },
+    "custom-road-map-area-rug-d39d38a4a8": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-road-map-area-rug-d39d38a4a8: proposed title 'Soft City Road Play Rug' and description 'Create a soft city road play rug with a soft-toned city road map with streets and play...' keep the same product/theme shown in evidence B022-219.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-219",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-d39d38a4a8.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-road-map-area-rug-d39d38a4a8: customer copy is limited to visible/product facts such as 'soft pastel city road rug personalized with Liam's Town, gray roads, parking lots, houses, t...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-219",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-d39d38a4a8.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-road-map-area-rug-d39d38a4a8: primary keyword 'soft city road play rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-219",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-d39d38a4a8.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-road-map-area-rug-d39d38a4a8: proposed copy targets the same search intent as 'soft city road play rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-219",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-d39d38a4a8.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-road-map-area-rug-d39d38a4a8: current support is 'Marketplace results show buyer demand for personalized road map play rugs, custom city stree...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-219",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-d39d38a4a8.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-road-map-area-rug-d39d38a4a8: title 'Soft City Road Play Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-219",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-d39d38a4a8.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-road-map-area-rug-d39d38a4a8: meta title 'Soft City Road Play Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-219",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-d39d38a4a8.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-road-map-area-rug-d39d38a4a8: meta 'Create a soft city road play rug with a soft-toned city road map with streets and play details for a classroom,...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-219",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-d39d38a4a8.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-road-map-area-rug-d39d38a4a8: description begins 'Create a soft city road play rug with a soft-toned city road map with streets and play details for a classroom,...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-219",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-d39d38a4a8.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-road-map-area-rug-d39d38a4a8: workbook row, evidence id B022-219, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-219",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-d39d38a4a8.html"
+        ]
+      }
+    },
+    "custom-road-map-area-rug-60aa327740": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-road-map-area-rug-60aa327740: proposed title 'ABC Town Road Map Rug' and description 'Create a ABC town road map rug with an ABC town road map with letters, streets, and col...' keep the same product/theme shown in evidence B022-220.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-220",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-60aa327740.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-road-map-area-rug-60aa327740: customer copy is limited to visible/product facts such as 'bright blue personalized road map rug with Liam's Town, alphabet border, traffic signs, road...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-220",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-60aa327740.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-road-map-area-rug-60aa327740: primary keyword 'ABC town road map rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-220",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-60aa327740.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-road-map-area-rug-60aa327740: proposed copy targets the same search intent as 'ABC town road map rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-220",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-60aa327740.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-road-map-area-rug-60aa327740: current support is 'Marketplace results show buyer demand for personalized road map play rugs, custom city stree...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-220",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-60aa327740.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-road-map-area-rug-60aa327740: title 'ABC Town Road Map Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-220",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-60aa327740.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-road-map-area-rug-60aa327740: meta title 'ABC Town Road Map Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-220",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-60aa327740.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-road-map-area-rug-60aa327740: meta 'Create a ABC town road map rug with an ABC town road map with letters, streets, and colorful play details for a...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-220",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-60aa327740.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-road-map-area-rug-60aa327740: description begins 'Create a ABC town road map rug with an ABC town road map with letters, streets, and colorful play details for a...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-220",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-60aa327740.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-road-map-area-rug-60aa327740: workbook row, evidence id B022-220, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R098\\SEO_Product_Optimization_revision_R098.xlsx",
+          "product_evidence:B022-220",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B022_pages\\custom-road-map-area-rug-60aa327740.html"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "R104",
+  "batch_id": "B028",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+  "source_workbook_sha256": "08b9cdaaa482d94d9e6ae37c8e5f6404bffd65146296b70b42bfd850af021929",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-R104-CRITERIA-01",
+    "reviewed_at": "2026-09-09T18:11:30+07:00"
+  },
+  "reviewed_at": "2026-09-09T18:11:30+07:00",
+  "products": {
+    "custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a: proposed title 'Wave Octopus Shaped Rug' and description 'Create a wave octopus shaped rug with a wave-filled octopus design with colorful tentac...' keep the same product/theme shown in evidence B028-271.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-271",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a: customer copy is limited to visible/product facts such as 'custom shaped octopus rug with dark blue tentacles, crashing blue waves, orange coral accent...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-271",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a: primary keyword 'wave octopus shaped rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-271",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a: proposed copy targets the same search intent as 'wave octopus shaped rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-271",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a: current support is 'Search and marketplace evidence supports octopus shaped rugs, sea monster/tentacle rugs, tre...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-271",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a: title 'Wave Octopus Shaped Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-271",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a: meta title 'Wave Octopus Shaped Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-271",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a: meta 'Create a wave octopus shaped rug with a wave-filled octopus design with colorful tentacles for a playroom, bedro...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-271",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a: description begins 'Create a wave octopus shaped rug with a wave-filled octopus design with colorful tentacles for a playroom, bedro...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-271",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a: workbook row, evidence id B028-271, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-271",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-sea-monster-tentacle-0753b2605a.html"
+        ]
+      }
+    },
+    "custom-octopus-sea-monster-welcome-mat-c69579f5ed": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-octopus-sea-monster-welcome-mat-c69579f5ed: proposed title 'Porthole Octopus Shaped Rug' and description 'Create a porthole octopus shaped rug with an octopus and porthole design with ocean art...' keep the same product/theme shown in evidence B028-272.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-272",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-sea-monster-welcome-mat-c69579f5ed.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-octopus-sea-monster-welcome-mat-c69579f5ed: customer copy is limited to visible/product facts such as 'custom shaped rug with red octopus reaching through brass porthole, blue water background, c...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-272",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-sea-monster-welcome-mat-c69579f5ed.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-octopus-sea-monster-welcome-mat-c69579f5ed: primary keyword 'porthole octopus shaped rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-272",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-sea-monster-welcome-mat-c69579f5ed.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-octopus-sea-monster-welcome-mat-c69579f5ed: proposed copy targets the same search intent as 'porthole octopus shaped rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-272",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-sea-monster-welcome-mat-c69579f5ed.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-octopus-sea-monster-welcome-mat-c69579f5ed: current support is 'Search and marketplace evidence supports octopus shaped rugs, sea monster/tentacle rugs, tre...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-272",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-sea-monster-welcome-mat-c69579f5ed.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-octopus-sea-monster-welcome-mat-c69579f5ed: title 'Porthole Octopus Shaped Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-272",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-sea-monster-welcome-mat-c69579f5ed.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-octopus-sea-monster-welcome-mat-c69579f5ed: meta title 'Porthole Octopus Shaped Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-272",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-sea-monster-welcome-mat-c69579f5ed.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-octopus-sea-monster-welcome-mat-c69579f5ed: meta 'Create a porthole octopus shaped rug with an octopus and porthole design with ocean artwork for a playroom, bedr...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-272",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-sea-monster-welcome-mat-c69579f5ed.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-octopus-sea-monster-welcome-mat-c69579f5ed: description begins 'Create a porthole octopus shaped rug with an octopus and porthole design with ocean artwork for a playroom, bedr...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-272",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-sea-monster-welcome-mat-c69579f5ed.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-octopus-sea-monster-welcome-mat-c69579f5ed: workbook row, evidence id B028-272, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-272",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-sea-monster-welcome-mat-c69579f5ed.html"
+        ]
+      }
+    },
+    "custom-octopus-shaped-area-rug-a96e544960-a96e544960": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-octopus-shaped-area-rug-a96e544960-a96e544960: proposed title 'Blue Tentacle Octopus Rug' and description 'Create a blue tentacle octopus rug with a blue octopus with detailed tentacles for a pl...' keep the same product/theme shown in evidence B028-273.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-273",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-a96e544960-a96e544960.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-octopus-shaped-area-rug-a96e544960-a96e544960: customer copy is limited to visible/product facts such as 'dark blue custom shaped octopus/tentacle rug with swirling tentacles, gold suction-cup accen...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-273",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-a96e544960-a96e544960.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-octopus-shaped-area-rug-a96e544960-a96e544960: primary keyword 'blue tentacle octopus rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-273",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-a96e544960-a96e544960.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-octopus-shaped-area-rug-a96e544960-a96e544960: proposed copy targets the same search intent as 'blue tentacle octopus rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-273",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-a96e544960-a96e544960.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-octopus-shaped-area-rug-a96e544960-a96e544960: current support is 'Search and marketplace evidence supports octopus shaped rugs, sea monster/tentacle rugs, tre...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-273",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-a96e544960-a96e544960.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-octopus-shaped-area-rug-a96e544960-a96e544960: title 'Blue Tentacle Octopus Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-273",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-a96e544960-a96e544960.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-octopus-shaped-area-rug-a96e544960-a96e544960: meta title 'Blue Tentacle Octopus Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-273",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-a96e544960-a96e544960.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-octopus-shaped-area-rug-a96e544960-a96e544960: meta 'Create a blue tentacle octopus rug with a blue octopus with detailed tentacles for a playroom, bedroom, classroo...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-273",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-a96e544960-a96e544960.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-octopus-shaped-area-rug-a96e544960-a96e544960: description begins 'Create a blue tentacle octopus rug with a blue octopus with detailed tentacles for a playroom, bedroom, classroo...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-273",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-a96e544960-a96e544960.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-octopus-shaped-area-rug-a96e544960-a96e544960: workbook row, evidence id B028-273, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-273",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-a96e544960-a96e544960.html"
+        ]
+      }
+    },
+    "custom-octopus-shaped-area-rug-sea-monster-1975158434": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-octopus-shaped-area-rug-sea-monster-1975158434: proposed title 'Cave Octopus Shaped Rug' and description 'Create a cave octopus shaped rug with an octopus emerging from a rocky ocean scene for...' keep the same product/theme shown in evidence B028-274.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-274",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-sea-monster-1975158434.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-octopus-shaped-area-rug-sea-monster-1975158434: customer copy is limited to visible/product facts such as 'custom shaped rug with purple octopus in underwater cave, spotlight from surface, rocky bord...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-274",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-sea-monster-1975158434.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-octopus-shaped-area-rug-sea-monster-1975158434: primary keyword 'cave octopus shaped rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-274",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-sea-monster-1975158434.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-octopus-shaped-area-rug-sea-monster-1975158434: proposed copy targets the same search intent as 'cave octopus shaped rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-274",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-sea-monster-1975158434.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-octopus-shaped-area-rug-sea-monster-1975158434: current support is 'Search and marketplace evidence supports octopus shaped rugs, sea monster/tentacle rugs, tre...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-274",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-sea-monster-1975158434.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-octopus-shaped-area-rug-sea-monster-1975158434: title 'Cave Octopus Shaped Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-274",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-sea-monster-1975158434.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-octopus-shaped-area-rug-sea-monster-1975158434: meta title 'Cave Octopus Shaped Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-274",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-sea-monster-1975158434.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-octopus-shaped-area-rug-sea-monster-1975158434: meta 'Create a cave octopus shaped rug with an octopus emerging from a rocky ocean scene for a playroom, bedroom, clas...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-274",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-sea-monster-1975158434.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-octopus-shaped-area-rug-sea-monster-1975158434: description begins 'Create a cave octopus shaped rug with an octopus emerging from a rocky ocean scene for a playroom, bedroom, clas...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-274",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-sea-monster-1975158434.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-octopus-shaped-area-rug-sea-monster-1975158434: workbook row, evidence id B028-274, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-274",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-sea-monster-1975158434.html"
+        ]
+      }
+    },
+    "custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12: proposed title 'Teal Octopus Shaped Rug' and description 'Create a teal octopus shaped rug with a teal octopus design with ocean-inspired details...' keep the same product/theme shown in evidence B028-275.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-275",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12: customer copy is limited to visible/product facts such as 'custom shaped teal and navy octopus rug with rounded tentacles, wave-like border, playful se...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-275",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12: primary keyword 'teal octopus shaped rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-275",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12: proposed copy targets the same search intent as 'teal octopus shaped rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-275",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12: current support is 'Search and marketplace evidence supports octopus shaped rugs, sea monster/tentacle rugs, tre...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-275",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12: title 'Teal Octopus Shaped Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-275",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12: meta title 'Teal Octopus Shaped Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-275",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12: meta 'Create a teal octopus shaped rug with a teal octopus design with ocean-inspired details for a playroom, bedroom,...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-275",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12: description begins 'Create a teal octopus shaped rug with a teal octopus design with ocean-inspired details for a playroom, bedroom,...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-275",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12: workbook row, evidence id B028-275, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-275",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-octopus-shaped-area-rug-c7d44eba12-c7d44eba12.html"
+        ]
+      }
+    },
+    "tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9: proposed title 'Tree Of Life Area Rug' and description 'Create a tree of life area rug with a tree of life design with botanical details for a...' keep the same product/theme shown in evidence B028-276.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-276",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9: customer copy is limited to visible/product facts such as 'rectangular tree of life rug with glowing gold tree and roots, teal black starry botanical b...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-276",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9: primary keyword 'tree of life area rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-276",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9: proposed copy targets the same search intent as 'tree of life area rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-276",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9: current support is 'Search and marketplace evidence supports octopus shaped rugs, sea monster/tentacle rugs, tre...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-276",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9: title 'Tree Of Life Area Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-276",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9: meta title 'Tree Of Life Area Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-276",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9: meta 'Create a tree of life area rug with a tree of life design with botanical details for a living room, bedroom, ent...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-276",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9: description begins 'Create a tree of life area rug with a tree of life design with botanical details for a living room, bedroom, ent...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-276",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9: workbook row, evidence id B028-276, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-276",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\tree-of-life-welcome-mat-living-room-c11fdc3ba9-c11fdc3ba9.html"
+        ]
+      }
+    },
+    "western-running-horse-area-rug-122e8b85fb-122e8b85fb": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for western-running-horse-area-rug-122e8b85fb-122e8b85fb: proposed title 'Black Running Horse Rug' and description 'Create a black running horse rug with a running horse design in a dark western style fo...' keep the same product/theme shown in evidence B028-277.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-277",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\western-running-horse-area-rug-122e8b85fb-122e8b85fb.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for western-running-horse-area-rug-122e8b85fb-122e8b85fb: customer copy is limited to visible/product facts such as 'rectangular area rug with black galloping horse, golden circular sunset glow, dust and spark...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-277",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\western-running-horse-area-rug-122e8b85fb-122e8b85fb.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for western-running-horse-area-rug-122e8b85fb-122e8b85fb: primary keyword 'black running horse rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-277",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\western-running-horse-area-rug-122e8b85fb-122e8b85fb.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for western-running-horse-area-rug-122e8b85fb-122e8b85fb: proposed copy targets the same search intent as 'black running horse rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-277",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\western-running-horse-area-rug-122e8b85fb-122e8b85fb.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for western-running-horse-area-rug-122e8b85fb-122e8b85fb: current support is 'Search and marketplace evidence supports octopus shaped rugs, sea monster/tentacle rugs, tre...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-277",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\western-running-horse-area-rug-122e8b85fb-122e8b85fb.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for western-running-horse-area-rug-122e8b85fb-122e8b85fb: title 'Black Running Horse Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-277",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\western-running-horse-area-rug-122e8b85fb-122e8b85fb.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for western-running-horse-area-rug-122e8b85fb-122e8b85fb: meta title 'Black Running Horse Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-277",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\western-running-horse-area-rug-122e8b85fb-122e8b85fb.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for western-running-horse-area-rug-122e8b85fb-122e8b85fb: meta 'Create a black running horse rug with a running horse design in a dark western style for a bedroom, living room,...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-277",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\western-running-horse-area-rug-122e8b85fb-122e8b85fb.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for western-running-horse-area-rug-122e8b85fb-122e8b85fb: description begins 'Create a black running horse rug with a running horse design in a dark western style for a bedroom, living room,...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-277",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\western-running-horse-area-rug-122e8b85fb-122e8b85fb.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for western-running-horse-area-rug-122e8b85fb-122e8b85fb: workbook row, evidence id B028-277, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-277",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\western-running-horse-area-rug-122e8b85fb-122e8b85fb.html"
+        ]
+      }
+    },
+    "custom-running-horse-area-rug-5eadea7a69": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-running-horse-area-rug-5eadea7a69: proposed title 'Purple Horse Area Rug' and description 'Create a purple horse area rug with a purple running horse design for a bedroom, living...' keep the same product/theme shown in evidence B028-278.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-278",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-area-rug-5eadea7a69.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-running-horse-area-rug-5eadea7a69: customer copy is limited to visible/product facts such as 'rectangular rug with black horse portrait, purple and pink sky, violet flowers, dreamy glowi...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-278",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-area-rug-5eadea7a69.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-running-horse-area-rug-5eadea7a69: primary keyword 'purple horse area rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-278",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-area-rug-5eadea7a69.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-running-horse-area-rug-5eadea7a69: proposed copy targets the same search intent as 'purple horse area rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-278",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-area-rug-5eadea7a69.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-running-horse-area-rug-5eadea7a69: current support is 'Search and marketplace evidence supports octopus shaped rugs, sea monster/tentacle rugs, tre...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-278",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-area-rug-5eadea7a69.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-running-horse-area-rug-5eadea7a69: title 'Purple Horse Area Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-278",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-area-rug-5eadea7a69.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-running-horse-area-rug-5eadea7a69: meta title 'Purple Horse Area Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-278",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-area-rug-5eadea7a69.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-running-horse-area-rug-5eadea7a69: meta 'Create a purple horse area rug with a purple running horse design for a bedroom, living room, office, or equestr...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-278",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-area-rug-5eadea7a69.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-running-horse-area-rug-5eadea7a69: description begins 'Create a purple horse area rug with a purple running horse design for a bedroom, living room, office, or equestr...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-278",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-area-rug-5eadea7a69.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-running-horse-area-rug-5eadea7a69: workbook row, evidence id B028-278, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-278",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-area-rug-5eadea7a69.html"
+        ]
+      }
+    },
+    "custom-running-horse-welcome-mat-5c3fa81b88": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-running-horse-welcome-mat-5c3fa81b88: proposed title 'Rustic Horse Area Rug' and description 'Create a rustic horse area rug with a rustic running horse design for an entryway, livi...' keep the same product/theme shown in evidence B028-279.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-279",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-welcome-mat-5c3fa81b88.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-running-horse-welcome-mat-5c3fa81b88: customer copy is limited to visible/product facts such as 'rectangular rug with close-up black and white horse portrait, brown dusty background, dramat...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-279",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-welcome-mat-5c3fa81b88.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-running-horse-welcome-mat-5c3fa81b88: primary keyword 'rustic horse area rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-279",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-welcome-mat-5c3fa81b88.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-running-horse-welcome-mat-5c3fa81b88: proposed copy targets the same search intent as 'rustic horse area rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-279",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-welcome-mat-5c3fa81b88.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-running-horse-welcome-mat-5c3fa81b88: current support is 'Search and marketplace evidence supports octopus shaped rugs, sea monster/tentacle rugs, tre...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-279",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-welcome-mat-5c3fa81b88.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-running-horse-welcome-mat-5c3fa81b88: title 'Rustic Horse Area Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-279",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-welcome-mat-5c3fa81b88.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-running-horse-welcome-mat-5c3fa81b88: meta title 'Rustic Horse Area Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-279",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-welcome-mat-5c3fa81b88.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-running-horse-welcome-mat-5c3fa81b88: meta 'Create a rustic horse area rug with a rustic running horse design for an entryway, living room, bedroom, office,...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-279",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-welcome-mat-5c3fa81b88.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-running-horse-welcome-mat-5c3fa81b88: description begins 'Create a rustic horse area rug with a rustic running horse design for an entryway, living room, bedroom, office,...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-279",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-welcome-mat-5c3fa81b88.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-running-horse-welcome-mat-5c3fa81b88: workbook row, evidence id B028-279, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-279",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-welcome-mat-5c3fa81b88.html"
+        ]
+      }
+    },
+    "custom-running-horse-welcome-mat-a0cd749d2b": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-running-horse-welcome-mat-a0cd749d2b: proposed title 'Rainbow Horse Area Rug' and description 'Create a rainbow horse area rug with a colorful running horse design with rainbow detai...' keep the same product/theme shown in evidence B028-280.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-280",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-welcome-mat-a0cd749d2b.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-running-horse-welcome-mat-a0cd749d2b: customer copy is limited to visible/product facts such as 'rectangular rug with tan horse portrait, rainbow mane, warm cream and gold background, color...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-280",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-welcome-mat-a0cd749d2b.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-running-horse-welcome-mat-a0cd749d2b: primary keyword 'rainbow horse area rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-280",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-welcome-mat-a0cd749d2b.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-running-horse-welcome-mat-a0cd749d2b: proposed copy targets the same search intent as 'rainbow horse area rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-280",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-welcome-mat-a0cd749d2b.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-running-horse-welcome-mat-a0cd749d2b: current support is 'Search and marketplace evidence supports octopus shaped rugs, sea monster/tentacle rugs, tre...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-280",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-welcome-mat-a0cd749d2b.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-running-horse-welcome-mat-a0cd749d2b: title 'Rainbow Horse Area Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-280",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-welcome-mat-a0cd749d2b.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-running-horse-welcome-mat-a0cd749d2b: meta title 'Rainbow Horse Area Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-280",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-welcome-mat-a0cd749d2b.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-running-horse-welcome-mat-a0cd749d2b: meta 'Create a rainbow horse area rug with a colorful running horse design with rainbow details for a bedroom, playroo...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-280",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-welcome-mat-a0cd749d2b.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-running-horse-welcome-mat-a0cd749d2b: description begins 'Create a rainbow horse area rug with a colorful running horse design with rainbow details for a bedroom, playroo...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-280",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-welcome-mat-a0cd749d2b.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-running-horse-welcome-mat-a0cd749d2b: workbook row, evidence id B028-280, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R104\\SEO_Product_Optimization_revision_R104.xlsx",
+          "product_evidence:B028-280",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B028_pages\\custom-running-horse-welcome-mat-a0cd749d2b.html"
+        ]
+      }
+    }
+  }
+}

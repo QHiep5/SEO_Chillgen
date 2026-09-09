@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "R105",
+  "batch_id": "B029",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+  "source_workbook_sha256": "50bfb09cd306dc70d06d5633d4994fd2f586195b140c9b2281f77701267ed372",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-R105-CRITERIA-01",
+    "reviewed_at": "2026-09-09T18:17:07+07:00"
+  },
+  "reviewed_at": "2026-09-09T18:17:07+07:00",
+  "products": {
+    "custom-running-horse-welcome-mat-fade3d1429": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-running-horse-welcome-mat-fade3d1429: proposed title 'Two Horse Area Rug' and description 'Create a two horse area rug with a two-horse design for a bedroom, living room, entrywa...' keep the same product/theme shown in evidence B029-281.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-281",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-fade3d1429.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-running-horse-welcome-mat-fade3d1429: customer copy is limited to visible/product facts such as 'rectangular rug with two brown horses, warm blurred stable-like background, close-up horse f...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-281",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-fade3d1429.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-running-horse-welcome-mat-fade3d1429: primary keyword 'two horse area rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-281",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-fade3d1429.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-running-horse-welcome-mat-fade3d1429: proposed copy targets the same search intent as 'two horse area rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-281",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-fade3d1429.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-running-horse-welcome-mat-fade3d1429: current support is 'Marketplace and western decor sources show demand for horse area rugs, galloping horse rugs,...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-281",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-fade3d1429.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-running-horse-welcome-mat-fade3d1429: title 'Two Horse Area Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-281",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-fade3d1429.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-running-horse-welcome-mat-fade3d1429: meta title 'Two Horse Area Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-281",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-fade3d1429.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-running-horse-welcome-mat-fade3d1429: meta 'Create a two horse area rug with a two-horse design for a bedroom, living room, entryway, office, or equestrian...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-281",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-fade3d1429.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-running-horse-welcome-mat-fade3d1429: description begins 'Create a two horse area rug with a two-horse design for a bedroom, living room, entryway, office, or equestrian...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-281",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-fade3d1429.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-running-horse-welcome-mat-fade3d1429: workbook row, evidence id B029-281, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-281",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-fade3d1429.html"
+        ]
+      }
+    },
+    "custom-running-horse-doormat-2a0ef19423-2a0ef19423": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-running-horse-doormat-2a0ef19423-2a0ef19423: proposed title 'Tribal Horse Area Rug' and description 'Create a tribal horse area rug with a tribal-inspired running horse design for a bedroo...' keep the same product/theme shown in evidence B029-282.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-282",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-doormat-2a0ef19423-2a0ef19423.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-running-horse-doormat-2a0ef19423-2a0ef19423: customer copy is limited to visible/product facts such as 'rectangular horse rug with close-up tan horse portrait, bridle and feather-like mane accents...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-282",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-doormat-2a0ef19423-2a0ef19423.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-running-horse-doormat-2a0ef19423-2a0ef19423: primary keyword 'tribal horse area rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-282",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-doormat-2a0ef19423-2a0ef19423.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-running-horse-doormat-2a0ef19423-2a0ef19423: proposed copy targets the same search intent as 'tribal horse area rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-282",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-doormat-2a0ef19423-2a0ef19423.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-running-horse-doormat-2a0ef19423-2a0ef19423: current support is 'Marketplace and western decor sources show demand for horse area rugs, galloping horse rugs,...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-282",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-doormat-2a0ef19423-2a0ef19423.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-running-horse-doormat-2a0ef19423-2a0ef19423: title 'Tribal Horse Area Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-282",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-doormat-2a0ef19423-2a0ef19423.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-running-horse-doormat-2a0ef19423-2a0ef19423: meta title 'Tribal Horse Area Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-282",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-doormat-2a0ef19423-2a0ef19423.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-running-horse-doormat-2a0ef19423-2a0ef19423: meta 'Create a tribal horse area rug with a tribal-inspired running horse design for a bedroom, living room, entryway,...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-282",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-doormat-2a0ef19423-2a0ef19423.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-running-horse-doormat-2a0ef19423-2a0ef19423: description begins 'Create a tribal horse area rug with a tribal-inspired running horse design for a bedroom, living room, entryway,...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-282",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-doormat-2a0ef19423-2a0ef19423.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-running-horse-doormat-2a0ef19423-2a0ef19423: workbook row, evidence id B029-282, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-282",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-doormat-2a0ef19423-2a0ef19423.html"
+        ]
+      }
+    },
+    "horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd: proposed title 'Sunset Running Horse Rug' and description 'Create a sunset running horse rug with a running horse silhouette with sunset artwork f...' keep the same product/theme shown in evidence B029-283.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-283",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd: customer copy is limited to visible/product facts such as 'rectangular rug with black running horse silhouette, fiery red orange sunset, large yellow s...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-283",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd: primary keyword 'sunset running horse rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-283",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd: proposed copy targets the same search intent as 'sunset running horse rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-283",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd: current support is 'Marketplace and western decor sources show demand for horse area rugs, galloping horse rugs,...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-283",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd: title 'Sunset Running Horse Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-283",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd: meta title 'Sunset Running Horse Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-283",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd: meta 'Create a sunset running horse rug with a running horse silhouette with sunset artwork for a bedroom, living room...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-283",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd: description begins 'Create a sunset running horse rug with a running horse silhouette with sunset artwork for a bedroom, living room...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-283",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd: workbook row, evidence id B029-283, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-283",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd.html"
+        ]
+      }
+    },
+    "custom-running-horse-doormat-b25dd5e514": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-running-horse-doormat-b25dd5e514: proposed title 'Sunflower Horse Area Rug' and description 'Create a sunflower horse area rug with a horse design with sunflower artwork for a bedr...' keep the same product/theme shown in evidence B029-284.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-284",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-doormat-b25dd5e514.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-running-horse-doormat-b25dd5e514: customer copy is limited to visible/product facts such as 'rectangular rug with white horse portrait, large yellow sunflowers, soft blue leaves and war...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-284",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-doormat-b25dd5e514.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-running-horse-doormat-b25dd5e514: primary keyword 'sunflower horse area rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-284",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-doormat-b25dd5e514.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-running-horse-doormat-b25dd5e514: proposed copy targets the same search intent as 'sunflower horse area rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-284",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-doormat-b25dd5e514.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-running-horse-doormat-b25dd5e514: current support is 'Marketplace and western decor sources show demand for horse area rugs, galloping horse rugs,...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-284",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-doormat-b25dd5e514.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-running-horse-doormat-b25dd5e514: title 'Sunflower Horse Area Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-284",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-doormat-b25dd5e514.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-running-horse-doormat-b25dd5e514: meta title 'Sunflower Horse Area Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-284",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-doormat-b25dd5e514.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-running-horse-doormat-b25dd5e514: meta 'Create a sunflower horse area rug with a horse design with sunflower artwork for a bedroom, living room, entrywa...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-284",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-doormat-b25dd5e514.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-running-horse-doormat-b25dd5e514: description begins 'Create a sunflower horse area rug with a horse design with sunflower artwork for a bedroom, living room, entrywa...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-284",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-doormat-b25dd5e514.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-running-horse-doormat-b25dd5e514: workbook row, evidence id B029-284, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-284",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-doormat-b25dd5e514.html"
+        ]
+      }
+    },
+    "custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4: proposed title 'Fire Horse Area Rug' and description 'Create a fire horse area rug with a running horse design with fire-inspired artwork for...' keep the same product/theme shown in evidence B029-285.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-285",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4: customer copy is limited to visible/product facts such as 'rectangular rug with black horse portrait, swirling mane, red flame and lava-like background...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-285",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4: primary keyword 'fire horse area rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-285",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4: proposed copy targets the same search intent as 'fire horse area rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-285",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4: current support is 'Marketplace and western decor sources show demand for horse area rugs, galloping horse rugs,...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-285",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4: title 'Fire Horse Area Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-285",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4: meta title 'Fire Horse Area Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-285",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4: meta 'Create a fire horse area rug with a running horse design with fire-inspired artwork for a bedroom, living room,...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-285",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4: description begins 'Create a fire horse area rug with a running horse design with fire-inspired artwork for a bedroom, living room,...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-285",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4: workbook row, evidence id B029-285, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-285",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4.html"
+        ]
+      }
+    },
+    "custom-running-horse-welcome-mat-34b7c38f01": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-running-horse-welcome-mat-34b7c38f01: proposed title 'Black Horse Portrait Rug' and description 'Create a black horse portrait rug with a black horse portrait design for a bedroom, liv...' keep the same product/theme shown in evidence B029-286.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-286",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-34b7c38f01.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-running-horse-welcome-mat-34b7c38f01: customer copy is limited to visible/product facts such as 'rectangular rug with black horse head portrait, bridle detail, soft gray beige background, s...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-286",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-34b7c38f01.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-running-horse-welcome-mat-34b7c38f01: primary keyword 'black horse portrait rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-286",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-34b7c38f01.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-running-horse-welcome-mat-34b7c38f01: proposed copy targets the same search intent as 'black horse portrait rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-286",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-34b7c38f01.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-running-horse-welcome-mat-34b7c38f01: current support is 'Marketplace and western decor sources show demand for horse area rugs, galloping horse rugs,...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-286",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-34b7c38f01.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-running-horse-welcome-mat-34b7c38f01: title 'Black Horse Portrait Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-286",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-34b7c38f01.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-running-horse-welcome-mat-34b7c38f01: meta title 'Black Horse Portrait Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-286",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-34b7c38f01.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-running-horse-welcome-mat-34b7c38f01: meta 'Create a black horse portrait rug with a black horse portrait design for a bedroom, living room, office, or eque...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-286",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-34b7c38f01.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-running-horse-welcome-mat-34b7c38f01: description begins 'Create a black horse portrait rug with a black horse portrait design for a bedroom, living room, office, or eque...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-286",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-34b7c38f01.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-running-horse-welcome-mat-34b7c38f01: workbook row, evidence id B029-286, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-286",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-34b7c38f01.html"
+        ]
+      }
+    },
+    "custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f: proposed title 'Daisy Horse Area Rug' and description 'Create a daisy horse area rug with a horse design with daisy artwork for a bedroom, liv...' keep the same product/theme shown in evidence B029-287.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-287",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f: customer copy is limited to visible/product facts such as 'rectangular rug with brown horse portrait wearing white daisy flower crown, green ivy and fl...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-287",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f: primary keyword 'daisy horse area rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-287",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f: proposed copy targets the same search intent as 'daisy horse area rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-287",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f: current support is 'Marketplace and western decor sources show demand for horse area rugs, galloping horse rugs,...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-287",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f: title 'Daisy Horse Area Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-287",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f: meta title 'Daisy Horse Area Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-287",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f: meta 'Create a daisy horse area rug with a horse design with daisy artwork for a bedroom, living room, entryway, or eq...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-287",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f: description begins 'Create a daisy horse area rug with a horse design with daisy artwork for a bedroom, living room, entryway, or eq...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-287",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f: workbook row, evidence id B029-287, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-287",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f.html"
+        ]
+      }
+    },
+    "custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6: proposed title 'Horse Eye Area Rug' and description 'Create a horse eye area rug with a close-up horse eye design for a bedroom, living room...' keep the same product/theme shown in evidence B029-288.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-288",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6: customer copy is limited to visible/product facts such as 'rectangular rug with dramatic close-up horse eye, warm brown coat texture, whisker details,...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-288",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6: primary keyword 'horse eye area rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-288",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6: proposed copy targets the same search intent as 'horse eye area rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-288",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6: current support is 'Marketplace and western decor sources show demand for horse area rugs, galloping horse rugs,...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-288",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6: title 'Horse Eye Area Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-288",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6: meta title 'Horse Eye Area Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-288",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6: meta 'Create a horse eye area rug with a close-up horse eye design for a bedroom, living room, office, or equestrian s...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-288",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6: description begins 'Create a horse eye area rug with a close-up horse eye design for a bedroom, living room, office, or equestrian s...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-288",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6: workbook row, evidence id B029-288, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-288",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6.html"
+        ]
+      }
+    },
+    "custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b: proposed title 'White Floral Horse Rug' and description 'Create a white floral horse rug with a white horse design with floral artwork for a bed...' keep the same product/theme shown in evidence B029-289.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-289",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b: customer copy is limited to visible/product facts such as 'rectangular rug with white horse portrait surrounded by yellow daisies, red flowers and soft...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-289",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b: primary keyword 'white floral horse rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-289",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b: proposed copy targets the same search intent as 'white floral horse rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-289",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b: current support is 'Marketplace and western decor sources show demand for horse area rugs, galloping horse rugs,...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-289",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b: title 'White Floral Horse Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-289",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b: meta title 'White Floral Horse Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-289",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b: meta 'Create a white floral horse rug with a white horse design with floral artwork for a bedroom, living room, entryw...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-289",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b: description begins 'Create a white floral horse rug with a white horse design with floral artwork for a bedroom, living room, entryw...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-289",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b: workbook row, evidence id B029-289, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-289",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b.html"
+        ]
+      }
+    },
+    "custom-running-horse-welcome-mat-01f80a49ee": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-running-horse-welcome-mat-01f80a49ee: proposed title 'Butterfly Horse Area Rug' and description 'Create a butterfly horse area rug with a horse design with butterfly artwork for a bedr...' keep the same product/theme shown in evidence B029-290.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-290",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-01f80a49ee.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-running-horse-welcome-mat-01f80a49ee: customer copy is limited to visible/product facts such as 'rectangular rug with white horse portrait, orange butterflies, daisies and colorful garden f...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-290",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-01f80a49ee.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-running-horse-welcome-mat-01f80a49ee: primary keyword 'butterfly horse area rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-290",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-01f80a49ee.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-running-horse-welcome-mat-01f80a49ee: proposed copy targets the same search intent as 'butterfly horse area rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-290",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-01f80a49ee.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-running-horse-welcome-mat-01f80a49ee: current support is 'Marketplace and western decor sources show demand for horse area rugs, galloping horse rugs,...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-290",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-01f80a49ee.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-running-horse-welcome-mat-01f80a49ee: title 'Butterfly Horse Area Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-290",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-01f80a49ee.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-running-horse-welcome-mat-01f80a49ee: meta title 'Butterfly Horse Area Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-290",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-01f80a49ee.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-running-horse-welcome-mat-01f80a49ee: meta 'Create a butterfly horse area rug with a horse design with butterfly artwork for a bedroom, playroom, living roo...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-290",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-01f80a49ee.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-running-horse-welcome-mat-01f80a49ee: description begins 'Create a butterfly horse area rug with a horse design with butterfly artwork for a bedroom, playroom, living roo...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-290",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-01f80a49ee.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-running-horse-welcome-mat-01f80a49ee: workbook row, evidence id B029-290, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+          "product_evidence:B029-290",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B029_pages\\custom-running-horse-welcome-mat-01f80a49ee.html"
+        ]
+      }
+    }
+  }
+}

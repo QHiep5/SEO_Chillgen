@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "R093",
+  "batch_id": "B017",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+  "source_workbook_sha256": "702446498038afb0f02dd8103d1b7bc35c196e45db9a5e3169223f1c07845456",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-R093-CRITERIA-01",
+    "reviewed_at": "2026-09-09T17:16:59+07:00"
+  },
+  "reviewed_at": "2026-09-09T17:16:59+07:00",
+  "products": {
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-106": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-orthodox-christian-area-rug-custom-eastern-design-106: proposed title 'Cream Red Orthodox Cross Rug' and description 'Create a cream red Orthodox cross rug with a cream and red Orthodox cross, ornate borde...' keep the same product/theme shown in evidence B017-161.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-161",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-106.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-orthodox-christian-area-rug-custom-eastern-design-106: customer copy is limited to visible/product facts such as 'rectangular cream rug with gold Orthodox cross, deep red border, floral accents, teal trim,...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-161",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-106.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-orthodox-christian-area-rug-custom-eastern-design-106: primary keyword 'cream red Orthodox cross rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-161",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-106.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-orthodox-christian-area-rug-custom-eastern-design-106: proposed copy targets the same search intent as 'cream red Orthodox cross rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-161",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-106.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-orthodox-christian-area-rug-custom-eastern-design-106: current support is 'Marketplace patterns support motif-led keywords for Orthodox cross area rugs, Christian pray...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-161",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-106.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-orthodox-christian-area-rug-custom-eastern-design-106: title 'Cream Red Orthodox Cross Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-161",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-106.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-orthodox-christian-area-rug-custom-eastern-design-106: meta title 'Cream Red Orthodox Cross Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-161",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-106.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-orthodox-christian-area-rug-custom-eastern-design-106: meta 'Create a cream red Orthodox cross rug with a cream and red Orthodox cross, ornate border details, and a warm rel...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-161",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-106.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-orthodox-christian-area-rug-custom-eastern-design-106: description begins 'Create a cream red Orthodox cross rug with a cream and red Orthodox cross, ornate border details, and a warm rel...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-161",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-106.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-orthodox-christian-area-rug-custom-eastern-design-106: workbook row, evidence id B017-161, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-161",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-106.html"
+        ]
+      }
+    },
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-107": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-orthodox-christian-area-rug-custom-eastern-design-107: proposed title 'Green Cream Orthodox Cross Rug' and description 'Create a green cream Orthodox cross rug with a green and cream Orthodox cross, decorati...' keep the same product/theme shown in evidence B017-162.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-162",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-107.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-orthodox-christian-area-rug-custom-eastern-design-107: customer copy is limited to visible/product facts such as 'rectangular cream rug with green Orthodox cross motif, green Greek key border, floral corner...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-162",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-107.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-orthodox-christian-area-rug-custom-eastern-design-107: primary keyword 'green cream Orthodox cross rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-162",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-107.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-orthodox-christian-area-rug-custom-eastern-design-107: proposed copy targets the same search intent as 'green cream Orthodox cross rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-162",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-107.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-orthodox-christian-area-rug-custom-eastern-design-107: current support is 'Marketplace patterns support motif-led keywords for Orthodox cross area rugs, Christian pray...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-162",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-107.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-orthodox-christian-area-rug-custom-eastern-design-107: title 'Green Cream Orthodox Cross Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-162",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-107.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-orthodox-christian-area-rug-custom-eastern-design-107: meta title 'Green Cream Orthodox Cross Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-162",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-107.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-orthodox-christian-area-rug-custom-eastern-design-107: meta 'Create a green cream Orthodox cross rug with a green and cream Orthodox cross, decorative border details, and a...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-162",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-107.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-orthodox-christian-area-rug-custom-eastern-design-107: description begins 'Create a green cream Orthodox cross rug with a green and cream Orthodox cross, decorative border details, and a...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-162",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-107.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-orthodox-christian-area-rug-custom-eastern-design-107: workbook row, evidence id B017-162, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-162",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-107.html"
+        ]
+      }
+    },
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-108": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-orthodox-christian-area-rug-custom-eastern-design-108: proposed title 'Black Gold Orthodox Cross Rug' and description 'Create a black gold Orthodox cross rug with a black and gold Orthodox cross, ornate bor...' keep the same product/theme shown in evidence B017-163.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-163",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-108.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-orthodox-christian-area-rug-custom-eastern-design-108: customer copy is limited to visible/product facts such as 'rectangular black rug with bold gold Orthodox cross, ornate gold scroll border and corner ac...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-163",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-108.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-orthodox-christian-area-rug-custom-eastern-design-108: primary keyword 'black gold Orthodox cross rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-163",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-108.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-orthodox-christian-area-rug-custom-eastern-design-108: proposed copy targets the same search intent as 'black gold Orthodox cross rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-163",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-108.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-orthodox-christian-area-rug-custom-eastern-design-108: current support is 'Marketplace patterns support motif-led keywords for Orthodox cross area rugs, Christian pray...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-163",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-108.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-orthodox-christian-area-rug-custom-eastern-design-108: title 'Black Gold Orthodox Cross Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-163",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-108.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-orthodox-christian-area-rug-custom-eastern-design-108: meta title 'Black Gold Orthodox Cross Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-163",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-108.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-orthodox-christian-area-rug-custom-eastern-design-108: meta 'Create a black gold Orthodox cross rug with a black and gold Orthodox cross, ornate border details, and a refine...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-163",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-108.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-orthodox-christian-area-rug-custom-eastern-design-108: description begins 'Create a black gold Orthodox cross rug with a black and gold Orthodox cross, ornate border details, and a refine...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-163",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-108.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-orthodox-christian-area-rug-custom-eastern-design-108: workbook row, evidence id B017-163, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-163",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-108.html"
+        ]
+      }
+    },
+    "personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01: proposed title 'Personalized Notebook Classroom Rug' and description 'Create a personalized notebook classroom rug with a notebook-inspired classroom design...' keep the same product/theme shown in evidence B017-164.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-164",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01: customer copy is limited to visible/product facts such as 'shaped classroom rug with composition notebook texture, personalized teacher name, pink bow,...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-164",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01: primary keyword 'personalized notebook classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-164",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01: proposed copy targets the same search intent as 'personalized notebook classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-164",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01: current support is 'Marketplace patterns support motif-led keywords for Orthodox cross area rugs, Christian pray...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-164",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01: title 'Personalized Notebook Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-164",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01: meta title 'Personalized Notebook Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-164",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01: meta 'Create a personalized notebook classroom rug with a notebook-inspired classroom design with space for a teacher...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-164",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01: description begins 'Create a personalized notebook classroom rug with a notebook-inspired classroom design with space for a teacher...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-164",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01: workbook row, evidence id B017-164, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-164",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-for-kids-a01.html"
+        ]
+      }
+    },
+    "personalized-composition-notebook-classroom-shaped-rugs-design-2222": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-composition-notebook-classroom-shaped-rugs-design-2222: proposed title 'Pink Personalized Teacher Rug' and description 'Create a pink personalized teacher rug with a pink classroom design with personalized t...' keep the same product/theme shown in evidence B017-165.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-165",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2222.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-composition-notebook-classroom-shaped-rugs-design-2222: customer copy is limited to visible/product facts such as 'pink shaped teacher rug personalized with Mrs. Taylor style name, pencil outline, flowers, b...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-165",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2222.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-composition-notebook-classroom-shaped-rugs-design-2222: primary keyword 'pink personalized teacher rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-165",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2222.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-composition-notebook-classroom-shaped-rugs-design-2222: proposed copy targets the same search intent as 'pink personalized teacher rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-165",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2222.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-composition-notebook-classroom-shaped-rugs-design-2222: current support is 'Marketplace patterns support motif-led keywords for Orthodox cross area rugs, Christian pray...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-165",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2222.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-composition-notebook-classroom-shaped-rugs-design-2222: title 'Pink Personalized Teacher Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-165",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2222.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-composition-notebook-classroom-shaped-rugs-design-2222: meta title 'Pink Personalized Teacher Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-165",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2222.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-composition-notebook-classroom-shaped-rugs-design-2222: meta 'Create a pink personalized teacher rug with a pink classroom design with personalized teacher-name space and a w...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-165",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2222.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-composition-notebook-classroom-shaped-rugs-design-2222: description begins 'Create a pink personalized teacher rug with a pink classroom design with personalized teacher-name space and a w...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-165",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2222.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-composition-notebook-classroom-shaped-rugs-design-2222: workbook row, evidence id B017-165, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-165",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2222.html"
+        ]
+      }
+    },
+    "personalized-composition-notebook-classroom-shaped-rugs-design-2223": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-composition-notebook-classroom-shaped-rugs-design-2223: proposed title 'Personalized Apple Classroom Rug' and description 'Create a personalized apple classroom rug with an apple classroom design with personali...' keep the same product/theme shown in evidence B017-166.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-166",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2223.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-composition-notebook-classroom-shaped-rugs-design-2223: customer copy is limited to visible/product facts such as 'red apple shaped classroom rug with welcome to teacher's classroom text, crayons, ruler, flo...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-166",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2223.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-composition-notebook-classroom-shaped-rugs-design-2223: primary keyword 'personalized apple classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-166",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2223.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-composition-notebook-classroom-shaped-rugs-design-2223: proposed copy targets the same search intent as 'personalized apple classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-166",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2223.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-composition-notebook-classroom-shaped-rugs-design-2223: current support is 'Marketplace patterns support motif-led keywords for Orthodox cross area rugs, Christian pray...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-166",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2223.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-composition-notebook-classroom-shaped-rugs-design-2223: title 'Personalized Apple Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-166",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2223.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-composition-notebook-classroom-shaped-rugs-design-2223: meta title 'Personalized Apple Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-166",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2223.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-composition-notebook-classroom-shaped-rugs-design-2223: meta 'Create a personalized apple classroom rug with an apple classroom design with personalized teacher-name space an...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-166",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2223.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-composition-notebook-classroom-shaped-rugs-design-2223: description begins 'Create a personalized apple classroom rug with an apple classroom design with personalized teacher-name space an...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-166",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2223.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-composition-notebook-classroom-shaped-rugs-design-2223: workbook row, evidence id B017-166, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-166",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2223.html"
+        ]
+      }
+    },
+    "personalized-composition-notebook-classroom-shaped-rugs-design-2224": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-composition-notebook-classroom-shaped-rugs-design-2224: proposed title 'Personalized Open Book Classroom Rug' and description 'Create a personalized open book classroom rug with an open-book classroom design with p...' keep the same product/theme shown in evidence B017-167.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-167",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2224.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-composition-notebook-classroom-shaped-rugs-design-2224: customer copy is limited to visible/product facts such as 'open book shaped classroom rug personalized with teacher name, pencil, apple, notebook and d...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-167",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2224.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-composition-notebook-classroom-shaped-rugs-design-2224: primary keyword 'personalized open book classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-167",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2224.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-composition-notebook-classroom-shaped-rugs-design-2224: proposed copy targets the same search intent as 'personalized open book classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-167",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2224.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-composition-notebook-classroom-shaped-rugs-design-2224: current support is 'Marketplace patterns support motif-led keywords for Orthodox cross area rugs, Christian pray...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-167",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2224.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-composition-notebook-classroom-shaped-rugs-design-2224: title 'Personalized Open Book Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-167",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2224.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-composition-notebook-classroom-shaped-rugs-design-2224: meta title 'Personalized Open Book Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-167",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2224.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-composition-notebook-classroom-shaped-rugs-design-2224: meta 'Create a personalized open book classroom rug with an open-book classroom design with personalized teacher-name...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-167",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2224.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-composition-notebook-classroom-shaped-rugs-design-2224: description begins 'Create a personalized open book classroom rug with an open-book classroom design with personalized teacher-name...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-167",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2224.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-composition-notebook-classroom-shaped-rugs-design-2224: workbook row, evidence id B017-167, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-167",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2224.html"
+        ]
+      }
+    },
+    "personalized-composition-notebook-classroom-shaped-rugs-design-2225": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-composition-notebook-classroom-shaped-rugs-design-2225: proposed title 'Personalized Flower Classroom Rug' and description 'Create a personalized flower classroom rug with a flower classroom design with personal...' keep the same product/theme shown in evidence B017-168.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-168",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2225.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-composition-notebook-classroom-shaped-rugs-design-2225: customer copy is limited to visible/product facts such as 'round flower shaped classroom rug with pastel striped petals, teacher name center, yellow bo...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-168",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2225.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-composition-notebook-classroom-shaped-rugs-design-2225: primary keyword 'personalized flower classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-168",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2225.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-composition-notebook-classroom-shaped-rugs-design-2225: proposed copy targets the same search intent as 'personalized flower classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-168",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2225.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-composition-notebook-classroom-shaped-rugs-design-2225: current support is 'Marketplace patterns support motif-led keywords for Orthodox cross area rugs, Christian pray...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-168",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2225.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-composition-notebook-classroom-shaped-rugs-design-2225: title 'Personalized Flower Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-168",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2225.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-composition-notebook-classroom-shaped-rugs-design-2225: meta title 'Personalized Flower Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-168",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2225.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-composition-notebook-classroom-shaped-rugs-design-2225: meta 'Create a personalized flower classroom rug with a flower classroom design with personalized teacher-name space a...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-168",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2225.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-composition-notebook-classroom-shaped-rugs-design-2225: description begins 'Create a personalized flower classroom rug with a flower classroom design with personalized teacher-name space a...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-168",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2225.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-composition-notebook-classroom-shaped-rugs-design-2225: workbook row, evidence id B017-168, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-168",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-composition-notebook-classroom-shaped-rugs-design-2225.html"
+        ]
+      }
+    },
+    "personalized-family-couple-doormat-custom-couple-husband-design-05": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-family-couple-doormat-custom-couple-husband-design-05: proposed title 'Funny Personalized Couple Doormat' and description 'Create a funny personalized couple doormat with a playful personalized couple message f...' keep the same product/theme shown in evidence B017-169.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-169",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-family-couple-doormat-custom-couple-husband-design-05.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-family-couple-doormat-custom-couple-husband-design-05: customer copy is limited to visible/product facts such as 'tan rectangular doormat with cartoon couple portraits, family name, custom names, humorous '...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-169",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-family-couple-doormat-custom-couple-husband-design-05.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-family-couple-doormat-custom-couple-husband-design-05: primary keyword 'funny personalized couple doormat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-169",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-family-couple-doormat-custom-couple-husband-design-05.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-family-couple-doormat-custom-couple-husband-design-05: proposed copy targets the same search intent as 'funny personalized couple doormat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-169",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-family-couple-doormat-custom-couple-husband-design-05.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-family-couple-doormat-custom-couple-husband-design-05: current support is 'Marketplace patterns support motif-led keywords for Orthodox cross area rugs, Christian pray...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-169",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-family-couple-doormat-custom-couple-husband-design-05.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-family-couple-doormat-custom-couple-husband-design-05: title 'Funny Personalized Couple Doormat' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-169",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-family-couple-doormat-custom-couple-husband-design-05.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-family-couple-doormat-custom-couple-husband-design-05: meta title 'Funny Personalized Couple Doormat' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-169",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-family-couple-doormat-custom-couple-husband-design-05.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-family-couple-doormat-custom-couple-husband-design-05: meta 'Create a funny personalized couple doormat with a playful personalized couple message for an entryway, with a li...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-169",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-family-couple-doormat-custom-couple-husband-design-05.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-family-couple-doormat-custom-couple-husband-design-05: description begins 'Create a funny personalized couple doormat with a playful personalized couple message for an entryway, with a li...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-169",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-family-couple-doormat-custom-couple-husband-design-05.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-family-couple-doormat-custom-couple-husband-design-05: workbook row, evidence id B017-169, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-169",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-family-couple-doormat-custom-couple-husband-design-05.html"
+        ]
+      }
+    },
+    "personalized-family-couple-doormat-custom-couple-husband-design-03": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-family-couple-doormat-custom-couple-husband-design-03: proposed title 'Home Sweet Home Couple Doormat' and description 'Create a home sweet home couple doormat with a Home Sweet Home message with personalize...' keep the same product/theme shown in evidence B017-170.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-170",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-family-couple-doormat-custom-couple-husband-design-03.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-family-couple-doormat-custom-couple-husband-design-03: customer copy is limited to visible/product facts such as 'white rectangular doormat with cartoon couple sitting together, custom names, home sweet hom...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-170",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-family-couple-doormat-custom-couple-husband-design-03.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-family-couple-doormat-custom-couple-husband-design-03: primary keyword 'home sweet home couple doormat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-170",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-family-couple-doormat-custom-couple-husband-design-03.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-family-couple-doormat-custom-couple-husband-design-03: proposed copy targets the same search intent as 'home sweet home couple doormat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-170",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-family-couple-doormat-custom-couple-husband-design-03.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-family-couple-doormat-custom-couple-husband-design-03: current support is 'Marketplace patterns support motif-led keywords for Orthodox cross area rugs, Christian pray...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-170",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-family-couple-doormat-custom-couple-husband-design-03.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-family-couple-doormat-custom-couple-husband-design-03: title 'Home Sweet Home Couple Doormat' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-170",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-family-couple-doormat-custom-couple-husband-design-03.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-family-couple-doormat-custom-couple-husband-design-03: meta title 'Home Sweet Home Couple Doormat' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-170",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-family-couple-doormat-custom-couple-husband-design-03.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-family-couple-doormat-custom-couple-husband-design-03: meta 'Create a home sweet home couple doormat with a Home Sweet Home message with personalized couple details for a we...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-170",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-family-couple-doormat-custom-couple-husband-design-03.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-family-couple-doormat-custom-couple-husband-design-03: description begins 'Create a home sweet home couple doormat with a Home Sweet Home message with personalized couple details for a we...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-170",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-family-couple-doormat-custom-couple-husband-design-03.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-family-couple-doormat-custom-couple-husband-design-03: workbook row, evidence id B017-170, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R093\\SEO_Product_Optimization_revision_R093.xlsx",
+          "product_evidence:B017-170",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B017_pages\\personalized-family-couple-doormat-custom-couple-husband-design-03.html"
+        ]
+      }
+    }
+  }
+}

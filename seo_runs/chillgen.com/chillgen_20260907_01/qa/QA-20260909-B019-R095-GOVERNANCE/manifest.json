@@ -1,0 +1,47 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "rubric_hash": "c2c1defdb72362291f7da656fa7fea9283a02782fc8ca66d2e4637f2511500dd",
+  "qa_run_id": "QA-20260909-B019-R095-GOVERNANCE",
+  "qa_batch_id": "REV_R095",
+  "batch_id": "B019",
+  "revision_id": "R095",
+  "parent_run_id": "",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+  "source_workbook_sha256": "0f4a406c0e13fdc928146eda697c752a0652605c231bed56b3d5170c9c3aaa5b",
+  "scope_hash": "842ff20a7c829596defa0301174da6c5455bed5861c63e27de7b8db2b509ad18",
+  "batch_product_keys": [
+    "custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80",
+    "custom-soccer-championship-round-rug-106971c407",
+    "custom-soccer-2026-round-rug-trophy-flag-design-8257f0bdff",
+    "custom-soccer-2026-round-rug-trophy-championship-sports-decor-df4d4eec2f",
+    "custom-soccer-championship-round-rug-world-flags-d1d1d396af",
+    "custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c",
+    "personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3",
+    "personalized-soccer-tournament-trophy-rug-0bdc87e8ab-0bdc87e8ab",
+    "custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10",
+    "wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644"
+  ],
+  "status_counts": {
+    "QA_PASS": 10,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "issue_counts": {
+    "CRITICAL": 0,
+    "MAJOR": 0,
+    "MINOR": 0,
+    "LIMITATION": 20
+  },
+  "batch_status": "QA_PASS",
+  "content_qa_status": "QA_PASS",
+  "evidence_maturity": "SERP_ONLY",
+  "canonical": true,
+  "supersedes": [
+    "QA-20260907-AGENT-B019"
+  ],
+  "manual_image_evidence": "seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\reviewer\\B019_R095_independent_fullres.json",
+  "manual_criteria_evidence": "seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\reviewer\\R095_criteria_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED",
+  "created_at": "2026-09-09T17:24:14+07:00"
+}

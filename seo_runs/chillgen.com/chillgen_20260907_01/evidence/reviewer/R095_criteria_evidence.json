@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "R095",
+  "batch_id": "B019",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+  "source_workbook_sha256": "0f4a406c0e13fdc928146eda697c752a0652605c231bed56b3d5170c9c3aaa5b",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-R095-CRITERIA-01",
+    "reviewed_at": "2026-09-09T17:23:51+07:00"
+  },
+  "reviewed_at": "2026-09-09T17:23:51+07:00",
+  "products": {
+    "custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80: proposed title 'Three Nations Soccer Trophy Rug' and description 'Create a three nations soccer trophy rug with three national flags, a soccer trophy, an...' keep the same product/theme shown in evidence B019-181.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-181",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80: customer copy is limited to visible/product facts such as 'round soccer rug with USA flag section, Canadian maple leaf, Mexico-inspired crest, soccer b...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-181",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80: primary keyword 'three nations soccer trophy rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-181",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80: proposed copy targets the same search intent as 'three nations soccer trophy rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-181",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80: current support is 'Search results and marketplace listings show demand around soccer championship rugs, 2026 so...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-181",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80: title 'Three Nations Soccer Trophy Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-181",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80: meta title 'Three Nations Soccer Trophy Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-181",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80: meta 'Create a three nations soccer trophy rug with three national flags, a soccer trophy, and a round championship de...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-181",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80: description begins 'Create a three nations soccer trophy rug with three national flags, a soccer trophy, and a round championship de...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-181",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80: workbook row, evidence id B019-181, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-181",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-round-rug-trophy-championship-carpet-3ca0f26f80.html"
+        ]
+      }
+    },
+    "custom-soccer-championship-round-rug-106971c407": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-soccer-championship-round-rug-106971c407: proposed title 'Soccer Trophy Flag Ring Rug' and description 'Create a soccer trophy flag ring rug with a soccer trophy surrounded by colorful flag d...' keep the same product/theme shown in evidence B019-182.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-182",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-championship-round-rug-106971c407.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-soccer-championship-round-rug-106971c407: customer copy is limited to visible/product facts such as 'round rug with large gold trophy, soccer balls, ring of international flag-style panels, gol...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-182",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-championship-round-rug-106971c407.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-soccer-championship-round-rug-106971c407: primary keyword 'soccer trophy flag ring rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-182",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-championship-round-rug-106971c407.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-soccer-championship-round-rug-106971c407: proposed copy targets the same search intent as 'soccer trophy flag ring rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-182",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-championship-round-rug-106971c407.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-soccer-championship-round-rug-106971c407: current support is 'Search results and marketplace listings show demand around soccer championship rugs, 2026 so...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-182",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-championship-round-rug-106971c407.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-soccer-championship-round-rug-106971c407: title 'Soccer Trophy Flag Ring Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-182",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-championship-round-rug-106971c407.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-soccer-championship-round-rug-106971c407: meta title 'Soccer Trophy Flag Ring Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-182",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-championship-round-rug-106971c407.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-soccer-championship-round-rug-106971c407: meta 'Create a soccer trophy flag ring rug with a soccer trophy surrounded by colorful flag details for a bedroom, gam...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-182",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-championship-round-rug-106971c407.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-soccer-championship-round-rug-106971c407: description begins 'Create a soccer trophy flag ring rug with a soccer trophy surrounded by colorful flag details for a bedroom, gam...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-182",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-championship-round-rug-106971c407.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-soccer-championship-round-rug-106971c407: workbook row, evidence id B019-182, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-182",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-championship-round-rug-106971c407.html"
+        ]
+      }
+    },
+    "custom-soccer-2026-round-rug-trophy-flag-design-8257f0bdff": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-soccer-2026-round-rug-trophy-flag-design-8257f0bdff: proposed title 'Soccer Host Landmarks Rug' and description 'Create a soccer host landmarks rug with soccer host landmarks, a trophy, and internatio...' keep the same product/theme shown in evidence B019-183.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-183",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-2026-round-rug-trophy-flag-design-8257f0bdff.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-soccer-2026-round-rug-trophy-flag-design-8257f0bdff: customer copy is limited to visible/product facts such as 'round rug with soccer ball center, The World Game 2026 text, USA Canada Mexico flag colors,...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-183",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-2026-round-rug-trophy-flag-design-8257f0bdff.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-soccer-2026-round-rug-trophy-flag-design-8257f0bdff: primary keyword 'soccer host landmarks rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-183",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-2026-round-rug-trophy-flag-design-8257f0bdff.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-soccer-2026-round-rug-trophy-flag-design-8257f0bdff: proposed copy targets the same search intent as 'soccer host landmarks rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-183",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-2026-round-rug-trophy-flag-design-8257f0bdff.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-soccer-2026-round-rug-trophy-flag-design-8257f0bdff: current support is 'Search results and marketplace listings show demand around soccer championship rugs, 2026 so...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-183",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-2026-round-rug-trophy-flag-design-8257f0bdff.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-soccer-2026-round-rug-trophy-flag-design-8257f0bdff: title 'Soccer Host Landmarks Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-183",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-2026-round-rug-trophy-flag-design-8257f0bdff.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-soccer-2026-round-rug-trophy-flag-design-8257f0bdff: meta title 'Soccer Host Landmarks Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-183",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-2026-round-rug-trophy-flag-design-8257f0bdff.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-soccer-2026-round-rug-trophy-flag-design-8257f0bdff: meta 'Create a soccer host landmarks rug with soccer host landmarks, a trophy, and international flag details for a ga...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-183",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-2026-round-rug-trophy-flag-design-8257f0bdff.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-soccer-2026-round-rug-trophy-flag-design-8257f0bdff: description begins 'Create a soccer host landmarks rug with soccer host landmarks, a trophy, and international flag details for a ga...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-183",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-2026-round-rug-trophy-flag-design-8257f0bdff.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-soccer-2026-round-rug-trophy-flag-design-8257f0bdff: workbook row, evidence id B019-183, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-183",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-2026-round-rug-trophy-flag-design-8257f0bdff.html"
+        ]
+      }
+    },
+    "custom-soccer-2026-round-rug-trophy-championship-sports-decor-df4d4eec2f": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-soccer-2026-round-rug-trophy-championship-sports-decor-df4d4eec2f: proposed title 'USA Eagle Soccer Championship Rug' and description 'Create a USA eagle soccer championship rug with a United States eagle, soccer trophy, a...' keep the same product/theme shown in evidence B019-184.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-184",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-2026-round-rug-trophy-championship-sports-decor-df4d4eec2f.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-soccer-2026-round-rug-trophy-championship-sports-decor-df4d4eec2f: customer copy is limited to visible/product facts such as 'round cream soccer rug with United States banner, two eagles, gold trophy, American flag, fi...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-184",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-2026-round-rug-trophy-championship-sports-decor-df4d4eec2f.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-soccer-2026-round-rug-trophy-championship-sports-decor-df4d4eec2f: primary keyword 'USA eagle soccer championship rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-184",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-2026-round-rug-trophy-championship-sports-decor-df4d4eec2f.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-soccer-2026-round-rug-trophy-championship-sports-decor-df4d4eec2f: proposed copy targets the same search intent as 'USA eagle soccer championship rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-184",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-2026-round-rug-trophy-championship-sports-decor-df4d4eec2f.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-soccer-2026-round-rug-trophy-championship-sports-decor-df4d4eec2f: current support is 'Search results and marketplace listings show demand around soccer championship rugs, 2026 so...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-184",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-2026-round-rug-trophy-championship-sports-decor-df4d4eec2f.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-soccer-2026-round-rug-trophy-championship-sports-decor-df4d4eec2f: title 'USA Eagle Soccer Championship Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-184",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-2026-round-rug-trophy-championship-sports-decor-df4d4eec2f.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-soccer-2026-round-rug-trophy-championship-sports-decor-df4d4eec2f: meta title 'USA Eagle Soccer Championship Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-184",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-2026-round-rug-trophy-championship-sports-decor-df4d4eec2f.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-soccer-2026-round-rug-trophy-championship-sports-decor-df4d4eec2f: meta 'Create a USA eagle soccer championship rug with a United States eagle, soccer trophy, and championship artwork f...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-184",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-2026-round-rug-trophy-championship-sports-decor-df4d4eec2f.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-soccer-2026-round-rug-trophy-championship-sports-decor-df4d4eec2f: description begins 'Create a USA eagle soccer championship rug with a United States eagle, soccer trophy, and championship artwork f...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-184",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-2026-round-rug-trophy-championship-sports-decor-df4d4eec2f.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-soccer-2026-round-rug-trophy-championship-sports-decor-df4d4eec2f: workbook row, evidence id B019-184, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-184",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-2026-round-rug-trophy-championship-sports-decor-df4d4eec2f.html"
+        ]
+      }
+    },
+    "custom-soccer-championship-round-rug-world-flags-d1d1d396af": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-soccer-championship-round-rug-world-flags-d1d1d396af: proposed title 'World Flags Animal Soccer Rug' and description 'Create a world flags animal soccer rug with animal characters, world flag details, and...' keep the same product/theme shown in evidence B019-185.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-185",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-championship-round-rug-world-flags-d1d1d396af.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-soccer-championship-round-rug-world-flags-d1d1d396af: customer copy is limited to visible/product facts such as 'round blue soccer rug with eagle, moose and jaguar animal motifs, soccer ball, trophy, ribbo...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-185",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-championship-round-rug-world-flags-d1d1d396af.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-soccer-championship-round-rug-world-flags-d1d1d396af: primary keyword 'world flags animal soccer rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-185",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-championship-round-rug-world-flags-d1d1d396af.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-soccer-championship-round-rug-world-flags-d1d1d396af: proposed copy targets the same search intent as 'world flags animal soccer rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-185",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-championship-round-rug-world-flags-d1d1d396af.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-soccer-championship-round-rug-world-flags-d1d1d396af: current support is 'Search results and marketplace listings show demand around soccer championship rugs, 2026 so...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-185",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-championship-round-rug-world-flags-d1d1d396af.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-soccer-championship-round-rug-world-flags-d1d1d396af: title 'World Flags Animal Soccer Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-185",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-championship-round-rug-world-flags-d1d1d396af.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-soccer-championship-round-rug-world-flags-d1d1d396af: meta title 'World Flags Animal Soccer Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-185",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-championship-round-rug-world-flags-d1d1d396af.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-soccer-championship-round-rug-world-flags-d1d1d396af: meta 'Create a world flags animal soccer rug with animal characters, world flag details, and soccer artwork for a bedr...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-185",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-championship-round-rug-world-flags-d1d1d396af.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-soccer-championship-round-rug-world-flags-d1d1d396af: description begins 'Create a world flags animal soccer rug with animal characters, world flag details, and soccer artwork for a bedr...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-185",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-championship-round-rug-world-flags-d1d1d396af.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-soccer-championship-round-rug-world-flags-d1d1d396af: workbook row, evidence id B019-185, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-185",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-championship-round-rug-world-flags-d1d1d396af.html"
+        ]
+      }
+    },
+    "custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c: proposed title 'Soccer Stadium Trophy Rug' and description 'Create a soccer stadium trophy rug with a soccer stadium, championship trophy, and matc...' keep the same product/theme shown in evidence B019-186.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-186",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c: customer copy is limited to visible/product facts such as 'round soccer rug with large gold trophy, stadium field, floodlights, multiple soccer balls,...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-186",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c: primary keyword 'soccer stadium trophy rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-186",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c: proposed copy targets the same search intent as 'soccer stadium trophy rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-186",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c: current support is 'Search results and marketplace listings show demand around soccer championship rugs, 2026 so...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-186",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c: title 'Soccer Stadium Trophy Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-186",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c: meta title 'Soccer Stadium Trophy Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-186",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c: meta 'Create a soccer stadium trophy rug with a soccer stadium, championship trophy, and match-day artwork for a bedro...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-186",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c: description begins 'Create a soccer stadium trophy rug with a soccer stadium, championship trophy, and match-day artwork for a bedro...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-186",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c: workbook row, evidence id B019-186, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-186",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-soccer-round-rug-championship-trophy-world-flags-cc2e9bd59c-cc2e9bd59c.html"
+        ]
+      }
+    },
+    "personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3: proposed title 'Global Hosts Soccer Stadium Rug' and description 'Create a global hosts soccer stadium rug with global host-nation details and a soccer s...' keep the same product/theme shown in evidence B019-187.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-187",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3: customer copy is limited to visible/product facts such as 'rectangular blue rug with aerial stadium and soccer field center, red white green circular h...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-187",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3: primary keyword 'global hosts soccer stadium rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-187",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3: proposed copy targets the same search intent as 'global hosts soccer stadium rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-187",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3: current support is 'Search results and marketplace listings show demand around soccer championship rugs, 2026 so...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-187",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3: title 'Global Hosts Soccer Stadium Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-187",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3: meta title 'Global Hosts Soccer Stadium Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-187",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3: meta 'Create a global hosts soccer stadium rug with global host-nation details and a soccer stadium scene for a bedroo...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-187",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3: description begins 'Create a global hosts soccer stadium rug with global host-nation details and a soccer stadium scene for a bedroo...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-187",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3: workbook row, evidence id B019-187, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-187",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\personalized-soccer-trophy-world-flags-doormat-4c01fd4ed3-4c01fd4ed3.html"
+        ]
+      }
+    },
+    "personalized-soccer-tournament-trophy-rug-0bdc87e8ab-0bdc87e8ab": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-soccer-tournament-trophy-rug-0bdc87e8ab-0bdc87e8ab: proposed title 'Statue of Liberty Soccer Rug' and description 'Create a Statue of Liberty soccer rug with the Statue of Liberty, a soccer tournament t...' keep the same product/theme shown in evidence B019-188.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-188",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\personalized-soccer-tournament-trophy-rug-0bdc87e8ab-0bdc87e8ab.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-soccer-tournament-trophy-rug-0bdc87e8ab-0bdc87e8ab: customer copy is limited to visible/product facts such as 'rectangular dark blue soccer rug with Statue of Liberty, gold trophy, soccer ball, US flag s...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-188",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\personalized-soccer-tournament-trophy-rug-0bdc87e8ab-0bdc87e8ab.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-soccer-tournament-trophy-rug-0bdc87e8ab-0bdc87e8ab: primary keyword 'Statue of Liberty soccer rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-188",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\personalized-soccer-tournament-trophy-rug-0bdc87e8ab-0bdc87e8ab.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-soccer-tournament-trophy-rug-0bdc87e8ab-0bdc87e8ab: proposed copy targets the same search intent as 'Statue of Liberty soccer rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-188",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\personalized-soccer-tournament-trophy-rug-0bdc87e8ab-0bdc87e8ab.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-soccer-tournament-trophy-rug-0bdc87e8ab-0bdc87e8ab: current support is 'Search results and marketplace listings show demand around soccer championship rugs, 2026 so...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-188",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\personalized-soccer-tournament-trophy-rug-0bdc87e8ab-0bdc87e8ab.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-soccer-tournament-trophy-rug-0bdc87e8ab-0bdc87e8ab: title 'Statue of Liberty Soccer Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-188",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\personalized-soccer-tournament-trophy-rug-0bdc87e8ab-0bdc87e8ab.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-soccer-tournament-trophy-rug-0bdc87e8ab-0bdc87e8ab: meta title 'Statue of Liberty Soccer Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-188",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\personalized-soccer-tournament-trophy-rug-0bdc87e8ab-0bdc87e8ab.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-soccer-tournament-trophy-rug-0bdc87e8ab-0bdc87e8ab: meta 'Create a Statue of Liberty soccer rug with the Statue of Liberty, a soccer tournament theme, and USA artwork for...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-188",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\personalized-soccer-tournament-trophy-rug-0bdc87e8ab-0bdc87e8ab.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-soccer-tournament-trophy-rug-0bdc87e8ab-0bdc87e8ab: description begins 'Create a Statue of Liberty soccer rug with the Statue of Liberty, a soccer tournament theme, and USA artwork for...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-188",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\personalized-soccer-tournament-trophy-rug-0bdc87e8ab-0bdc87e8ab.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-soccer-tournament-trophy-rug-0bdc87e8ab-0bdc87e8ab: workbook row, evidence id B019-188, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-188",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\personalized-soccer-tournament-trophy-rug-0bdc87e8ab-0bdc87e8ab.html"
+        ]
+      }
+    },
+    "custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10: proposed title 'Personalized Octopus Tentacle Rug' and description 'Create a personalized octopus tentacle rug with an octopus tentacle shape with ocean-in...' keep the same product/theme shown in evidence B019-189.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-189",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10: customer copy is limited to visible/product facts such as 'custom-shaped octopus rug with red body, curled tentacles, blue wave accents, yellow eye, ro...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-189",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10: primary keyword 'personalized octopus tentacle rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-189",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10: proposed copy targets the same search intent as 'personalized octopus tentacle rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-189",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10: current support is 'Search results and marketplace listings show demand around soccer championship rugs, 2026 so...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-189",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10: title 'Personalized Octopus Tentacle Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-189",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10: meta title 'Personalized Octopus Tentacle Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-189",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10: meta 'Create a personalized octopus tentacle rug with an octopus tentacle shape with ocean-inspired artwork for a bedr...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-189",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10: description begins 'Create a personalized octopus tentacle rug with an octopus tentacle shape with ocean-inspired artwork for a bedr...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-189",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10: workbook row, evidence id B019-189, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-189",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\custom-octopus-shaped-area-rug-a96ca58e10-a96ca58e10.html"
+        ]
+      }
+    },
+    "wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644: proposed title 'I Am Feelings Wheel Rug' and description 'Create a I Am feelings wheel rug with an I Am feelings wheel with expressive emotion fa...' keep the same product/theme shown in evidence B019-190.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-190",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644: customer copy is limited to visible/product facts such as 'round colorful feelings rug with I Am center and affirmation words including loved, kind, br...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-190",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644: primary keyword 'I Am feelings wheel rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-190",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644: proposed copy targets the same search intent as 'I Am feelings wheel rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-190",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644: current support is 'Search results and marketplace listings show demand around soccer championship rugs, 2026 so...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-190",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644: title 'I Am Feelings Wheel Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-190",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644: meta title 'I Am Feelings Wheel Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-190",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644: meta 'Create a I Am feelings wheel rug with an I Am feelings wheel with expressive emotion faces for a classroom, coun...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-190",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644: description begins 'Create a I Am feelings wheel rug with an I Am feelings wheel with expressive emotion faces for a classroom, coun...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-190",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644: workbook row, evidence id B019-190, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R095\\SEO_Product_Optimization_revision_R095.xlsx",
+          "product_evidence:B019-190",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B019_pages\\wheel-of-feelings-and-emotions-round-rug-0fc607e644-0fc607e644.html"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "R094",
+  "batch_id": "B018",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+  "source_workbook_sha256": "10da08db644adf14e4264c127d374ed7f62b0e34bc14f506a4c56d99a3239678",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-R094-CRITERIA-01",
+    "reviewed_at": "2026-09-09T17:20:20+07:00"
+  },
+  "reviewed_at": "2026-09-09T17:20:20+07:00",
+  "products": {
+    "personalized-family-couple-doormat-custom-couple-husband-design-04": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-family-couple-doormat-custom-couple-husband-design-04: proposed title 'Funny Couple Welcome Doormat' and description 'Create a funny couple welcome doormat with a playful couple message with personalized n...' keep the same product/theme shown in evidence B018-171.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-171",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-design-04.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-family-couple-doormat-custom-couple-husband-design-04: customer copy is limited to visible/product facts such as 'blue and tan rectangular doormat with cartoon couple portraits, quote about a lovely lady an...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-171",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-design-04.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-family-couple-doormat-custom-couple-husband-design-04: primary keyword 'funny couple welcome doormat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-171",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-design-04.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-family-couple-doormat-custom-couple-husband-design-04: proposed copy targets the same search intent as 'funny couple welcome doormat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-171",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-design-04.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-family-couple-doormat-custom-couple-husband-design-04: current support is 'Current marketplace results support personalized couple doormats, family name entry mats, AB...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-171",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-design-04.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-family-couple-doormat-custom-couple-husband-design-04: title 'Funny Couple Welcome Doormat' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-171",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-design-04.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-family-couple-doormat-custom-couple-husband-design-04: meta title 'Funny Couple Welcome Doormat' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-171",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-design-04.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-family-couple-doormat-custom-couple-husband-design-04: meta 'Create a funny couple welcome doormat with a playful couple message with personalized names for a front door, en...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-171",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-design-04.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-family-couple-doormat-custom-couple-husband-design-04: description begins 'Create a funny couple welcome doormat with a playful couple message with personalized names for a front door, en...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-171",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-design-04.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-family-couple-doormat-custom-couple-husband-design-04: workbook row, evidence id B018-171, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-171",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-design-04.html"
+        ]
+      }
+    },
+    "personalized-family-couple-doormat-custom-couple-husband-design-02": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-family-couple-doormat-custom-couple-husband-design-02: proposed title 'Personalized Family Couple Doormat' and description 'Create a personalized family couple doormat with a cheerful family-and-animals design w...' keep the same product/theme shown in evidence B018-172.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-172",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-design-02.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-family-couple-doormat-custom-couple-husband-design-02: customer copy is limited to visible/product facts such as 'brown rectangular personalized doormat with cartoon couple seated together, welcome text, ho...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-172",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-design-02.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-family-couple-doormat-custom-couple-husband-design-02: primary keyword 'personalized family couple doormat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-172",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-design-02.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-family-couple-doormat-custom-couple-husband-design-02: proposed copy targets the same search intent as 'personalized family couple doormat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-172",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-design-02.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-family-couple-doormat-custom-couple-husband-design-02: current support is 'Current marketplace results support personalized couple doormats, family name entry mats, AB...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-172",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-design-02.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-family-couple-doormat-custom-couple-husband-design-02: title 'Personalized Family Couple Doormat' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-172",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-design-02.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-family-couple-doormat-custom-couple-husband-design-02: meta title 'Personalized Family Couple Doormat' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-172",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-design-02.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-family-couple-doormat-custom-couple-husband-design-02: meta 'Create a personalized family couple doormat with a cheerful family-and-animals design with personalized couple d...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-172",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-design-02.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-family-couple-doormat-custom-couple-husband-design-02: description begins 'Create a personalized family couple doormat with a cheerful family-and-animals design with personalized couple d...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-172",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-design-02.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-family-couple-doormat-custom-couple-husband-design-02: workbook row, evidence id B018-172, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-172",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-design-02.html"
+        ]
+      }
+    },
+    "personalized-family-couple-doormat-custom-couple-husband-wife-doormat": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-family-couple-doormat-custom-couple-husband-wife-doormat: proposed title 'Personalized Couple Welcome Mat' and description 'Create a personalized couple welcome mat with a personalized couple welcome message for...' keep the same product/theme shown in evidence B018-173.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-173",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-wife-doormat.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-family-couple-doormat-custom-couple-husband-wife-doormat: customer copy is limited to visible/product facts such as 'navy and tan welcome doormat with hearts, cartoon husband and wife portraits, custom names,...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-173",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-wife-doormat.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-family-couple-doormat-custom-couple-husband-wife-doormat: primary keyword 'personalized couple welcome mat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-173",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-wife-doormat.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-family-couple-doormat-custom-couple-husband-wife-doormat: proposed copy targets the same search intent as 'personalized couple welcome mat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-173",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-wife-doormat.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-family-couple-doormat-custom-couple-husband-wife-doormat: current support is 'Current marketplace results support personalized couple doormats, family name entry mats, AB...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-173",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-wife-doormat.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-family-couple-doormat-custom-couple-husband-wife-doormat: title 'Personalized Couple Welcome Mat' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-173",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-wife-doormat.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-family-couple-doormat-custom-couple-husband-wife-doormat: meta title 'Personalized Couple Welcome Mat' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-173",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-wife-doormat.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-family-couple-doormat-custom-couple-husband-wife-doormat: meta 'Create a personalized couple welcome mat with a personalized couple welcome message for a front door, porch, or...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-173",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-wife-doormat.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-family-couple-doormat-custom-couple-husband-wife-doormat: description begins 'Create a personalized couple welcome mat with a personalized couple welcome message for a front door, porch, or...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-173",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-wife-doormat.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-family-couple-doormat-custom-couple-husband-wife-doormat: workbook row, evidence id B018-173, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-173",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\personalized-family-couple-doormat-custom-couple-husband-wife-doormat.html"
+        ]
+      }
+    },
+    "abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46: proposed title 'ABC Animal Kids Play Rug' and description 'Create a ABC animal kids play rug with an animal alphabet pattern with letters, shapes,...' keep the same product/theme shown in evidence B018-174.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-174",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46: customer copy is limited to visible/product facts such as 'large colorful rectangular kids rug with A-Z animal letter blocks, numbers, colors, shapes a...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-174",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46: primary keyword 'ABC animal kids play rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-174",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46: proposed copy targets the same search intent as 'ABC animal kids play rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-174",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46: current support is 'Current marketplace results support personalized couple doormats, family name entry mats, AB...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-174",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46: title 'ABC Animal Kids Play Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-174",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46: meta title 'ABC Animal Kids Play Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-174",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46: meta 'Create a ABC animal kids play rug with an animal alphabet pattern with letters, shapes, and numbers for a playro...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-174",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46: description begins 'Create a ABC animal kids play rug with an animal alphabet pattern with letters, shapes, and numbers for a playro...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-174",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46: workbook row, evidence id B018-174, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-174",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\abc-kids-play-rug-non-slip-classroom-carpet-07621e8f46-07621e8f46.html"
+        ]
+      }
+    },
+    "custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4: proposed title 'All Feelings Welcome Classroom Rug' and description 'Create a all feelings welcome classroom rug with a feelings chart with welcoming wordin...' keep the same product/theme shown in evidence B018-175.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-175",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4: customer copy is limited to visible/product facts such as 'cream rectangular feelings rug with all feelings are welcome here text, rainbow graphics, la...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-175",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4: primary keyword 'all feelings welcome classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-175",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4: proposed copy targets the same search intent as 'all feelings welcome classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-175",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4: current support is 'Current marketplace results support personalized couple doormats, family name entry mats, AB...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-175",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4: title 'All Feelings Welcome Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-175",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4: meta title 'All Feelings Welcome Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-175",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4: meta 'Create a all feelings welcome classroom rug with a feelings chart with welcoming wording and emotion-focused art...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-175",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4: description begins 'Create a all feelings welcome classroom rug with a feelings chart with welcoming wording and emotion-focused art...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-175",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4: workbook row, evidence id B018-175, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-175",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-feelings-chart-classroom-welcome-mat-45af89adb4-45af89adb4.html"
+        ]
+      }
+    },
+    "custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9: proposed title 'Hundred Acre Wood Map Kids Rug' and description 'Create a Hundred Acre Wood map kids rug with a Hundred Acre Wood map design with storyb...' keep the same product/theme shown in evidence B018-176.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-176",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9: customer copy is limited to visible/product facts such as 'cream rectangular storybook map rug with illustrated forest, paths, labeled locations, compa...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-176",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9: primary keyword 'Hundred Acre Wood map kids rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-176",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9: proposed copy targets the same search intent as 'Hundred Acre Wood map kids rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-176",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9: current support is 'Current marketplace results support personalized couple doormats, family name entry mats, AB...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-176",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9: title 'Hundred Acre Wood Map Kids Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-176",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9: meta title 'Hundred Acre Wood Map Kids Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-176",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9: meta 'Create a Hundred Acre Wood map kids rug with a Hundred Acre Wood map design with storybook details for a bedroom...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-176",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9: description begins 'Create a Hundred Acre Wood map kids rug with a Hundred Acre Wood map design with storybook details for a bedroom...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-176",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9: workbook row, evidence id B018-176, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-176",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-hundred-acre-wood-map-welcome-mat-23388cf0b9-23388cf0b9.html"
+        ]
+      }
+    },
+    "educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c: proposed title 'Alphabet Handwriting Classroom Rug' and description 'Create a alphabet handwriting classroom rug with an alphabet and handwriting sampler la...' keep the same product/theme shown in evidence B018-177.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-177",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c: customer copy is limited to visible/product facts such as 'black rectangular alphabet rug with colorful uppercase handwriting-style letters A-Z, school...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-177",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c: primary keyword 'alphabet handwriting classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-177",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c: proposed copy targets the same search intent as 'alphabet handwriting classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-177",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c: current support is 'Current marketplace results support personalized couple doormats, family name entry mats, AB...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-177",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c: title 'Alphabet Handwriting Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-177",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c: meta title 'Alphabet Handwriting Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-177",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c: meta 'Create a alphabet handwriting classroom rug with an alphabet and handwriting sampler layout for preschool rooms,...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-177",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c: description begins 'Create a alphabet handwriting classroom rug with an alphabet and handwriting sampler layout for preschool rooms,...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-177",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c: workbook row, evidence id B018-177, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-177",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\educational-classroom-rug-alphabet-handwriting-samplers-17817a1b4c-17817a1b4c.html"
+        ]
+      }
+    },
+    "colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9: proposed title 'Feelings Zone Classroom Rug' and description 'Create a feelings zone classroom rug with colorful feelings zones with emotion prompts...' keep the same product/theme shown in evidence B018-178.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-178",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9: customer copy is limited to visible/product facts such as 'white rectangular classroom rug with What Zone Are You In text, blue green yellow and red em...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-178",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9: primary keyword 'feelings zone classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-178",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9: proposed copy targets the same search intent as 'feelings zone classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-178",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9: current support is 'Current marketplace results support personalized couple doormats, family name entry mats, AB...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-178",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9: title 'Feelings Zone Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-178",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9: meta title 'Feelings Zone Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-178",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9: meta 'Create a feelings zone classroom rug with colorful feelings zones with emotion prompts for a classroom, playroom...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-178",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9: description begins 'Create a feelings zone classroom rug with colorful feelings zones with emotion prompts for a classroom, playroom...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-178",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9: workbook row, evidence id B018-178, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-178",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\colorful-classroom-rug-for-kids-and-teachers-940ca1aee9-940ca1aee9.html"
+        ]
+      }
+    },
+    "custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4: proposed title 'Soccer Host Flags Trophy Rug' and description 'Create a soccer host flags trophy rug with soccer host flags, a championship trophy, an...' keep the same product/theme shown in evidence B018-179.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-179",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4: customer copy is limited to visible/product facts such as 'round cream soccer rug with trophy, soccer ball, Canada USA Mexico text, united as one sloga...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-179",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4: primary keyword 'soccer host flags trophy rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-179",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4: proposed copy targets the same search intent as 'soccer host flags trophy rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-179",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4: current support is 'Current marketplace results support personalized couple doormats, family name entry mats, AB...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-179",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4: title 'Soccer Host Flags Trophy Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-179",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4: meta title 'Soccer Host Flags Trophy Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-179",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4: meta 'Create a soccer host flags trophy rug with soccer host flags, a championship trophy, and a round sports design f...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-179",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4: description begins 'Create a soccer host flags trophy rug with soccer host flags, a championship trophy, and a round sports design f...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-179",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4: workbook row, evidence id B018-179, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-179",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-soccer-championship-trophy-round-rug-f7ac8bf3d4-f7ac8bf3d4.html"
+        ]
+      }
+    },
+    "custom-soccer-championship-round-rug-6b6ea4fbf7": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-soccer-championship-round-rug-6b6ea4fbf7: proposed title 'Soccer Tournament Trophy Rug' and description 'Create a soccer tournament trophy rug with a soccer tournament trophy and championship-...' keep the same product/theme shown in evidence B018-180.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-180",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-soccer-championship-round-rug-6b6ea4fbf7.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-soccer-championship-round-rug-6b6ea4fbf7: customer copy is limited to visible/product facts such as 'round colorful soccer rug with large trophy, soccer ball, scoreboard, stadium lights, countr...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-180",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-soccer-championship-round-rug-6b6ea4fbf7.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-soccer-championship-round-rug-6b6ea4fbf7: primary keyword 'soccer tournament trophy rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-180",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-soccer-championship-round-rug-6b6ea4fbf7.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-soccer-championship-round-rug-6b6ea4fbf7: proposed copy targets the same search intent as 'soccer tournament trophy rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-180",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-soccer-championship-round-rug-6b6ea4fbf7.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-soccer-championship-round-rug-6b6ea4fbf7: current support is 'Current marketplace results support personalized couple doormats, family name entry mats, AB...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-180",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-soccer-championship-round-rug-6b6ea4fbf7.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-soccer-championship-round-rug-6b6ea4fbf7: title 'Soccer Tournament Trophy Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-180",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-soccer-championship-round-rug-6b6ea4fbf7.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-soccer-championship-round-rug-6b6ea4fbf7: meta title 'Soccer Tournament Trophy Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-180",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-soccer-championship-round-rug-6b6ea4fbf7.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-soccer-championship-round-rug-6b6ea4fbf7: meta 'Create a soccer tournament trophy rug with a soccer tournament trophy and championship-themed artwork for a bedr...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-180",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-soccer-championship-round-rug-6b6ea4fbf7.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-soccer-championship-round-rug-6b6ea4fbf7: description begins 'Create a soccer tournament trophy rug with a soccer tournament trophy and championship-themed artwork for a bedr...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-180",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-soccer-championship-round-rug-6b6ea4fbf7.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-soccer-championship-round-rug-6b6ea4fbf7: workbook row, evidence id B018-180, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R094\\SEO_Product_Optimization_revision_R094.xlsx",
+          "product_evidence:B018-180",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B018_pages\\custom-soccer-championship-round-rug-6b6ea4fbf7.html"
+        ]
+      }
+    }
+  }
+}

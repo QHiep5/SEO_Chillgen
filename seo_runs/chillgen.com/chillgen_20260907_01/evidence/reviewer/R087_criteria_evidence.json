@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "R087",
+  "batch_id": "B011",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+  "source_workbook_sha256": "5b63468589b240af6edbcd9bb208f798e764591f583eb4e35c89080dbb577a82",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-R087-CRITERIA-01",
+    "reviewed_at": "2026-09-09T13:56:44+07:00"
+  },
+  "reviewed_at": "2026-09-09T13:56:44+07:00",
+  "products": {
+    "personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat: proposed title 'Personalized Classroom Welcome Rug' and description 'Customize a classroom welcome rug with teacher-name text, colorful affirmations, school...' keep the same product/theme shown in evidence B011-101.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-101",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat: customer copy is limited to visible/product facts such as 'black classroom rug with In This Classroom You Are wording, teacher-name classroom strip, co...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-101",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat: primary keyword 'personalized classroom welcome rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-101",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat: proposed copy targets the same search intent as 'personalized classroom welcome rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-101",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat: current support is 'SERP_ONLY: public marketplace/category pages show personalized teacher classroom rugs, back-...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-101",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat: title 'Personalized Classroom Welcome Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-101",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat: meta title 'Personalized Classroom Welcome Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-101",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat: meta 'Customize a classroom welcome rug with teacher-name text, colorful affirmations, school icons, and a warm back-t...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-101",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat: description begins 'Customize a classroom welcome rug with teacher-name text, colorful affirmations, school icons, and a warm back-t...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-101",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat: workbook row, evidence id B011-101, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-101",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-welcome-mat.html"
+        ]
+      }
+    },
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-100": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teacher-classroom-rug-custom-back-to-school-design-100: proposed title 'Personalized It's Okay Classroom Rug' and description 'Customize an It's Okay classroom rug with teacher-name text, ocean animals, and reassur...' keep the same product/theme shown in evidence B011-102.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-102",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-100.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teacher-classroom-rug-custom-back-to-school-design-100: customer copy is limited to visible/product facts such as 'aqua ocean classroom rug with It's Okay To wording, sea animals and coral, teacher-name clas...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-102",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-100.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teacher-classroom-rug-custom-back-to-school-design-100: primary keyword 'personalized it's okay classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-102",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-100.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teacher-classroom-rug-custom-back-to-school-design-100: proposed copy targets the same search intent as 'personalized it's okay classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-102",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-100.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teacher-classroom-rug-custom-back-to-school-design-100: current support is 'SERP_ONLY: public marketplace/category pages show personalized teacher classroom rugs, back-...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-102",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-100.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teacher-classroom-rug-custom-back-to-school-design-100: title 'Personalized It's Okay Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-102",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-100.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teacher-classroom-rug-custom-back-to-school-design-100: meta title 'Personalized It's Okay Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-102",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-100.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teacher-classroom-rug-custom-back-to-school-design-100: meta 'Customize an It's Okay classroom rug with teacher-name text, ocean animals, and reassurance prompts for SEL clas...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-102",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-100.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teacher-classroom-rug-custom-back-to-school-design-100: description begins 'Customize an It's Okay classroom rug with teacher-name text, ocean animals, and reassurance prompts. The design...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-102",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-100.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teacher-classroom-rug-custom-back-to-school-design-100: workbook row, evidence id B011-102, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-102",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-100.html"
+        ]
+      }
+    },
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-101": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teacher-classroom-rug-custom-back-to-school-design-101: proposed title 'Personalized Neon Classroom Welcome Rug' and description 'Customize a neon classroom welcome rug with teacher-name text, chalkboard styling, scho...' keep the same product/theme shown in evidence B011-103.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-103",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-101.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teacher-classroom-rug-custom-back-to-school-design-101: customer copy is limited to visible/product facts such as 'black chalkboard-style rug with neon colors, Welcome to teacher-name classroom wording, scho...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-103",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-101.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teacher-classroom-rug-custom-back-to-school-design-101: primary keyword 'personalized neon classroom welcome rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-103",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-101.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teacher-classroom-rug-custom-back-to-school-design-101: proposed copy targets the same search intent as 'personalized neon classroom welcome rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-103",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-101.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teacher-classroom-rug-custom-back-to-school-design-101: current support is 'SERP_ONLY: public marketplace/category pages show personalized teacher classroom rugs, back-...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-103",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-101.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teacher-classroom-rug-custom-back-to-school-design-101: title 'Personalized Neon Classroom Welcome Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-103",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-101.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teacher-classroom-rug-custom-back-to-school-design-101: meta title 'Personalized Neon Classroom Welcome Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-103",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-101.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teacher-classroom-rug-custom-back-to-school-design-101: meta 'Customize a neon classroom welcome rug with teacher-name text, chalkboard styling, school icons, and bright back...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-103",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-101.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teacher-classroom-rug-custom-back-to-school-design-101: description begins 'Customize a neon classroom welcome rug with teacher-name text, chalkboard styling, school icons, and bright back...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-103",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-101.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teacher-classroom-rug-custom-back-to-school-design-101: workbook row, evidence id B011-103, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-103",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-101.html"
+        ]
+      }
+    },
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-102": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teacher-classroom-rug-custom-back-to-school-design-102: proposed title 'Personalized Pastel Kindness Rug' and description 'Customize a pastel kindness classroom rug with teacher-name text, bows, daisies, crayon...' keep the same product/theme shown in evidence B011-104.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-104",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-102.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teacher-classroom-rug-custom-back-to-school-design-102: customer copy is limited to visible/product facts such as 'pastel classroom rug with aqua checkered border, pink bows, daisies, teacher-name classroom...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-104",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-102.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teacher-classroom-rug-custom-back-to-school-design-102: primary keyword 'personalized pastel kindness rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-104",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-102.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teacher-classroom-rug-custom-back-to-school-design-102: proposed copy targets the same search intent as 'personalized pastel kindness rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-104",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-102.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teacher-classroom-rug-custom-back-to-school-design-102: current support is 'SERP_ONLY: public marketplace/category pages show personalized teacher classroom rugs, back-...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-104",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-102.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teacher-classroom-rug-custom-back-to-school-design-102: title 'Personalized Pastel Kindness Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-104",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-102.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teacher-classroom-rug-custom-back-to-school-design-102: meta title 'Personalized Pastel Kindness Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-104",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-102.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teacher-classroom-rug-custom-back-to-school-design-102: meta 'Customize a pastel kindness classroom rug with teacher-name text, bows, daisies, crayon affirmations, and gentle...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-104",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-102.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teacher-classroom-rug-custom-back-to-school-design-102: description begins 'Customize a pastel kindness classroom rug with teacher-name text, bows, daisies, crayon affirmations, and gentle...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-104",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-102.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teacher-classroom-rug-custom-back-to-school-design-102: workbook row, evidence id B011-104, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-104",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-102.html"
+        ]
+      }
+    },
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-103": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teacher-classroom-rug-custom-back-to-school-design-103: proposed title 'Personalized Rainbow Classroom Rug' and description 'Customize a rainbow classroom welcome rug with teacher-name text, chalkboard styling, s...' keep the same product/theme shown in evidence B011-105.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-105",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-103.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teacher-classroom-rug-custom-back-to-school-design-103: customer copy is limited to visible/product facts such as 'black chalkboard-style classroom rug with Welcome to teacher-name classroom wording, rainbow...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-105",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-103.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teacher-classroom-rug-custom-back-to-school-design-103: primary keyword 'personalized rainbow classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-105",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-103.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teacher-classroom-rug-custom-back-to-school-design-103: proposed copy targets the same search intent as 'personalized rainbow classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-105",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-103.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teacher-classroom-rug-custom-back-to-school-design-103: current support is 'SERP_ONLY: public marketplace/category pages show personalized teacher classroom rugs, back-...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-105",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-103.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teacher-classroom-rug-custom-back-to-school-design-103: title 'Personalized Rainbow Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-105",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-103.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teacher-classroom-rug-custom-back-to-school-design-103: meta title 'Personalized Rainbow Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-105",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-103.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teacher-classroom-rug-custom-back-to-school-design-103: meta 'Customize a rainbow classroom welcome rug with teacher-name text, chalkboard styling, school icons, and colorful...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-105",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-103.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teacher-classroom-rug-custom-back-to-school-design-103: description begins 'Customize a rainbow classroom welcome rug with teacher-name text, chalkboard styling, school icons, and colorful...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-105",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-103.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teacher-classroom-rug-custom-back-to-school-design-103: workbook row, evidence id B011-105, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-105",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-103.html"
+        ]
+      }
+    },
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-104": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teacher-classroom-rug-custom-back-to-school-design-104: proposed title 'Personalized Teacher Welcome Rug' and description 'Customize a teacher welcome rug with classroom-name text, chalkboard style, bunting, ap...' keep the same product/theme shown in evidence B011-106.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-106",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-104.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teacher-classroom-rug-custom-back-to-school-design-104: customer copy is limited to visible/product facts such as 'black chalkboard-style rug with Welcome to teacher-name classroom wording, bunting flags, ap...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-106",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-104.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teacher-classroom-rug-custom-back-to-school-design-104: primary keyword 'personalized teacher welcome rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-106",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-104.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teacher-classroom-rug-custom-back-to-school-design-104: proposed copy targets the same search intent as 'personalized teacher welcome rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-106",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-104.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teacher-classroom-rug-custom-back-to-school-design-104: current support is 'SERP_ONLY: public marketplace/category pages show personalized teacher classroom rugs, back-...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-106",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-104.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teacher-classroom-rug-custom-back-to-school-design-104: title 'Personalized Teacher Welcome Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-106",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-104.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teacher-classroom-rug-custom-back-to-school-design-104: meta title 'Personalized Teacher Welcome Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-106",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-104.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teacher-classroom-rug-custom-back-to-school-design-104: meta 'Customize a teacher welcome rug with classroom-name text, chalkboard style, bunting, apple, books, hearts, and s...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-106",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-104.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teacher-classroom-rug-custom-back-to-school-design-104: description begins 'Customize a teacher welcome rug with classroom-name text, chalkboard style, bunting, apple, books, hearts, and s...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-106",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-104.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teacher-classroom-rug-custom-back-to-school-design-104: workbook row, evidence id B011-106, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-106",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-104.html"
+        ]
+      }
+    },
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-105": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teacher-classroom-rug-custom-back-to-school-design-105: proposed title 'Personalized Classroom Affirmation Rug' and description 'Customize a classroom affirmation rug with teacher-name text, doodle school icons, and...' keep the same product/theme shown in evidence B011-107.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-107",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-105.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teacher-classroom-rug-custom-back-to-school-design-105: customer copy is limited to visible/product facts such as 'black doodle-style classroom rug with central teacher-name classroom text, rainbow, flowers,...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-107",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-105.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teacher-classroom-rug-custom-back-to-school-design-105: primary keyword 'personalized classroom affirmation rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-107",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-105.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teacher-classroom-rug-custom-back-to-school-design-105: proposed copy targets the same search intent as 'personalized classroom affirmation rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-107",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-105.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teacher-classroom-rug-custom-back-to-school-design-105: current support is 'SERP_ONLY: public marketplace/category pages show personalized teacher classroom rugs, back-...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-107",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-105.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teacher-classroom-rug-custom-back-to-school-design-105: title 'Personalized Classroom Affirmation Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-107",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-105.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teacher-classroom-rug-custom-back-to-school-design-105: meta title 'Personalized Classroom Affirmation Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-107",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-105.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teacher-classroom-rug-custom-back-to-school-design-105: meta 'Customize a classroom affirmation rug with teacher-name text, doodle school icons, and grow, be kind, learn, and...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-107",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-105.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teacher-classroom-rug-custom-back-to-school-design-105: description begins 'Customize a classroom affirmation rug with teacher-name text, doodle school icons, and prompts such as grow, be...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-107",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-105.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teacher-classroom-rug-custom-back-to-school-design-105: workbook row, evidence id B011-107, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-107",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-105.html"
+        ]
+      }
+    },
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-106": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teacher-classroom-rug-custom-back-to-school-design-106: proposed title 'Personalized Crayon Classroom Rug' and description 'Customize a crayon classroom rug with teacher-name text, In This Classroom affirmations...' keep the same product/theme shown in evidence B011-108.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-108",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-106.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teacher-classroom-rug-custom-back-to-school-design-106: customer copy is limited to visible/product facts such as 'black classroom rug with In This Classroom You Are wording, large teacher name at bottom, co...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-108",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-106.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teacher-classroom-rug-custom-back-to-school-design-106: primary keyword 'personalized crayon classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-108",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-106.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teacher-classroom-rug-custom-back-to-school-design-106: proposed copy targets the same search intent as 'personalized crayon classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-108",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-106.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teacher-classroom-rug-custom-back-to-school-design-106: current support is 'SERP_ONLY: public marketplace/category pages show personalized teacher classroom rugs, back-...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-108",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-106.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teacher-classroom-rug-custom-back-to-school-design-106: title 'Personalized Crayon Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-108",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-106.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teacher-classroom-rug-custom-back-to-school-design-106: meta title 'Personalized Crayon Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-108",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-106.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teacher-classroom-rug-custom-back-to-school-design-106: meta 'Customize a crayon classroom rug with teacher-name text, In This Classroom affirmations, colorful words, and sch...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-108",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-106.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teacher-classroom-rug-custom-back-to-school-design-106: description begins 'Customize a crayon classroom rug with teacher-name text, In This Classroom affirmations, colorful words, and sch...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-108",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-106.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teacher-classroom-rug-custom-back-to-school-design-106: workbook row, evidence id B011-108, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-108",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-106.html"
+        ]
+      }
+    },
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-107": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teacher-classroom-rug-custom-back-to-school-design-107: proposed title 'Personalized Good Day For Learning Rug' and description 'Customize a good day for learning classroom rug with teacher-name text, chalk-style sch...' keep the same product/theme shown in evidence B011-109.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-109",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-107.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teacher-classroom-rug-custom-back-to-school-design-107: customer copy is limited to visible/product facts such as 'black chalk-style classroom rug with It's a good day for learning wording, large pencil teac...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-109",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-107.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teacher-classroom-rug-custom-back-to-school-design-107: primary keyword 'personalized good day for learning rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-109",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-107.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teacher-classroom-rug-custom-back-to-school-design-107: proposed copy targets the same search intent as 'personalized good day for learning rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-109",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-107.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teacher-classroom-rug-custom-back-to-school-design-107: current support is 'SERP_ONLY: public marketplace/category pages show personalized teacher classroom rugs, back-...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-109",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-107.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teacher-classroom-rug-custom-back-to-school-design-107: title 'Personalized Good Day For Learning Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-109",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-107.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teacher-classroom-rug-custom-back-to-school-design-107: meta title 'Personalized Good Day For Learning Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-109",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-107.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teacher-classroom-rug-custom-back-to-school-design-107: meta 'Customize a good day for learning classroom rug with teacher-name text, chalk-style school icons, rainbow art, a...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-109",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-107.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teacher-classroom-rug-custom-back-to-school-design-107: description begins 'Customize a good day for learning classroom rug with teacher-name text, chalk-style school icons, rainbow art, a...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-109",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-107.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teacher-classroom-rug-custom-back-to-school-design-107: workbook row, evidence id B011-109, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-109",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-107.html"
+        ]
+      }
+    },
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-108": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teacher-classroom-rug-custom-back-to-school-design-108: proposed title 'Personalized Rainbow Welcome Rug' and description 'Customize a rainbow welcome classroom rug with teacher-name text, colorful scallop bord...' keep the same product/theme shown in evidence B011-110.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-110",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-108.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teacher-classroom-rug-custom-back-to-school-design-108: customer copy is limited to visible/product facts such as 'bright white classroom rug with rainbow scallop border, Welcome to teacher-name classroom wo...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-110",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-108.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teacher-classroom-rug-custom-back-to-school-design-108: primary keyword 'personalized rainbow welcome rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-110",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-108.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teacher-classroom-rug-custom-back-to-school-design-108: proposed copy targets the same search intent as 'personalized rainbow welcome rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-110",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-108.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teacher-classroom-rug-custom-back-to-school-design-108: current support is 'SERP_ONLY: public marketplace/category pages show personalized teacher classroom rugs, back-...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-110",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-108.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teacher-classroom-rug-custom-back-to-school-design-108: title 'Personalized Rainbow Welcome Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-110",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-108.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teacher-classroom-rug-custom-back-to-school-design-108: meta title 'Personalized Rainbow Welcome Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-110",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-108.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teacher-classroom-rug-custom-back-to-school-design-108: meta 'Customize a rainbow welcome classroom rug with teacher-name text, colorful scallop border, school icons, and aff...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-110",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-108.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teacher-classroom-rug-custom-back-to-school-design-108: description begins 'Customize a rainbow welcome classroom rug with teacher-name text, colorful scallop border, school icons, and aff...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-110",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-108.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teacher-classroom-rug-custom-back-to-school-design-108: workbook row, evidence id B011-110, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R087\\SEO_Product_Optimization_revision_R087.xlsx",
+          "product_evidence:B011-110",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B011_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-108.html"
+        ]
+      }
+    }
+  }
+}
