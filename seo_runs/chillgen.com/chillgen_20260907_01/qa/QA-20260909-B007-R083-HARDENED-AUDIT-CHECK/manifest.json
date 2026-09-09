@@ -1,0 +1,29 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260909-B007-R083-HARDENED-AUDIT-CHECK",
+  "qa_batch_id": "REV_R083",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+  "source_workbook_sha256": "be572e1c52b16dec01f1fcd56291caf5776ba6f4c6fd16e9936dc40b556ce3b0",
+  "batch_product_keys": [
+    "personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04",
+    "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02",
+    "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01",
+    "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03",
+    "personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05",
+    "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01",
+    "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04",
+    "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08",
+    "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical",
+    "boat-rug-03-boat-rug-03-design-22"
+  ],
+  "status_counts": {
+    "QA_PASS": 10,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_PASS",
+  "manual_image_evidence": "seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\reviewer\\B007_R083_independent_fullres.json",
+  "manual_criteria_evidence": "seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\reviewer\\R083_criteria_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

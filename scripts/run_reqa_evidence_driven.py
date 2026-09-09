@@ -7,8 +7,10 @@ NOT_CHECKED and the product cannot become QA_PASS.
 from __future__ import annotations
 
 import argparse
+import csv
 import hashlib
 import json
+import os
 import re
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
@@ -18,13 +20,16 @@ from openpyxl import Workbook, load_workbook
 from openpyxl.styles import Alignment, Font, PatternFill
 from openpyxl.utils import get_column_letter
 
-BASE = Path("/Users/buiquanghuy/Documents/seo_chillgen")
+BASE = Path(os.environ.get("SEO_CHILLGEN_BASE", Path.cwd())).resolve()
 RUN_ID = "chillgen_20260907_01"
 SHOP_DOMAIN = "chillgen.com"
 TZ = timezone(timedelta(hours=7))
 WEIGHTS = {"P1": 15, "P2": 10, "K1": 10, "K2": 5, "K3": 5,
            "T1": 10, "T2": 5, "D1": 5, "D2": 10, "I1": 20, "E1": 5}
 IMAGE_WEIGHTS = {"IM1": 40, "IM2": 30, "IM3": 20, "IM4": 10}
+RUBRIC_PATH = BASE / "seo-prompt/chillgen/prompt_qa.md"
+REGISTRY_JSON = BASE / f"resutls/{SHOP_DOMAIN}/{RUN_ID}/qa/qa_run_registry.json"
+REGISTRY_CSV = BASE / f"resutls/{SHOP_DOMAIN}/{RUN_ID}/qa/qa_run_registry.csv"
 INTERNAL_PATTERNS = [
     "seo copy avoids", "unless confirmed during admin/export review",
     "admin/export review", "surface-performance claims", "qa note",
@@ -61,6 +66,15 @@ def sha256(path: Path) -> str:
         for chunk in iter(lambda: f.read(1024 * 1024), b""):
             h.update(chunk)
     return h.hexdigest()
+
+
+def hash_text(value: str) -> str:
+    return hashlib.sha256(value.encode("utf-8")).hexdigest()
+
+
+def scope_hash(keys) -> str:
+    payload = json.dumps(list(keys), ensure_ascii=False, separators=(",", ":"))
+    return hash_text(payload)
 
 
 def rows(ws):
@@ -104,6 +118,39 @@ def finish(ws):
         ws.column_dimensions[get_column_letter(i)].width = max(12, width)
 
 
+def update_registry(record):
+    REGISTRY_JSON.parent.mkdir(parents=True, exist_ok=True)
+    if REGISTRY_JSON.exists():
+        registry = json.loads(REGISTRY_JSON.read_text(encoding="utf-8"))
+    else:
+        registry = {"schema_version": "qa-run-registry-v1", "runs": []}
+    runs = registry.setdefault("runs", [])
+    if any(r.get("qa_run_id") == record["qa_run_id"] for r in runs):
+        raise RuntimeError(f"Duplicate qa_run_id already exists in registry: {record['qa_run_id']}")
+    if record.get("canonical") is True:
+        for row in runs:
+            if (
+                row.get("batch_id") == record.get("batch_id") and
+                row.get("revision_id") == record.get("revision_id") and
+                row.get("canonical") is True
+            ):
+                row["canonical"] = False
+                row["superseded_by"] = record["qa_run_id"]
+                row["registry_status"] = "SUPERSEDED"
+    runs.append(record)
+    REGISTRY_JSON.write_text(json.dumps(registry, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    fields = [
+        "qa_run_id", "batch_id", "revision_id", "parent_run_id", "source_hash",
+        "rubric_hash", "scope_hash", "product_count", "status", "canonical",
+        "supersedes", "superseded_by", "registry_status", "created_at",
+    ]
+    with REGISTRY_CSV.open("w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fields)
+        writer.writeheader()
+        for row in runs:
+            writer.writerow({field: row.get(field, "") for field in fields})
+
+
 def rating_row(rating, weight):
     if rating == "FULL":
         return weight
@@ -120,9 +167,9 @@ def load_manual_image_evidence(path: Path | None):
 
 def load_evidence_bundle(path: Path | None):
     if not path or not path.exists():
-        return {}, {}
+        return {}, {}, {}
     data = json.loads(path.read_text(encoding="utf-8"))
-    return data.get("images", {}), {str(x.get("handle")): x for x in data.get("products", [])}
+    return data.get("images", {}), {str(x.get("handle")): x for x in data.get("products", [])}, data
 
 def load_manual_criteria_evidence(path: Path | None):
     """Load independent per-product rubric ratings.
@@ -136,15 +183,48 @@ def load_manual_criteria_evidence(path: Path | None):
     data = json.loads(path.read_text(encoding="utf-8"))
     return data.get("products", data)
 
-def validate_criteria_document(path: Path | None, scope):
+def evidence_doc_metadata_valid(data, *, revision, source_hash, expected_method):
+    """Top-level provenance required for audit-ready re-QA evidence."""
+    if not isinstance(data, dict):
+        return False
+    reviewer = data.get("reviewer") if isinstance(data.get("reviewer"), dict) else {}
+    reviewer_id = reviewer.get("reviewer_id") or data.get("reviewer_id")
+    reviewed_at = reviewer.get("reviewed_at") or data.get("reviewed_at")
+    return (
+        data.get("revision") == revision and
+        bool(str(data.get("batch_id") or "").strip()) and
+        data.get("review_method") == expected_method and
+        bool(str(reviewer_id or "").strip()) and
+        bool(str(reviewed_at or "").strip()) and
+        data.get("source_workbook_sha256") == source_hash
+    )
+
+
+def reason_substantive(reason: str, handle: str) -> bool:
+    """Reject generic evidence statements masquerading as product QA."""
+    text = str(reason or "").strip()
+    lowered = text.lower()
+    boilerplate = (
+        "compared the proposed field with the locked workbook, page snapshot, and product evidence",
+        "this finding is specific to the scoped record",
+    )
+    if len(text) < 90 or any(x in lowered for x in boilerplate):
+        return False
+    handle_terms = [x for x in re.split(r"[-_\s]+", handle.lower()) if len(x) >= 4]
+    return not handle_terms or any(term in lowered for term in handle_terms[:8])
+
+
+def validate_criteria_document(path: Path | None, scope, revision, source_hash):
     """Validate reviewer declaration and reject copied/placeholder reviews."""
     if not path or not path.exists():
         return {}, set()
     data = json.loads(path.read_text(encoding="utf-8"))
-    reviewer = data.get("reviewer", {})
-    if (data.get("review_method") != "INDEPENDENT_PRODUCT_REVIEW" or
-            not str(reviewer.get("reviewer_id") or "").strip() or
-            not str(reviewer.get("reviewed_at") or "").strip()):
+    if not evidence_doc_metadata_valid(
+        data,
+        revision=revision,
+        source_hash=source_hash,
+        expected_method="INDEPENDENT_PRODUCT_REVIEW",
+    ):
         return data.get("products", {}), set(scope)
     products = data.get("products", {})
     invalid = set()
@@ -156,7 +236,7 @@ def validate_criteria_document(path: Path | None, scope):
             reason = str(review.get("reason") or "").strip()
             refs = review.get("evidence_refs")
             valid_refs = isinstance(refs, list) and len(refs) >= 2 and all(isinstance(x, str) and x.strip() for x in refs)
-            if len(reason) < 40 or not valid_refs:
+            if not reason_substantive(reason, handle) or not valid_refs:
                 invalid.add(handle)
             key = (cid, reason.lower())
             if reason:
@@ -199,6 +279,19 @@ def image_evidence_valid(record):
     return bool(local) and Path(str(local)).exists()
 
 
+def validate_image_document(data, *, revision, source_hash, scope):
+    if not data:
+        return set(scope)
+    if not evidence_doc_metadata_valid(
+        data,
+        revision=revision,
+        source_hash=source_hash,
+        expected_method="FULL_RESOLUTION_INDIVIDUAL_IMAGE_REVIEW",
+    ):
+        return set(scope)
+    return set()
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--revision", required=True, help="Revision id, e.g. R001")
@@ -208,6 +301,10 @@ def main():
     ap.add_argument("--manual-criteria-evidence", type=Path,
                     help="JSON with independently reviewed P1..E1 ratings")
     ap.add_argument("--qa-run-id", help="Unique QA run id; defaults to a timestamped id to preserve history")
+    ap.add_argument("--parent-run-id", default="", help="Prior QA run superseded or continued by this run")
+    ap.add_argument("--supersedes", default="", help="Comma-separated prior QA run ids superseded by this run")
+    ap.add_argument("--canonical", action="store_true", help="Register this run as the canonical run for its batch/revision")
+    ap.add_argument("--allow-nonstandard-scope", action="store_true", help="Allow a scope other than 10 products for last-batch or targeted diagnostics")
     args = ap.parse_args()
     revision = args.revision.upper()
     if not re.fullmatch(r"[RB]\d{3}", revision):
@@ -223,12 +320,25 @@ def main():
     work_dir.mkdir(parents=True, exist_ok=True)
     checked_at = datetime.now(TZ).replace(microsecond=0).isoformat()
     source_hash = sha256(source)
+    rubric_hash = sha256(RUBRIC_PATH) if RUBRIC_PATH.exists() else ""
 
     wb = load_workbook(source, read_only=True, data_only=True)
     revlog = rows(wb["Revision_Log"])
     keys = [val(r, "handle") for r in revlog if val(r, "revision_batch_id") == revision]
     if not keys:
         raise RuntimeError(f"No Revision_Log scope found for {revision}")
+    batch_ids = sorted({val(r, "batch_id") for r in revlog if val(r, "revision_batch_id") == revision and val(r, "batch_id")})
+    batch_id = batch_ids[0] if len(batch_ids) == 1 else ""
+    if len(batch_ids) != 1:
+        raise RuntimeError(f"Revision scope must map to exactly one batch_id; got {batch_ids}")
+    if len(keys) != len(set(keys)):
+        raise RuntimeError(f"Duplicate product keys in Revision_Log scope for {revision}")
+    if len(keys) != 10 and not args.allow_nonstandard_scope:
+        raise RuntimeError(
+            f"Nonstandard scope for {revision}/{batch_id}: {len(keys)} products. "
+            "Expected 10 for a normal batch rerun; pass --allow-nonstandard-scope only for explicit last-batch/diagnostic runs."
+        )
+    current_scope_hash = scope_hash(keys)
     products = {val(r, "Handle"): r for r in rows(wb["SEO_Products"]) if val(r, "Handle") in keys}
     # Cross-product uniqueness gate: customer-facing SEO fields must be
     # differentiated within the locked scope. This runs before scoring.
@@ -249,9 +359,13 @@ def main():
             images[val(r, "Handle")].append(r)
     if len(products) != len(keys):
         raise RuntimeError(f"Revision scope mismatch: log={len(keys)}, products={len(products)}")
+    extra_product_rows = [val(r, "Handle") for r in rows(wb["SEO_Products"]) if val(r, "Handle") and val(r, "Handle") not in keys]
+    if extra_product_rows:
+        raise RuntimeError(f"SEO_Products contains {len(extra_product_rows)} product(s) outside frozen scope for {revision}/{batch_id}")
     log_revision = {val(r, "handle"): val(r, "revision") for r in revlog if val(r, "revision_batch_id") == revision}
-    manual_images, page_evidence = load_evidence_bundle(args.manual_image_evidence)
-    manual_criteria, invalid_criteria_handles = validate_criteria_document(args.manual_criteria_evidence, keys)
+    manual_images, page_evidence, image_doc = load_evidence_bundle(args.manual_image_evidence)
+    invalid_image_handles = validate_image_document(image_doc, revision=revision, source_hash=source_hash, scope=keys)
+    manual_criteria, invalid_criteria_handles = validate_criteria_document(args.manual_criteria_evidence, keys, revision, source_hash)
 
     qproducts, qcriteria, qimages, qissues = [], [], [], []
     status_counts = {"QA_PASS": 0, "QA_REVISE": 0, "QA_FAIL": 0, "QA_INCOMPLETE": 0}
@@ -355,7 +469,7 @@ def main():
 
         for img in sorted(images[handle], key=lambda x: int(val(x, "image_number") or 0)):
             ikey = f"{handle}__img_{int(val(img, 'image_number') or 0):02d}"
-            m = manual_images.get(ikey, {}) if isinstance(manual_images, dict) else {}
+            m = manual_images.get(ikey, {}) if isinstance(manual_images, dict) and handle not in invalid_image_handles else {}
             if not image_evidence_valid(m):
                 m = {}
             ratings = {cid: m.get(cid, "NOT_CHECKED") for cid in IMAGE_WEIGHTS}
@@ -367,6 +481,7 @@ def main():
             img_final = img_points if img_assessed == 100 else ""
             qimages.append([handle, ikey, val(img, "image_url"), val(img, "image_url_export") or val(img, "image_url"), val(img, "media_id"), val(img, "variant"), val(img, "image_location"), m.get("check_method", "INDEPENDENT_REVIEW_JSON") if m else "NO_INDEPENDENT_IMAGE_REVIEW", m.get("checked_at", checked_at) if m else checked_at, m.get("qa_observation", val(img, "observed_visual_details")) if m else val(img, "observed_visual_details"), val(img, "observed_visual_details"), val(img, "alt_action"), m.get("alt_effective", val(img, "alt_proposed")) if m else val(img, "alt_proposed"), ratings["IM1"], ratings["IM2"], ratings["IM3"], ratings["IM4"], img_points, img_assessed, img_final, img_points, img_points + (100-img_assessed), "", refs + f"; image_key:{ikey}"])
         image_complete = bool(images[handle]) and all(
+            handle not in invalid_image_handles and
             image_evidence_valid(manual_images.get(f"{handle}__img_{int(val(i, 'image_number') or 0):02d}", {})) and
             all(manual_images.get(f"{handle}__img_{int(val(i, 'image_number') or 0):02d}", {}).get(c) in {"FULL", "PARTIAL", "FAIL"} for c in IMAGE_WEIGHTS)
             for i in images[handle]
@@ -421,7 +536,43 @@ def main():
                     else "QA_FAIL" if status_counts["QA_FAIL"]
                     else "QA_INCOMPLETE" if status_counts["QA_INCOMPLETE"]
                     else "QA_REVISE")
-    summary = [("rubric_version", "prompt_qa.md v1.0"), ("qa_run_id", qa_run_id), ("source_workbook", str(source)), ("source_workbook_sha256", source_hash), ("scope_product_count", len(keys)), ("scope_image_count", len(qimages)), ("batch_status", batch_status), ("batch_final_score", round(mean(scores), 1) if len(scores) == len(keys) else ""), ("QA_PASS", status_counts["QA_PASS"]), ("QA_REVISE", status_counts["QA_REVISE"]), ("QA_FAIL", status_counts["QA_FAIL"]), ("QA_INCOMPLETE", status_counts["QA_INCOMPLETE"]), ("approval_status", "NOT_APPROVED_NOT_DEPLOYED")]
+    issue_counts = {
+        "CRITICAL": sum(1 for r in qissues if r[3] == "CRITICAL"),
+        "MAJOR": sum(1 for r in qissues if r[3] == "MAJOR"),
+        "MINOR": sum(1 for r in qissues if r[3] == "MINOR"),
+        "LIMITATION": sum(1 for r in qissues if r[3] == "LIMITATION"),
+    }
+    evidence_maturity = "SERP_ONLY" if any(r[4] == "K3" and r[5] == "SERP_ONLY/no_volume" for r in qissues) else "DEMAND_SUPPORTED"
+    summary = [
+        ("rubric_version", "prompt_qa.md v1.0"),
+        ("rubric_hash", rubric_hash),
+        ("qa_run_id", qa_run_id),
+        ("batch_id", batch_id),
+        ("revision_id", revision),
+        ("parent_run_id", args.parent_run_id),
+        ("source_workbook", str(source)),
+        ("source_workbook_sha256", source_hash),
+        ("scope_hash", current_scope_hash),
+        ("scope_product_count", len(keys)),
+        ("scope_product_keys", json.dumps(keys, ensure_ascii=False)),
+        ("scope_image_count", len(qimages)),
+        ("content_qa_status", batch_status),
+        ("evidence_maturity", evidence_maturity),
+        ("batch_final_score", round(mean(scores), 1) if len(scores) == len(keys) else ""),
+        ("QA_PASS", status_counts["QA_PASS"]),
+        ("QA_REVISE", status_counts["QA_REVISE"]),
+        ("QA_FAIL", status_counts["QA_FAIL"]),
+        ("QA_INCOMPLETE", status_counts["QA_INCOMPLETE"]),
+        ("CRITICAL", issue_counts["CRITICAL"]),
+        ("MAJOR", issue_counts["MAJOR"]),
+        ("MINOR", issue_counts["MINOR"]),
+        ("LIMITATION", issue_counts["LIMITATION"]),
+        ("manual_image_evidence", str(args.manual_image_evidence) if args.manual_image_evidence else ""),
+        ("manual_criteria_evidence", str(args.manual_criteria_evidence) if args.manual_criteria_evidence else ""),
+        ("canonical", bool(args.canonical)),
+        ("supersedes", args.supersedes),
+        ("approval_status", "NOT_APPROVED_NOT_DEPLOYED"),
+    ]
     for k, v in summary: append(ws, [k, v, "Evidence-driven re-QA; blank final score means insufficient evidence."])
     ws = wbout.create_sheet("QA_Products"); header(ws, ["product_key","url","revision","verified_points","assessed_weight","score_lower_bound","score_upper_bound","final_score","qa_status","keyword_evidence_level","images_expected","images_checked","image_inventory_complete","image_coverage","critical_count","major_count","minor_count","issue_refs","evidence_refs"])
     for r in qproducts: append(ws, r)
@@ -433,9 +584,91 @@ def main():
     for r in qissues: append(ws, r)
     for s in wbout.worksheets: finish(s)
     wbout.save(out_xlsx)
-    manifest = {"rubric_version":"prompt_qa.md v1.0", "qa_run_id":qa_run_id, "qa_batch_id":qa_batch_id, "source_workbook":str(source), "source_workbook_sha256":source_hash, "batch_product_keys":keys, "status_counts":status_counts, "batch_status":batch_status, "manual_image_evidence":str(args.manual_image_evidence) if args.manual_image_evidence else None, "manual_criteria_evidence":str(args.manual_criteria_evidence) if args.manual_criteria_evidence else None, "approval_status":"NOT_APPROVED_NOT_DEPLOYED"}
+    manifest = {
+        "rubric_version": "prompt_qa.md v1.0",
+        "rubric_hash": rubric_hash,
+        "qa_run_id": qa_run_id,
+        "qa_batch_id": qa_batch_id,
+        "batch_id": batch_id,
+        "revision_id": revision,
+        "parent_run_id": args.parent_run_id,
+        "source_workbook": str(source),
+        "source_workbook_sha256": source_hash,
+        "scope_hash": current_scope_hash,
+        "batch_product_keys": keys,
+        "status_counts": status_counts,
+        "issue_counts": issue_counts,
+        "batch_status": batch_status,
+        "content_qa_status": batch_status,
+        "evidence_maturity": evidence_maturity,
+        "canonical": bool(args.canonical),
+        "supersedes": [x.strip() for x in args.supersedes.split(",") if x.strip()],
+        "manual_image_evidence": str(args.manual_image_evidence) if args.manual_image_evidence else None,
+        "manual_criteria_evidence": str(args.manual_criteria_evidence) if args.manual_criteria_evidence else None,
+        "approval_status": "NOT_APPROVED_NOT_DEPLOYED",
+        "created_at": checked_at,
+    }
     (work_dir / "manifest.json").write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
-    out_md.write_text(f"# Evidence-driven Re-QA {revision}\n\n- Batch status: `{batch_status}`\n- Products: {len(keys)}\n- Image rows: {len(qimages)}\n- Status counts: `{status_counts}`\n\nA blank `final_score` means the rubric did not have complete evidence. Image metadata or prior agent observations are not treated as independent visual QA.\n", encoding="utf-8")
+    registry_record = {
+        "qa_run_id": qa_run_id,
+        "batch_id": batch_id,
+        "revision_id": revision,
+        "parent_run_id": args.parent_run_id,
+        "source_hash": source_hash,
+        "rubric_hash": rubric_hash,
+        "scope_hash": current_scope_hash,
+        "product_count": len(keys),
+        "status": batch_status,
+        "canonical": bool(args.canonical),
+        "supersedes": args.supersedes,
+        "superseded_by": "",
+        "registry_status": "CANONICAL" if args.canonical else "RECORDED",
+        "created_at": checked_at,
+    }
+    update_registry(registry_record)
+    out_md.write_text(
+        "\n".join([
+            f"# Evidence-driven Re-QA {revision}",
+            "",
+            "## Audit Identity",
+            "",
+            f"- QA run id: `{qa_run_id}`",
+            f"- Batch id: `{batch_id}`",
+            f"- Revision id: `{revision}`",
+            f"- Parent run id: `{args.parent_run_id or 'NONE'}`",
+            f"- Canonical: `{bool(args.canonical)}`",
+            f"- Supersedes: `{args.supersedes or 'NONE'}`",
+            f"- Created at: `{checked_at}`",
+            "",
+            "## Source Lock",
+            "",
+            f"- Source workbook: `{source}`",
+            f"- Source workbook SHA-256: `{source_hash}`",
+            f"- Rubric: `prompt_qa.md v1.0`",
+            f"- Rubric SHA-256: `{rubric_hash}`",
+            f"- Scope hash: `{current_scope_hash}`",
+            f"- Product keys: `{json.dumps(keys, ensure_ascii=False)}`",
+            "",
+            "## Evidence",
+            "",
+            f"- Criteria evidence: `{str(args.manual_criteria_evidence) if args.manual_criteria_evidence else 'NONE'}`",
+            f"- Image evidence: `{str(args.manual_image_evidence) if args.manual_image_evidence else 'NONE'}`",
+            f"- Image rows checked: `{len(qimages)}`",
+            "",
+            "## Result",
+            "",
+            f"- Content QA status: `{batch_status}`",
+            f"- Evidence maturity: `{evidence_maturity}`",
+            f"- Batch final score: `{round(mean(scores), 1) if len(scores) == len(keys) else ''}`",
+            f"- Product status counts: `{status_counts}`",
+            f"- Issue counts: `{issue_counts}`",
+            f"- Approval status: `NOT_APPROVED_NOT_DEPLOYED`",
+            "",
+            "A blank `final_score` means the rubric did not have complete evidence. `QA_PASS` is not `APPROVED` and does not authorize Shopify import or deployment.",
+            "",
+        ]),
+        encoding="utf-8",
+    )
     print(json.dumps({"qa_xlsx":str(out_xlsx),"qa_md":str(out_md),"batch_status":batch_status,"status_counts":status_counts}, indent=2))
 
 

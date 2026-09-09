@@ -1,14 +1,74 @@
-import json, sys
+import json, re, sys
 from pathlib import Path
 
-if len(sys.argv) != 3:
-    raise SystemExit('usage: validate_evidence_independence.py <criteria.json> <image.json>')
-criteria = json.loads(Path(sys.argv[1]).read_text())
-images = json.loads(Path(sys.argv[2]).read_text())
+if len(sys.argv) not in (3, 4):
+    raise SystemExit('usage: validate_evidence_independence.py <criteria.json> <image.json> [source_workbook_sha256]')
+criteria = json.loads(Path(sys.argv[1]).read_text(encoding='utf-8'))
+images = json.loads(Path(sys.argv[2]).read_text(encoding='utf-8'))
+expected_sha = sys.argv[3] if len(sys.argv) == 4 else None
 products = criteria.get('products', {})
 failures = []
+
+def nonempty(value):
+    return isinstance(value, str) and bool(value.strip())
+
+def require_meta(doc, label):
+    revision = doc.get('revision')
+    if not nonempty(revision) or not re.fullmatch(r'R\d{3}|B\d{3}', revision):
+        failures.append(f'{label}: missing or invalid revision')
+    if not nonempty(doc.get('batch_id')):
+        failures.append(f'{label}: missing batch_id')
+    if not nonempty(doc.get('review_method')):
+        failures.append(f'{label}: missing review_method')
+    reviewer = doc.get('reviewer') if isinstance(doc.get('reviewer'), dict) else {}
+    reviewer_id = reviewer.get('reviewer_id') or doc.get('reviewer_id')
+    reviewed_at = reviewer.get('reviewed_at') or doc.get('reviewed_at')
+    if not nonempty(reviewer_id):
+        failures.append(f'{label}: missing reviewer_id')
+    if not nonempty(reviewed_at):
+        failures.append(f'{label}: missing reviewed_at')
+    if not nonempty(doc.get('source_workbook_sha256')):
+        failures.append(f'{label}: missing source_workbook_sha256')
+    elif expected_sha and doc.get('source_workbook_sha256') != expected_sha:
+        failures.append(f'{label}: source_workbook_sha256 does not match expected hash')
+
+require_meta(criteria, 'criteria')
+require_meta(images, 'images')
+if criteria.get('revision') and images.get('revision') and criteria.get('revision') != images.get('revision'):
+    failures.append('metadata: criteria revision does not match image revision')
+if criteria.get('batch_id') and images.get('batch_id') and criteria.get('batch_id') != images.get('batch_id'):
+    failures.append('metadata: criteria batch_id does not match image batch_id')
+
+BOILERPLATE = (
+    'compared the proposed field with the locked workbook, page snapshot, and product evidence',
+    'this finding is specific to the scoped record',
+)
+
+def reason_is_substantive(reason, handle):
+    text = reason.strip()
+    if len(text) < 90:
+        return False
+    if any(phrase in text.lower() for phrase in BOILERPLATE):
+        return False
+    handle_terms = [x for x in re.split(r'[-_\s]+', handle.lower()) if len(x) >= 4]
+    if handle_terms and not any(term in text.lower() for term in handle_terms[:8]):
+        return False
+    return True
+
 for criterion in ('P1','P2','K1','K2','K3','T1','T2','D1','D2','E1'):
-    reasons = [v.get(criterion,{}).get('reason','').strip() for v in products.values()]
+    reasons = []
+    for handle, product in products.items():
+        row = product.get(criterion, {})
+        reason = row.get('reason', '').strip()
+        reasons.append(reason)
+        refs = row.get('evidence_refs')
+        if row.get('rating') not in ('FULL','PARTIAL','FAIL','NOT_CHECKED'):
+            failures.append(f'criteria {handle} {criterion}: invalid rating')
+        if row.get('rating') != 'NOT_CHECKED':
+            if not reason_is_substantive(reason, handle):
+                failures.append(f'criteria {handle} {criterion}: reviewer reason is boilerplate or insufficiently specific')
+            if not isinstance(refs, list) or len([x for x in refs if isinstance(x, str) and x.strip()]) < 2:
+                failures.append(f'criteria {handle} {criterion}: missing traceable evidence refs')
     if len(reasons) != len(set(reasons)):
         failures.append(f'criteria {criterion}: duplicate reviewer reasons')
 for key, row in images.get('images', {}).items():

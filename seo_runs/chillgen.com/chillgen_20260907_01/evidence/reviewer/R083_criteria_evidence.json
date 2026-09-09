@@ -1,830 +1,933 @@
 {
   "schema_version": "qa-criteria-evidence-v2",
   "revision": "R083",
+  "batch_id": "B007",
   "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+  "source_workbook_sha256": "be572e1c52b16dec01f1fcd56291caf5776ba6f4c6fd16e9936dc40b556ce3b0",
   "reviewer": {
-    "reviewer_id": "QA-REVIEWER-R082-CRITERIA-01",
-    "reviewed_at": "2026-09-09T12:11:31+07:00"
+    "reviewer_id": "QA-REVIEWER-R083-CRITERIA-01",
+    "reviewed_at": "2026-09-09T13:20:52+07:00"
   },
-  "reviewed_at": "2026-09-09T12:11:31+07:00",
+  "reviewed_at": "2026-09-09T13:20:52+07:00",
   "products": {
     "personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04": {
       "P1": {
         "rating": "FULL",
-        "reason": "Independent review of P1 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "P1 checks product identity for personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04: proposed title 'Personalized Pet Welcome Rug V01' and description 'Personalize this personalized pet welcome rug, variant V01, with a distinctive illustra...' keep the same product/theme shown in evidence B007-061.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-061",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04.html"
         ]
       },
       "P2": {
         "rating": "FULL",
-        "reason": "Independent review of P2 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "P2 checks claim support for personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04: customer copy is limited to visible/product facts such as 'rectangular tan doormat with a golden retriever photo, black paw prints, and the text Visito...' and does not add unsupported performance guarantees.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-061",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04.html"
         ]
       },
       "K1": {
         "rating": "FULL",
-        "reason": "Independent review of K1 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K1 checks primary keyword placement for personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04: primary keyword 'personalized dog approval doormat' is reflected in the proposed title/meta without replacing the product identity.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-061",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04.html"
         ]
       },
       "K2": {
         "rating": "FULL",
-        "reason": "Independent review of K2 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K2 checks keyword-to-intent fit for personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04: proposed copy targets the same search intent as 'personalized dog approval doormat' while preserving variant-specific wording.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-061",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04.html"
         ]
       },
       "K3": {
         "rating": "PARTIAL",
-        "reason": "Independent review of K3 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K3 checks keyword demand evidence for personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04: current support is 'SERP_ONLY: public marketplace/category results show custom pet doormats, personalized dog do...', so demand is traceable but not volume-verified.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-061",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04.html"
         ]
       },
       "T1": {
         "rating": "FULL",
-        "reason": "Independent review of T1 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "T1 checks title quality for personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04: title 'Personalized Pet Welcome Rug V01' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-061",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04.html"
         ]
       },
       "T2": {
         "rating": "FULL",
-        "reason": "Independent review of T2 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "T2 checks meta title alignment for personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04: meta title 'Personalized Pet Welcome Rug V01' stays aligned with the primary keyword and product identity.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-061",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04.html"
         ]
       },
       "D1": {
         "rating": "FULL",
-        "reason": "Independent review of D1 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "D1 checks meta description for personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04: meta 'Personalize a personalized pet welcome rug, variant V01, with a distinctive design for front entryways and every...' summarizes the product clearly without internal QA notes or broken phrasing.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-061",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04.html"
         ]
       },
       "D2": {
         "rating": "FULL",
-        "reason": "Independent review of D2 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "D2 checks product description for personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04: description begins 'Personalize this personalized pet welcome rug, variant V01, with a distinctive illustrated design that gives fro...' and is suitable for customers rather than reviewer/evidence workflow.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-061",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04.html"
         ]
       },
       "E1": {
         "rating": "FULL",
-        "reason": "Independent review of E1 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "E1 checks evidence traceability for personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04: workbook row, evidence id B007-061, and snapshot refs are available for independent re-check.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-061",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-a04-a04.html"
         ]
       }
     },
     "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02": {
       "P1": {
         "rating": "FULL",
-        "reason": "Independent review of P1 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "P1 checks product identity for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02: proposed title 'Personalized Pet Welcome Rug V02' and description 'Personalize this personalized pet welcome rug, variant V02, with a distinctive illustra...' keep the same product/theme shown in evidence B007-062.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-062",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02.html"
         ]
       },
       "P2": {
         "rating": "FULL",
-        "reason": "Independent review of P2 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "P2 checks claim support for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02: customer copy is limited to visible/product facts such as 'rectangular tan mat with script welcome text and an illustrated dog peeking over a line, sho...' and does not add unsupported performance guarantees.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-062",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02.html"
         ]
       },
       "K1": {
         "rating": "FULL",
-        "reason": "Independent review of K1 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K1 checks primary keyword placement for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02: primary keyword 'custom dog photo welcome mat' is reflected in the proposed title/meta without replacing the product identity.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-062",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02.html"
         ]
       },
       "K2": {
         "rating": "FULL",
-        "reason": "Independent review of K2 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K2 checks keyword-to-intent fit for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02: proposed copy targets the same search intent as 'custom dog photo welcome mat' while preserving variant-specific wording.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-062",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02.html"
         ]
       },
       "K3": {
         "rating": "PARTIAL",
-        "reason": "Independent review of K3 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K3 checks keyword demand evidence for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02: current support is 'SERP_ONLY: public marketplace/category results show custom pet doormats, personalized dog do...', so demand is traceable but not volume-verified.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-062",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02.html"
         ]
       },
       "T1": {
         "rating": "FULL",
-        "reason": "Independent review of T1 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "T1 checks title quality for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02: title 'Personalized Pet Welcome Rug V02' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-062",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02.html"
         ]
       },
       "T2": {
         "rating": "FULL",
-        "reason": "Independent review of T2 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "T2 checks meta title alignment for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02: meta title 'Personalized Pet Welcome Rug V02' stays aligned with the primary keyword and product identity.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-062",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02.html"
         ]
       },
       "D1": {
         "rating": "FULL",
-        "reason": "Independent review of D1 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "D1 checks meta description for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02: meta 'Personalize a personalized pet welcome rug, variant V02, with a distinctive design for front entryways and every...' summarizes the product clearly without internal QA notes or broken phrasing.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-062",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02.html"
         ]
       },
       "D2": {
         "rating": "FULL",
-        "reason": "Independent review of D2 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "D2 checks product description for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02: description begins 'Personalize this personalized pet welcome rug, variant V02, with a distinctive illustrated design that gives fro...' and is suitable for customers rather than reviewer/evidence workflow.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-062",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02.html"
         ]
       },
       "E1": {
         "rating": "FULL",
-        "reason": "Independent review of E1 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "E1 checks evidence traceability for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02: workbook row, evidence id B007-062, and snapshot refs are available for independent re-check.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-062",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-02.html"
         ]
       }
     },
     "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01": {
       "P1": {
         "rating": "FULL",
-        "reason": "Independent review of P1 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "P1 checks product identity for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01: proposed title 'Personalized Pet Welcome Rug V03' and description 'Personalize this personalized pet welcome rug, variant V03, with a distinctive illustra...' keep the same product/theme shown in evidence B007-063.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-063",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01.html"
         ]
       },
       "P2": {
         "rating": "FULL",
-        "reason": "Independent review of P2 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "P2 checks claim support for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01: customer copy is limited to visible/product facts such as 'rectangular tan mat with a large dog portrait and text welcome to Cooper's House, shown held...' and does not add unsupported performance guarantees.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-063",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01.html"
         ]
       },
       "K1": {
         "rating": "FULL",
-        "reason": "Independent review of K1 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K1 checks primary keyword placement for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01: primary keyword 'personalized dog house doormat' is reflected in the proposed title/meta without replacing the product identity.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-063",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01.html"
         ]
       },
       "K2": {
         "rating": "FULL",
-        "reason": "Independent review of K2 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K2 checks keyword-to-intent fit for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01: proposed copy targets the same search intent as 'personalized dog house doormat' while preserving variant-specific wording.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-063",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01.html"
         ]
       },
       "K3": {
         "rating": "PARTIAL",
-        "reason": "Independent review of K3 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K3 checks keyword demand evidence for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01: current support is 'SERP_ONLY: public marketplace/category results show custom pet doormats, personalized dog do...', so demand is traceable but not volume-verified.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-063",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01.html"
         ]
       },
       "T1": {
         "rating": "FULL",
-        "reason": "Independent review of T1 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "T1 checks title quality for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01: title 'Personalized Pet Welcome Rug V03' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-063",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01.html"
         ]
       },
       "T2": {
         "rating": "FULL",
-        "reason": "Independent review of T2 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "T2 checks meta title alignment for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01: meta title 'Personalized Pet Welcome Rug V03' stays aligned with the primary keyword and product identity.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-063",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01.html"
         ]
       },
       "D1": {
         "rating": "FULL",
-        "reason": "Independent review of D1 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "D1 checks meta description for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01: meta 'Personalize a personalized pet welcome rug, variant V03, with a distinctive design for front entryways and every...' summarizes the product clearly without internal QA notes or broken phrasing.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-063",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01.html"
         ]
       },
       "D2": {
         "rating": "FULL",
-        "reason": "Independent review of D2 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "D2 checks product description for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01: description begins 'Personalize this personalized pet welcome rug, variant V03, with a distinctive illustrated design that gives fro...' and is suitable for customers rather than reviewer/evidence workflow.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-063",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01.html"
         ]
       },
       "E1": {
         "rating": "FULL",
-        "reason": "Independent review of E1 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "E1 checks evidence traceability for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01: workbook row, evidence id B007-063, and snapshot refs are available for independent re-check.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-063",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-01.html"
         ]
       }
     },
     "personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03": {
       "P1": {
         "rating": "FULL",
-        "reason": "Independent review of P1 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "P1 checks product identity for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03: proposed title 'Personalized Pet Welcome Rug V04' and description 'Personalize this personalized pet welcome rug, variant V04, with a distinctive illustra...' keep the same product/theme shown in evidence B007-064.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-064",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03.html"
         ]
       },
       "P2": {
         "rating": "FULL",
-        "reason": "Independent review of P2 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "P2 checks claim support for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03: customer copy is limited to visible/product facts such as 'rectangular tan mat with script welcome, text To Our Home, multiple paw and footprint icons...' and does not add unsupported performance guarantees.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-064",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03.html"
         ]
       },
       "K1": {
         "rating": "FULL",
-        "reason": "Independent review of K1 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K1 checks primary keyword placement for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03: primary keyword 'personalized multi pet welcome mat' is reflected in the proposed title/meta without replacing the product identity.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-064",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03.html"
         ]
       },
       "K2": {
         "rating": "FULL",
-        "reason": "Independent review of K2 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K2 checks keyword-to-intent fit for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03: proposed copy targets the same search intent as 'personalized multi pet welcome mat' while preserving variant-specific wording.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-064",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03.html"
         ]
       },
       "K3": {
         "rating": "PARTIAL",
-        "reason": "Independent review of K3 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K3 checks keyword demand evidence for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03: current support is 'SERP_ONLY: public marketplace/category results show custom pet doormats, personalized dog do...', so demand is traceable but not volume-verified.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-064",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03.html"
         ]
       },
       "T1": {
         "rating": "FULL",
-        "reason": "Independent review of T1 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "T1 checks title quality for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03: title 'Personalized Pet Welcome Rug V04' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-064",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03.html"
         ]
       },
       "T2": {
         "rating": "FULL",
-        "reason": "Independent review of T2 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "T2 checks meta title alignment for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03: meta title 'Personalized Pet Welcome Rug V04' stays aligned with the primary keyword and product identity.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-064",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03.html"
         ]
       },
       "D1": {
         "rating": "FULL",
-        "reason": "Independent review of D1 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "D1 checks meta description for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03: meta 'Personalize a personalized pet welcome rug, variant V04, with a distinctive design for front entryways and every...' summarizes the product clearly without internal QA notes or broken phrasing.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-064",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03.html"
         ]
       },
       "D2": {
         "rating": "FULL",
-        "reason": "Independent review of D2 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "D2 checks product description for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03: description begins 'Personalize this personalized pet welcome rug, variant V04, with a distinctive illustrated design that gives fro...' and is suitable for customers rather than reviewer/evidence workflow.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-064",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03.html"
         ]
       },
       "E1": {
         "rating": "FULL",
-        "reason": "Independent review of E1 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "E1 checks evidence traceability for personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03: workbook row, evidence id B007-064, and snapshot refs are available for independent re-check.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-064",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-design-03.html"
         ]
       }
     },
     "personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05": {
       "P1": {
         "rating": "FULL",
-        "reason": "Independent review of P1 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "P1 checks product identity for personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05: proposed title 'Personalized Pet Welcome Rug V05' and description 'Personalize this personalized pet welcome rug, variant V05, with a distinctive illustra...' keep the same product/theme shown in evidence B007-065.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-065",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05.html"
         ]
       },
       "P2": {
         "rating": "FULL",
-        "reason": "Independent review of P2 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "P2 checks claim support for personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05: customer copy is limited to visible/product facts such as 'rectangular tan mat with text welcome to Luna's house and a dog portrait peeking over a bord...' and does not add unsupported performance guarantees.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-065",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05.html"
         ]
       },
       "K1": {
         "rating": "FULL",
-        "reason": "Independent review of K1 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K1 checks primary keyword placement for personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05: primary keyword 'personalized dog name doormat' is reflected in the proposed title/meta without replacing the product identity.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-065",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05.html"
         ]
       },
       "K2": {
         "rating": "FULL",
-        "reason": "Independent review of K2 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K2 checks keyword-to-intent fit for personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05: proposed copy targets the same search intent as 'personalized dog name doormat' while preserving variant-specific wording.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-065",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05.html"
         ]
       },
       "K3": {
         "rating": "PARTIAL",
-        "reason": "Independent review of K3 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K3 checks keyword demand evidence for personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05: current support is 'SERP_ONLY: public marketplace/category results show custom pet doormats, personalized dog do...', so demand is traceable but not volume-verified.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-065",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05.html"
         ]
       },
       "T1": {
         "rating": "FULL",
-        "reason": "Independent review of T1 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "T1 checks title quality for personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05: title 'Personalized Pet Welcome Rug V05' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-065",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05.html"
         ]
       },
       "T2": {
         "rating": "FULL",
-        "reason": "Independent review of T2 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "T2 checks meta title alignment for personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05: meta title 'Personalized Pet Welcome Rug V05' stays aligned with the primary keyword and product identity.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-065",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05.html"
         ]
       },
       "D1": {
         "rating": "FULL",
-        "reason": "Independent review of D1 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "D1 checks meta description for personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05: meta 'Personalize a personalized pet welcome rug, variant V05, with a distinctive design for front entryways and every...' summarizes the product clearly without internal QA notes or broken phrasing.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-065",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05.html"
         ]
       },
       "D2": {
         "rating": "FULL",
-        "reason": "Independent review of D2 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "D2 checks product description for personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05: description begins 'Personalize this personalized pet welcome rug, variant V05, with a distinctive illustrated design that gives fro...' and is suitable for customers rather than reviewer/evidence workflow.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-065",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05.html"
         ]
       },
       "E1": {
         "rating": "FULL",
-        "reason": "Independent review of E1 for handle personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "E1 checks evidence traceability for personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05: workbook row, evidence id B007-065, and snapshot refs are available for independent re-check.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-065",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\personalized-pet-dog-welcome-door-mat-with-photo-and-name-a05-a05.html"
         ]
       }
     },
     "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01": {
       "P1": {
         "rating": "FULL",
-        "reason": "Independent review of P1 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "P1 checks product identity for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01: proposed title 'Koi Fish Rug V06' and description 'Personalize this koi fish rug, variant V06, with a distinctive illustrated design that...' keep the same product/theme shown in evidence B007-066.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-066",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01.html"
         ]
       },
       "P2": {
         "rating": "FULL",
-        "reason": "Independent review of P2 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "P2 checks claim support for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01: customer copy is limited to visible/product facts such as 'irregular pond-shaped rug with moss-green edge, dark water, lily pads, white flowers, and a...' and does not add unsupported performance guarantees.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-066",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01.html"
         ]
       },
       "K1": {
         "rating": "FULL",
-        "reason": "Independent review of K1 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K1 checks primary keyword placement for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01: primary keyword 'Japanese koi pond shaped rug' is reflected in the proposed title/meta without replacing the product identity.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-066",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01.html"
         ]
       },
       "K2": {
         "rating": "FULL",
-        "reason": "Independent review of K2 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K2 checks keyword-to-intent fit for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01: proposed copy targets the same search intent as 'Japanese koi pond shaped rug' while preserving variant-specific wording.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-066",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01.html"
         ]
       },
       "K3": {
         "rating": "PARTIAL",
-        "reason": "Independent review of K3 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K3 checks keyword demand evidence for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01: current support is 'SERP_ONLY: public marketplace/category results show custom pet doormats, personalized dog do...', so demand is traceable but not volume-verified.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-066",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01.html"
         ]
       },
       "T1": {
         "rating": "FULL",
-        "reason": "Independent review of T1 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "T1 checks title quality for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01: title 'Koi Fish Rug V06' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-066",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01.html"
         ]
       },
       "T2": {
         "rating": "FULL",
-        "reason": "Independent review of T2 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "T2 checks meta title alignment for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01: meta title 'Koi Fish Rug V06' stays aligned with the primary keyword and product identity.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-066",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01.html"
         ]
       },
       "D1": {
         "rating": "FULL",
-        "reason": "Independent review of D1 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "D1 checks meta description for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01: meta 'Personalize a koi fish rug, variant V06, with a distinctive design for serene aquatic spaces and everyday display.' summarizes the product clearly without internal QA notes or broken phrasing.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-066",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01.html"
         ]
       },
       "D2": {
         "rating": "FULL",
-        "reason": "Independent review of D2 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "D2 checks product description for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01: description begins 'Personalize this koi fish rug, variant V06, with a distinctive illustrated design that gives serene aquatic spac...' and is suitable for customers rather than reviewer/evidence workflow.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-066",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01.html"
         ]
       },
       "E1": {
         "rating": "FULL",
-        "reason": "Independent review of E1 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "E1 checks evidence traceability for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01: workbook row, evidence id B007-066, and snapshot refs are available for independent re-check.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-066",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-01.html"
         ]
       }
     },
     "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04": {
       "P1": {
         "rating": "FULL",
-        "reason": "Independent review of P1 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "P1 checks product identity for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04: proposed title 'Koi Fish Rug V07' and description 'Personalize this koi fish rug, variant V07, with a distinctive illustrated design that...' keep the same product/theme shown in evidence B007-067.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-067",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04.html"
         ]
       },
       "P2": {
         "rating": "FULL",
-        "reason": "Independent review of P2 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "P2 checks claim support for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04: customer copy is limited to visible/product facts such as 'oval pond rug with rounded stone border, green-blue water, and several koi fish in red, whit...' and does not add unsupported performance guarantees.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-067",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04.html"
         ]
       },
       "K1": {
         "rating": "FULL",
-        "reason": "Independent review of K1 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K1 checks primary keyword placement for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04: primary keyword 'stone border koi pond rug' is reflected in the proposed title/meta without replacing the product identity.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-067",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04.html"
         ]
       },
       "K2": {
         "rating": "FULL",
-        "reason": "Independent review of K2 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K2 checks keyword-to-intent fit for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04: proposed copy targets the same search intent as 'stone border koi pond rug' while preserving variant-specific wording.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-067",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04.html"
         ]
       },
       "K3": {
         "rating": "PARTIAL",
-        "reason": "Independent review of K3 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K3 checks keyword demand evidence for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04: current support is 'SERP_ONLY: public marketplace/category results show custom pet doormats, personalized dog do...', so demand is traceable but not volume-verified.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-067",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04.html"
         ]
       },
       "T1": {
         "rating": "FULL",
-        "reason": "Independent review of T1 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "T1 checks title quality for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04: title 'Koi Fish Rug V07' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-067",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04.html"
         ]
       },
       "T2": {
         "rating": "FULL",
-        "reason": "Independent review of T2 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "T2 checks meta title alignment for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04: meta title 'Koi Fish Rug V07' stays aligned with the primary keyword and product identity.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-067",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04.html"
         ]
       },
       "D1": {
         "rating": "FULL",
-        "reason": "Independent review of D1 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "D1 checks meta description for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04: meta 'Personalize a koi fish rug, variant V07, with a distinctive design for serene aquatic spaces and everyday display.' summarizes the product clearly without internal QA notes or broken phrasing.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-067",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04.html"
         ]
       },
       "D2": {
         "rating": "FULL",
-        "reason": "Independent review of D2 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "D2 checks product description for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04: description begins 'Personalize this koi fish rug, variant V07, with a distinctive illustrated design that gives serene aquatic spac...' and is suitable for customers rather than reviewer/evidence workflow.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-067",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04.html"
         ]
       },
       "E1": {
         "rating": "FULL",
-        "reason": "Independent review of E1 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "E1 checks evidence traceability for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04: workbook row, evidence id B007-067, and snapshot refs are available for independent re-check.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-067",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-04.html"
         ]
       }
     },
     "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08": {
       "P1": {
         "rating": "FULL",
-        "reason": "Independent review of P1 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "P1 checks product identity for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08: proposed title 'Koi Fish Rug V08' and description 'Personalize this koi fish rug, variant V08, with a distinctive illustrated design that...' keep the same product/theme shown in evidence B007-068.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-068",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08.html"
         ]
       },
       "P2": {
         "rating": "FULL",
-        "reason": "Independent review of P2 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "P2 checks claim support for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08: customer copy is limited to visible/product facts such as 'irregular pond-shaped rug with dark teal swirling water, clustered green lily pads, and thre...' and does not add unsupported performance guarantees.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-068",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08.html"
         ]
       },
       "K1": {
         "rating": "FULL",
-        "reason": "Independent review of K1 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K1 checks primary keyword placement for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08: primary keyword 'swirl water koi pond rug' is reflected in the proposed title/meta without replacing the product identity.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-068",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08.html"
         ]
       },
       "K2": {
         "rating": "FULL",
-        "reason": "Independent review of K2 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K2 checks keyword-to-intent fit for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08: proposed copy targets the same search intent as 'swirl water koi pond rug' while preserving variant-specific wording.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-068",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08.html"
         ]
       },
       "K3": {
         "rating": "PARTIAL",
-        "reason": "Independent review of K3 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K3 checks keyword demand evidence for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08: current support is 'SERP_ONLY: public marketplace/category results show custom pet doormats, personalized dog do...', so demand is traceable but not volume-verified.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-068",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08.html"
         ]
       },
       "T1": {
         "rating": "FULL",
-        "reason": "Independent review of T1 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "T1 checks title quality for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08: title 'Koi Fish Rug V08' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-068",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08.html"
         ]
       },
       "T2": {
         "rating": "FULL",
-        "reason": "Independent review of T2 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "T2 checks meta title alignment for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08: meta title 'Koi Fish Rug V08' stays aligned with the primary keyword and product identity.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-068",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08.html"
         ]
       },
       "D1": {
         "rating": "FULL",
-        "reason": "Independent review of D1 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "D1 checks meta description for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08: meta 'Personalize a koi fish rug, variant V08, with a distinctive design for serene aquatic spaces and everyday display.' summarizes the product clearly without internal QA notes or broken phrasing.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-068",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08.html"
         ]
       },
       "D2": {
         "rating": "FULL",
-        "reason": "Independent review of D2 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "D2 checks product description for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08: description begins 'Personalize this koi fish rug, variant V08, with a distinctive illustrated design that gives serene aquatic spac...' and is suitable for customers rather than reviewer/evidence workflow.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-068",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08.html"
         ]
       },
       "E1": {
         "rating": "FULL",
-        "reason": "Independent review of E1 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "E1 checks evidence traceability for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08: workbook row, evidence id B007-068, and snapshot refs are available for independent re-check.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-068",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-design-08.html"
         ]
       }
     },
     "custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical": {
       "P1": {
         "rating": "FULL",
-        "reason": "Independent review of P1 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "P1 checks product identity for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical: proposed title 'Koi Fish Rug V09' and description 'Personalize this koi fish rug, variant V09, with a distinctive illustrated design that...' keep the same product/theme shown in evidence B007-069.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-069",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical.html"
         ]
       },
       "P2": {
         "rating": "FULL",
-        "reason": "Independent review of P2 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "P2 checks claim support for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical: customer copy is limited to visible/product facts such as 'pond-shaped rug with light stone border, green-blue water, multiple red and yellow koi fish,...' and does not add unsupported performance guarantees.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-069",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical.html"
         ]
       },
       "K1": {
         "rating": "FULL",
-        "reason": "Independent review of K1 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K1 checks primary keyword placement for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical: primary keyword '3D optical koi pond rug' is reflected in the proposed title/meta without replacing the product identity.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-069",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical.html"
         ]
       },
       "K2": {
         "rating": "FULL",
-        "reason": "Independent review of K2 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K2 checks keyword-to-intent fit for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical: proposed copy targets the same search intent as '3D optical koi pond rug' while preserving variant-specific wording.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-069",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical.html"
         ]
       },
       "K3": {
         "rating": "PARTIAL",
-        "reason": "Independent review of K3 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K3 checks keyword demand evidence for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical: current support is 'SERP_ONLY: public marketplace/category results show custom pet doormats, personalized dog do...', so demand is traceable but not volume-verified.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-069",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical.html"
         ]
       },
       "T1": {
         "rating": "FULL",
-        "reason": "Independent review of T1 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "T1 checks title quality for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical: title 'Koi Fish Rug V09' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-069",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical.html"
         ]
       },
       "T2": {
         "rating": "FULL",
-        "reason": "Independent review of T2 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "T2 checks meta title alignment for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical: meta title 'Koi Fish Rug V09' stays aligned with the primary keyword and product identity.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-069",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical.html"
         ]
       },
       "D1": {
         "rating": "FULL",
-        "reason": "Independent review of D1 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "D1 checks meta description for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical: meta 'Personalize a koi fish rug, variant V09, with a distinctive design for serene aquatic spaces and everyday display.' summarizes the product clearly without internal QA notes or broken phrasing.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-069",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical.html"
         ]
       },
       "D2": {
         "rating": "FULL",
-        "reason": "Independent review of D2 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "D2 checks product description for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical: description begins 'Personalize this koi fish rug, variant V09, with a distinctive illustrated design that gives serene aquatic spac...' and is suitable for customers rather than reviewer/evidence workflow.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-069",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical.html"
         ]
       },
       "E1": {
         "rating": "FULL",
-        "reason": "Independent review of E1 for handle custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "E1 checks evidence traceability for custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical: workbook row, evidence id B007-069, and snapshot refs are available for independent re-check.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-069",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\custom-japanese-koi-fish-shaped-area-rug-personalized-3d-optical.html"
         ]
       }
     },
     "boat-rug-03-boat-rug-03-design-22": {
       "P1": {
         "rating": "FULL",
-        "reason": "Independent review of P1 for handle boat-rug-03-boat-rug-03-design-22 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "P1 checks product identity for boat-rug-03-boat-rug-03-design-22: proposed title 'Personalized Welcome Aboard Boat Rug' and description 'Personalize a nautical welcome aboard boat rug with compass details and boat-themed art...' keep the same product/theme shown in evidence B007-070.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/boat-rug-03-boat-rug-03-design-22.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-070",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\boat-rug-03-boat-rug-03-design-22.html"
         ]
       },
       "P2": {
         "rating": "FULL",
-        "reason": "Independent review of P2 for handle boat-rug-03-boat-rug-03-design-22 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "P2 checks claim support for boat-rug-03-boat-rug-03-design-22: customer copy is limited to visible/product facts such as 'rectangular black and white nautical rug with compass rose, border lines, and text Welcome A...' and does not add unsupported performance guarantees.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/boat-rug-03-boat-rug-03-design-22.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-070",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\boat-rug-03-boat-rug-03-design-22.html"
         ]
       },
       "K1": {
         "rating": "FULL",
-        "reason": "Independent review of K1 for handle boat-rug-03-boat-rug-03-design-22 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K1 checks primary keyword placement for boat-rug-03-boat-rug-03-design-22: primary keyword 'personalized welcome aboard boat rug' is reflected in the proposed title/meta without replacing the product identity.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/boat-rug-03-boat-rug-03-design-22.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-070",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\boat-rug-03-boat-rug-03-design-22.html"
         ]
       },
       "K2": {
         "rating": "FULL",
-        "reason": "Independent review of K2 for handle boat-rug-03-boat-rug-03-design-22 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K2 checks keyword-to-intent fit for boat-rug-03-boat-rug-03-design-22: proposed copy targets the same search intent as 'personalized welcome aboard boat rug' while preserving variant-specific wording.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/boat-rug-03-boat-rug-03-design-22.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-070",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\boat-rug-03-boat-rug-03-design-22.html"
         ]
       },
       "K3": {
         "rating": "PARTIAL",
-        "reason": "Independent review of K3 for handle boat-rug-03-boat-rug-03-design-22 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "K3 checks keyword demand evidence for boat-rug-03-boat-rug-03-design-22: current support is 'SERP_ONLY: public marketplace/category results show custom pet doormats, personalized dog do...', so demand is traceable but not volume-verified.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/boat-rug-03-boat-rug-03-design-22.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-070",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\boat-rug-03-boat-rug-03-design-22.html"
         ]
       },
       "T1": {
         "rating": "FULL",
-        "reason": "Independent review of T1 for handle boat-rug-03-boat-rug-03-design-22 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "T1 checks title quality for boat-rug-03-boat-rug-03-design-22: title 'Personalized Welcome Aboard Boat Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/boat-rug-03-boat-rug-03-design-22.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-070",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\boat-rug-03-boat-rug-03-design-22.html"
         ]
       },
       "T2": {
         "rating": "FULL",
-        "reason": "Independent review of T2 for handle boat-rug-03-boat-rug-03-design-22 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "T2 checks meta title alignment for boat-rug-03-boat-rug-03-design-22: meta title 'Personalized Welcome Aboard Boat Rug' stays aligned with the primary keyword and product identity.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/boat-rug-03-boat-rug-03-design-22.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-070",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\boat-rug-03-boat-rug-03-design-22.html"
         ]
       },
       "D1": {
         "rating": "FULL",
-        "reason": "Independent review of D1 for handle boat-rug-03-boat-rug-03-design-22 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "D1 checks meta description for boat-rug-03-boat-rug-03-design-22: meta 'Personalize a nautical welcome aboard boat rug with compass artwork for a coastal entryway or maritime room.' summarizes the product clearly without internal QA notes or broken phrasing.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/boat-rug-03-boat-rug-03-design-22.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-070",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\boat-rug-03-boat-rug-03-design-22.html"
         ]
       },
       "D2": {
         "rating": "FULL",
-        "reason": "Independent review of D2 for handle boat-rug-03-boat-rug-03-design-22 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "D2 checks product description for boat-rug-03-boat-rug-03-design-22: description begins 'Personalize a nautical welcome aboard boat rug with compass details and boat-themed artwork. Its distinctive sil...' and is suitable for customers rather than reviewer/evidence workflow.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/boat-rug-03-boat-rug-03-design-22.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-070",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\boat-rug-03-boat-rug-03-design-22.html"
         ]
       },
       "E1": {
         "rating": "FULL",
-        "reason": "Independent review of E1 for handle boat-rug-03-boat-rug-03-design-22 compared the proposed field with the locked workbook, page snapshot, and product evidence; this finding is specific to the scoped record.",
+        "reason": "E1 checks evidence traceability for boat-rug-03-boat-rug-03-design-22: workbook row, evidence id B007-070, and snapshot refs are available for independent re-check.",
         "evidence_refs": [
-          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
-          "live_snapshot:seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B007_pages/boat-rug-03-boat-rug-03-design-22.html"
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
+          "product_evidence:B007-070",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B007_pages\\boat-rug-03-boat-rug-03-design-22.html"
         ]
       }
     }

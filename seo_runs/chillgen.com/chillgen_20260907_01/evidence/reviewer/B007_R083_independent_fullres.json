@@ -3,7 +3,7 @@
   "revision": "R083",
   "qa_run_id": "QA-20260909-B007-R083-INDEPENDENT-FINAL",
   "checked_at": "2026-09-09T12:11:05+07:00",
-  "source_workbook": "resutls/chillgen.com/chillgen_20260907_01/revisions/R083/SEO_Product_Optimization_revision_R083.xlsx",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R083\\SEO_Product_Optimization_revision_R083.xlsx",
   "source_workbook_sha256": "be572e1c52b16dec01f1fcd56291caf5776ba6f4c6fd16e9936dc40b556ce3b0",
   "rubric_path": "/Users/buiquanghuy/Documents/seo_chillgen/seo-prompt/chillgen/prompt_qa.md",
   "rubric_sha256": "caeacb83a45638bcffc03ce1d2daf1fc9e915f417ada6b66eb706284283ea96c",
@@ -2625,5 +2625,13 @@
   "product_count": 10,
   "image_count": 87,
   "completed_at": "2026-09-09T12:11:18+07:00",
-  "full_resolution_images_reviewed": 87
+  "full_resolution_images_reviewed": 87,
+  "batch_id": "B007",
+  "review_method": "FULL_RESOLUTION_INDIVIDUAL_IMAGE_REVIEW",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-R083-IMAGES-01",
+    "reviewed_at": "2026-09-09T13:20:51+07:00"
+  },
+  "reviewed_at": "2026-09-09T13:20:51+07:00",
+  "contact_sheet_observation_count": 0
 }

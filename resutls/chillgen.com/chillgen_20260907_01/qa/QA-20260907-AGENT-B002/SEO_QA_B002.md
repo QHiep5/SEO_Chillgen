@@ -13,18 +13,18 @@ This evidence-driven QA rerun does not use fixed scores. QA_PASS is not APPROVED
 
 ## Product Scores
 
-| Product | Score | Status | Images | Notes |
-|---|---:|---|---:|---|
-| `custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-04` | 90.5 | QA_PASS | 8/8 | Major=0; Limitation=3; evidence-driven checks only. |
-| `custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-14` | 90.5 | QA_PASS | 7/7 | Major=0; Limitation=3; evidence-driven checks only. |
-| `custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-05` | 90.5 | QA_PASS | 8/8 | Major=0; Limitation=3; evidence-driven checks only. |
-| `custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-01` | 90.5 | QA_PASS | 8/8 | Major=0; Limitation=3; evidence-driven checks only. |
-| `custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-08` | 83.0 | QA_REVISE | 8/8 | Major=0; Limitation=3; evidence-driven checks only. |
-| `custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-03` | 90.5 | QA_PASS | 8/8 | Major=0; Limitation=3; evidence-driven checks only. |
-| `custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-10` | 90.5 | QA_PASS | 8/8 | Major=0; Limitation=3; evidence-driven checks only. |
-| `custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-07` | 90.5 | QA_PASS | 8/8 | Major=0; Limitation=3; evidence-driven checks only. |
-| `personalized-halloween-3d-optical-illusion-ghost-round-rug-a07` | 80.5 | QA_REVISE | 8/8 | Major=1; Limitation=3; evidence-driven checks only. |
-| `personalized-halloween-3d-optical-illusion-ghost-round-rug-design-12` | 73.0 | QA_REVISE | 8/8 | Major=1; Limitation=3; evidence-driven checks only. |
+| Product                                                                | Score | Status    | Images | Notes                                               |
+| ---------------------------------------------------------------------- | ----: | --------- | -----: | --------------------------------------------------- |
+| `custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-04` |  90.5 | QA_PASS   |    8/8 | Major=0; Limitation=3; evidence-driven checks only. |
+| `custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-14` |  90.5 | QA_PASS   |    7/7 | Major=0; Limitation=3; evidence-driven checks only. |
+| `custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-05` |  90.5 | QA_PASS   |    8/8 | Major=0; Limitation=3; evidence-driven checks only. |
+| `custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-01` |  90.5 | QA_PASS   |    8/8 | Major=0; Limitation=3; evidence-driven checks only. |
+| `custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-08` |  83.0 | QA_REVISE |    8/8 | Major=0; Limitation=3; evidence-driven checks only. |
+| `custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-03` |  90.5 | QA_PASS   |    8/8 | Major=0; Limitation=3; evidence-driven checks only. |
+| `custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-10` |  90.5 | QA_PASS   |    8/8 | Major=0; Limitation=3; evidence-driven checks only. |
+| `custom-halloween-3d-effect-optical-illusion-spooky-round-r-design-07` |  90.5 | QA_PASS   |    8/8 | Major=0; Limitation=3; evidence-driven checks only. |
+| `personalized-halloween-3d-optical-illusion-ghost-round-rug-a07`       |  80.5 | QA_REVISE |    8/8 | Major=1; Limitation=3; evidence-driven checks only. |
+| `personalized-halloween-3d-optical-illusion-ghost-round-rug-design-12` |  73.0 | QA_REVISE |    8/8 | Major=1; Limitation=3; evidence-driven checks only. |
 
 ## Findings
 
