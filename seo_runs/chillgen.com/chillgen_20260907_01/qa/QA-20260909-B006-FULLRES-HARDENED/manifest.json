@@ -1,0 +1,29 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260909-B006-FULLRES-HARDENED",
+  "qa_batch_id": "REV_B006",
+  "source_workbook": "seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+  "source_workbook_sha256": "4a9c7bb5b066558a53f6b52e534d19a35ebb37f8ab261fbfc24864edc01e82ea",
+  "batch_product_keys": [
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-04",
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-10",
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-01",
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-06",
+    "custom-dragon-shaped-area-rug-personalized-library-western-dragon",
+    "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01",
+    "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05",
+    "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03",
+    "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02",
+    "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4"
+  ],
+  "status_counts": {
+    "QA_PASS": 2,
+    "QA_REVISE": 8,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_REVISE",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/reviewer/B006_reviewer_evidence_fullres.json",
+  "manual_criteria_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/reviewer/B006_criteria_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}

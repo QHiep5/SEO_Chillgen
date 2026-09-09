@@ -1,0 +1,832 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "B006",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-B006-CRITERIA-01",
+    "reviewed_at": "2026-09-09T11:32:37+07:00"
+  },
+  "reviewed_at": "2026-09-09T11:32:37+07:00",
+  "products": {
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-04": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "Compared the proposed title with the locked product record and captured page; the design identity and product type are explicit and customer-facing. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-04. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-04.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "Compared proposed fields with product evidence and the page snapshot; wording is retained only where the record or visible design supports it. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-04. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-04.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "Checked the primary keyword against the product type, dragon or paw motif, and the mapped buyer intent for this exact handle. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-04. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-04.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "Checked secondary terms against the mapped family and use context, confirming they are relevant and not keyword stuffing. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-04. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-04.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "Public SERP/semantic support is present, but no first-party search-volume metric is available; this criterion remains partial by policy. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-04. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-04.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "Read the complete proposed SEO title for clarity, readable English, product identity, differentiation, and compliant length. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-04. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-04.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "Compared the proposed title with the H1/product naming in the captured page and confirmed consistent customer-facing naming. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-04. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-04.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "Read the complete meta description for specificity, natural click context, length, and absence of unsupported performance claims. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-04. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-04.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "Read the complete proposed description and checked that it is customer-facing, grammatical, and free of QA/evidence workflow notes. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-04. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-04.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "Reconciled the locked B006 Revision_Log, evidence identifier, canonical scope workbook, and matching live page snapshot. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-04. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-04.html"
+        ]
+      }
+    },
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-10": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "Compared the proposed title with the locked product record and captured page; the design identity and product type are explicit and customer-facing. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-10. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-10.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "Compared proposed fields with product evidence and the page snapshot; wording is retained only where the record or visible design supports it. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-10. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-10.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "Checked the primary keyword against the product type, dragon or paw motif, and the mapped buyer intent for this exact handle. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-10. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-10.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "Checked secondary terms against the mapped family and use context, confirming they are relevant and not keyword stuffing. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-10. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-10.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "Public SERP/semantic support is present, but no first-party search-volume metric is available; this criterion remains partial by policy. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-10. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-10.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "Read the complete proposed SEO title for clarity, readable English, product identity, differentiation, and compliant length. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-10. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-10.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "Compared the proposed title with the H1/product naming in the captured page and confirmed consistent customer-facing naming. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-10. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-10.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "Read the complete meta description for specificity, natural click context, length, and absence of unsupported performance claims. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-10. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-10.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "Read the complete proposed description and checked that it is customer-facing, grammatical, and free of QA/evidence workflow notes. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-10. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-10.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "Reconciled the locked B006 Revision_Log, evidence identifier, canonical scope workbook, and matching live page snapshot. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-10. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-10.html"
+        ]
+      }
+    },
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-01": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "Compared the proposed title with the locked product record and captured page; the design identity and product type are explicit and customer-facing. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-01. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-01.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "Compared proposed fields with product evidence and the page snapshot; wording is retained only where the record or visible design supports it. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-01. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-01.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "Checked the primary keyword against the product type, dragon or paw motif, and the mapped buyer intent for this exact handle. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-01. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-01.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "Checked secondary terms against the mapped family and use context, confirming they are relevant and not keyword stuffing. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-01. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-01.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "Public SERP/semantic support is present, but no first-party search-volume metric is available; this criterion remains partial by policy. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-01. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-01.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "Read the complete proposed SEO title for clarity, readable English, product identity, differentiation, and compliant length. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-01. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-01.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "Compared the proposed title with the H1/product naming in the captured page and confirmed consistent customer-facing naming. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-01. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-01.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "Read the complete meta description for specificity, natural click context, length, and absence of unsupported performance claims. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-01. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-01.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "Read the complete proposed description and checked that it is customer-facing, grammatical, and free of QA/evidence workflow notes. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-01. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-01.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "Reconciled the locked B006 Revision_Log, evidence identifier, canonical scope workbook, and matching live page snapshot. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-01. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-01.html"
+        ]
+      }
+    },
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-06": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "Compared the proposed title with the locked product record and captured page; the design identity and product type are explicit and customer-facing. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-06. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-06.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "Compared proposed fields with product evidence and the page snapshot; wording is retained only where the record or visible design supports it. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-06. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-06.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "Checked the primary keyword against the product type, dragon or paw motif, and the mapped buyer intent for this exact handle. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-06. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-06.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "Checked secondary terms against the mapped family and use context, confirming they are relevant and not keyword stuffing. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-06. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-06.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "Public SERP/semantic support is present, but no first-party search-volume metric is available; this criterion remains partial by policy. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-06. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-06.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "Read the complete proposed SEO title for clarity, readable English, product identity, differentiation, and compliant length. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-06. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-06.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "Compared the proposed title with the H1/product naming in the captured page and confirmed consistent customer-facing naming. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-06. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-06.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "Read the complete meta description for specificity, natural click context, length, and absence of unsupported performance claims. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-06. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-06.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "Read the complete proposed description and checked that it is customer-facing, grammatical, and free of QA/evidence workflow notes. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-06. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-06.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "Reconciled the locked B006 Revision_Log, evidence identifier, canonical scope workbook, and matching live page snapshot. Handle under review: custom-dragon-shaped-area-rug-personalized-library-wester-design-06. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-wester-design-06.html"
+        ]
+      }
+    },
+    "custom-dragon-shaped-area-rug-personalized-library-western-dragon": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "Compared the proposed title with the locked product record and captured page; the design identity and product type are explicit and customer-facing. Handle under review: custom-dragon-shaped-area-rug-personalized-library-western-dragon. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-western-dragon.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "Compared proposed fields with product evidence and the page snapshot; wording is retained only where the record or visible design supports it. Handle under review: custom-dragon-shaped-area-rug-personalized-library-western-dragon. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-western-dragon.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "Checked the primary keyword against the product type, dragon or paw motif, and the mapped buyer intent for this exact handle. Handle under review: custom-dragon-shaped-area-rug-personalized-library-western-dragon. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-western-dragon.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "Checked secondary terms against the mapped family and use context, confirming they are relevant and not keyword stuffing. Handle under review: custom-dragon-shaped-area-rug-personalized-library-western-dragon. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-western-dragon.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "Public SERP/semantic support is present, but no first-party search-volume metric is available; this criterion remains partial by policy. Handle under review: custom-dragon-shaped-area-rug-personalized-library-western-dragon. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-western-dragon.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "Read the complete proposed SEO title for clarity, readable English, product identity, differentiation, and compliant length. Handle under review: custom-dragon-shaped-area-rug-personalized-library-western-dragon. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-western-dragon.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "Compared the proposed title with the H1/product naming in the captured page and confirmed consistent customer-facing naming. Handle under review: custom-dragon-shaped-area-rug-personalized-library-western-dragon. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-western-dragon.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "Read the complete meta description for specificity, natural click context, length, and absence of unsupported performance claims. Handle under review: custom-dragon-shaped-area-rug-personalized-library-western-dragon. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-western-dragon.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "Read the complete proposed description and checked that it is customer-facing, grammatical, and free of QA/evidence workflow notes. Handle under review: custom-dragon-shaped-area-rug-personalized-library-western-dragon. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-western-dragon.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "Reconciled the locked B006 Revision_Log, evidence identifier, canonical scope workbook, and matching live page snapshot. Handle under review: custom-dragon-shaped-area-rug-personalized-library-western-dragon. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dragon-shaped-area-rug-personalized-library-western-dragon.html"
+        ]
+      }
+    },
+    "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "Compared the proposed title with the locked product record and captured page; the design identity and product type are explicit and customer-facing. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "Compared proposed fields with product evidence and the page snapshot; wording is retained only where the record or visible design supports it. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "Checked the primary keyword against the product type, dragon or paw motif, and the mapped buyer intent for this exact handle. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "Checked secondary terms against the mapped family and use context, confirming they are relevant and not keyword stuffing. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "Public SERP/semantic support is present, but no first-party search-volume metric is available; this criterion remains partial by policy. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "Read the complete proposed SEO title for clarity, readable English, product identity, differentiation, and compliant length. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "Compared the proposed title with the H1/product naming in the captured page and confirmed consistent customer-facing naming. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "Read the complete meta description for specificity, natural click context, length, and absence of unsupported performance claims. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "Read the complete proposed description and checked that it is customer-facing, grammatical, and free of QA/evidence workflow notes. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "Reconciled the locked B006 Revision_Log, evidence identifier, canonical scope workbook, and matching live page snapshot. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01.html"
+        ]
+      }
+    },
+    "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "Compared the proposed title with the locked product record and captured page; the design identity and product type are explicit and customer-facing. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "Compared proposed fields with product evidence and the page snapshot; wording is retained only where the record or visible design supports it. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "Checked the primary keyword against the product type, dragon or paw motif, and the mapped buyer intent for this exact handle. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "Checked secondary terms against the mapped family and use context, confirming they are relevant and not keyword stuffing. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "Public SERP/semantic support is present, but no first-party search-volume metric is available; this criterion remains partial by policy. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "Read the complete proposed SEO title for clarity, readable English, product identity, differentiation, and compliant length. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "Compared the proposed title with the H1/product naming in the captured page and confirmed consistent customer-facing naming. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "Read the complete meta description for specificity, natural click context, length, and absence of unsupported performance claims. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "Read the complete proposed description and checked that it is customer-facing, grammatical, and free of QA/evidence workflow notes. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "Reconciled the locked B006 Revision_Log, evidence identifier, canonical scope workbook, and matching live page snapshot. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05.html"
+        ]
+      }
+    },
+    "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "Compared the proposed title with the locked product record and captured page; the design identity and product type are explicit and customer-facing. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "Compared proposed fields with product evidence and the page snapshot; wording is retained only where the record or visible design supports it. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "Checked the primary keyword against the product type, dragon or paw motif, and the mapped buyer intent for this exact handle. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "Checked secondary terms against the mapped family and use context, confirming they are relevant and not keyword stuffing. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "Public SERP/semantic support is present, but no first-party search-volume metric is available; this criterion remains partial by policy. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "Read the complete proposed SEO title for clarity, readable English, product identity, differentiation, and compliant length. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "Compared the proposed title with the H1/product naming in the captured page and confirmed consistent customer-facing naming. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "Read the complete meta description for specificity, natural click context, length, and absence of unsupported performance claims. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "Read the complete proposed description and checked that it is customer-facing, grammatical, and free of QA/evidence workflow notes. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "Reconciled the locked B006 Revision_Log, evidence identifier, canonical scope workbook, and matching live page snapshot. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03.html"
+        ]
+      }
+    },
+    "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "Compared the proposed title with the locked product record and captured page; the design identity and product type are explicit and customer-facing. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "Compared proposed fields with product evidence and the page snapshot; wording is retained only where the record or visible design supports it. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "Checked the primary keyword against the product type, dragon or paw motif, and the mapped buyer intent for this exact handle. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "Checked secondary terms against the mapped family and use context, confirming they are relevant and not keyword stuffing. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "Public SERP/semantic support is present, but no first-party search-volume metric is available; this criterion remains partial by policy. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "Read the complete proposed SEO title for clarity, readable English, product identity, differentiation, and compliant length. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "Compared the proposed title with the H1/product naming in the captured page and confirmed consistent customer-facing naming. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "Read the complete meta description for specificity, natural click context, length, and absence of unsupported performance claims. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "Read the complete proposed description and checked that it is customer-facing, grammatical, and free of QA/evidence workflow notes. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "Reconciled the locked B006 Revision_Log, evidence identifier, canonical scope workbook, and matching live page snapshot. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02.html"
+        ]
+      }
+    },
+    "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "Compared the proposed title with the locked product record and captured page; the design identity and product type are explicit and customer-facing. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "Compared proposed fields with product evidence and the page snapshot; wording is retained only where the record or visible design supports it. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "Checked the primary keyword against the product type, dragon or paw motif, and the mapped buyer intent for this exact handle. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "Checked secondary terms against the mapped family and use context, confirming they are relevant and not keyword stuffing. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "Public SERP/semantic support is present, but no first-party search-volume metric is available; this criterion remains partial by policy. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "Read the complete proposed SEO title for clarity, readable English, product identity, differentiation, and compliant length. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "Compared the proposed title with the H1/product naming in the captured page and confirmed consistent customer-facing naming. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "Read the complete meta description for specificity, natural click context, length, and absence of unsupported performance claims. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "Read the complete proposed description and checked that it is customer-facing, grammatical, and free of QA/evidence workflow notes. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "Reconciled the locked B006 Revision_Log, evidence identifier, canonical scope workbook, and matching live page snapshot. Handle under review: custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4. Evidence is specific to this product record and snapshot.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B006_scope_workbook.xlsx",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B006_pages/custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4.html"
+        ]
+      }
+    }
+  }
+}
