@@ -1,0 +1,24 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260909-B006-R081-FULLRES-HARDENED",
+  "qa_batch_id": "REV_R081",
+  "source_workbook": "resutls/chillgen.com/chillgen_20260907_01/revisions/R081/SEO_Product_Optimization_revision_R081.xlsx",
+  "source_workbook_sha256": "3ac8e4c10018e8d44806075c269eefff85cdc360b018a26d35f08efc092b608f",
+  "batch_product_keys": [
+    "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-01",
+    "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-05",
+    "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-03",
+    "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-design-02",
+    "custom-dog-paw-round-rug-patchwork-area-rug-for-pet-lovers-1-a4"
+  ],
+  "status_counts": {
+    "QA_PASS": 5,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_PASS",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/reviewer/B006_R081_reviewer_evidence_fullres.json",
+  "manual_criteria_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/reviewer/B006_R081_criteria_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}
