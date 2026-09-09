@@ -1,0 +1,47 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "rubric_hash": "caeacb83a45638bcffc03ce1d2daf1fc9e915f417ada6b66eb706284283ea96c",
+  "qa_run_id": "QA-20260909-B037-HARDENED-STATUS-SYNC",
+  "qa_batch_id": "REV_B037",
+  "batch_id": "B037",
+  "revision_id": "B037",
+  "parent_run_id": "QA-20260909-B037-HARDENED-POSTFIX2",
+  "source_workbook": "resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+  "source_workbook_sha256": "817b889e112b98a4f8e83e9e24accde206fd5d1db4abe1334a3ab195c27bbf90",
+  "scope_hash": "388771e4577ffefbc1c4c87ea8da92a071ea6663ae776da0e751365df8ee8d51",
+  "batch_product_keys": [
+    "wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f",
+    "custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7",
+    "custom-dog-paw-print-shaped-rug-39afbc78d5",
+    "custom-bear-paw-print-area-rug-a5abc100ab",
+    "custom-bear-paw-print-area-rug-7ff5dd63e9",
+    "custom-bear-paw-print-area-rug-a43b3e3594",
+    "custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc",
+    "custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd",
+    "custom-road-map-area-rug-play-mat-baa948f510-baa948f510",
+    "custom-road-map-area-rug-play-mat-9cf6abf61b"
+  ],
+  "status_counts": {
+    "QA_PASS": 10,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "issue_counts": {
+    "CRITICAL": 0,
+    "MAJOR": 0,
+    "MINOR": 0,
+    "LIMITATION": 20
+  },
+  "batch_status": "QA_PASS",
+  "content_qa_status": "QA_PASS",
+  "evidence_maturity": "SERP_ONLY",
+  "canonical": true,
+  "supersedes": [
+    "QA-20260909-B037-HARDENED-POSTFIX2"
+  ],
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/reviewer/B037_reviewer_evidence_fullres.json",
+  "manual_criteria_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/reviewer/B037_criteria_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED",
+  "created_at": "2026-09-09T17:21:02+07:00"
+}

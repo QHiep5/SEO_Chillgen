@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "B051",
+  "batch_id": "B051",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+  "source_workbook_sha256": "c5a5af61c13c9cb71f1718c4af68ac35ad4f43926428ef5ae185cfccf075c316",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-B051-CRITERIA-01",
+    "reviewed_at": "2026-09-09T17:51:41+07:00"
+  },
+  "reviewed_at": "2026-09-09T17:51:41+07:00",
+  "products": {
+    "personalized-welcome-doormat-class-teacher-f81a80f527": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-welcome-doormat-class-teacher-f81a80f527: proposed title 'Personalized Classroom Welcome Doormat for Teacher Name Decor' and description 'Personalized classroom welcome doormat with teacher name, school doodles, rainbow accen...' keep the same product/theme shown in evidence B051-501.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-501",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-welcome-doormat-class-teacher-f81a80f527.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-welcome-doormat-class-teacher-f81a80f527: customer copy is limited to visible/product facts such as 'white classroom mat reads Welcome to Mrs. Sophia's Classroom with apple, pencil, flowers, ba...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-501",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-welcome-doormat-class-teacher-f81a80f527.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-welcome-doormat-class-teacher-f81a80f527: primary keyword 'personalized classroom welcome doormat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-501",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-welcome-doormat-class-teacher-f81a80f527.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-welcome-doormat-class-teacher-f81a80f527: proposed copy targets the same search intent as 'personalized classroom welcome doormat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-501",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-welcome-doormat-class-teacher-f81a80f527.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-welcome-doormat-class-teacher-f81a80f527: current support is 'Prioritize product-specific long tails: personalized classroom doormat, teacher name classro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-501",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-welcome-doormat-class-teacher-f81a80f527.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-welcome-doormat-class-teacher-f81a80f527: title 'Personalized Classroom Welcome Doormat for Teacher Name Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-501",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-welcome-doormat-class-teacher-f81a80f527.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-welcome-doormat-class-teacher-f81a80f527: meta title 'Personalized Classroom Welcome Doormat for Teacher Name Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-501",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-welcome-doormat-class-teacher-f81a80f527.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-welcome-doormat-class-teacher-f81a80f527: meta 'Personalized classroom welcome doormat with teacher name, school doodles, rainbow accents, non slip backing and...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-501",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-welcome-doormat-class-teacher-f81a80f527.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-welcome-doormat-class-teacher-f81a80f527: description begins 'Personalized classroom welcome doormat with teacher name, school doodles, rainbow accents, non slip backing and...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-501",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-welcome-doormat-class-teacher-f81a80f527.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-welcome-doormat-class-teacher-f81a80f527: workbook row, evidence id B051-501, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-501",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-welcome-doormat-class-teacher-f81a80f527.html"
+        ]
+      }
+    },
+    "custom-flamingo-welcome-mat-for-front-door-2096a15fdb": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-flamingo-welcome-mat-for-front-door-2096a15fdb: proposed title 'Flamingo Couple Area Rug with Sunset Beach Art for Tropical Flaming...' and description 'Flamingo couple area rug with heart-shaped necks, sunset beach florals, memory foam cus...' keep the same product/theme shown in evidence B051-502.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-502",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-flamingo-welcome-mat-for-front-door-2096a15fdb.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-flamingo-welcome-mat-for-front-door-2096a15fdb: customer copy is limited to visible/product facts such as 'rectangular rug shows two flamingos forming a heart with beach sunset, hibiscus flowers and...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-502",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-flamingo-welcome-mat-for-front-door-2096a15fdb.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-flamingo-welcome-mat-for-front-door-2096a15fdb: primary keyword 'flamingo couple area rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-502",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-flamingo-welcome-mat-for-front-door-2096a15fdb.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-flamingo-welcome-mat-for-front-door-2096a15fdb: proposed copy targets the same search intent as 'flamingo couple area rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-502",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-flamingo-welcome-mat-for-front-door-2096a15fdb.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-flamingo-welcome-mat-for-front-door-2096a15fdb: current support is 'Prioritize product-specific long tails: personalized classroom doormat, teacher name classro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-502",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-flamingo-welcome-mat-for-front-door-2096a15fdb.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-flamingo-welcome-mat-for-front-door-2096a15fdb: title 'Flamingo Couple Area Rug with Sunset Beach Art for Tropical Flamingo Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-502",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-flamingo-welcome-mat-for-front-door-2096a15fdb.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-flamingo-welcome-mat-for-front-door-2096a15fdb: meta title 'Flamingo Couple Area Rug with Sunset Beach Art for Tropical Flamingo Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-502",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-flamingo-welcome-mat-for-front-door-2096a15fdb.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-flamingo-welcome-mat-for-front-door-2096a15fdb: meta 'Flamingo couple area rug with heart-shaped necks, sunset beach florals, memory foam cushion and non slip backing.' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-502",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-flamingo-welcome-mat-for-front-door-2096a15fdb.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-flamingo-welcome-mat-for-front-door-2096a15fdb: description begins 'Flamingo couple area rug with heart-shaped necks, sunset beach florals, memory foam cushion and non slip backing...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-502",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-flamingo-welcome-mat-for-front-door-2096a15fdb.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-flamingo-welcome-mat-for-front-door-2096a15fdb: workbook row, evidence id B051-502, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-502",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-flamingo-welcome-mat-for-front-door-2096a15fdb.html"
+        ]
+      }
+    },
+    "personalized-classroom-doormat-custom-teacher-name-23d2140383": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-classroom-doormat-custom-teacher-name-23d2140383: proposed title 'Everyone Is Welcome Classroom Doormat for Teacher Name Decor' and description 'Everyone Is Welcome classroom doormat with custom teacher name, colorful handprint desi...' keep the same product/theme shown in evidence B051-503.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-503",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-custom-teacher-name-23d2140383.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-classroom-doormat-custom-teacher-name-23d2140383: customer copy is limited to visible/product facts such as 'dark navy mat reads Everyone Is Welcome Here Mrs. Sophia with bright hands, books, apples an...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-503",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-custom-teacher-name-23d2140383.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-classroom-doormat-custom-teacher-name-23d2140383: primary keyword 'everyone is welcome classroom doormat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-503",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-custom-teacher-name-23d2140383.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-classroom-doormat-custom-teacher-name-23d2140383: proposed copy targets the same search intent as 'everyone is welcome classroom doormat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-503",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-custom-teacher-name-23d2140383.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-classroom-doormat-custom-teacher-name-23d2140383: current support is 'Prioritize product-specific long tails: personalized classroom doormat, teacher name classro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-503",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-custom-teacher-name-23d2140383.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-classroom-doormat-custom-teacher-name-23d2140383: title 'Everyone Is Welcome Classroom Doormat for Teacher Name Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-503",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-custom-teacher-name-23d2140383.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-classroom-doormat-custom-teacher-name-23d2140383: meta title 'Everyone Is Welcome Classroom Doormat for Teacher Name Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-503",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-custom-teacher-name-23d2140383.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-classroom-doormat-custom-teacher-name-23d2140383: meta 'Everyone Is Welcome classroom doormat with custom teacher name, colorful handprint design, non slip backing and...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-503",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-custom-teacher-name-23d2140383.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-classroom-doormat-custom-teacher-name-23d2140383: description begins 'Everyone Is Welcome classroom doormat with custom teacher name, colorful handprint design, non slip backing and...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-503",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-custom-teacher-name-23d2140383.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-classroom-doormat-custom-teacher-name-23d2140383: workbook row, evidence id B051-503, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-503",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-custom-teacher-name-23d2140383.html"
+        ]
+      }
+    },
+    "custom-pink-flamingo-welcome-mat-98ad4e675e": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-pink-flamingo-welcome-mat-98ad4e675e: proposed title 'Pink Flamingo Moonlight Area Rug for Moonlight Flamingo Decor' and description 'Pink flamingo area rug with moonlit tropical water scene, memory foam cushion, quick dr...' keep the same product/theme shown in evidence B051-504.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-504",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-welcome-mat-98ad4e675e.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-pink-flamingo-welcome-mat-98ad4e675e: customer copy is limited to visible/product facts such as 'bright pink flamingos stand in reflective water under a large moon with dark blue and purple...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-504",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-welcome-mat-98ad4e675e.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-pink-flamingo-welcome-mat-98ad4e675e: primary keyword 'moonlight pink flamingo rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-504",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-welcome-mat-98ad4e675e.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-pink-flamingo-welcome-mat-98ad4e675e: proposed copy targets the same search intent as 'moonlight pink flamingo rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-504",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-welcome-mat-98ad4e675e.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-pink-flamingo-welcome-mat-98ad4e675e: current support is 'Prioritize product-specific long tails: personalized classroom doormat, teacher name classro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-504",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-welcome-mat-98ad4e675e.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-pink-flamingo-welcome-mat-98ad4e675e: title 'Pink Flamingo Moonlight Area Rug for Moonlight Flamingo Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-504",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-welcome-mat-98ad4e675e.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-pink-flamingo-welcome-mat-98ad4e675e: meta title 'Pink Flamingo Moonlight Area Rug for Moonlight Flamingo Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-504",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-welcome-mat-98ad4e675e.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-pink-flamingo-welcome-mat-98ad4e675e: meta 'Pink flamingo area rug with moonlit tropical water scene, memory foam cushion, quick dry surface and non slip ba...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-504",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-welcome-mat-98ad4e675e.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-pink-flamingo-welcome-mat-98ad4e675e: description begins 'Pink flamingo area rug with moonlit tropical water scene, memory foam cushion, quick dry surface and non slip ba...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-504",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-welcome-mat-98ad4e675e.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-pink-flamingo-welcome-mat-98ad4e675e: workbook row, evidence id B051-504, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-504",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-welcome-mat-98ad4e675e.html"
+        ]
+      }
+    },
+    "personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb: proposed title 'Personalized Classroom Affirmation Doormat for Teacher Decor' and description 'Personalized classroom affirmation doormat with teacher name, colorful crayon words, no...' keep the same product/theme shown in evidence B051-505.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-505",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb: customer copy is limited to visible/product facts such as 'white mat reads In This Classroom You Are Mrs. Sophia with colorful crayons carrying positiv...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-505",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb: primary keyword 'classroom affirmation doormat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-505",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb: proposed copy targets the same search intent as 'classroom affirmation doormat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-505",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb: current support is 'Prioritize product-specific long tails: personalized classroom doormat, teacher name classro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-505",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb: title 'Personalized Classroom Affirmation Doormat for Teacher Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-505",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb: meta title 'Personalized Classroom Affirmation Doormat for Teacher Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-505",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb: meta 'Personalized classroom affirmation doormat with teacher name, colorful crayon words, non slip backing and school...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-505",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb: description begins 'Personalized classroom affirmation doormat with teacher name, colorful crayon words, non slip backing and school...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-505",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb: workbook row, evidence id B051-505, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-505",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-welcome-to-class-door-mat-d4e1808fcb.html"
+        ]
+      }
+    },
+    "custom-classroom-welcome-mat-for-front-door-ca10b2ead1": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-classroom-welcome-mat-for-front-door-ca10b2ead1: proposed title 'Red Personalized Classroom Welcome Mat for Teacher Name Decor' and description 'Red personalized classroom welcome mat with teacher name, flower and rainbow school doo...' keep the same product/theme shown in evidence B051-506.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-506",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-classroom-welcome-mat-for-front-door-ca10b2ead1.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-classroom-welcome-mat-for-front-door-ca10b2ead1: customer copy is limited to visible/product facts such as 'red and black mat reads Welcome To Mrs. Sophia's Classroom with books, flowers, pencil, rain...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-506",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-classroom-welcome-mat-for-front-door-ca10b2ead1.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-classroom-welcome-mat-for-front-door-ca10b2ead1: primary keyword 'red classroom welcome mat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-506",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-classroom-welcome-mat-for-front-door-ca10b2ead1.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-classroom-welcome-mat-for-front-door-ca10b2ead1: proposed copy targets the same search intent as 'red classroom welcome mat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-506",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-classroom-welcome-mat-for-front-door-ca10b2ead1.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-classroom-welcome-mat-for-front-door-ca10b2ead1: current support is 'Prioritize product-specific long tails: personalized classroom doormat, teacher name classro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-506",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-classroom-welcome-mat-for-front-door-ca10b2ead1.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-classroom-welcome-mat-for-front-door-ca10b2ead1: title 'Red Personalized Classroom Welcome Mat for Teacher Name Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-506",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-classroom-welcome-mat-for-front-door-ca10b2ead1.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-classroom-welcome-mat-for-front-door-ca10b2ead1: meta title 'Red Personalized Classroom Welcome Mat for Teacher Name Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-506",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-classroom-welcome-mat-for-front-door-ca10b2ead1.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-classroom-welcome-mat-for-front-door-ca10b2ead1: meta 'Red personalized classroom welcome mat with teacher name, flower and rainbow school doodles, non slip backing an...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-506",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-classroom-welcome-mat-for-front-door-ca10b2ead1.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-classroom-welcome-mat-for-front-door-ca10b2ead1: description begins 'Red personalized classroom welcome mat with teacher name, flower and rainbow school doodles, non slip backing an...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-506",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-classroom-welcome-mat-for-front-door-ca10b2ead1.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-classroom-welcome-mat-for-front-door-ca10b2ead1: workbook row, evidence id B051-506, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-506",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-classroom-welcome-mat-for-front-door-ca10b2ead1.html"
+        ]
+      }
+    },
+    "personalized-classroom-doormat-custom-teacher-name-45bc0142b3": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-classroom-doormat-custom-teacher-name-45bc0142b3: proposed title 'Speech Pathologist Personalized Classroom Mat for Teacher Name Decor' and description 'Speech pathologist personalized classroom mat with teacher name, therapy icons, colorfu...' keep the same product/theme shown in evidence B051-507.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-507",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-custom-teacher-name-45bc0142b3.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-classroom-doormat-custom-teacher-name-45bc0142b3: customer copy is limited to visible/product facts such as 'mat reads Speech Mrs. Sophia Pathologist with language, voice, hearing and therapy-related c...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-507",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-custom-teacher-name-45bc0142b3.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-classroom-doormat-custom-teacher-name-45bc0142b3: primary keyword 'speech pathologist classroom mat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-507",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-custom-teacher-name-45bc0142b3.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-classroom-doormat-custom-teacher-name-45bc0142b3: proposed copy targets the same search intent as 'speech pathologist classroom mat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-507",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-custom-teacher-name-45bc0142b3.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-classroom-doormat-custom-teacher-name-45bc0142b3: current support is 'Prioritize product-specific long tails: personalized classroom doormat, teacher name classro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-507",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-custom-teacher-name-45bc0142b3.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-classroom-doormat-custom-teacher-name-45bc0142b3: title 'Speech Pathologist Personalized Classroom Mat for Teacher Name Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-507",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-custom-teacher-name-45bc0142b3.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-classroom-doormat-custom-teacher-name-45bc0142b3: meta title 'Speech Pathologist Personalized Classroom Mat for Teacher Name Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-507",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-custom-teacher-name-45bc0142b3.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-classroom-doormat-custom-teacher-name-45bc0142b3: meta 'Speech pathologist personalized classroom mat with teacher name, therapy icons, colorful school doodles and non...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-507",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-custom-teacher-name-45bc0142b3.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-classroom-doormat-custom-teacher-name-45bc0142b3: description begins 'Speech pathologist personalized classroom mat with teacher name, therapy icons, colorful school doodles and non...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-507",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-custom-teacher-name-45bc0142b3.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-classroom-doormat-custom-teacher-name-45bc0142b3: workbook row, evidence id B051-507, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-507",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/personalized-classroom-doormat-custom-teacher-name-45bc0142b3.html"
+        ]
+      }
+    },
+    "custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca: proposed title 'Flamingo Heart Sunset Area Rug for Pink Flamingo Sunset Decor' and description 'Flamingo heart sunset area rug with two pink birds, tropical water colors, memory foam...' keep the same product/theme shown in evidence B051-508.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-508",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca: customer copy is limited to visible/product facts such as 'two flamingos create a heart shape against a bright orange and turquoise sunset water scene;...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-508",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca: primary keyword 'flamingo heart area rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-508",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca: proposed copy targets the same search intent as 'flamingo heart area rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-508",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca: current support is 'Prioritize product-specific long tails: personalized classroom doormat, teacher name classro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-508",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca: title 'Flamingo Heart Sunset Area Rug for Pink Flamingo Sunset Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-508",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca: meta title 'Flamingo Heart Sunset Area Rug for Pink Flamingo Sunset Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-508",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca: meta 'Flamingo heart sunset area rug with two pink birds, tropical water colors, memory foam cushion and non slip back...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-508",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca: description begins 'Flamingo heart sunset area rug with two pink birds, tropical water colors, memory foam cushion and non slip back...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-508",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca: workbook row, evidence id B051-508, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-508",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-welcome-mat-for-entrance-and-living-room-c2beb658ca.html"
+        ]
+      }
+    },
+    "custom-pink-flamingo-area-rug-doormat-e7ac68e9c9": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-pink-flamingo-area-rug-doormat-e7ac68e9c9: proposed title 'Pastel Pink Flamingo Tropical Area Rug for Tropical Flamingo Decor' and description 'Pastel pink flamingo tropical area rug with palm leaves, sunset water colors, memory fo...' keep the same product/theme shown in evidence B051-509.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-509",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-area-rug-doormat-e7ac68e9c9.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-pink-flamingo-area-rug-doormat-e7ac68e9c9: customer copy is limited to visible/product facts such as 'single flamingo stands in pink and orange tropical water with palm leaves and soft pastel ba...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-509",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-area-rug-doormat-e7ac68e9c9.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-pink-flamingo-area-rug-doormat-e7ac68e9c9: primary keyword 'pastel pink flamingo rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-509",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-area-rug-doormat-e7ac68e9c9.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-pink-flamingo-area-rug-doormat-e7ac68e9c9: proposed copy targets the same search intent as 'pastel pink flamingo rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-509",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-area-rug-doormat-e7ac68e9c9.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-pink-flamingo-area-rug-doormat-e7ac68e9c9: current support is 'Prioritize product-specific long tails: personalized classroom doormat, teacher name classro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-509",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-area-rug-doormat-e7ac68e9c9.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-pink-flamingo-area-rug-doormat-e7ac68e9c9: title 'Pastel Pink Flamingo Tropical Area Rug for Tropical Flamingo Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-509",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-area-rug-doormat-e7ac68e9c9.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-pink-flamingo-area-rug-doormat-e7ac68e9c9: meta title 'Pastel Pink Flamingo Tropical Area Rug for Tropical Flamingo Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-509",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-area-rug-doormat-e7ac68e9c9.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-pink-flamingo-area-rug-doormat-e7ac68e9c9: meta 'Pastel pink flamingo tropical area rug with palm leaves, sunset water colors, memory foam cushion and non slip b...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-509",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-area-rug-doormat-e7ac68e9c9.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-pink-flamingo-area-rug-doormat-e7ac68e9c9: description begins 'Pastel pink flamingo tropical area rug with palm leaves, sunset water colors, memory foam cushion and non slip b...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-509",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-area-rug-doormat-e7ac68e9c9.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-pink-flamingo-area-rug-doormat-e7ac68e9c9: workbook row, evidence id B051-509, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-509",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-pink-flamingo-area-rug-doormat-e7ac68e9c9.html"
+        ]
+      }
+    },
+    "custom-koi-fish-shaped-area-rug-3b4acfcd3b": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-koi-fish-shaped-area-rug-3b4acfcd3b: proposed title 'Koi Fish Shaped Area Rug with Pond Design for Koi Pond Decor' and description 'Koi fish shaped area rug with pink pond design, lily pad details, soft velvet surface,...' keep the same product/theme shown in evidence B051-510.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-510",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-koi-fish-shaped-area-rug-3b4acfcd3b.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-koi-fish-shaped-area-rug-3b4acfcd3b: customer copy is limited to visible/product facts such as 'irregular shaped rug resembles a koi pond with pink water paths, green islands, koi fish and...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-510",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-koi-fish-shaped-area-rug-3b4acfcd3b.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-koi-fish-shaped-area-rug-3b4acfcd3b: primary keyword 'koi fish shaped area rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-510",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-koi-fish-shaped-area-rug-3b4acfcd3b.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-koi-fish-shaped-area-rug-3b4acfcd3b: proposed copy targets the same search intent as 'koi fish shaped area rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-510",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-koi-fish-shaped-area-rug-3b4acfcd3b.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-koi-fish-shaped-area-rug-3b4acfcd3b: current support is 'Prioritize product-specific long tails: personalized classroom doormat, teacher name classro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-510",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-koi-fish-shaped-area-rug-3b4acfcd3b.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-koi-fish-shaped-area-rug-3b4acfcd3b: title 'Koi Fish Shaped Area Rug with Pond Design for Koi Pond Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-510",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-koi-fish-shaped-area-rug-3b4acfcd3b.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-koi-fish-shaped-area-rug-3b4acfcd3b: meta title 'Koi Fish Shaped Area Rug with Pond Design for Koi Pond Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-510",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-koi-fish-shaped-area-rug-3b4acfcd3b.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-koi-fish-shaped-area-rug-3b4acfcd3b: meta 'Koi fish shaped area rug with pink pond design, lily pad details, soft velvet surface, anti slip backing and liv...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-510",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-koi-fish-shaped-area-rug-3b4acfcd3b.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-koi-fish-shaped-area-rug-3b4acfcd3b: description begins 'Koi fish shaped area rug with pink pond design, lily pad details, soft velvet surface, anti slip backing and liv...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-510",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-koi-fish-shaped-area-rug-3b4acfcd3b.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-koi-fish-shaped-area-rug-3b4acfcd3b: workbook row, evidence id B051-510, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B051/SEO_Product_Optimization_longtitle_B051_R1.xlsx",
+          "product_evidence:B051-510",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B051_pages/custom-koi-fish-shaped-area-rug-3b4acfcd3b.html"
+        ]
+      }
+    }
+  }
+}

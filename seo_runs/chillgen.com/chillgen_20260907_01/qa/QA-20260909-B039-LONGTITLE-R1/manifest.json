@@ -1,0 +1,47 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "rubric_hash": "caeacb83a45638bcffc03ce1d2daf1fc9e915f417ada6b66eb706284283ea96c",
+  "qa_run_id": "QA-20260909-B039-LONGTITLE-R1",
+  "qa_batch_id": "REV_B039",
+  "batch_id": "B039",
+  "revision_id": "B039",
+  "parent_run_id": "QA-20260909-B039-HARDENED-STATUS-SYNC",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B039/SEO_Product_Optimization_longtitle_B039_R1.xlsx",
+  "source_workbook_sha256": "943b2ab51acc2fe273b1649c712d9791e6e620b8579e3c4da5784a59e4c8a041",
+  "scope_hash": "3ad6a3e24621f408acecbc4bbbf0e185dc85751f017a2a72c906759aea344c70",
+  "batch_product_keys": [
+    "custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf",
+    "custom-composition-notebook-classroom-rug-for-kids-64af3c74f1",
+    "custom-composition-notebook-classroom-rugs-for-kids-88021773b3",
+    "custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848",
+    "custom-composition-notebook-classroom-rug-for-kids-95c57fb741",
+    "custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7",
+    "custom-composition-notebook-classroom-rug-kids-f215fce7cb",
+    "custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3",
+    "custom-composition-notebook-classroom-rug-for-kids-8106743a5b",
+    "custom-composition-notebook-classroom-rug-7445b86039-7445b86039"
+  ],
+  "status_counts": {
+    "QA_PASS": 10,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "issue_counts": {
+    "CRITICAL": 0,
+    "MAJOR": 0,
+    "MINOR": 0,
+    "LIMITATION": 20
+  },
+  "batch_status": "QA_PASS",
+  "content_qa_status": "QA_PASS",
+  "evidence_maturity": "SERP_ONLY",
+  "canonical": true,
+  "supersedes": [
+    "QA-20260909-B039-HARDENED-STATUS-SYNC"
+  ],
+  "manual_image_evidence": "/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/reviewer/longtitle/B039_reviewer_evidence_longtitle_R1.json",
+  "manual_criteria_evidence": "/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/reviewer/longtitle/B039_criteria_evidence_longtitle_R1.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED",
+  "created_at": "2026-09-09T17:48:52+07:00"
+}

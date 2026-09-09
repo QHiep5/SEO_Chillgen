@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "B040",
+  "batch_id": "B040",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+  "source_workbook_sha256": "18c02d2d39c9d4c0d6c626b3bc55cdc1006ff70325320ecea0f0b6bf25dbe5cf",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-B040-CRITERIA-01",
+    "reviewed_at": "2026-09-09T17:51:45+07:00"
+  },
+  "reviewed_at": "2026-09-09T17:51:45+07:00",
+  "products": {
+    "celtic-tree-of-life-welcome-mat-5798e850b0": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for celtic-tree-of-life-welcome-mat-5798e850b0: proposed title 'Sunset Celtic Tree Of Life Rug for Yggdrasil Decor' and description 'Decorate with a sunset Celtic Tree of Life rug featuring warm orange glow, green border...' keep the same product/theme shown in evidence B040-391.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-391",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/celtic-tree-of-life-welcome-mat-5798e850b0.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for celtic-tree-of-life-welcome-mat-5798e850b0: customer copy is limited to visible/product facts such as 'rectangular rug with green Celtic border, circular orange sunset center, spreading tree root...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-391",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/celtic-tree-of-life-welcome-mat-5798e850b0.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for celtic-tree-of-life-welcome-mat-5798e850b0: primary keyword 'sunset Celtic Tree of Life rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-391",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/celtic-tree-of-life-welcome-mat-5798e850b0.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for celtic-tree-of-life-welcome-mat-5798e850b0: proposed copy targets the same search intent as 'sunset Celtic Tree of Life rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-391",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/celtic-tree-of-life-welcome-mat-5798e850b0.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for celtic-tree-of-life-welcome-mat-5798e850b0: current support is 'Marketplace and retail SERPs support Celtic Tree of Life rugs, Tree of Life welcome mats, Yg...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-391",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/celtic-tree-of-life-welcome-mat-5798e850b0.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for celtic-tree-of-life-welcome-mat-5798e850b0: title 'Sunset Celtic Tree Of Life Rug for Yggdrasil Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-391",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/celtic-tree-of-life-welcome-mat-5798e850b0.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for celtic-tree-of-life-welcome-mat-5798e850b0: meta title 'Sunset Celtic Tree Of Life Rug for Yggdrasil Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-391",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/celtic-tree-of-life-welcome-mat-5798e850b0.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for celtic-tree-of-life-welcome-mat-5798e850b0: meta 'Decorate with a sunset Celtic Tree of Life rug featuring warm orange glow, green border, knot details, size char...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-391",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/celtic-tree-of-life-welcome-mat-5798e850b0.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for celtic-tree-of-life-welcome-mat-5798e850b0: description begins 'Decorate with a sunset Celtic Tree of Life rug featuring warm orange glow, green border, knot details, size char...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-391",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/celtic-tree-of-life-welcome-mat-5798e850b0.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for celtic-tree-of-life-welcome-mat-5798e850b0: workbook row, evidence id B040-391, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-391",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/celtic-tree-of-life-welcome-mat-5798e850b0.html"
+        ]
+      }
+    },
+    "tree-of-life-celtic-indoor-rug-89f894eb42": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for tree-of-life-celtic-indoor-rug-89f894eb42: proposed title 'Abstract Rainbow Tree Of Life Rug for Colorful Tree Decor' and description 'Style a room with an abstract rainbow Tree of Life rug, blue background, colorful leave...' keep the same product/theme shown in evidence B040-392.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-392",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-indoor-rug-89f894eb42.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for tree-of-life-celtic-indoor-rug-89f894eb42: customer copy is limited to visible/product facts such as 'vivid abstract rug with flowing Tree of Life trunk, red orange yellow and blue leaves, deep...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-392",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-indoor-rug-89f894eb42.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for tree-of-life-celtic-indoor-rug-89f894eb42: primary keyword 'abstract rainbow Tree of Life rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-392",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-indoor-rug-89f894eb42.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for tree-of-life-celtic-indoor-rug-89f894eb42: proposed copy targets the same search intent as 'abstract rainbow Tree of Life rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-392",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-indoor-rug-89f894eb42.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for tree-of-life-celtic-indoor-rug-89f894eb42: current support is 'Marketplace and retail SERPs support Celtic Tree of Life rugs, Tree of Life welcome mats, Yg...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-392",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-indoor-rug-89f894eb42.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for tree-of-life-celtic-indoor-rug-89f894eb42: title 'Abstract Rainbow Tree Of Life Rug for Colorful Tree Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-392",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-indoor-rug-89f894eb42.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for tree-of-life-celtic-indoor-rug-89f894eb42: meta title 'Abstract Rainbow Tree Of Life Rug for Colorful Tree Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-392",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-indoor-rug-89f894eb42.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for tree-of-life-celtic-indoor-rug-89f894eb42: meta 'Style a room with an abstract rainbow Tree of Life rug, blue background, colorful leaves, size options and backing.' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-392",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-indoor-rug-89f894eb42.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for tree-of-life-celtic-indoor-rug-89f894eb42: description begins 'Style a room with an abstract rainbow Tree of Life rug, blue background, colorful leaves, size options and backi...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-392",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-indoor-rug-89f894eb42.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for tree-of-life-celtic-indoor-rug-89f894eb42: workbook row, evidence id B040-392, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-392",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-indoor-rug-89f894eb42.html"
+        ]
+      }
+    },
+    "custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37: proposed title 'Stained Glass Yggdrasil Rug for Tree Of Life Decor' and description 'Customize a stained glass Yggdrasil rug with mountain landscape, Tree of Life roots, je...' keep the same product/theme shown in evidence B040-393.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-393",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37: customer copy is limited to visible/product facts such as 'stained-glass style Tree of Life rug with mountain and sunset landscape, exposed roots, colo...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-393",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37: primary keyword 'stained glass Yggdrasil rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-393",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37: proposed copy targets the same search intent as 'stained glass Yggdrasil rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-393",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37: current support is 'Marketplace and retail SERPs support Celtic Tree of Life rugs, Tree of Life welcome mats, Yg...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-393",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37: title 'Stained Glass Yggdrasil Rug for Tree Of Life Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-393",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37: meta title 'Stained Glass Yggdrasil Rug for Tree Of Life Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-393",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37: meta 'Customize a stained glass Yggdrasil rug with mountain landscape, Tree of Life roots, jewel border, size chart an...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-393",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37: description begins 'Customize a stained glass Yggdrasil rug with mountain landscape, Tree of Life roots, jewel border, size chart an...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-393",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37: workbook row, evidence id B040-393, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-393",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-1cdb86df37-1cdb86df37.html"
+        ]
+      }
+    },
+    "tree-of-life-celtic-area-rug-d16ac94729": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for tree-of-life-celtic-area-rug-d16ac94729: proposed title 'Celtic Knot Roots Rug for Tree Of Life Celtic Decor' and description 'Decorate with a Celtic knot roots rug featuring Tree of Life branches, woven root circl...' keep the same product/theme shown in evidence B040-394.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-394",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-area-rug-d16ac94729.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for tree-of-life-celtic-area-rug-d16ac94729: customer copy is limited to visible/product facts such as 'earthy Tree of Life area rug with golden Celtic knot roots forming a circle, large tree cano...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-394",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-area-rug-d16ac94729.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for tree-of-life-celtic-area-rug-d16ac94729: primary keyword 'Celtic knot roots rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-394",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-area-rug-d16ac94729.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for tree-of-life-celtic-area-rug-d16ac94729: proposed copy targets the same search intent as 'Celtic knot roots rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-394",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-area-rug-d16ac94729.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for tree-of-life-celtic-area-rug-d16ac94729: current support is 'Marketplace and retail SERPs support Celtic Tree of Life rugs, Tree of Life welcome mats, Yg...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-394",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-area-rug-d16ac94729.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for tree-of-life-celtic-area-rug-d16ac94729: title 'Celtic Knot Roots Rug for Tree Of Life Celtic Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-394",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-area-rug-d16ac94729.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for tree-of-life-celtic-area-rug-d16ac94729: meta title 'Celtic Knot Roots Rug for Tree Of Life Celtic Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-394",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-area-rug-d16ac94729.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for tree-of-life-celtic-area-rug-d16ac94729: meta 'Decorate with a Celtic knot roots rug featuring Tree of Life branches, woven root circle, rocky landscape and ba...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-394",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-area-rug-d16ac94729.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for tree-of-life-celtic-area-rug-d16ac94729: description begins 'Decorate with a Celtic knot roots rug featuring Tree of Life branches, woven root circle, rocky landscape and ba...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-394",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-area-rug-d16ac94729.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for tree-of-life-celtic-area-rug-d16ac94729: workbook row, evidence id B040-394, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-394",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-area-rug-d16ac94729.html"
+        ]
+      }
+    },
+    "custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99: proposed title 'Emerald Celtic Tree Rug for Green Tree Of Life Decor' and description 'Add an emerald Celtic Tree rug with glowing green knot border, mountain scene, Tree of...' keep the same product/theme shown in evidence B040-395.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-395",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99: customer copy is limited to visible/product facts such as 'green glowing Celtic tree rug with bright emerald knot border, central Tree of Life, mountai...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-395",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99: primary keyword 'emerald Celtic Tree rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-395",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99: proposed copy targets the same search intent as 'emerald Celtic Tree rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-395",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99: current support is 'Marketplace and retail SERPs support Celtic Tree of Life rugs, Tree of Life welcome mats, Yg...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-395",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99: title 'Emerald Celtic Tree Rug for Green Tree Of Life Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-395",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99: meta title 'Emerald Celtic Tree Rug for Green Tree Of Life Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-395",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99: meta 'Add an emerald Celtic Tree rug with glowing green knot border, mountain scene, Tree of Life roots, size chart an...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-395",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99: description begins 'Add an emerald Celtic Tree rug with glowing green knot border, mountain scene, Tree of Life roots, size chart an...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-395",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99: workbook row, evidence id B040-395, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-395",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-celtic-doormat-e8451c7e99-e8451c7e99.html"
+        ]
+      }
+    },
+    "custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3: proposed title 'Monochrome Tree Of Life Rug for Black White Celtic Decor' and description 'Style a room with a monochrome Tree of Life rug featuring black-and-white line art, roo...' keep the same product/theme shown in evidence B040-396.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-396",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3: customer copy is limited to visible/product facts such as 'black and white Tree of Life rug with intricate line-art tree canopy, exposed roots, mountai...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-396",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3: primary keyword 'monochrome Tree of Life rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-396",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3: proposed copy targets the same search intent as 'monochrome Tree of Life rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-396",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3: current support is 'Marketplace and retail SERPs support Celtic Tree of Life rugs, Tree of Life welcome mats, Yg...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-396",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3: title 'Monochrome Tree Of Life Rug for Black White Celtic Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-396",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3: meta title 'Monochrome Tree Of Life Rug for Black White Celtic Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-396",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3: meta 'Style a room with a monochrome Tree of Life rug featuring black-and-white line art, roots, hills and backing det...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-396",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3: description begins 'Style a room with a monochrome Tree of Life rug featuring black-and-white line art, roots, hills and backing det...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-396",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3: workbook row, evidence id B040-396, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-396",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-22c37718e3-22c37718e3.html"
+        ]
+      }
+    },
+    "tree-of-life-celtic-indoor-rug-e74720f30a": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for tree-of-life-celtic-indoor-rug-e74720f30a: proposed title 'Teal Gold Tree Of Life Rug for Yggdrasil Tree Of Life Decor' and description 'Decorate with a teal gold Tree of Life rug featuring Celtic knot border, mountain lands...' keep the same product/theme shown in evidence B040-397.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-397",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-indoor-rug-e74720f30a.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for tree-of-life-celtic-indoor-rug-e74720f30a: customer copy is limited to visible/product facts such as 'teal and gold Tree of Life rug with rolling green mountains, golden trunk and roots, Celtic...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-397",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-indoor-rug-e74720f30a.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for tree-of-life-celtic-indoor-rug-e74720f30a: primary keyword 'teal gold Tree of Life rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-397",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-indoor-rug-e74720f30a.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for tree-of-life-celtic-indoor-rug-e74720f30a: proposed copy targets the same search intent as 'teal gold Tree of Life rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-397",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-indoor-rug-e74720f30a.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for tree-of-life-celtic-indoor-rug-e74720f30a: current support is 'Marketplace and retail SERPs support Celtic Tree of Life rugs, Tree of Life welcome mats, Yg...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-397",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-indoor-rug-e74720f30a.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for tree-of-life-celtic-indoor-rug-e74720f30a: title 'Teal Gold Tree Of Life Rug for Yggdrasil Tree Of Life Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-397",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-indoor-rug-e74720f30a.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for tree-of-life-celtic-indoor-rug-e74720f30a: meta title 'Teal Gold Tree Of Life Rug for Yggdrasil Tree Of Life Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-397",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-indoor-rug-e74720f30a.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for tree-of-life-celtic-indoor-rug-e74720f30a: meta 'Decorate with a teal gold Tree of Life rug featuring Celtic knot border, mountain landscape, roots and backing d...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-397",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-indoor-rug-e74720f30a.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for tree-of-life-celtic-indoor-rug-e74720f30a: description begins 'Decorate with a teal gold Tree of Life rug featuring Celtic knot border, mountain landscape, roots and backing d...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-397",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-indoor-rug-e74720f30a.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for tree-of-life-celtic-indoor-rug-e74720f30a: workbook row, evidence id B040-397, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-397",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/tree-of-life-celtic-indoor-rug-e74720f30a.html"
+        ]
+      }
+    },
+    "custom-celtic-tree-of-life-welcome-mat-1e4bffd67c": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-celtic-tree-of-life-welcome-mat-1e4bffd67c: proposed title 'Sepia Celtic Knot Tree Rug for Celtic Tree Of Life Decor' and description 'Customize a sepia Celtic knot tree rug with raised-look border, Tree of Life roots, neu...' keep the same product/theme shown in evidence B040-398.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-398",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-celtic-tree-of-life-welcome-mat-1e4bffd67c.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-celtic-tree-of-life-welcome-mat-1e4bffd67c: customer copy is limited to visible/product facts such as 'sepia beige Tree of Life rug with large circular Celtic knot border, exposed roots, neutral...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-398",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-celtic-tree-of-life-welcome-mat-1e4bffd67c.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-celtic-tree-of-life-welcome-mat-1e4bffd67c: primary keyword 'sepia Celtic knot tree rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-398",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-celtic-tree-of-life-welcome-mat-1e4bffd67c.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-celtic-tree-of-life-welcome-mat-1e4bffd67c: proposed copy targets the same search intent as 'sepia Celtic knot tree rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-398",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-celtic-tree-of-life-welcome-mat-1e4bffd67c.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-celtic-tree-of-life-welcome-mat-1e4bffd67c: current support is 'Marketplace and retail SERPs support Celtic Tree of Life rugs, Tree of Life welcome mats, Yg...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-398",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-celtic-tree-of-life-welcome-mat-1e4bffd67c.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-celtic-tree-of-life-welcome-mat-1e4bffd67c: title 'Sepia Celtic Knot Tree Rug for Celtic Tree Of Life Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-398",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-celtic-tree-of-life-welcome-mat-1e4bffd67c.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-celtic-tree-of-life-welcome-mat-1e4bffd67c: meta title 'Sepia Celtic Knot Tree Rug for Celtic Tree Of Life Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-398",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-celtic-tree-of-life-welcome-mat-1e4bffd67c.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-celtic-tree-of-life-welcome-mat-1e4bffd67c: meta 'Customize a sepia Celtic knot tree rug with raised-look border, Tree of Life roots, neutral tones and backing de...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-398",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-celtic-tree-of-life-welcome-mat-1e4bffd67c.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-celtic-tree-of-life-welcome-mat-1e4bffd67c: description begins 'Customize a sepia Celtic knot tree rug with raised-look border, Tree of Life roots, neutral tones and backing de...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-398",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-celtic-tree-of-life-welcome-mat-1e4bffd67c.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-celtic-tree-of-life-welcome-mat-1e4bffd67c: workbook row, evidence id B040-398, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-398",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-celtic-tree-of-life-welcome-mat-1e4bffd67c.html"
+        ]
+      }
+    },
+    "custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d: proposed title 'Jeweled Celtic Tree Rug for Yggdrasil Celtic Decor' and description 'Decorate with a jeweled Celtic Tree rug featuring green stones, ornate knot frame, moun...' keep the same product/theme shown in evidence B040-399.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-399",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d: customer copy is limited to visible/product facts such as 'ornate Celtic Tree of Life rug with green gemstone-like accents, circular knot frame, corner...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-399",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d: primary keyword 'jeweled Celtic Tree rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-399",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d: proposed copy targets the same search intent as 'jeweled Celtic Tree rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-399",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d: current support is 'Marketplace and retail SERPs support Celtic Tree of Life rugs, Tree of Life welcome mats, Yg...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-399",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d: title 'Jeweled Celtic Tree Rug for Yggdrasil Celtic Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-399",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d: meta title 'Jeweled Celtic Tree Rug for Yggdrasil Celtic Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-399",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d: meta 'Decorate with a jeweled Celtic Tree rug featuring green stones, ornate knot frame, mountain scene, size chart an...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-399",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d: description begins 'Decorate with a jeweled Celtic Tree rug featuring green stones, ornate knot frame, mountain scene, size chart an...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-399",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d: workbook row, evidence id B040-399, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-399",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-welcome-mat-celtic-design-7a9bd2508d-7a9bd2508d.html"
+        ]
+      }
+    },
+    "custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c: proposed title 'Rainbow Mosaic Tree Rug with Colorful Celtic Details' and description 'Style a room with a rainbow mosaic Tree rug featuring stained-glass color blocks, sweep...' keep the same product/theme shown in evidence B040-400.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-400",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c: customer copy is limited to visible/product facts such as 'bright mosaic Tree of Life rug with curved trunk, red orange pink leaves, yellow sky and blu...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-400",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c: primary keyword 'rainbow mosaic Tree rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-400",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c: proposed copy targets the same search intent as 'rainbow mosaic Tree rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-400",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c: current support is 'Marketplace and retail SERPs support Celtic Tree of Life rugs, Tree of Life welcome mats, Yg...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-400",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c: title 'Rainbow Mosaic Tree Rug with Colorful Celtic Details' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-400",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c: meta title 'Rainbow Mosaic Tree Rug with Colorful Celtic Details' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-400",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c: meta 'Style a room with a rainbow mosaic Tree rug featuring stained-glass color blocks, sweeping hills, size chart and...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-400",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c: description begins 'Style a room with a rainbow mosaic Tree rug featuring stained-glass color blocks, sweeping hills, size chart and...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-400",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c: workbook row, evidence id B040-400, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B040/SEO_Product_Optimization_longtitle_B040_R1.xlsx",
+          "product_evidence:B040-400",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B040_pages/custom-tree-of-life-celtic-doormat-eaeb60bb6c-eaeb60bb6c.html"
+        ]
+      }
+    }
+  }
+}

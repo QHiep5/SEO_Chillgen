@@ -1,0 +1,45 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "rubric_hash": "caeacb83a45638bcffc03ce1d2daf1fc9e915f417ada6b66eb706284283ea96c",
+  "qa_run_id": "QA-20260909-B056-SMOKE",
+  "qa_batch_id": "REV_B056",
+  "batch_id": "B056",
+  "revision_id": "B056",
+  "parent_run_id": "QA-20260907-AGENT-B056",
+  "source_workbook": "resutls/chillgen.com/chillgen_20260907_01/revisions/B056/SEO_Product_Optimization_revision_B056.xlsx",
+  "source_workbook_sha256": "2779736948e49e02a92518b01ed0eaae67b0cfa93eb6e7e179afbd669544de8b",
+  "scope_hash": "9fc983e96005bb84a8cb8d7803d1d43e437dd5abafe9dbb755764cf50a743903",
+  "batch_product_keys": [
+    "custom-classroom-notebook-rug-5152bc0672",
+    "customized-composition-notebook-classroom-rug-for-kids-94f3ffcafa",
+    "custom-octopus-welcome-mat-for-front-door-and-entryway-f282a58169",
+    "custom-octopus-coastal-welcome-mat-entryway-0942996125",
+    "custom-octopus-welcome-mat-entryway-living-room-3387fa82d0",
+    "custom-octopus-welcome-mat-for-front-door-and-entryway-13d8d7f994",
+    "custom-golf-welcome-mat-for-front-door-dfb4d14fc9",
+    "custom-golf-welcome-mat-bf5c20e2dd",
+    "custom-octopus-welcome-mat-coastal-beach-design-9b577a6e0a",
+    "custom-coastal-octopus-welcome-mat-for-entryway-and-bathroom-e11dfb0c2f"
+  ],
+  "status_counts": {
+    "QA_PASS": 0,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 10
+  },
+  "issue_counts": {
+    "CRITICAL": 0,
+    "MAJOR": 10,
+    "MINOR": 0,
+    "LIMITATION": 40
+  },
+  "batch_status": "QA_INCOMPLETE",
+  "content_qa_status": "QA_INCOMPLETE",
+  "evidence_maturity": "SERP_ONLY",
+  "canonical": false,
+  "supersedes": [],
+  "manual_image_evidence": null,
+  "manual_criteria_evidence": null,
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED",
+  "created_at": "2026-09-09T13:52:58+07:00"
+}

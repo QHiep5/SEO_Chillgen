@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "B054",
+  "batch_id": "B054",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+  "source_workbook_sha256": "dd2917473136371783cf96c3142663f7e5a12e797aa0e2fb1501ef8c069fb051",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-B054-CRITERIA-01",
+    "reviewed_at": "2026-09-09T17:51:40+07:00"
+  },
+  "reviewed_at": "2026-09-09T17:51:40+07:00",
+  "products": {
+    "feeling-rugs-kids-mental-health-brain-area-rug-fae7deacd8": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for feeling-rugs-kids-mental-health-brain-area-rug-fae7deacd8: proposed title 'Kids Feelings Rug for Classroom Calm Corner for Calm Corner Emotion...' and description 'Kids feelings rug with How's Your Brain emotion icons, classroom calm corner style, sof...' keep the same product/theme shown in evidence B054-531.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-531",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/feeling-rugs-kids-mental-health-brain-area-rug-fae7deacd8.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for feeling-rugs-kids-mental-health-brain-area-rug-fae7deacd8: customer copy is limited to visible/product facts such as 'black rectangular rug reads How's Your Brain with colorful brain and emotion labels such as...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-531",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/feeling-rugs-kids-mental-health-brain-area-rug-fae7deacd8.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for feeling-rugs-kids-mental-health-brain-area-rug-fae7deacd8: primary keyword 'kids feelings rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-531",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/feeling-rugs-kids-mental-health-brain-area-rug-fae7deacd8.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for feeling-rugs-kids-mental-health-brain-area-rug-fae7deacd8: proposed copy targets the same search intent as 'kids feelings rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-531",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/feeling-rugs-kids-mental-health-brain-area-rug-fae7deacd8.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for feeling-rugs-kids-mental-health-brain-area-rug-fae7deacd8: current support is 'Use education-specific long tails: kids feelings rug, feelings wheel classroom rug, classroo...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-531",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/feeling-rugs-kids-mental-health-brain-area-rug-fae7deacd8.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for feeling-rugs-kids-mental-health-brain-area-rug-fae7deacd8: title 'Kids Feelings Rug for Classroom Calm Corner for Calm Corner Emotion Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-531",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/feeling-rugs-kids-mental-health-brain-area-rug-fae7deacd8.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for feeling-rugs-kids-mental-health-brain-area-rug-fae7deacd8: meta title 'Kids Feelings Rug for Classroom Calm Corner for Calm Corner Emotion Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-531",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/feeling-rugs-kids-mental-health-brain-area-rug-fae7deacd8.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for feeling-rugs-kids-mental-health-brain-area-rug-fae7deacd8: meta 'Kids feelings rug with How's Your Brain emotion icons, classroom calm corner style, soft thick surface and bound...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-531",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/feeling-rugs-kids-mental-health-brain-area-rug-fae7deacd8.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for feeling-rugs-kids-mental-health-brain-area-rug-fae7deacd8: description begins 'Kids feelings rug with How's Your Brain emotion icons, classroom calm corner style, soft thick surface and bound...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-531",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/feeling-rugs-kids-mental-health-brain-area-rug-fae7deacd8.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for feeling-rugs-kids-mental-health-brain-area-rug-fae7deacd8: workbook row, evidence id B054-531, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-531",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/feeling-rugs-kids-mental-health-brain-area-rug-fae7deacd8.html"
+        ]
+      }
+    },
+    "custom-classroom-notebook-educational-round-rug-a132085cd6": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-classroom-notebook-educational-round-rug-a132085cd6: proposed title 'Round Notebook Classroom Rug with Custom Name for Teacher Name Decor' and description 'Round notebook classroom rug with You're here message, custom name pencil, rainbow and...' keep the same product/theme shown in evidence B054-532.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-532",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-classroom-notebook-educational-round-rug-a132085cd6.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-classroom-notebook-educational-round-rug-a132085cd6: customer copy is limited to visible/product facts such as 'round rug has black-and-white notebook pattern, pink You're here text, rainbow, flower and p...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-532",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-classroom-notebook-educational-round-rug-a132085cd6.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-classroom-notebook-educational-round-rug-a132085cd6: primary keyword 'round notebook classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-532",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-classroom-notebook-educational-round-rug-a132085cd6.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-classroom-notebook-educational-round-rug-a132085cd6: proposed copy targets the same search intent as 'round notebook classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-532",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-classroom-notebook-educational-round-rug-a132085cd6.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-classroom-notebook-educational-round-rug-a132085cd6: current support is 'Use education-specific long tails: kids feelings rug, feelings wheel classroom rug, classroo...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-532",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-classroom-notebook-educational-round-rug-a132085cd6.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-classroom-notebook-educational-round-rug-a132085cd6: title 'Round Notebook Classroom Rug with Custom Name for Teacher Name Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-532",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-classroom-notebook-educational-round-rug-a132085cd6.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-classroom-notebook-educational-round-rug-a132085cd6: meta title 'Round Notebook Classroom Rug with Custom Name for Teacher Name Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-532",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-classroom-notebook-educational-round-rug-a132085cd6.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-classroom-notebook-educational-round-rug-a132085cd6: meta 'Round notebook classroom rug with You're here message, custom name pencil, rainbow and non slip backing for grou...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-532",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-classroom-notebook-educational-round-rug-a132085cd6.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-classroom-notebook-educational-round-rug-a132085cd6: description begins 'Round notebook classroom rug with You're here message, custom name pencil, rainbow and non slip backing for grou...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-532",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-classroom-notebook-educational-round-rug-a132085cd6.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-classroom-notebook-educational-round-rug-a132085cd6: workbook row, evidence id B054-532, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-532",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-classroom-notebook-educational-round-rug-a132085cd6.html"
+        ]
+      }
+    },
+    "custom-notebook-classroom-welcome-mat-debe0fd4d9": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-notebook-classroom-welcome-mat-debe0fd4d9: proposed title 'Round Composition Notebook Teacher Rug for Teacher Classroom Decor' and description 'Round composition notebook teacher rug with Mrs. Mullet custom name, welcome class mess...' keep the same product/theme shown in evidence B054-533.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-533",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-notebook-classroom-welcome-mat-debe0fd4d9.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-notebook-classroom-welcome-mat-debe0fd4d9: customer copy is limited to visible/product facts such as 'round black speckled composition notebook rug reads Mrs. Mullet, Welcome to Our Class and Te...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-533",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-notebook-classroom-welcome-mat-debe0fd4d9.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-notebook-classroom-welcome-mat-debe0fd4d9: primary keyword 'round composition notebook rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-533",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-notebook-classroom-welcome-mat-debe0fd4d9.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-notebook-classroom-welcome-mat-debe0fd4d9: proposed copy targets the same search intent as 'round composition notebook rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-533",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-notebook-classroom-welcome-mat-debe0fd4d9.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-notebook-classroom-welcome-mat-debe0fd4d9: current support is 'Use education-specific long tails: kids feelings rug, feelings wheel classroom rug, classroo...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-533",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-notebook-classroom-welcome-mat-debe0fd4d9.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-notebook-classroom-welcome-mat-debe0fd4d9: title 'Round Composition Notebook Teacher Rug for Teacher Classroom Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-533",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-notebook-classroom-welcome-mat-debe0fd4d9.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-notebook-classroom-welcome-mat-debe0fd4d9: meta title 'Round Composition Notebook Teacher Rug for Teacher Classroom Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-533",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-notebook-classroom-welcome-mat-debe0fd4d9.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-notebook-classroom-welcome-mat-debe0fd4d9: meta 'Round composition notebook teacher rug with Mrs. Mullet custom name, welcome class message, Teach label and non...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-533",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-notebook-classroom-welcome-mat-debe0fd4d9.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-notebook-classroom-welcome-mat-debe0fd4d9: description begins 'Round composition notebook teacher rug with Mrs. Mullet custom name, welcome class message, Teach label and non...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-533",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-notebook-classroom-welcome-mat-debe0fd4d9.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-notebook-classroom-welcome-mat-debe0fd4d9: workbook row, evidence id B054-533, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-533",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-notebook-classroom-welcome-mat-debe0fd4d9.html"
+        ]
+      }
+    },
+    "custom-notebook-welcome-mat-for-classroom-and-school-864ed94fd6": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-notebook-welcome-mat-for-classroom-and-school-864ed94fd6: proposed title 'Round Classroom Welcome Rug with Teacher Name for Pink Classroom Decor' and description 'Round classroom welcome rug with Mrs. Smith custom name, pink checker design, smiley ic...' keep the same product/theme shown in evidence B054-534.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-534",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-notebook-welcome-mat-for-classroom-and-school-864ed94fd6.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-notebook-welcome-mat-for-classroom-and-school-864ed94fd6: customer copy is limited to visible/product facts such as 'round pink checker rug reads Welcome to Mrs. Smith's Classroom with smiley faces, stars, hea...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-534",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-notebook-welcome-mat-for-classroom-and-school-864ed94fd6.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-notebook-welcome-mat-for-classroom-and-school-864ed94fd6: primary keyword 'round classroom welcome rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-534",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-notebook-welcome-mat-for-classroom-and-school-864ed94fd6.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-notebook-welcome-mat-for-classroom-and-school-864ed94fd6: proposed copy targets the same search intent as 'round classroom welcome rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-534",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-notebook-welcome-mat-for-classroom-and-school-864ed94fd6.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-notebook-welcome-mat-for-classroom-and-school-864ed94fd6: current support is 'Use education-specific long tails: kids feelings rug, feelings wheel classroom rug, classroo...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-534",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-notebook-welcome-mat-for-classroom-and-school-864ed94fd6.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-notebook-welcome-mat-for-classroom-and-school-864ed94fd6: title 'Round Classroom Welcome Rug with Teacher Name for Pink Classroom Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-534",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-notebook-welcome-mat-for-classroom-and-school-864ed94fd6.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-notebook-welcome-mat-for-classroom-and-school-864ed94fd6: meta title 'Round Classroom Welcome Rug with Teacher Name for Pink Classroom Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-534",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-notebook-welcome-mat-for-classroom-and-school-864ed94fd6.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-notebook-welcome-mat-for-classroom-and-school-864ed94fd6: meta 'Round classroom welcome rug with Mrs. Smith custom name, pink checker design, smiley icons and non slip backing.' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-534",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-notebook-welcome-mat-for-classroom-and-school-864ed94fd6.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-notebook-welcome-mat-for-classroom-and-school-864ed94fd6: description begins 'Round classroom welcome rug with Mrs. Smith custom name, pink checker design, smiley icons and non slip backing....' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-534",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-notebook-welcome-mat-for-classroom-and-school-864ed94fd6.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-notebook-welcome-mat-for-classroom-and-school-864ed94fd6: workbook row, evidence id B054-534, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-534",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-notebook-welcome-mat-for-classroom-and-school-864ed94fd6.html"
+        ]
+      }
+    },
+    "classroom-notebook-educational-circle-rug-3b91056f15": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for classroom-notebook-educational-circle-rug-3b91056f15: proposed title 'Personalized Notebook Circle Classroom Rug for Teacher Decor' and description 'Personalized notebook circle classroom rug with teacher name, pencil banner, school ico...' keep the same product/theme shown in evidence B054-535.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-535",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/classroom-notebook-educational-circle-rug-3b91056f15.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for classroom-notebook-educational-circle-rug-3b91056f15: customer copy is limited to visible/product facts such as 'round rug uses black-and-white notebook pattern with Mrs. Mullet's Classroom, pencil banner,...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-535",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/classroom-notebook-educational-circle-rug-3b91056f15.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for classroom-notebook-educational-circle-rug-3b91056f15: primary keyword 'notebook circle classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-535",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/classroom-notebook-educational-circle-rug-3b91056f15.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for classroom-notebook-educational-circle-rug-3b91056f15: proposed copy targets the same search intent as 'notebook circle classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-535",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/classroom-notebook-educational-circle-rug-3b91056f15.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for classroom-notebook-educational-circle-rug-3b91056f15: current support is 'Use education-specific long tails: kids feelings rug, feelings wheel classroom rug, classroo...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-535",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/classroom-notebook-educational-circle-rug-3b91056f15.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for classroom-notebook-educational-circle-rug-3b91056f15: title 'Personalized Notebook Circle Classroom Rug for Teacher Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-535",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/classroom-notebook-educational-circle-rug-3b91056f15.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for classroom-notebook-educational-circle-rug-3b91056f15: meta title 'Personalized Notebook Circle Classroom Rug for Teacher Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-535",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/classroom-notebook-educational-circle-rug-3b91056f15.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for classroom-notebook-educational-circle-rug-3b91056f15: meta 'Personalized notebook circle classroom rug with teacher name, pencil banner, school icons, reinforced edging and...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-535",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/classroom-notebook-educational-circle-rug-3b91056f15.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for classroom-notebook-educational-circle-rug-3b91056f15: description begins 'Personalized notebook circle classroom rug with teacher name, pencil banner, school icons, reinforced edging and...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-535",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/classroom-notebook-educational-circle-rug-3b91056f15.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for classroom-notebook-educational-circle-rug-3b91056f15: workbook row, evidence id B054-535, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-535",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/classroom-notebook-educational-circle-rug-3b91056f15.html"
+        ]
+      }
+    },
+    "wheel-of-feelings-and-emotions-round-rug-de39e76902": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for wheel-of-feelings-and-emotions-round-rug-de39e76902: proposed title 'Feelings Wheel Classroom Round Rug for Emotions Decor' and description 'Feelings wheel classroom rug with colorful crayon emotions, You Are center message, non...' keep the same product/theme shown in evidence B054-536.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-536",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/wheel-of-feelings-and-emotions-round-rug-de39e76902.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for wheel-of-feelings-and-emotions-round-rug-de39e76902: customer copy is limited to visible/product facts such as 'round black rug has colorful crayon characters and outer ring emotion words including happy,...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-536",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/wheel-of-feelings-and-emotions-round-rug-de39e76902.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for wheel-of-feelings-and-emotions-round-rug-de39e76902: primary keyword 'feelings wheel classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-536",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/wheel-of-feelings-and-emotions-round-rug-de39e76902.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for wheel-of-feelings-and-emotions-round-rug-de39e76902: proposed copy targets the same search intent as 'feelings wheel classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-536",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/wheel-of-feelings-and-emotions-round-rug-de39e76902.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for wheel-of-feelings-and-emotions-round-rug-de39e76902: current support is 'Use education-specific long tails: kids feelings rug, feelings wheel classroom rug, classroo...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-536",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/wheel-of-feelings-and-emotions-round-rug-de39e76902.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for wheel-of-feelings-and-emotions-round-rug-de39e76902: title 'Feelings Wheel Classroom Round Rug for Emotions Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-536",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/wheel-of-feelings-and-emotions-round-rug-de39e76902.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for wheel-of-feelings-and-emotions-round-rug-de39e76902: meta title 'Feelings Wheel Classroom Round Rug for Emotions Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-536",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/wheel-of-feelings-and-emotions-round-rug-de39e76902.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for wheel-of-feelings-and-emotions-round-rug-de39e76902: meta 'Feelings wheel classroom rug with colorful crayon emotions, You Are center message, non slip backing and group-p...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-536",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/wheel-of-feelings-and-emotions-round-rug-de39e76902.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for wheel-of-feelings-and-emotions-round-rug-de39e76902: description begins 'Feelings wheel classroom rug with colorful crayon emotions, You Are center message, non slip backing and group-p...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-536",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/wheel-of-feelings-and-emotions-round-rug-de39e76902.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for wheel-of-feelings-and-emotions-round-rug-de39e76902: workbook row, evidence id B054-536, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-536",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/wheel-of-feelings-and-emotions-round-rug-de39e76902.html"
+        ]
+      }
+    },
+    "spanish-abc-classroom-rug-learning-alphabet-mat-f6acb4ba58": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for spanish-abc-classroom-rug-learning-alphabet-mat-f6acb4ba58: proposed title 'Spanish Classroom Welcome Rug with Teacher Name for Maestra Decor' and description 'Spanish classroom welcome rug with Bienvenidos message, teacher name, school cycle text...' keep the same product/theme shown in evidence B054-537.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-537",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-learning-alphabet-mat-f6acb4ba58.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for spanish-abc-classroom-rug-learning-alphabet-mat-f6acb4ba58: customer copy is limited to visible/product facts such as 'large black-and-white rug reads Bienvenidos, Ciclo Escolar 2025-2026 and Seño Garcia with ra...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-537",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-learning-alphabet-mat-f6acb4ba58.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for spanish-abc-classroom-rug-learning-alphabet-mat-f6acb4ba58: primary keyword 'Spanish classroom welcome rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-537",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-learning-alphabet-mat-f6acb4ba58.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for spanish-abc-classroom-rug-learning-alphabet-mat-f6acb4ba58: proposed copy targets the same search intent as 'Spanish classroom welcome rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-537",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-learning-alphabet-mat-f6acb4ba58.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for spanish-abc-classroom-rug-learning-alphabet-mat-f6acb4ba58: current support is 'Use education-specific long tails: kids feelings rug, feelings wheel classroom rug, classroo...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-537",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-learning-alphabet-mat-f6acb4ba58.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for spanish-abc-classroom-rug-learning-alphabet-mat-f6acb4ba58: title 'Spanish Classroom Welcome Rug with Teacher Name for Maestra Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-537",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-learning-alphabet-mat-f6acb4ba58.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for spanish-abc-classroom-rug-learning-alphabet-mat-f6acb4ba58: meta title 'Spanish Classroom Welcome Rug with Teacher Name for Maestra Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-537",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-learning-alphabet-mat-f6acb4ba58.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for spanish-abc-classroom-rug-learning-alphabet-mat-f6acb4ba58: meta 'Spanish classroom welcome rug with Bienvenidos message, teacher name, school cycle text, playful icons and bound...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-537",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-learning-alphabet-mat-f6acb4ba58.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for spanish-abc-classroom-rug-learning-alphabet-mat-f6acb4ba58: description begins 'Spanish classroom welcome rug with Bienvenidos message, teacher name, school cycle text, playful icons and bound...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-537",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-learning-alphabet-mat-f6acb4ba58.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for spanish-abc-classroom-rug-learning-alphabet-mat-f6acb4ba58: workbook row, evidence id B054-537, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-537",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-learning-alphabet-mat-f6acb4ba58.html"
+        ]
+      }
+    },
+    "spanish-abc-classroom-rug-d3f56c3b42": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for spanish-abc-classroom-rug-d3f56c3b42: proposed title 'Spanish 2nd Grade Classroom Rug for Maestra Classroom Decor' and description 'Spanish 2nd grade classroom rug with Bienvenidos message, Maestra Camila name, pencil a...' keep the same product/theme shown in evidence B054-538.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-538",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-d3f56c3b42.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for spanish-abc-classroom-rug-d3f56c3b42: customer copy is limited to visible/product facts such as 'green and yellow rug reads Bienvenidos 2° Grado Maestra Camila with large pencil graphic and...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-538",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-d3f56c3b42.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for spanish-abc-classroom-rug-d3f56c3b42: primary keyword 'Spanish 2nd grade classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-538",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-d3f56c3b42.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for spanish-abc-classroom-rug-d3f56c3b42: proposed copy targets the same search intent as 'Spanish 2nd grade classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-538",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-d3f56c3b42.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for spanish-abc-classroom-rug-d3f56c3b42: current support is 'Use education-specific long tails: kids feelings rug, feelings wheel classroom rug, classroo...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-538",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-d3f56c3b42.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for spanish-abc-classroom-rug-d3f56c3b42: title 'Spanish 2nd Grade Classroom Rug for Maestra Classroom Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-538",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-d3f56c3b42.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for spanish-abc-classroom-rug-d3f56c3b42: meta title 'Spanish 2nd Grade Classroom Rug for Maestra Classroom Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-538",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-d3f56c3b42.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for spanish-abc-classroom-rug-d3f56c3b42: meta 'Spanish 2nd grade classroom rug with Bienvenidos message, Maestra Camila name, pencil artwork and soft bound edges.' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-538",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-d3f56c3b42.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for spanish-abc-classroom-rug-d3f56c3b42: description begins 'Spanish 2nd grade classroom rug with Bienvenidos message, Maestra Camila name, pencil artwork and soft bound edg...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-538",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-d3f56c3b42.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for spanish-abc-classroom-rug-d3f56c3b42: workbook row, evidence id B054-538, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-538",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-d3f56c3b42.html"
+        ]
+      }
+    },
+    "custom-spanish-abc-classroom-rug-playroom-school-bee973bfe4": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-spanish-abc-classroom-rug-playroom-school-bee973bfe4: proposed title 'Spanish ABC Classroom Rug for Learning for Bilingual Alphabet Decor' and description 'Spanish ABC classroom rug with cartoon pencils, alphabet letters, playful classroom pat...' keep the same product/theme shown in evidence B054-539.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-539",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-spanish-abc-classroom-rug-playroom-school-bee973bfe4.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-spanish-abc-classroom-rug-playroom-school-bee973bfe4: customer copy is limited to visible/product facts such as 'large rectangular rug has repeating yellow pencil characters with Spanish alphabet letters o...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-539",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-spanish-abc-classroom-rug-playroom-school-bee973bfe4.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-spanish-abc-classroom-rug-playroom-school-bee973bfe4: primary keyword 'Spanish ABC classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-539",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-spanish-abc-classroom-rug-playroom-school-bee973bfe4.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-spanish-abc-classroom-rug-playroom-school-bee973bfe4: proposed copy targets the same search intent as 'Spanish ABC classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-539",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-spanish-abc-classroom-rug-playroom-school-bee973bfe4.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-spanish-abc-classroom-rug-playroom-school-bee973bfe4: current support is 'Use education-specific long tails: kids feelings rug, feelings wheel classroom rug, classroo...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-539",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-spanish-abc-classroom-rug-playroom-school-bee973bfe4.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-spanish-abc-classroom-rug-playroom-school-bee973bfe4: title 'Spanish ABC Classroom Rug for Learning for Bilingual Alphabet Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-539",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-spanish-abc-classroom-rug-playroom-school-bee973bfe4.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-spanish-abc-classroom-rug-playroom-school-bee973bfe4: meta title 'Spanish ABC Classroom Rug for Learning for Bilingual Alphabet Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-539",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-spanish-abc-classroom-rug-playroom-school-bee973bfe4.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-spanish-abc-classroom-rug-playroom-school-bee973bfe4: meta 'Spanish ABC classroom rug with cartoon pencils, alphabet letters, playful classroom pattern and non slip backing.' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-539",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-spanish-abc-classroom-rug-playroom-school-bee973bfe4.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-spanish-abc-classroom-rug-playroom-school-bee973bfe4: description begins 'Spanish ABC classroom rug with cartoon pencils, alphabet letters, playful classroom pattern and non slip backing...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-539",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-spanish-abc-classroom-rug-playroom-school-bee973bfe4.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-spanish-abc-classroom-rug-playroom-school-bee973bfe4: workbook row, evidence id B054-539, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-539",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/custom-spanish-abc-classroom-rug-playroom-school-bee973bfe4.html"
+        ]
+      }
+    },
+    "spanish-abc-classroom-rug-0f9ffdff41": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for spanish-abc-classroom-rug-0f9ffdff41: proposed title 'Spanish Classroom Rules Rug with Teacher Name for Maestra Decor' and description 'Spanish classroom rules rug with Maestra Valeria name, colorful pencil prompts, black b...' keep the same product/theme shown in evidence B054-540.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-540",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-0f9ffdff41.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for spanish-abc-classroom-rug-0f9ffdff41: customer copy is limited to visible/product facts such as 'black rug reads Maestra Valeria Reglas de la Clase with colorful pencil rules such as ven a...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-540",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-0f9ffdff41.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for spanish-abc-classroom-rug-0f9ffdff41: primary keyword 'Spanish classroom rules rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-540",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-0f9ffdff41.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for spanish-abc-classroom-rug-0f9ffdff41: proposed copy targets the same search intent as 'Spanish classroom rules rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-540",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-0f9ffdff41.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for spanish-abc-classroom-rug-0f9ffdff41: current support is 'Use education-specific long tails: kids feelings rug, feelings wheel classroom rug, classroo...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-540",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-0f9ffdff41.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for spanish-abc-classroom-rug-0f9ffdff41: title 'Spanish Classroom Rules Rug with Teacher Name for Maestra Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-540",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-0f9ffdff41.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for spanish-abc-classroom-rug-0f9ffdff41: meta title 'Spanish Classroom Rules Rug with Teacher Name for Maestra Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-540",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-0f9ffdff41.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for spanish-abc-classroom-rug-0f9ffdff41: meta 'Spanish classroom rules rug with Maestra Valeria name, colorful pencil prompts, black background and soft bound...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-540",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-0f9ffdff41.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for spanish-abc-classroom-rug-0f9ffdff41: description begins 'Spanish classroom rules rug with Maestra Valeria name, colorful pencil prompts, black background and soft bound...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-540",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-0f9ffdff41.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for spanish-abc-classroom-rug-0f9ffdff41: workbook row, evidence id B054-540, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B054/SEO_Product_Optimization_longtitle_B054_R1.xlsx",
+          "product_evidence:B054-540",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B054_pages/spanish-abc-classroom-rug-0f9ffdff41.html"
+        ]
+      }
+    }
+  }
+}

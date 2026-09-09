@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "B036",
+  "batch_id": "B036",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+  "source_workbook_sha256": "e16bb500c7a1dc2b8ab996b25a4ba68a5b84d3a7795b0343a5c74dd5157ea884",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-B036-CRITERIA-01",
+    "reviewed_at": "2026-09-09T17:52:27+07:00"
+  },
+  "reviewed_at": "2026-09-09T17:52:27+07:00",
+  "products": {
+    "custom-road-map-area-rug-81bfb9cda4-81bfb9cda4": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-road-map-area-rug-81bfb9cda4-81bfb9cda4: proposed title 'Custom Kids Road Map Rug for Kids City Road Play Decor' and description 'Personalize a kids road map rug with name, alphabet border, colorful town streets, clas...' keep the same product/theme shown in evidence B036-351.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-351",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-road-map-area-rug-81bfb9cda4-81bfb9cda4.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-road-map-area-rug-81bfb9cda4-81bfb9cda4: customer copy is limited to visible/product facts such as 'bright blue road map rug labeled Liam's Town with alphabet border, colorful streets, buildin...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-351",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-road-map-area-rug-81bfb9cda4-81bfb9cda4.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-road-map-area-rug-81bfb9cda4-81bfb9cda4: primary keyword 'custom kids road map rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-351",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-road-map-area-rug-81bfb9cda4-81bfb9cda4.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-road-map-area-rug-81bfb9cda4-81bfb9cda4: proposed copy targets the same search intent as 'custom kids road map rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-351",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-road-map-area-rug-81bfb9cda4-81bfb9cda4.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-road-map-area-rug-81bfb9cda4-81bfb9cda4: current support is 'Marketplace and retail SERPs support kids road map rugs, city road play rugs, washable kids...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-351",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-road-map-area-rug-81bfb9cda4-81bfb9cda4.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-road-map-area-rug-81bfb9cda4-81bfb9cda4: title 'Custom Kids Road Map Rug for Kids City Road Play Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-351",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-road-map-area-rug-81bfb9cda4-81bfb9cda4.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-road-map-area-rug-81bfb9cda4-81bfb9cda4: meta title 'Custom Kids Road Map Rug for Kids City Road Play Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-351",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-road-map-area-rug-81bfb9cda4-81bfb9cda4.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-road-map-area-rug-81bfb9cda4-81bfb9cda4: meta 'Personalize a kids road map rug with name, alphabet border, colorful town streets, classroom play scenes and was...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-351",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-road-map-area-rug-81bfb9cda4-81bfb9cda4.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-road-map-area-rug-81bfb9cda4-81bfb9cda4: description begins 'Personalize a kids road map rug with name, alphabet border, colorful town streets, classroom play scenes and was...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-351",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-road-map-area-rug-81bfb9cda4-81bfb9cda4.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-road-map-area-rug-81bfb9cda4-81bfb9cda4: workbook row, evidence id B036-351, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-351",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-road-map-area-rug-81bfb9cda4-81bfb9cda4.html"
+        ]
+      }
+    },
+    "custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4: proposed title 'Foggy Forest Wolf Rug for Boys Room Wolf Room Decor' and description 'Decorate with a foggy forest wolf rug featuring dark wolf portrait, misty blue trees an...' keep the same product/theme shown in evidence B036-352.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-352",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4: customer copy is limited to visible/product facts such as 'dark blue-gray rug with a single black wolf standing in foggy forest light, misty tree backg...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-352",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4: primary keyword 'foggy forest wolf rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-352",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4: proposed copy targets the same search intent as 'foggy forest wolf rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-352",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4: current support is 'Marketplace and retail SERPs support kids road map rugs, city road play rugs, washable kids...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-352",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4: title 'Foggy Forest Wolf Rug for Boys Room Wolf Room Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-352",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4: meta title 'Foggy Forest Wolf Rug for Boys Room Wolf Room Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-352",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4: meta 'Decorate with a foggy forest wolf rug featuring dark wolf portrait, misty blue trees and bedroom and living room...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-352",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4: description begins 'Decorate with a foggy forest wolf rug featuring dark wolf portrait, misty blue trees and bedroom living styled r...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-352",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4: workbook row, evidence id B036-352, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-352",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-bedroom-167aea55b4.html"
+        ]
+      }
+    },
+    "galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7: proposed title 'Blue Moon Wolf Lake Rug with Galaxy Wolves Details' and description 'Add a blue moon wolf lake rug with howling wolves, rocky water scene and dark forest st...' keep the same product/theme shown in evidence B036-353.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-353",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7: customer copy is limited to visible/product facts such as 'blue black rug with full moon, howling wolf on rocks, white wolf near water, lake reflection...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-353",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7: primary keyword 'blue moon wolf lake rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-353",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7: proposed copy targets the same search intent as 'blue moon wolf lake rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-353",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7: current support is 'Marketplace and retail SERPs support kids road map rugs, city road play rugs, washable kids...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-353",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7: title 'Blue Moon Wolf Lake Rug with Galaxy Wolves Details' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-353",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7: meta title 'Blue Moon Wolf Lake Rug with Galaxy Wolves Details' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-353",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7: meta 'Add a blue moon wolf lake rug with howling wolves, rocky water scene and dark forest styling for bedrooms or liv...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-353",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7: description begins 'Add a blue moon wolf lake rug with howling wolves, rocky water scene and dark forest styling for bedrooms or liv...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-353",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7: workbook row, evidence id B036-353, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-353",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wild-wolf-print-area-rug-c951e785f7-c951e785f7.html"
+        ]
+      }
+    },
+    "custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217: proposed title 'Tribal Medallion Wolf Rug for Howling Wolf Runner Decor' and description 'Style a room with a tribal medallion wolf rug featuring ornate circular frame, amber to...' keep the same product/theme shown in evidence B036-354.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-354",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217: customer copy is limited to visible/product facts such as 'tan and brown wolf rug with large wolf face inside ornate circular tribal-style medallion, r...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-354",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217: primary keyword 'tribal medallion wolf rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-354",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217: proposed copy targets the same search intent as 'tribal medallion wolf rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-354",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217: current support is 'Marketplace and retail SERPs support kids road map rugs, city road play rugs, washable kids...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-354",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217: title 'Tribal Medallion Wolf Rug for Howling Wolf Runner Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-354",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217: meta title 'Tribal Medallion Wolf Rug for Howling Wolf Runner Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-354",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217: meta 'Style a room with a tribal medallion wolf rug featuring ornate circular frame, amber tones and rustic wolf portr...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-354",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217: description begins 'Style a room with a tribal medallion wolf rug featuring ornate circular frame, amber tones and rustic wolf portr...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-354",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217: workbook row, evidence id B036-354, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-354",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-a0375b4217-a0375b4217.html"
+        ]
+      }
+    },
+    "galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17: proposed title 'Floral Line Art Wolf Rug with Galaxy Wolves Details' and description 'Decorate with a floral line art wolf rug featuring sepia botanical details, wolf portra...' keep the same product/theme shown in evidence B036-355.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-355",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17: customer copy is limited to visible/product facts such as 'sepia tan rug with side-profile wolf portrait, floral and botanical line-art detail around t...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-355",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17: primary keyword 'floral line art wolf rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-355",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17: proposed copy targets the same search intent as 'floral line art wolf rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-355",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17: current support is 'Marketplace and retail SERPs support kids road map rugs, city road play rugs, washable kids...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-355",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17: title 'Floral Line Art Wolf Rug with Galaxy Wolves Details' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-355",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17: meta title 'Floral Line Art Wolf Rug with Galaxy Wolves Details' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-355",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17: meta 'Decorate with a floral line art wolf rug featuring sepia botanical details, wolf portrait and neutral room styling.' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-355",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17: description begins 'Decorate with a floral line art wolf rug featuring sepia botanical details, wolf portrait and neutral room styli...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-355",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17: workbook row, evidence id B036-355, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-355",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wolf-area-rug-94b47adf17-94b47adf17.html"
+        ]
+      }
+    },
+    "custom-galaxy-wolf-welcome-mat-0e4d706227": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-galaxy-wolf-welcome-mat-0e4d706227: proposed title 'Sepia Wolf Pack Rug for Wolf Living Room Home Decor' and description 'Style a room with a sepia wolf pack rug featuring large wolf portrait, smaller wolves a...' keep the same product/theme shown in evidence B036-356.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-356",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolf-welcome-mat-0e4d706227.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-galaxy-wolf-welcome-mat-0e4d706227: customer copy is limited to visible/product facts such as 'brown and sepia wolf rug with large wolf face, multiple smaller wolves in forest scenery, wa...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-356",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolf-welcome-mat-0e4d706227.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-galaxy-wolf-welcome-mat-0e4d706227: primary keyword 'sepia wolf pack rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-356",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolf-welcome-mat-0e4d706227.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-galaxy-wolf-welcome-mat-0e4d706227: proposed copy targets the same search intent as 'sepia wolf pack rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-356",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolf-welcome-mat-0e4d706227.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-galaxy-wolf-welcome-mat-0e4d706227: current support is 'Marketplace and retail SERPs support kids road map rugs, city road play rugs, washable kids...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-356",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolf-welcome-mat-0e4d706227.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-galaxy-wolf-welcome-mat-0e4d706227: title 'Sepia Wolf Pack Rug for Wolf Living Room Home Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-356",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolf-welcome-mat-0e4d706227.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-galaxy-wolf-welcome-mat-0e4d706227: meta title 'Sepia Wolf Pack Rug for Wolf Living Room Home Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-356",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolf-welcome-mat-0e4d706227.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-galaxy-wolf-welcome-mat-0e4d706227: meta 'Style a room with a sepia wolf pack rug featuring large wolf portrait, smaller wolves and warm forest tones.' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-356",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolf-welcome-mat-0e4d706227.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-galaxy-wolf-welcome-mat-0e4d706227: description begins 'Style a room with a sepia wolf pack rug featuring large wolf portrait, smaller wolves and warm forest tones. Des...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-356",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolf-welcome-mat-0e4d706227.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-galaxy-wolf-welcome-mat-0e4d706227: workbook row, evidence id B036-356, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-356",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolf-welcome-mat-0e4d706227.html"
+        ]
+      }
+    },
+    "custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9: proposed title 'Snow Close Up Wolf Rug for Galaxy Wolves Room Decor' and description 'Decorate with a snow close up wolf rug featuring gray wolf face, falling snow and cool-...' keep the same product/theme shown in evidence B036-357.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-357",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9: customer copy is limited to visible/product facts such as 'cool gray blue rug with close-up wolf face, falling snow, soft winter background and room mo...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-357",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9: primary keyword 'snow close up wolf rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-357",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9: proposed copy targets the same search intent as 'snow close up wolf rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-357",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9: current support is 'Marketplace and retail SERPs support kids road map rugs, city road play rugs, washable kids...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-357",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9: title 'Snow Close Up Wolf Rug for Galaxy Wolves Room Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-357",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9: meta title 'Snow Close Up Wolf Rug for Galaxy Wolves Room Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-357",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9: meta 'Decorate with a snow close up wolf rug featuring gray wolf face, falling snow and cool-toned bedroom and living...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-357",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9: description begins 'Decorate with a snow close up wolf rug featuring gray wolf face, falling snow and cool-toned bedroom living styl...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-357",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9: workbook row, evidence id B036-357, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-357",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-welcome-mat-5ce46e57d9-5ce46e57d9.html"
+        ]
+      }
+    },
+    "galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e: proposed title 'Dreamcatcher Wolf Rug with Wild Wolf Print Details' and description 'Add a dreamcatcher wolf rug with feather details, warm tan artwork and wolf portrait fo...' keep the same product/theme shown in evidence B036-358.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-358",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e: customer copy is limited to visible/product facts such as 'tan wolf rug with wolf portrait inside a dreamcatcher-style circle, blue beads, long feather...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-358",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e: primary keyword 'dreamcatcher wolf rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-358",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e: proposed copy targets the same search intent as 'dreamcatcher wolf rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-358",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e: current support is 'Marketplace and retail SERPs support kids road map rugs, city road play rugs, washable kids...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-358",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e: title 'Dreamcatcher Wolf Rug with Wild Wolf Print Details' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-358",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e: meta title 'Dreamcatcher Wolf Rug with Wild Wolf Print Details' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-358",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e: meta 'Add a dreamcatcher wolf rug with feather details, warm tan artwork and wolf portrait for bedroom or living room...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-358",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e: description begins 'Add a dreamcatcher wolf rug with feather details, warm tan artwork and wolf portrait for bedroom or living room...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-358",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e: workbook row, evidence id B036-358, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-358",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/galaxy-wolves-wolf-area-rug-carpet-da377ca92e-da377ca92e.html"
+        ]
+      }
+    },
+    "custom-galaxy-wolves-rug-boy-room-e0ded989b1": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-galaxy-wolves-rug-boy-room-e0ded989b1: proposed title 'Blue Moon Mountain Wolf Rug for Howling Wolf Decor' and description 'Decorate with a blue moon mountain wolf rug featuring howling wolf, icy peaks, bright m...' keep the same product/theme shown in evidence B036-359.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-359",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-e0ded989b1.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-galaxy-wolves-rug-boy-room-e0ded989b1: customer copy is limited to visible/product facts such as 'blue and black rug with howling wolf on snowy mountain ledge, bright full moon, dramatic blu...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-359",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-e0ded989b1.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-galaxy-wolves-rug-boy-room-e0ded989b1: primary keyword 'blue moon mountain wolf rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-359",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-e0ded989b1.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-galaxy-wolves-rug-boy-room-e0ded989b1: proposed copy targets the same search intent as 'blue moon mountain wolf rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-359",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-e0ded989b1.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-galaxy-wolves-rug-boy-room-e0ded989b1: current support is 'Marketplace and retail SERPs support kids road map rugs, city road play rugs, washable kids...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-359",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-e0ded989b1.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-galaxy-wolves-rug-boy-room-e0ded989b1: title 'Blue Moon Mountain Wolf Rug for Howling Wolf Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-359",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-e0ded989b1.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-galaxy-wolves-rug-boy-room-e0ded989b1: meta title 'Blue Moon Mountain Wolf Rug for Howling Wolf Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-359",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-e0ded989b1.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-galaxy-wolves-rug-boy-room-e0ded989b1: meta 'Decorate with a blue moon mountain wolf rug featuring howling wolf, icy peaks, bright moonbeams and room settings.' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-359",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-e0ded989b1.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-galaxy-wolves-rug-boy-room-e0ded989b1: description begins 'Decorate with a blue moon mountain wolf rug featuring howling wolf, icy peaks, bright moonbeams and styled room...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-359",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-e0ded989b1.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-galaxy-wolves-rug-boy-room-e0ded989b1: workbook row, evidence id B036-359, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-359",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/custom-galaxy-wolves-rug-boy-room-e0ded989b1.html"
+        ]
+      }
+    },
+    "wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e: proposed title 'Two Tone Galaxy Wolf Rug with Wolf Bedroom Details' and description 'Style a bedroom with a two tone galaxy wolf rug featuring pink and blue wolf face, star...' keep the same product/theme shown in evidence B036-360.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-360",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e: customer copy is limited to visible/product facts such as 'bright galaxy rug with close-up wolf face split into pink-purple and blue-white tones, starr...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-360",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e: primary keyword 'two tone galaxy wolf rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-360",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e: proposed copy targets the same search intent as 'two tone galaxy wolf rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-360",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e: current support is 'Marketplace and retail SERPs support kids road map rugs, city road play rugs, washable kids...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-360",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e: title 'Two Tone Galaxy Wolf Rug with Wolf Bedroom Details' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-360",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e: meta title 'Two Tone Galaxy Wolf Rug with Wolf Bedroom Details' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-360",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e: meta 'Style a bedroom with a two tone galaxy wolf rug featuring pink and blue wolf face, starry sky and living room se...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-360",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e: description begins 'Style a bedroom with a two tone galaxy wolf rug featuring pink and blue wolf face, starry sky and living styled...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-360",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e: workbook row, evidence id B036-360, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B036/SEO_Product_Optimization_longtitle_B036_R1.xlsx",
+          "product_evidence:B036-360",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B036_pages/wolf-galaxy-wolves-area-rug-f49c8f2c6e-f49c8f2c6e.html"
+        ]
+      }
+    }
+  }
+}

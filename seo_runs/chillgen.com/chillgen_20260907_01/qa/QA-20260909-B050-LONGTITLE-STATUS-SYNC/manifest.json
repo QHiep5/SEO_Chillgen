@@ -1,0 +1,47 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "rubric_hash": "caeacb83a45638bcffc03ce1d2daf1fc9e915f417ada6b66eb706284283ea96c",
+  "qa_run_id": "QA-20260909-B050-LONGTITLE-STATUS-SYNC",
+  "qa_batch_id": "REV_B050",
+  "batch_id": "B050",
+  "revision_id": "B050",
+  "parent_run_id": "QA-20260909-B050-LONGTITLE-R1",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B050/SEO_Product_Optimization_longtitle_B050_R1.xlsx",
+  "source_workbook_sha256": "7e539b3ed1f99d988952a1a7cc73ab783c71713dadb3dfacc639299a2513afdd",
+  "scope_hash": "6d5d1d184c7069617595026512a88a3b958e65eb7b15396e61cf58bcd496acdd",
+  "batch_product_keys": [
+    "custom-3d-dragon-round-rug-77aa65f879",
+    "custom-dragon-optical-illusion-round-rug-3de0273603",
+    "custom-3d-dragon-round-rug-7df46cf462",
+    "personalized-dragon-round-rug-db93e1ad22",
+    "personalized-3d-dragon-round-rug-library-illusion-0ba25b8c93",
+    "custom-3d-dragon-round-rug-c5c3c2de5b",
+    "custom-dragon-round-rug-3d-illusion-library-pattern-66ba99d7f5",
+    "custom-3d-effect-dragon-round-rug-47b32027ce",
+    "personalized-classroom-doormat-605767e184",
+    "custom-flamingo-doormat-pink-bird-floral-b8f6e38c9d"
+  ],
+  "status_counts": {
+    "QA_PASS": 10,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "issue_counts": {
+    "CRITICAL": 0,
+    "MAJOR": 0,
+    "MINOR": 0,
+    "LIMITATION": 20
+  },
+  "batch_status": "QA_PASS",
+  "content_qa_status": "QA_PASS",
+  "evidence_maturity": "SERP_ONLY",
+  "canonical": true,
+  "supersedes": [
+    "QA-20260909-B050-LONGTITLE-R1"
+  ],
+  "manual_image_evidence": "/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/reviewer/longtitle/B050_reviewer_evidence_longtitle_R1.json",
+  "manual_criteria_evidence": "/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/reviewer/longtitle/B050_criteria_evidence_longtitle_R1.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED",
+  "created_at": "2026-09-09T17:51:42+07:00"
+}

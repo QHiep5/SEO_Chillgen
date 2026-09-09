@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "B053",
+  "batch_id": "B053",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+  "source_workbook_sha256": "1751e4bb228311c5e49da2d164170094d5653516f028bbbcdd79611a41f32d3b",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-B053-CRITERIA-01",
+    "reviewed_at": "2026-09-09T17:51:41+07:00"
+  },
+  "reviewed_at": "2026-09-09T17:51:41+07:00",
+  "products": {
+    "custom-teacher-welcome-doormat-classroom-school-gym-f138369d41": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-teacher-welcome-doormat-classroom-school-gym-f138369d41: proposed title 'Personalized Phys Ed Classroom Welcome Mat for Gym Teacher Decor' and description 'Personalized phys ed classroom welcome mat with teacher name, sports ball artwork, easy...' keep the same product/theme shown in evidence B053-521.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-521",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-teacher-welcome-doormat-classroom-school-gym-f138369d41.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-teacher-welcome-doormat-classroom-school-gym-f138369d41: customer copy is limited to visible/product facts such as 'black mat reads Welcome Mr. Harrison's Phys. Ed Class with tennis, soccer, football, basketb...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-521",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-teacher-welcome-doormat-classroom-school-gym-f138369d41.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-teacher-welcome-doormat-classroom-school-gym-f138369d41: primary keyword 'personalized phys ed classroom mat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-521",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-teacher-welcome-doormat-classroom-school-gym-f138369d41.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-teacher-welcome-doormat-classroom-school-gym-f138369d41: proposed copy targets the same search intent as 'personalized phys ed classroom mat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-521",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-teacher-welcome-doormat-classroom-school-gym-f138369d41.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-teacher-welcome-doormat-classroom-school-gym-f138369d41: current support is 'Use long-tail terms matching the artwork: personalized gym class doormat, preschool teacher...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-521",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-teacher-welcome-doormat-classroom-school-gym-f138369d41.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-teacher-welcome-doormat-classroom-school-gym-f138369d41: title 'Personalized Phys Ed Classroom Welcome Mat for Gym Teacher Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-521",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-teacher-welcome-doormat-classroom-school-gym-f138369d41.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-teacher-welcome-doormat-classroom-school-gym-f138369d41: meta title 'Personalized Phys Ed Classroom Welcome Mat for Gym Teacher Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-521",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-teacher-welcome-doormat-classroom-school-gym-f138369d41.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-teacher-welcome-doormat-classroom-school-gym-f138369d41: meta 'Personalized phys ed classroom welcome mat with teacher name, sports ball artwork, easy clean surface and non sl...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-521",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-teacher-welcome-doormat-classroom-school-gym-f138369d41.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-teacher-welcome-doormat-classroom-school-gym-f138369d41: description begins 'Personalized phys ed classroom welcome mat with teacher name, sports ball artwork, easy clean surface and non sl...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-521",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-teacher-welcome-doormat-classroom-school-gym-f138369d41.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-teacher-welcome-doormat-classroom-school-gym-f138369d41: workbook row, evidence id B053-521, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-521",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-teacher-welcome-doormat-classroom-school-gym-f138369d41.html"
+        ]
+      }
+    },
+    "custom-teacher-classroom-welcome-doormat-513babf582": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-teacher-classroom-welcome-doormat-513babf582: proposed title 'Preschool Teacher Personalized Classroom Mat for Teacher Name Decor' and description 'Preschool teacher personalized classroom mat with Mrs. Kirsten name, pastel dot backgro...' keep the same product/theme shown in evidence B053-522.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-522",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-teacher-classroom-welcome-doormat-513babf582.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-teacher-classroom-welcome-doormat-513babf582: customer copy is limited to visible/product facts such as 'pastel polka dot mat shows Mrs Kirsten, number one, apple, rainbow, book and school doodles;...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-522",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-teacher-classroom-welcome-doormat-513babf582.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-teacher-classroom-welcome-doormat-513babf582: primary keyword 'preschool teacher classroom mat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-522",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-teacher-classroom-welcome-doormat-513babf582.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-teacher-classroom-welcome-doormat-513babf582: proposed copy targets the same search intent as 'preschool teacher classroom mat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-522",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-teacher-classroom-welcome-doormat-513babf582.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-teacher-classroom-welcome-doormat-513babf582: current support is 'Use long-tail terms matching the artwork: personalized gym class doormat, preschool teacher...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-522",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-teacher-classroom-welcome-doormat-513babf582.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-teacher-classroom-welcome-doormat-513babf582: title 'Preschool Teacher Personalized Classroom Mat for Teacher Name Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-522",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-teacher-classroom-welcome-doormat-513babf582.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-teacher-classroom-welcome-doormat-513babf582: meta title 'Preschool Teacher Personalized Classroom Mat for Teacher Name Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-522",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-teacher-classroom-welcome-doormat-513babf582.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-teacher-classroom-welcome-doormat-513babf582: meta 'Preschool teacher personalized classroom mat with Mrs. Kirsten name, pastel dot background, school icons and non...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-522",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-teacher-classroom-welcome-doormat-513babf582.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-teacher-classroom-welcome-doormat-513babf582: description begins 'Preschool teacher personalized classroom mat with Mrs. Kirsten name, pastel dot background, school icons and non...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-522",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-teacher-classroom-welcome-doormat-513babf582.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-teacher-classroom-welcome-doormat-513babf582: workbook row, evidence id B053-522, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-522",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-teacher-classroom-welcome-doormat-513babf582.html"
+        ]
+      }
+    },
+    "personalized-name-teacher-doormat-classroom-school-e7cafd4fd8": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-name-teacher-doormat-classroom-school-e7cafd4fd8: proposed title 'Custom Teacher Name Classroom Doormat for School Entry Decor' and description 'Custom teacher name classroom doormat with colorful Mrs. Smith lettering, school doodle...' keep the same product/theme shown in evidence B053-523.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-523",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-name-teacher-doormat-classroom-school-e7cafd4fd8.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-name-teacher-doormat-classroom-school-e7cafd4fd8: customer copy is limited to visible/product facts such as 'white mat features large colorful Mrs Smith lettering over gray school supply doodles; HTTP...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-523",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-name-teacher-doormat-classroom-school-e7cafd4fd8.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-name-teacher-doormat-classroom-school-e7cafd4fd8: primary keyword 'custom teacher name doormat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-523",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-name-teacher-doormat-classroom-school-e7cafd4fd8.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-name-teacher-doormat-classroom-school-e7cafd4fd8: proposed copy targets the same search intent as 'custom teacher name doormat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-523",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-name-teacher-doormat-classroom-school-e7cafd4fd8.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-name-teacher-doormat-classroom-school-e7cafd4fd8: current support is 'Use long-tail terms matching the artwork: personalized gym class doormat, preschool teacher...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-523",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-name-teacher-doormat-classroom-school-e7cafd4fd8.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-name-teacher-doormat-classroom-school-e7cafd4fd8: title 'Custom Teacher Name Classroom Doormat for School Entry Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-523",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-name-teacher-doormat-classroom-school-e7cafd4fd8.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-name-teacher-doormat-classroom-school-e7cafd4fd8: meta title 'Custom Teacher Name Classroom Doormat for School Entry Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-523",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-name-teacher-doormat-classroom-school-e7cafd4fd8.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-name-teacher-doormat-classroom-school-e7cafd4fd8: meta 'Custom teacher name classroom doormat with colorful Mrs. Smith lettering, school doodle background and non slip...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-523",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-name-teacher-doormat-classroom-school-e7cafd4fd8.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-name-teacher-doormat-classroom-school-e7cafd4fd8: description begins 'Custom teacher name classroom doormat with colorful Mrs. Smith lettering, school doodle background and non slip...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-523",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-name-teacher-doormat-classroom-school-e7cafd4fd8.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-name-teacher-doormat-classroom-school-e7cafd4fd8: workbook row, evidence id B053-523, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-523",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-name-teacher-doormat-classroom-school-e7cafd4fd8.html"
+        ]
+      }
+    },
+    "personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49: proposed title 'Personalized Vinyl Record Rug with Photo for Photo Record Decor' and description 'Personalized vinyl record rug with custom photo, song name, artist name, player-style d...' keep the same product/theme shown in evidence B053-524.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-524",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49: customer copy is limited to visible/product facts such as 'round black vinyl record rug has a custom couple photo in the center plus song name, artist...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-524",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49: primary keyword 'personalized vinyl record rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-524",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49: proposed copy targets the same search intent as 'personalized vinyl record rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-524",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49: current support is 'Use long-tail terms matching the artwork: personalized gym class doormat, preschool teacher...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-524",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49: title 'Personalized Vinyl Record Rug with Photo for Photo Record Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-524",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49: meta title 'Personalized Vinyl Record Rug with Photo for Photo Record Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-524",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49: meta 'Personalized vinyl record rug with custom photo, song name, artist name, player-style details and non slip backing.' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-524",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49: description begins 'Personalized vinyl record rug with custom photo, song name, artist name, player-style details and non slip backi...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-524",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49: workbook row, evidence id B053-524, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-524",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-9a545dcd49.html"
+        ]
+      }
+    },
+    "personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c: proposed title 'Custom Floral Vinyl Record Rug for Record Cover Decor' and description 'Custom floral vinyl record rug with rose border, personalized record cover center, roun...' keep the same product/theme shown in evidence B053-525.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-525",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c: customer copy is limited to visible/product facts such as 'round black record-style rug has pink rose border and center text area reading Record Cover...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-525",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c: primary keyword 'custom floral vinyl record rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-525",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c: proposed copy targets the same search intent as 'custom floral vinyl record rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-525",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c: current support is 'Use long-tail terms matching the artwork: personalized gym class doormat, preschool teacher...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-525",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c: title 'Custom Floral Vinyl Record Rug for Record Cover Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-525",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c: meta title 'Custom Floral Vinyl Record Rug for Record Cover Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-525",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c: meta 'Custom floral vinyl record rug with rose border, personalized record cover center, round shape and non slip back...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-525",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c: description begins 'Custom floral vinyl record rug with rose border, personalized record cover center, round shape and non slip back...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-525",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c: workbook row, evidence id B053-525, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-525",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-9667c97a3c.html"
+        ]
+      }
+    },
+    "personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0: proposed title 'Custom CD Record Rug with Image for Image Record Decor' and description 'Custom CD record rug with personalized image area, bold song-style lettering, round sha...' keep the same product/theme shown in evidence B053-526.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-526",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0: customer copy is limited to visible/product facts such as 'black round rug reads Your Custom CD and Your Image Here with a bright colored rim and perso...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-526",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0: primary keyword 'custom CD record rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-526",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0: proposed copy targets the same search intent as 'custom CD record rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-526",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0: current support is 'Use long-tail terms matching the artwork: personalized gym class doormat, preschool teacher...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-526",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0: title 'Custom CD Record Rug with Image for Image Record Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-526",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0: meta title 'Custom CD Record Rug with Image for Image Record Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-526",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0: meta 'Custom CD record rug with personalized image area, bold song-style lettering, round shape and non slip soft back...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-526",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0: description begins 'Custom CD record rug with personalized image area, bold song-style lettering, round shape and non slip soft back...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-526",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0: workbook row, evidence id B053-526, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-526",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-vinyl-record-rug-with-photo-and-song-name-19f23f2bc0.html"
+        ]
+      }
+    },
+    "custom-3d-effect-dragon-round-rug-9cee675fdf": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-3d-effect-dragon-round-rug-9cee675fdf: proposed title '3D Dragon Library Round Rug for Fantasy Bookshelf Decor' and description '3D dragon library round rug with spiral staircase artwork, red cream dragon, non slip b...' keep the same product/theme shown in evidence B053-527.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-527",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-3d-effect-dragon-round-rug-9cee675fdf.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-3d-effect-dragon-round-rug-9cee675fdf: customer copy is limited to visible/product facts such as 'round rug shows a red and cream dragon curled around a spiral library staircase with room an...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-527",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-3d-effect-dragon-round-rug-9cee675fdf.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-3d-effect-dragon-round-rug-9cee675fdf: primary keyword '3D dragon library rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-527",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-3d-effect-dragon-round-rug-9cee675fdf.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-3d-effect-dragon-round-rug-9cee675fdf: proposed copy targets the same search intent as '3D dragon library rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-527",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-3d-effect-dragon-round-rug-9cee675fdf.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-3d-effect-dragon-round-rug-9cee675fdf: current support is 'Use long-tail terms matching the artwork: personalized gym class doormat, preschool teacher...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-527",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-3d-effect-dragon-round-rug-9cee675fdf.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-3d-effect-dragon-round-rug-9cee675fdf: title '3D Dragon Library Round Rug for Fantasy Bookshelf Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-527",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-3d-effect-dragon-round-rug-9cee675fdf.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-3d-effect-dragon-round-rug-9cee675fdf: meta title '3D Dragon Library Round Rug for Fantasy Bookshelf Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-527",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-3d-effect-dragon-round-rug-9cee675fdf.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-3d-effect-dragon-round-rug-9cee675fdf: meta '3D dragon library round rug with spiral staircase artwork, red cream dragon, non slip backing and fantasy readin...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-527",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-3d-effect-dragon-round-rug-9cee675fdf.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-3d-effect-dragon-round-rug-9cee675fdf: description begins '3D dragon library round rug with spiral staircase artwork, red cream dragon, non slip backing and fantasy readin...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-527",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-3d-effect-dragon-round-rug-9cee675fdf.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-3d-effect-dragon-round-rug-9cee675fdf: workbook row, evidence id B053-527, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-527",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-3d-effect-dragon-round-rug-9cee675fdf.html"
+        ]
+      }
+    },
+    "custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8: proposed title 'Purple Dragon Library Optical Illusion Rug for Book Lover Fantasy D...' and description 'Purple dragon optical illusion rug with stone stair library design, round shape, non sl...' keep the same product/theme shown in evidence B053-528.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-528",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8: customer copy is limited to visible/product facts such as 'round rug shows purple dragon curled inside a stone stair ring with warm library shelves and...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-528",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8: primary keyword 'dragon library optical illusion rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-528",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8: proposed copy targets the same search intent as 'dragon library optical illusion rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-528",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8: current support is 'Use long-tail terms matching the artwork: personalized gym class doormat, preschool teacher...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-528",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8: title 'Purple Dragon Library Optical Illusion Rug for Book Lover Fantasy Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-528",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8: meta title 'Purple Dragon Library Optical Illusion Rug for Book Lover Fantasy Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-528",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8: meta 'Purple dragon optical illusion rug with stone stair library design, round shape, non slip backing and book lover...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-528",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8: description begins 'Purple dragon optical illusion rug with stone stair library design, round shape, non slip backing and book lover...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-528",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8: workbook row, evidence id B053-528, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-528",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-3d-effect-dragon-round-rug-personalized-3d-printed-dragon-book-lovers-library-optical-illusion-rug-c5c462d4c8.html"
+        ]
+      }
+    },
+    "custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b: proposed title 'Coping Skills Classroom Jobs Rug for Crayon Classroom Decor' and description 'Coping skills classroom rug with colorful crayon job cards, soft thick surface, tight e...' keep the same product/theme shown in evidence B053-529.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-529",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b: customer copy is limited to visible/product facts such as 'large black speckled classroom rug features colorful crayon pockets labeled with coping skil...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-529",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b: primary keyword 'coping skills classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-529",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b: proposed copy targets the same search intent as 'coping skills classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-529",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b: current support is 'Use long-tail terms matching the artwork: personalized gym class doormat, preschool teacher...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-529",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b: title 'Coping Skills Classroom Jobs Rug for Crayon Classroom Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-529",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b: meta title 'Coping Skills Classroom Jobs Rug for Crayon Classroom Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-529",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b: meta 'Coping skills classroom rug with colorful crayon job cards, soft thick surface, tight edges and teacher learning...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-529",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b: description begins 'Coping skills classroom rug with colorful crayon job cards, soft thick surface, tight edges and teacher learning...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-529",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b: workbook row, evidence id B053-529, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-529",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/custom-classroom-welcome-mat-for-front-door-and-entryway-74cdb5663b.html"
+        ]
+      }
+    },
+    "personalized-dragon-round-rug-3d-effect-dcdcc98f68": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-dragon-round-rug-3d-effect-dcdcc98f68: proposed title 'White Dragon Forest Round Rug for 3D Dragon Forest Decor' and description 'White dragon forest round rug with 3D effect pit artwork, evergreen trees, non slip bac...' keep the same product/theme shown in evidence B053-530.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-530",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-dragon-round-rug-3d-effect-dcdcc98f68.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-dragon-round-rug-3d-effect-dcdcc98f68: customer copy is limited to visible/product facts such as 'round rug shows white dragon flying above a dark forest pit with evergreen trees and stone b...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-530",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-dragon-round-rug-3d-effect-dcdcc98f68.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-dragon-round-rug-3d-effect-dcdcc98f68: primary keyword 'white dragon round rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-530",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-dragon-round-rug-3d-effect-dcdcc98f68.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-dragon-round-rug-3d-effect-dcdcc98f68: proposed copy targets the same search intent as 'white dragon round rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-530",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-dragon-round-rug-3d-effect-dcdcc98f68.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-dragon-round-rug-3d-effect-dcdcc98f68: current support is 'Use long-tail terms matching the artwork: personalized gym class doormat, preschool teacher...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-530",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-dragon-round-rug-3d-effect-dcdcc98f68.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-dragon-round-rug-3d-effect-dcdcc98f68: title 'White Dragon Forest Round Rug for 3D Dragon Forest Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-530",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-dragon-round-rug-3d-effect-dcdcc98f68.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-dragon-round-rug-3d-effect-dcdcc98f68: meta title 'White Dragon Forest Round Rug for 3D Dragon Forest Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-530",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-dragon-round-rug-3d-effect-dcdcc98f68.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-dragon-round-rug-3d-effect-dcdcc98f68: meta 'White dragon forest round rug with 3D effect pit artwork, evergreen trees, non slip backing and fantasy room decor.' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-530",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-dragon-round-rug-3d-effect-dcdcc98f68.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-dragon-round-rug-3d-effect-dcdcc98f68: description begins 'White dragon forest round rug with 3D effect pit artwork, evergreen trees, non slip backing and fantasy room dec...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-530",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-dragon-round-rug-3d-effect-dcdcc98f68.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-dragon-round-rug-3d-effect-dcdcc98f68: workbook row, evidence id B053-530, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B053/SEO_Product_Optimization_longtitle_B053_R1.xlsx",
+          "product_evidence:B053-530",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B053_pages/personalized-dragon-round-rug-3d-effect-dcdcc98f68.html"
+        ]
+      }
+    }
+  }
+}

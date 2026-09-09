@@ -433,7 +433,9 @@ def main():
         # Record known evidence limitations explicitly.  They do not lower a
         # product to REVISE by themselves, but must remain visible for audit.
         demand_note = val(p, "keyword_demand_evidence").lower()
-        if demand_note and ("serp" in demand_note or "no paid volume" in demand_note or "no volume" in demand_note) and "volume verified" not in demand_note:
+        demand_validation = val(p, "keyword_validation_status").upper()
+        if ((demand_note and ("serp" in demand_note or "no paid volume" in demand_note or "no volume" in demand_note))
+                or "SERP_ONLY" in demand_validation or "NO_VOLUME" in demand_validation) and "volume verified" not in demand_note.lower():
             issues.append([f"{revision}-QA-LK3-{handle[:20]}", handle, "", "LIMITATION", "K3", "SERP_ONLY/no_volume", "Only public SERP or semantic evidence is available; demand volume is not verified.", "", "Obtain Search Console or a cited keyword source if demand verification is required.", refs, "Re-run if stronger demand evidence is added."])
         export_state = val(p, "source_exported_at").strip().lower()
         export_ref = val(p, "source_export_ref").lower()
@@ -542,7 +544,13 @@ def main():
         "MINOR": sum(1 for r in qissues if r[3] == "MINOR"),
         "LIMITATION": sum(1 for r in qissues if r[3] == "LIMITATION"),
     }
-    evidence_maturity = "SERP_ONLY" if any(r[4] == "K3" and r[5] == "SERP_ONLY/no_volume" for r in qissues) else "DEMAND_SUPPORTED"
+    evidence_maturity = "SERP_ONLY" if any(
+        r[4] == "K3" and r[5] == "SERP_ONLY/no_volume" for r in qissues
+    ) or any(
+        "SERP_ONLY" in val(p, "keyword_validation_status").upper()
+        or "NO_VOLUME" in val(p, "keyword_validation_status").upper()
+        for p in products.values()
+    ) else "DEMAND_SUPPORTED"
     summary = [
         ("rubric_version", "prompt_qa.md v1.0"),
         ("rubric_hash", rubric_hash),

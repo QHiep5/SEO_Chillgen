@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "B046",
+  "batch_id": "B046",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+  "source_workbook_sha256": "d1876ba0aa885771361970ab93adc5df0641371bdec5ff21ae458a26d7bfbf46",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-B046-CRITERIA-01",
+    "reviewed_at": "2026-09-09T17:51:43+07:00"
+  },
+  "reviewed_at": "2026-09-09T17:51:43+07:00",
+  "products": {
+    "personalized-patriotic-hunting-doormat-ee02618b87": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-patriotic-hunting-doormat-ee02618b87: proposed title 'Personalized American Hunter Doormat with Black Lab' and description 'Personalized American Hunter doormat with black lab, antlers, American flag and hunting...' keep the same product/theme shown in evidence B046-451.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-451",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-patriotic-hunting-doormat-ee02618b87.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-patriotic-hunting-doormat-ee02618b87: customer copy is limited to visible/product facts such as 'patriotic hunting doormat with black lab wearing cap, antlers, American flag, forest and wil...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-451",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-patriotic-hunting-doormat-ee02618b87.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-patriotic-hunting-doormat-ee02618b87: primary keyword 'personalized American Hunter doormat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-451",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-patriotic-hunting-doormat-ee02618b87.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-patriotic-hunting-doormat-ee02618b87: proposed copy targets the same search intent as 'personalized American Hunter doormat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-451",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-patriotic-hunting-doormat-ee02618b87.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-patriotic-hunting-doormat-ee02618b87: current support is 'Marketplace and retail SERPs support patriotic hunting doormats, deer hunting doormats, cabi...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-451",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-patriotic-hunting-doormat-ee02618b87.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-patriotic-hunting-doormat-ee02618b87: title 'Personalized American Hunter Doormat with Black Lab' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-451",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-patriotic-hunting-doormat-ee02618b87.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-patriotic-hunting-doormat-ee02618b87: meta title 'Personalized American Hunter Doormat with Black Lab' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-451",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-patriotic-hunting-doormat-ee02618b87.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-patriotic-hunting-doormat-ee02618b87: meta 'Personalized American Hunter doormat with black lab, antlers, American flag and hunting patchwork border for pat...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-451",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-patriotic-hunting-doormat-ee02618b87.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-patriotic-hunting-doormat-ee02618b87: description begins 'Personalized American Hunter doormat with black lab, antlers, American flag and hunting patchwork border for pat...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-451",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-patriotic-hunting-doormat-ee02618b87.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-patriotic-hunting-doormat-ee02618b87: workbook row, evidence id B046-451, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-451",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-patriotic-hunting-doormat-ee02618b87.html"
+        ]
+      }
+    },
+    "personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3: proposed title 'Custom Deer Duck and Fishing Doormat with Family Name' and description 'Custom deer, duck and fishing doormat with family name, American whitetail artwork and...' keep the same product/theme shown in evidence B046-452.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-452",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3: customer copy is limited to visible/product facts such as 'family-name hunting mat with whitetail deer, American flag, wildlife icons, plaid accents an...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-452",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3: primary keyword 'custom deer duck fishing doormat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-452",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3: proposed copy targets the same search intent as 'custom deer duck fishing doormat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-452",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3: current support is 'Marketplace and retail SERPs support patriotic hunting doormats, deer hunting doormats, cabi...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-452",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3: title 'Custom Deer Duck and Fishing Doormat with Family Name' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-452",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3: meta title 'Custom Deer Duck and Fishing Doormat with Family Name' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-452",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3: meta 'Custom deer, duck and fishing doormat with family name, American whitetail artwork and cabin-style patriotic ent...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-452",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3: description begins 'Custom deer, duck and fishing doormat with family name, American whitetail artwork and cabin-style patriotic ent...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-452",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3: workbook row, evidence id B046-452, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-452",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3.html"
+        ]
+      }
+    },
+    "personalized-hunting-doormat-custom-family-name-6e74ed97c6": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-hunting-doormat-custom-family-name-6e74ed97c6: proposed title 'Personalized Tastes Like Freedom Hunting Doormat for Bass Fishing D...' and description 'Personalized patriotic hunting doormat with bass fish, American flag, burger and drink...' keep the same product/theme shown in evidence B046-453.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-453",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-6e74ed97c6.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-hunting-doormat-custom-family-name-6e74ed97c6: customer copy is limited to visible/product facts such as 'patriotic bass fish doormat with Tastes Like Freedom text, American flag, burger, drink can,...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-453",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-6e74ed97c6.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-hunting-doormat-custom-family-name-6e74ed97c6: primary keyword 'personalized Tastes Like Freedom doormat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-453",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-6e74ed97c6.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-hunting-doormat-custom-family-name-6e74ed97c6: proposed copy targets the same search intent as 'personalized Tastes Like Freedom doormat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-453",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-6e74ed97c6.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-hunting-doormat-custom-family-name-6e74ed97c6: current support is 'Marketplace and retail SERPs support patriotic hunting doormats, deer hunting doormats, cabi...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-453",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-6e74ed97c6.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-hunting-doormat-custom-family-name-6e74ed97c6: title 'Personalized Tastes Like Freedom Hunting Doormat for Bass Fishing Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-453",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-6e74ed97c6.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-hunting-doormat-custom-family-name-6e74ed97c6: meta title 'Personalized Tastes Like Freedom Hunting Doormat for Bass Fishing Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-453",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-6e74ed97c6.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-hunting-doormat-custom-family-name-6e74ed97c6: meta 'Personalized patriotic hunting doormat with bass fish, American flag, burger and drink artwork and bold Tastes L...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-453",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-6e74ed97c6.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-hunting-doormat-custom-family-name-6e74ed97c6: description begins 'Personalized patriotic hunting doormat with bass fish, American flag, burger and drink artwork and bold Tastes L...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-453",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-6e74ed97c6.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-hunting-doormat-custom-family-name-6e74ed97c6: workbook row, evidence id B046-453, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-453",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-6e74ed97c6.html"
+        ]
+      }
+    },
+    "personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2: proposed title 'Custom Hooked on Freedom Hunting Doormat for Bass Hunting Decor' and description 'Custom Hooked on Freedom hunting doormat with bass fish, American flag circle, wildlife...' keep the same product/theme shown in evidence B046-454.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-454",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2: customer copy is limited to visible/product facts such as 'bass fish doormat with Hooked on Freedom quote, American flag circle, wildlife silhouettes,...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-454",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2: primary keyword 'custom Hooked on Freedom doormat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-454",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2: proposed copy targets the same search intent as 'custom Hooked on Freedom doormat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-454",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2: current support is 'Marketplace and retail SERPs support patriotic hunting doormats, deer hunting doormats, cabi...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-454",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2: title 'Custom Hooked on Freedom Hunting Doormat for Bass Hunting Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-454",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2: meta title 'Custom Hooked on Freedom Hunting Doormat for Bass Hunting Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-454",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2: meta 'Custom Hooked on Freedom hunting doormat with bass fish, American flag circle, wildlife border and family-name s...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-454",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2: description begins 'Custom Hooked on Freedom hunting doormat with bass fish, American flag circle, wildlife border and family-name s...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-454",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2: workbook row, evidence id B046-454, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-454",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2.html"
+        ]
+      }
+    },
+    "personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b: proposed title 'Personalized 250th Anniversary Eagle Hunting Doormat' and description 'Personalized 250th Anniversary eagle hunting doormat with American flag, 1776–2026 text...' keep the same product/theme shown in evidence B046-455.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-455",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b: customer copy is limited to visible/product facts such as 'patriotic doormat with eagle, American flag stripes, circular 1776 2026 anniversary medallio...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-455",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b: primary keyword 'personalized 250th anniversary eagle doormat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-455",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b: proposed copy targets the same search intent as 'personalized 250th anniversary eagle doormat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-455",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b: current support is 'Marketplace and retail SERPs support patriotic hunting doormats, deer hunting doormats, cabi...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-455",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b: title 'Personalized 250th Anniversary Eagle Hunting Doormat' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-455",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b: meta title 'Personalized 250th Anniversary Eagle Hunting Doormat' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-455",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b: meta 'Personalized 250th Anniversary eagle hunting doormat with American flag, 1776–2026 text and patriotic entryway d...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-455",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b: description begins 'Personalized 250th Anniversary eagle hunting doormat with American flag, 1776–2026 text and patriotic entryway d...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-455",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b: workbook row, evidence id B046-455, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-455",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b.html"
+        ]
+      }
+    },
+    "custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491: proposed title 'Golf Equipment Area Rug with Vintage Course Collage' and description 'Golf equipment area rug with vintage course collage, clubs, balls, tees and soft memory...' keep the same product/theme shown in evidence B046-456.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-456",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491: customer copy is limited to visible/product facts such as 'tan vintage-style golf collage rug with clubs, balls, tees, scorecard-like details, size cha...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-456",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491: primary keyword 'golf equipment area rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-456",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491: proposed copy targets the same search intent as 'golf equipment area rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-456",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491: current support is 'Marketplace and retail SERPs support patriotic hunting doormats, deer hunting doormats, cabi...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-456",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491: title 'Golf Equipment Area Rug with Vintage Course Collage' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-456",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491: meta title 'Golf Equipment Area Rug with Vintage Course Collage' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-456",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491: meta 'Golf equipment area rug with vintage course collage, clubs, balls, tees and soft memory foam feel for home offic...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-456",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491: description begins 'Golf equipment area rug with vintage course collage, clubs, balls, tees and soft memory foam feel for home offic...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-456",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491: workbook row, evidence id B046-456, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-456",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491.html"
+        ]
+      }
+    },
+    "custom-golf-welcome-mat-7fa10153d4-7fa10153d4": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-golf-welcome-mat-7fa10153d4-7fa10153d4: proposed title 'Personalized 19th Hole Golf Welcome Rug for Family Name Golf Decor' and description 'Personalized 19th Hole golf welcome rug with family name, green course landscape, flag...' keep the same product/theme shown in evidence B046-457.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-457",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-welcome-mat-7fa10153d4-7fa10153d4.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-golf-welcome-mat-7fa10153d4-7fa10153d4: customer copy is limited to visible/product facts such as 'green golf course rug reading Welcome to The Thompson and 19th Hole Est. 2026, with flag pin...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-457",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-welcome-mat-7fa10153d4-7fa10153d4.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-golf-welcome-mat-7fa10153d4-7fa10153d4: primary keyword 'personalized 19th Hole golf rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-457",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-welcome-mat-7fa10153d4-7fa10153d4.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-golf-welcome-mat-7fa10153d4-7fa10153d4: proposed copy targets the same search intent as 'personalized 19th Hole golf rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-457",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-welcome-mat-7fa10153d4-7fa10153d4.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-golf-welcome-mat-7fa10153d4-7fa10153d4: current support is 'Marketplace and retail SERPs support patriotic hunting doormats, deer hunting doormats, cabi...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-457",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-welcome-mat-7fa10153d4-7fa10153d4.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-golf-welcome-mat-7fa10153d4-7fa10153d4: title 'Personalized 19th Hole Golf Welcome Rug for Family Name Golf Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-457",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-welcome-mat-7fa10153d4-7fa10153d4.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-golf-welcome-mat-7fa10153d4-7fa10153d4: meta title 'Personalized 19th Hole Golf Welcome Rug for Family Name Golf Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-457",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-welcome-mat-7fa10153d4-7fa10153d4.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-golf-welcome-mat-7fa10153d4-7fa10153d4: meta 'Personalized 19th Hole golf welcome rug with family name, green course landscape, flag pin and soft low-pile bac...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-457",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-welcome-mat-7fa10153d4-7fa10153d4.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-golf-welcome-mat-7fa10153d4-7fa10153d4: description begins 'Personalized 19th Hole golf welcome rug with family name, green course landscape, flag pin and soft low-pile bac...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-457",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-welcome-mat-7fa10153d4-7fa10153d4.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-golf-welcome-mat-7fa10153d4-7fa10153d4: workbook row, evidence id B046-457, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-457",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-welcome-mat-7fa10153d4-7fa10153d4.html"
+        ]
+      }
+    },
+    "custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c: proposed title 'Black Golf Area Rug with Distressed Flag Design for Golf Club Decor' and description 'Black golf area rug with distressed flag stripes, red golf club accent, microfiber surf...' keep the same product/theme shown in evidence B046-458.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-458",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c: customer copy is limited to visible/product facts such as 'black rug with distressed white flag stripes, red golf club shape, ball dots, size chart and...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-458",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c: primary keyword 'black golf area rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-458",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c: proposed copy targets the same search intent as 'black golf area rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-458",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c: current support is 'Marketplace and retail SERPs support patriotic hunting doormats, deer hunting doormats, cabi...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-458",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c: title 'Black Golf Area Rug with Distressed Flag Design for Golf Club Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-458",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c: meta title 'Black Golf Area Rug with Distressed Flag Design for Golf Club Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-458",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c: meta 'Black golf area rug with distressed flag stripes, red golf club accent, microfiber surface and backing for boys...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-458",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c: description begins 'Black golf area rug with distressed flag stripes, red golf club accent, microfiber surface and backing for boys...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-458",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c: workbook row, evidence id B046-458, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-458",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c.html"
+        ]
+      }
+    },
+    "custom-golf-area-rug-living-room-mat-39dea6cb42": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-golf-area-rug-living-room-mat-39dea6cb42: proposed title 'Vibrant Golf Equipment Rug with 19th Hole Name for Green 19th Hole...' and description 'Vibrant golf equipment rug with Anderson's 19th Hole text, green fairway design, flag,...' keep the same product/theme shown in evidence B046-459.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-459",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-39dea6cb42.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-golf-area-rug-living-room-mat-39dea6cb42: customer copy is limited to visible/product facts such as 'green golf rug with Anderson's 19th Hole text, flag pin, club, ball and fairway-style radial...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-459",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-39dea6cb42.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-golf-area-rug-living-room-mat-39dea6cb42: primary keyword 'vibrant golf equipment rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-459",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-39dea6cb42.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-golf-area-rug-living-room-mat-39dea6cb42: proposed copy targets the same search intent as 'vibrant golf equipment rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-459",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-39dea6cb42.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-golf-area-rug-living-room-mat-39dea6cb42: current support is 'Marketplace and retail SERPs support patriotic hunting doormats, deer hunting doormats, cabi...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-459",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-39dea6cb42.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-golf-area-rug-living-room-mat-39dea6cb42: title 'Vibrant Golf Equipment Rug with 19th Hole Name for Green 19th Hole Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-459",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-39dea6cb42.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-golf-area-rug-living-room-mat-39dea6cb42: meta title 'Vibrant Golf Equipment Rug with 19th Hole Name for Green 19th Hole Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-459",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-39dea6cb42.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-golf-area-rug-living-room-mat-39dea6cb42: meta 'Vibrant golf equipment rug with Anderson's 19th Hole text, green fairway design, flag, club and soft memory foam...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-459",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-39dea6cb42.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-golf-area-rug-living-room-mat-39dea6cb42: description begins 'Vibrant golf equipment rug with Anderson's 19th Hole text, green fairway design, flag, club and soft memory foam...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-459",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-39dea6cb42.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-golf-area-rug-living-room-mat-39dea6cb42: workbook row, evidence id B046-459, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-459",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-area-rug-living-room-mat-39dea6cb42.html"
+        ]
+      }
+    },
+    "custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1: proposed title 'Golf Quote Floor Mat with Brown Clubhouse Design for Brown Golf Decor' and description 'Golf quote floor mat with brown clubhouse-style design, clubs, gloves, laurel border an...' keep the same product/theme shown in evidence B046-460.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-460",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1: customer copy is limited to visible/product facts such as 'brown wood-tone golf mat with quote about love, laughter and golf, club and glove icons, lau...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-460",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1: primary keyword 'golf quote floor mat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-460",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1: proposed copy targets the same search intent as 'golf quote floor mat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-460",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1: current support is 'Marketplace and retail SERPs support patriotic hunting doormats, deer hunting doormats, cabi...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-460",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1: title 'Golf Quote Floor Mat with Brown Clubhouse Design for Brown Golf Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-460",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1: meta title 'Golf Quote Floor Mat with Brown Clubhouse Design for Brown Golf Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-460",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1: meta 'Golf quote floor mat with brown clubhouse-style design, clubs, gloves, laurel border and backing for home office...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-460",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1: description begins 'Golf quote floor mat with brown clubhouse-style design, clubs, gloves, laurel border and backing for home office...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-460",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1: workbook row, evidence id B046-460, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B046/SEO_Product_Optimization_longtitle_B046_R1.xlsx",
+          "product_evidence:B046-460",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B046_pages/custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1.html"
+        ]
+      }
+    }
+  }
+}

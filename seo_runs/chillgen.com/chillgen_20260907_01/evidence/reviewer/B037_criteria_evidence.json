@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "B037",
+  "batch_id": "B037",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+  "source_workbook_sha256": "817b889e112b98a4f8e83e9e24accde206fd5d1db4abe1334a3ab195c27bbf90",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-B037-CRITERIA-01",
+    "reviewed_at": "2026-09-09T17:21:02+07:00"
+  },
+  "reviewed_at": "2026-09-09T17:21:02+07:00",
+  "products": {
+    "wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f: proposed title 'Purple Dreamcatcher Wolf Rug' and description 'Decorate with a purple dreamcatcher wolf rug featuring dual wolf portrait, feather acce...' keep the same product/theme shown in evidence B037-361.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-361",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f: customer copy is limited to visible/product facts such as 'purple and gold wolf rug with two close-up wolf faces, dreamcatcher bead and feather accents...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-361",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f: primary keyword 'purple dreamcatcher wolf rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-361",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f: proposed copy targets the same search intent as 'purple dreamcatcher wolf rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-361",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f: current support is 'Marketplace and retail SERPs support galaxy wolf rugs, wolf bedroom rugs, paw print rugs, be...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-361",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f: title 'Purple Dreamcatcher Wolf Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-361",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f: meta title 'Purple Dreamcatcher Wolf Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-361",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f: meta 'Decorate with a purple dreamcatcher wolf rug featuring dual wolf portrait, feather accents and bedroom and livin...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-361",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f: description begins 'Decorate with a purple dreamcatcher wolf rug featuring dual wolf portrait, feather accents and bedroom living st...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-361",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f: workbook row, evidence id B037-361, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-361",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/wolf-galaxy-carpet-boy-room-decor-rug-4c471ed92f-4c471ed92f.html"
+        ]
+      }
+    },
+    "custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7: proposed title 'Black Floral Bear Shaped Rug' and description 'Personalize a black floral bear shaped rug with colorful flowers, custom shape, size ch...' keep the same product/theme shown in evidence B037-362.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-362",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7: customer copy is limited to visible/product facts such as 'custom bear-shaped rug with black bear silhouette, colorful floral pattern, shaped outline,...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-362",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7: primary keyword 'black floral bear shaped rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-362",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7: proposed copy targets the same search intent as 'black floral bear shaped rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-362",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7: current support is 'Marketplace and retail SERPs support galaxy wolf rugs, wolf bedroom rugs, paw print rugs, be...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-362",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7: title 'Black Floral Bear Shaped Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-362",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7: meta title 'Black Floral Bear Shaped Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-362",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7: meta 'Personalize a black floral bear shaped rug with colorful flowers, custom shape, size chart, plush layers and ant...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-362",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7: description begins 'Personalize a black floral bear shaped rug with colorful flowers, custom shape, size chart, plush layers and ant...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-362",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7: workbook row, evidence id B037-362, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-362",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-4e14d548d7-4e14d548d7.html"
+        ]
+      }
+    },
+    "custom-dog-paw-print-shaped-rug-39afbc78d5": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-dog-paw-print-shaped-rug-39afbc78d5: proposed title 'Patchwork Paw Shaped Rug' and description 'Add a patchwork paw shaped rug with tartan fabric panels, paw outline, plush layers, si...' keep the same product/theme shown in evidence B037-363.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-363",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-dog-paw-print-shaped-rug-39afbc78d5.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-dog-paw-print-shaped-rug-39afbc78d5: customer copy is limited to visible/product facts such as 'large paw-shaped rug with black paw outline, multicolor tartan plaid patches, small paw-prin...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-363",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-dog-paw-print-shaped-rug-39afbc78d5.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-dog-paw-print-shaped-rug-39afbc78d5: primary keyword 'patchwork paw shaped rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-363",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-dog-paw-print-shaped-rug-39afbc78d5.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-dog-paw-print-shaped-rug-39afbc78d5: proposed copy targets the same search intent as 'patchwork paw shaped rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-363",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-dog-paw-print-shaped-rug-39afbc78d5.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-dog-paw-print-shaped-rug-39afbc78d5: current support is 'Marketplace and retail SERPs support galaxy wolf rugs, wolf bedroom rugs, paw print rugs, be...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-363",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-dog-paw-print-shaped-rug-39afbc78d5.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-dog-paw-print-shaped-rug-39afbc78d5: title 'Patchwork Paw Shaped Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-363",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-dog-paw-print-shaped-rug-39afbc78d5.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-dog-paw-print-shaped-rug-39afbc78d5: meta title 'Patchwork Paw Shaped Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-363",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-dog-paw-print-shaped-rug-39afbc78d5.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-dog-paw-print-shaped-rug-39afbc78d5: meta 'Add a patchwork paw shaped rug with tartan fabric panels, paw outline, plush layers, size chart and anti-slip ba...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-363",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-dog-paw-print-shaped-rug-39afbc78d5.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-dog-paw-print-shaped-rug-39afbc78d5: description begins 'Add a patchwork paw shaped rug with tartan fabric panels, paw outline, plush layers, size chart and anti-slip ba...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-363",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-dog-paw-print-shaped-rug-39afbc78d5.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-dog-paw-print-shaped-rug-39afbc78d5: workbook row, evidence id B037-363, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-363",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-dog-paw-print-shaped-rug-39afbc78d5.html"
+        ]
+      }
+    },
+    "custom-bear-paw-print-area-rug-a5abc100ab": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-bear-paw-print-area-rug-a5abc100ab: proposed title 'Blue Daisy Bear Shaped Rug' and description 'Personalize a blue daisy bear shaped rug with cream flower artwork, cabin style, plush...' keep the same product/theme shown in evidence B037-364.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-364",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-a5abc100ab.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-bear-paw-print-area-rug-a5abc100ab: customer copy is limited to visible/product facts such as 'blue bear-shaped rug with cream daisy flowers across the back, hand-drawn fur texture, room...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-364",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-a5abc100ab.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-bear-paw-print-area-rug-a5abc100ab: primary keyword 'blue daisy bear shaped rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-364",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-a5abc100ab.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-bear-paw-print-area-rug-a5abc100ab: proposed copy targets the same search intent as 'blue daisy bear shaped rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-364",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-a5abc100ab.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-bear-paw-print-area-rug-a5abc100ab: current support is 'Marketplace and retail SERPs support galaxy wolf rugs, wolf bedroom rugs, paw print rugs, be...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-364",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-a5abc100ab.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-bear-paw-print-area-rug-a5abc100ab: title 'Blue Daisy Bear Shaped Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-364",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-a5abc100ab.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-bear-paw-print-area-rug-a5abc100ab: meta title 'Blue Daisy Bear Shaped Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-364",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-a5abc100ab.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-bear-paw-print-area-rug-a5abc100ab: meta 'Personalize a blue daisy bear shaped rug with cream flower artwork, cabin style, plush surface and anti-slip bac...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-364",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-a5abc100ab.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-bear-paw-print-area-rug-a5abc100ab: description begins 'Personalize a blue daisy bear shaped rug with cream flower artwork, cabin style, plush surface and anti-slip bac...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-364",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-a5abc100ab.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-bear-paw-print-area-rug-a5abc100ab: workbook row, evidence id B037-364, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-364",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-a5abc100ab.html"
+        ]
+      }
+    },
+    "custom-bear-paw-print-area-rug-7ff5dd63e9": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-bear-paw-print-area-rug-7ff5dd63e9: proposed title 'Teal Southwestern Paw Rug' and description 'Customize a teal southwestern paw rug with bear-paw shape, geometric pattern, plush lay...' keep the same product/theme shown in evidence B037-365.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-365",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-7ff5dd63e9.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-bear-paw-print-area-rug-7ff5dd63e9: customer copy is limited to visible/product facts such as 'paw-shaped rug with teal toes, cream and navy southwestern stripes, yellow geometric center...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-365",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-7ff5dd63e9.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-bear-paw-print-area-rug-7ff5dd63e9: primary keyword 'teal southwestern paw rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-365",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-7ff5dd63e9.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-bear-paw-print-area-rug-7ff5dd63e9: proposed copy targets the same search intent as 'teal southwestern paw rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-365",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-7ff5dd63e9.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-bear-paw-print-area-rug-7ff5dd63e9: current support is 'Marketplace and retail SERPs support galaxy wolf rugs, wolf bedroom rugs, paw print rugs, be...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-365",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-7ff5dd63e9.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-bear-paw-print-area-rug-7ff5dd63e9: title 'Teal Southwestern Paw Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-365",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-7ff5dd63e9.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-bear-paw-print-area-rug-7ff5dd63e9: meta title 'Teal Southwestern Paw Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-365",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-7ff5dd63e9.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-bear-paw-print-area-rug-7ff5dd63e9: meta 'Customize a teal southwestern paw rug with bear-paw shape, geometric pattern, plush layers, size chart and backing.' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-365",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-7ff5dd63e9.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-bear-paw-print-area-rug-7ff5dd63e9: description begins 'Customize a teal southwestern paw rug with bear-paw shape, geometric pattern, plush layers, size chart and backi...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-365",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-7ff5dd63e9.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-bear-paw-print-area-rug-7ff5dd63e9: workbook row, evidence id B037-365, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-365",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-7ff5dd63e9.html"
+        ]
+      }
+    },
+    "custom-bear-paw-print-area-rug-a43b3e3594": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-bear-paw-print-area-rug-a43b3e3594: proposed title 'Wood Slice Bear Paw Rug' and description 'Personalize a wood slice bear paw rug with family name, rustic cabin style, plush layer...' keep the same product/theme shown in evidence B037-366.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-366",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-a43b3e3594.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-bear-paw-print-area-rug-a43b3e3594: customer copy is limited to visible/product facts such as 'round wood-slice style rug with bark edge, bear paw print center, The Smiths Family custom t...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-366",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-a43b3e3594.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-bear-paw-print-area-rug-a43b3e3594: primary keyword 'wood slice bear paw rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-366",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-a43b3e3594.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-bear-paw-print-area-rug-a43b3e3594: proposed copy targets the same search intent as 'wood slice bear paw rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-366",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-a43b3e3594.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-bear-paw-print-area-rug-a43b3e3594: current support is 'Marketplace and retail SERPs support galaxy wolf rugs, wolf bedroom rugs, paw print rugs, be...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-366",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-a43b3e3594.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-bear-paw-print-area-rug-a43b3e3594: title 'Wood Slice Bear Paw Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-366",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-a43b3e3594.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-bear-paw-print-area-rug-a43b3e3594: meta title 'Wood Slice Bear Paw Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-366",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-a43b3e3594.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-bear-paw-print-area-rug-a43b3e3594: meta 'Personalize a wood slice bear paw rug with family name, rustic cabin style, plush layers, size chart and anti-sl...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-366",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-a43b3e3594.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-bear-paw-print-area-rug-a43b3e3594: description begins 'Personalize a wood slice bear paw rug with family name, rustic cabin style, plush layers, size chart and anti-sl...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-366",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-a43b3e3594.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-bear-paw-print-area-rug-a43b3e3594: workbook row, evidence id B037-366, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-366",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-a43b3e3594.html"
+        ]
+      }
+    },
+    "custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc: proposed title 'Brown Southwestern Paw Rug' and description 'Customize a brown southwestern paw rug with bear-paw shape, geometric cabin pattern, pl...' keep the same product/theme shown in evidence B037-367.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-367",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc: customer copy is limited to visible/product facts such as 'paw-shaped rug with brown paw pads, cream and blue southwestern pattern, yellow diamond cent...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-367",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc: primary keyword 'brown southwestern paw rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-367",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc: proposed copy targets the same search intent as 'brown southwestern paw rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-367",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc: current support is 'Marketplace and retail SERPs support galaxy wolf rugs, wolf bedroom rugs, paw print rugs, be...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-367",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc: title 'Brown Southwestern Paw Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-367",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc: meta title 'Brown Southwestern Paw Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-367",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc: meta 'Customize a brown southwestern paw rug with bear-paw shape, geometric cabin pattern, plush surface and backing.' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-367",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc: description begins 'Customize a brown southwestern paw rug with bear-paw shape, geometric cabin pattern, plush surface and backing....' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-367",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc: workbook row, evidence id B037-367, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-367",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-3821bbd1dc-3821bbd1dc.html"
+        ]
+      }
+    },
+    "custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd: proposed title 'Turquoise Wildlife Paw Rug' and description 'Add a turquoise wildlife paw rug with custom bear-paw shape, southwestern animal patter...' keep the same product/theme shown in evidence B037-368.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-368",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd: customer copy is limited to visible/product facts such as 'turquoise paw-shaped rug with southwestern animal and geometric pattern, teal paw pads, crea...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-368",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd: primary keyword 'turquoise wildlife paw rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-368",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd: proposed copy targets the same search intent as 'turquoise wildlife paw rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-368",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd: current support is 'Marketplace and retail SERPs support galaxy wolf rugs, wolf bedroom rugs, paw print rugs, be...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-368",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd: title 'Turquoise Wildlife Paw Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-368",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd: meta title 'Turquoise Wildlife Paw Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-368",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd: meta 'Add a turquoise wildlife paw rug with custom bear-paw shape, southwestern animal pattern, plush layers and backing.' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-368",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd: description begins 'Add a turquoise wildlife paw rug with custom bear-paw shape, southwestern animal pattern, plush layers and backi...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-368",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd: workbook row, evidence id B037-368, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-368",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-bear-paw-print-area-rug-bbb48cf1bd-bbb48cf1bd.html"
+        ]
+      }
+    },
+    "custom-road-map-area-rug-play-mat-baa948f510-baa948f510": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-road-map-area-rug-play-mat-baa948f510-baa948f510: proposed title 'Alphabet Town Road Play Rug' and description 'Personalize an alphabet town road play rug with child's name, city streets, learning bo...' keep the same product/theme shown in evidence B037-369.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-369",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-road-map-area-rug-play-mat-baa948f510-baa948f510.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-road-map-area-rug-play-mat-baa948f510-baa948f510: customer copy is limited to visible/product facts such as 'colorful rectangular kids road map rug labeled Liam's Town with alphabet border, city street...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-369",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-road-map-area-rug-play-mat-baa948f510-baa948f510.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-road-map-area-rug-play-mat-baa948f510-baa948f510: primary keyword 'alphabet town road play rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-369",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-road-map-area-rug-play-mat-baa948f510-baa948f510.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-road-map-area-rug-play-mat-baa948f510-baa948f510: proposed copy targets the same search intent as 'alphabet town road play rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-369",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-road-map-area-rug-play-mat-baa948f510-baa948f510.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-road-map-area-rug-play-mat-baa948f510-baa948f510: current support is 'Marketplace and retail SERPs support galaxy wolf rugs, wolf bedroom rugs, paw print rugs, be...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-369",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-road-map-area-rug-play-mat-baa948f510-baa948f510.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-road-map-area-rug-play-mat-baa948f510-baa948f510: title 'Alphabet Town Road Play Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-369",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-road-map-area-rug-play-mat-baa948f510-baa948f510.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-road-map-area-rug-play-mat-baa948f510-baa948f510: meta title 'Alphabet Town Road Play Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-369",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-road-map-area-rug-play-mat-baa948f510-baa948f510.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-road-map-area-rug-play-mat-baa948f510-baa948f510: meta 'Personalize an alphabet town road play rug with child's name, city streets, learning border, size options and wa...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-369",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-road-map-area-rug-play-mat-baa948f510-baa948f510.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-road-map-area-rug-play-mat-baa948f510-baa948f510: description begins 'Personalize an alphabet town road play rug with child's name, city streets, learning border, size options and wa...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-369",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-road-map-area-rug-play-mat-baa948f510-baa948f510.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-road-map-area-rug-play-mat-baa948f510-baa948f510: workbook row, evidence id B037-369, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-369",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-road-map-area-rug-play-mat-baa948f510-baa948f510.html"
+        ]
+      }
+    },
+    "custom-road-map-area-rug-play-mat-9cf6abf61b": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-road-map-area-rug-play-mat-9cf6abf61b: proposed title 'City Loop Car Play Rug' and description 'Customize a city loop car play rug with name, circular roads, vehicles, alphabet icons,...' keep the same product/theme shown in evidence B037-370.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-370",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-road-map-area-rug-play-mat-9cf6abf61b.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-road-map-area-rug-play-mat-9cf6abf61b: customer copy is limited to visible/product facts such as 'bright kids road rug labeled Liam's Town with looping circular roads, vehicles, alphabet and...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-370",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-road-map-area-rug-play-mat-9cf6abf61b.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-road-map-area-rug-play-mat-9cf6abf61b: primary keyword 'city loop car play rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-370",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-road-map-area-rug-play-mat-9cf6abf61b.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-road-map-area-rug-play-mat-9cf6abf61b: proposed copy targets the same search intent as 'city loop car play rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-370",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-road-map-area-rug-play-mat-9cf6abf61b.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-road-map-area-rug-play-mat-9cf6abf61b: current support is 'Marketplace and retail SERPs support galaxy wolf rugs, wolf bedroom rugs, paw print rugs, be...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-370",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-road-map-area-rug-play-mat-9cf6abf61b.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-road-map-area-rug-play-mat-9cf6abf61b: title 'City Loop Car Play Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-370",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-road-map-area-rug-play-mat-9cf6abf61b.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-road-map-area-rug-play-mat-9cf6abf61b: meta title 'City Loop Car Play Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-370",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-road-map-area-rug-play-mat-9cf6abf61b.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-road-map-area-rug-play-mat-9cf6abf61b: meta 'Customize a city loop car play rug with name, circular roads, vehicles, alphabet icons, classroom scenes and was...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-370",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-road-map-area-rug-play-mat-9cf6abf61b.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-road-map-area-rug-play-mat-9cf6abf61b: description begins 'Customize a city loop car play rug with name, circular roads, vehicles, alphabet icons, classroom scenes and was...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-370",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-road-map-area-rug-play-mat-9cf6abf61b.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-road-map-area-rug-play-mat-9cf6abf61b: workbook row, evidence id B037-370, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B037/SEO_Product_Optimization_revision_B037.xlsx",
+          "product_evidence:B037-370",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B037_pages/custom-road-map-area-rug-play-mat-9cf6abf61b.html"
+        ]
+      }
+    }
+  }
+}

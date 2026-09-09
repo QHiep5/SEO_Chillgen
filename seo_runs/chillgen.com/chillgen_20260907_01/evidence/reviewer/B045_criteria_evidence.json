@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "B045",
+  "batch_id": "B045",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+  "source_workbook_sha256": "0453716bc9fa6cb8d27aa7a14847607b8bbca6da2b7f8c404624910aaff79838",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-B045-CRITERIA-01",
+    "reviewed_at": "2026-09-09T16:48:21+07:00"
+  },
+  "reviewed_at": "2026-09-09T16:48:21+07:00",
+  "products": {
+    "personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9: proposed title 'Custom Crossword Affirmation Rug with Teacher Name' and description 'Custom crossword affirmation rug with teacher name, brown classroom board style and pos...' keep the same product/theme shown in evidence B045-441.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-441",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9: customer copy is limited to visible/product facts such as 'brown wood-style classroom rug reading In This Classroom You Are with crossword affirmation...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-441",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9: primary keyword 'custom crossword affirmation rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-441",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9: proposed copy targets the same search intent as 'custom crossword affirmation rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-441",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9: current support is 'Marketplace and retail SERPs support classroom affirmation rugs, personalized teacher classr...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-441",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9: title 'Custom Crossword Affirmation Rug with Teacher Name' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-441",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9: meta title 'Custom Crossword Affirmation Rug with Teacher Name' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-441",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9: meta 'Custom crossword affirmation rug with teacher name, brown classroom board style and positive words like brave, k...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-441",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9: description begins 'Custom crossword affirmation rug with teacher name, brown classroom board style and positive words like brave, k...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-441",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9: workbook row, evidence id B045-441, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-441",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9.html"
+        ]
+      }
+    },
+    "personalized-motivational-classroom-rug-for-kids-34838f57f6-34838f57f6": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-motivational-classroom-rug-for-kids-34838f57f6-34838f57f6: proposed title 'Personalized Alphabet Affirmation Classroom Rug' and description 'Personalized alphabet affirmation classroom rug with teacher name, A-Z character traits...' keep the same product/theme shown in evidence B045-442.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-442",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-34838f57f6-34838f57f6.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-motivational-classroom-rug-for-kids-34838f57f6-34838f57f6: customer copy is limited to visible/product facts such as 'black rug with You Are header, alphabet letters, character traits for each letter and Mrs. H...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-442",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-34838f57f6-34838f57f6.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-motivational-classroom-rug-for-kids-34838f57f6-34838f57f6: primary keyword 'personalized alphabet affirmation rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-442",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-34838f57f6-34838f57f6.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-motivational-classroom-rug-for-kids-34838f57f6-34838f57f6: proposed copy targets the same search intent as 'personalized alphabet affirmation rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-442",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-34838f57f6-34838f57f6.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-motivational-classroom-rug-for-kids-34838f57f6-34838f57f6: current support is 'Marketplace and retail SERPs support classroom affirmation rugs, personalized teacher classr...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-442",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-34838f57f6-34838f57f6.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-motivational-classroom-rug-for-kids-34838f57f6-34838f57f6: title 'Personalized Alphabet Affirmation Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-442",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-34838f57f6-34838f57f6.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-motivational-classroom-rug-for-kids-34838f57f6-34838f57f6: meta title 'Personalized Alphabet Affirmation Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-442",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-34838f57f6-34838f57f6.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-motivational-classroom-rug-for-kids-34838f57f6-34838f57f6: meta 'Personalized alphabet affirmation classroom rug with teacher name, A-Z character traits and black background for...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-442",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-34838f57f6-34838f57f6.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-motivational-classroom-rug-for-kids-34838f57f6-34838f57f6: description begins 'Personalized alphabet affirmation classroom rug with teacher name, A-Z character traits and black background for...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-442",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-34838f57f6-34838f57f6.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-motivational-classroom-rug-for-kids-34838f57f6-34838f57f6: workbook row, evidence id B045-442, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-442",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-34838f57f6-34838f57f6.html"
+        ]
+      }
+    },
+    "personalized-motivational-classroom-rug-for-kids-bb1a76e628": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-motivational-classroom-rug-for-kids-bb1a76e628: proposed title 'Custom Growth Mindset Classroom Rug with Teacher Name' and description 'Custom growth mindset classroom rug with teacher name, chalkboard style and the message...' keep the same product/theme shown in evidence B045-443.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-443",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-bb1a76e628.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-motivational-classroom-rug-for-kids-bb1a76e628: customer copy is limited to visible/product facts such as 'black chalkboard-style rug reading Mrs. Anne Classroom is Better Because You're In It with c...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-443",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-bb1a76e628.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-motivational-classroom-rug-for-kids-bb1a76e628: primary keyword 'custom growth mindset classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-443",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-bb1a76e628.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-motivational-classroom-rug-for-kids-bb1a76e628: proposed copy targets the same search intent as 'custom growth mindset classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-443",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-bb1a76e628.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-motivational-classroom-rug-for-kids-bb1a76e628: current support is 'Marketplace and retail SERPs support classroom affirmation rugs, personalized teacher classr...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-443",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-bb1a76e628.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-motivational-classroom-rug-for-kids-bb1a76e628: title 'Custom Growth Mindset Classroom Rug with Teacher Name' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-443",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-bb1a76e628.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-motivational-classroom-rug-for-kids-bb1a76e628: meta title 'Custom Growth Mindset Classroom Rug with Teacher Name' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-443",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-bb1a76e628.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-motivational-classroom-rug-for-kids-bb1a76e628: meta 'Custom growth mindset classroom rug with teacher name, chalkboard style and the message classroom is better beca...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-443",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-bb1a76e628.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-motivational-classroom-rug-for-kids-bb1a76e628: description begins 'Custom growth mindset classroom rug with teacher name, chalkboard style and the message classroom is better beca...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-443",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-bb1a76e628.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-motivational-classroom-rug-for-kids-bb1a76e628: workbook row, evidence id B045-443, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-443",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-bb1a76e628.html"
+        ]
+      }
+    },
+    "personalized-motivational-classroom-rug-kids-ab8fce16b6-ab8fce16b6": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-motivational-classroom-rug-kids-ab8fce16b6-ab8fce16b6: proposed title 'Personalized Positive Affirmation Rug with You Are Design' and description 'Personalized positive affirmation rug with You Are center text, colorful confidence wor...' keep the same product/theme shown in evidence B045-444.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-444",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-kids-ab8fce16b6-ab8fce16b6.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-motivational-classroom-rug-kids-ab8fce16b6-ab8fce16b6: customer copy is limited to visible/product facts such as 'white rug with You Are center text surrounded by colorful words such as creative, amazing, b...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-444",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-kids-ab8fce16b6-ab8fce16b6.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-motivational-classroom-rug-kids-ab8fce16b6-ab8fce16b6: primary keyword 'personalized positive affirmation rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-444",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-kids-ab8fce16b6-ab8fce16b6.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-motivational-classroom-rug-kids-ab8fce16b6-ab8fce16b6: proposed copy targets the same search intent as 'personalized positive affirmation rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-444",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-kids-ab8fce16b6-ab8fce16b6.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-motivational-classroom-rug-kids-ab8fce16b6-ab8fce16b6: current support is 'Marketplace and retail SERPs support classroom affirmation rugs, personalized teacher classr...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-444",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-kids-ab8fce16b6-ab8fce16b6.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-motivational-classroom-rug-kids-ab8fce16b6-ab8fce16b6: title 'Personalized Positive Affirmation Rug with You Are Design' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-444",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-kids-ab8fce16b6-ab8fce16b6.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-motivational-classroom-rug-kids-ab8fce16b6-ab8fce16b6: meta title 'Personalized Positive Affirmation Rug with You Are Design' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-444",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-kids-ab8fce16b6-ab8fce16b6.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-motivational-classroom-rug-kids-ab8fce16b6-ab8fce16b6: meta 'Personalized positive affirmation rug with You Are center text, colorful confidence words and white classroom st...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-444",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-kids-ab8fce16b6-ab8fce16b6.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-motivational-classroom-rug-kids-ab8fce16b6-ab8fce16b6: description begins 'Personalized positive affirmation rug with You Are center text, colorful confidence words and white classroom st...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-444",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-kids-ab8fce16b6-ab8fce16b6.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-motivational-classroom-rug-kids-ab8fce16b6-ab8fce16b6: workbook row, evidence id B045-444, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-444",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-kids-ab8fce16b6-ab8fce16b6.html"
+        ]
+      }
+    },
+    "personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0: proposed title 'Custom Mistakes Are Okay Classroom Rug' and description 'Custom Mistakes Are Okay classroom rug with teacher name, cartoon emotion characters an...' keep the same product/theme shown in evidence B045-445.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-445",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0: customer copy is limited to visible/product facts such as 'cream rug reading It's Okay To with prompts such as make mistakes, have bad days, not know i...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-445",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0: primary keyword 'custom mistakes are okay classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-445",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0: proposed copy targets the same search intent as 'custom mistakes are okay classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-445",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0: current support is 'Marketplace and retail SERPs support classroom affirmation rugs, personalized teacher classr...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-445",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0: title 'Custom Mistakes Are Okay Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-445",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0: meta title 'Custom Mistakes Are Okay Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-445",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0: meta 'Custom Mistakes Are Okay classroom rug with teacher name, cartoon emotion characters and SEL prompts for support...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-445",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0: description begins 'Custom Mistakes Are Okay classroom rug with teacher name, cartoon emotion characters and SEL prompts for support...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-445",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0: workbook row, evidence id B045-445, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-445",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0.html"
+        ]
+      }
+    },
+    "personalized-motivational-classroom-rug-for-kids-fe3841c6fe": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-motivational-classroom-rug-for-kids-fe3841c6fe: proposed title 'Personalized In This Classroom Affirmation Rug' and description 'Personalized In This Classroom affirmation rug with teacher name, student identity stat...' keep the same product/theme shown in evidence B045-446.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-446",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-fe3841c6fe.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-motivational-classroom-rug-for-kids-fe3841c6fe: customer copy is limited to visible/product facts such as 'white rug reading In Mrs. Brown's Classroom with lines such as budding scientists, curious e...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-446",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-fe3841c6fe.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-motivational-classroom-rug-for-kids-fe3841c6fe: primary keyword 'personalized In This Classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-446",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-fe3841c6fe.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-motivational-classroom-rug-for-kids-fe3841c6fe: proposed copy targets the same search intent as 'personalized In This Classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-446",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-fe3841c6fe.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-motivational-classroom-rug-for-kids-fe3841c6fe: current support is 'Marketplace and retail SERPs support classroom affirmation rugs, personalized teacher classr...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-446",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-fe3841c6fe.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-motivational-classroom-rug-for-kids-fe3841c6fe: title 'Personalized In This Classroom Affirmation Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-446",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-fe3841c6fe.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-motivational-classroom-rug-for-kids-fe3841c6fe: meta title 'Personalized In This Classroom Affirmation Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-446",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-fe3841c6fe.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-motivational-classroom-rug-for-kids-fe3841c6fe: meta 'Personalized In This Classroom affirmation rug with teacher name, student identity statements, crayon border and...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-446",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-fe3841c6fe.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-motivational-classroom-rug-for-kids-fe3841c6fe: description begins 'Personalized In This Classroom affirmation rug with teacher name, student identity statements, crayon border and...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-446",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-fe3841c6fe.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-motivational-classroom-rug-for-kids-fe3841c6fe: workbook row, evidence id B045-446, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-446",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-fe3841c6fe.html"
+        ]
+      }
+    },
+    "personalized-motivational-classroom-rug-for-kids-7d4f70bdd2-7d4f70bdd2": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-motivational-classroom-rug-for-kids-7d4f70bdd2-7d4f70bdd2: proposed title 'Custom Vintage Affirmation Rug for Classroom' and description 'Custom vintage affirmation rug with teacher name, wood plank background and colorful en...' keep the same product/theme shown in evidence B045-447.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-447",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-7d4f70bdd2-7d4f70bdd2.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-motivational-classroom-rug-for-kids-7d4f70bdd2-7d4f70bdd2: customer copy is limited to visible/product facts such as 'wood plank style rug with Mrs. Smith's Class, colorful note blocks and phrases such as you a...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-447",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-7d4f70bdd2-7d4f70bdd2.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-motivational-classroom-rug-for-kids-7d4f70bdd2-7d4f70bdd2: primary keyword 'custom vintage affirmation rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-447",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-7d4f70bdd2-7d4f70bdd2.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-motivational-classroom-rug-for-kids-7d4f70bdd2-7d4f70bdd2: proposed copy targets the same search intent as 'custom vintage affirmation rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-447",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-7d4f70bdd2-7d4f70bdd2.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-motivational-classroom-rug-for-kids-7d4f70bdd2-7d4f70bdd2: current support is 'Marketplace and retail SERPs support classroom affirmation rugs, personalized teacher classr...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-447",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-7d4f70bdd2-7d4f70bdd2.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-motivational-classroom-rug-for-kids-7d4f70bdd2-7d4f70bdd2: title 'Custom Vintage Affirmation Rug for Classroom' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-447",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-7d4f70bdd2-7d4f70bdd2.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-motivational-classroom-rug-for-kids-7d4f70bdd2-7d4f70bdd2: meta title 'Custom Vintage Affirmation Rug for Classroom' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-447",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-7d4f70bdd2-7d4f70bdd2.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-motivational-classroom-rug-for-kids-7d4f70bdd2-7d4f70bdd2: meta 'Custom vintage affirmation rug with teacher name, wood plank background and colorful encouragement notes for cla...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-447",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-7d4f70bdd2-7d4f70bdd2.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-motivational-classroom-rug-for-kids-7d4f70bdd2-7d4f70bdd2: description begins 'Custom vintage affirmation rug with teacher name, wood plank background and colorful encouragement notes for cla...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-447",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-7d4f70bdd2-7d4f70bdd2.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-motivational-classroom-rug-for-kids-7d4f70bdd2-7d4f70bdd2: workbook row, evidence id B045-447, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-447",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-motivational-classroom-rug-for-kids-7d4f70bdd2-7d4f70bdd2.html"
+        ]
+      }
+    },
+    "personalized-music-album-cover-area-rug-d939ed2f4e": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-music-album-cover-area-rug-d939ed2f4e: proposed title 'Personalized Music Album Cover Rug with Player Design' and description 'Personalized music album cover rug with red player layout, custom portrait artwork, sof...' keep the same product/theme shown in evidence B045-448.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-448",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-music-album-cover-area-rug-d939ed2f4e.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-music-album-cover-area-rug-d939ed2f4e: customer copy is limited to visible/product facts such as 'red and black music player style rug with portrait cover art, playback icons, size chart, mi...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-448",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-music-album-cover-area-rug-d939ed2f4e.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-music-album-cover-area-rug-d939ed2f4e: primary keyword 'personalized music album cover rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-448",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-music-album-cover-area-rug-d939ed2f4e.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-music-album-cover-area-rug-d939ed2f4e: proposed copy targets the same search intent as 'personalized music album cover rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-448",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-music-album-cover-area-rug-d939ed2f4e.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-music-album-cover-area-rug-d939ed2f4e: current support is 'Marketplace and retail SERPs support classroom affirmation rugs, personalized teacher classr...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-448",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-music-album-cover-area-rug-d939ed2f4e.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-music-album-cover-area-rug-d939ed2f4e: title 'Personalized Music Album Cover Rug with Player Design' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-448",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-music-album-cover-area-rug-d939ed2f4e.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-music-album-cover-area-rug-d939ed2f4e: meta title 'Personalized Music Album Cover Rug with Player Design' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-448",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-music-album-cover-area-rug-d939ed2f4e.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-music-album-cover-area-rug-d939ed2f4e: meta 'Personalized music album cover rug with red player layout, custom portrait artwork, soft low pile feel and non-s...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-448",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-music-album-cover-area-rug-d939ed2f4e.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-music-album-cover-area-rug-d939ed2f4e: description begins 'Personalized music album cover rug with red player layout, custom portrait artwork, soft low pile feel and non-s...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-448",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-music-album-cover-area-rug-d939ed2f4e.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-music-album-cover-area-rug-d939ed2f4e: workbook row, evidence id B045-448, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-448",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-music-album-cover-area-rug-d939ed2f4e.html"
+        ]
+      }
+    },
+    "personalized-hunting-welcome-doormat-custom-family-name-e9839e2783": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-hunting-welcome-doormat-custom-family-name-e9839e2783: proposed title 'Personalized Hunting Doormat with Flying on Freedom Art' and description 'Personalized hunting doormat with duck, American flag, Flying on Freedom text and famil...' keep the same product/theme shown in evidence B045-449.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-449",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-hunting-welcome-doormat-custom-family-name-e9839e2783.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-hunting-welcome-doormat-custom-family-name-e9839e2783: customer copy is limited to visible/product facts such as 'rectangular hunting doormat with flying duck over American flag, Flying on Freedom text, pat...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-449",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-hunting-welcome-doormat-custom-family-name-e9839e2783.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-hunting-welcome-doormat-custom-family-name-e9839e2783: primary keyword 'personalized hunting doormat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-449",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-hunting-welcome-doormat-custom-family-name-e9839e2783.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-hunting-welcome-doormat-custom-family-name-e9839e2783: proposed copy targets the same search intent as 'personalized hunting doormat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-449",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-hunting-welcome-doormat-custom-family-name-e9839e2783.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-hunting-welcome-doormat-custom-family-name-e9839e2783: current support is 'Marketplace and retail SERPs support classroom affirmation rugs, personalized teacher classr...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-449",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-hunting-welcome-doormat-custom-family-name-e9839e2783.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-hunting-welcome-doormat-custom-family-name-e9839e2783: title 'Personalized Hunting Doormat with Flying on Freedom Art' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-449",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-hunting-welcome-doormat-custom-family-name-e9839e2783.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-hunting-welcome-doormat-custom-family-name-e9839e2783: meta title 'Personalized Hunting Doormat with Flying on Freedom Art' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-449",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-hunting-welcome-doormat-custom-family-name-e9839e2783.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-hunting-welcome-doormat-custom-family-name-e9839e2783: meta 'Personalized hunting doormat with duck, American flag, Flying on Freedom text and family-name style for patrioti...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-449",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-hunting-welcome-doormat-custom-family-name-e9839e2783.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-hunting-welcome-doormat-custom-family-name-e9839e2783: description begins 'Personalized hunting doormat with duck, American flag, Flying on Freedom text and family-name style for patrioti...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-449",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-hunting-welcome-doormat-custom-family-name-e9839e2783.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-hunting-welcome-doormat-custom-family-name-e9839e2783: workbook row, evidence id B045-449, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-449",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-hunting-welcome-doormat-custom-family-name-e9839e2783.html"
+        ]
+      }
+    },
+    "personalized-family-name-patriotic-hunting-doormat-5997abfebc-5997abfebc": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-family-name-patriotic-hunting-doormat-5997abfebc-5997abfebc: proposed title 'Custom Patriotic Family Name Doormat with Eagle' and description 'Custom patriotic family name doormat with eagle, American flag, anniversary text and no...' keep the same product/theme shown in evidence B045-450.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-450",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-family-name-patriotic-hunting-doormat-5997abfebc-5997abfebc.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-family-name-patriotic-hunting-doormat-5997abfebc-5997abfebc: customer copy is limited to visible/product facts such as 'patriotic doormat with eagle over American flag, Secure the Blessings of Liberty text, famil...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-450",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-family-name-patriotic-hunting-doormat-5997abfebc-5997abfebc.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-family-name-patriotic-hunting-doormat-5997abfebc-5997abfebc: primary keyword 'custom patriotic family name doormat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-450",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-family-name-patriotic-hunting-doormat-5997abfebc-5997abfebc.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-family-name-patriotic-hunting-doormat-5997abfebc-5997abfebc: proposed copy targets the same search intent as 'custom patriotic family name doormat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-450",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-family-name-patriotic-hunting-doormat-5997abfebc-5997abfebc.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-family-name-patriotic-hunting-doormat-5997abfebc-5997abfebc: current support is 'Marketplace and retail SERPs support classroom affirmation rugs, personalized teacher classr...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-450",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-family-name-patriotic-hunting-doormat-5997abfebc-5997abfebc.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-family-name-patriotic-hunting-doormat-5997abfebc-5997abfebc: title 'Custom Patriotic Family Name Doormat with Eagle' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-450",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-family-name-patriotic-hunting-doormat-5997abfebc-5997abfebc.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-family-name-patriotic-hunting-doormat-5997abfebc-5997abfebc: meta title 'Custom Patriotic Family Name Doormat with Eagle' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-450",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-family-name-patriotic-hunting-doormat-5997abfebc-5997abfebc.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-family-name-patriotic-hunting-doormat-5997abfebc-5997abfebc: meta 'Custom patriotic family name doormat with eagle, American flag, anniversary text and non-slip backing for entryw...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-450",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-family-name-patriotic-hunting-doormat-5997abfebc-5997abfebc.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-family-name-patriotic-hunting-doormat-5997abfebc-5997abfebc: description begins 'Custom patriotic family name doormat with eagle, American flag, anniversary text and non-slip backing for entryw...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-450",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-family-name-patriotic-hunting-doormat-5997abfebc-5997abfebc.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-family-name-patriotic-hunting-doormat-5997abfebc-5997abfebc: workbook row, evidence id B045-450, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+          "product_evidence:B045-450",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B045_pages/personalized-family-name-patriotic-hunting-doormat-5997abfebc-5997abfebc.html"
+        ]
+      }
+    }
+  }
+}

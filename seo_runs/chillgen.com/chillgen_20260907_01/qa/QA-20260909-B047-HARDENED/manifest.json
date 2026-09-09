@@ -1,0 +1,47 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "rubric_hash": "caeacb83a45638bcffc03ce1d2daf1fc9e915f417ada6b66eb706284283ea96c",
+  "qa_run_id": "QA-20260909-B047-HARDENED",
+  "qa_batch_id": "REV_B047",
+  "batch_id": "B047",
+  "revision_id": "B047",
+  "parent_run_id": "QA-20260907-AGENT-B047",
+  "source_workbook": "resutls/chillgen.com/chillgen_20260907_01/revisions/B047/SEO_Product_Optimization_revision_B047.xlsx",
+  "source_workbook_sha256": "751a435b3765ee7f340ca0c7c100b295135e6ddd983004f5415253e2376a07f1",
+  "scope_hash": "3692a3b2b0f8d2ee2b9210031238df1a0a63c902372fb86bb31d650e35f39fe5",
+  "batch_product_keys": [
+    "custom-golf-area-rug-living-room-mat-51b65f4454",
+    "custom-golf-area-rug-living-room-mat-f6f3c16862",
+    "custom-golf-area-rug-fd79165e9f-fd79165e9f",
+    "custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8",
+    "custom-mathematics-education-rug-80ab855e16-80ab855e16",
+    "custom-mathematics-education-classroom-playroom-rug-0f607da0b3",
+    "custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960",
+    "custom-mathematics-classroom-rug-ec81d3501a",
+    "custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95",
+    "custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02"
+  ],
+  "status_counts": {
+    "QA_PASS": 0,
+    "QA_REVISE": 10,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "issue_counts": {
+    "CRITICAL": 0,
+    "MAJOR": 10,
+    "MINOR": 0,
+    "LIMITATION": 20
+  },
+  "batch_status": "QA_REVISE",
+  "content_qa_status": "QA_REVISE",
+  "evidence_maturity": "SERP_ONLY",
+  "canonical": true,
+  "supersedes": [
+    "QA-20260907-AGENT-B047"
+  ],
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/reviewer/B047_reviewer_evidence_fullres.json",
+  "manual_criteria_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/reviewer/B047_criteria_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED",
+  "created_at": "2026-09-09T16:39:15+07:00"
+}

@@ -1,0 +1,47 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "rubric_hash": "caeacb83a45638bcffc03ce1d2daf1fc9e915f417ada6b66eb706284283ea96c",
+  "qa_run_id": "QA-20260909-B048-HARDENED",
+  "qa_batch_id": "REV_B048",
+  "batch_id": "B048",
+  "revision_id": "B048",
+  "parent_run_id": "QA-20260907-AGENT-B048",
+  "source_workbook": "resutls/chillgen.com/chillgen_20260907_01/revisions/B048/SEO_Product_Optimization_revision_B048.xlsx",
+  "source_workbook_sha256": "77a84cb48ae2a10bddb958c94abd7e77ee918815563400aab3094b9f67f71fe3",
+  "scope_hash": "84c0315a8efdcd105011db99c85ad3b40a739271c8931cbb6ab99020a317678a",
+  "batch_product_keys": [
+    "custom-mathematics-education-rug-677ea4d8b5-677ea4d8b5",
+    "personalized-motivational-classroom-rug-for-kids-185af7709b",
+    "custom-math-classroom-welcome-mat-93506f16cb-93506f16cb",
+    "personalized-motivational-classroom-rug-kids-c5c4db7870",
+    "personalized-motivational-classroom-rug-for-kids-12e7574dd3-12e7574dd3",
+    "personalized-motivational-classroom-rug-for-kids-6b9a9da243",
+    "personalized-motivational-classroom-rug-kids-dcd5b3d508",
+    "personalized-motivational-classroom-rug-for-kids-75356d9313-75356d9313",
+    "personalized-motivational-classroom-rug-for-kids-71bb812a4f",
+    "personalized-motivational-classroom-rug-for-kids-fcc5a59bce-fcc5a59bce"
+  ],
+  "status_counts": {
+    "QA_PASS": 0,
+    "QA_REVISE": 10,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "issue_counts": {
+    "CRITICAL": 0,
+    "MAJOR": 10,
+    "MINOR": 0,
+    "LIMITATION": 20
+  },
+  "batch_status": "QA_REVISE",
+  "content_qa_status": "QA_REVISE",
+  "evidence_maturity": "SERP_ONLY",
+  "canonical": true,
+  "supersedes": [
+    "QA-20260907-AGENT-B048"
+  ],
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/reviewer/B048_reviewer_evidence_fullres.json",
+  "manual_criteria_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/reviewer/B048_criteria_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED",
+  "created_at": "2026-09-09T16:34:59+07:00"
+}

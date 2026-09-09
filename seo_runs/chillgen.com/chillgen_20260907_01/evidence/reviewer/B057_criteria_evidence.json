@@ -1,0 +1,843 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "B057",
+  "batch_id": "B057",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+  "source_workbook_sha256": "d5b847cd43df0bc994c9cac2b2c958460bad28bc075663c3915d67d0e97b9859",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-B057-CRITERIA-01",
+    "reviewed_at": "2026-09-09T13:47:32+07:00"
+  },
+  "reviewed_at": "2026-09-09T13:47:32+07:00",
+  "products": {
+    "custom-golf-area-rug-d8623da216": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-golf-area-rug-d8623da216: proposed title 'Personalized Golf Area Rug for Home Office' and description 'Personalized golf area rug with 19th hole text, club and ball artwork, green putting st...' keep the same product/theme shown in evidence B057-561.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-561",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-golf-area-rug-d8623da216.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-golf-area-rug-d8623da216: customer copy is limited to visible/product facts such as 'green rug reads Anderson's 19th Hole Duffer's Welcome with golf club, ball, flag and putting...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-561",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-golf-area-rug-d8623da216.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-golf-area-rug-d8623da216: primary keyword 'personalized golf area rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-561",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-golf-area-rug-d8623da216.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-golf-area-rug-d8623da216: proposed copy targets the same search intent as 'personalized golf area rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-561",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-golf-area-rug-d8623da216.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-golf-area-rug-d8623da216: current support is 'Use long-tail keywords that separate the final motifs: personalized golf rug, octopus skull...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-561",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-golf-area-rug-d8623da216.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-golf-area-rug-d8623da216: title 'Personalized Golf Area Rug for Home Office' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-561",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-golf-area-rug-d8623da216.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-golf-area-rug-d8623da216: meta title 'Personalized Golf Area Rug for Home Office' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-561",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-golf-area-rug-d8623da216.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-golf-area-rug-d8623da216: meta 'Personalized golf area rug with 19th hole text, club and ball artwork, green putting style, memory foam cushion...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-561",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-golf-area-rug-d8623da216.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-golf-area-rug-d8623da216: description begins 'Personalized golf area rug with 19th hole text, club and ball artwork, green putting style, memory foam cushion...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-561",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-golf-area-rug-d8623da216.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-golf-area-rug-d8623da216: workbook row, evidence id B057-561, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-561",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-golf-area-rug-d8623da216.html"
+        ]
+      }
+    },
+    "custom-octopus-welcome-mat-87bf0d33b5": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-octopus-welcome-mat-87bf0d33b5: proposed title 'Octopus Skull Coastal Area Rug' and description 'Octopus skull coastal area rug with teal tentacles, dark ocean artwork, memory foam cus...' keep the same product/theme shown in evidence B057-562.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-562",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-87bf0d33b5.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-octopus-welcome-mat-87bf0d33b5: customer copy is limited to visible/product facts such as 'dark rectangular rug shows a large skull over teal octopus tentacles with suction cup detail...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-562",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-87bf0d33b5.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-octopus-welcome-mat-87bf0d33b5: primary keyword 'octopus skull rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-562",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-87bf0d33b5.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-octopus-welcome-mat-87bf0d33b5: proposed copy targets the same search intent as 'octopus skull rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-562",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-87bf0d33b5.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-octopus-welcome-mat-87bf0d33b5: current support is 'Use long-tail keywords that separate the final motifs: personalized golf rug, octopus skull...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-562",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-87bf0d33b5.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-octopus-welcome-mat-87bf0d33b5: title 'Octopus Skull Coastal Area Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-562",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-87bf0d33b5.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-octopus-welcome-mat-87bf0d33b5: meta title 'Octopus Skull Coastal Area Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-562",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-87bf0d33b5.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-octopus-welcome-mat-87bf0d33b5: meta 'Octopus skull coastal area rug with teal tentacles, dark ocean artwork, memory foam cushion and anti slip backing.' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-562",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-87bf0d33b5.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-octopus-welcome-mat-87bf0d33b5: description begins 'Octopus skull coastal area rug with teal tentacles, dark ocean artwork, memory foam cushion and anti slip backin...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-562",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-87bf0d33b5.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-octopus-welcome-mat-87bf0d33b5: workbook row, evidence id B057-562, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-562",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-87bf0d33b5.html"
+        ]
+      }
+    },
+    "custom-octopus-welcome-mat-entryway-464c692e0a": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-octopus-welcome-mat-entryway-464c692e0a: proposed title 'Blue Octopus Tentacle Area Rug' and description 'Blue octopus tentacle area rug with glowing suction cup artwork, dark ocean style, memo...' keep the same product/theme shown in evidence B057-563.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-563",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-entryway-464c692e0a.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-octopus-welcome-mat-entryway-464c692e0a: customer copy is limited to visible/product facts such as 'black and blue rug features a dramatic octopus tentacle close-up with glowing suction cups a...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-563",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-entryway-464c692e0a.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-octopus-welcome-mat-entryway-464c692e0a: primary keyword 'blue octopus tentacle rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-563",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-entryway-464c692e0a.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-octopus-welcome-mat-entryway-464c692e0a: proposed copy targets the same search intent as 'blue octopus tentacle rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-563",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-entryway-464c692e0a.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-octopus-welcome-mat-entryway-464c692e0a: current support is 'Use long-tail keywords that separate the final motifs: personalized golf rug, octopus skull...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-563",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-entryway-464c692e0a.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-octopus-welcome-mat-entryway-464c692e0a: title 'Blue Octopus Tentacle Area Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-563",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-entryway-464c692e0a.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-octopus-welcome-mat-entryway-464c692e0a: meta title 'Blue Octopus Tentacle Area Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-563",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-entryway-464c692e0a.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-octopus-welcome-mat-entryway-464c692e0a: meta 'Blue octopus tentacle area rug with glowing suction cup artwork, dark ocean style, memory foam cushion and non s...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-563",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-entryway-464c692e0a.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-octopus-welcome-mat-entryway-464c692e0a: description begins 'Blue octopus tentacle area rug with glowing suction cup artwork, dark ocean style, memory foam cushion and non s...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-563",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-entryway-464c692e0a.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-octopus-welcome-mat-entryway-464c692e0a: workbook row, evidence id B057-563, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-563",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-entryway-464c692e0a.html"
+        ]
+      }
+    },
+    "custom-octopus-welcome-mat-for-front-door-cf228fd538": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-octopus-welcome-mat-for-front-door-cf228fd538: proposed title 'Octopus Mandala Coastal Area Rug' and description 'Octopus mandala coastal rug with turquoise nautical artwork, white octopus, memory foam...' keep the same product/theme shown in evidence B057-564.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-564",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-for-front-door-cf228fd538.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-octopus-welcome-mat-for-front-door-cf228fd538: customer copy is limited to visible/product facts such as 'turquoise rug shows white octopus with ornate line art, circular nautical details and room p...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-564",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-for-front-door-cf228fd538.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-octopus-welcome-mat-for-front-door-cf228fd538: primary keyword 'octopus mandala rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-564",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-for-front-door-cf228fd538.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-octopus-welcome-mat-for-front-door-cf228fd538: proposed copy targets the same search intent as 'octopus mandala rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-564",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-for-front-door-cf228fd538.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-octopus-welcome-mat-for-front-door-cf228fd538: current support is 'Use long-tail keywords that separate the final motifs: personalized golf rug, octopus skull...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-564",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-for-front-door-cf228fd538.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-octopus-welcome-mat-for-front-door-cf228fd538: title 'Octopus Mandala Coastal Area Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-564",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-for-front-door-cf228fd538.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-octopus-welcome-mat-for-front-door-cf228fd538: meta title 'Octopus Mandala Coastal Area Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-564",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-for-front-door-cf228fd538.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-octopus-welcome-mat-for-front-door-cf228fd538: meta 'Octopus mandala coastal rug with turquoise nautical artwork, white octopus, memory foam cushion and non slip bac...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-564",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-for-front-door-cf228fd538.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-octopus-welcome-mat-for-front-door-cf228fd538: description begins 'Octopus mandala coastal rug with turquoise nautical artwork, white octopus, memory foam cushion and non slip bac...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-564",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-for-front-door-cf228fd538.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-octopus-welcome-mat-for-front-door-cf228fd538: workbook row, evidence id B057-564, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-564",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-for-front-door-cf228fd538.html"
+        ]
+      }
+    },
+    "custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da: proposed title 'Red Octopus Mosaic Area Rug' and description 'Red octopus mosaic area rug with dark teal stained-glass style artwork, memory foam cus...' keep the same product/theme shown in evidence B057-565.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-565",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da: customer copy is limited to visible/product facts such as 'dark teal rug shows red octopus with mosaic or stained-glass style tentacles and high contra...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-565",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da: primary keyword 'red octopus mosaic rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-565",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da: proposed copy targets the same search intent as 'red octopus mosaic rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-565",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da: current support is 'Use long-tail keywords that separate the final motifs: personalized golf rug, octopus skull...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-565",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da: title 'Red Octopus Mosaic Area Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-565",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da: meta title 'Red Octopus Mosaic Area Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-565",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da: meta 'Red octopus mosaic area rug with dark teal stained-glass style artwork, memory foam cushion and non slip backing.' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-565",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da: description begins 'Red octopus mosaic area rug with dark teal stained-glass style artwork, memory foam cushion and non slip backing...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-565",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da: workbook row, evidence id B057-565, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-565",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-for-front-door-and-entryway-6c5a0747da.html"
+        ]
+      }
+    },
+    "custom-octopus-coastal-welcome-mat-330b515744": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-octopus-coastal-welcome-mat-330b515744: proposed title 'Vintage Cream Octopus Coastal Rug' and description 'Vintage cream octopus coastal rug with teal nautical artwork, antique border, memory fo...' keep the same product/theme shown in evidence B057-566.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-566",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-coastal-welcome-mat-330b515744.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-octopus-coastal-welcome-mat-330b515744: customer copy is limited to visible/product facts such as 'teal and tan rug features cream octopus with antique illustrated style and dark framed borde...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-566",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-coastal-welcome-mat-330b515744.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-octopus-coastal-welcome-mat-330b515744: primary keyword 'vintage octopus coastal rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-566",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-coastal-welcome-mat-330b515744.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-octopus-coastal-welcome-mat-330b515744: proposed copy targets the same search intent as 'vintage octopus coastal rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-566",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-coastal-welcome-mat-330b515744.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-octopus-coastal-welcome-mat-330b515744: current support is 'Use long-tail keywords that separate the final motifs: personalized golf rug, octopus skull...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-566",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-coastal-welcome-mat-330b515744.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-octopus-coastal-welcome-mat-330b515744: title 'Vintage Cream Octopus Coastal Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-566",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-coastal-welcome-mat-330b515744.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-octopus-coastal-welcome-mat-330b515744: meta title 'Vintage Cream Octopus Coastal Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-566",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-coastal-welcome-mat-330b515744.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-octopus-coastal-welcome-mat-330b515744: meta 'Vintage cream octopus coastal rug with teal nautical artwork, antique border, memory foam cushion and non slip b...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-566",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-coastal-welcome-mat-330b515744.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-octopus-coastal-welcome-mat-330b515744: description begins 'Vintage cream octopus coastal rug with teal nautical artwork, antique border, memory foam cushion and non slip b...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-566",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-coastal-welcome-mat-330b515744.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-octopus-coastal-welcome-mat-330b515744: workbook row, evidence id B057-566, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-566",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-coastal-welcome-mat-330b515744.html"
+        ]
+      }
+    },
+    "custom-octopus-coastal-welcome-mat-2e91144f8b": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-octopus-coastal-welcome-mat-2e91144f8b: proposed title 'Watercolor Octopus Coastal Area Rug' and description 'Watercolor octopus coastal area rug with rainbow splatter artwork, white background, me...' keep the same product/theme shown in evidence B057-567.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-567",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-coastal-welcome-mat-2e91144f8b.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-octopus-coastal-welcome-mat-2e91144f8b: customer copy is limited to visible/product facts such as 'white rug shows a colorful watercolor octopus with bright orange, blue, purple and yellow sp...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-567",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-coastal-welcome-mat-2e91144f8b.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-octopus-coastal-welcome-mat-2e91144f8b: primary keyword 'watercolor octopus rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-567",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-coastal-welcome-mat-2e91144f8b.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-octopus-coastal-welcome-mat-2e91144f8b: proposed copy targets the same search intent as 'watercolor octopus rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-567",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-coastal-welcome-mat-2e91144f8b.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-octopus-coastal-welcome-mat-2e91144f8b: current support is 'Use long-tail keywords that separate the final motifs: personalized golf rug, octopus skull...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-567",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-coastal-welcome-mat-2e91144f8b.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-octopus-coastal-welcome-mat-2e91144f8b: title 'Watercolor Octopus Coastal Area Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-567",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-coastal-welcome-mat-2e91144f8b.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-octopus-coastal-welcome-mat-2e91144f8b: meta title 'Watercolor Octopus Coastal Area Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-567",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-coastal-welcome-mat-2e91144f8b.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-octopus-coastal-welcome-mat-2e91144f8b: meta 'Watercolor octopus coastal area rug with rainbow splatter artwork, white background, memory foam cushion and non...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-567",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-coastal-welcome-mat-2e91144f8b.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-octopus-coastal-welcome-mat-2e91144f8b: description begins 'Watercolor octopus coastal area rug with rainbow splatter artwork, white background, memory foam cushion and non...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-567",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-coastal-welcome-mat-2e91144f8b.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-octopus-coastal-welcome-mat-2e91144f8b: workbook row, evidence id B057-567, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-567",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-coastal-welcome-mat-2e91144f8b.html"
+        ]
+      }
+    },
+    "custom-octopus-welcome-mat-coastal-front-door-5012959a0b": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-octopus-welcome-mat-coastal-front-door-5012959a0b: proposed title 'Teal Octopus Coastal Area Rug' and description 'Teal octopus coastal area rug with white wave artwork, gold suction cup accents, memory...' keep the same product/theme shown in evidence B057-568.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-568",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-coastal-front-door-5012959a0b.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-octopus-welcome-mat-coastal-front-door-5012959a0b: customer copy is limited to visible/product facts such as 'white and teal rug shows large octopus tentacles with gold-ring suction cups and watery coas...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-568",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-coastal-front-door-5012959a0b.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-octopus-welcome-mat-coastal-front-door-5012959a0b: primary keyword 'teal octopus coastal rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-568",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-coastal-front-door-5012959a0b.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-octopus-welcome-mat-coastal-front-door-5012959a0b: proposed copy targets the same search intent as 'teal octopus coastal rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-568",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-coastal-front-door-5012959a0b.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-octopus-welcome-mat-coastal-front-door-5012959a0b: current support is 'Use long-tail keywords that separate the final motifs: personalized golf rug, octopus skull...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-568",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-coastal-front-door-5012959a0b.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-octopus-welcome-mat-coastal-front-door-5012959a0b: title 'Teal Octopus Coastal Area Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-568",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-coastal-front-door-5012959a0b.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-octopus-welcome-mat-coastal-front-door-5012959a0b: meta title 'Teal Octopus Coastal Area Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-568",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-coastal-front-door-5012959a0b.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-octopus-welcome-mat-coastal-front-door-5012959a0b: meta 'Teal octopus coastal area rug with white wave artwork, gold suction cup accents, memory foam cushion and non sli...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-568",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-coastal-front-door-5012959a0b.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-octopus-welcome-mat-coastal-front-door-5012959a0b: description begins 'Teal octopus coastal area rug with white wave artwork, gold suction cup accents, memory foam cushion and non sli...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-568",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-coastal-front-door-5012959a0b.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-octopus-welcome-mat-coastal-front-door-5012959a0b: workbook row, evidence id B057-568, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-568",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/custom-octopus-welcome-mat-coastal-front-door-5012959a0b.html"
+        ]
+      }
+    },
+    "personalized-teacher-round-rug-with-name-0e0fa122bd": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teacher-round-rug-with-name-0e0fa122bd: proposed title 'Personalized Teacher Round Classroom Rug' and description 'Personalized teacher round classroom rug with Mrs. Smith name, composition speckle bord...' keep the same product/theme shown in evidence B057-569.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-569",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/personalized-teacher-round-rug-with-name-0e0fa122bd.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teacher-round-rug-with-name-0e0fa122bd: customer copy is limited to visible/product facts such as 'round black speckled rug reads Welcome To Mrs. Smith's classroom with colorful teacher name...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-569",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/personalized-teacher-round-rug-with-name-0e0fa122bd.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teacher-round-rug-with-name-0e0fa122bd: primary keyword 'personalized teacher round rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-569",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/personalized-teacher-round-rug-with-name-0e0fa122bd.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teacher-round-rug-with-name-0e0fa122bd: proposed copy targets the same search intent as 'personalized teacher round rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-569",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/personalized-teacher-round-rug-with-name-0e0fa122bd.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teacher-round-rug-with-name-0e0fa122bd: current support is 'Use long-tail keywords that separate the final motifs: personalized golf rug, octopus skull...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-569",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/personalized-teacher-round-rug-with-name-0e0fa122bd.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teacher-round-rug-with-name-0e0fa122bd: title 'Personalized Teacher Round Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-569",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/personalized-teacher-round-rug-with-name-0e0fa122bd.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teacher-round-rug-with-name-0e0fa122bd: meta title 'Personalized Teacher Round Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-569",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/personalized-teacher-round-rug-with-name-0e0fa122bd.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teacher-round-rug-with-name-0e0fa122bd: meta 'Personalized teacher round classroom rug with Mrs. Smith name, composition speckle border, storytime size and no...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-569",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/personalized-teacher-round-rug-with-name-0e0fa122bd.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teacher-round-rug-with-name-0e0fa122bd: description begins 'Personalized teacher round classroom rug with Mrs. Smith name, composition speckle border, storytime size and no...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-569",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/personalized-teacher-round-rug-with-name-0e0fa122bd.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teacher-round-rug-with-name-0e0fa122bd: workbook row, evidence id B057-569, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B057/SEO_Product_Optimization_revision_B057.xlsx",
+          "product_evidence:B057-569",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B057_pages/personalized-teacher-round-rug-with-name-0e0fa122bd.html"
+        ]
+      }
+    }
+  }
+}

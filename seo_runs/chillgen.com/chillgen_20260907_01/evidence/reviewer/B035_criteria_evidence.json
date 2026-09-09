@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "B035",
+  "batch_id": "B035",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+  "source_workbook_sha256": "0cbae61c4babdec72082a656fafa7978f1180e405d240a29c23dc10811ac507d",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-B035-CRITERIA-01",
+    "reviewed_at": "2026-09-09T17:30:21+07:00"
+  },
+  "reviewed_at": "2026-09-09T17:30:21+07:00",
+  "products": {
+    "custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b: proposed title 'Sunset Horse Silhouette Rug' and description 'Decorate with a sunset horse silhouette rug featuring pink sky, pine forest, mountain s...' keep the same product/theme shown in evidence B035-341.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-341",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b: customer copy is limited to visible/product facts such as 'rectangular rug with dark running horse silhouette, pink and blue sunset sky, pine forest, m...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-341",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b: primary keyword 'sunset horse silhouette rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-341",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b: proposed copy targets the same search intent as 'sunset horse silhouette rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-341",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b: current support is 'Marketplace and retail SERPs support running horse rugs, western horse doormats, equestrian...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-341",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b: title 'Sunset Horse Silhouette Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-341",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b: meta title 'Sunset Horse Silhouette Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-341",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b: meta 'Decorate with a sunset horse silhouette rug featuring pink sky, pine forest, mountain shapes, size chart and bac...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-341",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b: description begins 'Decorate with a sunset horse silhouette rug featuring pink sky, pine forest, mountain shapes, size chart and bac...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-341",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b: workbook row, evidence id B035-341, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-341",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-b4cfa05f9b-b4cfa05f9b.html"
+        ]
+      }
+    },
+    "custom-running-horse-welcome-mat-7069b0c873-7069b0c873": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-running-horse-welcome-mat-7069b0c873-7069b0c873: proposed title 'Black Horse Bridle Rug' and description 'Style an indoor space with a black horse bridle rug, bold portrait artwork, red reins,...' keep the same product/theme shown in evidence B035-342.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-342",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-7069b0c873-7069b0c873.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-running-horse-welcome-mat-7069b0c873-7069b0c873: customer copy is limited to visible/product facts such as 'white rug with black horse portrait, red bridle and reins, gold tack detail, size chart, liv...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-342",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-7069b0c873-7069b0c873.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-running-horse-welcome-mat-7069b0c873-7069b0c873: primary keyword 'black horse bridle rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-342",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-7069b0c873-7069b0c873.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-running-horse-welcome-mat-7069b0c873-7069b0c873: proposed copy targets the same search intent as 'black horse bridle rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-342",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-7069b0c873-7069b0c873.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-running-horse-welcome-mat-7069b0c873-7069b0c873: current support is 'Marketplace and retail SERPs support running horse rugs, western horse doormats, equestrian...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-342",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-7069b0c873-7069b0c873.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-running-horse-welcome-mat-7069b0c873-7069b0c873: title 'Black Horse Bridle Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-342",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-7069b0c873-7069b0c873.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-running-horse-welcome-mat-7069b0c873-7069b0c873: meta title 'Black Horse Bridle Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-342",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-7069b0c873-7069b0c873.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-running-horse-welcome-mat-7069b0c873-7069b0c873: meta 'Style an indoor space with a black horse bridle rug, bold portrait artwork, red reins, size options and memory f...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-342",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-7069b0c873-7069b0c873.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-running-horse-welcome-mat-7069b0c873-7069b0c873: description begins 'Style an indoor space with a black horse bridle rug, bold portrait artwork, red reins, size options and memory f...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-342",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-7069b0c873-7069b0c873.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-running-horse-welcome-mat-7069b0c873-7069b0c873: workbook row, evidence id B035-342, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-342",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-7069b0c873-7069b0c873.html"
+        ]
+      }
+    },
+    "custom-running-horse-area-rug-non-slip-384f7e6e8e": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-running-horse-area-rug-non-slip-384f7e6e8e: proposed title 'Chestnut Running Horse Rug' and description 'Decorate with a chestnut running horse rug featuring white mane, western tack, warm neu...' keep the same product/theme shown in evidence B035-343.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-343",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-area-rug-non-slip-384f7e6e8e.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-running-horse-area-rug-non-slip-384f7e6e8e: customer copy is limited to visible/product facts such as 'warm-toned horse rug with chestnut horse portrait, flowing white mane, western bridle and ta...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-343",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-area-rug-non-slip-384f7e6e8e.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-running-horse-area-rug-non-slip-384f7e6e8e: primary keyword 'chestnut running horse rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-343",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-area-rug-non-slip-384f7e6e8e.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-running-horse-area-rug-non-slip-384f7e6e8e: proposed copy targets the same search intent as 'chestnut running horse rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-343",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-area-rug-non-slip-384f7e6e8e.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-running-horse-area-rug-non-slip-384f7e6e8e: current support is 'Marketplace and retail SERPs support running horse rugs, western horse doormats, equestrian...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-343",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-area-rug-non-slip-384f7e6e8e.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-running-horse-area-rug-non-slip-384f7e6e8e: title 'Chestnut Running Horse Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-343",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-area-rug-non-slip-384f7e6e8e.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-running-horse-area-rug-non-slip-384f7e6e8e: meta title 'Chestnut Running Horse Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-343",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-area-rug-non-slip-384f7e6e8e.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-running-horse-area-rug-non-slip-384f7e6e8e: meta 'Decorate with a chestnut running horse rug featuring white mane, western tack, warm neutral art, size chart and...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-343",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-area-rug-non-slip-384f7e6e8e.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-running-horse-area-rug-non-slip-384f7e6e8e: description begins 'Decorate with a chestnut running horse rug featuring white mane, western tack, warm neutral art, size chart and...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-343",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-area-rug-non-slip-384f7e6e8e.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-running-horse-area-rug-non-slip-384f7e6e8e: workbook row, evidence id B035-343, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-343",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-area-rug-non-slip-384f7e6e8e.html"
+        ]
+      }
+    },
+    "custom-running-horse-welcome-mat-60ae7781a9": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-running-horse-welcome-mat-60ae7781a9: proposed title 'Monochrome Running Horse Rug' and description 'Add a monochrome running horse rug with galloping artwork, dust effects, size choices,...' keep the same product/theme shown in evidence B035-344.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-344",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-60ae7781a9.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-running-horse-welcome-mat-60ae7781a9: customer copy is limited to visible/product facts such as 'sepia monochrome horse rug with galloping black horse, dust and motion effects, neutral back...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-344",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-60ae7781a9.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-running-horse-welcome-mat-60ae7781a9: primary keyword 'monochrome running horse rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-344",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-60ae7781a9.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-running-horse-welcome-mat-60ae7781a9: proposed copy targets the same search intent as 'monochrome running horse rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-344",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-60ae7781a9.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-running-horse-welcome-mat-60ae7781a9: current support is 'Marketplace and retail SERPs support running horse rugs, western horse doormats, equestrian...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-344",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-60ae7781a9.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-running-horse-welcome-mat-60ae7781a9: title 'Monochrome Running Horse Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-344",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-60ae7781a9.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-running-horse-welcome-mat-60ae7781a9: meta title 'Monochrome Running Horse Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-344",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-60ae7781a9.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-running-horse-welcome-mat-60ae7781a9: meta 'Add a monochrome running horse rug with galloping artwork, dust effects, size choices, microfiber surface and ba...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-344",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-60ae7781a9.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-running-horse-welcome-mat-60ae7781a9: description begins 'Add a monochrome running horse rug with galloping artwork, dust effects, size choices, microfiber surface and ba...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-344",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-60ae7781a9.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-running-horse-welcome-mat-60ae7781a9: workbook row, evidence id B035-344, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-344",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-running-horse-welcome-mat-60ae7781a9.html"
+        ]
+      }
+    },
+    "custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f: proposed title 'White Horse Golden Halo Rug' and description 'Decorate with a white horse golden halo rug featuring starry sky, glitter path, size ch...' keep the same product/theme shown in evidence B035-345.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-345",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f: customer copy is limited to visible/product facts such as 'dark blue and gold rug with white running horse, glowing circular halo, starry sky and golde...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-345",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f: primary keyword 'white horse golden halo rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-345",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f: proposed copy targets the same search intent as 'white horse golden halo rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-345",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f: current support is 'Marketplace and retail SERPs support running horse rugs, western horse doormats, equestrian...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-345",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f: title 'White Horse Golden Halo Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-345",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f: meta title 'White Horse Golden Halo Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-345",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f: meta 'Decorate with a white horse golden halo rug featuring starry sky, glitter path, size chart, microfiber surface a...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-345",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f: description begins 'Decorate with a white horse golden halo rug featuring starry sky, glitter path, size chart, microfiber surface a...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-345",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f: workbook row, evidence id B035-345, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-345",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-western-running-horse-doormat-c4ecf71d0f-c4ecf71d0f.html"
+        ]
+      }
+    },
+    "custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42: proposed title 'Moonlit Wolf Pack Rug' and description 'Decorate a room with a moonlit wolf pack rug featuring wolves on rocks, waterfall glow...' keep the same product/theme shown in evidence B035-346.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-346",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42: customer copy is limited to visible/product facts such as 'rectangular area rug with two wolves howling on rocks under a large moon, teal waterfall and...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-346",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42: primary keyword 'moonlit wolf pack rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-346",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42: proposed copy targets the same search intent as 'moonlit wolf pack rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-346",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42: current support is 'Marketplace and retail SERPs support running horse rugs, western horse doormats, equestrian...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-346",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42: title 'Moonlit Wolf Pack Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-346",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42: meta title 'Moonlit Wolf Pack Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-346",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42: meta 'Decorate a room with a moonlit wolf pack rug featuring wolves on rocks, waterfall glow and forest scenery for be...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-346",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42: description begins 'Decorate a room with a moonlit wolf pack rug featuring wolves on rocks, waterfall glow and forest scenery for be...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-346",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42: workbook row, evidence id B035-346, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-346",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-galaxy-wolves-rug-bedroom-living-room-eb7c237d42-eb7c237d42.html"
+        ]
+      }
+    },
+    "wolf-galaxy-runner-rug-a1fc801242": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for wolf-galaxy-runner-rug-a1fc801242: proposed title 'Fire And Ice Wolves Rug' and description 'Add a fire and ice wolves rug with dual wolf heads, moonlit black background and bold c...' keep the same product/theme shown in evidence B035-347.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-347",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/wolf-galaxy-runner-rug-a1fc801242.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for wolf-galaxy-runner-rug-a1fc801242: customer copy is limited to visible/product facts such as 'black rectangular wolf rug with two wolf heads, one orange fire wolf and one gray-blue ice w...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-347",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/wolf-galaxy-runner-rug-a1fc801242.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for wolf-galaxy-runner-rug-a1fc801242: primary keyword 'fire and ice wolves rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-347",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/wolf-galaxy-runner-rug-a1fc801242.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for wolf-galaxy-runner-rug-a1fc801242: proposed copy targets the same search intent as 'fire and ice wolves rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-347",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/wolf-galaxy-runner-rug-a1fc801242.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for wolf-galaxy-runner-rug-a1fc801242: current support is 'Marketplace and retail SERPs support running horse rugs, western horse doormats, equestrian...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-347",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/wolf-galaxy-runner-rug-a1fc801242.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for wolf-galaxy-runner-rug-a1fc801242: title 'Fire And Ice Wolves Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-347",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/wolf-galaxy-runner-rug-a1fc801242.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for wolf-galaxy-runner-rug-a1fc801242: meta title 'Fire And Ice Wolves Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-347",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/wolf-galaxy-runner-rug-a1fc801242.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for wolf-galaxy-runner-rug-a1fc801242: meta 'Add a fire and ice wolves rug with dual wolf heads, moonlit black background and bold contrast for hallway or be...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-347",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/wolf-galaxy-runner-rug-a1fc801242.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for wolf-galaxy-runner-rug-a1fc801242: description begins 'Add a fire and ice wolves rug with dual wolf heads, moonlit black background and bold contrast for hallway or be...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-347",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/wolf-galaxy-runner-rug-a1fc801242.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for wolf-galaxy-runner-rug-a1fc801242: workbook row, evidence id B035-347, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-347",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/wolf-galaxy-runner-rug-a1fc801242.html"
+        ]
+      }
+    },
+    "custom-wolf-print-welcome-mat-89ae1c27ae": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-wolf-print-welcome-mat-89ae1c27ae: proposed title 'Neon Galaxy Wolf Rug' and description 'Style a room with a neon galaxy wolf rug featuring purple space colors, bright wolf por...' keep the same product/theme shown in evidence B035-348.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-348",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-wolf-print-welcome-mat-89ae1c27ae.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-wolf-print-welcome-mat-89ae1c27ae: customer copy is limited to visible/product facts such as 'vivid purple, pink, blue and orange galaxy rug with large wolf head portrait, stars and nebu...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-348",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-wolf-print-welcome-mat-89ae1c27ae.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-wolf-print-welcome-mat-89ae1c27ae: primary keyword 'neon galaxy wolf rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-348",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-wolf-print-welcome-mat-89ae1c27ae.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-wolf-print-welcome-mat-89ae1c27ae: proposed copy targets the same search intent as 'neon galaxy wolf rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-348",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-wolf-print-welcome-mat-89ae1c27ae.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-wolf-print-welcome-mat-89ae1c27ae: current support is 'Marketplace and retail SERPs support running horse rugs, western horse doormats, equestrian...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-348",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-wolf-print-welcome-mat-89ae1c27ae.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-wolf-print-welcome-mat-89ae1c27ae: title 'Neon Galaxy Wolf Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-348",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-wolf-print-welcome-mat-89ae1c27ae.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-wolf-print-welcome-mat-89ae1c27ae: meta title 'Neon Galaxy Wolf Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-348",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-wolf-print-welcome-mat-89ae1c27ae.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-wolf-print-welcome-mat-89ae1c27ae: meta 'Style a room with a neon galaxy wolf rug featuring purple space colors, bright wolf portrait and bedroom and liv...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-348",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-wolf-print-welcome-mat-89ae1c27ae.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-wolf-print-welcome-mat-89ae1c27ae: description begins 'Style a room with a neon galaxy wolf rug featuring purple space colors, bright wolf portrait and bedroom living...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-348",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-wolf-print-welcome-mat-89ae1c27ae.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-wolf-print-welcome-mat-89ae1c27ae: workbook row, evidence id B035-348, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-348",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-wolf-print-welcome-mat-89ae1c27ae.html"
+        ]
+      }
+    },
+    "custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1: proposed title 'Monochrome Forest Wolf Rug' and description 'Decorate with a monochrome forest wolf rug featuring close-up wolf portrait, pine trees...' keep the same product/theme shown in evidence B035-349.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-349",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1: customer copy is limited to visible/product facts such as 'black white and gray wolf rug with close-up wolf face, misty pine forest and mountain backgr...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-349",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1: primary keyword 'monochrome forest wolf rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-349",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1: proposed copy targets the same search intent as 'monochrome forest wolf rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-349",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1: current support is 'Marketplace and retail SERPs support running horse rugs, western horse doormats, equestrian...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-349",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1: title 'Monochrome Forest Wolf Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-349",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1: meta title 'Monochrome Forest Wolf Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-349",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1: meta 'Decorate with a monochrome forest wolf rug featuring close-up wolf portrait, pine trees and neutral room styling.' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-349",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1: description begins 'Decorate with a monochrome forest wolf rug featuring close-up wolf portrait, pine trees and neutral room styling...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-349",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1: workbook row, evidence id B035-349, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-349",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-wolf-welcome-doormat-entryway-c00c6179a1-c00c6179a1.html"
+        ]
+      }
+    },
+    "custom-galaxy-wolves-welcome-mat-f320a33157": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-galaxy-wolves-welcome-mat-f320a33157: proposed title 'Lightning Snow Wolf Rug' and description 'Decorate a room with a lightning snow wolf rug featuring icy forest scenery, blue energ...' keep the same product/theme shown in evidence B035-350.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-350",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-galaxy-wolves-welcome-mat-f320a33157.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-galaxy-wolves-welcome-mat-f320a33157: customer copy is limited to visible/product facts such as 'blue and white wolf rug with large gray wolf portrait, snowy forest, lightning effects, icy...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-350",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-galaxy-wolves-welcome-mat-f320a33157.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-galaxy-wolves-welcome-mat-f320a33157: primary keyword 'lightning snow wolf rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-350",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-galaxy-wolves-welcome-mat-f320a33157.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-galaxy-wolves-welcome-mat-f320a33157: proposed copy targets the same search intent as 'lightning snow wolf rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-350",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-galaxy-wolves-welcome-mat-f320a33157.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-galaxy-wolves-welcome-mat-f320a33157: current support is 'Marketplace and retail SERPs support running horse rugs, western horse doormats, equestrian...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-350",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-galaxy-wolves-welcome-mat-f320a33157.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-galaxy-wolves-welcome-mat-f320a33157: title 'Lightning Snow Wolf Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-350",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-galaxy-wolves-welcome-mat-f320a33157.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-galaxy-wolves-welcome-mat-f320a33157: meta title 'Lightning Snow Wolf Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-350",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-galaxy-wolves-welcome-mat-f320a33157.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-galaxy-wolves-welcome-mat-f320a33157: meta 'Decorate a room with a lightning snow wolf rug featuring icy forest scenery, blue energy accents and wolf portra...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-350",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-galaxy-wolves-welcome-mat-f320a33157.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-galaxy-wolves-welcome-mat-f320a33157: description begins 'Decorate a room with a lightning snow wolf rug featuring icy forest scenery, blue energy accents and wolf portra...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-350",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-galaxy-wolves-welcome-mat-f320a33157.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-galaxy-wolves-welcome-mat-f320a33157: workbook row, evidence id B035-350, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B035/SEO_Product_Optimization_revision_B035.xlsx",
+          "product_evidence:B035-350",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B035_pages/custom-galaxy-wolves-welcome-mat-f320a33157.html"
+        ]
+      }
+    }
+  }
+}

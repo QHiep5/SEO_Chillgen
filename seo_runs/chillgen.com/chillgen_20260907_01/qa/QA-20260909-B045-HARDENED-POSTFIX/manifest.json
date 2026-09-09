@@ -1,0 +1,47 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "rubric_hash": "caeacb83a45638bcffc03ce1d2daf1fc9e915f417ada6b66eb706284283ea96c",
+  "qa_run_id": "QA-20260909-B045-HARDENED-POSTFIX",
+  "qa_batch_id": "REV_B045",
+  "batch_id": "B045",
+  "revision_id": "B045",
+  "parent_run_id": "QA-20260909-B045-HARDENED",
+  "source_workbook": "resutls/chillgen.com/chillgen_20260907_01/revisions/B045/SEO_Product_Optimization_revision_B045.xlsx",
+  "source_workbook_sha256": "666ac9828d94a8d35812cd2ae420e723eca1ed19df9b98543b2ae7883f2f3fbb",
+  "scope_hash": "eb9626a258e78ceb0c5629ee7c627e424898d3515bf902d11666f118c7693963",
+  "batch_product_keys": [
+    "personalized-motivational-classroom-rug-for-kids-85959c63a9-85959c63a9",
+    "personalized-motivational-classroom-rug-for-kids-34838f57f6-34838f57f6",
+    "personalized-motivational-classroom-rug-for-kids-bb1a76e628",
+    "personalized-motivational-classroom-rug-kids-ab8fce16b6-ab8fce16b6",
+    "personalized-motivational-classroom-rug-kids-d760f89ce0-d760f89ce0",
+    "personalized-motivational-classroom-rug-for-kids-fe3841c6fe",
+    "personalized-motivational-classroom-rug-for-kids-7d4f70bdd2-7d4f70bdd2",
+    "personalized-music-album-cover-area-rug-d939ed2f4e",
+    "personalized-hunting-welcome-doormat-custom-family-name-e9839e2783",
+    "personalized-family-name-patriotic-hunting-doormat-5997abfebc-5997abfebc"
+  ],
+  "status_counts": {
+    "QA_PASS": 10,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "issue_counts": {
+    "CRITICAL": 0,
+    "MAJOR": 0,
+    "MINOR": 0,
+    "LIMITATION": 20
+  },
+  "batch_status": "QA_PASS",
+  "content_qa_status": "QA_PASS",
+  "evidence_maturity": "SERP_ONLY",
+  "canonical": true,
+  "supersedes": [
+    "QA-20260909-B045-HARDENED"
+  ],
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/reviewer/B045_reviewer_evidence_fullres.json",
+  "manual_criteria_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/reviewer/B045_criteria_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED",
+  "created_at": "2026-09-09T16:47:49+07:00"
+}

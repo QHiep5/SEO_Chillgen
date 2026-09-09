@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "B043",
+  "batch_id": "B043",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+  "source_workbook_sha256": "bc5586a80045a20a4148c0b40fd688bbeeb91ad0478cac0abe42dac6347aeccf",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-B043-CRITERIA-01",
+    "reviewed_at": "2026-09-09T17:51:44+07:00"
+  },
+  "reviewed_at": "2026-09-09T17:51:44+07:00",
+  "products": {
+    "custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546: proposed title 'Custom Reading Corner Rug with Rainbow Book Design' and description 'Custom reading corner rug with rainbow open book, butterflies and reading quotes for sc...' keep the same product/theme shown in evidence B043-421.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-421",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546: customer copy is limited to visible/product facts such as 'black classroom rug with rainbow open book, butterflies, colorful reading quotes, size chart...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-421",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546: primary keyword 'custom reading corner rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-421",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546: proposed copy targets the same search intent as 'custom reading corner rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-421",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546: current support is 'Marketplace and retail SERPs support reading corner rugs, personalized library rugs, classro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-421",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546: title 'Custom Reading Corner Rug with Rainbow Book Design' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-421",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546: meta title 'Custom Reading Corner Rug with Rainbow Book Design' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-421",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546: meta 'Custom reading corner rug with rainbow open book, butterflies and reading quotes for school library, book nook o...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-421",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546: description begins 'Custom reading corner rug with rainbow open book, butterflies and reading quotes for school library, book nook o...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-421",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546: workbook row, evidence id B043-421, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-421",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-reading-corner-welcome-mat-classroom-library-9e72982546-9e72982546.html"
+        ]
+      }
+    },
+    "custom-reading-corner-classroom-library-rug-f3d87bd3da": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-reading-corner-classroom-library-rug-f3d87bd3da: proposed title 'Personalized Reading Gives You Wings Library Rug for Reading Nook D...' and description 'Personalized Reading Gives You Wings rug with butterflies, open book and library checko...' keep the same product/theme shown in evidence B043-422.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-422",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-reading-corner-classroom-library-rug-f3d87bd3da.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-reading-corner-classroom-library-rug-f3d87bd3da: customer copy is limited to visible/product facts such as 'white and pink rug with Reading gives you wings text, colorful butterflies, open book, check...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-422",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-reading-corner-classroom-library-rug-f3d87bd3da.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-reading-corner-classroom-library-rug-f3d87bd3da: primary keyword 'personalized reading nook butterfly rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-422",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-reading-corner-classroom-library-rug-f3d87bd3da.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-reading-corner-classroom-library-rug-f3d87bd3da: proposed copy targets the same search intent as 'personalized reading nook butterfly rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-422",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-reading-corner-classroom-library-rug-f3d87bd3da.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-reading-corner-classroom-library-rug-f3d87bd3da: current support is 'Marketplace and retail SERPs support reading corner rugs, personalized library rugs, classro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-422",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-reading-corner-classroom-library-rug-f3d87bd3da.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-reading-corner-classroom-library-rug-f3d87bd3da: title 'Personalized Reading Gives You Wings Library Rug for Reading Nook Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-422",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-reading-corner-classroom-library-rug-f3d87bd3da.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-reading-corner-classroom-library-rug-f3d87bd3da: meta title 'Personalized Reading Gives You Wings Library Rug for Reading Nook Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-422",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-reading-corner-classroom-library-rug-f3d87bd3da.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-reading-corner-classroom-library-rug-f3d87bd3da: meta 'Personalized Reading Gives You Wings rug with butterflies, open book and library checkout message for classroom...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-422",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-reading-corner-classroom-library-rug-f3d87bd3da.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-reading-corner-classroom-library-rug-f3d87bd3da: description begins 'Personalized Reading Gives You Wings rug with butterflies, open book and library checkout message for classroom...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-422",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-reading-corner-classroom-library-rug-f3d87bd3da.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-reading-corner-classroom-library-rug-f3d87bd3da: workbook row, evidence id B043-422, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-422",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-reading-corner-classroom-library-rug-f3d87bd3da.html"
+        ]
+      }
+    },
+    "custom-bookshelf-classroom-library-reading-rug-110e79f122": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-bookshelf-classroom-library-reading-rug-110e79f122: proposed title 'Custom Bookshelf Classroom Rug with Reader Leader Quote' and description 'Custom bookshelf classroom rug with teacher name, colorful books and Today a Reader Tom...' keep the same product/theme shown in evidence B043-423.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-423",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-bookshelf-classroom-library-reading-rug-110e79f122.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-bookshelf-classroom-library-reading-rug-110e79f122: customer copy is limited to visible/product facts such as 'bookshelf rug with colorful books, teacher name, globe, backpack and Today a Reader Tomorrow...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-423",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-bookshelf-classroom-library-reading-rug-110e79f122.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-bookshelf-classroom-library-reading-rug-110e79f122: primary keyword 'custom bookshelf classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-423",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-bookshelf-classroom-library-reading-rug-110e79f122.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-bookshelf-classroom-library-reading-rug-110e79f122: proposed copy targets the same search intent as 'custom bookshelf classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-423",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-bookshelf-classroom-library-reading-rug-110e79f122.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-bookshelf-classroom-library-reading-rug-110e79f122: current support is 'Marketplace and retail SERPs support reading corner rugs, personalized library rugs, classro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-423",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-bookshelf-classroom-library-reading-rug-110e79f122.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-bookshelf-classroom-library-reading-rug-110e79f122: title 'Custom Bookshelf Classroom Rug with Reader Leader Quote' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-423",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-bookshelf-classroom-library-reading-rug-110e79f122.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-bookshelf-classroom-library-reading-rug-110e79f122: meta title 'Custom Bookshelf Classroom Rug with Reader Leader Quote' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-423",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-bookshelf-classroom-library-reading-rug-110e79f122.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-bookshelf-classroom-library-reading-rug-110e79f122: meta 'Custom bookshelf classroom rug with teacher name, colorful books and Today a Reader Tomorrow a Leader quote for...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-423",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-bookshelf-classroom-library-reading-rug-110e79f122.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-bookshelf-classroom-library-reading-rug-110e79f122: description begins 'Custom bookshelf classroom rug with teacher name, colorful books and Today a Reader Tomorrow a Leader quote for...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-423",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-bookshelf-classroom-library-reading-rug-110e79f122.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-bookshelf-classroom-library-reading-rug-110e79f122: workbook row, evidence id B043-423, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-423",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-bookshelf-classroom-library-reading-rug-110e79f122.html"
+        ]
+      }
+    },
+    "custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c: proposed title 'Personalized Good Day to Read a Book Rug for Pastel Reading Nook Decor' and description 'Personalized book theme rug with It's a Good Day to Read a Book quote, pastel flowers a...' keep the same product/theme shown in evidence B043-424.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-424",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c: customer copy is limited to visible/product facts such as 'pastel floral rug with large It's a Good Day to Read a Book quote, cream background, classro...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-424",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c: primary keyword 'personalized good day to read a book rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-424",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c: proposed copy targets the same search intent as 'personalized good day to read a book rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-424",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c: current support is 'Marketplace and retail SERPs support reading corner rugs, personalized library rugs, classro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-424",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c: title 'Personalized Good Day to Read a Book Rug for Pastel Reading Nook Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-424",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c: meta title 'Personalized Good Day to Read a Book Rug for Pastel Reading Nook Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-424",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c: meta 'Personalized book theme rug with It's a Good Day to Read a Book quote, pastel flowers and soft classroom style f...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-424",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c: description begins 'Personalized book theme rug with It's a Good Day to Read a Book quote, pastel flowers and soft classroom style f...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-424",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c: workbook row, evidence id B043-424, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-424",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-book-rug-classroom-reading-nooks-da82e7625c-da82e7625c.html"
+        ]
+      }
+    },
+    "personalized-teachers-classroom-rules-area-rug-df4fbe7b91": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teachers-classroom-rules-area-rug-df4fbe7b91: proposed title 'Custom Voice Level Classroom Rules Rug with Teacher Name' and description 'Custom voice level classroom rules rug with teacher name, numbered noise levels and col...' keep the same product/theme shown in evidence B043-425.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-425",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-df4fbe7b91.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teachers-classroom-rules-area-rug-df4fbe7b91: customer copy is limited to visible/product facts such as 'black classroom rug with Mrs. Smith's Classroom voice levels 4 outside, 3 groups, 2 table ta...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-425",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-df4fbe7b91.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teachers-classroom-rules-area-rug-df4fbe7b91: primary keyword 'custom voice level classroom rules rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-425",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-df4fbe7b91.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teachers-classroom-rules-area-rug-df4fbe7b91: proposed copy targets the same search intent as 'custom voice level classroom rules rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-425",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-df4fbe7b91.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teachers-classroom-rules-area-rug-df4fbe7b91: current support is 'Marketplace and retail SERPs support reading corner rugs, personalized library rugs, classro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-425",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-df4fbe7b91.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teachers-classroom-rules-area-rug-df4fbe7b91: title 'Custom Voice Level Classroom Rules Rug with Teacher Name' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-425",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-df4fbe7b91.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teachers-classroom-rules-area-rug-df4fbe7b91: meta title 'Custom Voice Level Classroom Rules Rug with Teacher Name' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-425",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-df4fbe7b91.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teachers-classroom-rules-area-rug-df4fbe7b91: meta 'Custom voice level classroom rules rug with teacher name, numbered noise levels and colorful school icons for pr...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-425",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-df4fbe7b91.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teachers-classroom-rules-area-rug-df4fbe7b91: description begins 'Custom voice level classroom rules rug with teacher name, numbered noise levels and colorful school icons for pr...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-425",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-df4fbe7b91.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teachers-classroom-rules-area-rug-df4fbe7b91: workbook row, evidence id B043-425, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-425",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-df4fbe7b91.html"
+        ]
+      }
+    },
+    "personalized-classroom-rules-teacher-area-rug-c01b2868b7": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-classroom-rules-teacher-area-rug-c01b2868b7: proposed title 'Custom Rainbow Classroom Rules Rug with Teacher Name' and description 'Custom rainbow classroom rules rug with teacher name, checklist-style behavior reminder...' keep the same product/theme shown in evidence B043-426.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-426",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-classroom-rules-teacher-area-rug-c01b2868b7.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-classroom-rules-teacher-area-rug-c01b2868b7: customer copy is limited to visible/product facts such as 'cream classroom rules rug with Mr. Brown's Classroom Rules, colorful rule panels, children i...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-426",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-classroom-rules-teacher-area-rug-c01b2868b7.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-classroom-rules-teacher-area-rug-c01b2868b7: primary keyword 'custom rainbow classroom rules rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-426",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-classroom-rules-teacher-area-rug-c01b2868b7.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-classroom-rules-teacher-area-rug-c01b2868b7: proposed copy targets the same search intent as 'custom rainbow classroom rules rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-426",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-classroom-rules-teacher-area-rug-c01b2868b7.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-classroom-rules-teacher-area-rug-c01b2868b7: current support is 'Marketplace and retail SERPs support reading corner rugs, personalized library rugs, classro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-426",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-classroom-rules-teacher-area-rug-c01b2868b7.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-classroom-rules-teacher-area-rug-c01b2868b7: title 'Custom Rainbow Classroom Rules Rug with Teacher Name' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-426",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-classroom-rules-teacher-area-rug-c01b2868b7.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-classroom-rules-teacher-area-rug-c01b2868b7: meta title 'Custom Rainbow Classroom Rules Rug with Teacher Name' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-426",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-classroom-rules-teacher-area-rug-c01b2868b7.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-classroom-rules-teacher-area-rug-c01b2868b7: meta 'Custom rainbow classroom rules rug with teacher name, checklist-style behavior reminders and checkerboard border...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-426",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-classroom-rules-teacher-area-rug-c01b2868b7.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-classroom-rules-teacher-area-rug-c01b2868b7: description begins 'Custom rainbow classroom rules rug with teacher name, checklist-style behavior reminders and checkerboard border...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-426",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-classroom-rules-teacher-area-rug-c01b2868b7.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-classroom-rules-teacher-area-rug-c01b2868b7: workbook row, evidence id B043-426, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-426",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-classroom-rules-teacher-area-rug-c01b2868b7.html"
+        ]
+      }
+    },
+    "personalized-teachers-classroom-rules-area-rug-3c846a8f41": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teachers-classroom-rules-area-rug-3c846a8f41: proposed title 'Custom Classroom Jobs Rug with Teacher Name for Classroom Helper Decor' and description 'Custom classroom jobs rug with teacher name, rainbow header, helper icons and colorful...' keep the same product/theme shown in evidence B043-427.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-427",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-3c846a8f41.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teachers-classroom-rules-area-rug-3c846a8f41: customer copy is limited to visible/product facts such as 'black-bordered classroom jobs rug with Mrs. Smith's Classroom Jobs, rainbow, checkerboard bo...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-427",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-3c846a8f41.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teachers-classroom-rules-area-rug-3c846a8f41: primary keyword 'custom classroom jobs rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-427",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-3c846a8f41.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teachers-classroom-rules-area-rug-3c846a8f41: proposed copy targets the same search intent as 'custom classroom jobs rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-427",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-3c846a8f41.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teachers-classroom-rules-area-rug-3c846a8f41: current support is 'Marketplace and retail SERPs support reading corner rugs, personalized library rugs, classro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-427",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-3c846a8f41.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teachers-classroom-rules-area-rug-3c846a8f41: title 'Custom Classroom Jobs Rug with Teacher Name for Classroom Helper Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-427",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-3c846a8f41.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teachers-classroom-rules-area-rug-3c846a8f41: meta title 'Custom Classroom Jobs Rug with Teacher Name for Classroom Helper Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-427",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-3c846a8f41.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teachers-classroom-rules-area-rug-3c846a8f41: meta 'Custom classroom jobs rug with teacher name, rainbow header, helper icons and colorful job cards for preschool o...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-427",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-3c846a8f41.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teachers-classroom-rules-area-rug-3c846a8f41: description begins 'Custom classroom jobs rug with teacher name, rainbow header, helper icons and colorful job cards for preschool o...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-427",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-3c846a8f41.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teachers-classroom-rules-area-rug-3c846a8f41: workbook row, evidence id B043-427, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-427",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-3c846a8f41.html"
+        ]
+      }
+    },
+    "personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2: proposed title 'Personalized Coping Tools Classroom Rug with Monsters' and description 'Personalized coping tools classroom rug with teacher name, colorful monsters and SEL pr...' keep the same product/theme shown in evidence B043-428.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-428",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2: customer copy is limited to visible/product facts such as 'pastel coping tools rug with Mrs. Smith's Classroom label, colorful monster characters, brea...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-428",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2: primary keyword 'personalized coping tools classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-428",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2: proposed copy targets the same search intent as 'personalized coping tools classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-428",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2: current support is 'Marketplace and retail SERPs support reading corner rugs, personalized library rugs, classro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-428",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2: title 'Personalized Coping Tools Classroom Rug with Monsters' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-428",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2: meta title 'Personalized Coping Tools Classroom Rug with Monsters' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-428",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2: meta 'Personalized coping tools classroom rug with teacher name, colorful monsters and SEL prompts for breathing, movi...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-428",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2: description begins 'Personalized coping tools classroom rug with teacher name, colorful monsters and SEL prompts for breathing, movi...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-428",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2: workbook row, evidence id B043-428, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-428",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/personalized-teachers-classroom-rules-area-rug-a85c01cff2-a85c01cff2.html"
+        ]
+      }
+    },
+    "custom-octopus-sea-monster-welcome-mat-273aa005c8": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-octopus-sea-monster-welcome-mat-273aa005c8: proposed title 'Personalized Sea Monster Octopus Shaped Rug for Tentacle Decor' and description 'Personalized sea monster octopus shaped rug with red-blue tentacle artwork, custom shap...' keep the same product/theme shown in evidence B043-429.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-429",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-octopus-sea-monster-welcome-mat-273aa005c8.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-octopus-sea-monster-welcome-mat-273aa005c8: customer copy is limited to visible/product facts such as 'custom shaped octopus rug with dark red and blue tentacles, suction cup details, layer graph...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-429",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-octopus-sea-monster-welcome-mat-273aa005c8.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-octopus-sea-monster-welcome-mat-273aa005c8: primary keyword 'personalized sea monster octopus rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-429",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-octopus-sea-monster-welcome-mat-273aa005c8.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-octopus-sea-monster-welcome-mat-273aa005c8: proposed copy targets the same search intent as 'personalized sea monster octopus rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-429",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-octopus-sea-monster-welcome-mat-273aa005c8.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-octopus-sea-monster-welcome-mat-273aa005c8: current support is 'Marketplace and retail SERPs support reading corner rugs, personalized library rugs, classro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-429",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-octopus-sea-monster-welcome-mat-273aa005c8.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-octopus-sea-monster-welcome-mat-273aa005c8: title 'Personalized Sea Monster Octopus Shaped Rug for Tentacle Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-429",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-octopus-sea-monster-welcome-mat-273aa005c8.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-octopus-sea-monster-welcome-mat-273aa005c8: meta title 'Personalized Sea Monster Octopus Shaped Rug for Tentacle Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-429",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-octopus-sea-monster-welcome-mat-273aa005c8.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-octopus-sea-monster-welcome-mat-273aa005c8: meta 'Personalized sea monster octopus shaped rug with red-blue tentacle artwork, custom shape, soft velvet surface an...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-429",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-octopus-sea-monster-welcome-mat-273aa005c8.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-octopus-sea-monster-welcome-mat-273aa005c8: description begins 'Personalized sea monster octopus shaped rug with red-blue tentacle artwork, custom shape, soft velvet surface an...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-429",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-octopus-sea-monster-welcome-mat-273aa005c8.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-octopus-sea-monster-welcome-mat-273aa005c8: workbook row, evidence id B043-429, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-429",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-octopus-sea-monster-welcome-mat-273aa005c8.html"
+        ]
+      }
+    },
+    "custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b: proposed title 'Personalized Skull Octopus Tentacle Shaped Rug for Gothic Sea Monst...' and description 'Personalized skull octopus tentacle shaped rug with cream skeleton-style artwork, custo...' keep the same product/theme shown in evidence B043-430.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-430",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b: customer copy is limited to visible/product facts such as 'black shaped rug with cream skull-octopus tentacles, skeleton-like suction cup pattern, cust...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-430",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b: primary keyword 'personalized skull octopus rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-430",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b: proposed copy targets the same search intent as 'personalized skull octopus rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-430",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b: current support is 'Marketplace and retail SERPs support reading corner rugs, personalized library rugs, classro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-430",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b: title 'Personalized Skull Octopus Tentacle Shaped Rug for Gothic Sea Monster Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-430",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b: meta title 'Personalized Skull Octopus Tentacle Shaped Rug for Gothic Sea Monster Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-430",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b: meta 'Personalized skull octopus tentacle shaped rug with cream skeleton-style artwork, custom shape, soft velvet surf...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-430",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b: description begins 'Personalized skull octopus tentacle shaped rug with cream skeleton-style artwork, custom shape, soft velvet surf...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-430",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b: workbook row, evidence id B043-430, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B043/SEO_Product_Optimization_longtitle_B043_R1.xlsx",
+          "product_evidence:B043-430",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B043_pages/custom-octopus-shaped-area-rug-personalized-sea-monster-tentacle-724ae62b5b.html"
+        ]
+      }
+    }
+  }
+}

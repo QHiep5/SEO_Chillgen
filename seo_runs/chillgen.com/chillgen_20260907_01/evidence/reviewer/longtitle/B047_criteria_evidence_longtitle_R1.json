@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "B047",
+  "batch_id": "B047",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+  "source_workbook_sha256": "67d10059951d6fae82861f2defee41ac9fadad505b465ffbd864aac69cec767d",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-B047-CRITERIA-01",
+    "reviewed_at": "2026-09-09T17:51:43+07:00"
+  },
+  "reviewed_at": "2026-09-09T17:51:43+07:00",
+  "products": {
+    "custom-golf-area-rug-living-room-mat-51b65f4454": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-golf-area-rug-living-room-mat-51b65f4454: proposed title 'Patriotic Golf Area Rug with Flag and Club Design for Golf Club Decor' and description 'Patriotic golf area rug with American flag, wood grain, golf club and ball artwork, mem...' keep the same product/theme shown in evidence B047-461.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-461",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-mat-51b65f4454.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-golf-area-rug-living-room-mat-51b65f4454: customer copy is limited to visible/product facts such as 'golf rug with American flag colors, wood floor print, golf club and ball, size chart, microf...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-461",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-mat-51b65f4454.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-golf-area-rug-living-room-mat-51b65f4454: primary keyword 'patriotic golf area rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-461",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-mat-51b65f4454.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-golf-area-rug-living-room-mat-51b65f4454: proposed copy targets the same search intent as 'patriotic golf area rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-461",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-mat-51b65f4454.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-golf-area-rug-living-room-mat-51b65f4454: current support is 'Marketplace and retail SERPs support custom golf rugs, 19th Hole golf rugs, golf welcome mat...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-461",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-mat-51b65f4454.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-golf-area-rug-living-room-mat-51b65f4454: title 'Patriotic Golf Area Rug with Flag and Club Design for Golf Club Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-461",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-mat-51b65f4454.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-golf-area-rug-living-room-mat-51b65f4454: meta title 'Patriotic Golf Area Rug with Flag and Club Design for Golf Club Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-461",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-mat-51b65f4454.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-golf-area-rug-living-room-mat-51b65f4454: meta 'Patriotic golf area rug with American flag, wood grain, golf club and ball artwork, memory foam feel and non-sli...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-461",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-mat-51b65f4454.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-golf-area-rug-living-room-mat-51b65f4454: description begins 'Patriotic golf area rug with American flag, wood grain, golf club and ball artwork, memory foam feel and non-sli...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-461",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-mat-51b65f4454.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-golf-area-rug-living-room-mat-51b65f4454: workbook row, evidence id B047-461, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-461",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-mat-51b65f4454.html"
+        ]
+      }
+    },
+    "custom-golf-area-rug-living-room-mat-f6f3c16862": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-golf-area-rug-living-room-mat-f6f3c16862: proposed title 'Personalized Golf Course Rug with Name for Name Golf Decor' and description 'Personalized golf course rug with custom name, green fairway, tee ball, sunset landscap...' keep the same product/theme shown in evidence B047-462.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-462",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-mat-f6f3c16862.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-golf-area-rug-living-room-mat-f6f3c16862: customer copy is limited to visible/product facts such as 'green fairway-style golf rug with Alex name, tee ball, flag, sunset, size chart and microfib...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-462",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-mat-f6f3c16862.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-golf-area-rug-living-room-mat-f6f3c16862: primary keyword 'personalized golf course rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-462",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-mat-f6f3c16862.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-golf-area-rug-living-room-mat-f6f3c16862: proposed copy targets the same search intent as 'personalized golf course rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-462",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-mat-f6f3c16862.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-golf-area-rug-living-room-mat-f6f3c16862: current support is 'Marketplace and retail SERPs support custom golf rugs, 19th Hole golf rugs, golf welcome mat...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-462",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-mat-f6f3c16862.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-golf-area-rug-living-room-mat-f6f3c16862: title 'Personalized Golf Course Rug with Name for Name Golf Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-462",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-mat-f6f3c16862.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-golf-area-rug-living-room-mat-f6f3c16862: meta title 'Personalized Golf Course Rug with Name for Name Golf Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-462",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-mat-f6f3c16862.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-golf-area-rug-living-room-mat-f6f3c16862: meta 'Personalized golf course rug with custom name, green fairway, tee ball, sunset landscape and non-slip backing fo...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-462",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-mat-f6f3c16862.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-golf-area-rug-living-room-mat-f6f3c16862: description begins 'Personalized golf course rug with custom name, green fairway, tee ball, sunset landscape and non-slip backing fo...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-462",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-mat-f6f3c16862.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-golf-area-rug-living-room-mat-f6f3c16862: workbook row, evidence id B047-462, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-462",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-mat-f6f3c16862.html"
+        ]
+      }
+    },
+    "custom-golf-area-rug-fd79165e9f-fd79165e9f": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-golf-area-rug-fd79165e9f-fd79165e9f: proposed title 'Custom Golf Club Rug with Family Name for Family Name Golf Decor' and description 'Custom golf club rug with family name, white layout, putting green and flag pin for liv...' keep the same product/theme shown in evidence B047-463.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-463",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-fd79165e9f-fd79165e9f.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-golf-area-rug-fd79165e9f-fd79165e9f: customer copy is limited to visible/product facts such as 'white personalized golf rug reading The William Golf Club with est year, putting green, red...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-463",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-fd79165e9f-fd79165e9f.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-golf-area-rug-fd79165e9f-fd79165e9f: primary keyword 'custom golf club rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-463",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-fd79165e9f-fd79165e9f.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-golf-area-rug-fd79165e9f-fd79165e9f: proposed copy targets the same search intent as 'custom golf club rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-463",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-fd79165e9f-fd79165e9f.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-golf-area-rug-fd79165e9f-fd79165e9f: current support is 'Marketplace and retail SERPs support custom golf rugs, 19th Hole golf rugs, golf welcome mat...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-463",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-fd79165e9f-fd79165e9f.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-golf-area-rug-fd79165e9f-fd79165e9f: title 'Custom Golf Club Rug with Family Name for Family Name Golf Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-463",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-fd79165e9f-fd79165e9f.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-golf-area-rug-fd79165e9f-fd79165e9f: meta title 'Custom Golf Club Rug with Family Name for Family Name Golf Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-463",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-fd79165e9f-fd79165e9f.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-golf-area-rug-fd79165e9f-fd79165e9f: meta 'Custom golf club rug with family name, white layout, putting green and flag pin for living rooms, offices or gol...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-463",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-fd79165e9f-fd79165e9f.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-golf-area-rug-fd79165e9f-fd79165e9f: description begins 'Custom golf club rug with family name, white layout, putting green and flag pin for living rooms, offices or gol...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-463",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-fd79165e9f-fd79165e9f.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-golf-area-rug-fd79165e9f-fd79165e9f: workbook row, evidence id B047-463, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-463",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-fd79165e9f-fd79165e9f.html"
+        ]
+      }
+    },
+    "custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8: proposed title 'Golf Lover 19th Hole Rug with Custom Name for Green Golf Room Decor' and description 'Golf Lover 19th Hole rug with custom name, green fairway design, flag pin and clubhouse...' keep the same product/theme shown in evidence B047-464.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-464",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8: customer copy is limited to visible/product facts such as 'green rug reading Steven's 19th Hole with phrases unwind relax enjoy, cold stories, cold bee...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-464",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8: primary keyword 'Golf Lover 19th Hole rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-464",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8: proposed copy targets the same search intent as 'Golf Lover 19th Hole rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-464",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8: current support is 'Marketplace and retail SERPs support custom golf rugs, 19th Hole golf rugs, golf welcome mat...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-464",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8: title 'Golf Lover 19th Hole Rug with Custom Name for Green Golf Room Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-464",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8: meta title 'Golf Lover 19th Hole Rug with Custom Name for Green Golf Room Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-464",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8: meta 'Golf Lover 19th Hole rug with custom name, green fairway design, flag pin and clubhouse phrases for indoor golf...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-464",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8: description begins 'Golf Lover 19th Hole rug with custom name, green fairway design, flag pin and clubhouse phrases for indoor golf...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-464",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8: workbook row, evidence id B047-464, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-464",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-golf-area-rug-living-room-decor-d120c386b8-d120c386b8.html"
+        ]
+      }
+    },
+    "custom-mathematics-education-rug-80ab855e16-80ab855e16": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-mathematics-education-rug-80ab855e16-80ab855e16: proposed title 'Custom MATH Acronym Classroom Rug with Name for Math Teacher Decor' and description 'Custom MATH acronym classroom rug with teacher name, colorful chalk-style letters and l...' keep the same product/theme shown in evidence B047-465.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-465",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-education-rug-80ab855e16-80ab855e16.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-mathematics-education-rug-80ab855e16-80ab855e16: customer copy is limited to visible/product facts such as 'black rug reading In This Anna's Classroom We Work to Understand MATH with mistakes, allow,...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-465",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-education-rug-80ab855e16-80ab855e16.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-mathematics-education-rug-80ab855e16-80ab855e16: primary keyword 'custom MATH acronym classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-465",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-education-rug-80ab855e16-80ab855e16.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-mathematics-education-rug-80ab855e16-80ab855e16: proposed copy targets the same search intent as 'custom MATH acronym classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-465",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-education-rug-80ab855e16-80ab855e16.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-mathematics-education-rug-80ab855e16-80ab855e16: current support is 'Marketplace and retail SERPs support custom golf rugs, 19th Hole golf rugs, golf welcome mat...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-465",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-education-rug-80ab855e16-80ab855e16.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-mathematics-education-rug-80ab855e16-80ab855e16: title 'Custom MATH Acronym Classroom Rug with Name for Math Teacher Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-465",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-education-rug-80ab855e16-80ab855e16.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-mathematics-education-rug-80ab855e16-80ab855e16: meta title 'Custom MATH Acronym Classroom Rug with Name for Math Teacher Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-465",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-education-rug-80ab855e16-80ab855e16.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-mathematics-education-rug-80ab855e16-80ab855e16: meta 'Custom MATH acronym classroom rug with teacher name, colorful chalk-style letters and learning prompts for math...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-465",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-education-rug-80ab855e16-80ab855e16.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-mathematics-education-rug-80ab855e16-80ab855e16: description begins 'Custom MATH acronym classroom rug with teacher name, colorful chalk-style letters and learning prompts for math...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-465",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-education-rug-80ab855e16-80ab855e16.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-mathematics-education-rug-80ab855e16-80ab855e16: workbook row, evidence id B047-465, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-465",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-education-rug-80ab855e16-80ab855e16.html"
+        ]
+      }
+    },
+    "custom-mathematics-education-classroom-playroom-rug-0f607da0b3": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-mathematics-education-classroom-playroom-rug-0f607da0b3: proposed title 'Personalized Math Symbols Rug for Classroom for Operation Symbols D...' and description 'Personalized Math Symbols rug with colorful operation icons, black background and playf...' keep the same product/theme shown in evidence B047-466.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-466",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-education-classroom-playroom-rug-0f607da0b3.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-mathematics-education-classroom-playroom-rug-0f607da0b3: customer copy is limited to visible/product facts such as 'black rug with large Math Symbols text and colorful circular icons for pi, equals, division,...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-466",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-education-classroom-playroom-rug-0f607da0b3.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-mathematics-education-classroom-playroom-rug-0f607da0b3: primary keyword 'personalized Math Symbols rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-466",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-education-classroom-playroom-rug-0f607da0b3.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-mathematics-education-classroom-playroom-rug-0f607da0b3: proposed copy targets the same search intent as 'personalized Math Symbols rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-466",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-education-classroom-playroom-rug-0f607da0b3.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-mathematics-education-classroom-playroom-rug-0f607da0b3: current support is 'Marketplace and retail SERPs support custom golf rugs, 19th Hole golf rugs, golf welcome mat...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-466",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-education-classroom-playroom-rug-0f607da0b3.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-mathematics-education-classroom-playroom-rug-0f607da0b3: title 'Personalized Math Symbols Rug for Classroom for Operation Symbols Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-466",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-education-classroom-playroom-rug-0f607da0b3.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-mathematics-education-classroom-playroom-rug-0f607da0b3: meta title 'Personalized Math Symbols Rug for Classroom for Operation Symbols Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-466",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-education-classroom-playroom-rug-0f607da0b3.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-mathematics-education-classroom-playroom-rug-0f607da0b3: meta 'Personalized Math Symbols rug with colorful operation icons, black background and playful learning style for cla...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-466",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-education-classroom-playroom-rug-0f607da0b3.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-mathematics-education-classroom-playroom-rug-0f607da0b3: description begins 'Personalized Math Symbols rug with colorful operation icons, black background and playful learning style for cla...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-466",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-education-classroom-playroom-rug-0f607da0b3.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-mathematics-education-classroom-playroom-rug-0f607da0b3: workbook row, evidence id B047-466, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-466",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-education-classroom-playroom-rug-0f607da0b3.html"
+        ]
+      }
+    },
+    "custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960: proposed title 'Custom Mathlife Classroom Rug with Hashtag Rules for Hashtag Math D...' and description 'Custom Mathlife classroom rug with colorful hashtag rules, black background and math-sy...' keep the same product/theme shown in evidence B047-467.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-467",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960: customer copy is limited to visible/product facts such as 'black rug reading How to Live the #MATHLIFE with prompts like show your work, help each othe...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-467",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960: primary keyword 'custom Mathlife classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-467",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960: proposed copy targets the same search intent as 'custom Mathlife classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-467",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960: current support is 'Marketplace and retail SERPs support custom golf rugs, 19th Hole golf rugs, golf welcome mat...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-467",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960: title 'Custom Mathlife Classroom Rug with Hashtag Rules for Hashtag Math Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-467",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960: meta title 'Custom Mathlife Classroom Rug with Hashtag Rules for Hashtag Math Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-467",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960: meta 'Custom Mathlife classroom rug with colorful hashtag rules, black background and math-symbol border for school or...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-467",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960: description begins 'Custom Mathlife classroom rug with colorful hashtag rules, black background and math-symbol border for school or...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-467",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960: workbook row, evidence id B047-467, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-467",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-classroom-rug-for-school-and-playroom-7ae72f2960.html"
+        ]
+      }
+    },
+    "custom-mathematics-classroom-rug-ec81d3501a": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-mathematics-classroom-rug-ec81d3501a: proposed title 'Personalized Good Day to Do Math Rug for Math Classroom Decor' and description 'Personalized Good Day to Do Math rug with pastel shapes, formulas and chalkboard-style...' keep the same product/theme shown in evidence B047-468.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-468",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-classroom-rug-ec81d3501a.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-mathematics-classroom-rug-ec81d3501a: customer copy is limited to visible/product facts such as 'black rug with It is a good day to do math text, pastel geometry shapes, calculators, formul...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-468",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-classroom-rug-ec81d3501a.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-mathematics-classroom-rug-ec81d3501a: primary keyword 'personalized Good Day to Do Math rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-468",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-classroom-rug-ec81d3501a.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-mathematics-classroom-rug-ec81d3501a: proposed copy targets the same search intent as 'personalized Good Day to Do Math rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-468",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-classroom-rug-ec81d3501a.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-mathematics-classroom-rug-ec81d3501a: current support is 'Marketplace and retail SERPs support custom golf rugs, 19th Hole golf rugs, golf welcome mat...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-468",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-classroom-rug-ec81d3501a.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-mathematics-classroom-rug-ec81d3501a: title 'Personalized Good Day to Do Math Rug for Math Classroom Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-468",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-classroom-rug-ec81d3501a.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-mathematics-classroom-rug-ec81d3501a: meta title 'Personalized Good Day to Do Math Rug for Math Classroom Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-468",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-classroom-rug-ec81d3501a.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-mathematics-classroom-rug-ec81d3501a: meta 'Personalized Good Day to Do Math rug with pastel shapes, formulas and chalkboard-style icons for classroom or pl...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-468",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-classroom-rug-ec81d3501a.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-mathematics-classroom-rug-ec81d3501a: description begins 'Personalized Good Day to Do Math rug with pastel shapes, formulas and chalkboard-style icons for classroom or pl...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-468",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-classroom-rug-ec81d3501a.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-mathematics-classroom-rug-ec81d3501a: workbook row, evidence id B047-468, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-468",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-mathematics-classroom-rug-ec81d3501a.html"
+        ]
+      }
+    },
+    "custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95: proposed title 'Custom Why Math Classroom Rug with Teacher Name for Math Education...' and description 'Custom Why Math classroom rug with teacher name, colorful concept blocks and problem-so...' keep the same product/theme shown in evidence B047-469.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-469",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95: customer copy is limited to visible/product facts such as 'black rug reading Why Math? with blocks explaining perseverance, visual numbers, deeper thin...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-469",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95: primary keyword 'custom Why Math classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-469",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95: proposed copy targets the same search intent as 'custom Why Math classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-469",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95: current support is 'Marketplace and retail SERPs support custom golf rugs, 19th Hole golf rugs, golf welcome mat...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-469",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95: title 'Custom Why Math Classroom Rug with Teacher Name for Math Education Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-469",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95: meta title 'Custom Why Math Classroom Rug with Teacher Name for Math Education Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-469",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95: meta 'Custom Why Math classroom rug with teacher name, colorful concept blocks and problem-solving prompts for classro...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-469",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95: description begins 'Custom Why Math classroom rug with teacher name, colorful concept blocks and problem-solving prompts for classro...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-469",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95: workbook row, evidence id B047-469, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-469",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-math-education-welcome-mat-for-classroom-and-school-f81e324d95-f81e324d95.html"
+        ]
+      }
+    },
+    "custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02: proposed title 'Personalized Math Key Words Classroom Rug for Operations Learning D...' and description 'Personalized Math Key Words classroom rug with operation vocabulary for addition, subtr...' keep the same product/theme shown in evidence B047-470.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-470",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02: customer copy is limited to visible/product facts such as 'cream rug reading Math key words with colored operation boxes for addition, subtraction, mul...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-470",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02: primary keyword 'personalized Math Key Words rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-470",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02: proposed copy targets the same search intent as 'personalized Math Key Words rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-470",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02: current support is 'Marketplace and retail SERPs support custom golf rugs, 19th Hole golf rugs, golf welcome mat...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-470",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02: title 'Personalized Math Key Words Classroom Rug for Operations Learning Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-470",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02: meta title 'Personalized Math Key Words Classroom Rug for Operations Learning Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-470",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02: meta 'Personalized Math Key Words classroom rug with operation vocabulary for addition, subtraction, multiplication an...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-470",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02: description begins 'Personalized Math Key Words classroom rug with operation vocabulary for addition, subtraction, multiplication an...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-470",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02: workbook row, evidence id B047-470, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B047/SEO_Product_Optimization_longtitle_B047_R1.xlsx",
+          "product_evidence:B047-470",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B047_pages/custom-math-education-rug-for-playroom-and-classroom-d0ac821f02-d0ac821f02.html"
+        ]
+      }
+    }
+  }
+}

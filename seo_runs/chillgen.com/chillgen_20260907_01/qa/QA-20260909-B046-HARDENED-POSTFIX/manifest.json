@@ -1,0 +1,47 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "rubric_hash": "caeacb83a45638bcffc03ce1d2daf1fc9e915f417ada6b66eb706284283ea96c",
+  "qa_run_id": "QA-20260909-B046-HARDENED-POSTFIX",
+  "qa_batch_id": "REV_B046",
+  "batch_id": "B046",
+  "revision_id": "B046",
+  "parent_run_id": "QA-20260909-B046-HARDENED-CLEAN",
+  "source_workbook": "resutls/chillgen.com/chillgen_20260907_01/revisions/B046/SEO_Product_Optimization_revision_B046.xlsx",
+  "source_workbook_sha256": "ad3e8d8d434db6c0f9bb0dec4d7a73ab8518ff8ce688e7f3a7718e8b55119077",
+  "scope_hash": "1daa6a3638226c7987a23241c64b25a357e330d59b7d1786f2209718620f8079",
+  "batch_product_keys": [
+    "personalized-patriotic-hunting-doormat-ee02618b87",
+    "personalized-hunting-welcome-mat-with-custom-family-name-bcc03694c3-bcc03694c3",
+    "personalized-hunting-doormat-custom-family-name-6e74ed97c6",
+    "personalized-hunting-doormat-custom-family-name-flag-67dd3817f2-67dd3817f2",
+    "personalized-hunting-doormat-custom-family-name-d3fa485b6b-d3fa485b6b",
+    "custom-golf-area-rug-living-room-mat-566b4cb491-566b4cb491",
+    "custom-golf-welcome-mat-7fa10153d4-7fa10153d4",
+    "custom-golf-area-rug-living-room-mat-91136ada2c-91136ada2c",
+    "custom-golf-area-rug-living-room-mat-39dea6cb42",
+    "custom-golf-welcome-mat-front-door-5bd40453c1-5bd40453c1"
+  ],
+  "status_counts": {
+    "QA_PASS": 10,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "issue_counts": {
+    "CRITICAL": 0,
+    "MAJOR": 0,
+    "MINOR": 0,
+    "LIMITATION": 20
+  },
+  "batch_status": "QA_PASS",
+  "content_qa_status": "QA_PASS",
+  "evidence_maturity": "SERP_ONLY",
+  "canonical": true,
+  "supersedes": [
+    "QA-20260909-B046-HARDENED-CLEAN"
+  ],
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/reviewer/B046_reviewer_evidence_fullres.json",
+  "manual_criteria_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/reviewer/B046_criteria_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED",
+  "created_at": "2026-09-09T16:44:15+07:00"
+}

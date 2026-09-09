@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "B052",
+  "batch_id": "B052",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+  "source_workbook_sha256": "0dfb8bc591b1ff3df452e900f89f77f272162b4378d8a40861c335fea38d6c65",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-B052-CRITERIA-01",
+    "reviewed_at": "2026-09-09T17:51:41+07:00"
+  },
+  "reviewed_at": "2026-09-09T17:51:41+07:00",
+  "products": {
+    "custom-japanese-koi-fish-shaped-area-rug-940fcac253": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-japanese-koi-fish-shaped-area-rug-940fcac253: proposed title 'Japanese Koi Pond Shaped Area Rug for Koi Fish Decor' and description 'Japanese koi pond shaped rug with lily pad border, dark teal water artwork, soft velvet...' keep the same product/theme shown in evidence B052-511.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-511",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-940fcac253.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-japanese-koi-fish-shaped-area-rug-940fcac253: customer copy is limited to visible/product facts such as 'round pond design with dark teal water, several orange koi fish and dense green lily pad bor...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-511",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-940fcac253.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-japanese-koi-fish-shaped-area-rug-940fcac253: primary keyword 'Japanese koi pond rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-511",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-940fcac253.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-japanese-koi-fish-shaped-area-rug-940fcac253: proposed copy targets the same search intent as 'Japanese koi pond rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-511",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-940fcac253.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-japanese-koi-fish-shaped-area-rug-940fcac253: current support is 'Use visual-specific long tails: koi pond shaped rug, Japanese koi fish area rug, lotus koi r...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-511",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-940fcac253.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-japanese-koi-fish-shaped-area-rug-940fcac253: title 'Japanese Koi Pond Shaped Area Rug for Koi Fish Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-511",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-940fcac253.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-japanese-koi-fish-shaped-area-rug-940fcac253: meta title 'Japanese Koi Pond Shaped Area Rug for Koi Fish Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-511",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-940fcac253.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-japanese-koi-fish-shaped-area-rug-940fcac253: meta 'Japanese koi pond shaped rug with lily pad border, dark teal water artwork, soft velvet surface and anti slip ba...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-511",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-940fcac253.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-japanese-koi-fish-shaped-area-rug-940fcac253: description begins 'Japanese koi pond shaped rug with lily pad border, dark teal water artwork, soft velvet surface and anti slip ba...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-511",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-940fcac253.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-japanese-koi-fish-shaped-area-rug-940fcac253: workbook row, evidence id B052-511, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-511",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-940fcac253.html"
+        ]
+      }
+    },
+    "custom-japanese-koi-fish-shaped-area-rug-925e5d0767": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-japanese-koi-fish-shaped-area-rug-925e5d0767: proposed title 'Koi Pond Stepping Stone Area Rug for Japanese Koi Fish Decor' and description 'Koi pond stepping stone area rug with orange fish, moss green stones, soft velvet surfa...' keep the same product/theme shown in evidence B052-512.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-512",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-925e5d0767.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-japanese-koi-fish-shaped-area-rug-925e5d0767: customer copy is limited to visible/product facts such as 'oval irregular rug shows orange koi swimming between moss green stepping stones over dark wa...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-512",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-925e5d0767.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-japanese-koi-fish-shaped-area-rug-925e5d0767: primary keyword 'koi pond area rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-512",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-925e5d0767.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-japanese-koi-fish-shaped-area-rug-925e5d0767: proposed copy targets the same search intent as 'koi pond area rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-512",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-925e5d0767.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-japanese-koi-fish-shaped-area-rug-925e5d0767: current support is 'Use visual-specific long tails: koi pond shaped rug, Japanese koi fish area rug, lotus koi r...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-512",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-925e5d0767.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-japanese-koi-fish-shaped-area-rug-925e5d0767: title 'Koi Pond Stepping Stone Area Rug for Japanese Koi Fish Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-512",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-925e5d0767.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-japanese-koi-fish-shaped-area-rug-925e5d0767: meta title 'Koi Pond Stepping Stone Area Rug for Japanese Koi Fish Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-512",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-925e5d0767.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-japanese-koi-fish-shaped-area-rug-925e5d0767: meta 'Koi pond stepping stone area rug with orange fish, moss green stones, soft velvet surface and non slip backing.' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-512",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-925e5d0767.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-japanese-koi-fish-shaped-area-rug-925e5d0767: description begins 'Koi pond stepping stone area rug with orange fish, moss green stones, soft velvet surface and non slip backing....' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-512",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-925e5d0767.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-japanese-koi-fish-shaped-area-rug-925e5d0767: workbook row, evidence id B052-512, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-512",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-925e5d0767.html"
+        ]
+      }
+    },
+    "custom-koi-fish-shaped-area-rug-027c867fc1": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-koi-fish-shaped-area-rug-027c867fc1: proposed title 'Pink Lotus Koi Fish Shaped Rug for Lotus Pond Decor' and description 'Pink lotus koi fish shaped rug with soft pond artwork, lily pads, green border, velvet...' keep the same product/theme shown in evidence B052-513.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-513",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-koi-fish-shaped-area-rug-027c867fc1.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-koi-fish-shaped-area-rug-027c867fc1: customer copy is limited to visible/product facts such as 'irregular rug uses pink pond background, pale koi fish, lotus flowers, lily pads and green b...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-513",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-koi-fish-shaped-area-rug-027c867fc1.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-koi-fish-shaped-area-rug-027c867fc1: primary keyword 'pink lotus koi rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-513",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-koi-fish-shaped-area-rug-027c867fc1.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-koi-fish-shaped-area-rug-027c867fc1: proposed copy targets the same search intent as 'pink lotus koi rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-513",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-koi-fish-shaped-area-rug-027c867fc1.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-koi-fish-shaped-area-rug-027c867fc1: current support is 'Use visual-specific long tails: koi pond shaped rug, Japanese koi fish area rug, lotus koi r...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-513",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-koi-fish-shaped-area-rug-027c867fc1.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-koi-fish-shaped-area-rug-027c867fc1: title 'Pink Lotus Koi Fish Shaped Rug for Lotus Pond Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-513",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-koi-fish-shaped-area-rug-027c867fc1.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-koi-fish-shaped-area-rug-027c867fc1: meta title 'Pink Lotus Koi Fish Shaped Rug for Lotus Pond Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-513",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-koi-fish-shaped-area-rug-027c867fc1.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-koi-fish-shaped-area-rug-027c867fc1: meta 'Pink lotus koi fish shaped rug with soft pond artwork, lily pads, green border, velvet surface and anti slip bac...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-513",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-koi-fish-shaped-area-rug-027c867fc1.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-koi-fish-shaped-area-rug-027c867fc1: description begins 'Pink lotus koi fish shaped rug with soft pond artwork, lily pads, green border, velvet surface and anti slip bac...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-513",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-koi-fish-shaped-area-rug-027c867fc1.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-koi-fish-shaped-area-rug-027c867fc1: workbook row, evidence id B052-513, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-513",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-koi-fish-shaped-area-rug-027c867fc1.html"
+        ]
+      }
+    },
+    "custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a: proposed title 'Japanese Garden Koi Fish Shaped Rug for Lily Pad Pond Decor' and description 'Japanese garden koi fish shaped rug with winding pond artwork, lily pads, soft velvet s...' keep the same product/theme shown in evidence B052-514.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-514",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a: customer copy is limited to visible/product facts such as 'rounded green rug has swirling white pond paths, lily pads, stones and orange koi fish in th...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-514",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a: primary keyword 'Japanese garden koi rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-514",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a: proposed copy targets the same search intent as 'Japanese garden koi rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-514",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a: current support is 'Use visual-specific long tails: koi pond shaped rug, Japanese koi fish area rug, lotus koi r...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-514",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a: title 'Japanese Garden Koi Fish Shaped Rug for Lily Pad Pond Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-514",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a: meta title 'Japanese Garden Koi Fish Shaped Rug for Lily Pad Pond Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-514",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a: meta 'Japanese garden koi fish shaped rug with winding pond artwork, lily pads, soft velvet surface and anti slip back...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-514",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a: description begins 'Japanese garden koi fish shaped rug with winding pond artwork, lily pads, soft velvet surface and anti slip back...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-514",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a: workbook row, evidence id B052-514, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-514",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-aa33e1b43a.html"
+        ]
+      }
+    },
+    "custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66: proposed title 'Zen Koi Pond Shaped Area Rug for Japanese Koi Fish Decor' and description 'Zen koi pond shaped rug with blue water, sand garden lines, rocks, greenery, soft velve...' keep the same product/theme shown in evidence B052-515.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-515",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66: customer copy is limited to visible/product facts such as 'irregular rug combines beige raked-sand pattern, blue pond water, koi fish, rocks and green...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-515",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66: primary keyword 'zen koi pond rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-515",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66: proposed copy targets the same search intent as 'zen koi pond rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-515",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66: current support is 'Use visual-specific long tails: koi pond shaped rug, Japanese koi fish area rug, lotus koi r...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-515",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66: title 'Zen Koi Pond Shaped Area Rug for Japanese Koi Fish Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-515",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66: meta title 'Zen Koi Pond Shaped Area Rug for Japanese Koi Fish Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-515",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66: meta 'Zen koi pond shaped rug with blue water, sand garden lines, rocks, greenery, soft velvet surface and anti slip b...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-515",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66: description begins 'Zen koi pond shaped rug with blue water, sand garden lines, rocks, greenery, soft velvet surface and anti slip b...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-515",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66: workbook row, evidence id B052-515, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-515",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-japanese-koi-fish-shaped-area-rug-3e3d07aa66.html"
+        ]
+      }
+    },
+    "custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a: proposed title 'Notebook Classroom Welcome Mat with Teacher Name for Back To School...' and description 'Notebook classroom welcome mat with custom teacher name, composition speckle border, co...' keep the same product/theme shown in evidence B052-516.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-516",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a: customer copy is limited to visible/product facts such as 'black speckled composition notebook-style mat reads Welcome To Mrs. Smith's classroom with c...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-516",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a: primary keyword 'notebook classroom welcome mat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-516",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a: proposed copy targets the same search intent as 'notebook classroom welcome mat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-516",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a: current support is 'Use visual-specific long tails: koi pond shaped rug, Japanese koi fish area rug, lotus koi r...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-516",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a: title 'Notebook Classroom Welcome Mat with Teacher Name for Back To School Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-516",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a: meta title 'Notebook Classroom Welcome Mat with Teacher Name for Back To School Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-516",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a: meta 'Notebook classroom welcome mat with custom teacher name, composition speckle border, colorful letters and non sl...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-516",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a: description begins 'Notebook classroom welcome mat with custom teacher name, composition speckle border, colorful letters and non sl...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-516",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a: workbook row, evidence id B052-516, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-516",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/custom-notebook-welcome-mat-for-classroom-and-back-to-school-083d60a52a.html"
+        ]
+      }
+    },
+    "personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be: proposed title 'Chibi 2nd Grade Classroom Welcome Mat for 2nd Grade Teacher Decor' and description 'Chibi classroom welcome mat for 2nd grade with cute school supply characters, bright bo...' keep the same product/theme shown in evidence B052-517.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-517",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be: customer copy is limited to visible/product facts such as 'bright turquoise and pink mat reads Welcome to 2nd Grade with cute crayon, pencil and paper...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-517",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be: primary keyword 'chibi classroom welcome mat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-517",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be: proposed copy targets the same search intent as 'chibi classroom welcome mat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-517",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be: current support is 'Use visual-specific long tails: koi pond shaped rug, Japanese koi fish area rug, lotus koi r...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-517",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be: title 'Chibi 2nd Grade Classroom Welcome Mat for 2nd Grade Teacher Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-517",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be: meta title 'Chibi 2nd Grade Classroom Welcome Mat for 2nd Grade Teacher Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-517",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be: meta 'Chibi classroom welcome mat for 2nd grade with cute school supply characters, bright border, easy clean surface...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-517",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be: description begins 'Chibi classroom welcome mat for 2nd grade with cute school supply characters, bright border, easy clean surface...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-517",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be: workbook row, evidence id B052-517, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-517",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-welcome-mat-custom-teacher-name-chibi-design-40e329a6be.html"
+        ]
+      }
+    },
+    "personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63: proposed title 'Personalized Teacher Classroom Welcome Mat for Teacher Name Decor' and description 'Personalized teacher classroom mat with Mrs. Brown name, ruler and school doodles, easy...' keep the same product/theme shown in evidence B052-518.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-518",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63: customer copy is limited to visible/product facts such as 'white graph-paper style mat reads Mrs. Brown's Classroom with ruler, apple, pencil, paper ai...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-518",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63: primary keyword 'personalized teacher classroom mat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-518",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63: proposed copy targets the same search intent as 'personalized teacher classroom mat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-518",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63: current support is 'Use visual-specific long tails: koi pond shaped rug, Japanese koi fish area rug, lotus koi r...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-518",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63: title 'Personalized Teacher Classroom Welcome Mat for Teacher Name Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-518",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63: meta title 'Personalized Teacher Classroom Welcome Mat for Teacher Name Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-518",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63: meta 'Personalized teacher classroom mat with Mrs. Brown name, ruler and school doodles, easy clean surface and non sl...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-518",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63: description begins 'Personalized teacher classroom mat with Mrs. Brown name, ruler and school doodles, easy clean surface and non sl...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-518",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63: workbook row, evidence id B052-518, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-518",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-welcome-mat-for-classroom-and-school-decor-524e2c0f63.html"
+        ]
+      }
+    },
+    "personalized-teacher-classroom-doormat-20d4a8ff55": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teacher-classroom-doormat-20d4a8ff55: proposed title 'Orange Personalized Teacher Classroom Doormat for Mrs Smith Classro...' and description 'Orange personalized teacher classroom doormat with Mrs. Smith name, school icons, soft...' keep the same product/theme shown in evidence B052-519.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-519",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-classroom-doormat-20d4a8ff55.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teacher-classroom-doormat-20d4a8ff55: customer copy is limited to visible/product facts such as 'orange grid mat reads Mrs. Smith with apple, pencils, flowers, paper airplane and lightning...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-519",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-classroom-doormat-20d4a8ff55.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teacher-classroom-doormat-20d4a8ff55: primary keyword 'personalized teacher classroom doormat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-519",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-classroom-doormat-20d4a8ff55.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teacher-classroom-doormat-20d4a8ff55: proposed copy targets the same search intent as 'personalized teacher classroom doormat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-519",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-classroom-doormat-20d4a8ff55.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teacher-classroom-doormat-20d4a8ff55: current support is 'Use visual-specific long tails: koi pond shaped rug, Japanese koi fish area rug, lotus koi r...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-519",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-classroom-doormat-20d4a8ff55.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teacher-classroom-doormat-20d4a8ff55: title 'Orange Personalized Teacher Classroom Doormat for Mrs Smith Classroom Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-519",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-classroom-doormat-20d4a8ff55.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teacher-classroom-doormat-20d4a8ff55: meta title 'Orange Personalized Teacher Classroom Doormat for Mrs Smith Classroom Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-519",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-classroom-doormat-20d4a8ff55.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teacher-classroom-doormat-20d4a8ff55: meta 'Orange personalized teacher classroom doormat with Mrs. Smith name, school icons, soft low pile surface and non...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-519",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-classroom-doormat-20d4a8ff55.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teacher-classroom-doormat-20d4a8ff55: description begins 'Orange personalized teacher classroom doormat with Mrs. Smith name, school icons, soft low pile surface and non...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-519",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-classroom-doormat-20d4a8ff55.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teacher-classroom-doormat-20d4a8ff55: workbook row, evidence id B052-519, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-519",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-classroom-doormat-20d4a8ff55.html"
+        ]
+      }
+    },
+    "personalized-teacher-classroom-doormat-98fd058bd0": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teacher-classroom-doormat-98fd058bd0: proposed title 'Music Teacher Personalized Classroom Doormat for Teacher Name Decor' and description 'Music teacher personalized classroom doormat with rainbow piano keys, music notes, cust...' keep the same product/theme shown in evidence B052-520.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-520",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-classroom-doormat-98fd058bd0.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teacher-classroom-doormat-98fd058bd0: customer copy is limited to visible/product facts such as 'black mat shows rainbow piano keys, music notes and large custom teacher name Mrs. Aisha; HT...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-520",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-classroom-doormat-98fd058bd0.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teacher-classroom-doormat-98fd058bd0: primary keyword 'music teacher classroom doormat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-520",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-classroom-doormat-98fd058bd0.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teacher-classroom-doormat-98fd058bd0: proposed copy targets the same search intent as 'music teacher classroom doormat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-520",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-classroom-doormat-98fd058bd0.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teacher-classroom-doormat-98fd058bd0: current support is 'Use visual-specific long tails: koi pond shaped rug, Japanese koi fish area rug, lotus koi r...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-520",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-classroom-doormat-98fd058bd0.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teacher-classroom-doormat-98fd058bd0: title 'Music Teacher Personalized Classroom Doormat for Teacher Name Decor' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-520",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-classroom-doormat-98fd058bd0.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teacher-classroom-doormat-98fd058bd0: meta title 'Music Teacher Personalized Classroom Doormat for Teacher Name Decor' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-520",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-classroom-doormat-98fd058bd0.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teacher-classroom-doormat-98fd058bd0: meta 'Music teacher personalized classroom doormat with rainbow piano keys, music notes, custom name and non slip rubb...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-520",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-classroom-doormat-98fd058bd0.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teacher-classroom-doormat-98fd058bd0: description begins 'Music teacher personalized classroom doormat with rainbow piano keys, music notes, custom name and non slip rubb...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-520",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-classroom-doormat-98fd058bd0.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teacher-classroom-doormat-98fd058bd0: workbook row, evidence id B052-520, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:/Users/buiquanghuy/Documents/seo_chillgen/resutls/chillgen.com/chillgen_20260907_01/revisions_longtitle/B052/SEO_Product_Optimization_longtitle_B052_R1.xlsx",
+          "product_evidence:B052-520",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B052_pages/personalized-teacher-classroom-doormat-98fd058bd0.html"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "B039",
+  "batch_id": "B039",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+  "source_workbook_sha256": "90995c0e9652d1e563b80cb5b66602808c7037d93f3283d2260b60e6ca4f712b",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-B039-CRITERIA-01",
+    "reviewed_at": "2026-09-09T17:15:15+07:00"
+  },
+  "reviewed_at": "2026-09-09T17:15:15+07:00",
+  "products": {
+    "custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf: proposed title 'Black Emotion Classroom Rug' and description 'Use a black emotion classroom rug with I Feel/I Can prompts, colorful feeling faces, si...' keep the same product/theme shown in evidence B039-381.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-381",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf: customer copy is limited to visible/product facts such as 'black classroom rug with I Feel and I Can sections, colorful emotion faces and coping-skill...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-381",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf: primary keyword 'black emotion classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-381",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf: proposed copy targets the same search intent as 'black emotion classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-381",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf: current support is 'Marketplace and retail SERPs support composition notebook classroom rugs, personalized teach...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-381",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf: title 'Black Emotion Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-381",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf: meta title 'Black Emotion Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-381",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf: meta 'Use a black emotion classroom rug with I Feel/I Can prompts, colorful feeling faces, size options, washable care...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-381",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf: description begins 'Use a black emotion classroom rug with I Feel/I Can prompts, colorful feeling faces, size options, washable care...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-381",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf: workbook row, evidence id B039-381, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-381",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-kids-rug-4e7e4d40cf-4e7e4d40cf.html"
+        ]
+      }
+    },
+    "custom-composition-notebook-classroom-rug-for-kids-64af3c74f1": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-composition-notebook-classroom-rug-for-kids-64af3c74f1: proposed title 'First Grade Writing Classroom Rug' and description 'Personalize a first grade writing classroom rug with teacher name, rainbow, pencil, wri...' keep the same product/theme shown in evidence B039-382.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-382",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-64af3c74f1.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-composition-notebook-classroom-rug-for-kids-64af3c74f1: customer copy is limited to visible/product facts such as 'black and white doodle classroom rug reading Welcome To Mrs. Brown's 1st Grade Class with ra...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-382",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-64af3c74f1.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-composition-notebook-classroom-rug-for-kids-64af3c74f1: primary keyword 'first grade writing classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-382",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-64af3c74f1.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-composition-notebook-classroom-rug-for-kids-64af3c74f1: proposed copy targets the same search intent as 'first grade writing classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-382",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-64af3c74f1.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-composition-notebook-classroom-rug-for-kids-64af3c74f1: current support is 'Marketplace and retail SERPs support composition notebook classroom rugs, personalized teach...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-382",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-64af3c74f1.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-composition-notebook-classroom-rug-for-kids-64af3c74f1: title 'First Grade Writing Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-382",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-64af3c74f1.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-composition-notebook-classroom-rug-for-kids-64af3c74f1: meta title 'First Grade Writing Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-382",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-64af3c74f1.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-composition-notebook-classroom-rug-for-kids-64af3c74f1: meta 'Personalize a first grade writing classroom rug with teacher name, rainbow, pencil, write badge, size chart and...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-382",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-64af3c74f1.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-composition-notebook-classroom-rug-for-kids-64af3c74f1: description begins 'Personalize a first grade writing classroom rug with teacher name, rainbow, pencil, write badge, size chart and...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-382",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-64af3c74f1.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-composition-notebook-classroom-rug-for-kids-64af3c74f1: workbook row, evidence id B039-382, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-382",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-64af3c74f1.html"
+        ]
+      }
+    },
+    "custom-composition-notebook-classroom-rugs-for-kids-88021773b3": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-composition-notebook-classroom-rugs-for-kids-88021773b3: proposed title 'Crayon Affirmation Classroom Rug' and description 'Customize a crayon affirmation classroom rug with teacher name, colorful crayons, You A...' keep the same product/theme shown in evidence B039-383.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-383",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rugs-for-kids-88021773b3.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-composition-notebook-classroom-rugs-for-kids-88021773b3: customer copy is limited to visible/product facts such as 'black classroom rug reading In This Classroom You Are with rainbow crayons, affirmation word...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-383",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rugs-for-kids-88021773b3.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-composition-notebook-classroom-rugs-for-kids-88021773b3: primary keyword 'crayon affirmation classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-383",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rugs-for-kids-88021773b3.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-composition-notebook-classroom-rugs-for-kids-88021773b3: proposed copy targets the same search intent as 'crayon affirmation classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-383",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rugs-for-kids-88021773b3.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-composition-notebook-classroom-rugs-for-kids-88021773b3: current support is 'Marketplace and retail SERPs support composition notebook classroom rugs, personalized teach...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-383",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rugs-for-kids-88021773b3.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-composition-notebook-classroom-rugs-for-kids-88021773b3: title 'Crayon Affirmation Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-383",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rugs-for-kids-88021773b3.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-composition-notebook-classroom-rugs-for-kids-88021773b3: meta title 'Crayon Affirmation Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-383",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rugs-for-kids-88021773b3.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-composition-notebook-classroom-rugs-for-kids-88021773b3: meta 'Customize a crayon affirmation classroom rug with teacher name, colorful crayons, You Are message and learning-p...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-383",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rugs-for-kids-88021773b3.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-composition-notebook-classroom-rugs-for-kids-88021773b3: description begins 'Customize a crayon affirmation classroom rug with teacher name, colorful crayons, You Are message and learning-p...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-383",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rugs-for-kids-88021773b3.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-composition-notebook-classroom-rugs-for-kids-88021773b3: workbook row, evidence id B039-383, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-383",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rugs-for-kids-88021773b3.html"
+        ]
+      }
+    },
+    "custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848: proposed title 'Pink Class Identity Rug' and description 'Personalize a pink class identity rug with teacher name, I Am prompt, school doodles, c...' keep the same product/theme shown in evidence B039-384.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-384",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848: customer copy is limited to visible/product facts such as 'pink classroom rug reading Mrs. Brown's Class and I Am with school doodles, rainbow, pencils...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-384",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848: primary keyword 'pink class identity rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-384",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848: proposed copy targets the same search intent as 'pink class identity rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-384",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848: current support is 'Marketplace and retail SERPs support composition notebook classroom rugs, personalized teach...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-384",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848: title 'Pink Class Identity Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-384",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848: meta title 'Pink Class Identity Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-384",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848: meta 'Personalize a pink class identity rug with teacher name, I Am prompt, school doodles, classroom scenes and bound...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-384",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848: description begins 'Personalize a pink class identity rug with teacher name, I Am prompt, school doodles, classroom scenes and bound...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-384",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848: workbook row, evidence id B039-384, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-384",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-d5b3be8848-d5b3be8848.html"
+        ]
+      }
+    },
+    "custom-composition-notebook-classroom-rug-for-kids-95c57fb741": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-composition-notebook-classroom-rug-for-kids-95c57fb741: proposed title 'Pencil Notebook Classroom Rug' and description 'Personalize a pencil notebook classroom rug with teacher name, lined paper, ABC graphic...' keep the same product/theme shown in evidence B039-385.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-385",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-95c57fb741.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-composition-notebook-classroom-rug-for-kids-95c57fb741: customer copy is limited to visible/product facts such as 'lined composition notebook style rug with pink spine, Composition Book label, Mrs. Brown nam...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-385",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-95c57fb741.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-composition-notebook-classroom-rug-for-kids-95c57fb741: primary keyword 'pencil notebook classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-385",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-95c57fb741.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-composition-notebook-classroom-rug-for-kids-95c57fb741: proposed copy targets the same search intent as 'pencil notebook classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-385",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-95c57fb741.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-composition-notebook-classroom-rug-for-kids-95c57fb741: current support is 'Marketplace and retail SERPs support composition notebook classroom rugs, personalized teach...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-385",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-95c57fb741.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-composition-notebook-classroom-rug-for-kids-95c57fb741: title 'Pencil Notebook Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-385",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-95c57fb741.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-composition-notebook-classroom-rug-for-kids-95c57fb741: meta title 'Pencil Notebook Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-385",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-95c57fb741.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-composition-notebook-classroom-rug-for-kids-95c57fb741: meta 'Personalize a pencil notebook classroom rug with teacher name, lined paper, ABC graphics, apple books and classr...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-385",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-95c57fb741.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-composition-notebook-classroom-rug-for-kids-95c57fb741: description begins 'Personalize a pencil notebook classroom rug with teacher name, lined paper, ABC graphics, apple books and classr...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-385",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-95c57fb741.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-composition-notebook-classroom-rug-for-kids-95c57fb741: workbook row, evidence id B039-385, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-385",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-95c57fb741.html"
+        ]
+      }
+    },
+    "custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7: proposed title 'Piano Teacher Classroom Rug' and description 'Customize a piano teacher classroom rug with teacher name, colorful keyboard, music not...' keep the same product/theme shown in evidence B039-386.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-386",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7: customer copy is limited to visible/product facts such as 'black music-themed classroom rug with colorful piano keyboard, music notes, stars and Mrs. A...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-386",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7: primary keyword 'piano teacher classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-386",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7: proposed copy targets the same search intent as 'piano teacher classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-386",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7: current support is 'Marketplace and retail SERPs support composition notebook classroom rugs, personalized teach...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-386",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7: title 'Piano Teacher Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-386",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7: meta title 'Piano Teacher Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-386",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7: meta 'Customize a piano teacher classroom rug with teacher name, colorful keyboard, music notes and classroom playroom...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-386",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7: description begins 'Customize a piano teacher classroom rug with teacher name, colorful keyboard, music notes and classroom playroom...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-386",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7: workbook row, evidence id B039-386, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-386",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-592c6d1fa7.html"
+        ]
+      }
+    },
+    "custom-composition-notebook-classroom-rug-kids-f215fce7cb": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-composition-notebook-classroom-rug-kids-f215fce7cb: proposed title 'Pink Doodle Teacher Rug' and description 'Personalize a pink doodle teacher rug with Mrs. Smith name, apple, daisies, pencils, st...' keep the same product/theme shown in evidence B039-387.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-387",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-kids-f215fce7cb.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-composition-notebook-classroom-rug-kids-f215fce7cb: customer copy is limited to visible/product facts such as 'pink and peach classroom rug with large Mrs. Smith name, apple, daisies, pencils, paper plan...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-387",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-kids-f215fce7cb.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-composition-notebook-classroom-rug-kids-f215fce7cb: primary keyword 'pink doodle teacher rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-387",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-kids-f215fce7cb.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-composition-notebook-classroom-rug-kids-f215fce7cb: proposed copy targets the same search intent as 'pink doodle teacher rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-387",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-kids-f215fce7cb.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-composition-notebook-classroom-rug-kids-f215fce7cb: current support is 'Marketplace and retail SERPs support composition notebook classroom rugs, personalized teach...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-387",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-kids-f215fce7cb.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-composition-notebook-classroom-rug-kids-f215fce7cb: title 'Pink Doodle Teacher Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-387",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-kids-f215fce7cb.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-composition-notebook-classroom-rug-kids-f215fce7cb: meta title 'Pink Doodle Teacher Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-387",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-kids-f215fce7cb.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-composition-notebook-classroom-rug-kids-f215fce7cb: meta 'Personalize a pink doodle teacher rug with Mrs. Smith name, apple, daisies, pencils, stars and classroom scenes.' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-387",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-kids-f215fce7cb.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-composition-notebook-classroom-rug-kids-f215fce7cb: description begins 'Personalize a pink doodle teacher rug with Mrs. Smith name, apple, daisies, pencils, stars and classroom scenes....' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-387",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-kids-f215fce7cb.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-composition-notebook-classroom-rug-kids-f215fce7cb: workbook row, evidence id B039-387, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-387",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-kids-f215fce7cb.html"
+        ]
+      }
+    },
+    "custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3: proposed title 'Crayon Bow Notebook Rug' and description 'Customize a crayon bow notebook rug with teacher name, lined paper, crayon border, penc...' keep the same product/theme shown in evidence B039-388.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-388",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3: customer copy is limited to visible/product facts such as 'white lined-paper classroom rug with crayon border, pink and yellow pencil bow with apple ce...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-388",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3: primary keyword 'crayon bow notebook rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-388",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3: proposed copy targets the same search intent as 'crayon bow notebook rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-388",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3: current support is 'Marketplace and retail SERPs support composition notebook classroom rugs, personalized teach...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-388",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3: title 'Crayon Bow Notebook Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-388",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3: meta title 'Crayon Bow Notebook Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-388",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3: meta 'Customize a crayon bow notebook rug with teacher name, lined paper, crayon border, pencil bow, apple and classro...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-388",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3: description begins 'Customize a crayon bow notebook rug with teacher name, lined paper, crayon border, pencil bow, apple and classro...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-388",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3: workbook row, evidence id B039-388, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-388",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-kids-850c621ca3-850c621ca3.html"
+        ]
+      }
+    },
+    "custom-composition-notebook-classroom-rug-for-kids-8106743a5b": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-composition-notebook-classroom-rug-for-kids-8106743a5b: proposed title 'Science Notebook Classroom Rug' and description 'Personalize a science notebook classroom rug with teacher name, black-and-white composi...' keep the same product/theme shown in evidence B039-389.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-389",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-8106743a5b.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-composition-notebook-classroom-rug-for-kids-8106743a5b: customer copy is limited to visible/product facts such as 'black and white composition book rug with Mrs. Smith label, science and school icons includi...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-389",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-8106743a5b.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-composition-notebook-classroom-rug-for-kids-8106743a5b: primary keyword 'science notebook classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-389",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-8106743a5b.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-composition-notebook-classroom-rug-for-kids-8106743a5b: proposed copy targets the same search intent as 'science notebook classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-389",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-8106743a5b.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-composition-notebook-classroom-rug-for-kids-8106743a5b: current support is 'Marketplace and retail SERPs support composition notebook classroom rugs, personalized teach...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-389",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-8106743a5b.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-composition-notebook-classroom-rug-for-kids-8106743a5b: title 'Science Notebook Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-389",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-8106743a5b.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-composition-notebook-classroom-rug-for-kids-8106743a5b: meta title 'Science Notebook Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-389",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-8106743a5b.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-composition-notebook-classroom-rug-for-kids-8106743a5b: meta 'Personalize a science notebook classroom rug with teacher name, black-and-white composition pattern and science...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-389",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-8106743a5b.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-composition-notebook-classroom-rug-for-kids-8106743a5b: description begins 'Personalize a science notebook classroom rug with teacher name, black-and-white composition pattern and science...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-389",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-8106743a5b.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-composition-notebook-classroom-rug-for-kids-8106743a5b: workbook row, evidence id B039-389, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-389",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-for-kids-8106743a5b.html"
+        ]
+      }
+    },
+    "custom-composition-notebook-classroom-rug-7445b86039-7445b86039": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-composition-notebook-classroom-rug-7445b86039-7445b86039: proposed title 'White Doodle Teacher Name Rug' and description 'Customize a white doodle teacher name rug with Mrs. Smith text, pastel letters, school...' keep the same product/theme shown in evidence B039-390.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-390",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-7445b86039-7445b86039.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-composition-notebook-classroom-rug-7445b86039-7445b86039: customer copy is limited to visible/product facts such as 'white classroom rug with large colorful Mrs. Smith lettering, gray school doodle background,...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-390",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-7445b86039-7445b86039.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-composition-notebook-classroom-rug-7445b86039-7445b86039: primary keyword 'white doodle teacher name rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-390",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-7445b86039-7445b86039.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-composition-notebook-classroom-rug-7445b86039-7445b86039: proposed copy targets the same search intent as 'white doodle teacher name rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-390",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-7445b86039-7445b86039.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-composition-notebook-classroom-rug-7445b86039-7445b86039: current support is 'Marketplace and retail SERPs support composition notebook classroom rugs, personalized teach...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-390",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-7445b86039-7445b86039.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-composition-notebook-classroom-rug-7445b86039-7445b86039: title 'White Doodle Teacher Name Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-390",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-7445b86039-7445b86039.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-composition-notebook-classroom-rug-7445b86039-7445b86039: meta title 'White Doodle Teacher Name Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-390",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-7445b86039-7445b86039.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-composition-notebook-classroom-rug-7445b86039-7445b86039: meta 'Customize a white doodle teacher name rug with Mrs. Smith text, pastel letters, school icons and classroom scenes.' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-390",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-7445b86039-7445b86039.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-composition-notebook-classroom-rug-7445b86039-7445b86039: description begins 'Customize a white doodle teacher name rug with Mrs. Smith text, pastel letters, school icons and classroom scene...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-390",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-7445b86039-7445b86039.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-composition-notebook-classroom-rug-7445b86039-7445b86039: workbook row, evidence id B039-390, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls/chillgen.com/chillgen_20260907_01/revisions/B039/SEO_Product_Optimization_revision_B039.xlsx",
+          "product_evidence:B039-390",
+          "live_snapshot:/Users/buiquanghuy/Documents/seo_chillgen/seo_runs/chillgen.com/chillgen_20260907_01/evidence/products/B039_pages/custom-composition-notebook-classroom-rug-7445b86039-7445b86039.html"
+        ]
+      }
+    }
+  }
+}

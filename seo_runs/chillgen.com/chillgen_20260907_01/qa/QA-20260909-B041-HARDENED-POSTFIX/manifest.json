@@ -1,0 +1,47 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "rubric_hash": "caeacb83a45638bcffc03ce1d2daf1fc9e915f417ada6b66eb706284283ea96c",
+  "qa_run_id": "QA-20260909-B041-HARDENED-POSTFIX",
+  "qa_batch_id": "REV_B041",
+  "batch_id": "B041",
+  "revision_id": "B041",
+  "parent_run_id": "QA-20260909-B041-HARDENED",
+  "source_workbook": "resutls/chillgen.com/chillgen_20260907_01/revisions/B041/SEO_Product_Optimization_revision_B041.xlsx",
+  "source_workbook_sha256": "6ffb0b3999bebaceff38c1d5751ba57ff5111a85889b03f32adc3b514e3de3b3",
+  "scope_hash": "98dbaa35e5f7fa7fce8285a2e6eb991dd66ea541e30e7ef9c16593ec138fe3b9",
+  "batch_product_keys": [
+    "celtic-tree-of-life-doormat-f3b9ef9591-f3b9ef9591",
+    "celtic-tree-of-life-indoor-area-rug-aa71e362a6-aa71e362a6",
+    "custom-tree-of-life-welcome-mat-e20613a50e-e20613a50e",
+    "tree-of-life-celtic-rug-40c2af5cd2",
+    "tree-of-life-celtic-indoor-floor-mat-57eef60356",
+    "tree-of-life-rug-yggdrasil-celtic-tree-of-lifes-large-area-rug-modern-indoor-floor-mat-soft-carpet-with-non-slip-backing-home-decor-for-living-room-bedroom-gifts-for-tree-of-life-d-346d281f76",
+    "tree-of-life-yggdrasil-celtic-area-rug-e8cc0189f2-e8cc0189f2",
+    "custom-composition-notebook-classroom-kids-rug-a5df2f88fd-a5df2f88fd",
+    "custom-composition-notebook-classroom-rug-for-kids-975402570a-975402570a",
+    "custom-composition-notebook-classroom-rug-for-kids-6480284917-6480284917"
+  ],
+  "status_counts": {
+    "QA_PASS": 10,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "issue_counts": {
+    "CRITICAL": 0,
+    "MAJOR": 0,
+    "MINOR": 0,
+    "LIMITATION": 20
+  },
+  "batch_status": "QA_PASS",
+  "content_qa_status": "QA_PASS",
+  "evidence_maturity": "SERP_ONLY",
+  "canonical": true,
+  "supersedes": [
+    "QA-20260909-B041-HARDENED"
+  ],
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/reviewer/B041_reviewer_evidence_fullres.json",
+  "manual_criteria_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/reviewer/B041_criteria_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED",
+  "created_at": "2026-09-09T17:08:36+07:00"
+}

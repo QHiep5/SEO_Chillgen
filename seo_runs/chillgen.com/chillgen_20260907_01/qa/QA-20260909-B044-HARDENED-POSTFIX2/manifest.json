@@ -1,0 +1,47 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "rubric_hash": "caeacb83a45638bcffc03ce1d2daf1fc9e915f417ada6b66eb706284283ea96c",
+  "qa_run_id": "QA-20260909-B044-HARDENED-POSTFIX2",
+  "qa_batch_id": "REV_B044",
+  "batch_id": "B044",
+  "revision_id": "B044",
+  "parent_run_id": "QA-20260909-B044-HARDENED-POSTFIX",
+  "source_workbook": "resutls/chillgen.com/chillgen_20260907_01/revisions/B044/SEO_Product_Optimization_revision_B044.xlsx",
+  "source_workbook_sha256": "16e26de6477dea21ba62146408e5266a1026eea8d75a48c54c02ffeee1911084",
+  "scope_hash": "2935e94ad17f67e4db2dbf6fb54734c6f9a662fa560d986abafc7aaf6bc91a7d",
+  "batch_product_keys": [
+    "custom-octopus-shaped-area-rug-0acb5a8130-0acb5a8130",
+    "custom-classroom-library-reading-rug-dfdbf660e0",
+    "custom-reading-classroom-library-rug-29b9f9b43d-29b9f9b43d",
+    "custom-reading-corner-welcome-mat-941ccd58e8-941ccd58e8",
+    "personalized-motivational-classroom-rug-kids-c08ac9a601",
+    "personalized-motivational-classroom-rug-for-kids-ff1188740c",
+    "personalized-motivational-classroom-rug-for-kids-ec5fda4b1c",
+    "personalized-motivational-classroom-rug-for-kids-dbde19466a",
+    "personalized-motivational-classroom-rug-for-kids-50daea8577",
+    "personalized-motivational-classroom-rug-for-kids-2f14feb0aa"
+  ],
+  "status_counts": {
+    "QA_PASS": 10,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "issue_counts": {
+    "CRITICAL": 0,
+    "MAJOR": 0,
+    "MINOR": 0,
+    "LIMITATION": 20
+  },
+  "batch_status": "QA_PASS",
+  "content_qa_status": "QA_PASS",
+  "evidence_maturity": "SERP_ONLY",
+  "canonical": true,
+  "supersedes": [
+    "QA-20260909-B044-HARDENED-POSTFIX"
+  ],
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/reviewer/B044_reviewer_evidence_fullres.json",
+  "manual_criteria_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/reviewer/B044_criteria_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED",
+  "created_at": "2026-09-09T16:54:25+07:00"
+}
