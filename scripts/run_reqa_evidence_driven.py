@@ -29,6 +29,12 @@ INTERNAL_PATTERNS = [
     "seo copy avoids", "unless confirmed during admin/export review",
     "admin/export review", "surface-performance claims", "qa note",
     "re-run qa", "internal note",
+    # Evidence-production language is not customer-facing copy. These gates
+    # prevent image/QA notes from being promoted into title/meta/description.
+    "backing visuals", "backing detail graphics", "non-slip backing visuals",
+    "anti-slip backing visuals", "washable-care graphics", "care graphics",
+    "size chart images", "room mockups", "lifestyle mockups",
+    "feature graphics", "product feature graphics", "evidence images",
 ]
 
 

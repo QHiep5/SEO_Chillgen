@@ -1,0 +1,29 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "qa_run_id": "QA-20260909-B005-R077-FULLRES-HARDENED-V2",
+  "qa_batch_id": "REV_R077",
+  "source_workbook": "seo_runs/chillgen.com/chillgen_20260907_01/qa_scope/B005_scope_workbook_R077.xlsx",
+  "source_workbook_sha256": "6d7678cc63b2b0f729e9032e2a889dfcf677f5879b58a38376281494992c3bd6",
+  "batch_product_keys": [
+    "personalized-football-shaped-rug-non-slip-washable-sport-design-03",
+    "personalized-football-shaped-rug-non-slip-washable-sport-design-02",
+    "personalized-football-shaped-rug-non-slip-washable-sport-design-01",
+    "personalized-football-shaped-rug-non-slip-washable-sport-design-05",
+    "personalized-football-shaped-rug-non-slip-washable-sport-carpet-a04",
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-02",
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-08",
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-05",
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-07",
+    "custom-dragon-shaped-area-rug-personalized-library-wester-design-03"
+  ],
+  "status_counts": {
+    "QA_PASS": 2,
+    "QA_REVISE": 8,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "batch_status": "QA_REVISE",
+  "manual_image_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/reviewer/B005_R077_reviewer_evidence_fullres.json",
+  "manual_criteria_evidence": "seo_runs/chillgen.com/chillgen_20260907_01/evidence/reviewer/B005_R077_criteria_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED"
+}
