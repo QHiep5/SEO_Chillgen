@@ -37,6 +37,23 @@ INTERNAL_PATTERNS = [
     "feature graphics", "product feature graphics", "evidence images",
 ]
 
+def content_quality_findings(text: str):
+    """Detect malformed customer copy after automated revision edits."""
+    findings = []
+    rules = [
+        (r",\s*,", "duplicate comma"),
+        (r"\s+[,.!?]", "space before punctuation"),
+        (r"\b([A-Za-z]+)-\1-", "duplicated word"),
+        (r"\b([A-Za-z]+)\s+\1\b", "duplicated adjacent word"),
+        (r"\b(?:shown|available|designed|ideal|perfect)\s+in\s+\s*(?:and|for|with)\b", "empty phrase slot"),
+        (r"\b(?:washable|easy-care|non-slip)[- ]?(?:care)?\s*\.\s*$", "truncated feature phrase"),
+        (r"\b(?:in|with|for|and)\s+and\b", "broken conjunction"),
+    ]
+    for pattern, label in rules:
+        if re.search(pattern, text, flags=re.IGNORECASE):
+            findings.append(label)
+    return findings
+
 
 def sha256(path: Path) -> str:
     h = hashlib.sha256()
@@ -257,6 +274,9 @@ def main():
         internal_hits = [pat for pat in INTERNAL_PATTERNS if pat in blob]
         if internal_hits:
             issue("MAJOR", "proposed_fields", ", ".join(internal_hits), "Internal QA/process language is customer-visible copy.", "Remove internal notes and retain only customer-facing product copy.")
+        copy_quality_hits = content_quality_findings(blob)
+        if copy_quality_hits:
+            issue("MAJOR", "proposed_fields", ", ".join(copy_quality_hits), "Malformed or grammatically broken customer-facing copy was detected.", "Rewrite the affected title/meta/description as a complete natural sentence, then rerun content lint.")
         unsupported = [term for term in ["outdoor", "waterproof", "machine washable", "non-slip", "anti-slip"] if term in blob and term not in (val(ev, "verified_product_facts") + " " + val(ev, "short_source_excerpt")).lower()]
         if unsupported:
             issue("MAJOR", "proposed_fields", ", ".join(unsupported), "Potential product claim is not supported by the linked evidence record.", "Remove or verify each claim against the source/export before approval.")
@@ -289,6 +309,8 @@ def main():
                 rating, reason = "FAIL", f"Unsupported claim detected: {', '.join(unsupported)}."
             if cid == "D2" and internal_hits:
                 rating, reason = "FAIL", "Internal QA/process language is customer-visible copy."
+            if cid in {"D1", "D2"} and copy_quality_hits:
+                rating, reason = "FAIL", f"Malformed customer-facing copy detected: {', '.join(copy_quality_hits)}."
             add(cid, rating, reason, eref)
 
         for img in sorted(images[handle], key=lambda x: int(val(x, "image_number") or 0)):
