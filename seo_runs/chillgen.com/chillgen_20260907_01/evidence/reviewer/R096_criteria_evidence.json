@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "R096",
+  "batch_id": "B020",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+  "source_workbook_sha256": "3f5d9e6f8806a49a9d491e00fccd5289e9433747481d249a24e2eb51db7f1635",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-R096-CRITERIA-01",
+    "reviewed_at": "2026-09-09T17:31:43+07:00"
+  },
+  "reviewed_at": "2026-09-09T17:31:43+07:00",
+  "products": {
+    "feelings-wheel-emotions-round-rug-f48bff995a": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for feelings-wheel-emotions-round-rug-f48bff995a: proposed title 'Color Zones Feelings Wheel Rug' and description 'Create a color zones feelings wheel rug with color-coded feeling zones and emotion word...' keep the same product/theme shown in evidence B020-191.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-191",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-emotions-round-rug-f48bff995a.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for feelings-wheel-emotions-round-rug-f48bff995a: customer copy is limited to visible/product facts such as 'round color-zone emotions rug with green blue yellow and red zones, labeled feelings includi...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-191",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-emotions-round-rug-f48bff995a.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for feelings-wheel-emotions-round-rug-f48bff995a: primary keyword 'color zones feelings wheel rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-191",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-emotions-round-rug-f48bff995a.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for feelings-wheel-emotions-round-rug-f48bff995a: proposed copy targets the same search intent as 'color zones feelings wheel rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-191",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-emotions-round-rug-f48bff995a.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for feelings-wheel-emotions-round-rug-f48bff995a: current support is 'Marketplace and classroom-decor results show strong buyer language around feelings wheel rug...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-191",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-emotions-round-rug-f48bff995a.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for feelings-wheel-emotions-round-rug-f48bff995a: title 'Color Zones Feelings Wheel Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-191",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-emotions-round-rug-f48bff995a.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for feelings-wheel-emotions-round-rug-f48bff995a: meta title 'Color Zones Feelings Wheel Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-191",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-emotions-round-rug-f48bff995a.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for feelings-wheel-emotions-round-rug-f48bff995a: meta 'Create a color zones feelings wheel rug with color-coded feeling zones and emotion words for a classroom, playro...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-191",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-emotions-round-rug-f48bff995a.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for feelings-wheel-emotions-round-rug-f48bff995a: description begins 'Create a color zones feelings wheel rug with color-coded feeling zones and emotion words for a classroom, playro...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-191",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-emotions-round-rug-f48bff995a.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for feelings-wheel-emotions-round-rug-f48bff995a: workbook row, evidence id B020-191, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-191",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-emotions-round-rug-f48bff995a.html"
+        ]
+      }
+    },
+    "wheel-of-feelings-and-emotions-round-rug-a7bf6ef454": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for wheel-of-feelings-and-emotions-round-rug-a7bf6ef454: proposed title 'Emotions Activity Wheel Rug' and description 'Create a emotions activity wheel rug with an emotions activity wheel with colorful prom...' keep the same product/theme shown in evidence B020-192.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-192",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\wheel-of-feelings-and-emotions-round-rug-a7bf6ef454.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for wheel-of-feelings-and-emotions-round-rug-a7bf6ef454: customer copy is limited to visible/product facts such as 'round rug with multi-ring emotions wheel, color-coded segments, feeling faces, activity prom...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-192",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\wheel-of-feelings-and-emotions-round-rug-a7bf6ef454.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for wheel-of-feelings-and-emotions-round-rug-a7bf6ef454: primary keyword 'emotions activity wheel rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-192",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\wheel-of-feelings-and-emotions-round-rug-a7bf6ef454.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for wheel-of-feelings-and-emotions-round-rug-a7bf6ef454: proposed copy targets the same search intent as 'emotions activity wheel rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-192",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\wheel-of-feelings-and-emotions-round-rug-a7bf6ef454.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for wheel-of-feelings-and-emotions-round-rug-a7bf6ef454: current support is 'Marketplace and classroom-decor results show strong buyer language around feelings wheel rug...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-192",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\wheel-of-feelings-and-emotions-round-rug-a7bf6ef454.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for wheel-of-feelings-and-emotions-round-rug-a7bf6ef454: title 'Emotions Activity Wheel Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-192",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\wheel-of-feelings-and-emotions-round-rug-a7bf6ef454.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for wheel-of-feelings-and-emotions-round-rug-a7bf6ef454: meta title 'Emotions Activity Wheel Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-192",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\wheel-of-feelings-and-emotions-round-rug-a7bf6ef454.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for wheel-of-feelings-and-emotions-round-rug-a7bf6ef454: meta 'Create a emotions activity wheel rug with an emotions activity wheel with colorful prompts for a classroom, offi...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-192",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\wheel-of-feelings-and-emotions-round-rug-a7bf6ef454.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for wheel-of-feelings-and-emotions-round-rug-a7bf6ef454: description begins 'Create a emotions activity wheel rug with an emotions activity wheel with colorful prompts for a classroom, offi...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-192",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\wheel-of-feelings-and-emotions-round-rug-a7bf6ef454.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for wheel-of-feelings-and-emotions-round-rug-a7bf6ef454: workbook row, evidence id B020-192, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-192",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\wheel-of-feelings-and-emotions-round-rug-a7bf6ef454.html"
+        ]
+      }
+    },
+    "wheel-of-feelings-and-emotions-round-rug-2ec976598b": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for wheel-of-feelings-and-emotions-round-rug-2ec976598b: proposed title 'Today I Am Feeling Classroom Rug' and description 'Create a Today I Am Feeling classroom rug with Today I Am Feeling wording with expressi...' keep the same product/theme shown in evidence B020-193.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-193",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\wheel-of-feelings-and-emotions-round-rug-2ec976598b.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for wheel-of-feelings-and-emotions-round-rug-2ec976598b: customer copy is limited to visible/product facts such as 'round rainbow feelings rug with Today I'm Feeling center, character faces and labels such as...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-193",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\wheel-of-feelings-and-emotions-round-rug-2ec976598b.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for wheel-of-feelings-and-emotions-round-rug-2ec976598b: primary keyword 'Today I Am Feeling classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-193",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\wheel-of-feelings-and-emotions-round-rug-2ec976598b.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for wheel-of-feelings-and-emotions-round-rug-2ec976598b: proposed copy targets the same search intent as 'Today I Am Feeling classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-193",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\wheel-of-feelings-and-emotions-round-rug-2ec976598b.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for wheel-of-feelings-and-emotions-round-rug-2ec976598b: current support is 'Marketplace and classroom-decor results show strong buyer language around feelings wheel rug...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-193",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\wheel-of-feelings-and-emotions-round-rug-2ec976598b.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for wheel-of-feelings-and-emotions-round-rug-2ec976598b: title 'Today I Am Feeling Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-193",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\wheel-of-feelings-and-emotions-round-rug-2ec976598b.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for wheel-of-feelings-and-emotions-round-rug-2ec976598b: meta title 'Today I Am Feeling Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-193",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\wheel-of-feelings-and-emotions-round-rug-2ec976598b.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for wheel-of-feelings-and-emotions-round-rug-2ec976598b: meta 'Create a Today I Am Feeling classroom rug with Today I Am Feeling wording with expressive emotion faces for a cl...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-193",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\wheel-of-feelings-and-emotions-round-rug-2ec976598b.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for wheel-of-feelings-and-emotions-round-rug-2ec976598b: description begins 'Create a Today I Am Feeling classroom rug with Today I Am Feeling wording with expressive emotion faces for a cl...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-193",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\wheel-of-feelings-and-emotions-round-rug-2ec976598b.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for wheel-of-feelings-and-emotions-round-rug-2ec976598b: workbook row, evidence id B020-193, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-193",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\wheel-of-feelings-and-emotions-round-rug-2ec976598b.html"
+        ]
+      }
+    },
+    "custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca: proposed title 'New Chapter Reading Classroom Rug' and description 'Create a New Chapter reading classroom rug with New Chapter wording and book-themed art...' keep the same product/theme shown in evidence B020-194.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-194",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca: customer copy is limited to visible/product facts such as 'rectangular black classroom library rug with Welcome to a New Chapter text, open book, color...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-194",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca: primary keyword 'New Chapter reading classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-194",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca: proposed copy targets the same search intent as 'New Chapter reading classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-194",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca: current support is 'Marketplace and classroom-decor results show strong buyer language around feelings wheel rug...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-194",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca: title 'New Chapter Reading Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-194",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca: meta title 'New Chapter Reading Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-194",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca: meta 'Create a New Chapter reading classroom rug with New Chapter wording and book-themed artwork for a classroom libr...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-194",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca: description begins 'Create a New Chapter reading classroom rug with New Chapter wording and book-themed artwork for a classroom libr...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-194",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca: workbook row, evidence id B020-194, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-194",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-a-good-day-to-read-book-rug-classroom-library-rugs-04ab7bfcca.html"
+        ]
+      }
+    },
+    "custom-mathematics-education-rug-classroom-playroom-eee0004975": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-mathematics-education-rug-classroom-playroom-eee0004975: proposed title 'Math Dance Move Classroom Rug' and description 'Create a Math Dance Move classroom rug with Math Dance Move wording with colorful math...' keep the same product/theme shown in evidence B020-195.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-195",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-mathematics-education-rug-classroom-playroom-eee0004975.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-mathematics-education-rug-classroom-playroom-eee0004975: customer copy is limited to visible/product facts such as 'black rectangular math rug with rainbow Math Dance Move text, colorful stick-figure movement...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-195",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-mathematics-education-rug-classroom-playroom-eee0004975.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-mathematics-education-rug-classroom-playroom-eee0004975: primary keyword 'Math Dance Move classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-195",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-mathematics-education-rug-classroom-playroom-eee0004975.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-mathematics-education-rug-classroom-playroom-eee0004975: proposed copy targets the same search intent as 'Math Dance Move classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-195",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-mathematics-education-rug-classroom-playroom-eee0004975.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-mathematics-education-rug-classroom-playroom-eee0004975: current support is 'Marketplace and classroom-decor results show strong buyer language around feelings wheel rug...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-195",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-mathematics-education-rug-classroom-playroom-eee0004975.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-mathematics-education-rug-classroom-playroom-eee0004975: title 'Math Dance Move Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-195",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-mathematics-education-rug-classroom-playroom-eee0004975.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-mathematics-education-rug-classroom-playroom-eee0004975: meta title 'Math Dance Move Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-195",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-mathematics-education-rug-classroom-playroom-eee0004975.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-mathematics-education-rug-classroom-playroom-eee0004975: meta 'Create a Math Dance Move classroom rug with Math Dance Move wording with colorful math learning elements for a c...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-195",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-mathematics-education-rug-classroom-playroom-eee0004975.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-mathematics-education-rug-classroom-playroom-eee0004975: description begins 'Create a Math Dance Move classroom rug with Math Dance Move wording with colorful math learning elements for a c...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-195",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-mathematics-education-rug-classroom-playroom-eee0004975.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-mathematics-education-rug-classroom-playroom-eee0004975: workbook row, evidence id B020-195, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-195",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-mathematics-education-rug-classroom-playroom-eee0004975.html"
+        ]
+      }
+    },
+    "custom-mathematics-education-rug-3015a3c96c": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-mathematics-education-rug-3015a3c96c: proposed title 'Problem Solve Math Classroom Rug' and description 'Create a Problem Solve math classroom rug with Problem Solve wording with math prompts...' keep the same product/theme shown in evidence B020-196.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-196",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-mathematics-education-rug-3015a3c96c.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-mathematics-education-rug-3015a3c96c: customer copy is limited to visible/product facts such as 'black rectangular math education rug with colorful words including problem solve, analyze da...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-196",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-mathematics-education-rug-3015a3c96c.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-mathematics-education-rug-3015a3c96c: primary keyword 'Problem Solve math classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-196",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-mathematics-education-rug-3015a3c96c.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-mathematics-education-rug-3015a3c96c: proposed copy targets the same search intent as 'Problem Solve math classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-196",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-mathematics-education-rug-3015a3c96c.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-mathematics-education-rug-3015a3c96c: current support is 'Marketplace and classroom-decor results show strong buyer language around feelings wheel rug...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-196",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-mathematics-education-rug-3015a3c96c.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-mathematics-education-rug-3015a3c96c: title 'Problem Solve Math Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-196",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-mathematics-education-rug-3015a3c96c.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-mathematics-education-rug-3015a3c96c: meta title 'Problem Solve Math Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-196",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-mathematics-education-rug-3015a3c96c.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-mathematics-education-rug-3015a3c96c: meta 'Create a Problem Solve math classroom rug with Problem Solve wording with math prompts for a classroom, study ar...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-196",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-mathematics-education-rug-3015a3c96c.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-mathematics-education-rug-3015a3c96c: description begins 'Create a Problem Solve math classroom rug with Problem Solve wording with math prompts for a classroom, study ar...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-196",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-mathematics-education-rug-3015a3c96c.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-mathematics-education-rug-3015a3c96c: workbook row, evidence id B020-196, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-196",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-mathematics-education-rug-3015a3c96c.html"
+        ]
+      }
+    },
+    "feelings-wheel-emotions-round-rug-fca05b7c0f": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for feelings-wheel-emotions-round-rug-fca05b7c0f: proposed title 'Detailed Emotions Feelings Wheel Rug' and description 'Create a detailed emotions feelings wheel rug with a detailed feelings wheel with expre...' keep the same product/theme shown in evidence B020-197.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-197",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-emotions-round-rug-fca05b7c0f.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for feelings-wheel-emotions-round-rug-fca05b7c0f: customer copy is limited to visible/product facts such as 'round multi-color feelings wheel rug with many emotion labels arranged by categories such as...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-197",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-emotions-round-rug-fca05b7c0f.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for feelings-wheel-emotions-round-rug-fca05b7c0f: primary keyword 'detailed emotions feelings wheel rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-197",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-emotions-round-rug-fca05b7c0f.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for feelings-wheel-emotions-round-rug-fca05b7c0f: proposed copy targets the same search intent as 'detailed emotions feelings wheel rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-197",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-emotions-round-rug-fca05b7c0f.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for feelings-wheel-emotions-round-rug-fca05b7c0f: current support is 'Marketplace and classroom-decor results show strong buyer language around feelings wheel rug...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-197",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-emotions-round-rug-fca05b7c0f.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for feelings-wheel-emotions-round-rug-fca05b7c0f: title 'Detailed Emotions Feelings Wheel Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-197",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-emotions-round-rug-fca05b7c0f.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for feelings-wheel-emotions-round-rug-fca05b7c0f: meta title 'Detailed Emotions Feelings Wheel Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-197",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-emotions-round-rug-fca05b7c0f.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for feelings-wheel-emotions-round-rug-fca05b7c0f: meta 'Create a detailed emotions feelings wheel rug with a detailed feelings wheel with expressive faces and emotion w...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-197",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-emotions-round-rug-fca05b7c0f.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for feelings-wheel-emotions-round-rug-fca05b7c0f: description begins 'Create a detailed emotions feelings wheel rug with a detailed feelings wheel with expressive faces and emotion w...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-197",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-emotions-round-rug-fca05b7c0f.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for feelings-wheel-emotions-round-rug-fca05b7c0f: workbook row, evidence id B020-197, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-197",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-emotions-round-rug-fca05b7c0f.html"
+        ]
+      }
+    },
+    "feelings-wheel-round-classroom-rug-4be50a20fb": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for feelings-wheel-round-classroom-rug-4be50a20fb: proposed title 'How Are You Feeling Classroom Rug' and description 'Create a How Are You Feeling classroom rug with How Are You Feeling wording with emotio...' keep the same product/theme shown in evidence B020-198.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-198",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-round-classroom-rug-4be50a20fb.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for feelings-wheel-round-classroom-rug-4be50a20fb: customer copy is limited to visible/product facts such as 'round pale feelings rug with How Are You Feeling center, pastel emotion faces, prompts such...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-198",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-round-classroom-rug-4be50a20fb.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for feelings-wheel-round-classroom-rug-4be50a20fb: primary keyword 'How Are You Feeling classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-198",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-round-classroom-rug-4be50a20fb.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for feelings-wheel-round-classroom-rug-4be50a20fb: proposed copy targets the same search intent as 'How Are You Feeling classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-198",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-round-classroom-rug-4be50a20fb.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for feelings-wheel-round-classroom-rug-4be50a20fb: current support is 'Marketplace and classroom-decor results show strong buyer language around feelings wheel rug...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-198",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-round-classroom-rug-4be50a20fb.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for feelings-wheel-round-classroom-rug-4be50a20fb: title 'How Are You Feeling Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-198",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-round-classroom-rug-4be50a20fb.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for feelings-wheel-round-classroom-rug-4be50a20fb: meta title 'How Are You Feeling Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-198",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-round-classroom-rug-4be50a20fb.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for feelings-wheel-round-classroom-rug-4be50a20fb: meta 'Create a How Are You Feeling classroom rug with How Are You Feeling wording with emotion prompts for a therapy o...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-198",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-round-classroom-rug-4be50a20fb.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for feelings-wheel-round-classroom-rug-4be50a20fb: description begins 'Create a How Are You Feeling classroom rug with How Are You Feeling wording with emotion prompts for a therapy o...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-198",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-round-classroom-rug-4be50a20fb.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for feelings-wheel-round-classroom-rug-4be50a20fb: workbook row, evidence id B020-198, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-198",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-round-classroom-rug-4be50a20fb.html"
+        ]
+      }
+    },
+    "feelings-wheel-classroom-welcome-mat-3d070ff949": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for feelings-wheel-classroom-welcome-mat-3d070ff949: proposed title 'My Feelings Classroom Rug' and description 'Create a My Feelings classroom rug with My Feelings wording and colorful emotion prompt...' keep the same product/theme shown in evidence B020-199.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-199",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-classroom-welcome-mat-3d070ff949.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for feelings-wheel-classroom-welcome-mat-3d070ff949: customer copy is limited to visible/product facts such as 'round cream and green My Feelings rug with illustrated children's faces and words such as ha...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-199",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-classroom-welcome-mat-3d070ff949.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for feelings-wheel-classroom-welcome-mat-3d070ff949: primary keyword 'My Feelings classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-199",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-classroom-welcome-mat-3d070ff949.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for feelings-wheel-classroom-welcome-mat-3d070ff949: proposed copy targets the same search intent as 'My Feelings classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-199",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-classroom-welcome-mat-3d070ff949.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for feelings-wheel-classroom-welcome-mat-3d070ff949: current support is 'Marketplace and classroom-decor results show strong buyer language around feelings wheel rug...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-199",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-classroom-welcome-mat-3d070ff949.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for feelings-wheel-classroom-welcome-mat-3d070ff949: title 'My Feelings Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-199",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-classroom-welcome-mat-3d070ff949.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for feelings-wheel-classroom-welcome-mat-3d070ff949: meta title 'My Feelings Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-199",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-classroom-welcome-mat-3d070ff949.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for feelings-wheel-classroom-welcome-mat-3d070ff949: meta 'Create a My Feelings classroom rug with My Feelings wording and colorful emotion prompts for a classroom, kids r...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-199",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-classroom-welcome-mat-3d070ff949.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for feelings-wheel-classroom-welcome-mat-3d070ff949: description begins 'Create a My Feelings classroom rug with My Feelings wording and colorful emotion prompts for a classroom, kids r...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-199",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-classroom-welcome-mat-3d070ff949.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for feelings-wheel-classroom-welcome-mat-3d070ff949: workbook row, evidence id B020-199, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-199",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\feelings-wheel-classroom-welcome-mat-3d070ff949.html"
+        ]
+      }
+    },
+    "custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9: proposed title 'Personalized Composition Notebook Rug' and description 'Create a personalized composition notebook rug with a personalized composition notebook...' keep the same product/theme shown in evidence B020-200.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-200",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9: customer copy is limited to visible/product facts such as 'rectangular composition book rug with black-and-white notebook pattern, personalized teacher...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-200",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9: primary keyword 'personalized composition notebook rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-200",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9: proposed copy targets the same search intent as 'personalized composition notebook rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-200",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9: current support is 'Marketplace and classroom-decor results show strong buyer language around feelings wheel rug...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-200",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9: title 'Personalized Composition Notebook Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-200",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9: meta title 'Personalized Composition Notebook Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-200",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9: meta 'Create a personalized composition notebook rug with a personalized composition notebook design with alphabet det...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-200",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9: description begins 'Create a personalized composition notebook rug with a personalized composition notebook design with alphabet det...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-200",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9: workbook row, evidence id B020-200, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R096\\SEO_Product_Optimization_revision_R096.xlsx",
+          "product_evidence:B020-200",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B020_pages\\custom-composition-notebook-classroom-kids-rug-3bd742c8b9-3bd742c8b9.html"
+        ]
+      }
+    }
+  }
+}

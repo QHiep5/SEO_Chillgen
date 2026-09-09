@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "R086",
+  "batch_id": "B010",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+  "source_workbook_sha256": "68d62cfbc222dcadbfb4180f398270bc1d5f5cbf0210329ec4c370a6754a254a",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-R086-CRITERIA-01",
+    "reviewed_at": "2026-09-09T13:52:06+07:00"
+  },
+  "reviewed_at": "2026-09-09T13:52:06+07:00",
+  "products": {
+    "personalized-calming-corner-rug-for-classroom-custom-tea-design-103": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-calming-corner-rug-for-classroom-custom-tea-design-103: proposed title 'Personalized Safe Space Classroom Rug' and description 'Customize a safe space classroom rug with teacher-name text, colorful hearts, affirming...' keep the same product/theme shown in evidence B010-091.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-091",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-103.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-calming-corner-rug-for-classroom-custom-tea-design-103: customer copy is limited to visible/product facts such as 'white classroom rug with This is a Safe Space to be Who You Are wording, teacher-name person...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-091",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-103.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-calming-corner-rug-for-classroom-custom-tea-design-103: primary keyword 'personalized safe space classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-091",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-103.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-calming-corner-rug-for-classroom-custom-tea-design-103: proposed copy targets the same search intent as 'personalized safe space classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-091",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-103.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-calming-corner-rug-for-classroom-custom-tea-design-103: current support is 'SERP_ONLY: public marketplace/category results show personalized classroom rugs, custom teac...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-091",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-103.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-calming-corner-rug-for-classroom-custom-tea-design-103: title 'Personalized Safe Space Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-091",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-103.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-calming-corner-rug-for-classroom-custom-tea-design-103: meta title 'Personalized Safe Space Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-091",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-103.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-calming-corner-rug-for-classroom-custom-tea-design-103: meta 'Customize a safe space classroom rug with teacher-name text, colorful hearts, affirming wording, and a welcoming...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-091",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-103.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-calming-corner-rug-for-classroom-custom-tea-design-103: description begins 'Customize a safe space classroom rug with teacher-name text, colorful hearts, affirming wording, and a welcoming...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-091",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-103.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-calming-corner-rug-for-classroom-custom-tea-design-103: workbook row, evidence id B010-091, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-091",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-calming-corner-rug-for-classroom-custom-tea-design-103.html"
+        ]
+      }
+    },
+    "personalized-teachers-classroom-rug-custom-teacher-name-c-design-03": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teachers-classroom-rug-custom-teacher-name-c-design-03: proposed title 'Personalized Coping Tools Classroom Rug' and description 'Customize a coping tools classroom rug with teacher-name text, friendly monster icons,...' keep the same product/theme shown in evidence B010-092.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-092",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-03.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teachers-classroom-rug-custom-teacher-name-c-design-03: customer copy is limited to visible/product facts such as 'pastel classroom rug with Coping Tools title, monster characters, teacher-name classroom tex...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-092",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-03.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teachers-classroom-rug-custom-teacher-name-c-design-03: primary keyword 'personalized coping tools classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-092",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-03.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teachers-classroom-rug-custom-teacher-name-c-design-03: proposed copy targets the same search intent as 'personalized coping tools classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-092",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-03.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teachers-classroom-rug-custom-teacher-name-c-design-03: current support is 'SERP_ONLY: public marketplace/category results show personalized classroom rugs, custom teac...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-092",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-03.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teachers-classroom-rug-custom-teacher-name-c-design-03: title 'Personalized Coping Tools Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-092",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-03.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teachers-classroom-rug-custom-teacher-name-c-design-03: meta title 'Personalized Coping Tools Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-092",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-03.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teachers-classroom-rug-custom-teacher-name-c-design-03: meta 'Customize a coping tools classroom rug with teacher-name text, monster icons, and breathe, move, focus, talk, an...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-092",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-03.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teachers-classroom-rug-custom-teacher-name-c-design-03: description begins 'Customize a coping tools classroom rug with teacher-name text, friendly monster icons, and prompts such as breat...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-092",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-03.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teachers-classroom-rug-custom-teacher-name-c-design-03: workbook row, evidence id B010-092, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-092",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-03.html"
+        ]
+      }
+    },
+    "personalized-teachers-classroom-rug-custom-teacher-name-c-design-02": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teachers-classroom-rug-custom-teacher-name-c-design-02: proposed title 'Personalized Dinosaur Affirmation Rug' and description 'Customize a dinosaur affirmation rug with teacher-name welcome text, Little Dinos Big D...' keep the same product/theme shown in evidence B010-093.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-093",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-02.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teachers-classroom-rug-custom-teacher-name-c-design-02: customer copy is limited to visible/product facts such as 'dark colorful rug with Little Dinos Big Dreams headline, dinosaur characters, affirmation ph...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-093",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-02.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teachers-classroom-rug-custom-teacher-name-c-design-02: primary keyword 'personalized dinosaur affirmation rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-093",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-02.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teachers-classroom-rug-custom-teacher-name-c-design-02: proposed copy targets the same search intent as 'personalized dinosaur affirmation rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-093",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-02.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teachers-classroom-rug-custom-teacher-name-c-design-02: current support is 'SERP_ONLY: public marketplace/category results show personalized classroom rugs, custom teac...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-093",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-02.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teachers-classroom-rug-custom-teacher-name-c-design-02: title 'Personalized Dinosaur Affirmation Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-093",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-02.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teachers-classroom-rug-custom-teacher-name-c-design-02: meta title 'Personalized Dinosaur Affirmation Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-093",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-02.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teachers-classroom-rug-custom-teacher-name-c-design-02: meta 'Customize a dinosaur affirmation rug with teacher-name welcome text, Little Dinos Big Dreams wording, and kid-fr...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-093",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-02.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teachers-classroom-rug-custom-teacher-name-c-design-02: description begins 'Customize a dinosaur affirmation rug with teacher-name welcome text, Little Dinos Big Dreams wording, and kid-fr...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-093",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-02.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teachers-classroom-rug-custom-teacher-name-c-design-02: workbook row, evidence id B010-093, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-093",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-02.html"
+        ]
+      }
+    },
+    "personalized-teachers-classroom-rug-custom-teacher-name-classroom": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teachers-classroom-rug-custom-teacher-name-classroom: proposed title 'Personalized Calming Techniques Rug' and description 'Customize a calming techniques rug with teacher-name text, ocean animals, and simple pr...' keep the same product/theme shown in evidence B010-094.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-094",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-classroom.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teachers-classroom-rug-custom-teacher-name-classroom: customer copy is limited to visible/product facts such as 'light blue classroom rug with Calming Techniques title, teacher-name classroom text, ocean a...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-094",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-classroom.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teachers-classroom-rug-custom-teacher-name-classroom: primary keyword 'personalized calming techniques rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-094",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-classroom.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teachers-classroom-rug-custom-teacher-name-classroom: proposed copy targets the same search intent as 'personalized calming techniques rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-094",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-classroom.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teachers-classroom-rug-custom-teacher-name-classroom: current support is 'SERP_ONLY: public marketplace/category results show personalized classroom rugs, custom teac...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-094",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-classroom.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teachers-classroom-rug-custom-teacher-name-classroom: title 'Personalized Calming Techniques Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-094",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-classroom.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teachers-classroom-rug-custom-teacher-name-classroom: meta title 'Personalized Calming Techniques Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-094",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-classroom.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teachers-classroom-rug-custom-teacher-name-classroom: meta 'Customize a calming techniques rug with teacher-name text, ocean animals, and simple prompts for breathing, draw...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-094",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-classroom.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teachers-classroom-rug-custom-teacher-name-classroom: description begins 'Customize a calming techniques rug with teacher-name text, ocean animals, and simple prompts for breathing, draw...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-094",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-classroom.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teachers-classroom-rug-custom-teacher-name-classroom: workbook row, evidence id B010-094, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-094",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-classroom.html"
+        ]
+      }
+    },
+    "personalized-teachers-classroom-rug-custom-teacher-name-c-design-09": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teachers-classroom-rug-custom-teacher-name-c-design-09: proposed title 'Personalized Classroom Jobs Rug' and description 'Customize a classroom jobs rug with teacher-name text, rainbow artwork, checkerboard bo...' keep the same product/theme shown in evidence B010-095.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-095",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-09.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teachers-classroom-rug-custom-teacher-name-c-design-09: customer copy is limited to visible/product facts such as 'black-bordered classroom rug with rainbow, teacher-name classroom text and Classroom Jobs ti...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-095",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-09.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teachers-classroom-rug-custom-teacher-name-c-design-09: primary keyword 'personalized classroom jobs rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-095",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-09.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teachers-classroom-rug-custom-teacher-name-c-design-09: proposed copy targets the same search intent as 'personalized classroom jobs rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-095",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-09.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teachers-classroom-rug-custom-teacher-name-c-design-09: current support is 'SERP_ONLY: public marketplace/category results show personalized classroom rugs, custom teac...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-095",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-09.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teachers-classroom-rug-custom-teacher-name-c-design-09: title 'Personalized Classroom Jobs Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-095",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-09.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teachers-classroom-rug-custom-teacher-name-c-design-09: meta title 'Personalized Classroom Jobs Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-095",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-09.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teachers-classroom-rug-custom-teacher-name-c-design-09: meta 'Customize a classroom jobs rug with teacher-name text, rainbow artwork, checkerboard border, and helper-role ico...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-095",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-09.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teachers-classroom-rug-custom-teacher-name-c-design-09: description begins 'Customize a classroom jobs rug with teacher-name text, rainbow artwork, checkerboard border, and helper-role ico...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-095",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-09.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teachers-classroom-rug-custom-teacher-name-c-design-09: workbook row, evidence id B010-095, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-095",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-09.html"
+        ]
+      }
+    },
+    "personalized-teachers-classroom-rug-custom-teacher-name-c-design-07": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teachers-classroom-rug-custom-teacher-name-c-design-07: proposed title 'Personalized Classroom Rules Rug' and description 'Customize a classroom rules rug with teacher-name text, rainbow artwork, school icons,...' keep the same product/theme shown in evidence B010-096.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-096",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-07.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teachers-classroom-rug-custom-teacher-name-c-design-07: customer copy is limited to visible/product facts such as 'black doodle-border rug with Classroom Rules title, teacher-name personalization, rainbow an...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-096",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-07.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teachers-classroom-rug-custom-teacher-name-c-design-07: primary keyword 'personalized classroom rules rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-096",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-07.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teachers-classroom-rug-custom-teacher-name-c-design-07: proposed copy targets the same search intent as 'personalized classroom rules rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-096",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-07.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teachers-classroom-rug-custom-teacher-name-c-design-07: current support is 'SERP_ONLY: public marketplace/category results show personalized classroom rugs, custom teac...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-096",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-07.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teachers-classroom-rug-custom-teacher-name-c-design-07: title 'Personalized Classroom Rules Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-096",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-07.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teachers-classroom-rug-custom-teacher-name-c-design-07: meta title 'Personalized Classroom Rules Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-096",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-07.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teachers-classroom-rug-custom-teacher-name-c-design-07: meta 'Customize a classroom rules rug with teacher-name text, rainbow artwork, school icons, and listen, be kind, shar...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-096",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-07.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teachers-classroom-rug-custom-teacher-name-c-design-07: description begins 'Customize a classroom rules rug with teacher-name text, rainbow artwork, school icons, and simple prompts such a...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-096",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-07.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teachers-classroom-rug-custom-teacher-name-c-design-07: workbook row, evidence id B010-096, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-096",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-07.html"
+        ]
+      }
+    },
+    "personalized-teachers-classroom-rug-custom-teacher-name-c-design-04": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teachers-classroom-rug-custom-teacher-name-c-design-04: proposed title 'Personalized Kindness Rules Rug' and description 'Customize a kindness rules rug with teacher-name text, checkerboard border, illustrated...' keep the same product/theme shown in evidence B010-097.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-097",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-04.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teachers-classroom-rug-custom-teacher-name-c-design-04: customer copy is limited to visible/product facts such as 'teacher-name classroom rules rug with black-and-white checkerboard border, illustrated child...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-097",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-04.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teachers-classroom-rug-custom-teacher-name-c-design-04: primary keyword 'personalized kindness rules rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-097",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-04.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teachers-classroom-rug-custom-teacher-name-c-design-04: proposed copy targets the same search intent as 'personalized kindness rules rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-097",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-04.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teachers-classroom-rug-custom-teacher-name-c-design-04: current support is 'SERP_ONLY: public marketplace/category results show personalized classroom rugs, custom teac...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-097",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-04.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teachers-classroom-rug-custom-teacher-name-c-design-04: title 'Personalized Kindness Rules Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-097",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-04.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teachers-classroom-rug-custom-teacher-name-c-design-04: meta title 'Personalized Kindness Rules Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-097",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-04.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teachers-classroom-rug-custom-teacher-name-c-design-04: meta 'Customize a kindness rules rug with teacher-name text, checkerboard border, illustrated children, and positive c...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-097",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-04.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teachers-classroom-rug-custom-teacher-name-c-design-04: description begins 'Customize a kindness rules rug with teacher-name text, checkerboard border, illustrated children, and positive c...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-097",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-04.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teachers-classroom-rug-custom-teacher-name-c-design-04: workbook row, evidence id B010-097, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-097",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-04.html"
+        ]
+      }
+    },
+    "personalized-teachers-classroom-rug-custom-teacher-name-c-design-01": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teachers-classroom-rug-custom-teacher-name-c-design-01: proposed title 'Classroom Zone of Tolerance Rug' and description 'Create a Zone of Tolerance classroom rug with overwhelmed, just right, and shut down pa...' keep the same product/theme shown in evidence B010-098.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-098",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-01.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teachers-classroom-rug-custom-teacher-name-c-design-01: customer copy is limited to visible/product facts such as 'dark border classroom rug with My Zone of Tolerance headline, panels for overwhelmed, just r...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-098",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-01.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teachers-classroom-rug-custom-teacher-name-c-design-01: primary keyword 'classroom zone of tolerance rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-098",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-01.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teachers-classroom-rug-custom-teacher-name-c-design-01: proposed copy targets the same search intent as 'classroom zone of tolerance rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-098",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-01.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teachers-classroom-rug-custom-teacher-name-c-design-01: current support is 'SERP_ONLY: public marketplace/category results show personalized classroom rugs, custom teac...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-098",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-01.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teachers-classroom-rug-custom-teacher-name-c-design-01: title 'Classroom Zone of Tolerance Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-098",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-01.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teachers-classroom-rug-custom-teacher-name-c-design-01: meta title 'Classroom Zone of Tolerance Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-098",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-01.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teachers-classroom-rug-custom-teacher-name-c-design-01: meta 'Create a Zone of Tolerance classroom rug with overwhelmed, just right, and shut down panels plus coping actions...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-098",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-01.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teachers-classroom-rug-custom-teacher-name-c-design-01: description begins 'Create a Zone of Tolerance classroom rug with overwhelmed, just right, and shut down panels plus coping actions...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-098",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-01.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teachers-classroom-rug-custom-teacher-name-c-design-01: workbook row, evidence id B010-098, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-098",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-01.html"
+        ]
+      }
+    },
+    "personalized-teachers-classroom-rug-custom-teacher-name-c-design-05": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teachers-classroom-rug-custom-teacher-name-c-design-05: proposed title 'Personalized Voice Level Classroom Rug' and description 'Customize a voice level classroom rug with teacher-name text, a 0-4 noise chart, colorf...' keep the same product/theme shown in evidence B010-099.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-099",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-05.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teachers-classroom-rug-custom-teacher-name-c-design-05: customer copy is limited to visible/product facts such as 'black classroom rug with Voice Level title, teacher-name classroom text, color-coded levels...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-099",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-05.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teachers-classroom-rug-custom-teacher-name-c-design-05: primary keyword 'personalized voice level classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-099",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-05.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teachers-classroom-rug-custom-teacher-name-c-design-05: proposed copy targets the same search intent as 'personalized voice level classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-099",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-05.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teachers-classroom-rug-custom-teacher-name-c-design-05: current support is 'SERP_ONLY: public marketplace/category results show personalized classroom rugs, custom teac...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-099",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-05.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teachers-classroom-rug-custom-teacher-name-c-design-05: title 'Personalized Voice Level Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-099",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-05.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teachers-classroom-rug-custom-teacher-name-c-design-05: meta title 'Personalized Voice Level Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-099",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-05.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teachers-classroom-rug-custom-teacher-name-c-design-05: meta 'Customize a voice level classroom rug with teacher-name text, a 0-4 noise chart, colorful icons, and clear routi...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-099",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-05.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teachers-classroom-rug-custom-teacher-name-c-design-05: description begins 'Customize a voice level classroom rug with teacher-name text, a 0-4 noise chart, colorful icons, and clear routi...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-099",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-05.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teachers-classroom-rug-custom-teacher-name-c-design-05: workbook row, evidence id B010-099, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-099",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-05.html"
+        ]
+      }
+    },
+    "personalized-teachers-classroom-rug-custom-teacher-name-c-design-06": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teachers-classroom-rug-custom-teacher-name-c-design-06: proposed title 'Personalized Behavior Champs Rug' and description 'Customize a Behavior Champs rug with teacher-name text, school icons, and listening, ki...' keep the same product/theme shown in evidence B010-100.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-100",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-06.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teachers-classroom-rug-custom-teacher-name-c-design-06: customer copy is limited to visible/product facts such as 'bold red and black classroom rug with Behavior Champs title, teacher-name classroom rules te...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-100",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-06.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teachers-classroom-rug-custom-teacher-name-c-design-06: primary keyword 'personalized behavior champs rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-100",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-06.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teachers-classroom-rug-custom-teacher-name-c-design-06: proposed copy targets the same search intent as 'personalized behavior champs rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-100",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-06.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teachers-classroom-rug-custom-teacher-name-c-design-06: current support is 'SERP_ONLY: public marketplace/category results show personalized classroom rugs, custom teac...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-100",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-06.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teachers-classroom-rug-custom-teacher-name-c-design-06: title 'Personalized Behavior Champs Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-100",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-06.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teachers-classroom-rug-custom-teacher-name-c-design-06: meta title 'Personalized Behavior Champs Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-100",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-06.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teachers-classroom-rug-custom-teacher-name-c-design-06: meta 'Customize a Behavior Champs rug with teacher-name text, school icons, and listening, kindness, sharing, and help...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-100",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-06.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teachers-classroom-rug-custom-teacher-name-c-design-06: description begins 'Customize a Behavior Champs rug with teacher-name text, school icons, and listening, kindness, sharing, and help...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-100",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-06.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teachers-classroom-rug-custom-teacher-name-c-design-06: workbook row, evidence id B010-100, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R086\\SEO_Product_Optimization_revision_R086.xlsx",
+          "product_evidence:B010-100",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B010_pages\\personalized-teachers-classroom-rug-custom-teacher-name-c-design-06.html"
+        ]
+      }
+    }
+  }
+}

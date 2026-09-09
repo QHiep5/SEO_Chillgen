@@ -1,0 +1,47 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "rubric_hash": "c2c1defdb72362291f7da656fa7fea9283a02782fc8ca66d2e4637f2511500dd",
+  "qa_run_id": "QA-20260909-B029-R105-GOVERNANCE",
+  "qa_batch_id": "REV_R105",
+  "batch_id": "B029",
+  "revision_id": "R105",
+  "parent_run_id": "",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R105\\SEO_Product_Optimization_revision_R105.xlsx",
+  "source_workbook_sha256": "50bfb09cd306dc70d06d5633d4994fd2f586195b140c9b2281f77701267ed372",
+  "scope_hash": "7a24f7adc093ef6008f8f6ea4ac063d3142df1811537716f61212da0ef07491f",
+  "batch_product_keys": [
+    "custom-running-horse-welcome-mat-fade3d1429",
+    "custom-running-horse-doormat-2a0ef19423-2a0ef19423",
+    "horse-area-rug-running-carpet-beb8f5b5cd-beb8f5b5cd",
+    "custom-running-horse-doormat-b25dd5e514",
+    "custom-western-running-horse-door-mat-e6671cf5b4-e6671cf5b4",
+    "custom-running-horse-welcome-mat-34b7c38f01",
+    "custom-running-horse-welcome-mat-509ed4d18f-509ed4d18f",
+    "custom-running-horse-area-rug-e5f0770fd6-e5f0770fd6",
+    "custom-running-horse-welcome-mat-1edee5e89b-1edee5e89b",
+    "custom-running-horse-welcome-mat-01f80a49ee"
+  ],
+  "status_counts": {
+    "QA_PASS": 10,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "issue_counts": {
+    "CRITICAL": 0,
+    "MAJOR": 0,
+    "MINOR": 0,
+    "LIMITATION": 20
+  },
+  "batch_status": "QA_PASS",
+  "content_qa_status": "QA_PASS",
+  "evidence_maturity": "SERP_ONLY",
+  "canonical": true,
+  "supersedes": [
+    "QA-20260907-AGENT-B029"
+  ],
+  "manual_image_evidence": "seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\reviewer\\B029_R105_independent_fullres.json",
+  "manual_criteria_evidence": "seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\reviewer\\R105_criteria_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED",
+  "created_at": "2026-09-09T18:17:32+07:00"
+}

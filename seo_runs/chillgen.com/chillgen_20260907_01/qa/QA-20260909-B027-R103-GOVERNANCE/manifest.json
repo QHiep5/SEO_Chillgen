@@ -1,0 +1,47 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "rubric_hash": "c2c1defdb72362291f7da656fa7fea9283a02782fc8ca66d2e4637f2511500dd",
+  "qa_run_id": "QA-20260909-B027-R103-GOVERNANCE",
+  "qa_batch_id": "REV_R103",
+  "batch_id": "B027",
+  "revision_id": "R103",
+  "parent_run_id": "",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R103\\SEO_Product_Optimization_revision_R103.xlsx",
+  "source_workbook_sha256": "630d688fdafa248675f71c6d15bf6798697ea1e4039e79496eef428c3cf3de33",
+  "scope_hash": "7f333448e55d1a381a2310086dca3a30e3277f31bcc6c1a7b0aefffc67c607c3",
+  "batch_product_keys": [
+    "personalized-orthodox-doormat-with-christian-cross-and-eagle-6be5c719a3-6be5c719a3",
+    "personalized-orthodox-christian-area-rug-00beb8fce2",
+    "custom-orthodox-rug-three-bar-cross-byzantine-eagle-d81169235b-d81169235b",
+    "personalized-orthodox-christian-area-rug-fb5a56fef9-fb5a56fef9",
+    "personalized-teachers-classroom-rules-rug-b0d7bd292a-b0d7bd292a",
+    "personalized-classroom-rules-welcome-mat-07b188eb0d",
+    "personalized-teachers-classroom-rug-with-custom-name-87d858996b",
+    "personalized-classroom-rules-rug-custom-teacher-name-2b9854c06f",
+    "personalized-classroom-rules-rug-with-custom-teacher-name-ad0787fb44",
+    "custom-octopus-shaped-area-rug-9041fd8f83"
+  ],
+  "status_counts": {
+    "QA_PASS": 10,
+    "QA_REVISE": 0,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "issue_counts": {
+    "CRITICAL": 0,
+    "MAJOR": 0,
+    "MINOR": 0,
+    "LIMITATION": 20
+  },
+  "batch_status": "QA_PASS",
+  "content_qa_status": "QA_PASS",
+  "evidence_maturity": "SERP_ONLY",
+  "canonical": true,
+  "supersedes": [
+    "QA-20260907-AGENT-B027"
+  ],
+  "manual_image_evidence": "seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\reviewer\\B027_R103_independent_fullres.json",
+  "manual_criteria_evidence": "seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\reviewer\\R103_criteria_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED",
+  "created_at": "2026-09-09T18:08:45+07:00"
+}

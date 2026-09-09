@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "R090",
+  "batch_id": "B014",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+  "source_workbook_sha256": "92c3ddef9e1919ef7b3c53a432c22d70455d2d87da71ca9d5dbce8be617d02ec",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-R090-CRITERIA-01",
+    "reviewed_at": "2026-09-09T16:52:05+07:00"
+  },
+  "reviewed_at": "2026-09-09T16:52:05+07:00",
+  "products": {
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-110": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for wheel-of-feelings-and-emotions-round-rug-educational-men-design-110: proposed title 'My Feelings Emotion Wheel Rug' and description 'Create a My Feelings emotion wheel rug with pastel emotion panels, cartoon kid faces, a...' keep the same product/theme shown in evidence B014-131.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-131",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-110.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for wheel-of-feelings-and-emotions-round-rug-educational-men-design-110: customer copy is limited to visible/product facts such as 'round pastel classroom rug with My Feelings center text and cartoon kid emotion panels label...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-131",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-110.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for wheel-of-feelings-and-emotions-round-rug-educational-men-design-110: primary keyword 'my feelings emotion wheel rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-131",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-110.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for wheel-of-feelings-and-emotions-round-rug-educational-men-design-110: proposed copy targets the same search intent as 'my feelings emotion wheel rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-131",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-110.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for wheel-of-feelings-and-emotions-round-rug-educational-men-design-110: current support is 'SERP_ONLY: public marketplace/category results show demand language around feelings/emotions...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-131",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-110.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for wheel-of-feelings-and-emotions-round-rug-educational-men-design-110: title 'My Feelings Emotion Wheel Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-131",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-110.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for wheel-of-feelings-and-emotions-round-rug-educational-men-design-110: meta title 'My Feelings Emotion Wheel Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-131",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-110.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for wheel-of-feelings-and-emotions-round-rug-educational-men-design-110: meta 'Create a My Feelings emotion wheel rug with pastel emotion panels, cartoon kid faces, and gentle SEL classroom c...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-131",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-110.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for wheel-of-feelings-and-emotions-round-rug-educational-men-design-110: description begins 'Create a My Feelings emotion wheel rug with pastel emotion panels, cartoon kid faces, and gentle SEL classroom c...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-131",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-110.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for wheel-of-feelings-and-emotions-round-rug-educational-men-design-110: workbook row, evidence id B014-131, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-131",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-110.html"
+        ]
+      }
+    },
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-111": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for wheel-of-feelings-and-emotions-round-rug-educational-men-design-111: proposed title 'Today I'm Feeling Classroom Rug' and description 'Create a Today I'm Feeling classroom rug with a rainbow emotion wheel, cartoon feeling...' keep the same product/theme shown in evidence B014-132.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-132",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-111.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for wheel-of-feelings-and-emotions-round-rug-educational-men-design-111: customer copy is limited to visible/product facts such as 'round rainbow classroom rug with Today I'm Feeling center text and colored emotion slices la...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-132",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-111.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for wheel-of-feelings-and-emotions-round-rug-educational-men-design-111: primary keyword 'today i'm feeling classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-132",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-111.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for wheel-of-feelings-and-emotions-round-rug-educational-men-design-111: proposed copy targets the same search intent as 'today i'm feeling classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-132",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-111.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for wheel-of-feelings-and-emotions-round-rug-educational-men-design-111: current support is 'SERP_ONLY: public marketplace/category results show demand language around feelings/emotions...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-132",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-111.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for wheel-of-feelings-and-emotions-round-rug-educational-men-design-111: title 'Today I'm Feeling Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-132",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-111.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for wheel-of-feelings-and-emotions-round-rug-educational-men-design-111: meta title 'Today I'm Feeling Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-132",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-111.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for wheel-of-feelings-and-emotions-round-rug-educational-men-design-111: meta 'Create a Today I'm Feeling classroom rug with a rainbow emotion wheel, cartoon feeling faces, and bright SEL wor...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-132",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-111.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for wheel-of-feelings-and-emotions-round-rug-educational-men-design-111: description begins 'Create a Today I'm Feeling classroom rug with a rainbow emotion wheel, cartoon feeling faces, and bright SEL wor...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-132",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-111.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for wheel-of-feelings-and-emotions-round-rug-educational-men-design-111: workbook row, evidence id B014-132, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-132",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-111.html"
+        ]
+      }
+    },
+    "halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat: proposed title 'Personalized Black Cat Halloween Mat' and description 'Customize a black cat Halloween doormat with family-name text, a witch, ghosts, pumpkin...' keep the same product/theme shown in evidence B014-133.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-133",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat: customer copy is limited to visible/product facts such as 'black and orange Halloween doormat with Happy Halloween center label, family-name personaliz...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-133",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat: primary keyword 'personalized black cat Halloween mat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-133",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat: proposed copy targets the same search intent as 'personalized black cat Halloween mat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-133",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat: current support is 'SERP_ONLY: public marketplace/category results show demand language around feelings/emotions...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-133",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat: title 'Personalized Black Cat Halloween Mat' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-133",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat: meta title 'Personalized Black Cat Halloween Mat' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-133",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat: meta 'Customize a black cat Halloween doormat with family-name text, a witch, ghosts, pumpkins, skulls, and spooky wel...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-133",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat: description begins 'Customize a black cat Halloween doormat with family-name text, a witch, ghosts, pumpkins, skulls, and spooky wel...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-133",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat: workbook row, evidence id B014-133, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-133",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-with-black-cat.html"
+        ]
+      }
+    },
+    "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100: proposed title 'Custom Pumpkin Skull Halloween Mat' and description 'Customize a pumpkin skull Halloween doormat with spooky night artwork, jack-o-lanterns,...' keep the same product/theme shown in evidence B014-134.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-134",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100: customer copy is limited to visible/product facts such as 'dark purple Halloween doormat with rows of jack-o-lanterns, skull pumpkins, moonlit night ac...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-134",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100: primary keyword 'custom pumpkin skull Halloween mat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-134",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100: proposed copy targets the same search intent as 'custom pumpkin skull Halloween mat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-134",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100: current support is 'SERP_ONLY: public marketplace/category results show demand language around feelings/emotions...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-134",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100: title 'Custom Pumpkin Skull Halloween Mat' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-134",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100: meta title 'Custom Pumpkin Skull Halloween Mat' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-134",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100: meta 'Customize a pumpkin skull Halloween doormat with spooky night artwork, jack-o-lanterns, skull details, and custo...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-134",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100: description begins 'Customize a pumpkin skull Halloween doormat with spooky night artwork, jack-o-lanterns, skull details, and custo...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-134",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100: workbook row, evidence id B014-134, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-134",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-100.html"
+        ]
+      }
+    },
+    "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101: proposed title 'Personalized Family Halloween Mat' and description 'Customize a family Halloween doormat with established-year text, black cat, witch hat,...' keep the same product/theme shown in evidence B014-135.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-135",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101: customer copy is limited to visible/product facts such as 'tan Halloween family doormat with The Custom Family and Est. 2018 text, black ornamental fra...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-135",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101: primary keyword 'personalized family Halloween mat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-135",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101: proposed copy targets the same search intent as 'personalized family Halloween mat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-135",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101: current support is 'SERP_ONLY: public marketplace/category results show demand language around feelings/emotions...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-135",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101: title 'Personalized Family Halloween Mat' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-135",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101: meta title 'Personalized Family Halloween Mat' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-135",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101: meta 'Customize a family Halloween doormat with established-year text, black cat, witch hat, bats, ghost, skull, and c...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-135",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101: description begins 'Customize a family Halloween doormat with established-year text, black cat, witch hat, bats, ghost, skull, and c...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-135",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101: workbook row, evidence id B014-135, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-135",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-101.html"
+        ]
+      }
+    },
+    "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102: proposed title 'Black Cat Full Moon Halloween Mat' and description 'Customize a black cat full moon Halloween doormat with pumpkin forest artwork, moonlit...' keep the same product/theme shown in evidence B014-136.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-136",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102: customer copy is limited to visible/product facts such as 'purple and orange Halloween doormat with black cat in front of a full moon, pumpkins, lanter...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-136",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102: primary keyword 'black cat full moon Halloween mat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-136",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102: proposed copy targets the same search intent as 'black cat full moon Halloween mat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-136",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102: current support is 'SERP_ONLY: public marketplace/category results show demand language around feelings/emotions...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-136",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102: title 'Black Cat Full Moon Halloween Mat' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-136",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102: meta title 'Black Cat Full Moon Halloween Mat' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-136",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102: meta 'Customize a black cat full moon Halloween doormat with pumpkin forest artwork, moonlit details, and personalized...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-136",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102: description begins 'Customize a black cat full moon Halloween doormat with pumpkin forest artwork, moonlit details, and personalized...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-136",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102: workbook row, evidence id B014-136, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-136",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-102.html"
+        ]
+      }
+    },
+    "halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103: proposed title 'Personalized Haunted Home Mat' and description 'Customize a haunted home Halloween doormat with family-name text, haunted house artwork...' keep the same product/theme shown in evidence B014-137.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-137",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103: customer copy is limited to visible/product facts such as 'tan Halloween doormat with Welcome to Our Haunted Home text, family-name personalization rib...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-137",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103: primary keyword 'personalized haunted home mat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-137",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103: proposed copy targets the same search intent as 'personalized haunted home mat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-137",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103: current support is 'SERP_ONLY: public marketplace/category results show demand language around feelings/emotions...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-137",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103: title 'Personalized Haunted Home Mat' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-137",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103: meta title 'Personalized Haunted Home Mat' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-137",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103: meta 'Customize a haunted home Halloween doormat with family-name text, haunted house artwork, bats, pumpkins, and a g...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-137",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103: description begins 'Customize a haunted home Halloween doormat with family-name text, haunted house artwork, bats, pumpkins, and a g...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-137",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103: workbook row, evidence id B014-137, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-137",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\halloween-door-mat-outdoor-custom-spooky-welcome-mat-wit-design-103.html"
+        ]
+      }
+    },
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area: proposed title 'Black Cat Portal Halloween Rug' and description 'Create a black cat portal Halloween round rug with glowing purple eyes, a 3D illusion r...' keep the same product/theme shown in evidence B014-138.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-138",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area: customer copy is limited to visible/product facts such as 'round Halloween rug with black cat reaching from a purple glowing portal, orange and purple...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-138",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area: primary keyword 'black cat portal Halloween rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-138",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area: proposed copy targets the same search intent as 'black cat portal Halloween rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-138",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area: current support is 'SERP_ONLY: public marketplace/category results show demand language around feelings/emotions...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-138",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area: title 'Black Cat Portal Halloween Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-138",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area: meta title 'Black Cat Portal Halloween Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-138",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area: meta 'Create a black cat portal Halloween round rug with glowing purple eyes, a 3D illusion ring, and dark seasonal ar...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-138",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area: description begins 'Create a black cat portal Halloween round rug with glowing purple eyes, a 3D illusion ring, and dark seasonal ar...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-138",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area: workbook row, evidence id B014-138, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-138",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-horror-area.html"
+        ]
+      }
+    },
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100: proposed title '3D Skeleton Pit Halloween Rug' and description 'Create a 3D skeleton pit Halloween rug with a stone tunnel illusion, skulls, ladders, t...' keep the same product/theme shown in evidence B014-139.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-139",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100: customer copy is limited to visible/product facts such as 'round 3D optical illusion rug showing a deep stone pit or tunnel with skulls, skeleton figur...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-139",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100: primary keyword '3D skeleton pit Halloween rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-139",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100: proposed copy targets the same search intent as '3D skeleton pit Halloween rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-139",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100: current support is 'SERP_ONLY: public marketplace/category results show demand language around feelings/emotions...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-139",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100: title '3D Skeleton Pit Halloween Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-139",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100: meta title '3D Skeleton Pit Halloween Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-139",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100: meta 'Create a 3D skeleton pit Halloween rug with a stone tunnel illusion, skulls, ladders, torch lights, and horror a...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-139",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100: description begins 'Create a 3D skeleton pit Halloween rug with a stone tunnel illusion, skulls, ladders, torch lights, and horror a...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-139",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100: workbook row, evidence id B014-139, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-139",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-100.html"
+        ]
+      }
+    },
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101: proposed title 'Haunted Mansion Halloween Rug' and description 'Create a haunted mansion Halloween round rug with glowing windows, pumpkins, bats, dark...' keep the same product/theme shown in evidence B014-140.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-140",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101: customer copy is limited to visible/product facts such as 'round Halloween rug with haunted mansion artwork, glowing yellow windows, large pumpkins, ba...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-140",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101: primary keyword 'haunted mansion Halloween rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-140",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101: proposed copy targets the same search intent as 'haunted mansion Halloween rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-140",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101: current support is 'SERP_ONLY: public marketplace/category results show demand language around feelings/emotions...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-140",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101: title 'Haunted Mansion Halloween Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-140",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101: meta title 'Haunted Mansion Halloween Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-140",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101: meta 'Create a haunted mansion Halloween round rug with glowing windows, pumpkins, bats, dark night artwork, and spook...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-140",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101: description begins 'Create a haunted mansion Halloween round rug with glowing windows, pumpkins, bats, dark night artwork, and spook...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-140",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101: workbook row, evidence id B014-140, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R090\\SEO_Product_Optimization_revision_R090.xlsx",
+          "product_evidence:B014-140",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B014_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-101.html"
+        ]
+      }
+    }
+  }
+}

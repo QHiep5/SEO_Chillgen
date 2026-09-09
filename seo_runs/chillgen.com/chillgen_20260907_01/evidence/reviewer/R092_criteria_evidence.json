@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "R092",
+  "batch_id": "B016",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+  "source_workbook_sha256": "d646ab4a8df1dd6ed40fae21057b6ed05b1172372f3ba1d0971226431f72895f",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-R092-CRITERIA-01",
+    "reviewed_at": "2026-09-09T17:10:03+07:00"
+  },
+  "reviewed_at": "2026-09-09T17:10:03+07:00",
+  "products": {
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112: proposed title 'Witch Hat Pumpkin Halloween Rug' and description 'Create a witch hat pumpkin Halloween rug with witch hat and pumpkin artwork, a deep opt...' keep the same product/theme shown in evidence B016-151.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-151",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112: customer copy is limited to visible/product facts such as 'round Halloween rug with smiling jack-o-lantern wearing a black witch hat, orange fall leave...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-151",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112: primary keyword 'witch hat pumpkin Halloween rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-151",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112: proposed copy targets the same search intent as 'witch hat pumpkin Halloween rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-151",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112: current support is 'Marketplace results show demand around Halloween optical illusion rugs, ghost/skeleton/pumpk...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-151",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112: title 'Witch Hat Pumpkin Halloween Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-151",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112: meta title 'Witch Hat Pumpkin Halloween Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-151",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112: meta 'Create a witch hat pumpkin Halloween rug with witch hat and pumpkin artwork, a deep optical-illusion effect, aut...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-151",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112: description begins 'Create a witch hat pumpkin Halloween rug with witch hat and pumpkin artwork, a deep optical-illusion effect, aut...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-151",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112: workbook row, evidence id B016-151, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-151",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-112.html"
+        ]
+      }
+    },
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113: proposed title 'Grim Reaper Halloween Rug' and description 'Create a grim reaper Halloween rug with grim reaper artwork, cemetery details, a dramat...' keep the same product/theme shown in evidence B016-152.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-152",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113: customer copy is limited to visible/product facts such as 'round rug with hooded grim reaper holding a candle in a misty cemetery, tombstones, bats, pu...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-152",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113: primary keyword 'grim reaper Halloween rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-152",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113: proposed copy targets the same search intent as 'grim reaper Halloween rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-152",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113: current support is 'Marketplace results show demand around Halloween optical illusion rugs, ghost/skeleton/pumpk...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-152",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113: title 'Grim Reaper Halloween Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-152",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113: meta title 'Grim Reaper Halloween Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-152",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113: meta 'Create a grim reaper Halloween rug with grim reaper artwork, cemetery details, a dramatic tunnel effect, and dar...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-152",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113: description begins 'Create a grim reaper Halloween rug with grim reaper artwork, cemetery details, a dramatic tunnel effect, and dar...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-152",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113: workbook row, evidence id B016-152, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-152",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-113.html"
+        ]
+      }
+    },
+    "custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114: proposed title 'Haunted House Halloween Rug' and description 'Create a haunted house Halloween rug with haunted house artwork, pumpkins, moonlit deta...' keep the same product/theme shown in evidence B016-153.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-153",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114: customer copy is limited to visible/product facts such as 'round rug with gothic haunted house, glowing orange windows, pumpkin-lined walkway, bare tre...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-153",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114: primary keyword 'haunted house Halloween rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-153",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114: proposed copy targets the same search intent as 'haunted house Halloween rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-153",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114: current support is 'Marketplace results show demand around Halloween optical illusion rugs, ghost/skeleton/pumpk...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-153",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114: title 'Haunted House Halloween Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-153",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114: meta title 'Haunted House Halloween Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-153",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114: meta 'Create a haunted house Halloween rug with haunted house artwork, pumpkins, moonlit details, and a dramatic seaso...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-153",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114: description begins 'Create a haunted house Halloween rug with haunted house artwork, pumpkins, moonlit details, and a dramatic seaso...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-153",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114: workbook row, evidence id B016-153, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-153",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\custom-halloween-3d-optical-illusion-round-rug-skeleton-h-design-114.html"
+        ]
+      }
+    },
+    "personalized-orthodox-christian-area-rug-custom-eastern-orthodox": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-orthodox-christian-area-rug-custom-eastern-orthodox: proposed title 'Blue Orthodox Cross Area Rug' and description 'Create a blue Orthodox cross area rug with a blue Orthodox cross, decorative border det...' keep the same product/theme shown in evidence B016-154.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-154",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-orthodox.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-orthodox-christian-area-rug-custom-eastern-orthodox: customer copy is limited to visible/product facts such as 'rectangular navy blue rug with ornate gold Eastern Orthodox cross, gold scroll border, size...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-154",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-orthodox.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-orthodox-christian-area-rug-custom-eastern-orthodox: primary keyword 'blue Orthodox cross area rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-154",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-orthodox.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-orthodox-christian-area-rug-custom-eastern-orthodox: proposed copy targets the same search intent as 'blue Orthodox cross area rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-154",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-orthodox.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-orthodox-christian-area-rug-custom-eastern-orthodox: current support is 'Marketplace results show demand around Halloween optical illusion rugs, ghost/skeleton/pumpk...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-154",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-orthodox.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-orthodox-christian-area-rug-custom-eastern-orthodox: title 'Blue Orthodox Cross Area Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-154",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-orthodox.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-orthodox-christian-area-rug-custom-eastern-orthodox: meta title 'Blue Orthodox Cross Area Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-154",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-orthodox.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-orthodox-christian-area-rug-custom-eastern-orthodox: meta 'Create a blue Orthodox cross area rug with a blue Orthodox cross, decorative border details, and a calm religiou...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-154",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-orthodox.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-orthodox-christian-area-rug-custom-eastern-orthodox: description begins 'Create a blue Orthodox cross area rug with a blue Orthodox cross, decorative border details, and a calm religiou...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-154",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-orthodox.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-orthodox-christian-area-rug-custom-eastern-orthodox: workbook row, evidence id B016-154, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-154",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-orthodox.html"
+        ]
+      }
+    },
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-100": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-orthodox-christian-area-rug-custom-eastern-design-100: proposed title 'Red Gold Orthodox Cross Rug' and description 'Create a red gold Orthodox cross rug with a red and gold Orthodox cross, ornate border...' keep the same product/theme shown in evidence B016-155.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-155",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-100.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-orthodox-christian-area-rug-custom-eastern-design-100: customer copy is limited to visible/product facts such as 'rectangular red rug with gold Orthodox cross, ornate cream and gold border, floral accents,...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-155",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-100.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-orthodox-christian-area-rug-custom-eastern-design-100: primary keyword 'red gold Orthodox cross rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-155",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-100.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-orthodox-christian-area-rug-custom-eastern-design-100: proposed copy targets the same search intent as 'red gold Orthodox cross rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-155",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-100.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-orthodox-christian-area-rug-custom-eastern-design-100: current support is 'Marketplace results show demand around Halloween optical illusion rugs, ghost/skeleton/pumpk...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-155",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-100.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-orthodox-christian-area-rug-custom-eastern-design-100: title 'Red Gold Orthodox Cross Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-155",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-100.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-orthodox-christian-area-rug-custom-eastern-design-100: meta title 'Red Gold Orthodox Cross Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-155",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-100.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-orthodox-christian-area-rug-custom-eastern-design-100: meta 'Create a red gold Orthodox cross rug with a red and gold Orthodox cross, ornate border details, and a warm relig...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-155",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-100.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-orthodox-christian-area-rug-custom-eastern-design-100: description begins 'Create a red gold Orthodox cross rug with a red and gold Orthodox cross, ornate border details, and a warm relig...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-155",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-100.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-orthodox-christian-area-rug-custom-eastern-design-100: workbook row, evidence id B016-155, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-155",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-100.html"
+        ]
+      }
+    },
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-101": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-orthodox-christian-area-rug-custom-eastern-design-101: proposed title 'Book Style Orthodox Cross Rug' and description 'Create a book style Orthodox cross rug with a book-style Orthodox cross, red and gold d...' keep the same product/theme shown in evidence B016-156.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-156",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-101.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-orthodox-christian-area-rug-custom-eastern-design-101: customer copy is limited to visible/product facts such as 'rectangular rug with red Orthodox cross centered on a gold book-like sacred art panel, teal...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-156",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-101.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-orthodox-christian-area-rug-custom-eastern-design-101: primary keyword 'book style Orthodox cross rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-156",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-101.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-orthodox-christian-area-rug-custom-eastern-design-101: proposed copy targets the same search intent as 'book style Orthodox cross rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-156",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-101.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-orthodox-christian-area-rug-custom-eastern-design-101: current support is 'Marketplace results show demand around Halloween optical illusion rugs, ghost/skeleton/pumpk...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-156",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-101.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-orthodox-christian-area-rug-custom-eastern-design-101: title 'Book Style Orthodox Cross Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-156",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-101.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-orthodox-christian-area-rug-custom-eastern-design-101: meta title 'Book Style Orthodox Cross Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-156",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-101.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-orthodox-christian-area-rug-custom-eastern-design-101: meta 'Create a book style Orthodox cross rug with a book-style Orthodox cross, red and gold details, and a distinctive...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-156",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-101.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-orthodox-christian-area-rug-custom-eastern-design-101: description begins 'Create a book style Orthodox cross rug with a book-style Orthodox cross, red and gold details, and a distinctive...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-156",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-101.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-orthodox-christian-area-rug-custom-eastern-design-101: workbook row, evidence id B016-156, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-156",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-101.html"
+        ]
+      }
+    },
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-102": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-orthodox-christian-area-rug-custom-eastern-design-102: proposed title 'Black Gold Orthodox Cross Rug' and description 'Create a black gold Orthodox cross rug with a black and gold Orthodox cross, ornate bor...' keep the same product/theme shown in evidence B016-157.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-157",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-102.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-orthodox-christian-area-rug-custom-eastern-design-102: customer copy is limited to visible/product facts such as 'rectangular black rug with gold Orthodox cross and gold ornamental border, size guide, sofa...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-157",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-102.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-orthodox-christian-area-rug-custom-eastern-design-102: primary keyword 'black gold Orthodox cross rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-157",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-102.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-orthodox-christian-area-rug-custom-eastern-design-102: proposed copy targets the same search intent as 'black gold Orthodox cross rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-157",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-102.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-orthodox-christian-area-rug-custom-eastern-design-102: current support is 'Marketplace results show demand around Halloween optical illusion rugs, ghost/skeleton/pumpk...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-157",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-102.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-orthodox-christian-area-rug-custom-eastern-design-102: title 'Black Gold Orthodox Cross Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-157",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-102.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-orthodox-christian-area-rug-custom-eastern-design-102: meta title 'Black Gold Orthodox Cross Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-157",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-102.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-orthodox-christian-area-rug-custom-eastern-design-102: meta 'Create a black gold Orthodox cross rug with a black and gold Orthodox cross, ornate border details, and a dramat...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-157",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-102.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-orthodox-christian-area-rug-custom-eastern-design-102: description begins 'Create a black gold Orthodox cross rug with a black and gold Orthodox cross, ornate border details, and a dramat...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-157",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-102.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-orthodox-christian-area-rug-custom-eastern-design-102: workbook row, evidence id B016-157, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-157",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-102.html"
+        ]
+      }
+    },
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-103": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-orthodox-christian-area-rug-custom-eastern-design-103: proposed title 'Burgundy Orthodox Cross Rug' and description 'Create a burgundy Orthodox cross rug with a burgundy Orthodox cross, red floral border...' keep the same product/theme shown in evidence B016-158.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-158",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-103.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-orthodox-christian-area-rug-custom-eastern-design-103: customer copy is limited to visible/product facts such as 'rectangular burgundy red rug with silver Orthodox cross, yellow and white floral border, siz...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-158",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-103.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-orthodox-christian-area-rug-custom-eastern-design-103: primary keyword 'burgundy Orthodox cross rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-158",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-103.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-orthodox-christian-area-rug-custom-eastern-design-103: proposed copy targets the same search intent as 'burgundy Orthodox cross rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-158",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-103.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-orthodox-christian-area-rug-custom-eastern-design-103: current support is 'Marketplace results show demand around Halloween optical illusion rugs, ghost/skeleton/pumpk...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-158",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-103.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-orthodox-christian-area-rug-custom-eastern-design-103: title 'Burgundy Orthodox Cross Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-158",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-103.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-orthodox-christian-area-rug-custom-eastern-design-103: meta title 'Burgundy Orthodox Cross Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-158",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-103.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-orthodox-christian-area-rug-custom-eastern-design-103: meta 'Create a burgundy Orthodox cross rug with a burgundy Orthodox cross, red floral border details, and a rich relig...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-158",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-103.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-orthodox-christian-area-rug-custom-eastern-design-103: description begins 'Create a burgundy Orthodox cross rug with a burgundy Orthodox cross, red floral border details, and a rich relig...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-158",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-103.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-orthodox-christian-area-rug-custom-eastern-design-103: workbook row, evidence id B016-158, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-158",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-103.html"
+        ]
+      }
+    },
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-104": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-orthodox-christian-area-rug-custom-eastern-design-104: proposed title 'Black Orthodox Cross Area Rug' and description 'Create a black Orthodox cross area rug with a black Orthodox cross, gold border details...' keep the same product/theme shown in evidence B016-159.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-159",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-104.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-orthodox-christian-area-rug-custom-eastern-design-104: customer copy is limited to visible/product facts such as 'rectangular black rug with large gold Orthodox cross, clean gold border and corner ornaments...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-159",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-104.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-orthodox-christian-area-rug-custom-eastern-design-104: primary keyword 'black Orthodox cross area rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-159",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-104.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-orthodox-christian-area-rug-custom-eastern-design-104: proposed copy targets the same search intent as 'black Orthodox cross area rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-159",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-104.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-orthodox-christian-area-rug-custom-eastern-design-104: current support is 'Marketplace results show demand around Halloween optical illusion rugs, ghost/skeleton/pumpk...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-159",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-104.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-orthodox-christian-area-rug-custom-eastern-design-104: title 'Black Orthodox Cross Area Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-159",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-104.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-orthodox-christian-area-rug-custom-eastern-design-104: meta title 'Black Orthodox Cross Area Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-159",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-104.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-orthodox-christian-area-rug-custom-eastern-design-104: meta 'Create a black Orthodox cross area rug with a black Orthodox cross, gold border details, and a refined religious...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-159",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-104.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-orthodox-christian-area-rug-custom-eastern-design-104: description begins 'Create a black Orthodox cross area rug with a black Orthodox cross, gold border details, and a refined religious...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-159",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-104.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-orthodox-christian-area-rug-custom-eastern-design-104: workbook row, evidence id B016-159, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-159",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-104.html"
+        ]
+      }
+    },
+    "personalized-orthodox-christian-area-rug-custom-eastern-design-105": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-orthodox-christian-area-rug-custom-eastern-design-105: proposed title 'Navy Gold Orthodox Cross Rug' and description 'Create a navy gold Orthodox cross rug with a navy and gold Orthodox cross, decorative b...' keep the same product/theme shown in evidence B016-160.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-160",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-105.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-orthodox-christian-area-rug-custom-eastern-design-105: customer copy is limited to visible/product facts such as 'rectangular navy blue rug with gold Orthodox cross outline, ornate gold border and floral co...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-160",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-105.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-orthodox-christian-area-rug-custom-eastern-design-105: primary keyword 'navy gold Orthodox cross rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-160",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-105.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-orthodox-christian-area-rug-custom-eastern-design-105: proposed copy targets the same search intent as 'navy gold Orthodox cross rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-160",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-105.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-orthodox-christian-area-rug-custom-eastern-design-105: current support is 'Marketplace results show demand around Halloween optical illusion rugs, ghost/skeleton/pumpk...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-160",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-105.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-orthodox-christian-area-rug-custom-eastern-design-105: title 'Navy Gold Orthodox Cross Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-160",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-105.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-orthodox-christian-area-rug-custom-eastern-design-105: meta title 'Navy Gold Orthodox Cross Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-160",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-105.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-orthodox-christian-area-rug-custom-eastern-design-105: meta 'Create a navy gold Orthodox cross rug with a navy and gold Orthodox cross, decorative border details, and a clas...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-160",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-105.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-orthodox-christian-area-rug-custom-eastern-design-105: description begins 'Create a navy gold Orthodox cross rug with a navy and gold Orthodox cross, decorative border details, and a clas...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-160",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-105.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-orthodox-christian-area-rug-custom-eastern-design-105: workbook row, evidence id B016-160, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R092\\SEO_Product_Optimization_revision_R092.xlsx",
+          "product_evidence:B016-160",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B016_pages\\personalized-orthodox-christian-area-rug-custom-eastern-design-105.html"
+        ]
+      }
+    }
+  }
+}

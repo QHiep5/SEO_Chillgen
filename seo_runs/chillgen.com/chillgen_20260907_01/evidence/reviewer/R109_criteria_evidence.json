@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "R109",
+  "batch_id": "B033",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+  "source_workbook_sha256": "71b337bcb6e273657c9f9433bc88bbc674b2efd48b5cc4cf83264b8adb8bd968",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-R109-CRITERIA-01",
+    "reviewed_at": "2026-09-09T18:38:35+07:00"
+  },
+  "reviewed_at": "2026-09-09T18:38:35+07:00",
+  "products": {
+    "personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4: proposed title 'Game Of Champions Soccer Rug' and description 'Create a Game Of Champions soccer rug with a Game Of Champions soccer and football desi...' keep the same product/theme shown in evidence B033-321.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-321",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4: customer copy is limited to visible/product facts such as 'rectangular soccer area rug with 2026 text, Game of Champions lettering, large soccer ball o...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-321",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4: primary keyword 'Game Of Champions soccer rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-321",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4: proposed copy targets the same search intent as 'Game Of Champions soccer rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-321",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4: current support is 'Marketplace and retail SERPs support soccer 2026 rugs, soccer trophy area rugs, championship...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-321",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4: title 'Game Of Champions Soccer Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-321",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4: meta title 'Game Of Champions Soccer Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-321",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4: meta 'Create a Game Of Champions soccer rug with a Game Of Champions soccer and football design with a ball, trophy, a...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-321",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4: description begins 'Create a Game Of Champions soccer rug with a Game Of Champions soccer and football design with a ball, trophy, a...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-321",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4: workbook row, evidence id B033-321, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-321",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4.html"
+        ]
+      }
+    },
+    "custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520: proposed title 'USA World Game 2026 Rug' and description 'Create a USA World Game 2026 rug with a USA World Game 2026 design with a soccer ball,...' keep the same product/theme shown in evidence B033-322.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-322",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520: customer copy is limited to visible/product facts such as 'rectangular soccer rug reading The World Game 2026 with USA text on a green field, eagle cre...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-322",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520: primary keyword 'USA World Game 2026 rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-322",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520: proposed copy targets the same search intent as 'USA World Game 2026 rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-322",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520: current support is 'Marketplace and retail SERPs support soccer 2026 rugs, soccer trophy area rugs, championship...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-322",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520: title 'USA World Game 2026 Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-322",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520: meta title 'USA World Game 2026 Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-322",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520: meta 'Create a USA World Game 2026 rug with a USA World Game 2026 design with a soccer ball, trophy, and patriotic det...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-322",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520: description begins 'Create a USA World Game 2026 rug with a USA World Game 2026 design with a soccer ball, trophy, and patriotic det...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-322",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520: workbook row, evidence id B033-322, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-322",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520.html"
+        ]
+      }
+    },
+    "personalized-soccer-2026-area-rug-95231047da-95231047da": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-soccer-2026-area-rug-95231047da-95231047da: proposed title 'Host Flags Swirl Soccer Rug' and description 'Create a host flags swirl soccer rug with a host flags swirl soccer design with USA, Ca...' keep the same product/theme shown in evidence B033-323.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-323",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-soccer-2026-area-rug-95231047da-95231047da.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-soccer-2026-area-rug-95231047da-95231047da: customer copy is limited to visible/product facts such as 'bright rectangular soccer rug with swirling USA, Canada and Mexico flag bands, green stadium...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-323",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-soccer-2026-area-rug-95231047da-95231047da.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-soccer-2026-area-rug-95231047da-95231047da: primary keyword 'host flags swirl soccer rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-323",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-soccer-2026-area-rug-95231047da-95231047da.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-soccer-2026-area-rug-95231047da-95231047da: proposed copy targets the same search intent as 'host flags swirl soccer rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-323",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-soccer-2026-area-rug-95231047da-95231047da.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-soccer-2026-area-rug-95231047da-95231047da: current support is 'Marketplace and retail SERPs support soccer 2026 rugs, soccer trophy area rugs, championship...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-323",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-soccer-2026-area-rug-95231047da-95231047da.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-soccer-2026-area-rug-95231047da-95231047da: title 'Host Flags Swirl Soccer Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-323",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-soccer-2026-area-rug-95231047da-95231047da.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-soccer-2026-area-rug-95231047da-95231047da: meta title 'Host Flags Swirl Soccer Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-323",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-soccer-2026-area-rug-95231047da-95231047da.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-soccer-2026-area-rug-95231047da-95231047da: meta 'Create a host flags swirl soccer rug with a host flags swirl soccer design with USA, Canada, and Mexico colors f...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-323",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-soccer-2026-area-rug-95231047da-95231047da.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-soccer-2026-area-rug-95231047da-95231047da: description begins 'Create a host flags swirl soccer rug with a host flags swirl soccer design with USA, Canada, and Mexico colors f...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-323",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-soccer-2026-area-rug-95231047da-95231047da.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-soccer-2026-area-rug-95231047da-95231047da: workbook row, evidence id B033-323, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-323",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-soccer-2026-area-rug-95231047da-95231047da.html"
+        ]
+      }
+    },
+    "custom-soccer-round-rug-trophy-championship-043ff71141": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-soccer-round-rug-trophy-championship-043ff71141: proposed title 'World Game 2026 Round Rug' and description 'Create a World Game 2026 round rug with a round World Game 2026 soccer design with a tr...' keep the same product/theme shown in evidence B033-324.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-324",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-round-rug-trophy-championship-043ff71141.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-soccer-round-rug-trophy-championship-043ff71141: customer copy is limited to visible/product facts such as 'round soccer rug reading The World Game 2026 with gold trophy, soccer ball, USA, Canada and...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-324",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-round-rug-trophy-championship-043ff71141.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-soccer-round-rug-trophy-championship-043ff71141: primary keyword 'World Game 2026 round rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-324",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-round-rug-trophy-championship-043ff71141.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-soccer-round-rug-trophy-championship-043ff71141: proposed copy targets the same search intent as 'World Game 2026 round rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-324",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-round-rug-trophy-championship-043ff71141.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-soccer-round-rug-trophy-championship-043ff71141: current support is 'Marketplace and retail SERPs support soccer 2026 rugs, soccer trophy area rugs, championship...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-324",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-round-rug-trophy-championship-043ff71141.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-soccer-round-rug-trophy-championship-043ff71141: title 'World Game 2026 Round Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-324",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-round-rug-trophy-championship-043ff71141.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-soccer-round-rug-trophy-championship-043ff71141: meta title 'World Game 2026 Round Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-324",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-round-rug-trophy-championship-043ff71141.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-soccer-round-rug-trophy-championship-043ff71141: meta 'Create a World Game 2026 round rug with a round World Game 2026 soccer design with a trophy and tournament detai...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-324",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-round-rug-trophy-championship-043ff71141.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-soccer-round-rug-trophy-championship-043ff71141: description begins 'Create a World Game 2026 round rug with a round World Game 2026 soccer design with a trophy and tournament detai...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-324",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-round-rug-trophy-championship-043ff71141.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-soccer-round-rug-trophy-championship-043ff71141: workbook row, evidence id B033-324, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-324",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-round-rug-trophy-championship-043ff71141.html"
+        ]
+      }
+    },
+    "custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9: proposed title 'World Flags Trophy Round Rug' and description 'Create a world flags trophy round rug with a round soccer trophy design with world flag...' keep the same product/theme shown in evidence B033-325.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-325",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9: customer copy is limited to visible/product facts such as 'round soccer rug with central gold trophy, soccer balls, USA, Canada and Mexico flags, color...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-325",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9: primary keyword 'world flags trophy round rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-325",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9: proposed copy targets the same search intent as 'world flags trophy round rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-325",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9: current support is 'Marketplace and retail SERPs support soccer 2026 rugs, soccer trophy area rugs, championship...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-325",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9: title 'World Flags Trophy Round Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-325",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9: meta title 'World Flags Trophy Round Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-325",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9: meta 'Create a world flags trophy round rug with a round soccer trophy design with world flags and tournament details...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-325",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9: description begins 'Create a world flags trophy round rug with a round soccer trophy design with world flags and tournament details...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-325",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9: workbook row, evidence id B033-325, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-325",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9.html"
+        ]
+      }
+    },
+    "personalized-dog-welcome-mat-front-door-36fdce22f9": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-dog-welcome-mat-front-door-36fdce22f9: proposed title 'Humans Live Here Pet Mat' and description 'Create a Humans Live Here pet mat with a Humans Live Here message with pet-themed artwo...' keep the same product/theme shown in evidence B033-326.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-326",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-front-door-36fdce22f9.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-dog-welcome-mat-front-door-36fdce22f9: customer copy is limited to visible/product facts such as 'gray pet welcome mat reading Welcome To Our Home The Humans Just Live Here With Us with two...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-326",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-front-door-36fdce22f9.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-dog-welcome-mat-front-door-36fdce22f9: primary keyword 'Humans Live Here pet mat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-326",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-front-door-36fdce22f9.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-dog-welcome-mat-front-door-36fdce22f9: proposed copy targets the same search intent as 'Humans Live Here pet mat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-326",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-front-door-36fdce22f9.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-dog-welcome-mat-front-door-36fdce22f9: current support is 'Marketplace and retail SERPs support soccer 2026 rugs, soccer trophy area rugs, championship...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-326",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-front-door-36fdce22f9.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-dog-welcome-mat-front-door-36fdce22f9: title 'Humans Live Here Pet Mat' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-326",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-front-door-36fdce22f9.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-dog-welcome-mat-front-door-36fdce22f9: meta title 'Humans Live Here Pet Mat' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-326",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-front-door-36fdce22f9.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-dog-welcome-mat-front-door-36fdce22f9: meta 'Create a Humans Live Here pet mat with a Humans Live Here message with pet-themed artwork for a front door, entr...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-326",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-front-door-36fdce22f9.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-dog-welcome-mat-front-door-36fdce22f9: description begins 'Create a Humans Live Here pet mat with a Humans Live Here message with pet-themed artwork for a front door, entr...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-326",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-front-door-36fdce22f9.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-dog-welcome-mat-front-door-36fdce22f9: workbook row, evidence id B033-326, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-326",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-front-door-36fdce22f9.html"
+        ]
+      }
+    },
+    "personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d: proposed title 'Approved By Dog Photo Mat' and description 'Create an Approved By Dog photo mat with an Approved By Dog message with a custom pet p...' keep the same product/theme shown in evidence B033-327.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-327",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d: customer copy is limited to visible/product facts such as 'tan and black custom pet photo mat reading Visitors Must Be Approved By Dogs Name with circu...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-327",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d: primary keyword 'Approved By Dog photo mat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-327",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d: proposed copy targets the same search intent as 'Approved By Dog photo mat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-327",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d: current support is 'Marketplace and retail SERPs support soccer 2026 rugs, soccer trophy area rugs, championship...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-327",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d: title 'Approved By Dog Photo Mat' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-327",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d: meta title 'Approved By Dog Photo Mat' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-327",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d: meta 'Create an Approved By Dog photo mat with an Approved By Dog message with a custom pet photo concept for a front...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-327",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d: description begins 'Create an Approved By Dog photo mat with an Approved By Dog message with a custom pet photo concept for a front...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-327",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d: workbook row, evidence id B033-327, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-327",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d.html"
+        ]
+      }
+    },
+    "personalized-dog-welcome-mat-entryway-front-door-5385d11bb7": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-dog-welcome-mat-entryway-front-door-5385d11bb7: proposed title 'Three Pet Welcome Mat' and description 'Create a three pet welcome mat with a Three Pet welcome design for a front door, entryw...' keep the same product/theme shown in evidence B033-328.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-328",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-entryway-front-door-5385d11bb7.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-dog-welcome-mat-entryway-front-door-5385d11bb7: customer copy is limited to visible/product facts such as 'tan welcome mat with three illustrated pets and names Loki, Daisy and Bailey, black border,...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-328",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-entryway-front-door-5385d11bb7.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-dog-welcome-mat-entryway-front-door-5385d11bb7: primary keyword 'three pet welcome mat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-328",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-entryway-front-door-5385d11bb7.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-dog-welcome-mat-entryway-front-door-5385d11bb7: proposed copy targets the same search intent as 'three pet welcome mat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-328",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-entryway-front-door-5385d11bb7.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-dog-welcome-mat-entryway-front-door-5385d11bb7: current support is 'Marketplace and retail SERPs support soccer 2026 rugs, soccer trophy area rugs, championship...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-328",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-entryway-front-door-5385d11bb7.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-dog-welcome-mat-entryway-front-door-5385d11bb7: title 'Three Pet Welcome Mat' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-328",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-entryway-front-door-5385d11bb7.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-dog-welcome-mat-entryway-front-door-5385d11bb7: meta title 'Three Pet Welcome Mat' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-328",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-entryway-front-door-5385d11bb7.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-dog-welcome-mat-entryway-front-door-5385d11bb7: meta 'Create a three pet welcome mat with a Three Pet welcome design for a front door, entryway, or home with multiple...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-328",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-entryway-front-door-5385d11bb7.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-dog-welcome-mat-entryway-front-door-5385d11bb7: description begins 'Create a three pet welcome mat with a Three Pet welcome design for a front door, entryway, or home with multiple...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-328",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-entryway-front-door-5385d11bb7.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-dog-welcome-mat-entryway-front-door-5385d11bb7: workbook row, evidence id B033-328, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-328",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-mat-entryway-front-door-5385d11bb7.html"
+        ]
+      }
+    },
+    "personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c: proposed title 'Loki's House Dog Mat' and description 'Create a Loki's House dog mat with a Loki's House message with a dog-themed welcome des...' keep the same product/theme shown in evidence B033-329.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-329",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c: customer copy is limited to visible/product facts such as 'tan single-pet mat reading Welcome To Loki's House with black and white dog illustration, pa...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-329",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c: primary keyword 'Loki's House dog mat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-329",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c: proposed copy targets the same search intent as 'Loki's House dog mat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-329",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c: current support is 'Marketplace and retail SERPs support soccer 2026 rugs, soccer trophy area rugs, championship...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-329",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c: title 'Loki's House Dog Mat' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-329",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c: meta title 'Loki's House Dog Mat' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-329",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c: meta 'Create a Loki's House dog mat with a Loki's House message with a dog-themed welcome design for a front door or e...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-329",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c: description begins 'Create a Loki's House dog mat with a Loki's House message with a dog-themed welcome design for a front door or e...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-329",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c: workbook row, evidence id B033-329, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-329",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c.html"
+        ]
+      }
+    },
+    "personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662: proposed title 'Four Pet Welcome Home Mat' and description 'Create a four pet welcome home mat with a Four Pet Welcome Home design for a front door...' keep the same product/theme shown in evidence B033-330.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-330",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662: customer copy is limited to visible/product facts such as 'tan multi-pet mat reading Welcome To Our Home The Humans Just Live Here With Us with four pe...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-330",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662: primary keyword 'four pet welcome home mat' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-330",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662: proposed copy targets the same search intent as 'four pet welcome home mat' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-330",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662: current support is 'Marketplace and retail SERPs support soccer 2026 rugs, soccer trophy area rugs, championship...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-330",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662: title 'Four Pet Welcome Home Mat' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-330",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662: meta title 'Four Pet Welcome Home Mat' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-330",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662: meta 'Create a four pet welcome home mat with a Four Pet Welcome Home design for a front door, entryway, or home with...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-330",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662: description begins 'Create a four pet welcome home mat with a Four Pet Welcome Home design for a front door, entryway, or home with...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-330",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662: workbook row, evidence id B033-330, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+          "product_evidence:B033-330",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B033_pages\\personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662.html"
+        ]
+      }
+    }
+  }
+}

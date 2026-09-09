@@ -128,12 +128,13 @@ def update_registry(record):
     if any(r.get("qa_run_id") == record["qa_run_id"] for r in runs):
         raise RuntimeError(f"Duplicate qa_run_id already exists in registry: {record['qa_run_id']}")
     if record.get("canonical") is True:
+        explicit_supersedes = [x.strip() for x in str(record.get("supersedes") or "").split(",") if x.strip()]
         for row in runs:
             if (
                 row.get("batch_id") == record.get("batch_id") and
                 row.get("revision_id") == record.get("revision_id") and
                 row.get("canonical") is True
-            ):
+            ) or row.get("qa_run_id") in explicit_supersedes:
                 row["canonical"] = False
                 row["superseded_by"] = record["qa_run_id"]
                 row["registry_status"] = "SUPERSEDED"
@@ -467,6 +468,12 @@ def main():
                 rating, reason = "FAIL", "Identity or revision consistency gate failed for this product."
             add(cid, rating, reason, eref)
 
+        # A partial K3 is itself an evidence limitation even when the source
+        # note does not contain an explicit "no volume" phrase.
+        k3_review = next((x for x in criteria if x[0] == "K3"), None)
+        if k3_review and k3_review[1] == "PARTIAL" and not any(i[4] == "K3" for i in issues):
+            issues.append([f"{revision}-QA-LK3-{handle[:20]}", handle, "", "LIMITATION", "K3", "SERP_ONLY/no_volume", "Keyword demand is supported only by public SERP or marketplace semantics; direct volume or first-party demand is not verified.", "", "Obtain Search Console, Ads Keyword Planner, or another cited volume source if demand verification is required.", refs, "Re-run if stronger demand evidence is added."])
+
         for img in sorted(images[handle], key=lambda x: int(val(x, "image_number") or 0)):
             ikey = f"{handle}__img_{int(val(img, 'image_number') or 0):02d}"
             m = manual_images.get(ikey, {}) if isinstance(manual_images, dict) and handle not in invalid_image_handles else {}
@@ -542,7 +549,16 @@ def main():
         "MINOR": sum(1 for r in qissues if r[3] == "MINOR"),
         "LIMITATION": sum(1 for r in qissues if r[3] == "LIMITATION"),
     }
-    evidence_maturity = "SERP_ONLY" if any(r[4] == "K3" and r[5] == "SERP_ONLY/no_volume" for r in qissues) else "DEMAND_SUPPORTED"
+    # Derive maturity from the per-product result, not only from emitted issues.
+    # K3 can be PARTIAL without creating a separate issue row, so issue-only
+    # inference could incorrectly promote a SERP_ONLY batch to DEMAND_SUPPORTED.
+    keyword_levels = {str(r[9] or "").upper() for r in qproducts}
+    if "SERP_ONLY" in keyword_levels:
+        evidence_maturity = "SERP_ONLY"
+    elif "UNVERIFIABLE" in keyword_levels:
+        evidence_maturity = "HYPOTHESIS_ONLY"
+    else:
+        evidence_maturity = "DEMAND_SUPPORTED"
     summary = [
         ("rubric_version", "prompt_qa.md v1.0"),
         ("rubric_hash", rubric_hash),

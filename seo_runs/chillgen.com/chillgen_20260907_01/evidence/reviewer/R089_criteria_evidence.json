@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "R089",
+  "batch_id": "B013",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+  "source_workbook_sha256": "3221f60474c7772f5fb674f6f08b6446576a260a9e8481af849b5345b67f9d05",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-R089-CRITERIA-01",
+    "reviewed_at": "2026-09-09T16:43:25+07:00"
+  },
+  "reviewed_at": "2026-09-09T16:43:25+07:00",
+  "products": {
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-100": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for wheel-of-feelings-and-emotions-round-rug-educational-men-design-100: proposed title 'Round Learn Shapes Classroom Rug' and description 'Create a round learn shapes classroom rug with labeled shape panels, cheerful colors, a...' keep the same product/theme shown in evidence B013-121.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-121",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-100.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for wheel-of-feelings-and-emotions-round-rug-educational-men-design-100: customer copy is limited to visible/product facts such as 'round educational rug with Learn Shapes center text, bright labeled panels for hexagon, circ...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-121",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-100.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for wheel-of-feelings-and-emotions-round-rug-educational-men-design-100: primary keyword 'round learn shapes classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-121",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-100.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for wheel-of-feelings-and-emotions-round-rug-educational-men-design-100: proposed copy targets the same search intent as 'round learn shapes classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-121",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-100.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for wheel-of-feelings-and-emotions-round-rug-educational-men-design-100: current support is 'SERP_ONLY: public marketplace/category and education-resource pages show demand language aro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-121",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-100.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for wheel-of-feelings-and-emotions-round-rug-educational-men-design-100: title 'Round Learn Shapes Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-121",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-100.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for wheel-of-feelings-and-emotions-round-rug-educational-men-design-100: meta title 'Round Learn Shapes Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-121",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-100.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for wheel-of-feelings-and-emotions-round-rug-educational-men-design-100: meta 'Create a round learn shapes classroom rug with labeled shape panels, cheerful colors, and playful early-learning...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-121",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-100.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for wheel-of-feelings-and-emotions-round-rug-educational-men-design-100: description begins 'Create a round learn shapes classroom rug with labeled shape panels, cheerful colors, and playful early-learning...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-121",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-100.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for wheel-of-feelings-and-emotions-round-rug-educational-men-design-100: workbook row, evidence id B013-121, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-121",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-100.html"
+        ]
+      }
+    },
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-101": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for wheel-of-feelings-and-emotions-round-rug-educational-men-design-101: proposed title 'Emoji Feelings Wheel Classroom Rug' and description 'Create an emoji feelings wheel classroom rug with How Are You Feeling text, emotion fac...' keep the same product/theme shown in evidence B013-122.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-122",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-101.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for wheel-of-feelings-and-emotions-round-rug-educational-men-design-101: customer copy is limited to visible/product facts such as 'dark blue round rug with How Are You Feeling text, large emoji face center, colorful emotion...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-122",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-101.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for wheel-of-feelings-and-emotions-round-rug-educational-men-design-101: primary keyword 'emoji feelings wheel classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-122",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-101.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for wheel-of-feelings-and-emotions-round-rug-educational-men-design-101: proposed copy targets the same search intent as 'emoji feelings wheel classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-122",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-101.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for wheel-of-feelings-and-emotions-round-rug-educational-men-design-101: current support is 'SERP_ONLY: public marketplace/category and education-resource pages show demand language aro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-122",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-101.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for wheel-of-feelings-and-emotions-round-rug-educational-men-design-101: title 'Emoji Feelings Wheel Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-122",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-101.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for wheel-of-feelings-and-emotions-round-rug-educational-men-design-101: meta title 'Emoji Feelings Wheel Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-122",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-101.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for wheel-of-feelings-and-emotions-round-rug-educational-men-design-101: meta 'Create an emoji feelings wheel classroom rug with How Are You Feeling text, emotion faces, and colorful SEL prom...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-122",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-101.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for wheel-of-feelings-and-emotions-round-rug-educational-men-design-101: description begins 'Create an emoji feelings wheel classroom rug with How Are You Feeling text, emotion faces, and colorful SEL prom...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-122",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-101.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for wheel-of-feelings-and-emotions-round-rug-educational-men-design-101: workbook row, evidence id B013-122, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-122",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-101.html"
+        ]
+      }
+    },
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-102": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for wheel-of-feelings-and-emotions-round-rug-educational-men-design-102: proposed title 'How Do You Feel Today Rug' and description 'Create a How Do You Feel Today rug with colorful emotion faces, bold lettering, and a p...' keep the same product/theme shown in evidence B013-123.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-123",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-102.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for wheel-of-feelings-and-emotions-round-rug-educational-men-design-102: customer copy is limited to visible/product facts such as 'white round classroom rug with large multicolor How Do You Feel Today text, surrounding emot...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-123",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-102.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for wheel-of-feelings-and-emotions-round-rug-educational-men-design-102: primary keyword 'how do you feel today rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-123",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-102.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for wheel-of-feelings-and-emotions-round-rug-educational-men-design-102: proposed copy targets the same search intent as 'how do you feel today rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-123",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-102.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for wheel-of-feelings-and-emotions-round-rug-educational-men-design-102: current support is 'SERP_ONLY: public marketplace/category and education-resource pages show demand language aro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-123",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-102.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for wheel-of-feelings-and-emotions-round-rug-educational-men-design-102: title 'How Do You Feel Today Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-123",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-102.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for wheel-of-feelings-and-emotions-round-rug-educational-men-design-102: meta title 'How Do You Feel Today Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-123",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-102.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for wheel-of-feelings-and-emotions-round-rug-educational-men-design-102: meta 'Create a How Do You Feel Today rug with colorful emotion faces, bold lettering, and a playful doodle-style border.' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-123",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-102.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for wheel-of-feelings-and-emotions-round-rug-educational-men-design-102: description begins 'Create a How Do You Feel Today rug with colorful emotion faces, bold lettering, and a playful doodle-style borde...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-123",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-102.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for wheel-of-feelings-and-emotions-round-rug-educational-men-design-102: workbook row, evidence id B013-123, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-123",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-102.html"
+        ]
+      }
+    },
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-103": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for wheel-of-feelings-and-emotions-round-rug-educational-men-design-103: proposed title 'Round Days of the Week Classroom Rug' and description 'Create a round days of the week classroom rug with Monday through Sunday labels, activi...' keep the same product/theme shown in evidence B013-124.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-124",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-103.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for wheel-of-feelings-and-emotions-round-rug-educational-men-design-103: customer copy is limited to visible/product facts such as 'round educational rug with Days of the Week center text and bright panels labeled Monday thr...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-124",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-103.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for wheel-of-feelings-and-emotions-round-rug-educational-men-design-103: primary keyword 'round days of the week classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-124",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-103.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for wheel-of-feelings-and-emotions-round-rug-educational-men-design-103: proposed copy targets the same search intent as 'round days of the week classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-124",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-103.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for wheel-of-feelings-and-emotions-round-rug-educational-men-design-103: current support is 'SERP_ONLY: public marketplace/category and education-resource pages show demand language aro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-124",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-103.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for wheel-of-feelings-and-emotions-round-rug-educational-men-design-103: title 'Round Days of the Week Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-124",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-103.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for wheel-of-feelings-and-emotions-round-rug-educational-men-design-103: meta title 'Round Days of the Week Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-124",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-103.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for wheel-of-feelings-and-emotions-round-rug-educational-men-design-103: meta 'Create a round days of the week classroom rug with Monday through Sunday labels, activity icons, and bright cale...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-124",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-103.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for wheel-of-feelings-and-emotions-round-rug-educational-men-design-103: description begins 'Create a round days of the week classroom rug with Monday through Sunday labels, activity icons, and bright cale...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-124",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-103.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for wheel-of-feelings-and-emotions-round-rug-educational-men-design-103: workbook row, evidence id B013-124, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-124",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-103.html"
+        ]
+      }
+    },
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-104": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for wheel-of-feelings-and-emotions-round-rug-educational-men-design-104: proposed title 'Kids Feelings and Emotions Rug' and description 'Create a kids feelings and emotions rug with cartoon emotion panels, expressive faces,...' keep the same product/theme shown in evidence B013-125.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-125",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-104.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for wheel-of-feelings-and-emotions-round-rug-educational-men-design-104: customer copy is limited to visible/product facts such as 'round classroom rug with Feelings and Emotions center text and colored emotion slices featur...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-125",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-104.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for wheel-of-feelings-and-emotions-round-rug-educational-men-design-104: primary keyword 'kids feelings and emotions rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-125",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-104.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for wheel-of-feelings-and-emotions-round-rug-educational-men-design-104: proposed copy targets the same search intent as 'kids feelings and emotions rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-125",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-104.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for wheel-of-feelings-and-emotions-round-rug-educational-men-design-104: current support is 'SERP_ONLY: public marketplace/category and education-resource pages show demand language aro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-125",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-104.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for wheel-of-feelings-and-emotions-round-rug-educational-men-design-104: title 'Kids Feelings and Emotions Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-125",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-104.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for wheel-of-feelings-and-emotions-round-rug-educational-men-design-104: meta title 'Kids Feelings and Emotions Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-125",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-104.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for wheel-of-feelings-and-emotions-round-rug-educational-men-design-104: meta 'Create a kids feelings and emotions rug with cartoon emotion panels, expressive faces, and colorful SEL vocabulary.' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-125",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-104.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for wheel-of-feelings-and-emotions-round-rug-educational-men-design-104: description begins 'Create a kids feelings and emotions rug with cartoon emotion panels, expressive faces, and colorful SEL vocabula...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-125",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-104.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for wheel-of-feelings-and-emotions-round-rug-educational-men-design-104: workbook row, evidence id B013-125, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-125",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-104.html"
+        ]
+      }
+    },
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-105": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for wheel-of-feelings-and-emotions-round-rug-educational-men-design-105: proposed title 'Round Weather and Seasons Rug' and description 'Create a round weather and seasons rug with sunny, rainy, windy, and snowy panels aroun...' keep the same product/theme shown in evidence B013-126.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-126",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-105.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for wheel-of-feelings-and-emotions-round-rug-educational-men-design-105: customer copy is limited to visible/product facts such as 'round educational rug with outer weather panels labeled sunny, rainy, windy and snowy, cente...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-126",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-105.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for wheel-of-feelings-and-emotions-round-rug-educational-men-design-105: primary keyword 'round weather and seasons rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-126",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-105.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for wheel-of-feelings-and-emotions-round-rug-educational-men-design-105: proposed copy targets the same search intent as 'round weather and seasons rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-126",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-105.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for wheel-of-feelings-and-emotions-round-rug-educational-men-design-105: current support is 'SERP_ONLY: public marketplace/category and education-resource pages show demand language aro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-126",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-105.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for wheel-of-feelings-and-emotions-round-rug-educational-men-design-105: title 'Round Weather and Seasons Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-126",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-105.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for wheel-of-feelings-and-emotions-round-rug-educational-men-design-105: meta title 'Round Weather and Seasons Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-126",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-105.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for wheel-of-feelings-and-emotions-round-rug-educational-men-design-105: meta 'Create a round weather and seasons rug with sunny, rainy, windy, and snowy panels around a spring-to-winter cent...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-126",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-105.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for wheel-of-feelings-and-emotions-round-rug-educational-men-design-105: description begins 'Create a round weather and seasons rug with sunny, rainy, windy, and snowy panels around a spring-to-winter cent...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-126",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-105.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for wheel-of-feelings-and-emotions-round-rug-educational-men-design-105: workbook row, evidence id B013-126, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-126",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-105.html"
+        ]
+      }
+    },
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-106": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for wheel-of-feelings-and-emotions-round-rug-educational-men-design-106: proposed title 'Round Learn Colors Classroom Rug' and description 'Create a round learn colors classroom rug with labeled color slices, crayon characters,...' keep the same product/theme shown in evidence B013-127.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-127",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-106.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for wheel-of-feelings-and-emotions-round-rug-educational-men-design-106: customer copy is limited to visible/product facts such as 'round educational rug with Learn Colors center text and colored slices labeled black, white,...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-127",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-106.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for wheel-of-feelings-and-emotions-round-rug-educational-men-design-106: primary keyword 'round learn colors classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-127",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-106.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for wheel-of-feelings-and-emotions-round-rug-educational-men-design-106: proposed copy targets the same search intent as 'round learn colors classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-127",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-106.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for wheel-of-feelings-and-emotions-round-rug-educational-men-design-106: current support is 'SERP_ONLY: public marketplace/category and education-resource pages show demand language aro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-127",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-106.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for wheel-of-feelings-and-emotions-round-rug-educational-men-design-106: title 'Round Learn Colors Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-127",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-106.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for wheel-of-feelings-and-emotions-round-rug-educational-men-design-106: meta title 'Round Learn Colors Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-127",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-106.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for wheel-of-feelings-and-emotions-round-rug-educational-men-design-106: meta 'Create a round learn colors classroom rug with labeled color slices, crayon characters, and bright early-learnin...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-127",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-106.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for wheel-of-feelings-and-emotions-round-rug-educational-men-design-106: description begins 'Create a round learn colors classroom rug with labeled color slices, crayon characters, and bright early-learnin...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-127",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-106.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for wheel-of-feelings-and-emotions-round-rug-educational-men-design-106: workbook row, evidence id B013-127, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-127",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-106.html"
+        ]
+      }
+    },
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-107": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for wheel-of-feelings-and-emotions-round-rug-educational-men-design-107: proposed title 'Animal Feelings Classroom Rug' and description 'Create an animal feelings classroom rug with animal character faces, emotion labels, an...' keep the same product/theme shown in evidence B013-128.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-128",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-107.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for wheel-of-feelings-and-emotions-round-rug-educational-men-design-107: customer copy is limited to visible/product facts such as 'round classroom rug with Feelings and Emotions center text and animal character emotion slic...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-128",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-107.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for wheel-of-feelings-and-emotions-round-rug-educational-men-design-107: primary keyword 'animal feelings classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-128",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-107.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for wheel-of-feelings-and-emotions-round-rug-educational-men-design-107: proposed copy targets the same search intent as 'animal feelings classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-128",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-107.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for wheel-of-feelings-and-emotions-round-rug-educational-men-design-107: current support is 'SERP_ONLY: public marketplace/category and education-resource pages show demand language aro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-128",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-107.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for wheel-of-feelings-and-emotions-round-rug-educational-men-design-107: title 'Animal Feelings Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-128",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-107.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for wheel-of-feelings-and-emotions-round-rug-educational-men-design-107: meta title 'Animal Feelings Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-128",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-107.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for wheel-of-feelings-and-emotions-round-rug-educational-men-design-107: meta 'Create an animal feelings classroom rug with animal character faces, emotion labels, and cheerful SEL color.' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-128",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-107.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for wheel-of-feelings-and-emotions-round-rug-educational-men-design-107: description begins 'Create an animal feelings classroom rug with animal character faces, emotion labels, and cheerful SEL color. The...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-128",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-107.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for wheel-of-feelings-and-emotions-round-rug-educational-men-design-107: workbook row, evidence id B013-128, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-128",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-107.html"
+        ]
+      }
+    },
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-108": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for wheel-of-feelings-and-emotions-round-rug-educational-men-design-108: proposed title 'Round Months and Seasons Rug' and description 'Create a round months and seasons rug with January through December labels, a seasonal...' keep the same product/theme shown in evidence B013-129.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-129",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-108.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for wheel-of-feelings-and-emotions-round-rug-educational-men-design-108: customer copy is limited to visible/product facts such as 'round educational rug with central tree showing four seasonal quadrants, inner season labels...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-129",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-108.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for wheel-of-feelings-and-emotions-round-rug-educational-men-design-108: primary keyword 'round months and seasons rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-129",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-108.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for wheel-of-feelings-and-emotions-round-rug-educational-men-design-108: proposed copy targets the same search intent as 'round months and seasons rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-129",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-108.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for wheel-of-feelings-and-emotions-round-rug-educational-men-design-108: current support is 'SERP_ONLY: public marketplace/category and education-resource pages show demand language aro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-129",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-108.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for wheel-of-feelings-and-emotions-round-rug-educational-men-design-108: title 'Round Months and Seasons Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-129",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-108.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for wheel-of-feelings-and-emotions-round-rug-educational-men-design-108: meta title 'Round Months and Seasons Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-129",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-108.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for wheel-of-feelings-and-emotions-round-rug-educational-men-design-108: meta 'Create a round months and seasons rug with January through December labels, a seasonal tree center, and calendar...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-129",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-108.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for wheel-of-feelings-and-emotions-round-rug-educational-men-design-108: description begins 'Create a round months and seasons rug with January through December labels, a seasonal tree center, and calendar...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-129",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-108.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for wheel-of-feelings-and-emotions-round-rug-educational-men-design-108: workbook row, evidence id B013-129, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-129",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-108.html"
+        ]
+      }
+    },
+    "wheel-of-feelings-and-emotions-round-rug-educational-men-design-109": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for wheel-of-feelings-and-emotions-round-rug-educational-men-design-109: proposed title 'Animal Friends Classroom Rug' and description 'Create a round animal friends classroom rug with labeled animal panels, cheerful charac...' keep the same product/theme shown in evidence B013-130.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-130",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-109.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for wheel-of-feelings-and-emotions-round-rug-educational-men-design-109: customer copy is limited to visible/product facts such as 'round educational rug with Animal Friends center text and labeled animal panels including bu...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-130",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-109.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for wheel-of-feelings-and-emotions-round-rug-educational-men-design-109: primary keyword 'animal friends classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-130",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-109.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for wheel-of-feelings-and-emotions-round-rug-educational-men-design-109: proposed copy targets the same search intent as 'animal friends classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-130",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-109.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for wheel-of-feelings-and-emotions-round-rug-educational-men-design-109: current support is 'SERP_ONLY: public marketplace/category and education-resource pages show demand language aro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-130",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-109.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for wheel-of-feelings-and-emotions-round-rug-educational-men-design-109: title 'Animal Friends Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-130",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-109.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for wheel-of-feelings-and-emotions-round-rug-educational-men-design-109: meta title 'Animal Friends Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-130",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-109.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for wheel-of-feelings-and-emotions-round-rug-educational-men-design-109: meta 'Create a round animal friends classroom rug with labeled animal panels, cheerful character artwork, and bright c...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-130",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-109.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for wheel-of-feelings-and-emotions-round-rug-educational-men-design-109: description begins 'Create a round animal friends classroom rug with labeled animal panels, cheerful character artwork, and bright c...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-130",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-109.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for wheel-of-feelings-and-emotions-round-rug-educational-men-design-109: workbook row, evidence id B013-130, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R089\\SEO_Product_Optimization_revision_R089.xlsx",
+          "product_evidence:B013-130",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B013_pages\\wheel-of-feelings-and-emotions-round-rug-educational-men-design-109.html"
+        ]
+      }
+    }
+  }
+}

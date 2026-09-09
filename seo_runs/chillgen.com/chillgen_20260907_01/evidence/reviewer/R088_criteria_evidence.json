@@ -1,0 +1,935 @@
+{
+  "schema_version": "qa-criteria-evidence-v2",
+  "revision": "R088",
+  "batch_id": "B012",
+  "review_method": "INDEPENDENT_PRODUCT_REVIEW",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+  "source_workbook_sha256": "285c59f01a4823d6336e8e2f07e8c73c745c5e057414843c07b24fef0faa089f",
+  "reviewer": {
+    "reviewer_id": "QA-REVIEWER-R088-CRITERIA-01",
+    "reviewed_at": "2026-09-09T16:36:35+07:00"
+  },
+  "reviewed_at": "2026-09-09T16:36:35+07:00",
+  "products": {
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-109": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teacher-classroom-rug-custom-back-to-school-design-109: proposed title 'Pastel Teacher Classroom Welcome Rug' and description 'Customize a pastel teacher classroom welcome rug with classroom-name text, yellow strip...' keep the same product/theme shown in evidence B012-111.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-111",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-109.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teacher-classroom-rug-custom-back-to-school-design-109: customer copy is limited to visible/product facts such as 'pastel yellow and pink classroom rug with Welcome to teacher-name classroom wording, bows, r...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-111",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-109.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teacher-classroom-rug-custom-back-to-school-design-109: primary keyword 'pastel teacher classroom welcome rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-111",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-109.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teacher-classroom-rug-custom-back-to-school-design-109: proposed copy targets the same search intent as 'pastel teacher classroom welcome rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-111",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-109.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teacher-classroom-rug-custom-back-to-school-design-109: current support is 'SERP_ONLY: public marketplace/category and education-resource pages show demand language aro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-111",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-109.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teacher-classroom-rug-custom-back-to-school-design-109: title 'Pastel Teacher Classroom Welcome Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-111",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-109.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teacher-classroom-rug-custom-back-to-school-design-109: meta title 'Pastel Teacher Classroom Welcome Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-111",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-109.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teacher-classroom-rug-custom-back-to-school-design-109: meta 'Customize a pastel teacher classroom welcome rug with classroom-name text, yellow stripes, bows, rainbow, ABC bl...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-111",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-109.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teacher-classroom-rug-custom-back-to-school-design-109: description begins 'Customize a pastel teacher classroom welcome rug with classroom-name text, yellow stripes, bows, rainbow, ABC bl...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-111",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-109.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teacher-classroom-rug-custom-back-to-school-design-109: workbook row, evidence id B012-111, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-111",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-109.html"
+        ]
+      }
+    },
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-110": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teacher-classroom-rug-custom-back-to-school-design-110: proposed title 'School Icons Teacher Welcome Rug' and description 'Customize a school icons teacher welcome rug with name text, school bus, books, globe,...' keep the same product/theme shown in evidence B012-112.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-112",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-110.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teacher-classroom-rug-custom-back-to-school-design-110: customer copy is limited to visible/product facts such as 'black classroom rug with large white label reading Welcome to teacher-name classroom, surrou...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-112",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-110.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teacher-classroom-rug-custom-back-to-school-design-110: primary keyword 'school icons teacher welcome rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-112",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-110.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teacher-classroom-rug-custom-back-to-school-design-110: proposed copy targets the same search intent as 'school icons teacher welcome rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-112",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-110.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teacher-classroom-rug-custom-back-to-school-design-110: current support is 'SERP_ONLY: public marketplace/category and education-resource pages show demand language aro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-112",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-110.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teacher-classroom-rug-custom-back-to-school-design-110: title 'School Icons Teacher Welcome Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-112",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-110.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teacher-classroom-rug-custom-back-to-school-design-110: meta title 'School Icons Teacher Welcome Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-112",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-110.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teacher-classroom-rug-custom-back-to-school-design-110: meta 'Customize a school icons teacher welcome rug with name text, school bus, books, globe, scissors, ABC blocks, and...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-112",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-110.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teacher-classroom-rug-custom-back-to-school-design-110: description begins 'Customize a school icons teacher welcome rug with name text, school bus, books, globe, scissors, ABC blocks, and...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-112",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-110.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teacher-classroom-rug-custom-back-to-school-design-110: workbook row, evidence id B012-112, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-112",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-110.html"
+        ]
+      }
+    },
+    "personalized-teacher-classroom-rug-custom-back-to-school-design-111": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for personalized-teacher-classroom-rug-custom-back-to-school-design-111: proposed title 'Affirmation Rainbow Classroom Rug' and description 'Customize an affirmation rainbow classroom rug with teacher-name text, apple and books...' keep the same product/theme shown in evidence B012-113.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-113",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-111.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for personalized-teacher-classroom-rug-custom-back-to-school-design-111: customer copy is limited to visible/product facts such as 'black chalkboard-style teacher classroom rug with Welcome to teacher-name classroom wording,...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-113",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-111.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for personalized-teacher-classroom-rug-custom-back-to-school-design-111: primary keyword 'affirmation rainbow classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-113",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-111.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for personalized-teacher-classroom-rug-custom-back-to-school-design-111: proposed copy targets the same search intent as 'affirmation rainbow classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-113",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-111.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for personalized-teacher-classroom-rug-custom-back-to-school-design-111: current support is 'SERP_ONLY: public marketplace/category and education-resource pages show demand language aro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-113",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-111.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for personalized-teacher-classroom-rug-custom-back-to-school-design-111: title 'Affirmation Rainbow Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-113",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-111.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for personalized-teacher-classroom-rug-custom-back-to-school-design-111: meta title 'Affirmation Rainbow Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-113",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-111.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for personalized-teacher-classroom-rug-custom-back-to-school-design-111: meta 'Customize an affirmation rainbow classroom rug with teacher-name text, apple and books artwork, student affirmat...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-113",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-111.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for personalized-teacher-classroom-rug-custom-back-to-school-design-111: description begins 'Customize an affirmation rainbow classroom rug with teacher-name text, apple and books artwork, student affirmat...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-113",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-111.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for personalized-teacher-classroom-rug-custom-back-to-school-design-111: workbook row, evidence id B012-113, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-113",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\personalized-teacher-classroom-rug-custom-back-to-school-design-111.html"
+        ]
+      }
+    },
+    "core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug: proposed title 'Core Vocabulary Communication Rug' and description 'Create a core vocabulary communication rug with a symbol-word grid for everyday classro...' keep the same product/theme shown in evidence B012-114.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-114",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug: customer copy is limited to visible/product facts such as 'rectangular communication rug with a colorful grid of picture-symbol and word cells includin...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-114",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug: primary keyword 'core vocabulary communication rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-114",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug: proposed copy targets the same search intent as 'core vocabulary communication rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-114",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug: current support is 'SERP_ONLY: public marketplace/category and education-resource pages show demand language aro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-114",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug: title 'Core Vocabulary Communication Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-114",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug: meta title 'Core Vocabulary Communication Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-114",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug: meta 'Create a core vocabulary communication rug with a symbol-word grid for everyday classroom requests, feelings, ac...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-114",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug: description begins 'Create a core vocabulary communication rug with a symbol-word grid for everyday classroom requests, feelings, ac...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-114",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug: workbook row, evidence id B012-114, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-114",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-classroom-rug.html"
+        ]
+      }
+    },
+    "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100: proposed title 'AAC Core Board Classroom Rug' and description 'Create an AAC core board classroom rug with colored symbol cells, a number row, classro...' keep the same product/theme shown in evidence B012-115.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-115",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100: customer copy is limited to visible/product facts such as 'large colored AAC-style communication board rug with many symbol cells, category-colored sec...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-115",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100: primary keyword 'AAC core board classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-115",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100: proposed copy targets the same search intent as 'AAC core board classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-115",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100: current support is 'SERP_ONLY: public marketplace/category and education-resource pages show demand language aro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-115",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100: title 'AAC Core Board Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-115",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100: meta title 'AAC Core Board Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-115",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100: meta 'Create an AAC core board classroom rug with colored symbol cells, a number row, classroom words, and everyday re...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-115",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100: description begins 'Create an AAC core board classroom rug with colored symbol cells, a number row, classroom words, and everyday re...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-115",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100: workbook row, evidence id B012-115, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-115",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-100.html"
+        ]
+      }
+    },
+    "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101: proposed title 'SPED Communication Board Rug' and description 'Create a SPED communication board rug with picture-word cells for feelings, needs, play...' keep the same product/theme shown in evidence B012-116.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-116",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101: customer copy is limited to visible/product facts such as 'black-bordered communication board rug with pastel picture-word cells including feelings and...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-116",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101: primary keyword 'SPED communication board rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-116",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101: proposed copy targets the same search intent as 'SPED communication board rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-116",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101: current support is 'SERP_ONLY: public marketplace/category and education-resource pages show demand language aro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-116",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101: title 'SPED Communication Board Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-116",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101: meta title 'SPED Communication Board Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-116",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101: meta 'Create a SPED communication board rug with picture-word cells for feelings, needs, play, bathroom, help, and cla...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-116",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101: description begins 'Create a SPED communication board rug with picture-word cells for feelings, needs, play, bathroom, help, and cla...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-116",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101: workbook row, evidence id B012-116, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-116",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-101.html"
+        ]
+      }
+    },
+    "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102: proposed title 'Core Vocabulary AAC Classroom Rug' and description 'Create a core vocabulary AAC classroom rug with simple icon-word cells for yes, no, emo...' keep the same product/theme shown in evidence B012-117.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-117",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102: customer copy is limited to visible/product facts such as 'light minimal communication rug with icon-word grid for I/me, you, yes, no, big, little, toi...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-117",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102: primary keyword 'core vocabulary AAC classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-117",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102: proposed copy targets the same search intent as 'core vocabulary AAC classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-117",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102: current support is 'SERP_ONLY: public marketplace/category and education-resource pages show demand language aro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-117",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102: title 'Core Vocabulary AAC Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-117",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102: meta title 'Core Vocabulary AAC Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-117",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102: meta 'Create a core vocabulary AAC classroom rug with simple icon-word cells for yes, no, emotions, help, stop, go, qu...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-117",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102: description begins 'Create a core vocabulary AAC classroom rug with simple icon-word cells for yes, no, emotions, help, stop, go, qu...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-117",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102: workbook row, evidence id B012-117, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-117",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-102.html"
+        ]
+      }
+    },
+    "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103: proposed title 'Sign Language Communication Rug' and description 'Create a sign language communication rug with hand-sign panels for yes, no, please, hel...' keep the same product/theme shown in evidence B012-118.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-118",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103: customer copy is limited to visible/product facts such as 'white communication rug with hand-sign illustrations and word panels including yes, no, plea...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-118",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103: primary keyword 'sign language communication rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-118",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103: proposed copy targets the same search intent as 'sign language communication rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-118",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103: current support is 'SERP_ONLY: public marketplace/category and education-resource pages show demand language aro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-118",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103: title 'Sign Language Communication Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-118",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103: meta title 'Sign Language Communication Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-118",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103: meta 'Create a sign language communication rug with hand-sign panels for yes, no, please, help, more, eat, drink, rest...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-118",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103: description begins 'Create a sign language communication rug with hand-sign panels for yes, no, please, help, more, eat, drink, rest...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-118",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103: workbook row, evidence id B012-118, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-118",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-103.html"
+        ]
+      }
+    },
+    "core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104: proposed title 'Something Hurts Communication Rug' and description 'Create a Something Hurts communication rug with a body silhouette, pain words, needs ic...' keep the same product/theme shown in evidence B012-119.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-119",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104: customer copy is limited to visible/product facts such as 'white communication rug with Something Hurts headline, central body silhouette and surroundi...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-119",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104: primary keyword 'something hurts communication rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-119",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104: proposed copy targets the same search intent as 'something hurts communication rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-119",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104: current support is 'SERP_ONLY: public marketplace/category and education-resource pages show demand language aro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-119",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104: title 'Something Hurts Communication Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-119",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104: meta title 'Something Hurts Communication Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-119",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104: meta 'Create a Something Hurts communication rug with a body silhouette, pain words, needs icons, and classroom commun...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-119",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104: description begins 'Create a Something Hurts communication rug with a body silhouette, pain words, needs icons, and classroom commun...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-119",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104: workbook row, evidence id B012-119, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-119",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\core-vocabulary-rug-communication-rugs-for-kids-sped-cla-design-104.html"
+        ]
+      }
+    },
+    "wheel-of-feelings-and-emotions-round-rug-educational-mental-health": {
+      "P1": {
+        "rating": "FULL",
+        "reason": "P1 checks product identity for wheel-of-feelings-and-emotions-round-rug-educational-mental-health: proposed title 'Round Feelings Wheel Classroom Rug' and description 'Create a round feelings wheel classroom rug with How Are You Feeling text, emotion face...' keep the same product/theme shown in evidence B012-120.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-120",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\wheel-of-feelings-and-emotions-round-rug-educational-mental-health.html"
+        ]
+      },
+      "P2": {
+        "rating": "FULL",
+        "reason": "P2 checks claim support for wheel-of-feelings-and-emotions-round-rug-educational-mental-health: customer copy is limited to visible/product facts such as 'round classroom decor rug with How Are You Feeling wording, smiling flower center, colorful...' and does not add unsupported performance guarantees.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-120",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\wheel-of-feelings-and-emotions-round-rug-educational-mental-health.html"
+        ]
+      },
+      "K1": {
+        "rating": "FULL",
+        "reason": "K1 checks primary keyword placement for wheel-of-feelings-and-emotions-round-rug-educational-mental-health: primary keyword 'round feelings wheel classroom rug' is reflected in the proposed title/meta without replacing the product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-120",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\wheel-of-feelings-and-emotions-round-rug-educational-mental-health.html"
+        ]
+      },
+      "K2": {
+        "rating": "FULL",
+        "reason": "K2 checks keyword-to-intent fit for wheel-of-feelings-and-emotions-round-rug-educational-mental-health: proposed copy targets the same search intent as 'round feelings wheel classroom rug' while preserving variant-specific wording.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-120",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\wheel-of-feelings-and-emotions-round-rug-educational-mental-health.html"
+        ]
+      },
+      "K3": {
+        "rating": "PARTIAL",
+        "reason": "K3 checks keyword demand evidence for wheel-of-feelings-and-emotions-round-rug-educational-mental-health: current support is 'SERP_ONLY: public marketplace/category and education-resource pages show demand language aro...', so demand is traceable but not volume-verified.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-120",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\wheel-of-feelings-and-emotions-round-rug-educational-mental-health.html"
+        ]
+      },
+      "T1": {
+        "rating": "FULL",
+        "reason": "T1 checks title quality for wheel-of-feelings-and-emotions-round-rug-educational-mental-health: title 'Round Feelings Wheel Classroom Rug' is readable, customer-facing, and differentiated from sibling products in the revision scope.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-120",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\wheel-of-feelings-and-emotions-round-rug-educational-mental-health.html"
+        ]
+      },
+      "T2": {
+        "rating": "FULL",
+        "reason": "T2 checks meta title alignment for wheel-of-feelings-and-emotions-round-rug-educational-mental-health: meta title 'Round Feelings Wheel Classroom Rug' stays aligned with the primary keyword and product identity.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-120",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\wheel-of-feelings-and-emotions-round-rug-educational-mental-health.html"
+        ]
+      },
+      "D1": {
+        "rating": "FULL",
+        "reason": "D1 checks meta description for wheel-of-feelings-and-emotions-round-rug-educational-mental-health: meta 'Create a round feelings wheel classroom rug with How Are You Feeling text, emotion faces, flower-center artwork,...' summarizes the product clearly without internal QA notes or broken phrasing.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-120",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\wheel-of-feelings-and-emotions-round-rug-educational-mental-health.html"
+        ]
+      },
+      "D2": {
+        "rating": "FULL",
+        "reason": "D2 checks product description for wheel-of-feelings-and-emotions-round-rug-educational-mental-health: description begins 'Create a round feelings wheel classroom rug with How Are You Feeling text, emotion faces, flower-center artwork,...' and is suitable for customers rather than reviewer/evidence workflow.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-120",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\wheel-of-feelings-and-emotions-round-rug-educational-mental-health.html"
+        ]
+      },
+      "E1": {
+        "rating": "FULL",
+        "reason": "E1 checks evidence traceability for wheel-of-feelings-and-emotions-round-rug-educational-mental-health: workbook row, evidence id B012-120, and snapshot refs are available for independent re-check.",
+        "evidence_refs": [
+          "workbook:resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R088\\SEO_Product_Optimization_revision_R088.xlsx",
+          "product_evidence:B012-120",
+          "live_snapshot:D:\\CODE\\Code_Clone\\SEO_TASK_CHILLGEN\\SEO_Chillgen\\seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\products\\B012_pages\\wheel-of-feelings-and-emotions-round-rug-educational-mental-health.html"
+        ]
+      }
+    }
+  }
+}

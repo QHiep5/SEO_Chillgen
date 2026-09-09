@@ -1,0 +1,47 @@
+{
+  "rubric_version": "prompt_qa.md v1.0",
+  "rubric_hash": "c2c1defdb72362291f7da656fa7fea9283a02782fc8ca66d2e4637f2511500dd",
+  "qa_run_id": "QA-20260909-B033-R109-GOVERNANCE",
+  "qa_batch_id": "REV_R109",
+  "batch_id": "B033",
+  "revision_id": "R109",
+  "parent_run_id": "",
+  "source_workbook": "resutls\\chillgen.com\\chillgen_20260907_01\\revisions\\R109\\SEO_Product_Optimization_revision_R109.xlsx",
+  "source_workbook_sha256": "502791c8141327ec0627ba4165218ab906b0b7f761c792a4f531e81f79ad95de",
+  "scope_hash": "044cc04294f41fb75332966e44cf948ca4ef1ea5459ab0c465199f91b0a6c3f8",
+  "batch_product_keys": [
+    "personalized-soccer-area-rug-trophy-football-868088cbf4-868088cbf4",
+    "custom-soccer-tournament-trophy-area-rug-8d23acd520-8d23acd520",
+    "personalized-soccer-2026-area-rug-95231047da-95231047da",
+    "custom-soccer-round-rug-trophy-championship-043ff71141",
+    "custom-soccer-tournament-round-rug-a7f6df2bd9-a7f6df2bd9",
+    "personalized-dog-welcome-mat-front-door-36fdce22f9",
+    "personalized-dog-welcome-mat-custom-pet-photo-7a71ecf37d",
+    "personalized-dog-welcome-mat-entryway-front-door-5385d11bb7",
+    "personalized-dog-welcome-doormat-front-door-entryway-d819eb0e7c",
+    "personalized-dog-welcome-doormat-front-door-entryway-e2ef212662-e2ef212662"
+  ],
+  "status_counts": {
+    "QA_PASS": 9,
+    "QA_REVISE": 1,
+    "QA_FAIL": 0,
+    "QA_INCOMPLETE": 0
+  },
+  "issue_counts": {
+    "CRITICAL": 0,
+    "MAJOR": 1,
+    "MINOR": 0,
+    "LIMITATION": 20
+  },
+  "batch_status": "QA_REVISE",
+  "content_qa_status": "QA_REVISE",
+  "evidence_maturity": "SERP_ONLY",
+  "canonical": true,
+  "supersedes": [
+    "QA-20260907-AGENT-B033"
+  ],
+  "manual_image_evidence": "seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\reviewer\\B033_R109_independent_fullres.json",
+  "manual_criteria_evidence": "seo_runs\\chillgen.com\\chillgen_20260907_01\\evidence\\reviewer\\R109_criteria_evidence.json",
+  "approval_status": "NOT_APPROVED_NOT_DEPLOYED",
+  "created_at": "2026-09-09T18:36:48+07:00"
+}
