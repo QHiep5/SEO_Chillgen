@@ -249,6 +249,7 @@ def main():
             images[val(r, "Handle")].append(r)
     if len(products) != len(keys):
         raise RuntimeError(f"Revision scope mismatch: log={len(keys)}, products={len(products)}")
+    log_revision = {val(r, "handle"): val(r, "revision") for r in revlog if val(r, "revision_batch_id") == revision}
     manual_images, page_evidence = load_evidence_bundle(args.manual_image_evidence)
     manual_criteria, invalid_criteria_handles = validate_criteria_document(args.manual_criteria_evidence, keys)
 
@@ -289,6 +290,23 @@ def main():
         copy_quality_hits = content_quality_findings(blob)
         if copy_quality_hits:
             issue("MAJOR", "proposed_fields", ", ".join(copy_quality_hits), "Malformed or grammatically broken customer-facing copy was detected.", "Rewrite the affected title/meta/description as a complete natural sentence, then rerun content lint.")
+        # Semantic identity gate: proposed copy must remain aligned with the
+        # product handle/live identity; never accept a generic fallback theme.
+        identity_terms = []
+        if "boat" in handle: identity_terms=["boat","nautical","welcome"]
+        elif "football" in handle: identity_terms=["football","sport"]
+        elif "koi" in handle: identity_terms=["koi","fish"]
+        elif "dragon" in handle: identity_terms=["dragon"]
+        elif "dog-paw" in handle or "dog-photo" in handle or "pet-dog" in handle: identity_terms=["dog","paw","pet"]
+        elif "halloween" in handle or "witch" in handle or "ghost" in handle: identity_terms=["halloween","ghost","witch"]
+        if identity_terms and not any(t in blob for t in identity_terms):
+            issue("MAJOR", "identity", "missing expected identity terms", "Proposed copy does not semantically match the handle and source product identity.", "Rewrite copy using the verified product identity and keyword.")
+        forbidden_identity = (["ghost","halloween","football","sport"] if "boat" in handle else ["ghost","halloween"] if "football" in handle else [])
+        bad_forbidden=[t for t in forbidden_identity if t in blob]
+        if bad_forbidden:
+            issue("MAJOR", "identity", ", ".join(bad_forbidden), "Proposed copy contains a conflicting product identity.", "Remove conflicting theme terms and restore the verified product identity.")
+        if val(p, "revision") != log_revision.get(handle, ""):
+            issue("MAJOR", "revision", f"product={val(p,'revision')}; log={log_revision.get(handle,'')}", "SEO_Products revision does not match Revision_Log provenance.", "Align both revision fields before QA.")
         duplicate_hits = [field for field in duplicate_fields
                           if any(handle in hs for hs in duplicate_handles[field].values())]
         if duplicate_hits:
@@ -331,6 +349,8 @@ def main():
                 rating, reason = "FAIL", f"Malformed customer-facing copy detected: {', '.join(copy_quality_hits)}."
             if duplicate_hits and cid in {"T1", "T2", "D1", "D2"}:
                 rating, reason = "FAIL", f"Duplicate customer-facing copy detected in scope fields: {', '.join(duplicate_hits)}."
+            if (identity_terms and not any(t in blob for t in identity_terms)) or bad_forbidden or val(p, "revision") != log_revision.get(handle, ""):
+                rating, reason = "FAIL", "Identity or revision consistency gate failed for this product."
             add(cid, rating, reason, eref)
 
         for img in sorted(images[handle], key=lambda x: int(val(x, "image_number") or 0)):
