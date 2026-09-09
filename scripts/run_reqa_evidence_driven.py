@@ -230,6 +230,18 @@ def main():
     if not keys:
         raise RuntimeError(f"No Revision_Log scope found for {revision}")
     products = {val(r, "Handle"): r for r in rows(wb["SEO_Products"]) if val(r, "Handle") in keys}
+    # Cross-product uniqueness gate: customer-facing SEO fields must be
+    # differentiated within the locked scope. This runs before scoring.
+    duplicate_fields = ("title_proposed", "meta_title_seo",
+                        "meta_description_seo", "description_proposed")
+    duplicate_handles = {f: {} for f in duplicate_fields}
+    for field in duplicate_fields:
+        groups = {}
+        for h, row in products.items():
+            text = val(row, field).strip().casefold()
+            if text:
+                groups.setdefault(text, []).append(h)
+        duplicate_handles[field] = {text: hs for text, hs in groups.items() if len(hs) > 1}
     evidence = {val(r, "evidence_id"): r for r in rows(wb["Product_Evidence"])}
     images = {k: [] for k in keys}
     for r in rows(wb["Image_Audit"]):
@@ -277,6 +289,12 @@ def main():
         copy_quality_hits = content_quality_findings(blob)
         if copy_quality_hits:
             issue("MAJOR", "proposed_fields", ", ".join(copy_quality_hits), "Malformed or grammatically broken customer-facing copy was detected.", "Rewrite the affected title/meta/description as a complete natural sentence, then rerun content lint.")
+        duplicate_hits = [field for field in duplicate_fields
+                          if any(handle in hs for hs in duplicate_handles[field].values())]
+        if duplicate_hits:
+            issue("MAJOR", "uniqueness", ", ".join(duplicate_hits),
+                  "Customer-facing SEO copy is duplicated within the locked scope; differentiation is required.",
+                  "Rewrite the duplicated fields so each product variant has distinct, accurate customer-facing copy.")
         unsupported = [term for term in ["outdoor", "waterproof", "machine washable", "non-slip", "anti-slip"] if term in blob and term not in (val(ev, "verified_product_facts") + " " + val(ev, "short_source_excerpt")).lower()]
         if unsupported:
             issue("MAJOR", "proposed_fields", ", ".join(unsupported), "Potential product claim is not supported by the linked evidence record.", "Remove or verify each claim against the source/export before approval.")
@@ -311,6 +329,8 @@ def main():
                 rating, reason = "FAIL", "Internal QA/process language is customer-visible copy."
             if cid in {"D1", "D2"} and copy_quality_hits:
                 rating, reason = "FAIL", f"Malformed customer-facing copy detected: {', '.join(copy_quality_hits)}."
+            if duplicate_hits and cid in {"T1", "T2", "D1", "D2"}:
+                rating, reason = "FAIL", f"Duplicate customer-facing copy detected in scope fields: {', '.join(duplicate_hits)}."
             add(cid, rating, reason, eref)
 
         for img in sorted(images[handle], key=lambda x: int(val(x, "image_number") or 0)):
