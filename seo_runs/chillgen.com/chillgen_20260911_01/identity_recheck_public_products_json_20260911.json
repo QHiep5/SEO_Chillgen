@@ -1,0 +1,33 @@
+{
+  "run_id": "chillgen_20260911_01",
+  "shop_domain": "chillgen.com",
+  "checked_at": "2026-09-11T07:05:58Z",
+  "source": "https://chillgen.com/products.json?limit=250&page=N",
+  "public_pages": [
+    {
+      "url": "https://chillgen.com/products.json?limit=250&page=1",
+      "product_count": 250
+    },
+    {
+      "url": "https://chillgen.com/products.json?limit=250&page=2",
+      "product_count": 250
+    },
+    {
+      "url": "https://chillgen.com/products.json?limit=250&page=3",
+      "product_count": 172
+    }
+  ],
+  "public_products_total": 672,
+  "public_unique_handles": 672,
+  "inventory_products": 103,
+  "inventory_unique_handles": 103,
+  "matched_products": 103,
+  "missing_products": 0,
+  "missing_handles": [],
+  "count_mismatches": [],
+  "identity_status_after_rebind": "VERIFIED for public JSON handle matches",
+  "limitations": [
+    "IDs are bound from storefront public products.json after activation, not from an ID-bearing Shopify Admin export.",
+    "Research/SEO QA still NOT_STARTED for this run; this only fixes product identity/public reference."
+  ]
+}

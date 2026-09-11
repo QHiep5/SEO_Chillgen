@@ -1,0 +1,88 @@
+{
+  "schema_version": "1.0",
+  "prompt_version": "2.4",
+  "run_id": "chillgen_20260911_01",
+  "shop_domain": "chillgen.com",
+  "created_at": "2026-09-11T06:18:55Z",
+  "current_stage": "ALL_RESEARCH_BATCHES_B001_B011_COMPLETE_AWAITING_HARDENED_QA",
+  "authorized_phases": [
+    "SETUP",
+    "INVENTORY",
+    "BATCH_SCOPE_CREATION"
+  ],
+  "required_stop_after": "BATCH_SCOPE_CREATION",
+  "inventory_scope": "103_ADMIN_DRAFT_PRODUCTS_FROM_USER_PROVIDED_EXPORTS",
+  "inventory_frozen": true,
+  "research_batch_size": 10,
+  "product_count": 103,
+  "image_count": 647,
+  "batch_count": 11,
+  "sources": [
+    {
+      "source_id": "SRC01",
+      "supplied_order": 1,
+      "original_path": "/Users/buiquanghuy/Desktop/products_export (1).zip",
+      "stored_source": "seo_runs/chillgen.com/chillgen_20260911_01/inputs/shopify/original/SRC01_products_export (1).zip",
+      "extracted_csv": "seo_runs/chillgen.com/chillgen_20260911_01/inputs/shopify/original/SRC01_products_export_extracted.csv",
+      "source_sha256": "b861e4b348db1d6d7eafaf5afca0aeec3326c0b6e4c70656e32ca8e3cd904db1",
+      "csv_sha256": "5e867407de33ca2e7052b1d4b10a839bb4e7ce00c1ca84533dd0330e0772edae",
+      "record_count": 313,
+      "product_count": 50,
+      "image_count": 311
+    },
+    {
+      "source_id": "SRC02",
+      "supplied_order": 2,
+      "original_path": "/Users/buiquanghuy/Desktop/products_export.zip",
+      "stored_source": "seo_runs/chillgen.com/chillgen_20260911_01/inputs/shopify/original/SRC02_products_export.zip",
+      "extracted_csv": "seo_runs/chillgen.com/chillgen_20260911_01/inputs/shopify/original/SRC02_products_export_extracted.csv",
+      "source_sha256": "d1c8cb2ed721e968a104f1f03da8421e2259abbb31f1dc6eca50d8e0adb31126",
+      "csv_sha256": "d2dab62cc7136cbad085873c0fdda7e3e84064b9ac929660a4dbda72976e4af1",
+      "record_count": 318,
+      "product_count": 50,
+      "image_count": 318
+    },
+    {
+      "source_id": "SRC03",
+      "supplied_order": 3,
+      "original_path": "/Users/buiquanghuy/Desktop/products_export.csv",
+      "stored_source": "seo_runs/chillgen.com/chillgen_20260911_01/inputs/shopify/original/SRC03_products_export.csv",
+      "extracted_csv": "seo_runs/chillgen.com/chillgen_20260911_01/inputs/shopify/original/SRC03_products_export_extracted.csv",
+      "source_sha256": "179dc962b20fce3579ee9d77c3e1cf02c89dcb36a7c43f199ee593194057c55b",
+      "csv_sha256": "179dc962b20fce3579ee9d77c3e1cf02c89dcb36a7c43f199ee593194057c55b",
+      "record_count": 18,
+      "product_count": 3,
+      "image_count": 18
+    }
+  ],
+  "combined_source_ref": "seo_runs/chillgen.com/chillgen_20260911_01/inputs/shopify/products_export_combined_immutable.csv",
+  "combined_source_sha256": "cac93824aadebbfdc3b708a12f8e14adf6cb4004595b8cf5da5f3ed3a426261b",
+  "inventory_ref": "seo_runs/chillgen.com/chillgen_20260911_01/inventory.csv",
+  "prompt_hashes": {
+    "seo-prompt/chillgen/prompt.md": "254c5ab3b2930be0f00bd64a61ecbf9be0ed2441ef90ce62001f1dbf3d96b713",
+    "seo-prompt/chillgen/prompt_qa.md": "caeacb83a45638bcffc03ce1d2daf1fc9e915f417ada6b66eb706284283ea96c",
+    "seo-prompt/chillgen/huongdansudung.md": "eeb8f24d284ffa91945f45fa2902ceba092105f20cc005e0d5a78faea7656420"
+  },
+  "repository_commit": "5d7ea26221020342d9ac5d88ff1d16370392bef8",
+  "preexisting_worktree_status": [
+    "?? SEO_Keyword_and_Page_Summary_SIMPLE_20260910.xlsx",
+    "?? backups/",
+    "?? seo_runs/chillgen.com/chillgen_20260911_01/"
+  ],
+  "identity_limitation": "Product IDs/GIDs bound from chillgen.com public products.json after user activated products; Admin export still did not provide ID-bearing evidence.",
+  "public_access_limitation": "Resolved: 103/103 products are public in products.json as of identity recheck.",
+  "research_status": "COMPLETE_ALL_103_PRODUCTS",
+  "qa_status": "NOT_RUN_FOR_RESEARCH_REVISIONS",
+  "approval_status": "NOT_APPROVED",
+  "deployment_payload_status": "NOT_CREATED",
+  "shopify_mutation_performed": false,
+  "last_identity_recheck_at": "2026-09-11T07:05:58Z",
+  "identity_recheck_status": "PUBLIC_JSON_MATCHED_103_OF_103",
+  "identity_mapping_ref": "seo_runs/chillgen.com/chillgen_20260911_01/identity_mapping_public_products_json_20260911.csv",
+  "last_saved_at": "2026-09-11T11:28:59Z",
+  "last_completed_batch": "B011",
+  "latest_workbook_ref": "resutls/chillgen.com/chillgen_20260911_01/batches/SEO_Product_Optimization_through_B011.xlsx",
+  "latest_progress_ref": "seo_runs/chillgen.com/chillgen_20260911_01/progress.json",
+  "review_status": "NEEDS_REVIEW",
+  "final_research_workbook_ref": "resutls/chillgen.com/chillgen_20260911_01/batches/SEO_Product_Optimization_through_B011.xlsx"
+}
